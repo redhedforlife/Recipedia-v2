@@ -1,0 +1,5426 @@
+{
+  "docs": [
+    {
+      "score": [
+        "8688.217"
+      ],
+      "refCount": [
+        "260"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Soviet–Afghan_War"
+      ],
+      "redirectlabel": [
+        "1979 Soviet invasion of <B>Afghanistan</B>",
+        "1979 invasion of <B>Afghanistan</B>",
+        "1980s Soviet invasion of <B>Afghanistan</B>",
+        "<B>Afghan</B>-Soviet War",
+        "<B>Afghan</B>-Soviet war",
+        "<B>Afghan</B> Soviet War",
+        "<B>Afghan</B> resistance groups",
+        "<B>Afghani</B>-Soviet War",
+        "<B>Afghanistan's</B> Russian occupation",
+        "<B>Afghanistan's</B> Soviet invaders",
+        "<B>Afghanistan's</B> Soviet occupation",
+        "<B>Afghanistan's</B> Soviet occupiers",
+        "<B>Afghanistan</B> War (1978-1992)",
+        "<B>Afghanistan</B> War (1978-92)",
+        "Foreign involvement in the Soviet-<B>Afghan</B> War",
+        "Foreign involvement in the Soviet–<B>Afghan</B> War",
+        "Opposition to the Soviet occupation of <B>Afghanistan</B>",
+        "Russian invasion of <B>Afghanistan</B>",
+        "Russian invasion of <B>afghanistan</B>",
+        "Russian invasion to <B>Afghanistan</B>",
+        "Russian occupation of <B>Afghanistan</B>",
+        "Russian war in <B>Afghanistan</B>",
+        "Russian war in <B>afghanistan</B>",
+        "Russo-<B>Afghan</B> War",
+        "Soveit invasion of <B>Afghanistan</B>",
+        "Soviet-<B>Afghan</B> War",
+        "Soviet-<B>Afghan</B> war",
+        "Soviet-<B>Afghanistan</B> War",
+        "Soviet-<B>afghani</B> war",
+        "Soviet <B>Afghan</B> war",
+        "Soviet <B>Afghanistan</B> war",
+        "Soviet Attack on <B>Afghanistan</B>",
+        "Soviet Forces in <B>Afghan</B> Civil War",
+        "Soviet Invasion of Afganistan",
+        "Soviet Invasion of <B>Afghanistan</B>",
+        "Soviet Occupation of <B>Afghanistan</B>",
+        "Soviet Union Attack on <B>Afghanistan</B>",
+        "Soviet Union Invasion of <B>Afghanistan</B>",
+        "Soviet Union invades <B>Afghanistan</B>",
+        "Soviet Union invasion of <B>Afghanistan</B>",
+        "Soviet War in <B>Afghanistan</B>",
+        "Soviet <B>afghan</B> war",
+        "Soviet intervention in <B>Afghanistan</B>",
+        "Soviet invasion in <B>Afghanistan</B>",
+        "Soviet invasion of Afganhistan",
+        "Soviet invasion of Afganistan",
+        "Soviet invasion of <B>Afghanistan</B>",
+        "Soviet invasion of <B>afghanistan</B>",
+        "Soviet invasion to <B>Afghanistan</B>",
+        "Soviet occoupation of <B>Afghanistan</B>",
+        "Soviet occupation of <B>Afghanistan</B>",
+        "Soviet war in Afganistan",
+        "Soviet war in <B>Afghanistan</B>",
+        "Soviet war in <B>Afghanistan</B> (1979-1989)",
+        "Soviet war in <B>Afghanistan</B> (1979–1989)",
+        "Soviet war in <B>afghanistan</B>",
+        "Soviet–<B>Afghanistan</B> War",
+        "Soviet—<B>Afghan</B> War",
+        "Struggle against <B>Afghanistan's</B> Soviet invaders",
+        "The Soviet Invasion of Afganistan",
+        "The Soviet Invasion of <B>Afghanistan</B>",
+        "The Soviet Union's Invasion of <B>Afghanistan</B>",
+        "U.S. involvement in the Soviet-<B>Afghan</B> War",
+        "United States involvement in the Soviet-<B>Afghan</B> War",
+        "War crimes in the Soviet-<B>Afghan</B> War",
+        "War crimes in the Soviet–<B>Afghan</B> War",
+        "War in <B>Afghanistan</B> (1979-1989)",
+        "War in <B>Afghanistan</B> (1979–1989)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Soviet–<B>Afghan</B> War was a conflict wherein insurgent groups known collectively as the mujahideen"
+      ],
+      "label": [
+        "Soviet–<B>Afghan</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Soviet–Afghan_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1979_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:1980s_conflicts",
+        "http://dbpedia.org/resource/Category:1980s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1980s_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Afghanistan–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_military_history_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Communism_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1979",
+        "http://dbpedia.org/resource/Category:Guerrilla_warfare",
+        "http://dbpedia.org/resource/Category:History_of_Islam_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Invasions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Islamism_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Soviet_military_occupations",
+        "http://dbpedia.org/resource/Category:Soviet–Afghan_War",
+        "http://dbpedia.org/resource/Category:Terrorism_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Pakistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "7441.8384"
+      ],
+      "refCount": [
+        "143"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Anglo-Afghan_War"
+      ],
+      "redirectlabel": [
+        "2nd <B>Afghan</B> War",
+        "2nd Anglo-<B>Afghan</B> War",
+        "<B>Afghanistan</B> 1878-80",
+        "<B>Afghanistan</B> 1878–80",
+        "<B>Afghanistan</B> 1879-80",
+        "<B>Afghanistan</B> 1879–80",
+        "Battles of the Second Anglo-<B>Afghan</B> War",
+        "Futtehabad",
+        "Roberts's War",
+        "Second <B>Afghan</B> War",
+        "Second <B>Afghan</B> war",
+        "Second Anglo-<B>Afghan</B> war",
+        "Second Anglo–<B>Afghan</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Second Anglo-<B>Afghan</B> War (Pashto: د افغان-انګرېز دويمه جګړه‎) was a military conflict fought"
+      ],
+      "label": [
+        "Second Anglo-<B>Afghan</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Anglo-Afghan_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1870s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1870s_in_British_India",
+        "http://dbpedia.org/resource/Category:1878_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1879_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1880_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1880s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1880s_in_British_India",
+        "http://dbpedia.org/resource/Category:19th-century_military_history_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Anglo-Afghan_Wars",
+        "http://dbpedia.org/resource/Category:Battle_honours_of_the_King's_Royal_Rifle_Corps",
+        "http://dbpedia.org/resource/Category:Battles_involving_British_India",
+        "http://dbpedia.org/resource/Category:Emirate_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Invasions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_history_of_Khyber_Pakhtunkhwa",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Second_Anglo-Afghan_War",
+        "http://dbpedia.org/resource/Category:The_Great_Game",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "6248.9775"
+      ],
+      "refCount": [
+        "3246"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghanistan"
+      ],
+      "redirectlabel": [
+        "A-Stan",
+        "<B>AFGHANISTAN</B>",
+        "Affghanistan",
+        "Afgahanistan",
+        "Afganhistan",
+        "Afganistan",
+        "<B>Afghan</B>.",
+        "<B>Afghan</B> state",
+        "<B>Afghanastan</B>",
+        "<B>Afghanestan</B>",
+        "<B>Afghanista</B>",
+        "<B>AfghanistaN</B>",
+        "<B>Afghanistan</B>, I.S. of",
+        "<B>Afghanistan</B>, Rep. of.",
+        "<B>Afghanistan</B>-Central Asia",
+        "<B>Afghanistan</B>/Article from the 1911 Encyclopedia",
+        "<B>Afghanistan</B> (1911 Encyclopedia)",
+        "<B>Afghanistani</B>",
+        "<B>Afghanistna</B>",
+        "<B>Afghansitan</B>",
+        "<B>Afghanstan</B>",
+        "Afghinastan",
+        "Afghnistan",
+        "Afghānistān",
+        "Afgjanistan",
+        "Afhghanistan",
+        "Afğānistān",
+        "Afġānistān",
+        "Aghanistan",
+        "Avghanistan",
+        "Avghanistaun",
+        "Biodiversity of <B>Afghanistan</B>",
+        "Da <B>Afghanistan</B> Islami Dawlat Dawlat-e Eslami-e <B>Afghanestan</B>",
+        "Da Afġānistān Islāmī Jomhoriyat",
+        "Da Afġānistān Islāmī Jumhoryat",
+        "Dowlat-e Eslami-ye <B>Afghanestan</B>",
+        "Etymology of <B>Afghanistan</B>",
+        "I.R.O.A.",
+        "ISO 3166-1:AF",
+        "Infrastructure in <B>Afghanistan</B>",
+        "Islamic Emirate of <B>Afghanistan</B>",
+        "Islamic Emirate of <B>Afghanistan</B> (2021)",
+        "Islamic Emirate of <B>Afghanistan</B> (2021-present)",
+        "Islamic Emirate of <B>Afghanistan</B> (2021–present)",
+        "Islamic Emirates of <B>Afghanistan</B>",
+        "Islamic Transitional Government of <B>Afghanistan</B>",
+        "Jomhūrī-ye Eslāmī-ye Afġānestān",
+        "Jomhūrīyyeh Eslāmīyyeh Afġānestān",
+        "New <B>Afghanistan</B>",
+        "Politics in <B>Afghanistan</B>",
+        "Second Islamic Emirate of <B>Afghanistan</B>",
+        "State of <B>Afghanistan</B>",
+        "افغانستان",
+        "د افغانستان اسلامي دولت دولت اسلامی افغانستان"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Afghanistan</B> ( (); Pashto/Dari: افغانستان, Pashto: Afġānistān [avɣɒnisˈtɒn, ab-], Dari: Afġānestān"
+      ],
+      "label": [
+        "<B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghanistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1709_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Afghanistan",
+        "http://dbpedia.org/resource/Category:Central_Asian_countries",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Emirates",
+        "http://dbpedia.org/resource/Category:Iranian_Plateau",
+        "http://dbpedia.org/resource/Category:Iranian_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Islamic_states",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Least_developed_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_South_Asian_Association_for_Regional_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Pashto-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Persian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:South_Asian_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1709",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1747",
+        "http://dbpedia.org/resource/Category:Theocracies",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "5386.804"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan"
+      ],
+      "redirectlabel": [
+        "<B>Afgan</B>",
+        "<B>Afgan</B> (disambiguation)",
+        "Afganistani",
+        "<B>Afgans</B>",
+        "<B>Afghan</B> (disambiguation)",
+        "<B>Afghanese</B>"
+      ],
+      "comment": [
+        "<B>Afghan</B> (Pashto/Persian: افغان‎; see: etymology) refers to someone or something from <B>Afghanistan</B>, in"
+      ],
+      "label": [
+        "<B>Afghan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "5322.367"
+      ],
+      "refCount": [
+        "472"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Afghan_detainees_at_Guantanamo_Bay"
+      ],
+      "redirectlabel": [
+        "(FNU), Abdulla",
+        "ABASIN, SAID",
+        "ABDULLAH HEKMAT",
+        "ABDULLAH KHAN",
+        "ABDULLAH WAZIR",
+        "ABDUL 12 RAHMAN",
+        "ABDUL 2 GHANI",
+        "ABDUL AHMAD",
+        "ABDUL ZAHOR",
+        "AKHTAR MOHAMMED",
+        "ALIF MOHAMMED",
+        "AMINULLAH BARYALAI TUKHI",
+        "ANWAR KHAN",
+        "Abd Al Rahman 4 LNU",
+        "Abd Al Rahman Abdullah Al Halmandy",
+        "Abdul 2 Ghani",
+        "Abdul Ahmad",
+        "Abdul Ahmed",
+        "Abdul Ghaffar (Guantanamo captive 1032)",
+        "Abdul Ghaffar (Guantanamo detainee 1032)",
+        "Abdul Ghaffar (Guantánamo detainee 1032)",
+        "Abdul Ghafour (Guantanamo captive 954)",
+        "Abdul Ghafour (Guantanamo detainee)",
+        "Abdul Ghafour (Guantanamo detainee 954)",
+        "Abdul Ghafour (Guantánamo detainee 954)",
+        "Abdul Ghani (Guantanamo captive 943)",
+        "Abdul Ghani (Guantanamo detainee)",
+        "Abdul Ghani (Guantanamo detainee 943)",
+        "Abdul Ghani (Guantánamo detainee 943)",
+        "Abdul Ghani (ISN 943)",
+        "Abdul Ghani 2",
+        "Abdul Hafiz (Guantanamo detainee 1030)",
+        "Abdul Karim (Guantanamo captive 520)",
+        "Abdul Karim (Guantanamo detainee)",
+        "Abdul Karim (Guantanamo detainee 520)",
+        "Abdul Karim LNU",
+        "Abdul Latif Al-Turki",
+        "Abdul Latif Al Turki",
+        "Abdul Latif al Turki",
+        "Abdul Matin (Guantanamo captive)",
+        "Abdul Matin (Guantanamo captive 1002)",
+        "Abdul Matin (detainee)",
+        "Abdul Nasir (Guantanamo captive 874)",
+        "Abdul Nasir (Guantanamo detainee 874)",
+        "Abdul Nasir (Guantánamo detainee 874)",
+        "Abdul Qudus (detainee)",
+        "Abdul Rahim (Guantanamo captive 549)",
+        "Abdul Rahim (Guantanamo captive 897)",
+        "Abdul Rahim (Guantanamo detainee 897)",
+        "Abdul Rahim (Guantánamo detainee 549)",
+        "Abdul Rahman (Guantanamo captive 357)",
+        "Abdul Rahman (Guantanamo detainee 357)",
+        "Abdul Rahman (terror suspect 4)",
+        "Abdul Rahman Abdullah Mohamed Juma Kahm",
+        "Abdul Rahman Juma Kahm",
+        "Abdul Razak (Guantanamo captive 1043)",
+        "Abdul Razak (Guantanamo detainee 1043)",
+        "Abdul Razak (Guantánamo detainee 1043)",
+        "Abdul Razak Ali",
+        "Abdul Razak Iktiar Mohammed",
+        "Abdul Razzaq (Guantanamo captive 923)",
+        "Abdul Razzaq (Guantanamo detainee 923)",
+        "Abdul Razzaq (Guantánamo detainee 923)",
+        "Abdul Razzaq (terror suspect)",
+        "Abdul Samad (detainee)",
+        "Abdul Zahor",
+        "Abdul Zuhoor",
+        "Abdullah Hekmat",
+        "Abdullah Husseini",
+        "Abdullah M. Kahn",
+        "Abdullah Mohammad Khan",
+        "Abdullah Mohammed Khan",
+        "Abdullah Wazir",
+        "Abdullah Wazir Zadran",
+        "Abdur Rahim (Guantanamo captive 897)",
+        "<B>Afghan</B> captive in Guantanamo",
+        "<B>Afghan</B> captives in Guantanamo",
+        "<B>Afghan</B> captives in guantanamo",
+        "<B>Afghan</B> detainees at Guantanamo Bay",
+        "<B>Afghan</B> detainees in Guantanamo",
+        "<B>Afghanistan</B> captives held in Guantanamo",
+        "<B>Afghanistani</B> captives in Guantanamo",
+        "Ahmad Al-Abid",
+        "Ahmid Al Razak",
+        "Ahsanullah Pirzai",
+        "Akhtar Mohammed",
+        "Akhtar Mohammed (Guantanamo captive 845)",
+        "Akhtar Mohammed (Guantanamo detainee 845)",
+        "Akhtar Mohammed (Guantánamo detainee 845)",
+        "Alef Muhammad",
+        "Ali Shah Mousavi",
+        "Ali Shah Mousouvi",
+        "Ali Shah Mousovi",
+        "Alif Mohammad",
+        "Alif Mohammed",
+        "Alif Muhammad",
+        "Amer Mohammon",
+        "Aminullah (Guantanamo captive 848)",
+        "Aminullah (Guantanamo detainee 848)",
+        "Aminullah Baryalai Tukhi",
+        "Anwar Khan (Guantanamo captive 948)",
+        "Anwar Khan (Guantanamo detainee 948)",
+        "Asad Ullah (Guantanamo captive 912)",
+        "Asad Ullah (Guantanamo detainee 912)",
+        "Asad Ullah (child detainee)",
+        "Asadullah Abdul Rahman",
+        "Asadullah Rahman",
+        "BARIDAD",
+        "BOSTAN KARIM",
+        "Baidullah Bertola Obaidullah",
+        "Barak (Guantanamo captive 856)",
+        "Baridad",
+        "Bismillah (Guantanamo ID 658)",
+        "Bismillah (Guantanamo captive 639)",
+        "Bismillah (Guantanamo captive 658)",
+        "Bismillah (Guantanamo detainee)",
+        "Bismillah (Guantanamo detainee 658)",
+        "Bismillah (Guantánamo detainee 658)",
+        "Bostan Qadeem",
+        "Chaman Gul Khialigol",
+        "Chaman Nazargul",
+        "Commander Chaman",
+        "Dawd Gul",
+        "Ehsan Ullah",
+        "Esmhatulla",
+        "FEDA AHMED",
+        "FNU HAFIZULLAH",
+        "FNU HAMMDIDULLAH",
+        "Fazil Rahman",
+        "Fazil Rahman (Guantanamo captive 496)",
+        "Feda Ahmed",
+        "Fizaulla Rahman",
+        "GUL CHAMAN",
+        "Ghalib (Guantanamo detainee 987)",
+        "Gholam ruhani",
+        "Ghulam Roohani",
+        "Ghulam Ruhani",
+        "Guantanamo captive 003",
+        "Guantanamo captive 074",
+        "Guantanamo captive 1002",
+        "Guantanamo captive 1003",
+        "Guantanamo captive 1004",
+        "Guantanamo captive 1008",
+        "Guantanamo captive 1010",
+        "Guantanamo captive 1012",
+        "Guantanamo captive 1013",
+        "Guantanamo captive 1019",
+        "Guantanamo captive 1021",
+        "Guantanamo captive 1030",
+        "Guantanamo captive 1032",
+        "Guantanamo captive 1035",
+        "Guantanamo captive 1037",
+        "Guantanamo captive 1043",
+        "Guantanamo captive 1051",
+        "Guantanamo captive 1052",
+        "Guantanamo captive 1056",
+        "Guantanamo captive 1074",
+        "Guantanamo captive 1075",
+        "Guantanamo captive 108",
+        "Guantanamo captive 1103",
+        "Guantanamo captive 1104",
+        "Guantanamo captive 1154",
+        "Guantanamo captive 1157",
+        "Guantanamo captive 1165",
+        "Guantanamo captive 118",
+        "Guantanamo captive 119",
+        "Guantanamo captive 120",
+        "Guantanamo captive 357",
+        "Guantanamo captive 3",
+        "Guantanamo captive 457",
+        "Guantanamo captive 459",
+        "Guantanamo captive 460",
+        "Guantanamo captive 494",
+        "Guantanamo captive 496",
+        "Guantanamo captive 520",
+        "Guantanamo captive 530",
+        "Guantanamo captive 532",
+        "Guantanamo captive 556",
+        "Guantanamo captive 562",
+        "Guantanamo captive 591",
+        "Guantanamo captive 631",
+        "Guantanamo captive 644",
+        "Guantanamo captive 655",
+        "Guantanamo captive 658",
+        "Guantanamo captive 670",
+        "Guantanamo captive 671",
+        "Guantanamo captive 783",
+        "Guantanamo captive 831",
+        "Guantanamo captive 834",
+        "Guantanamo captive 835",
+        "Guantanamo captive 845",
+        "Guantanamo captive 848",
+        "Guantanamo captive 874",
+        "Guantanamo captive 897",
+        "Guantanamo captive 907",
+        "Guantanamo captive 909",
+        "Guantanamo captive 911",
+        "Guantanamo captive 912",
+        "Guantanamo captive 913",
+        "Guantanamo captive 914",
+        "Guantanamo captive 923",
+        "Guantanamo captive 928",
+        "Guantanamo captive 941",
+        "Guantanamo captive 943",
+        "Guantanamo captive 948",
+        "Guantanamo captive 949",
+        "Guantanamo captive 950",
+        "Guantanamo captive 953",
+        "Guantanamo captive 954",
+        "Guantanamo captive 955",
+        "Guantanamo captive 956",
+        "Guantanamo captive 958",
+        "Guantanamo captive 965",
+        "Guantanamo captive 966",
+        "Guantanamo captive 972",
+        "Guantanamo captive 974",
+        "Guantanamo captive 975",
+        "Guantanamo captive 976",
+        "Guantanamo captive 977",
+        "Guantanamo captive 986",
+        "Guantanamo captive 987",
+        "Guantanamo captive Abdul Matin",
+        "Guantanamo captives from <B>Afghanistan</B>",
+        "Guantanamo detainee 1003",
+        "Guantanamo detainee 1030",
+        "Guantanamo detainee 1043",
+        "Guantanamo detainee 556",
+        "Guantanamo detainee 874",
+        "Guantanamo detainee 928",
+        "Guantanamo detainee 955",
+        "Guantanamo detainee 974",
+        "Guantanamo detainee 975",
+        "Guantanamo detainee 987",
+        "Gul Chaman",
+        "Gul Zaman",
+        "Gul Zaman (Bagram captive sequence 000459)",
+        "HAJI GHALIB",
+        "HIZTULLAH NASRAT YAR",
+        "Habib Rahman (detainee)",
+        "Habibullah Mangut",
+        "Hafizullah (detainee)",
+        "Hafizullah Shah",
+        "Hamidullah (Guantanamo terror suspect)",
+        "Hamidullah (Taliban leader)",
+        "Hasan Ulla Peerzai",
+        "Hiztullah Nasrat",
+        "Hiztullah Nasrat Yar",
+        "Hiztullah Yar Nasrat",
+        "Hukumra",
+        "Hukumra Khan",
+        "Hukumran",
+        "ISN 00003",
+        "ISN 003",
+        "ISN 1002",
+        "ISN 1003",
+        "ISN 1004",
+        "ISN 1008",
+        "ISN 1010",
+        "ISN 1012",
+        "ISN 1013",
+        "ISN 1019",
+        "ISN 1021",
+        "ISN 1030",
+        "ISN 1032",
+        "ISN 1035",
+        "ISN 1037",
+        "ISN 1043",
+        "ISN 1051",
+        "ISN 1052",
+        "ISN 1056",
+        "ISN 1074",
+        "ISN 1075",
+        "ISN 1103",
+        "ISN 1104",
+        "ISN 1154",
+        "ISN 1157",
+        "ISN 1165",
+        "ISN 118",
+        "ISN 119",
+        "ISN 349",
+        "ISN 357",
+        "ISN 3",
+        "ISN 457",
+        "ISN 459",
+        "ISN 460",
+        "ISN 496",
+        "ISN 520",
+        "ISN 530",
+        "ISN 532",
+        "ISN 556",
+        "ISN 562",
+        "ISN 591",
+        "ISN 631",
+        "ISN 644",
+        "ISN 655",
+        "ISN 658",
+        "ISN 670",
+        "ISN 671",
+        "ISN 783",
+        "ISN 831",
+        "ISN 834",
+        "ISN 835",
+        "ISN 845",
+        "ISN 848",
+        "ISN 874",
+        "ISN 897",
+        "ISN 898",
+        "ISN 907",
+        "ISN 909",
+        "ISN 911",
+        "ISN 912",
+        "ISN 913",
+        "ISN 914",
+        "ISN 923",
+        "ISN 928",
+        "ISN 929",
+        "ISN 941",
+        "ISN 943",
+        "ISN 948",
+        "ISN 949",
+        "ISN 950",
+        "ISN 953",
+        "ISN 954",
+        "ISN 955",
+        "ISN 956",
+        "ISN 958",
+        "ISN 965",
+        "ISN 966",
+        "ISN 972",
+        "ISN 974",
+        "ISN 975",
+        "ISN 976",
+        "ISN 977",
+        "ISN 986",
+        "Ihsan Ullah Peerzai",
+        "Inshanullah",
+        "Izaatullah Nusrat",
+        "Izatullah Nasrat Yar",
+        "JUMA DIN",
+        "Juma Din",
+        "KAKO KANDAHARI",
+        "KHANDAN KADIR",
+        "KHI ALI GUL",
+        "KHUDAI DAD",
+        "Kadeer Khandan",
+        "Kadir Khandan",
+        "Kakai Khan",
+        "Kako Kandahari",
+        "Karim Bostam",
+        "Karim Bostan",
+        "Khadai Dad",
+        "Khadan Kadir",
+        "Khadan Kadri",
+        "Khan Hukumra",
+        "Khan Zaman",
+        "Khandan Kadir",
+        "KhiAli Gul",
+        "Khi Ali Gul",
+        "Khiali-Gul",
+        "Khudai Dad",
+        "MAHBUB RAHMAN",
+        "MIRZA MOHAMMED",
+        "MOHABET KHAN",
+        "MOHAMED RAHIM",
+        "MOHAMMED 3 NASIM",
+        "MOHAMMED KAMIN",
+        "MOHAMMED MUSTAFA SOHAIL",
+        "MOHAMMED QUASAM",
+        "MOHAMMED YACOUB",
+        "MOHOMMOD ZAHIR",
+        "Mahbub Rahman",
+        "Merza Khan",
+        "Mirza Mohammad (prisoner)",
+        "Mirza Mohammed",
+        "Mirza Mohammed (Guantanamo captive 644)",
+        "Mohabat Khan",
+        "Mohabet Khan",
+        "Mohamed Rahim",
+        "Mohammad Gul (Guantanamo captive 457)",
+        "Mohammad Gul (Guantanamo detainee)",
+        "Mohammad Gul (Guantanamo detainee 457)",
+        "Mohammad Mustafa Sohail",
+        "Mohammad Nasim (Guantanamo captive 958)",
+        "Mohammad Nasim (Guantanamo detainee 958)",
+        "Mohammad Nasim (Guantánamo detainee 958)",
+        "Mohammad Rahim",
+        "Mohammad Wabi Umari",
+        "Mohammad Zahir",
+        "Mohammad akhbar",
+        "Mohammed Akitar",
+        "Mohammed Aman (detainee)",
+        "Mohammed Amon",
+        "Mohammed Kameen",
+        "Mohammed Mussa Yakubi",
+        "Mohammed Mustafa Sohail",
+        "Mohammed Naim Rahim",
+        "Mohammed Nasim (Guantanamo captive 958)",
+        "Mohammed Nasim 3",
+        "Mohammed Quasam",
+        "Mohammed Rahim (Guantanamo captive 1104)",
+        "Mohammed Sadiq (Guantanamo captive 349)",
+        "Mohammed Sadiq (Guantanamo detainee 349)",
+        "Mohammed Sadiq (detainee)",
+        "Mohammed Sharif (detainee)",
+        "Mohammed Yaqoub",
+        "Mohommad Zahir",
+        "Mohommod Zahir",
+        "Muhebullah (Guantanamo captive 974)",
+        "Muhebullah (Guantanamo detainee 974)",
+        "Muhebullah (Guantánamo detainee 974)",
+        "NASIBULLAH LNU",
+        "NASSER GUL GHAMAN",
+        "Nahir Shah",
+        "Naibullah Darwaish",
+        "Naqeebyllah Shaheen Shahwali Zair Mohammed",
+        "Naqib Ullah (child detainee)",
+        "Naqib Ullah (detainee)",
+        "Naqibullah (child detainee)",
+        "Naqibullah (detainee)",
+        "Nasibullah",
+        "Nasrat Yar (esatullah) Hiztullah",
+        "Nasser Gul Ghaman",
+        "Nazar Chaman Gul",
+        "Nazargul Chaman",
+        "Nazul Gul",
+        "OBAIDULLAH",
+        "PADSHA WAZIR",
+        "Padsha Wazir",
+        "QARI ESMHATULLA",
+        "Qadar Khandan",
+        "Qari Esmhatulla",
+        "Qari Esmhatullat",
+        "Qari Hasan Ulla Peerzai",
+        "Qari Hassan Ulla Peerzai",
+        "Qari Samiullah",
+        "RASOOL SHAHWALI ZAIR MOHAMMED MOHAMMED",
+        "Rahmatullah Mansoor",
+        "Rasool Shahwali Zair Mohammed Mohammed",
+        "SAIDA JAN",
+        "SAID MOHAMMED",
+        "SHABIR AHMED",
+        "SHAH NAHIR",
+        "SHAMS ULLAH",
+        "SHARBAT",
+        "SHARDAR KHAN",
+        "Sada Jan",
+        "Said Abasin",
+        "Said Mohammed",
+        "Said Mohammed Ali Shah",
+        "Saida Jan",
+        "Salaiman Shah",
+        "Shabir Ahmed (Guantanamo captive)",
+        "Shaheen Naqeebyllah Shahwali Zair Mohammed",
+        "Shahwali Shaheen Naqeebyllah",
+        "Shahwali Zair Mohammed Shaheen Naqeebyllah",
+        "Shams Ullah",
+        "Shamsullah",
+        "Sharbat (Guantanamo detainee 1051)",
+        "Sharbat (terror suspect)",
+        "Sharbat Khan",
+        "Shardar Khan",
+        "Solaiman Dur Mohammed Shah",
+        "Syed Ajan",
+        "Tooran Mohammad Amannullah",
+        "YAKUBI",
+        "Yaqoub, Mohammed",
+        "ZAIR MOHAMMED SHAHEEN NAQEEBYLLAH SHAHWALI",
+        "Zahir Mohammad",
+        "Zahir Shah (unlisted Guantanamo captive)",
+        "Zair Mohammed Shaheen Naqeebyllah Shahwali",
+        "Zakim Shah (Guantanamo captive 898)",
+        "Zakim Shah (Guantanamo detainee 898)"
+      ],
+      "comment": [
+        "According to the United States Department of Defense, it held more than two hundred <B>Afghan</B>"
+      ],
+      "label": [
+        "List of <B>Afghan</B> detainees at Guantanamo Bay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Afghan_detainees_at_Guantanamo_Bay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_extrajudicial_prisoners_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Afghanistan–United_States_relations",
+        "http://dbpedia.org/resource/Category:Lists_of_Guantanamo_Bay_detainees_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "5085.2163"
+      ],
+      "refCount": [
+        "68"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Anglo-Afghan_War"
+      ],
+      "redirectlabel": [
+        "1st Anglo-<B>Afghan</B> War",
+        "Affghanistan 1839 (Battle honour)",
+        "<B>Afghanistan</B> 1839",
+        "<B>Afghanistan</B> 1839 (Battle honour)",
+        "<B>Afghanistan</B> 1839 (battle honour)",
+        "Auckland's Folly",
+        "Causes of the First Anglo-<B>Afghan</B> War",
+        "Disaster in <B>Afghanistan</B>",
+        "First <B>Afghan</B> War",
+        "First <B>Afghan</B> war",
+        "First Anglo-<B>Afghan</B> war",
+        "First Anglo <B>Afghan</B> war",
+        "First Anglo–<B>Afghan</B> War",
+        "First British-<B>Afghan</B> War",
+        "The First Anglo-<B>Afghan</B> War",
+        "The First Anglo–<B>Afghan</B> War",
+        "جنگ اول افغان و انگلیس"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The First Anglo-<B>Afghan</B> War (also known by the British as the Disaster in <B>Afghanistan</B>) was fought"
+      ],
+      "label": [
+        "First Anglo-<B>Afghan</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Anglo-Afghan_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1839_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1839_in_Asia",
+        "http://dbpedia.org/resource/Category:1839_in_British_India",
+        "http://dbpedia.org/resource/Category:19th-century_military_history_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Anglo-Afghan_Wars",
+        "http://dbpedia.org/resource/Category:Battles_involving_British_India",
+        "http://dbpedia.org/resource/Category:Emirate_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:First_Anglo-Afghan_War",
+        "http://dbpedia.org/resource/Category:History_of_the_Bengal_Sappers",
+        "http://dbpedia.org/resource/Category:History_of_the_Bombay_Sappers",
+        "http://dbpedia.org/resource/Category:History_of_the_Corps_of_Engineers_(Indian_Army)",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Invasions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_history_of_Khyber_Pakhtunkhwa",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_of_succession_involving_the_states_and_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Wars_of_succession_involving_the_states_and_peoples_of_Europe"
+      ]
+    },
+    {
+      "score": [
+        "5003.3945"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Third_Anglo-Afghan_War"
+      ],
+      "redirectlabel": [
+        "3rd <B>Afghan</B> War",
+        "3rd Anglo-<B>Afghan</B> War",
+        "<B>Afghan</B> War of 1919",
+        "<B>Afghan</B> invasion of British India",
+        "<B>Afghanistan</B> 1919",
+        "British-<B>Afghan</B> war of 1919",
+        "Third <B>Afghan</B> War",
+        "Third Anglo-<B>Afghan</B> war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ", the British-<B>Afghan</B> war of 1919 and in <B>Afghanistan</B> as the War of Independence, began on 6 May 1919 when"
+      ],
+      "label": [
+        "Third Anglo-<B>Afghan</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Third_Anglo-Afghan_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1919_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1919_in_British_India",
+        "http://dbpedia.org/resource/Category:20th-century_military_history_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Afghanistan–United_Kingdom_military_relations",
+        "http://dbpedia.org/resource/Category:Anglo-Afghan_Wars",
+        "http://dbpedia.org/resource/Category:Battles_involving_British_India",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1919",
+        "http://dbpedia.org/resource/Category:Emirate_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:History_of_the_Royal_Air_Force",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Invasions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_history_of_Khyber_Pakhtunkhwa",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Third_Anglo-Afghan_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "3944.0688"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Afghan_Whigs"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Whigs",
+        "<B>Afghan</B> Wigs",
+        "<B>Afghan</B> wighs",
+        "Conjure Me",
+        "Gentlemen single",
+        "Rick McCollum",
+        "Steve Earle (drummer)",
+        "The <B>Afghan</B> Wigs"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "The <B>Afghan</B> Whigs are an American rock band from Cincinnati, Ohio, United States. Originally active"
+      ],
+      "label": [
+        "The <B>Afghan</B> Whigs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Afghan_Whigs"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1986_establishments_in_Ohio",
+        "http://dbpedia.org/resource/Category:2001_disestablishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:2012_establishments_in_Ohio",
+        "http://dbpedia.org/resource/Category:Alternative_rock_groups_from_Ohio",
+        "http://dbpedia.org/resource/Category:American_grunge_groups",
+        "http://dbpedia.org/resource/Category:American_post-punk_music_groups",
+        "http://dbpedia.org/resource/Category:Blast_First_artists",
+        "http://dbpedia.org/resource/Category:Columbia_Records_artists",
+        "http://dbpedia.org/resource/Category:Elektra_Records_artists",
+        "http://dbpedia.org/resource/Category:Indie_rock_musical_groups_from_Ohio",
+        "http://dbpedia.org/resource/Category:Musical_groups_disestablished_in_2001",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1986",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_2012",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Cincinnati",
+        "http://dbpedia.org/resource/Category:Mute_Records_artists",
+        "http://dbpedia.org/resource/Category:Sub_Pop_artists"
+      ]
+    },
+    {
+      "score": [
+        "3888.174"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Air_Force"
+      ],
+      "redirectlabel": [
+        "ANAAC",
+        "ANA Air Corps",
+        "<B>Afghan</B> Air Corps",
+        "<B>Afghan</B> Air Forces",
+        "<B>Afghan</B> Air corps",
+        "<B>Afghan</B> Army Air Corps",
+        "<B>Afghan</B> Army Air Force",
+        "<B>Afghan</B> Military Air Arm",
+        "<B>Afghan</B> National Air Corps",
+        "<B>Afghan</B> National Air Force",
+        "<B>Afghan</B> National Army - Air Corps",
+        "<B>Afghan</B> National Army Air Corps",
+        "<B>Afghan</B> National Army Air Force",
+        "<B>Afghan</B> Republican Air Force",
+        "<B>Afghan</B> airforce",
+        "<B>Afghanistan</B> Air Force",
+        "Air Force of <B>Afghanistan</B>",
+        "Air and Air Defense Force of the Islamic State of <B>Afghanistan</B>",
+        "Air force of <B>Afghanistan</B>",
+        "Army Air Force of the Islamic Emirate of <B>Afghanistan</B>",
+        "History of the <B>Afghan</B> Air Force",
+        "NATC-A",
+        "Royal <B>Afghan</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " northern <B>Afghanistan</B>. Lt. Gen. Mohammad Dawran has served as Chief of Staff of the <B>Afghan</B> Air Force and"
+      ],
+      "label": [
+        "<B>Afghan</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1924_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Aviation_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Disbanded_air_forces",
+        "http://dbpedia.org/resource/Category:Military_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_of_the_Islamic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1919"
+      ]
+    },
+    {
+      "score": [
+        "3752.3108"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghans_in_Pakistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-Pakistani",
+        "<B>Afghan</B>-Pakistanis",
+        "<B>Afghan</B> Baloch in Pakistan",
+        "<B>Afghan</B> Christians in Pakistan",
+        "<B>Afghan</B> Hindus in Pakistan",
+        "<B>Afghan</B> Pakistani",
+        "<B>Afghan</B> Pakistanis",
+        "<B>Afghan</B> Pashtuns in Pakistan",
+        "<B>Afghan</B> Sikhs in Pakistan",
+        "<B>Afghan</B> community in Pakistan",
+        "<B>Afghan</B> community of Islamabad",
+        "<B>Afghan</B> community of Karachi",
+        "<B>Afghan</B> community of Lahore",
+        "<B>Afghan</B> community of Peshawar",
+        "<B>Afghan</B> community of Quetta",
+        "<B>Afghan</B> diaspora in Pakistan",
+        "<B>Afghan</B> emigrants to Pakistan",
+        "<B>Afghan</B> expatriates in Pakistan",
+        "<B>Afghan</B> immigrants in Pakistan",
+        "<B>Afghan</B> immigration to Pakistan",
+        "<B>Afghan</B> in Pakistan",
+        "<B>Afghan</B> migrants in Pakistan",
+        "<B>Afghan</B> migration to Pakistan",
+        "<B>Afghan</B> muhajir",
+        "<B>Afghan</B> muhajirs",
+        "<B>Afghan</B> muhajirs in Pakistan",
+        "<B>Afghan</B> people in Pakistan",
+        "<B>Afghan</B> refugees in Khyber Pakhtunkhwa",
+        "<B>Afghan</B> refugees in Pakistan",
+        "<B>Afghan</B> settlement in Pakistan",
+        "<B>Afghani</B>-Pakistani",
+        "<B>Afghani</B> Pakistani",
+        "<B>Afghani</B> refugees in Pakistan",
+        "<B>Afghanis</B> in Pakistan",
+        "<B>Afghanistanis</B> in Pakistan",
+        "<B>Afghans</B> in Azad Kashmir",
+        "<B>Afghans</B> in Balochistan",
+        "<B>Afghans</B> in FATA",
+        "<B>Afghans</B> in Gilgit-Baltistan",
+        "<B>Afghans</B> in Hazara",
+        "<B>Afghans</B> in Islamabad",
+        "<B>Afghans</B> in Karachi",
+        "<B>Afghans</B> in Khyber Pakhtunkhwa",
+        "<B>Afghans</B> in Lahore",
+        "<B>Afghans</B> in Multan",
+        "<B>Afghans</B> in Pakhtunkhwa",
+        "<B>Afghans</B> in Peshawar",
+        "<B>Afghans</B> in Punjab",
+        "<B>Afghans</B> in Quetta",
+        "<B>Afghans</B> in Rawalpindi",
+        "<B>Afghans</B> in Sindh",
+        "<B>Afghans</B> in pakistan",
+        "<B>Afghans</B> in the Federally Administered Tribal Areas",
+        "<B>Afghans</B> of Pakistan",
+        "History of the <B>Afghans</B> in Pakistan",
+        "Muhajir <B>Afghan</B>",
+        "Muhajir <B>Afghans</B>",
+        "Namak haraam (slur)",
+        "Pakistanis of <B>Afghan</B> descent",
+        "Pashtun <B>Afghans</B> in Pakistan",
+        "Persecution of <B>Afghans</B> in Pakistan"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " fled wars in <B>Afghanistan</B>, but there are small numbers of <B>Afghan</B> asylum seekers, migrant workers"
+      ],
+      "label": [
+        "<B>Afghans</B> in Pakistan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghans_in_Pakistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Afghan_diaspora_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Immigration_to_Pakistan",
+        "http://dbpedia.org/resource/Category:Pakistani_people_of_Afghan_descent",
+        "http://dbpedia.org/resource/Category:Refugees_in_Pakistan"
+      ]
+    },
+    {
+      "score": [
+        "3559.402"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_training_camp"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> military camp",
+        "<B>Afghan</B> military camps",
+        "<B>Afghan</B> military training camp",
+        "<B>Afghan</B> training camps",
+        "<B>Afghanistan</B> training camp",
+        "Al-Qaeda training camp",
+        "Al-Qaeda training camps",
+        "Al-Qaida affiliated training camp",
+        "Al-Qaida military training camp",
+        "Al-Qaida sponsored camp",
+        "Al-Qaida training camp",
+        "Al-Qaida training camps",
+        "Al Ahrar training camp",
+        "Al Qaeda training camp",
+        "Al Qaeda training camp in <B>Afghanistan</B>",
+        "Al Qaeda training camp in Pakistan",
+        "Al Qaeda training camps",
+        "Al Qaida camp",
+        "Al Qaida camps",
+        "Al Qaida military training camp",
+        "Al Qaida training camp",
+        "Al Qaida training camps",
+        "Al ahrar training camp",
+        "Arab-<B>Afghan</B> camp",
+        "Camp Malik",
+        "East Turkistan Organization camp",
+        "Jihadist training camp (Pakistan)",
+        "Jihadist training camp (Pakistan tribal area)",
+        "Kubah training camp",
+        "Kun Saiaf training camp",
+        "Kut Bakram training camp",
+        "Libyan Camp",
+        "Libyan camp",
+        "Libyan camp north of",
+        "Libyan training camp",
+        "List of <B>Afghan</B> training camps",
+        "Mahlik Center",
+        "Malek Center",
+        "Malek Military Center",
+        "Malek training camp",
+        "Malik Center",
+        "Malik training camp",
+        "Melek Center",
+        "Military training clinic in <B>Afghanistan</B>",
+        "Mountain training camp in Tora Bora",
+        "Omar Sa'if Center",
+        "Omar Saif",
+        "Omar Saif Center",
+        "Omar Seif Center",
+        "Qaeda training camp",
+        "Quba training camp",
+        "Said Center",
+        "Taliban camp",
+        "Taliban training camp",
+        "Taliban training center located outside Kabul",
+        "Talukan training camp",
+        "Terrorist training camp in <B>Afghanistan</B>",
+        "Torkham training camp",
+        "Training camp in <B>Afghanistan</B>",
+        "Training camps in <B>Afghanistan</B>",
+        "Umar al Saif",
+        "Urban warfare training camp, Murad Beek"
+      ],
+      "comment": [
+        "An <B>Afghan</B> training camp is a camp or facility used for militant training located in <B>Afghanistan</B>. At"
+      ],
+      "label": [
+        "<B>Afghan</B> training camp"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_training_camp"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_training_camps",
+        "http://dbpedia.org/resource/Category:Terrorism_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "3224.696"
+      ],
+      "refCount": [
+        "269"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghanistan_national_football_team"
+      ],
+      "redirectlabel": [
+        "Afganistan football team",
+        "Afganistan national football team",
+        "<B>Afghan</B> national football team",
+        "<B>Afghanistan's</B> national football team",
+        "History of the <B>Afghanistan</B> national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Afghanistan</B> national football team (Pashto: د افغانستان د فوټبال ملي لوبډله Da Afghānestān da"
+      ],
+      "label": [
+        "<B>Afghanistan</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghanistan_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghanistan_national_football_team",
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "3195.7517"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_afghani"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> <B>Afghani</B>",
+        "<B>Afghan</B> <B>afghanis</B>",
+        "<B>Afghani</B> (currency)",
+        "<B>Afghani</B> <B>afghani</B>",
+        "<B>Afghani</B> note",
+        "<B>Afghanistan</B> Currency",
+        "<B>Afghanistan</B> <B>afghani</B>",
+        "<B>Afghanistani</B> <B>afghani</B>",
+        "ISO 4217:AFA",
+        "ISO 4217:AFN",
+        "؋",
+        "افغانۍ"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " Islamic Republic of <B>Afghanistan</B>, which is issued by the nation's central bank called Da <B>Afghanistan</B> Bank"
+      ],
+      "label": [
+        "<B>Afghan</B> <B>afghani</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_afghani"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1925",
+        "http://dbpedia.org/resource/Category:Currencies_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "3161.8875"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_snowfinch"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Ground-Finch",
+        "<B>Afghan</B> Ground-Sparrow",
+        "<B>Afghan</B> Ground-sparrow",
+        "<B>Afghan</B> Snow Finch",
+        "<B>Afghan</B> Snowfinch",
+        "<B>Afghan</B> ground-finch",
+        "<B>Afghan</B> ground-sparrow",
+        "<B>Afghan</B> snow finch",
+        "Bar-Tailed Snowfinch",
+        "Bar-tailed Snowfinch",
+        "Bar-tailed snowfinch",
+        "Meinertzhagen's Snowfinch",
+        "Meinertzhagen's snowfinch",
+        "Montifringilla theresae",
+        "Pyrgilauda theresae",
+        "Theresa's Ground-Finch",
+        "Theresa's Snowfinch",
+        "Theresa's ground-finch",
+        "Theresa's ground-sparrow",
+        "Theresa's snowfinch"
+      ],
+      "comment": [
+        "The <B>Afghan</B> snowfinch (Pyrgilauda theresae) is a passerine bird of the sparrow family Passeridae"
+      ],
+      "label": [
+        "<B>Afghan</B> snowfinch"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_snowfinch"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1937",
+        "http://dbpedia.org/resource/Category:Birds_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Pyrgilauda"
+      ]
+    },
+    {
+      "score": [
+        "3036.4429"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Cuisine",
+        "<B>Afghan</B> beverages",
+        "<B>Afghan</B> desserts and snacks",
+        "<B>Afghan</B> drinks",
+        "<B>Afghan</B> food",
+        "<B>Afghani</B> cuisine",
+        "<B>Afghani</B> food",
+        "<B>Afghanistan</B> cuisine",
+        "<B>Afghanistani</B> cuisine",
+        "<B>Afghanistani</B> food",
+        "Cuisine of <B>Afghanistan</B>",
+        "Kabuli cuisine",
+        "Kandahari cuisine",
+        "Quroot",
+        "Sheer Yakh"
+      ],
+      "comment": [
+        "<B>Afghan</B> cuisine is largely based upon the nation's chief crops, such as wheat, maize, barley and"
+      ],
+      "label": [
+        "<B>Afghan</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_cuisine",
+        "http://dbpedia.org/resource/Category:Pashtun_cuisine",
+        "http://dbpedia.org/resource/Category:South_Asian_cuisine",
+        "http://dbpedia.org/resource/Category:Tajik_cuisine",
+        "http://dbpedia.org/resource/Category:Uzbekistani_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2742.9014"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_FC_Chaman"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> F.C.",
+        "<B>Afghan</B> FC",
+        "<B>Afghan</B> Football Club Chaman",
+        "<B>Afghanistan</B> F.C."
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Afghan</B> Football Club Chaman or <B>Afghan</B> F.C. are a football club based in Chaman in Balochistan"
+      ],
+      "label": [
+        "<B>Afghan</B> FC Chaman"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_FC_Chaman"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960_establishments_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1960",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Football_in_Chaman"
+      ]
+    },
+    {
+      "score": [
+        "2715.8018"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_army"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Army",
+        "<B>Afghan</B> Ground Forces",
+        "<B>Afghan</B> Land Forces",
+        "<B>Afghan</B> National Army",
+        "<B>Afghan</B> National Army Corps",
+        "<B>Afghan</B> soldier",
+        "<B>Afghan</B> soldiers",
+        "<B>Afghan</B> troops",
+        "Islamic Emirate Army",
+        "National Army of <B>Afghanistan</B>",
+        "New <B>Afghan</B> Army",
+        "Royal <B>Afghan</B> Army"
+      ],
+      "label": [
+        "<B>Afghan</B> army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_army"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Army_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Islamic_Emirate_Forces",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_the_1970s",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_War_in_Afghanistan_(2001–2021)",
+        "http://dbpedia.org/resource/Category:Soviet_foreign_aid"
+      ]
+    },
+    {
+      "score": [
+        "2697.6675"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-American",
+        "<B>Afghan</B>-Americans",
+        "<B>Afghan</B> (<B>Afghanistani</B>) American",
+        "<B>Afghan</B> American",
+        "<B>Afghan</B> refugees in the United States",
+        "<B>Afghanistani</B>-American",
+        "<B>Afghanistani</B>-Americans",
+        "<B>Afghanistani</B> (<B>Afghan</B>) American",
+        "<B>Afghanistani</B> American",
+        "<B>Afghanistani</B> Americans",
+        "Demographics of <B>Afghan</B> Americans",
+        "History of <B>Afghan</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Afghan</B> Americans are Americans of <B>Afghan</B> descent or Americans who originated from <B>Afghanistan</B>"
+      ],
+      "label": [
+        "<B>Afghan</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_American",
+        "http://dbpedia.org/resource/Category:Afghan_diaspora",
+        "http://dbpedia.org/resource/Category:American_people_of_Afghan_descent",
+        "http://dbpedia.org/resource/Category:Central_Asian_American"
+      ]
+    },
+    {
+      "score": [
+        "2689.609"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_(ethnonym)"
+      ],
+      "redirectlabel": [
+        "Abgan",
+        "Abgân",
+        "Abgān",
+        "<B>Afgan</B> (ethnonym)",
+        "<B>Afgans</B> (ethnonym)",
+        "<B>Afghan</B> (name)",
+        "<B>Afghan</B> peoples",
+        "<B>Afghans</B> (ethnonym)",
+        "Afġān",
+        "Origins of the name <B>Afghan</B>",
+        "Origins of the name <B>Afghanistan</B>"
+      ],
+      "comment": [
+        "The ethnonym <B>Afghan</B> (افغان Afġān) has been used in the past to denote a member of the Pashtuns, and"
+      ],
+      "label": [
+        "<B>Afghan</B> (ethnonym)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_(ethnonym)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Country_name_etymology",
+        "http://dbpedia.org/resource/Category:English_words",
+        "http://dbpedia.org/resource/Category:Ethnonyms",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Pashto_words_and_phrases"
+      ]
+    },
+    {
+      "score": [
+        "2636.7913"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Cheetahs"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Cheetas"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Afghan</B> Cheetahs is a Twenty20 team established in 2011 from <B>Afghanistan</B> that played in"
+      ],
+      "label": [
+        "<B>Afghan</B> Cheetahs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Cheetahs"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_cricket_tours_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Cricket_clubs_established_in_2011",
+        "http://dbpedia.org/resource/Category:Cricket_teams_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Cricket_teams_in_Pakistan"
+      ]
+    },
+    {
+      "score": [
+        "2621.3328"
+      ],
+      "refCount": [
+        "62"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/War_in_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afgan</B> war",
+        "Afganistan War",
+        "<B>Afghan</B> Civil War",
+        "<B>Afghan</B> Civil War (1989-2001)",
+        "<B>Afghan</B> Civil War (disambiguation)",
+        "<B>Afghan</B> Civil war",
+        "<B>Afghan</B> War",
+        "<B>Afghan</B> Wars",
+        "<B>Afghan</B> civil war",
+        "<B>Afghan</B> civil war (disambiguation)",
+        "<B>Afghan</B> war",
+        "<B>Afghani</B> War",
+        "<B>Afghani</B> war",
+        "<B>Afghanistan</B> Civil War",
+        "<B>Afghanistan</B> War",
+        "<B>Afghanistan</B> Wars",
+        "<B>Afghanistan</B> conflict",
+        "<B>Afghanistan</B> offensive",
+        "<B>Afghanistan</B> war",
+        "<B>Afghanistani</B> Civil War",
+        "<B>Afghanistani</B> War",
+        "<B>Afghanistani</B> war",
+        "Civil war in <B>Afghanistan</B>",
+        "Civil war in <B>Afghanistan</B> (disambiguation)",
+        "Civil war in <B>afghanistan</B>",
+        "Conflict in <B>Afghanistan</B>",
+        "The war in <B>afghanistan</B>",
+        "War In <B>Afghanistan</B>",
+        "War in Afganhistan",
+        "War in <B>Afghanistan</B> (disambiguation)",
+        "War in <B>afghanistan</B>",
+        "Wars in <B>Afghanistan</B>"
+      ],
+      "label": [
+        "War in <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/War_in_Afghanistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Former_disambiguation_pages_converted_to_set_index_articles",
+        "http://dbpedia.org/resource/Category:Military_history_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "2564.1833"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-Canadian",
+        "<B>Afghan</B> Canadian",
+        "<B>Afghan</B> canadians",
+        "<B>Afghanistani</B> Canadian",
+        "<B>Afghanistani</B> Canadians",
+        "<B>Afghans</B> in Canada",
+        "Canadians of <B>Afghan</B> descent",
+        "Canadians of <B>Afghanistani</B> descent",
+        "List of <B>Afghan</B> Canadians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Afghan</B> Canadians are Canadians with ancestry from <B>Afghanistan</B>. Their ethnic origin may come from"
+      ],
+      "label": [
+        "<B>Afghan</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_Canadian",
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Afghan_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:West_Asian_Canadians"
+      ]
+    },
+    {
+      "score": [
+        "2444.3088"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_National_Police"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Criminal Investigation Department",
+        "<B>Afghan</B> Highway Police",
+        "<B>Afghan</B> Police",
+        "<B>Afghan</B> Uniform Police",
+        "<B>Afghan</B> police",
+        "<B>Afghanistan's</B> National Police",
+        "<B>Afghanistan</B> Police Program",
+        "History of the <B>Afghan</B> National Police",
+        "Police District 9"
+      ],
+      "comment": [
+        "The <B>Afghan</B> National Police (ANP; Pashto: د افغانستان ملي پولیس‎; Persian: پلیس ملی افغانستان‎) is"
+      ],
+      "label": [
+        "<B>Afghan</B> National Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_National_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1709_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Afghan_National_Police",
+        "http://dbpedia.org/resource/Category:Law_enforcement_agencies_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_the_Islamic_Republic_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "2306.3894"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Premier_League"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> National League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Afghan</B> Premier League (APL), also known as Rahmani Foundation <B>Afghan</B> Premier League for"
+      ],
+      "label": [
+        "<B>Afghan</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghan_Premier_League",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2012",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2244.4382"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_cameleers_in_Australia"
+      ],
+      "redirectlabel": [
+        "\"<B>Afghan</B>\" cameleers in Australia",
+        "<B>Afghan</B> (Australia)",
+        "<B>Afghan</B> Camaleers",
+        "<B>Afghan</B> camaleer",
+        "<B>Afghan</B> cameleers",
+        "<B>Afghans</B> (Australia)",
+        "Ghan Town",
+        "Ghan Towns",
+        "Ghans",
+        "The Ghans"
+      ],
+      "comment": [
+        "<B>Afghan</B> cameleers in Australia, also known as \"<B>Afghans</B>\" or \"Ghans\", were camel drivers who worked in"
+      ],
+      "label": [
+        "<B>Afghan</B> cameleers in Australia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_cameleers_in_Australia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_Australian",
+        "http://dbpedia.org/resource/Category:Asian_Australian",
+        "http://dbpedia.org/resource/Category:Camel_drivers",
+        "http://dbpedia.org/resource/Category:Exploration_of_Australia",
+        "http://dbpedia.org/resource/Category:Islam_in_Australia",
+        "http://dbpedia.org/resource/Category:Pakistani_diaspora_in_Australia",
+        "http://dbpedia.org/resource/Category:Social_history_of_Australia",
+        "http://dbpedia.org/resource/Category:Transport_in_Australia"
+      ]
+    },
+    {
+      "score": [
+        "2213.9766"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Arabs"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-Arab",
+        "<B>Afghan</B> Arab",
+        "<B>Afghan</B> arabs",
+        "Arab-<B>Afghans</B>",
+        "Arab <B>Afghan</B>",
+        "Arab <B>Afghans</B>",
+        "Sheikh Abdullah Yusuf Azzam"
+      ],
+      "comment": [
+        " mujahideen who came to <B>Afghanistan</B> during and following the Soviet–<B>Afghan</B> War to help fellow Muslims fight Soviets and pro-Soviet <B>Afghans</B>."
+      ],
+      "label": [
+        "<B>Afghan</B> Arabs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Arabs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_Arabs",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Pan-Islamism",
+        "http://dbpedia.org/resource/Category:Salafi_jihadists"
+      ]
+    },
+    {
+      "score": [
+        "2196.408"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1992–1996)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Civil War (1992-1996)",
+        "<B>Afghan</B> Civil War (1992-2001)",
+        "<B>Afghan</B> Civil War (1992-96)",
+        "<B>Afghan</B> Civil War (1992–2001)",
+        "<B>Afghan</B> Civil War (1992–96)",
+        "<B>Afghan</B> Factional War",
+        "Civil War in <B>Afghanistan</B> (1992-1996)",
+        "Civil War in <B>Afghanistan</B> 1992-1996",
+        "Civil War in <B>Afghanistan</B> 1992–1996",
+        "Civil war in <B>Afghanistan</B> (1992-1996)",
+        "Civil war in <B>Afghanistan</B> (1992-96)",
+        "Civil war in <B>Afghanistan</B> (1992–1996)",
+        "Civil war in <B>Afghanistan</B> (1992–96)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ", the day that a new interim <B>Afghan</B> government was supposed to replace the Republic of <B>Afghanistan</B> of"
+      ],
+      "label": [
+        "<B>Afghan</B> Civil War (1992–1996)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1992–1996)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_conflicts",
+        "http://dbpedia.org/resource/Category:1990s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1992_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1993_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1994_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1995_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1996_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:20th_century_in_Kabul",
+        "http://dbpedia.org/resource/Category:Afghan_Civil_War_(1992–1996)",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Battles_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1992",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1993",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1994",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1995",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1996",
+        "http://dbpedia.org/resource/Category:Government_of_Benazir_Bhutto",
+        "http://dbpedia.org/resource/Category:Warlordism",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Taliban"
+      ]
+    },
+    {
+      "score": [
+        "2191.11"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Hound"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Wolfhound",
+        "<B>Afghan</B> dog",
+        "<B>Afghan</B> hound",
+        "Bakhmull",
+        "Baluchi Hound",
+        "Baluchi hound",
+        "Khalag Tazi",
+        "Sage Baluchi",
+        "Sage baluchi"
+      ],
+      "comment": [
+        "The <B>Afghan</B> Hound is a hound that is distinguished by its thick, fine, silky coat and its tail with"
+      ],
+      "label": [
+        "<B>Afghan</B> Hound"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Hound"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Animal_breeds_originating_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Dog_breeds_originating_in_Asia",
+        "http://dbpedia.org/resource/Category:FCI_breeds",
+        "http://dbpedia.org/resource/Category:Rare_dog_breeds",
+        "http://dbpedia.org/resource/Category:Sighthounds"
+      ]
+    },
+    {
+      "score": [
+        "2177.7288"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ariana_Afghan_Airlines"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Airways",
+        "Ariana <B>Afghan</B>",
+        "Ariana <B>Afghan</B> (airline)",
+        "Ariana <B>Afghan</B> AL",
+        "Ariana <B>Afghan</B> Airlines Co Ltd",
+        "Ariana Airlines",
+        "Ariana airlines",
+        "Aryana Airlines",
+        "Scariana"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "Ariana <B>Afghan</B> Airlines Co. Ltd. (Pashto: د آريانا افغان هوايي شرکت‎; Persian: هواپیمایی آریانا‎"
+      ],
+      "label": [
+        "Ariana <B>Afghan</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ariana_Afghan_Airlines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Airlines_banned_in_the_European_Union",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1955",
+        "http://dbpedia.org/resource/Category:Airlines_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Ariana_Afghan_Airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines"
+      ]
+    },
+    {
+      "score": [
+        "2097.4338"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provinces_of_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> province",
+        "<B>Afghan</B> provinces",
+        "<B>Afghanistan</B> province",
+        "<B>Afghanistan</B> provinces",
+        "List of provinces of <B>Afghanistan</B>",
+        "Provinces of <B>afghanistan</B>"
+      ],
+      "comment": [
+        " villages. Provincial governors have played a critical role in the reconstruction of the <B>Afghan</B> state"
+      ],
+      "label": [
+        "Provinces of <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provinces_of_Afghanistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_administrative_divisions",
+        "http://dbpedia.org/resource/Category:Provinces_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Islamic_Republic_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "2073.4434"
+      ],
+      "refCount": [
+        "103"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/War_in_Afghanistan_(2001–2021)"
+      ],
+      "redirectlabel": [
+        "2001-2006 war in <B>Afghanistan</B>",
+        "2001-present War in <B>Afghanistan</B>",
+        "2001-present war in <B>Afghanistan</B>",
+        "2001 <B>Afghan</B> War",
+        "2001 <B>Afghanistan</B> War",
+        "2001 Attack on <B>Afghanistan</B>",
+        "2001 Coalition Attack on <B>Afghanistan</B>",
+        "2001 U.S. Attack on <B>Afghanistan</B>",
+        "2001 U.S. Attack on the Taliban",
+        "2001 US intervention in <B>Afghanistan</B>",
+        "2001 War in <B>Afghanistan</B>",
+        "2001 war in <B>Afghanistan</B>",
+        "2001 war in <B>afghanistan</B>",
+        "2009 <B>Afghanistan</B> surge",
+        "911 War",
+        "<B>Afghan</B> War (2001-2021)",
+        "<B>Afghan</B> War (2001-current)",
+        "<B>Afghan</B> War (2001-present)",
+        "<B>Afghan</B> War (2001–2021)",
+        "<B>Afghan</B> War (2001–current)",
+        "<B>Afghan</B> War (2001–present)",
+        "<B>Afghan</B> War (2015-present)",
+        "<B>Afghan</B> War (2015–present)",
+        "<B>Afghan</B> deaths",
+        "<B>Afghan</B> war (2001-present)",
+        "<B>Afghan</B> war (2001–present)",
+        "<B>Afghanistan's</B> American occupation",
+        "<B>Afghanistan</B> (OEF)",
+        "<B>Afghanistan</B> 2009",
+        "<B>Afghanistan</B> OEF",
+        "<B>Afghanistan</B> War (2001-), major combat phase",
+        "<B>Afghanistan</B> War (2001-)",
+        "<B>Afghanistan</B> War (2001-2021)",
+        "<B>Afghanistan</B> War (2001-Present)",
+        "<B>Afghanistan</B> War (2001-present)",
+        "<B>Afghanistan</B> War (2001–2021)",
+        "<B>Afghanistan</B> War troop surge of 2009",
+        "<B>Afghanistan</B> War troop surge of 2010",
+        "<B>Afghanistan</B> peace process",
+        "<B>Afghanistan</B> war order of battle",
+        "American-<B>Afghan</B> War",
+        "American-<B>Afghan</B> war",
+        "American <B>Afghan</B> War",
+        "American <B>Afghan</B> war",
+        "American aerial bombardment of <B>Afghanistan</B>",
+        "American aerial bombing of <B>Afghanistan</B>",
+        "American invasion in <B>Afghanistan</B>",
+        "American invasion to <B>Afghanistan</B>",
+        "American occupation of <B>Afghanistan</B>",
+        "Defeat of the Taliban",
+        "Fifth <B>afghan</B> war",
+        "Financial cost of the War in <B>Afghanistan</B>",
+        "Forward Operating Base Kunduz",
+        "Forward Operating Base Wolverine",
+        "Fourth <B>Afghan</B> War",
+        "Fourth Anglo-<B>Afghan</B> War",
+        "NATO War in <B>Afghanistan</B>",
+        "NATO invasion of <B>Afghanistan</B>",
+        "Negotiations between the Taliban and the United States",
+        "OEF-A",
+        "October 7, 2001 Coalition Attack on <B>Afghanistan</B>",
+        "October 7th 2001 US Attack on <B>Afghanistan</B>",
+        "Operation Enduring Freedom - <B>Afghanistan</B> aerial order of battle",
+        "Operation Freedom Sentinel",
+        "Taliban USA Negotiations",
+        "U.S. Attack on <B>Afghanistan</B>",
+        "U.S. liberation of Afganistan",
+        "U.S. war in <B>Afghanistan</B>",
+        "US-led invasion of <B>Afghanistan</B>",
+        "US Attack on <B>Afghanistan</B>",
+        "US War in <B>Afghanistan</B>",
+        "US military campaign in <B>Afghanistan</B>",
+        "War against al Qaeda",
+        "War against the Taliban",
+        "War crimes in the War in <B>Afghanistan</B> (2001-present)",
+        "War crimes in the War in <B>Afghanistan</B> (2001–present)",
+        "War in <B>Afghanistan</B>(2001-present)",
+        "War in <B>Afghanistan</B> (2001)",
+        "War in <B>Afghanistan</B> (2001-)",
+        "War in <B>Afghanistan</B> (2001-14)",
+        "War in <B>Afghanistan</B> (2001-2014)",
+        "War in <B>Afghanistan</B> (2001-2020)",
+        "War in <B>Afghanistan</B> (2001-2021)",
+        "War in <B>Afghanistan</B> (2001-21)",
+        "War in <B>Afghanistan</B> (2001-Present)",
+        "War in <B>Afghanistan</B> (2001-present)",
+        "War in <B>Afghanistan</B> (2001 - present)",
+        "War in <B>Afghanistan</B> (2001 to present)",
+        "War in <B>Afghanistan</B> (2001 – present)",
+        "War in <B>Afghanistan</B> (2001–)",
+        "War in <B>Afghanistan</B> (2001–14)",
+        "War in <B>Afghanistan</B> (2001–2014)",
+        "War in <B>Afghanistan</B> (2001–2020)",
+        "War in <B>Afghanistan</B> (2001–21)",
+        "War in <B>Afghanistan</B> (2001–Present)",
+        "War in <B>Afghanistan</B> (2001–present)",
+        "War in <B>Afghanistan</B> (2015-2021)",
+        "War in <B>Afghanistan</B> (2015-present)",
+        "War in <B>Afghanistan</B> (2015–2021)",
+        "War in <B>Afghanistan</B> (2015–present)",
+        "War in <B>Afghanistan</B> (2015—present)",
+        "War in <B>afghanistan</B> (2001-present)",
+        "War in <B>afghanistan</B> (2001–present)"
+      ],
+      "label": [
+        "War in <B>Afghanistan</B> (2001–2021)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/War_in_Afghanistan_(2001–2021)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_conflicts",
+        "http://dbpedia.org/resource/Category:2000s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2001_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2020s_conflicts",
+        "http://dbpedia.org/resource/Category:2020s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:21st_century_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Afghanistan–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Afghanistan–United_States_relations",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_September_11_attacks",
+        "http://dbpedia.org/resource/Category:Al-Qaeda",
+        "http://dbpedia.org/resource/Category:Haqqani_network",
+        "http://dbpedia.org/resource/Category:International_Security_Assistance_Force",
+        "http://dbpedia.org/resource/Category:Invasions_by_Australia",
+        "http://dbpedia.org/resource/Category:Invasions_by_Canada",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_States",
+        "http://dbpedia.org/resource/Category:Invasions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Presidency_of_Barack_Obama",
+        "http://dbpedia.org/resource/Category:Presidency_of_Donald_Trump",
+        "http://dbpedia.org/resource/Category:Presidency_of_George_W._Bush",
+        "http://dbpedia.org/resource/Category:Presidency_of_Joe_Biden",
+        "http://dbpedia.org/resource/Category:Taliban",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change",
+        "http://dbpedia.org/resource/Category:War_in_Afghanistan_(2001–2021)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Albania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Armenia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Austria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bahrain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Belgium",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bulgaria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Canada",
+        "http://dbpedia.org/resource/Category:Wars_involving_Croatia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Denmark",
+        "http://dbpedia.org/resource/Category:Wars_involving_El_Salvador",
+        "http://dbpedia.org/resource/Category:Wars_involving_Estonia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Finland",
+        "http://dbpedia.org/resource/Category:Wars_involving_France",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Germany",
+        "http://dbpedia.org/resource/Category:Wars_involving_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iceland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ireland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy",
+        "http://dbpedia.org/resource/Category:Wars_involving_Jordan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Latvia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Lithuania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Luxembourg",
+        "http://dbpedia.org/resource/Category:Wars_involving_Malaysia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Mongolia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Montenegro",
+        "http://dbpedia.org/resource/Category:Wars_involving_NATO",
+        "http://dbpedia.org/resource/Category:Wars_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Wars_involving_North_Macedonia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Norway",
+        "http://dbpedia.org/resource/Category:Wars_involving_Pakistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Poland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Portugal",
+        "http://dbpedia.org/resource/Category:Wars_involving_Romania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Singapore",
+        "http://dbpedia.org/resource/Category:Wars_involving_Slovakia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Slovenia",
+        "http://dbpedia.org/resource/Category:Wars_involving_South_Korea",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Sweden",
+        "http://dbpedia.org/resource/Category:Wars_involving_Switzerland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Tajikistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Tonga",
+        "http://dbpedia.org/resource/Category:Wars_involving_Turkey",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ukraine",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2061.4158"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anglo-Afghan_War"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Afghan</B> War (disambiguation)",
+        "Anglo-<B>Afghan</B> Wars",
+        "Anglo-<B>Afghan</B> war",
+        "Anglo-<B>Afghan</B> wars",
+        "Anglo <B>Afghan</B> War",
+        "British-<B>Afghan</B> War"
+      ],
+      "comment": [
+        " (1878–1880) \n* Third Anglo-<B>Afghan</B> War (1919) \n* War in <B>Afghanistan</B> (November 2001 – October 2014 stage)"
+      ],
+      "label": [
+        "Anglo-<B>Afghan</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anglo-Afghan_War"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anglo-Afghan_Wars"
+      ]
+    },
+    {
+      "score": [
+        "2040.019"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_identity_card"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> ID card",
+        "<B>Afghan</B> Identity Card",
+        "<B>Afghan</B> Tazkira",
+        "<B>Afghani</B> ID card",
+        "<B>Afghani</B> identity card",
+        "<B>Afghanistan</B> ID card",
+        "<B>Afghanistan</B> identity card",
+        "<B>Afghanistani</B> ID card",
+        "<B>Afghanistani</B> identity card",
+        "Tazkira-e <B>Afghanistan</B>"
+      ],
+      "comment": [
+        " all the people of <B>Afghanistan</B>. The new <B>Afghan</B> national electronic identity card complies with international standards for identity documents thumb"
+      ],
+      "label": [
+        "<B>Afghan</B> identity card"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_identity_card"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:National_identity_cards_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2032.111"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghanistan_national_cricket_team"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Cricket Team",
+        "<B>Afghan</B> National Cricket Team",
+        "<B>Afghan</B> cricket team",
+        "<B>Afghan</B> national cricket team",
+        "<B>Afghani</B> cricket team",
+        "<B>Afghanistan</B> National Cricket team",
+        "<B>Afghanistan</B> cricket team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Afghanistan</B> men's national team (Pashto: د افغانستان د کرېکټ ملي لوبډله‎, Persian: تیم ملی"
+      ],
+      "label": [
+        "<B>Afghanistan</B> national cricket team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghanistan_national_cricket_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghanistan_in_international_cricket",
+        "http://dbpedia.org/resource/Category:Cricket_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Cricket_teams_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Laureus_World_Sports_Awards_winners",
+        "http://dbpedia.org/resource/Category:National_cricket_teams",
+        "http://dbpedia.org/resource/Category:National_sports_teams_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "2019.6335"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_tribal_revolts_of_1944–1947"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> tribal revolts of 1944-1945",
+        "<B>Afghan</B> tribal revolts of 1944-1946",
+        "<B>Afghan</B> tribal revolts of 1944-1947",
+        "<B>Afghan</B> tribal revolts of 1944–1945",
+        "<B>Afghan</B> tribal revolts of 1944–1946",
+        "Khost disturbances",
+        "Sher Muhd Khan"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "label": [
+        "<B>Afghan</B> tribal revolts of 1944–1947"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_tribal_revolts_of_1944–1947"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1944_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1945_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1946_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1947_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1944",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1945",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1946",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1947",
+        "http://dbpedia.org/resource/Category:Military_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "2004.5536"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_National_Security_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> National Defense and Security Forces",
+        "<B>Afghan</B> National and Defense Security Forces",
+        "<B>Afghan</B> national security forces",
+        "<B>Afghan</B> security forces",
+        "National Mission Brigade"
+      ],
+      "comment": [
+        "The <B>Afghan</B> National Security Forces (ANSF), also known as the <B>Afghan</B> National Defense and Security"
+      ],
+      "label": [
+        "<B>Afghan</B> National Security Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_National_Security_Forces"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2000s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2010s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2020s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2021_disestablishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Defunct_law_enforcement_agencies_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Government_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:Military_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:War_in_Afghanistan_(2001–2021)"
+      ]
+    },
+    {
+      "score": [
+        "1980.5964"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Millat_Party"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Mellat",
+        "<B>Afghan</B> Millat",
+        "<B>Afghan</B> Social Democratic Party",
+        "<B>Afghan</B> Social Democratic Party (<B>Afghan</B> Mellat)",
+        "Aghan Nation",
+        "Hezb-e <B>Afghan</B> Millat",
+        "Social Democratic Party of <B>Afghanistan</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Afghan</B> Millat, is a Pashtun nationalist political party in <B>Afghanistan</B>. Controversially, the party's"
+      ],
+      "label": [
+        "<B>Afghan</B> Millat Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Millat_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1966_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Nationalism_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Pashtun_nationalism",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1966",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1977.5808"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Afghan_presidential_election"
+      ],
+      "redirectlabel": [
+        "2009 <B>Afghan</B> Presidential election",
+        "2009 <B>Afghan</B> Presidential elections",
+        "2009 <B>Afghan</B> election",
+        "2009 <B>Afghan</B> presidential elections",
+        "2009 <B>Afghanistan</B> presidential election",
+        "<B>Afghan</B> presidential election, 2009",
+        "<B>Afghan</B> presidential elections in 2009",
+        "<B>Afghanistan's</B> 2009 Presidential election",
+        "<B>Afghanistan's</B> 2009 Presidential elections",
+        "<B>Afghanistan</B> presidential election, 2009"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Presidential elections were held in <B>Afghanistan</B> on 20 August 2009. The election resulted in victory"
+      ],
+      "label": [
+        "2009 <B>Afghan</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Afghan_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2009_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:April_2009_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Elections_in_the_Islamic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Electoral_fraud_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Hamid_Karzai",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:Political_corruption",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1921.2263"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Girl"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Girl (photo)",
+        "<B>Afghan</B> Girl Photo",
+        "<B>Afghan</B> girl",
+        "Sharbat Bibi",
+        "The <B>afghan</B> girl",
+        "阿富汗女孩"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Afghan</B> Girl is a 1984 photographic portrait of Sharbat Gula (Pashto: شربت ګله‎) (pronounced"
+      ],
+      "label": [
+        "<B>Afghan</B> Girl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Girl"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_births",
+        "http://dbpedia.org/resource/Category:1980s_photographs",
+        "http://dbpedia.org/resource/Category:1984_in_art",
+        "http://dbpedia.org/resource/Category:1984_works",
+        "http://dbpedia.org/resource/Category:Afghan_expatriates_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Child_refugees",
+        "http://dbpedia.org/resource/Category:Color_photographs",
+        "http://dbpedia.org/resource/Category:Cultural_depictions_of_Afghan_women",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Pashtun_women",
+        "http://dbpedia.org/resource/Category:People_notable_for_being_the_subject_of_a_specific_photograph",
+        "http://dbpedia.org/resource/Category:Photographs_of_children_in_war",
+        "http://dbpedia.org/resource/Category:Photography_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Portrait_photographs",
+        "http://dbpedia.org/resource/Category:Works_originally_published_in_National_Geographic_(magazine)"
+      ]
+    },
+    {
+      "score": [
+        "1904.5796"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1989–1992)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Civil War (1989-1992)",
+        "<B>Afghan</B> Civil War (1989-92)",
+        "<B>Afghan</B> Civil War (1989–92)",
+        "Battle of Jalabad",
+        "Battle of Jalalabad (1989)",
+        "Civil war in <B>Afghanistan</B> (1989-1992)",
+        "Civil war in <B>Afghanistan</B> (1989-92)",
+        "Civil war in <B>Afghanistan</B> (1989–1992)",
+        "Civil war in <B>Afghanistan</B> (1989–92)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "This article covers the <B>Afghan</B> history from the Soviet withdrawal from <B>Afghanistan</B> on 15 February"
+      ],
+      "label": [
+        "<B>Afghan</B> Civil War (1989–1992)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1989–1992)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1990_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1991_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1992_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:20th_century_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Afghanistan–Russia_relations",
+        "http://dbpedia.org/resource/Category:Afghanistan–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1989",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1990",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1991",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1992",
+        "http://dbpedia.org/resource/Category:Government_of_Benazir_Bhutto",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Asia",
+        "http://dbpedia.org/resource/Category:Soviet–Afghan_War",
+        "http://dbpedia.org/resource/Category:Warlordism",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Russia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1900.1866"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_diaspora"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Refugees",
+        "<B>Afghanistan's</B> refugees",
+        "<B>Afghanistan</B> refugees",
+        "<B>Afghanistani</B> refugees",
+        "Emigration from <B>Afghanistan</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Afghan</B> diaspora or <B>Afghan</B> immigrants are citizens of <B>Afghanistan</B> who have immigrated to other"
+      ],
+      "label": [
+        "<B>Afghan</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_diaspora"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1843.4924"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_mujahideen"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Mujahideen",
+        "<B>Afghan</B> resistance",
+        "IUAM",
+        "Islamic Unity of <B>Afghanistan</B>",
+        "Islamic Unity of <B>Afghanistan</B> Mujahadeen",
+        "Islamic Unity of <B>Afghanistan</B> Mujahedin",
+        "Islamic Unity of <B>Afghanistan</B> Mujahiddin",
+        "Islamic Unity of <B>Afghanistan</B> Mujahideen",
+        "Islamic Unity of <B>Afghanistan</B> Mujahidin",
+        "Peshawar Seven",
+        "Seven Party Mujahideen Alliance"
+      ],
+      "label": [
+        "<B>Afghan</B> mujahideen"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_mujahideen"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Soviet_factions_in_the_Soviet–Afghan_War",
+        "http://dbpedia.org/resource/Category:Anti-communist_terrorism",
+        "http://dbpedia.org/resource/Category:CIA_and_Islamism",
+        "http://dbpedia.org/resource/Category:History_of_Islam_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Islamic_Unity_of_Afghanistan_Mujahideen",
+        "http://dbpedia.org/resource/Category:Islamism_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Islamist_groups",
+        "http://dbpedia.org/resource/Category:Mujahideen",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1817.3097"
+      ],
+      "refCount": [
+        "105"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pashtuns"
+      ],
+      "redirectlabel": [
+        "<B>Afgan</B> people",
+        "<B>Afghan</B> Pashtun",
+        "<B>Afghan</B> Pashtuns",
+        "<B>Afghani</B> people",
+        "Bar-Durani",
+        "Ethnic <B>Afghan</B>",
+        "Ethnic <B>Afghans</B>",
+        "Ethnic Pashtuns",
+        "Ethnic Pathans",
+        "Ethnic <B>afghans</B>",
+        "Genetic studies on Pashtuns",
+        "Khan (caste)",
+        "List of Pashtuns",
+        "List of pashtuns",
+        "Mahsud Dance",
+        "Notable ethnic Pathans",
+        "Pakhtana",
+        "Pakhton",
+        "Pakhtoon",
+        "Pakhtoon people",
+        "Pakhtoons",
+        "Pakhtun",
+        "Pakhtun people",
+        "Pakhtuns",
+        "Pakistani Pashtun",
+        "Pakistani Pashtuns",
+        "Pakthun",
+        "Paktoon",
+        "Paktoons",
+        "Paktun",
+        "Pashtana",
+        "Pashteen",
+        "Pashteen people",
+        "Pashteens",
+        "Pashthoon",
+        "Pashtin",
+        "Pashto-speaking people",
+        "Pashto people",
+        "Pashto speaking people",
+        "Pashton",
+        "Pashtoon",
+        "Pashtoon people",
+        "Pashtoons",
+        "Pashtun",
+        "Pashtun (<B>Afghan</B>)",
+        "Pashtun (Pakistani)",
+        "Pashtun (ethnic group)",
+        "Pashtun <B>Afghan</B>",
+        "Pashtun <B>Afghans</B>",
+        "Pashtun Australians",
+        "Pashtun Muslims",
+        "Pashtun Pakistani",
+        "Pashtun Pakistanis",
+        "Pashtun People",
+        "Pashtun Peoples",
+        "Pashtun ethnic group",
+        "Pashtun history",
+        "Pashtun name",
+        "Pashtun people",
+        "Pashtun peoples",
+        "Pashtun society",
+        "Pashtuns Peoples",
+        "Pashtuns in Balochistan",
+        "Pasthun",
+        "Pastun",
+        "Pastun people",
+        "Pathaan",
+        "Pathan",
+        "Pathan people",
+        "Pathans",
+        "Phatan",
+        "Pukhton",
+        "Pukhtoon",
+        "Pukhtoon people",
+        "Pukhtoons",
+        "Pukhtun",
+        "Pukhtun people",
+        "Pukhtuns",
+        "Puktoon",
+        "Puktoons",
+        "Pushton",
+        "Pushtoon",
+        "Pushtoon people",
+        "Pushtoons",
+        "Pushtun",
+        "Pushtun People",
+        "Pushtun people",
+        "Pushtuns",
+        "Religious beliefs of Pashtuns",
+        "Silipedia",
+        "Theory of Pashtun descent from Greek-Rajputs",
+        "پشتون",
+        "پٹھان",
+        "پښتانه"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " common history and culture. They primarily live in <B>Afghanistan</B> and Pakistan. A substantial majority"
+      ],
+      "label": [
+        "Pashtuns"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pashtuns"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_divided_by_international_borders",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_India",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_South_Asia",
+        "http://dbpedia.org/resource/Category:Iranian_ethnic_groups",
+        "http://dbpedia.org/resource/Category:Pashtun_people",
+        "http://dbpedia.org/resource/Category:Social_groups_of_Balochistan,_Pakistan",
+        "http://dbpedia.org/resource/Category:Social_groups_of_Khyber_Pakhtunkhwa"
+      ]
+    },
+    {
+      "score": [
+        "1768.2147"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Hip-Hop",
+        "<B>Afghan</B> folk music",
+        "<B>Afghan</B> hip hop",
+        "<B>Afghan</B> music",
+        "<B>Afghan</B> singer",
+        "<B>Afghani</B> Music",
+        "<B>Afghani</B> music",
+        "<B>Afghanistan</B> music",
+        "Folk music of <B>Afghanistan</B>"
+      ],
+      "comment": [
+        "The music of <B>Afghanistan</B> comprises many varieties of classical music, folk music, and modern"
+      ],
+      "label": [
+        "Music of <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Afghanistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_music"
+      ]
+    },
+    {
+      "score": [
+        "1733.2227"
+      ],
+      "refCount": [
+        "2008"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Karachi"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Basti",
+        "Allahwala Town",
+        "Anklesaria Hospital",
+        "Architecture in Karachi",
+        "Architecture of Karachi",
+        "Arts in Karachi",
+        "Asifabad, Karachi",
+        "Auranga Bandar",
+        "Azad Colony",
+        "Baba-e-Urdu Road",
+        "Boat Basin",
+        "Boat Basin Food Street",
+        "Bund Murad",
+        "Business hub of Pakistan",
+        "CDGK",
+        "Capital of Sindh",
+        "Carachee",
+        "Carachi",
+        "Chinna Creek",
+        "City district government of karachi",
+        "City of Karachi",
+        "City of Quaid",
+        "City of the Quaid",
+        "Crime in Karachi",
+        "DHA Model High School",
+        "Dara Murad Jamali Industrial Estate",
+        "District of Karachi",
+        "Dr. Daud Pota Road",
+        "Economic Capital of Pakistan",
+        "Economic capital of Pakistan",
+        "Economic hub of Pakistan",
+        "Financial Capital of Pakistan",
+        "Financial capital of Pakistan",
+        "Financial hub of Pakistan",
+        "Garden Road (Karachi)",
+        "Government College of Technology, Karachi",
+        "Gulistan-e-Bahar",
+        "Gulistan-e-Hadeed",
+        "Gutter Baghicha",
+        "Humera Alwani",
+        "Iqbal Shaheed Road",
+        "Jinnahabad",
+        "Jodia Bazar",
+        "Kalachi-jo-Kun",
+        "Kara-chi",
+        "Karaachi",
+        "Karachee",
+        "Karachi, PK",
+        "Karachi, Pakistan",
+        "Karachi, Sind, Pakistan",
+        "Karachi, Sind",
+        "Karachi, Sindh, Pakistan",
+        "Karachi, Sindh",
+        "Karachi, West Pakistan",
+        "Karachi City",
+        "Karachi City District",
+        "Karachi District",
+        "Karachi Polytechnic Institute",
+        "Karachi district",
+        "Karachi metropolitan area",
+        "Karachiite",
+        "Karachiites",
+        "Karachite",
+        "Karaci",
+        "Karak Bander",
+        "Karanchi",
+        "Karatchi",
+        "Karāchi",
+        "Katha Theatre",
+        "Kathiawar Muslim Habsh Jamaat",
+        "Kaurashi",
+        "Kharak",
+        "Kharak (Karachi)",
+        "Kirachi",
+        "Kochi Camp",
+        "Kolachi-jo-Goth",
+        "Kurachee",
+        "Kurrachee",
+        "Kurrachee Karachi",
+        "Kurruck",
+        "Lalazar (Karachi)",
+        "Lalazar (Naran)",
+        "List of cinemas in Karachi",
+        "Mainland Karachi",
+        "Mansfield Street, Karachi",
+        "Memon Nagar",
+        "Mini pakistan",
+        "Moti Masjid (Karachi)",
+        "Muhammad Hussain Panhwar",
+        "Museums in Karachi",
+        "Nathia Gali Beach",
+        "Nathiagali Beach",
+        "Nawa Nar",
+        "Nisar Shaheed Park",
+        "PAF Colony",
+        "Pak Colony",
+        "Platinum Colony",
+        "Qafila Serai",
+        "Ras Karashi",
+        "Ras al Karazi",
+        "Shaheed Benazir Bhutto Park",
+        "Shahrah-e-Altaf Hussain",
+        "Shahrah-e-Liaquat",
+        "Sherpao Colony",
+        "Shopping in Karachi",
+        "Social issues in Karachi",
+        "Sultan Mohamed Shah Aga Khan School, Karachi",
+        "Syedna Burhanuddin Road",
+        "Tourism in Karachi",
+        "Umdah",
+        "Uthal Industrial Estate",
+        "Victoria Road, Karachi",
+        "Waheed Murad Road",
+        "Wilayatabad",
+        "Windher Industrial and Trading Estate",
+        "بند مراد",
+        "ڪراچي"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Karachi (Urdu: کراچی‎; Sindhi: ڪراچي; ALA-LC: Karācī, IPA: [kəˈraːtʃi] ()) is the capital of the Pakistani province of Sindh. It is the most populous city in Pakistan, and fifth-most-populous city proper in the world. Ranked as a beta-global city, the city is Pakistan's premier industrial and financial centre. It is the cultural, economic, philanthropic, educational, and political hub of the country, and Pakistan's most cosmopolitan city. Situated on the Arabian Sea, Karachi serves as a transport hub, and is home to Pakistan's two largest seaports, the Port of Karachi and Port Bin Qasim, as well as Pakistan's busiest airport, Jinnah International Airport."
+      ],
+      "label": [
+        "Karachi"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Karachi"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1729_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Capitals_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Cities_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Coastal_cities_and_towns_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Former_national_capitals",
+        "http://dbpedia.org/resource/Category:Karachi",
+        "http://dbpedia.org/resource/Category:Metropolitan_areas_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1729",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Sindh",
+        "http://dbpedia.org/resource/Category:Port_cities_and_towns_in_Pakistan",
+        "http://dbpedia.org/resource/Category:Ports_and_harbours_of_the_Indian_Ocean"
+      ]
+    },
+    {
+      "score": [
+        "1710.2788"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_rupee"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> abasi",
+        "<B>Afghanistani</B> abasi",
+        "<B>Afghanistani</B> rupee",
+        "Kabuli rupee",
+        "Kandahari rupee"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Afghan</B> rupee was the currency of <B>Afghanistan</B> until 1925. Before 1891, silver rupees circulated"
+      ],
+      "label": [
+        "<B>Afghan</B> rupee"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_rupee"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1891_establishments_by_country",
+        "http://dbpedia.org/resource/Category:1925_disestablishments",
+        "http://dbpedia.org/resource/Category:Currencies_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "1708.5746"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghans_in_the_United_Kingdom"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> British",
+        "<B>Afghan</B> Britishs",
+        "<B>Afghan</B> Briton",
+        "<B>Afghan</B> Britons",
+        "<B>Afghan</B> migration to the United Kingdom",
+        "<B>Afghanistani</B> British",
+        "<B>Afghanistani</B> Briton",
+        "<B>Afghanistani</B> Britons",
+        "<B>Afghans</B> in Britain",
+        "<B>Afghans</B> in britain",
+        "<B>Afghans</B> in the UK",
+        "British <B>Afghan</B>",
+        "British <B>Afghanistani</B>",
+        "British <B>Afghanistanis</B>",
+        "British <B>Afghans</B>",
+        "History of the <B>Afghans</B> in the United Kingdom",
+        "Pashtun British"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ", <B>Afghanistan</B>. The Office for National Statistics (ONS) estimates that there were 76,000 <B>Afghans</B> living in the UK in 2015."
+      ],
+      "label": [
+        "<B>Afghans</B> in the United Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghans_in_the_United_Kingdom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_diaspora_in_Europe",
+        "http://dbpedia.org/resource/Category:British_people_of_Afghan_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_Kingdom_by_country_of_origin"
+      ]
+    },
+    {
+      "score": [
+        "1701.178"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Film"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Film Archive",
+        "<B>Afghan</B> Film Archives",
+        "<B>Afghan</B> Film Organization"
+      ],
+      "comment": [
+        "<B>Afghan</B> Film also known as <B>Afghan</B> Film Organization (AFO) is <B>Afghanistan's</B> state-run film company"
+      ],
+      "label": [
+        "<B>Afghan</B> Film"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Film"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Archives_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Cinema_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Film_archives_in_Asia",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1968"
+      ]
+    },
+    {
+      "score": [
+        "1698.4009"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2004_Afghan_presidential_election"
+      ],
+      "redirectlabel": [
+        "2004 <B>Afghan</B> elections",
+        "2004 <B>Afghanistani</B> presidential election",
+        "2004 presidential election in <B>Afghanistan</B>",
+        "<B>Afghan</B> presidential election, 2004",
+        "<B>Afghan</B> presidential election in 2004",
+        "<B>Afghan</B> presidential elections, 2004",
+        "<B>Afghanistan</B> presidential election, 2004",
+        "<B>Afghanistani</B> presidential election, 2004"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "An election to the office of President of <B>Afghanistan</B> was held on October 9, 2004. Hamid Karzai won"
+      ],
+      "label": [
+        "2004 <B>Afghan</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2004_Afghan_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2004_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Elections_in_the_Islamic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Hamid_Karzai",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:October_2004_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1671.1748"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ministry_of_Defense_(Afghanistan)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Defense Minister",
+        "<B>Afghan</B> Defense Ministry",
+        "<B>Afghan</B> Minister of Defense",
+        "<B>Afghan</B> Ministry of Defence",
+        "<B>Afghan</B> Ministry of Defense",
+        "<B>Afghan</B> ministry of defense",
+        "Minister of Defence (<B>Afghanistan</B>)",
+        "Minister of Defense (<B>Afghanistan</B>)",
+        "Ministry of Defence (<B>Afghanistan</B>)",
+        "Ministry of National Defense (<B>Afghanistan</B>)",
+        "Taliban Deputy Defense Minister"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        " of <B>Afghanistan</B>, overseeing the <B>Afghan</B> Armed Forces. Its headquarters is located in Kabul. The defense"
+      ],
+      "label": [
+        "Ministry of Defense (<B>Afghanistan</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ministry_of_Defense_(Afghanistan)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Defence_ministries",
+        "http://dbpedia.org/resource/Category:Government_ministries_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Lists_of_government_ministers",
+        "http://dbpedia.org/resource/Category:Military_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Ministries_of_the_Islamic_Republic_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1659.4232"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_vole"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Vole",
+        "Blanfordimys afganensis",
+        "Blanfordimys <B>afghanus</B>",
+        "Blanfordimys balchanensis",
+        "Blanfordimys dangarinensis",
+        "Microtus <B>afghanus</B>"
+      ],
+      "comment": [
+        "The <B>Afghan</B> vole (Blanfordimys <B>afghanus</B>) is a species of rodent in the family Cricetidae. It is found in south-central Asia."
+      ],
+      "label": [
+        "<B>Afghan</B> vole"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_vole"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1912",
+        "http://dbpedia.org/resource/Category:Mammals_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Microtus",
+        "http://dbpedia.org/resource/Category:Rodents_of_Asia",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Oldfield_Thomas",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1617.5834"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Massacre:_The_Convoy_of_Death"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Massacre: Convoy of Death",
+        "<B>Afghan</B> Massacre: Convoy of Death (film)",
+        "<B>Afghan</B> Massacre: the Convoy of Death",
+        "<B>Afghan</B> Massacre - the Convoy of Death",
+        "<B>Afghan</B> Massacre - the Convoy of Death (film)",
+        "Convoy of death",
+        "Massacre at Mazar",
+        "Massacre at Mazar (film)"
+      ],
+      "typeName": [
+        "Film",
+        "Work"
+      ],
+      "comment": [
+        "<B>Afghan</B> Massacre: The Convoy of Death (earlier title: Massacre at Mazar) is a 2002 documentary by"
+      ],
+      "label": [
+        "<B>Afghan</B> Massacre: The Convoy of Death"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Massacre:_The_Convoy_of_Death"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Film",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_British_films",
+        "http://dbpedia.org/resource/Category:2000s_English-language_films",
+        "http://dbpedia.org/resource/Category:2002_documentary_films",
+        "http://dbpedia.org/resource/Category:2002_films",
+        "http://dbpedia.org/resource/Category:2002_television_films",
+        "http://dbpedia.org/resource/Category:British_documentary_films",
+        "http://dbpedia.org/resource/Category:Documentary_films_about_the_War_in_Afghanistan_(2001–2021)",
+        "http://dbpedia.org/resource/Category:Documentary_films_alleging_war_crimes"
+      ]
+    },
+    {
+      "score": [
+        "1614.8005"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_refugees"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> refugee",
+        "<B>Afghan</B> refugee crisis",
+        "Refugees of <B>Afghanistan</B>"
+      ],
+      "comment": [
+        "<B>Afghan</B> refugees are nationals of <B>Afghanistan</B> who left their country as a result of major wars or"
+      ],
+      "label": [
+        "<B>Afghan</B> refugees"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_refugees"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_diaspora",
+        "http://dbpedia.org/resource/Category:Afghan_refugees",
+        "http://dbpedia.org/resource/Category:Refugees_by_war"
+      ]
+    },
+    {
+      "score": [
+        "1608.584"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Nationality Law",
+        "<B>Afghan</B> citizenship",
+        "<B>Afghanistani</B> nationality law",
+        "History of <B>Afghan</B> nationality law",
+        "Nationality law of <B>Afghanistan</B>"
+      ],
+      "comment": [
+        " nationality, or if they \"come of age\" (turn 18 years of age) in <B>Afghanistan</B> they become <B>Afghan</B>."
+      ],
+      "label": [
+        "<B>Afghan</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1597.1816"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Real_Afghan_Kabul"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Real <B>Afghan</B> Kabul  is a football team in <B>Afghanistan</B>. They play in the <B>Afghan</B> Premier League."
+      ],
+      "label": [
+        "Real <B>Afghan</B> Kabul"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Real_Afghan_Kabul"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1592.1876"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan–Sikh_Wars"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-Sikh Wars",
+        "<B>Afghan</B>-Sikh wars",
+        "<B>Afghan</B>–Sikh wars"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Afghan</B>–Sikh wars were a series of wars between the Islamic Durrani Empire (centred in present"
+      ],
+      "label": [
+        "<B>Afghan</B>–Sikh Wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan–Sikh_Wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Battles_involving_the_Sikhs",
+        "http://dbpedia.org/resource/Category:History_of_the_Durrani_Empire",
+        "http://dbpedia.org/resource/Category:Sikh_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_India"
+      ]
+    },
+    {
+      "score": [
+        "1580.146"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irano-Afghan_race"
+      ],
+      "redirectlabel": [
+        "Iranian Plateau nose",
+        "Iranid",
+        "Iranid race",
+        "Irano-<B>Afghan</B>",
+        "Irano-<B>Afghans</B>",
+        "Nordic-Iranian",
+        "Nordic Iranian"
+      ],
+      "comment": [
+        "The Irano-<B>Afghan</B> race (also known as the Iranid race) is an obsolete term for a physical type most"
+      ],
+      "label": [
+        "Irano-<B>Afghan</B> race"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irano-Afghan_race"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Historical_definitions_of_race"
+      ]
+    },
+    {
+      "score": [
+        "1558.4777"
+      ],
+      "refCount": [
+        "54"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mujahideen"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Jihad",
+        "<B>Afghan</B> jihad",
+        "Burmese Mujahideen",
+        "Burmese mujahideen",
+        "Foreign Mujahideen",
+        "Foreign mujahideen",
+        "Huramentado",
+        "Huramentados",
+        "Islamic militant",
+        "Islamic militants",
+        "Islamist militant",
+        "Islamist militants",
+        "Mojahed",
+        "Mojahedin",
+        "Mojahidin",
+        "Moujahadin",
+        "Moujahedeen",
+        "Mudjahedin",
+        "Muhajadeen",
+        "Muhajeddin",
+        "Muhajideen",
+        "Mujadeen",
+        "Mujahaddin",
+        "Mujahadeen",
+        "Mujahadin",
+        "Mujahdeen",
+        "Mujahed",
+        "Mujaheddin",
+        "Mujahedeein",
+        "Mujahedeen",
+        "Mujahedeen Army",
+        "Mujahedeens",
+        "Mujaheden",
+        "Mujahedin",
+        "Mujahedins",
+        "Mujaheedin <B>Afghan</B>",
+        "Mujahid",
+        "Mujahiddin",
+        "Mujahidin",
+        "Mujahids",
+        "Mujihadeen",
+        "Mujāhidīn",
+        "Muslim Mojahedin",
+        "Sultan ul-Mujahidin",
+        "Union of Mujahadin"
+      ],
+      "comment": [
+        " groups led by the Islamist <B>Afghan</B> fighters in the Soviet–<B>Afghan</B> War and now extends to other jihadist groups in various countries."
+      ],
+      "label": [
+        "Mujahideen"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mujahideen"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1990s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Arabic_words_and_phrases",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Islamic_terminology",
+        "http://dbpedia.org/resource/Category:Mujahideen",
+        "http://dbpedia.org/resource/Category:Pan-Islamism",
+        "http://dbpedia.org/resource/Category:Soviet–Afghan_War",
+        "http://dbpedia.org/resource/Category:War_on_terror"
+      ]
+    },
+    {
+      "score": [
+        "1551.3416"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armed_Forces_of_the_Islamic_Emirate_of_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Armed Forces",
+        "<B>Afghan</B> Islamic Defence Force",
+        "<B>Afghan</B> Military",
+        "<B>Afghan</B> Military Force",
+        "<B>Afghan</B> Military Forces",
+        "<B>Afghan</B> Military force",
+        "<B>Afghan</B> Militia Force",
+        "<B>Afghan</B> National Security Force",
+        "<B>Afghan</B> forces",
+        "<B>Afghan</B> military",
+        "<B>Afghani</B> Military Force",
+        "<B>Afghani</B> Militia Force",
+        "<B>Afghanistan</B>/Military",
+        "<B>AfghanistanMilitary</B>",
+        "<B>Afghanistan</B> Military Force",
+        "<B>Afghanistan</B> Militia Force",
+        "<B>Afghanistani</B> Military Force",
+        "<B>Afghanistani</B> Militia Force",
+        "Armed Forces of <B>Afghanistan</B>",
+        "Armed forces of <B>Afghanistan</B>",
+        "Army And Air Force of the Islamic Emirate of <B>Afghanistan</B>",
+        "Army and Air Force of Islamic Emirate of <B>Afghanistan</B>",
+        "Army of <B>Afghanistan</B>",
+        "Army of the Islamic Emirate of <B>Afghanistan</B>",
+        "History of the Armed Forces of the Islamic Emirate of <B>Afghanistan</B>",
+        "Islamic Army and Air Force of <B>Afghanistan</B>",
+        "Islamic Army of <B>Afghanistan</B>",
+        "Islamic Army of Emirate of <B>Afghanistan</B>",
+        "Islamic Defence Force of <B>Afghanistan</B>",
+        "Islamic Emirate Forces",
+        "Islamic Emirate Forces of <B>Afghanistan</B>",
+        "List of equipment of Islamic Defence Force of <B>Afghanistan</B>",
+        "List of equipment of Taliban",
+        "Military of <B>Afghanistan</B>",
+        "Military of Islamic Emirate of <B>Afghanistan</B>",
+        "Military of the Islamic Emirate of <B>Afghanistan</B>",
+        "Navy of <B>Afghanistan</B>",
+        "The Army and Air Force of the Islamic Emirate of <B>Afghanistan</B>"
+      ],
+      "label": [
+        "Armed Forces of the Islamic Emirate of <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armed_Forces_of_the_Islamic_Emirate_of_Afghanistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2001_disestablishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2021_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Islamic_Emirate_Forces",
+        "http://dbpedia.org/resource/Category:Military_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_2001",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1997",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_2021"
+      ]
+    },
+    {
+      "score": [
+        "1547.2661"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_(biscuit)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> biscuit",
+        "<B>Afghan</B> biscuits",
+        "<B>Afghan</B> buiscuit"
+      ],
+      "label": [
+        "<B>Afghan</B> (biscuit)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_(biscuit)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_cuisine",
+        "http://dbpedia.org/resource/Category:Biscuit_brands",
+        "http://dbpedia.org/resource/Category:Biscuits",
+        "http://dbpedia.org/resource/Category:Chocolate_desserts",
+        "http://dbpedia.org/resource/Category:New_Zealand_cuisine",
+        "http://dbpedia.org/resource/Category:New_Zealand_desserts",
+        "http://dbpedia.org/resource/Category:New_Zealand_snack_foods",
+        "http://dbpedia.org/resource/Category:Types_of_food"
+      ]
+    },
+    {
+      "score": [
+        "1546.0286"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Interim_Administration"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Interim Authority",
+        "<B>Afghanistan</B> Interim Administration",
+        "Interim Administration of <B>Afghanistan</B>",
+        "Interim <B>Afghan</B> Administration"
+      ],
+      "comment": [
+        "The <B>Afghan</B> Interim Administration (AIA), also known as the <B>Afghan</B> Interim Authority, was the first"
+      ],
+      "label": [
+        "<B>Afghan</B> Interim Administration"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Interim_Administration"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2001_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2002_disestablishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Executive_branch_of_the_government_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Former_political_entities_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Government_agencies_disestablished_in_2002",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_2001",
+        "http://dbpedia.org/resource/Category:Hamid_Karzai",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:Provisional_governments"
+      ]
+    },
+    {
+      "score": [
+        "1532.789"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Azad_Khan_Afghan"
+      ],
+      "redirectlabel": [
+        "Azad-Khan <B>Afghan</B>",
+        "Azad Khan",
+        "Azad Shah",
+        "Azad Shah <B>Afghan</B>",
+        "Azad dynasty"
+      ],
+      "typeName": [
+        "Person",
+        "Royalty",
+        "Agent"
+      ],
+      "comment": [
+        "Azād Khān <B>Afghān</B> (Pashto: آزاد خان افغان‎), or Azād Shāh <B>Afghān</B> (آزاد شاه افغان) (died 1781), was a"
+      ],
+      "label": [
+        "Azad Khan <B>Afghan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Azad_Khan_Afghan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Royalty",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1781_deaths",
+        "http://dbpedia.org/resource/Category:18th-century_monarchs_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Afghan_Sunni_Muslims",
+        "http://dbpedia.org/resource/Category:Afghan_tribal_leaders",
+        "http://dbpedia.org/resource/Category:Pashtun_people",
+        "http://dbpedia.org/resource/Category:Prisoners_and_detainees_of_the_Zand_dynasty",
+        "http://dbpedia.org/resource/Category:Year_of_birth_unknown"
+      ]
+    },
+    {
+      "score": [
+        "1528.782"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/United_States_documents_leak_of_the_War_in_Afghanistan"
+      ],
+      "redirectlabel": [
+        "2010 <B>Afghan</B> War documents leak",
+        "<B>Afgan</B> War Diary",
+        "<B>Afghan</B> Files",
+        "<B>Afghan</B> War Diaries",
+        "<B>Afghan</B> War Diary",
+        "<B>Afghan</B> War Diarys",
+        "<B>Afghan</B> War Logs",
+        "<B>Afghan</B> War documents leak",
+        "<B>Afghanistan</B> War Logs",
+        "<B>Afghanistan</B> war logs",
+        "Insurance.aes256",
+        "Kabul War Diary",
+        "Pentagon Papers II",
+        "War Logs",
+        "War log"
+      ],
+      "label": [
+        "United States documents leak of the War in <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/United_States_documents_leak_of_the_War_in_Afghanistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_in_military_history",
+        "http://dbpedia.org/resource/Category:Classified_documents",
+        "http://dbpedia.org/resource/Category:Information_published_by_WikiLeaks",
+        "http://dbpedia.org/resource/Category:July_2010_events",
+        "http://dbpedia.org/resource/Category:United_States_documents",
+        "http://dbpedia.org/resource/Category:War_in_Afghanistan_(2001–2021)"
+      ]
+    },
+    {
+      "score": [
+        "1523.8262"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Turk_Maarif_Schools"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Turk High Schools",
+        "<B>Afghan</B> Turk International School & Colleges",
+        "<B>Afghan</B> Turk International School and Colleges",
+        "Kabul <B>Afghan</B> Turk High Schools",
+        "Kabul Ariana <B>Afghan</B> Turk High Schools"
+      ],
+      "typeName": [
+        "Organisation",
+        "School",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "label": [
+        "<B>Afghan</B> Turk Maarif Schools"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Turk_Maarif_Schools"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/School",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_establishments_in_Turkey",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_2018",
+        "http://dbpedia.org/resource/Category:Private_schools_in_Turkey"
+      ]
+    },
+    {
+      "score": [
+        "1511.2927"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pashtun_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> nationalist",
+        "<B>Afghan</B> nationalists",
+        "History of Pashtun nationalism",
+        "Lar aw bar <B>Afghan</B>",
+        "Lar aw bar yaw <B>Afghan</B>",
+        "Pashtun Nationalism",
+        "Pashtun nationalist",
+        "Pashtun nationalists",
+        "Pashtun rights"
+      ],
+      "comment": [
+        " <B>Afghanistan</B>). Therefore, the concept of Pashtun nationalism politically overlaps with <B>Afghan</B> nationalism."
+      ],
+      "label": [
+        "Pashtun nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pashtun_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Durand_Line",
+        "http://dbpedia.org/resource/Category:Pashtun_nationalism",
+        "http://dbpedia.org/resource/Category:Pashtun_politics"
+      ]
+    },
+    {
+      "score": [
+        "1505.0281"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1928–1929)"
+      ],
+      "redirectlabel": [
+        "1929 <B>Afghan</B> Civil War",
+        "<B>Afghan</B> Civil War (1928-1929)",
+        "<B>Afghan</B> civil war of 1928-29",
+        "Reforms of Amanullah Khan & civil war",
+        "Reforms of Amanullah Khan and civil war",
+        "Reforms of Amānullāh Khān and civil war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Afghan</B> Civil War was fought from 14 November 1928 to 13 October 1929. Rebelling, and"
+      ],
+      "label": [
+        "<B>Afghan</B> Civil War (1928–1929)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1928–1929)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1928_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1929_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghan_Civil_War_(1928–1929)",
+        "http://dbpedia.org/resource/Category:Amanullah_Khan",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1928",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1929",
+        "http://dbpedia.org/resource/Category:Political_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Reform_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1475.5593"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Turkmens"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Turkmen",
+        "History of the <B>Afghan</B> Turkmens",
+        "Turkmen of <B>Afghanistan</B>",
+        "Turkmens in <B>Afghanistan</B>"
+      ],
+      "label": [
+        "<B>Afghan</B> Turkmens"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Turkmens"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_Turkmen_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1473.2311"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_National_Army_Commando_Corps"
+      ],
+      "redirectlabel": [
+        "ANA Commando Battalion",
+        "ANA Commando Brigade",
+        "<B>Afghan</B> National Army Commandos",
+        "<B>Afghan</B> commandos",
+        "Commando Corps (<B>Afghanistan</B>)",
+        "Commandos (<B>Afghanistan</B>)",
+        "Commandos Corps (<B>Afghanistan</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Afghan</B> National Army Commando Corps (formerly ANA Commando Brigade; ANA Commando Battalion) is"
+      ],
+      "label": [
+        "<B>Afghan</B> National Army Commando Corps"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_National_Army_Commando_Corps"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Commando_units_and_formations",
+        "http://dbpedia.org/resource/Category:Counterterrorist_organizations",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_2007",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_War_in_Afghanistan_(2001–2021)"
+      ]
+    },
+    {
+      "score": [
+        "1451.3368"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Wireless"
+      ],
+      "redirectlabel": [
+        "AWCC",
+        "<B>Afghan</B> Wireless Communication",
+        "<B>Afghan</B> Wireless Communication Company"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Afghan</B> Wireless Communication Company, also known as <B>Afghan</B> Wireless and AWCC, is <B>Afghanistan's</B>"
+      ],
+      "label": [
+        "<B>Afghan</B> Wireless"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Wireless"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Joint_ventures",
+        "http://dbpedia.org/resource/Category:Mobile_phone_companies_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Telecommunications_companies_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1446.7467"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018_Afghan_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> parliamentary election, 2015",
+        "<B>Afghan</B> parliamentary election, 2016",
+        "<B>Afghan</B> parliamentary election, 2018",
+        "Next <B>Afghan</B> parliamentary election"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Parliamentary elections were held in <B>Afghanistan</B> on Saturday 20 October 2018 to elect members of"
+      ],
+      "label": [
+        "2018 <B>Afghan</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018_Afghan_parliamentary_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2018_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Elections_in_the_Islamic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:National_Assembly_(Afghanistan)",
+        "http://dbpedia.org/resource/Category:October_2018_events_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1429.1302"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghanistan_Campaign_Medal"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Campaign Medal",
+        "<B>Afghan</B> campaign medal"
+      ],
+      "comment": [
+        "The <B>Afghanistan</B> Campaign Medal (ACM) is a military award of the United States military which was"
+      ],
+      "label": [
+        "<B>Afghanistan</B> Campaign Medal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghanistan_Campaign_Medal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Awards_established_in_2004",
+        "http://dbpedia.org/resource/Category:United_States_campaign_medals"
+      ]
+    },
+    {
+      "score": [
+        "1418.9965"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Durand_Line"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-Pakistani border",
+        "<B>Afghan</B> partition",
+        "<B>Afghanistan</B>-Pakistan border",
+        "<B>Afghanistan</B> - Pakistan border",
+        "<B>Afghanistan</B> Pakistan border",
+        "<B>Afghanistan</B> – Pakistan border",
+        "<B>Afghanistan</B>–Pakistan border",
+        "Breakup of <B>Afghanistan</B>",
+        "Durand Agreement",
+        "Durand Line Agreement",
+        "Durand Treaty",
+        "Durand line",
+        "Durand line Agreement",
+        "Durrand Line",
+        "Durrand line",
+        "Pak <B>Afghan</B> border",
+        "Pakistan-<B>Afghan</B> border",
+        "Pakistan-<B>Afghanistan</B> border",
+        "Pakistan - <B>Afghanistan</B> border",
+        "Pakistan <B>Afghanistan</B> border",
+        "Pakistan – <B>Afghanistan</B> border",
+        "Pakistani-<B>Afghan</B> border",
+        "Pakistan–<B>Afghanistan</B> border",
+        "Partition of <B>Afghanistan</B>",
+        "Partitioning of <B>Afghanistan</B>",
+        "Shonkrhai"
+      ],
+      "comment": [
+        ", and Abdur Rahman Khan, the <B>Afghan</B> Emir, to fix the limit of their respective spheres of influence and improve diplomatic relations and trade."
+      ],
+      "label": [
+        "Durand Line"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Durand_Line"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1893_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1893_establishments_in_British_India",
+        "http://dbpedia.org/resource/Category:1893_in_international_relations",
+        "http://dbpedia.org/resource/Category:Afghanistan–Pakistan_border",
+        "http://dbpedia.org/resource/Category:Afghanistan–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Borders_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Borders_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Durand_Line",
+        "http://dbpedia.org/resource/Category:Eponymous_border_lines",
+        "http://dbpedia.org/resource/Category:History_of_Pakistan",
+        "http://dbpedia.org/resource/Category:International_borders",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:The_Great_Game"
+      ]
+    },
+    {
+      "score": [
+        "1410.8152"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_New_Beginnings_Programme"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Disarmament, Demobilisation and Re-Integration Program",
+        "<B>Afghan</B> Disarmament, Demobilization & Reintegration Program",
+        "<B>Afghan</B> Disarmament, Demobilization and Reintegration Program",
+        "<B>Afghan</B> New Beginnings Program"
+      ],
+      "comment": [
+        " National Army, <B>Afghan</B> National Police or an alternative line of work. The government of <B>Afghanistan</B>"
+      ],
+      "label": [
+        "<B>Afghan</B> New Beginnings Programme"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_New_Beginnings_Programme"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_disbanding_and_disarmament",
+        "http://dbpedia.org/resource/Category:Military_of_the_Islamic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Society_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1379.9337"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/People's_Democratic_Party_of_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Central Committee",
+        "<B>Afghan</B> Communist Party",
+        "<B>Afghan</B> Communists",
+        "Central Committee of the <B>Afghan</B> Communist Party",
+        "Central Committee of the Communist Party of <B>Afghanistan</B>",
+        "Central Committee of the PDPA",
+        "Central Committee of the People's Democratic Party of <B>Afghanistan</B>",
+        "Communist Party of <B>Afghanistan</B>",
+        "Democratic People's Party of <B>Afghanistan</B>",
+        "Democratic Watan Party of <B>Afghanistan</B>",
+        "General Secretary of the People's Democratic Party of <B>Afghanistan</B>",
+        "PDPA",
+        "PDPA Central Committee",
+        "Peoples Democratic Party of <B>Afghanistan</B>",
+        "People’s Democratic Party of <B>Afghanistan</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The People's Democratic Party of <B>Afghanistan</B> (Persian: حزب دموکراتيک خلق افغانستان‎, Hezb-e"
+      ],
+      "label": [
+        "People's Democratic Party of <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/People's_Democratic_Party_of_Afghanistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1965_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1970s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1980s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1990s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Collaborators_with_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Formerly_ruling_communist_parties",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:People's_Democratic_Party_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Political_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1992",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1965",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Soviet–Afghan_War"
+      ]
+    },
+    {
+      "score": [
+        "1371.7803"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Central_Afghan_highlands"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Highlands",
+        "<B>Afghan</B> highlands",
+        "Central <B>Afghanistan</B>"
+      ],
+      "label": [
+        "Central <B>Afghan</B> highlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Central_Afghan_highlands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Regions_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1364.3309"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1996–2001)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Civil War (1996-2001)",
+        "Civil war in <B>Afghanistan</B> (1996-2001)",
+        "Civil war in <B>Afghanistan</B> (1996–2001)",
+        "Taliban-Northern Alliance conflict",
+        "Taliban–Northern Alliance conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " <B>Afghanistan</B> on 7 October 2001: a period that was part of the <B>Afghan</B> civil war that had started in 1989"
+      ],
+      "label": [
+        "<B>Afghan</B> Civil War (1996–2001)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Civil_War_(1996–2001)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1996_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1996_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1997_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1998_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1999_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2000_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2000s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2001_disestablishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2001_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:20th_century_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:21st_century_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Afghan_Civil_War_(1996–2001)",
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Afghanistan–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1996",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1997",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1998",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1999",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2000",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2001",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Warlordism",
+        "http://dbpedia.org/resource/Category:Wars_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Taliban"
+      ]
+    },
+    {
+      "score": [
+        "1358.4916"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ministry_of_Interior_Affairs_(Afghanistan)"
+      ],
+      "redirectlabel": [
+        "ASNF",
+        "<B>Afghan</B> Interior Minister",
+        "<B>Afghan</B> Interior Ministry",
+        "<B>Afghan</B> Ministry of the Interior",
+        "<B>Afghan</B> Special Narcotics Force",
+        "<B>Afghan</B> minister of interior",
+        "<B>Afghan</B> ministry of the interior",
+        "<B>Afghanistan</B> Interior Minister",
+        "Interior Minister (<B>Afghanistan</B>)",
+        "Interior Minister of <B>Afghanistan</B>",
+        "Interior minister of <B>Afghanistan</B>",
+        "Minister of Interior (<B>Afghanistan</B>)",
+        "Ministry of Interior (<B>Afghanistan</B>)",
+        "Ministry of the Interior (<B>Afghanistan</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        " Police of <B>Afghanistan</B>, and the <B>Afghan</B> Public Protection Force. It also supervises the General Directorate of Prisons and Detention Centers (GDPDC)."
+      ],
+      "label": [
+        "Ministry of Interior Affairs (<B>Afghanistan</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ministry_of_Interior_Affairs_(Afghanistan)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_ministries_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Internal_affairs_ministries",
+        "http://dbpedia.org/resource/Category:Ministries_of_the_Islamic_Republic_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1347.6443"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Afghan_Armed_Forces_(2002–2021)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Armed Forces (2002-2021)",
+        "<B>Afghan</B> national army",
+        "History of the <B>Afghan</B> Armed Forces (2002-2021)",
+        "History of the <B>Afghan</B> Armed Forces 2002-2021",
+        "List of equipment of the <B>Afghan</B> Armed Forces",
+        "List of equipment of the Islamic Defence Force of <B>Afghanistan</B>",
+        "List of equipment of the Islamic Emirate Army",
+        "List of equipment of the Islamic Emirate Forces"
+      ],
+      "label": [
+        "History of the <B>Afghan</B> Armed Forces (2002–2021)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Afghan_Armed_Forces_(2002–2021)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:21st-century_military_history",
+        "http://dbpedia.org/resource/Category:21st_century_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_history_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1345.4457"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_rug"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> carpet",
+        "<B>Afghan</B> rugs"
+      ],
+      "comment": [
+        " in <B>Afghanistan</B>. Many of the <B>Afghan</B> rugs are also woven by <B>Afghan</B> refugees who reside in Pakistan. In"
+      ],
+      "label": [
+        "<B>Afghan</B> rug"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_rug"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_rugs_and_carpets"
+      ]
+    },
+    {
+      "score": [
+        "1334.7896"
+      ],
+      "refCount": [
+        "76"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pashto"
+      ],
+      "redirectlabel": [
+        "<B>Afgan</B> language",
+        "<B>Afgani</B> language",
+        "<B>Afghan</B> Pashto",
+        "<B>Afghan</B> language",
+        "<B>Afghani</B> language",
+        "Eastern Pashto language",
+        "History of the Pashto language",
+        "ISO 639:ps",
+        "ISO 639:pus",
+        "PUS (language)",
+        "Pakhto",
+        "Pakhto language",
+        "Pakhtun language",
+        "Pakistani Pashto",
+        "Pashto-language",
+        "Pashto (language)",
+        "Pashto Language",
+        "Pashto language",
+        "Pashto languages",
+        "Pashto macrolanguage",
+        "Pashtoe",
+        "Pashtoo",
+        "Pashtoon language",
+        "Pashtu",
+        "Pashtu language",
+        "Pashtun (language)",
+        "Pashtun language",
+        "Pasthu",
+        "Pathan language",
+        "Pathani Language",
+        "Pathani language",
+        "Paxtonix",
+        "Pukhto",
+        "Pukhto language",
+        "Pukhtu",
+        "Pushto",
+        "Pushto language",
+        "Pushtoo",
+        "Pushtu",
+        "Pushtu language",
+        "Pushtun language",
+        "Western Pashto language",
+        "پښتو"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " languages of <B>Afghanistan</B>. Pashto is also the second-largest regional language of Pakistan, mainly spoken in"
+      ],
+      "label": [
+        "Pashto"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pashto"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Eastern_Iranian_languages",
+        "http://dbpedia.org/resource/Category:Fusional_languages",
+        "http://dbpedia.org/resource/Category:Iranian_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Languages_of_Balochistan,_Pakistan",
+        "http://dbpedia.org/resource/Category:Languages_of_Khyber_Pakhtunkhwa",
+        "http://dbpedia.org/resource/Category:Languages_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Pashto",
+        "http://dbpedia.org/resource/Category:Subject–object–verb_languages"
+      ]
+    },
+    {
+      "score": [
+        "1317.8021"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_babbler"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Babbler",
+        "Argya huttoni",
+        "Turdoides huttoni"
+      ],
+      "comment": [
+        "The <B>Afghan</B> babbler (Argya huttoni) is a species of bird in the family Leiothrichidae.It is found"
+      ],
+      "label": [
+        "<B>Afghan</B> babbler"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_babbler"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argya",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1847",
+        "http://dbpedia.org/resource/Category:Birds_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Birds_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Birds_of_South_Asia",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Edward_Blyth"
+      ]
+    },
+    {
+      "score": [
+        "1310.2146"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Republic_of_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Republic",
+        "<B>Afghan</B> Republic (disambiguation)",
+        "Republic of <B>Afghanistan</B> (disambiguation)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Republic of <B>Afghanistan</B> (Dari: جمهوری افغانستان‎, Jǝmhūri Afġānistān; Pashto: د افغانستان"
+      ],
+      "label": [
+        "Republic of <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Republic_of_Afghanistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ]
+    },
+    {
+      "score": [
+        "1307.211"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Panjshir_offensives_(Soviet–Afghan_War)"
+      ],
+      "redirectlabel": [
+        "Operations Panjsher I-VI",
+        "Panjshir offensives",
+        "Panjshir offensives (Soviet-<B>Afghan</B> War)",
+        "Panjshir offensives of the Soviet-<B>Afghan</B> War",
+        "Panjshir offensives of the Soviet–<B>Afghan</B> War"
+      ],
+      "label": [
+        "Panjshir offensives (Soviet–<B>Afghan</B> War)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Panjshir_offensives_(Soviet–Afghan_War)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Battles_involving_Afghanistan",
+        "http://dbpedia.org/resource/Category:Battles_involving_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Battles_of_the_Soviet–Afghan_War",
+        "http://dbpedia.org/resource/Category:History_of_Panjshir_Province"
+      ]
+    },
+    {
+      "score": [
+        "1294.3807"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Peace_Jirga_2010"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Peace Council",
+        "<B>Afghanistan's</B> National Consultative Peace Jirga",
+        "N.C.P.J.",
+        "NCPJ",
+        "National Consultative Peace Jirga"
+      ],
+      "comment": [
+        "The <B>Afghan</B> President Hamid Karzai announced the holding of a consultative grand council called the"
+      ],
+      "label": [
+        "<B>Afghan</B> Peace Jirga 2010"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Peace_Jirga_2010"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Hamid_Karzai",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:Political_history_of_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1292.977"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_art"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> modern art",
+        "Art in <B>Afghanistan</B>",
+        "Art of <B>Afghanistan</B>",
+        "Islamic art in <B>Afghanistan</B>"
+      ],
+      "comment": [
+        "<B>Afghan</B> art has spanned many centuries. One of the most significant periods is the Gandharan art"
+      ],
+      "label": [
+        "<B>Afghan</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_art"
+      ]
+    },
+    {
+      "score": [
+        "1285.8528"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sher_Afgan_Khan"
+      ],
+      "redirectlabel": [
+        "Ali Quli Istajlu",
+        "Shah Quli Khan",
+        "Sher <B>Afgan</B>",
+        "Sher <B>Afghan</B>",
+        "Sher <B>Afghan</B> Khan",
+        "Sher <B>Afghan</B> Quli Khan",
+        "Sher <B>afghan</B>"
+      ],
+      "comment": [
+        "Ali Quli Istajlu, also known by his later, given name of Sher <B>Afgan</B> Khan (Persian: شيرافگن خان‎"
+      ],
+      "label": [
+        "Sher <B>Afgan</B> Khan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sher_Afgan_Khan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1607_deaths",
+        "http://dbpedia.org/resource/Category:Ethnic_Turkmen_people",
+        "http://dbpedia.org/resource/Category:Mughal_nobility",
+        "http://dbpedia.org/resource/Category:Year_of_birth_unknown"
+      ]
+    },
+    {
+      "score": [
+        "1283.586"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_cricket_team_in_Australia_in_2021–22"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> cricket team in Australia in 2020-21",
+        "<B>Afghan</B> cricket team in Australia in 2020",
+        "<B>Afghan</B> cricket team in Australia in 2020–21",
+        "<B>Afghan</B> cricket team in Australia in 2021-22",
+        "<B>Afghan</B> cricket team in Australia in 2021",
+        "<B>Afghanistan</B> cricket team in Australia in 2020-21",
+        "<B>Afghanistan</B> cricket team in Australia in 2020–21"
+      ],
+      "label": [
+        "<B>Afghan</B> cricket team in Australia in 2021–22"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_cricket_team_in_Australia_in_2021–22"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2021_in_Afghan_cricket",
+        "http://dbpedia.org/resource/Category:2021_in_Australian_cricket",
+        "http://dbpedia.org/resource/Category:Afghan_cricket_tours_abroad",
+        "http://dbpedia.org/resource/Category:Cancelled_sports_events",
+        "http://dbpedia.org/resource/Category:Cricket_events_postponed_due_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2021–22",
+        "http://dbpedia.org/resource/Category:International_cricket_tours_of_Australia"
+      ]
+    },
+    {
+      "score": [
+        "1280.1632"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghanistan–Pakistan_relations"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B>-Pakistan relations",
+        "<B>Afghanistan</B>-Pakistan",
+        "<B>Afghanistan</B>-Pakistan relations",
+        "<B>Afghanistan</B> - Pakistan relations",
+        "<B>Afghanistan</B> Pakistan relations",
+        "<B>Afghanistan</B> and Pakistan",
+        "<B>Afghanistan</B> – Pakistan relations",
+        "<B>Afghanistan</B>–Pakistan",
+        "Pak-<B>Afghan</B>",
+        "Pak-<B>Afghan</B> relations",
+        "Pak <B>Afghan</B>",
+        "Pakistan-<B>Afghanistan</B>",
+        "Pakistan-<B>Afghanistan</B> relations",
+        "Pakistan - <B>Afghanistan</B> relations",
+        "Pakistan <B>Afghanistan</B> relations",
+        "Pakistan and <B>Afghanistan</B>",
+        "Pakistan – <B>Afghanistan</B> relations",
+        "Pakistan–<B>Afghanistan</B> relations"
+      ],
+      "comment": [
+        "<B>Afghanistan</B>–Pakistan relations involve bilateral relations between <B>Afghanistan</B> and Pakistan. The"
+      ],
+      "label": [
+        "<B>Afghanistan</B>–Pakistan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghanistan–Pakistan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghanistan–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Pakistan"
+      ]
+    },
+    {
+      "score": [
+        "1273.4043"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Transitional_Islamic_State_of_Afghanistan"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Transitional Admininstration",
+        "<B>Afghan</B> Transitional Administration",
+        "<B>Afghan</B> Transitional Alliance",
+        "<B>Afghan</B> Transitional Authority",
+        "<B>Afghan</B> transitional administration",
+        "<B>Afghanistan</B> Transitional Administration",
+        "Transitional Administration",
+        "Transitional Administration of <B>Afghanistan</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Transitional Islamic State of <B>Afghanistan</B> (TISA), also known as the <B>Afghan</B> Transitional"
+      ],
+      "label": [
+        "Transitional Islamic State of <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Transitional_Islamic_State_of_Afghanistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2002_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2004_disestablishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:2004_disestablishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Executive_branch_of_the_government_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Former_political_entities_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Government_agencies_disestablished_in_2004",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_2002",
+        "http://dbpedia.org/resource/Category:History_of_Afghanistan_(1992–present)",
+        "http://dbpedia.org/resource/Category:Provisional_governments",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_2002",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_2002",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Afghan_Transitional_Administration"
+      ]
+    },
+    {
+      "score": [
+        "1272.8397"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_TV"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> News"
+      ],
+      "typeName": [
+        "Organisation",
+        "TelevisionStation",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "<B>Afghan</B> TV is a commercial television station, based in Kabul, <B>Afghanistan</B> since 21 May 2004. The"
+      ],
+      "label": [
+        "<B>Afghan</B> TV"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_TV"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TelevisionStation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mass_media_in_Kabul",
+        "http://dbpedia.org/resource/Category:Television_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1262.6182"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_flying_squirrel"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Flying Squirrel",
+        "Eoglaucomys baberi",
+        "Eoglaucomys fimbriatus baberi",
+        "Hylopetes baberi"
+      ],
+      "comment": [
+        "The <B>Afghan</B> flying squirrel (Eoglaucomys fimbriatus baberi) is a subspecies of rodent in the family Sciuridae. It is endemic to <B>Afghanistan</B>."
+      ],
+      "label": [
+        "<B>Afghan</B> flying squirrel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_flying_squirrel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Hylopetes",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1847",
+        "http://dbpedia.org/resource/Category:Mammals_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Edward_Blyth",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1256.3663"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Television_in_Afghanistan"
+      ],
+      "redirectlabel": [
+        "3Sport",
+        "3 Sport",
+        "3 Sport TV",
+        "3sport",
+        "<B>Afghan</B> TV Channels",
+        "<B>Afghan</B> Television",
+        "History of television in <B>Afghanistan</B>",
+        "List of <B>Afghan</B> TV Channels",
+        "List of <B>Afghan</B> TV channels",
+        "List of <B>Afghan</B> Television Channels",
+        "List of <B>Afghan</B> television stations",
+        "List of television channels in <B>Afghanistan</B>",
+        "List of television stations in <B>Afghanistan</B>",
+        "Lists of television stations in <B>Afghanistan</B>",
+        "Television stations in <B>Afghanistan</B>"
+      ],
+      "comment": [
+        "Television (TV) started broadcasting in <B>Afghanistan</B> in 1977, flourishing until the 1990s, when"
+      ],
+      "label": [
+        "Television in <B>Afghanistan</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Television_in_Afghanistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_mass_media_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Television_in_Afghanistan"
+      ]
+    },
+    {
+      "score": [
+        "1246.7532"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Canadian_Afghan_detainee_issue"
+      ],
+      "redirectlabel": [
+        "Canadian <B>Afghan</B> detainee abuse scandal",
+        "Canadian <B>afghan</B> detainee abuse scandal"
+      ],
+      "comment": [
+        "The Canadian <B>Afghan</B> detainee issue concerns Government of Canada or the Canadian Forces (CF"
+      ],
+      "label": [
+        "Canadian <B>Afghan</B> detainee issue"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Canadian_Afghan_detainee_issue"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghanistan–Canada_relations",
+        "http://dbpedia.org/resource/Category:Bagram_Theater_Internment_Facility_detainees",
+        "http://dbpedia.org/resource/Category:Military_history_of_Canada",
+        "http://dbpedia.org/resource/Category:Military_prisoner_abuse_scandals",
+        "http://dbpedia.org/resource/Category:Political_scandals_in_Canada",
+        "http://dbpedia.org/resource/Category:Torture_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:War_crimes_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:War_in_Afghanistan_(2001–2021)"
+      ]
+    },
+    {
+      "score": [
+        "1242.08"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Australian",
+        "<B>Afghans</B> in Australia"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Afghan</B> Australians are Australians whose ancestors came from <B>Afghanistan</B> or who were born in"
+      ],
+      "label": [
+        "<B>Afghan</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_Australian",
+        "http://dbpedia.org/resource/Category:Asian_Australian",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Afghan_descent"
+      ]
+    },
+    {
+      "score": [
+        "1233.7672"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anglo-Afghan_Treaty_of_1919"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Afghan</B> Treaty of 1921",
+        "Anglo–<B>Afghan</B> Treaty of 1921",
+        "Rawalpindi Agreement",
+        "Treaty of Rawalpindi"
+      ],
+      "comment": [
+        " between the United Kingdom and <B>Afghanistan</B> during the Third Anglo-<B>Afghan</B> War. It was signed on 8 August"
+      ],
+      "label": [
+        "Anglo-<B>Afghan</B> Treaty of 1919"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anglo-Afghan_Treaty_of_1919"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_British_India",
+        "http://dbpedia.org/resource/Category:1919_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:1919_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Afghanistan–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:August_1919_events",
+        "http://dbpedia.org/resource/Category:Bilateral_treaties_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Durand_Line",
+        "http://dbpedia.org/resource/Category:History_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Rawalpindi_District",
+        "http://dbpedia.org/resource/Category:Third_Anglo-Afghan_War",
+        "http://dbpedia.org/resource/Category:Treaties_concluded_in_1919",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Emirate_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_United_Kingdom_(1801–1922)"
+      ]
+    },
+    {
+      "score": [
+        "1229.3469"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghanistan_conflict_(1978–present)"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> Civil War (1978-present)",
+        "<B>Afghan</B> conflict (1978-present)",
+        "<B>Afghan</B> conflict (1978–present)",
+        "<B>Afghan</B> crisis (1978-present)",
+        "<B>Afghan</B> crisis (1978–present)",
+        "<B>Afghanistan</B> Civil War (1989-1994)",
+        "<B>Afghanistan</B> conflict (1978-2021)",
+        "<B>Afghanistan</B> conflict (1978-present)",
+        "<B>Afghanistan</B> conflict (1978–2021)",
+        "<B>Afghanistan</B> reconstruction",
+        "Civil War in <B>Afghanistan</B>",
+        "Conflict in <B>Afghanistan</B> (1978-present)",
+        "Conflict in <B>Afghanistan</B> (1978–present)",
+        "Decades of war in <B>Afghanistan</B>",
+        "Second <B>Afghan</B> Civil War",
+        "War in <B>Afghanistan</B> (1978-present)",
+        "War in <B>Afghanistan</B> (1978–present)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Afghanistan</B> conflict (Persian: جنگ های افغانستان‎, Pashto: د افغانستان جنګونه‎) is a series of"
+      ],
+      "label": [
+        "<B>Afghanistan</B> conflict (1978–present)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghanistan_conflict_(1978–present)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghanistan_conflict_(1978–present)",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Cold_War_military_history_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Cold_War_rebellions",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Religion-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Revolution-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Warlordism",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Taliban"
+      ]
+    },
+    {
+      "score": [
+        "1225.0186"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Afghan_singers"
+      ],
+      "redirectlabel": [
+        "<B>Afghan</B> singers",
+        "<B>Afghanistan</B> singer"
+      ],
+      "comment": [
+        "This is a list of notable <B>Afghan</B> singers that have entered the industry, currently working or have left the industry."
+      ],
+      "label": [
+        "List of <B>Afghan</B> singers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Afghan_singers"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_singers",
+        "http://dbpedia.org/resource/Category:Lists_of_Afghan_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_singers_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1214.8508"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2021–2022_Afghan_protests"
+      ],
+      "redirectlabel": [
+        "2021-2022 <B>Afghan</B> protests",
+        "2021 <B>Afghan</B> protests",
+        "2021 <B>Afghanistan</B> protests"
+      ],
+      "label": [
+        "2021–2022 <B>Afghan</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2021–2022_Afghan_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:2022_protests",
+        "http://dbpedia.org/resource/Category:August_2021_events_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:December_2021_events_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:January_2022_events_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:October_2021_events_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Protests_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:September_2021_events_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:War_in_Afghanistan_(2001–2021)"
+      ]
+    },
+    {
+      "score": [
+        "1211.3099"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "label": [
+        "<B>Afghan</B> insurgency"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_insurgency"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_insurgency"
+      ],
+      "redirectlabel": [
+        "<B>Afgan</B> resistance",
+        "<B>Afghan</B> insurgency (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "1203.357"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afghan_National_Civil_Order_Force"
+      ],
+      "redirectlabel": [
+        "ANCOP",
+        "<B>Afghan</B> Gendarmerie",
+        "<B>Afghan</B> National Civil Order Police"
+      ],
+      "label": [
+        "<B>Afghan</B> National Civil Order Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afghan_National_Civil_Order_Force"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_establishments_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Defunct_law_enforcement_agencies_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Gendarmerie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Source {
+  id               String   @id
+  slug             String   @unique
+  name             String
+  sourceType       String
+  baseUrl          String?
+  license          String?
+  termsUrl         String?
+  extractionMethod String?
+  priorityRank     Int?
+  isActive         Boolean  @default(true)
+  createdAt        DateTime @default(now())
+
+  variations       Variation[]
+  aliases          Alias[]
+  provenance       Provenance[]
+}
+
+model Cuisine {
+  id             String   @id
+  slug           String   @unique
+  name           String
+  normalizedName String
+  description    String?
+  region         String?
+  wikidataQid    String?  @unique
+  wikipediaTitle String?
+  dbpediaUri     String?
+  sortOrder      Int?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  categoryLinks  CuisineCategory[]
+  familyLinks    DishFamilyCuisine[]
+  families       DishFamily[] @relation("PrimaryCuisine")
+  dishes         Dish[]
+}
+
+model Category {
+  id               String   @id
+  slug             String   @unique
+  name             String
+  normalizedName   String
+  description      String?
+  categoryKind     String
+  parentCategoryId String?
+  wikidataQid      String?  @unique
+  wikipediaTitle   String?
+  dbpediaUri       String?
+  sortOrder        Int?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  parentCategory  Category?  @relation("CategoryHierarchy", fields: [parentCategoryId], references: [id])
+  childCategories Category[] @relation("CategoryHierarchy")
+
+  cuisineLinks    CuisineCategory[]
+  familyLinks     DishFamilyCategory[]
+  familiesPrimary DishFamily[] @relation("PrimaryCategory")
+  dishes          Dish[]
+}
+
+model DishFamily {
+  id                String   @id
+  slug              String   @unique
+  name              String
+  normalizedName    String
+  description       String?
+  primaryCategoryId String?
+  primaryCuisineId  String?
+  wikidataQid       String?  @unique
+  wikipediaTitle    String?
+  dbpediaUri        String?
+  popularityRank    Int?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  primaryCategory Category? @relation("PrimaryCategory", fields: [primaryCategoryId], references: [id])
+  primaryCuisine  Cuisine?  @relation("PrimaryCuisine", fields: [primaryCuisineId], references: [id])
+
+  categoryLinks   DishFamilyCategory[]
+  cuisineLinks    DishFamilyCuisine[]
+  ingredientLinks DishFamilyIngredient[]
+  techniqueLinks  DishFamilyTechnique[]
+  dishes          Dish[]
+}
+
+model Dish {
+  id                String   @id
+  slug              String   @unique
+  name              String
+  normalizedName    String
+  description       String?
+  dishFamilyId      String
+  primaryCategoryId String?
+  primaryCuisineId  String?
+  wikidataQid       String?  @unique
+  wikipediaTitle    String?
+  dbpediaUri        String?
+  originText        String?
+  isNotable         Boolean  @default(false)
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  dishFamily      DishFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  primaryCategory Category? @relation(fields: [primaryCategoryId], references: [id])
+  primaryCuisine  Cuisine?  @relation(fields: [primaryCuisineId], references: [id])
+
+  variationsFromDish Variation[]
+  outgoingRelations DishRelation[] @relation("DishRelationFrom")
+  incomingRelations DishRelation[] @relation("DishRelationTo")
+}
+
+model Variation {
+  id                String   @id
+  slug              String   @unique
+  name              String
+  normalizedName    String
+  description       String?
+  dishId            String
+  parentVariationId String?
+  variationType     String
+  sourceId          String?
+  sourceUrl         String?
+  attributionText   String?
+  authorName        String?
+  locationText      String?
+  isCanonical       Boolean  @default(false)
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  dish            Dish        @relation("variationsFromDish", fields: [dishId], references: [id], onDelete: Cascade)
+  parentVariation Variation?  @relation("VariationHierarchy", fields: [parentVariationId], references: [id])
+  childVariations Variation[] @relation("VariationHierarchy")
+  source          Source?     @relation(fields: [sourceId], references: [id])
+
+  @@index([dishId])
+}
+
+model Ingredient {
+  id             String   @id
+  slug           String   @unique
+  name           String
+  normalizedName String
+  description    String?
+  ingredientKind String?
+  foodonId       String?  @unique
+  wikidataQid    String?  @unique
+  wikipediaTitle String?
+  dbpediaUri     String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  familyLinks    DishFamilyIngredient[]
+}
+
+model Technique {
+  id             String   @id
+  slug           String   @unique
+  name           String
+  normalizedName String
+  description    String?
+  techniqueKind  String?
+  foodonId       String?  @unique
+  wikidataQid    String?  @unique
+  wikipediaTitle String?
+  dbpediaUri     String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  familyLinks    DishFamilyTechnique[]
+}
+
+model CuisineCategory {
+  cuisineId  String
+  categoryId String
+  sortOrder  Int?
+
+  cuisine  Cuisine  @relation(fields: [cuisineId], references: [id], onDelete: Cascade)
+  category Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([cuisineId, categoryId])
+}
+
+model DishFamilyCategory {
+  dishFamilyId String
+  categoryId   String
+  isPrimary    Boolean @default(false)
+
+  dishFamily DishFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  category   Category   @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, categoryId])
+}
+
+model DishFamilyCuisine {
+  dishFamilyId String
+  cuisineId    String
+  relationKind String @default("associated")
+
+  dishFamily DishFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  cuisine    Cuisine    @relation(fields: [cuisineId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, cuisineId])
+}
+
+model DishFamilyIngredient {
+  dishFamilyId String
+  ingredientId String
+  role         String?
+  isCore       Boolean @default(false)
+  weight       Decimal?
+
+  dishFamily DishFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  ingredient Ingredient @relation(fields: [ingredientId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, ingredientId])
+}
+
+model DishFamilyTechnique {
+  dishFamilyId String
+  techniqueId  String
+  role         String?
+  isCore       Boolean @default(false)
+  weight       Decimal?
+
+  dishFamily DishFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  technique  Technique  @relation(fields: [techniqueId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, techniqueId])
+}
+
+model DishRelation {
+  fromDishId   String
+  toDishId     String
+  relationType String
+  weight       Decimal?
+
+  fromDish Dish @relation("DishRelationFrom", fields: [fromDishId], references: [id], onDelete: Cascade)
+  toDish   Dish @relation("DishRelationTo", fields: [toDishId], references: [id], onDelete: Cascade)
+
+  @@id([fromDishId, toDishId, relationType])
+}
+
+model Alias {
+  id              BigInt  @id @default(autoincrement())
+  entityType      String
+  entityId        String
+  alias           String
+  normalizedAlias String
+  languageCode    String  @default("en")
+  sourceId        String?
+  isPreferred     Boolean @default(false)
+
+  source Source? @relation(fields: [sourceId], references: [id])
+
+  @@index([entityType, entityId])
+  @@index([normalizedAlias])
+}
+
+model Provenance {
+  id                   BigInt   @id @default(autoincrement())
+  entityType           String
+  entityId             String
+  sourceId             String?
+  sourceUrl            String?
+  sourceRecordId       String?
+  sourceTitle          String?
+  extractionMethod     String?
+  extractionConfidence Decimal?
+  license              String?
+  retrievedAt          DateTime @default(now())
+  rawHash              String?
+  rawPayload           Json?
+
+  source Source? @relation(fields: [sourceId], references: [id])
+
+  @@index([entityType, entityId])
+}

@@ -1,0 +1,4848 @@
+{
+  "docs": [
+    {
+      "score": [
+        "24197.213"
+      ],
+      "refCount": [
+        "9051"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungary"
+      ],
+      "redirectlabel": [
+        "HUNGARY",
+        "<B>Hungarian</B> Republic",
+        "<B>Hungarian</B> Republic of 1989",
+        "<B>Hungarian</B> folk art",
+        "Hungary (country)",
+        "Hungery",
+        "Hungray",
+        "Hunguay",
+        "Hungury",
+        "ISO 3166-1:HU",
+        "Magyar Koeztarsasag",
+        "Magyar Koztarsasag",
+        "Magyar Köztársaság",
+        "Magyarorszag",
+        "Magyarország",
+        "Maďarsko",
+        "Republic of Hungary",
+        "Ungarn",
+        "Ungheria"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Hungary (<B>Hungarian</B>: Magyarország [ˈmɒɟɒrorsaːɡ] ()) is a country in Central Europe. Spanning 93,030"
+      ],
+      "label": [
+        "Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungary"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:895_establishments",
+        "http://dbpedia.org/resource/Category:Central_European_countries",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Hungarian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Hungary",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Three_Seas_Initiative",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Observer_states_of_the_Organization_of_Turkic_States",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1000",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1920",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_the_890s"
+      ]
+    },
+    {
+      "score": [
+        "18946.986"
+      ],
+      "refCount": [
+        "3410"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austria-Hungary"
+      ],
+      "redirectlabel": [
+        "Austo-<B>Hungarian</B> empire",
+        "Austria-<B>Hungarian</B>",
+        "Austria-<B>Hungarian</B> Empire",
+        "Austria-Hungary Empire",
+        "Austria-Hungary during World War I",
+        "Austria-Hungary empire",
+        "Austria-hungary",
+        "Austria Hungary",
+        "Austria hungary",
+        "Austriahungary",
+        "Austrialia-Hungary",
+        "Austrialia–Hungary",
+        "Austrian-<B>Hungarian</B>",
+        "Austrian-<B>Hungarian</B> Empire",
+        "Austrian-<B>Hungarian</B> empire",
+        "Austrian <B>Hungarian</B> Kingdom",
+        "Austria–Hungary",
+        "Austro-<B>Hungaria</B>",
+        "Austro-<B>Hungarian</B>",
+        "Austro-<B>Hungarian</B> Empire",
+        "Austro-<B>Hungarian</B> Monarchy",
+        "Austro-<B>Hungarian</B> empire",
+        "Austro-<B>Hungarian</B> monarchy",
+        "Austro-<B>Hungarians</B>",
+        "Austro-Hungary",
+        "Austro-<B>hungarian</B> empire",
+        "Austro-hungary",
+        "Austro - Hungary",
+        "Austro <B>Hungarian</B> Empire",
+        "Austro <B>Hungarian</B> empire",
+        "Austro <B>Hungarian</B> monarchy",
+        "Austro Hungary",
+        "Austro <B>hungarian</B>",
+        "Austro <B>hungarian</B> monarchy",
+        "Austro–<B>Hungarian</B> Empire",
+        "Austro–<B>Hungarian</B> Monarchy",
+        "Autro-<B>Hungarian</B> empire",
+        "Avstro-Ogrska",
+        "Demographics of Austria-Hungary",
+        "Dual State",
+        "History of Austria-Hungary",
+        "History of Austria-Hungary during World War I",
+        "Osztrák-Magyar Birodalom",
+        "The Dual Monarchy",
+        "The Dual monarchy",
+        "The Kingdom and lands represented in the Imperial Council and the lands of the Holy <B>Hungarian</B> crown of Saint Stephen",
+        "The Kingdoms and Lands Represented in the Imperial Council and the Lands of the Holy <B>Hungarian</B> Crown of St. Stephen",
+        "The dual monarchy",
+        "Österreich-Ungarn",
+        "Österreich-ungarn",
+        "Österreichisch-Ungarisches Reich"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Austria-Hungary, often referred to as the Austro-<B>Hungarian</B> Empire or the Dual Monarchy, was a"
+      ],
+      "label": [
+        "Austria-Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austria-Hungary"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1867_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:Former_empires",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Habsburg_monarchy",
+        "http://dbpedia.org/resource/Category:House_of_Habsburg-Lorraine",
+        "http://dbpedia.org/resource/Category:Hungary_under_Habsburg_rule",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Austria",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1867"
+      ]
+    },
+    {
+      "score": [
+        "13813.641"
+      ],
+      "refCount": [
+        "1345"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungary_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Football",
+        "<B>Hungarian</B> National team",
+        "<B>Hungarian</B> football team",
+        "<B>Hungarian</B> national football team",
+        "<B>Hungarian</B> national team",
+        "Hungary National football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Hungary national football team (<B>Hungarian</B>: Magyar labdarúgó-válogatott) represents Hungary in"
+      ],
+      "label": [
+        "Hungary national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungary_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Hungary_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "10388.6045"
+      ],
+      "refCount": [
+        "315"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_language"
+      ],
+      "redirectlabel": [
+        "Csángó dialect",
+        "Epistolae Pavli Lingva Hvngarica Donatae",
+        "<B>Hungarian</B>-language",
+        "<B>HungarianLanguage</B>",
+        "<B>Hungarian</B> (language)",
+        "<B>Hungarian</B> Language",
+        "Hungarophone",
+        "Hungarophones",
+        "ISO 639:hu",
+        "ISO 639:hun",
+        "Magyar (language)",
+        "Magyar language",
+        "Magyar nyelv",
+        "Magyarul",
+        "Magyár"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Hungarian</B> () is a Uralic language spoken in Hungary and parts of several neighbouring countries. It"
+      ],
+      "label": [
+        "<B>Hungarian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Hungarian_language",
+        "http://dbpedia.org/resource/Category:Languages_of_Austria",
+        "http://dbpedia.org/resource/Category:Languages_of_Croatia",
+        "http://dbpedia.org/resource/Category:Languages_of_Hungary",
+        "http://dbpedia.org/resource/Category:Languages_of_Moldova",
+        "http://dbpedia.org/resource/Category:Languages_of_Romania",
+        "http://dbpedia.org/resource/Category:Languages_of_Serbia",
+        "http://dbpedia.org/resource/Category:Languages_of_Slovakia",
+        "http://dbpedia.org/resource/Category:Languages_of_Slovenia",
+        "http://dbpedia.org/resource/Category:Languages_of_Ukraine",
+        "http://dbpedia.org/resource/Category:Languages_of_Vojvodina",
+        "http://dbpedia.org/resource/Category:Subject–object–verb_languages",
+        "http://dbpedia.org/resource/Category:Vowel-harmony_languages"
+      ]
+    },
+    {
+      "score": [
+        "6213.0903"
+      ],
+      "refCount": [
+        "363"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Fidesz"
+      ],
+      "redirectlabel": [
+        "Alliance of Young Democrats",
+        "FIDESZ",
+        "FIDEZ",
+        "Federation of Young Democrats",
+        "Fiatal Demokraták Szövetsége",
+        "Fidesz-<B>Hungarian</B> Civic Alliance",
+        "Fidesz-<B>Hungarian</B> Civic Union",
+        "Fidesz - <B>Hungarian</B> Civic Alliance",
+        "Fidesz - <B>Hungarian</B> Civic Union",
+        "Fidesz - Magyar Polgári Szövetség",
+        "Fidesz party",
+        "Fidesz – <B>Hungarian</B> Civic Alliance",
+        "Fidesz – <B>Hungarian</B> Civic Union",
+        "Fidesz – Magyar Polgári Szövetség",
+        "Fidesz–<B>Hungarian</B> Civic Alliance",
+        "Foreign policy of Fidesz",
+        "<B>Hungarian</B> Alliance of Young Democrats",
+        "<B>Hungarian</B> Citizens' Party",
+        "<B>Hungarian</B> Civic Alliance, Romania",
+        "<B>Hungarian</B> Civic Party",
+        "<B>Hungarian</B> Civic Union (Romania)",
+        "Magyar Polgari Szoevetseg",
+        "Magyar Polgari Szovetseg",
+        "Magyar Polgári Szövetség",
+        "Mpsz",
+        "The Fidesz - <B>Hungarian</B> Civic Union",
+        "The Fidesz – <B>Hungarian</B> Civic Union",
+        "Uniunea Civica Maghiara",
+        "Uniunea Civică Maghiară"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "Fidesz – <B>Hungarian</B> Civic Alliance (<B>Hungarian</B> pronunciation: [ˈfidɛs]; in full, <B>Hungarian</B>: Fidesz"
+      ],
+      "label": [
+        "Fidesz"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Fidesz"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Anti-communist_parties",
+        "http://dbpedia.org/resource/Category:Anti-immigration_politics_in_Europe",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Eurosceptic_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Fidesz",
+        "http://dbpedia.org/resource/Category:International_Democrat_Union_member_parties",
+        "http://dbpedia.org/resource/Category:Member_parties_of_the_European_People's_Party",
+        "http://dbpedia.org/resource/Category:National_conservative_parties",
+        "http://dbpedia.org/resource/Category:Parties_represented_in_the_European_Parliament",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1988",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Right-wing_populism_in_Europe",
+        "http://dbpedia.org/resource/Category:Right-wing_populism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Right-wing_populist_parties",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "6191.1035"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Army"
+      ],
+      "redirectlabel": [
+        "Army of Austria-Hungary",
+        "Austrian-<B>Hungarian</B> Army",
+        "Austro-<B>Hungarian</B> Armies",
+        "Austro-<B>Hungarian</B> Army in World War I",
+        "Austro-<B>Hungarian</B> Land Forces 1867-1914",
+        "Austro-<B>Hungarian</B> Land Forces 1867–1914",
+        "Austro-<B>Hungarian</B> armies",
+        "Austro-<B>Hungarian</B> army",
+        "Austro-<B>Hungarian</B> forces",
+        "Austro - <B>Hungarian</B> Army",
+        "Austro – <B>Hungarian</B> Army",
+        "Austro–<B>Hungarian</B> Army",
+        "Imperial Habsburg army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Austro-<B>Hungarian</B> Army (German: Landstreitkräfte Österreich-Ungarns; <B>Hungarian</B>: Császári és"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1867_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Austro-Hungarian_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1867"
+      ]
+    },
+    {
+      "score": [
+        "5244.996"
+      ],
+      "refCount": [
+        "74"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Revolution_of_1848"
+      ],
+      "redirectlabel": [
+        "1848 <B>Hungarian</B> Revolution",
+        "1848 revolution in Hungary",
+        "<B>Hungarian</B> Campaign",
+        "<B>Hungarian</B> Revolt of 1848",
+        "<B>Hungarian</B> Revolution, 1848",
+        "<B>Hungarian</B> Revolution (1848)",
+        "<B>Hungarian</B> Revolution of 1848-49",
+        "<B>Hungarian</B> Revolution of 1848–49",
+        "<B>Hungarian</B> Revolutionary War",
+        "<B>Hungarian</B> War of Independence",
+        "<B>Hungarian</B> War of Independence of 1848 and 1849",
+        "<B>Hungarian</B> revolution of 1848",
+        "<B>Hungarians</B> in 1848 and 1849",
+        "Revolution of 1848 in Hungary",
+        "Revolutions of 1848 in Hungary",
+        "War of <B>Hungarian</B> Independence"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Revolution of 1848 (<B>Hungarian</B>: 1848–49-es forradalom és szabadságharc, \"1848–49"
+      ],
+      "label": [
+        "<B>Hungarian</B> Revolution of 1848"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Revolution_of_1848"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1848_in_Hungary",
+        "http://dbpedia.org/resource/Category:1848_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:1849_in_Hungary",
+        "http://dbpedia.org/resource/Category:1849_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Hungarian_Revolution_of_1848",
+        "http://dbpedia.org/resource/Category:Hungarian_nationalism",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Political_movements_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Hungary",
+        "http://dbpedia.org/resource/Category:Revolutions_of_1848_in_the_Austrian_Empire"
+      ]
+    },
+    {
+      "score": [
+        "4915.5303"
+      ],
+      "refCount": [
+        "80"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Socialist_Workers'_Party"
+      ],
+      "redirectlabel": [
+        "General Secretary of the <B>Hungarian</B> Socialist Workers' Party",
+        "<B>Hungarian</B> Socialist Workers Party",
+        "<B>Hungarian</B> Socialist Workers’ Party",
+        "MSZMP",
+        "Magyar Szocialista Munkaspart",
+        "Magyar Szocialista Munkáspárt"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Socialist Workers' Party (<B>Hungarian</B>: Magyar Szocialista Munkáspárt, MSzMP) was the"
+      ],
+      "label": [
+        "<B>Hungarian</B> Socialist Workers' Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Socialist_Workers'_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1989_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Formerly_ruling_communist_parties",
+        "http://dbpedia.org/resource/Category:Hungarian_People's_Republic",
+        "http://dbpedia.org/resource/Category:Hungarian_Revolution_of_1956",
+        "http://dbpedia.org/resource/Category:Hungary–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Organizations_of_the_Revolutions_of_1989",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1989",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1956"
+      ]
+    },
+    {
+      "score": [
+        "4784.944"
+      ],
+      "refCount": [
+        "79"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malév_Hungarian_Airlines"
+      ],
+      "redirectlabel": [
+        "Duna Club",
+        "<B>Hungarian</B> Airlines",
+        "Hungary Airlines",
+        "MALEV",
+        "MALEV GH",
+        "MALEV Ground Handling",
+        "MALEV <B>Hungarian</B>",
+        "MALEV <B>Hungarian</B> Airlines",
+        "MALEV <B>Hungarian</B> National Airlines",
+        "MALEV Rt.",
+        "MALEV Zrt.",
+        "MALÉV",
+        "MALÉV GH",
+        "MALÉV Ground Handling",
+        "MALÉV <B>Hungarian</B> Airlines",
+        "MALÉV <B>Hungarian</B> National Airlines",
+        "MALÉV Rt.",
+        "MALÉV Zrt.",
+        "Magyar-Szovjet Polgari Legikozlekedesi Tarsasag",
+        "Magyar-Szovjet Polgari Légiközlekedési Társaság",
+        "Magyar Legikozlekedesi Vallalat",
+        "Magyar Légiközlekedési Vállalat",
+        "Malev-<B>Hungarian</B> Airlines",
+        "Malev.hu",
+        "Malev",
+        "Malev - <B>Hungarian</B> Airlines",
+        "Malev Air Cargo",
+        "Malev Air Tours",
+        "Malev Air Tours Kft.",
+        "Malev Airlines",
+        "Malev Airtours",
+        "Malev Cafe",
+        "Malev Call Center",
+        "Malev Cargo",
+        "Malev Flight 801",
+        "Malev Ground Handling",
+        "Malev Group",
+        "Malev <B>Hungarian</B>",
+        "Malev <B>Hungarian</B> Airlines",
+        "Malev <B>Hungarian</B> Airlines Flight 355",
+        "Malev <B>Hungarian</B> Airlines LTD",
+        "Malev <B>Hungarian</B> Airlines Ltd.",
+        "Malev <B>Hungarian</B> National Airlines",
+        "Malev Ltd.",
+        "Malev Ltd",
+        "Malev Magyar Legikozlekedesi",
+        "Malev Magyar Legikozlekedesi Zartkoruen Mukodo Reszvenytarsasag",
+        "Malev Magyar Legikozlekedesi Zrt.",
+        "Malev Plc.",
+        "Malev Plc",
+        "Malev Rt.",
+        "Malev Zrt.",
+        "Malev Zrt",
+        "Malev e-Flight",
+        "Malév",
+        "Malév Air Cargo",
+        "Malév Air Tours",
+        "Malév Air Tours Kft.",
+        "Malév Airlines",
+        "Malév Airtours",
+        "Malév Café",
+        "Malév Call Center",
+        "Malév Cargo",
+        "Malév Ground Handling",
+        "Malév Group",
+        "Malév <B>Hungarian</B> (airline)",
+        "Malév <B>Hungarian</B> Airlines Ltd.",
+        "Malév <B>Hungarian</B> National Airlines",
+        "Malév Ltd.",
+        "Malév Ltd",
+        "Malév Magyar Légiközlekedési",
+        "Malév Magyar Légiközlekedési Zrt.",
+        "Malév Magyar Légiközlekedési Zártkörűen Mûködő Részvénytársaság",
+        "Malév Plc.",
+        "Malév Plc",
+        "Malév Rt.",
+        "Malév Zrt.",
+        "Malév Zrt",
+        "Malév e-Flight"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "MALÉV Ltd. (<B>Hungarian</B>: Malév Zrt.), which did business as MALÉV <B>Hungarian</B> Airlines (<B>Hungarian</B>"
+      ],
+      "label": [
+        "Malév <B>Hungarian</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malév_Hungarian_Airlines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:2012_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Airlines_disestablished_in_2012",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1946",
+        "http://dbpedia.org/resource/Category:Association_of_European_Airlines_members",
+        "http://dbpedia.org/resource/Category:Defunct_airlines_of_Hungary",
+        "http://dbpedia.org/resource/Category:Former_Oneworld_members",
+        "http://dbpedia.org/resource/Category:Hungarian_brands",
+        "http://dbpedia.org/resource/Category:Malév_Hungarian_Airlines"
+      ]
+    },
+    {
+      "score": [
+        "4394.356"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Revolution_of_1956"
+      ],
+      "redirectlabel": [
+        "1956 <B>Hungarian</B> Revolution",
+        "1956 <B>Hungarian</B> Uprising",
+        "1956 <B>Hungarian</B> counter-revolution",
+        "1956 <B>Hungarian</B> fascist uprising",
+        "1956 <B>Hungarian</B> revolution",
+        "1956 <B>Hungarian</B> uprising",
+        "1956 Soviet intervention in Hungary",
+        "1956 Uprising in Hungary",
+        "1956 invasion of Hungary",
+        "1956 revolution",
+        "1956 revolution in Hungary",
+        "Budapest Uprising",
+        "Budapest insurrection",
+        "Budapest uprising",
+        "<B>Hungarian</B> Revolt (1956)",
+        "<B>Hungarian</B> Revolt of 1956",
+        "<B>Hungarian</B> Revolution, 1956",
+        "<B>Hungarian</B> Revolution (1956)",
+        "<B>Hungarian</B> Revolution 1956",
+        "<B>Hungarian</B> Rising of 1956",
+        "<B>Hungarian</B> Soviet War",
+        "<B>Hungarian</B> Uprising of 1956",
+        "<B>Hungarian</B> anti-communist revolution",
+        "<B>Hungarian</B> revolt",
+        "<B>Hungarian</B> revolution of 1956",
+        "Hungary-USSR war",
+        "Hungary 1956",
+        "Hungary War",
+        "Revolution in Hungary, 1956",
+        "Revolution in Hungary (1956)",
+        "Russian invasion of Hungary",
+        "Russo-<B>Hungarian</B> War",
+        "Soviet intervention in Hungary",
+        "Soviet invasion of Hungary"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Revolution of 1956 (<B>Hungarian</B>: 1956-os forradalom), or the <B>Hungarian</B> Uprising, was a"
+      ],
+      "label": [
+        "<B>Hungarian</B> Revolution of 1956"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Revolution_of_1956"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950s_conflicts",
+        "http://dbpedia.org/resource/Category:1950s_in_Budapest",
+        "http://dbpedia.org/resource/Category:1956_in_international_relations",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Cold_War_military_history_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Cold_War_rebellions",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Communism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1956",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Hungarian_People's_Republic",
+        "http://dbpedia.org/resource/Category:Hungarian_Revolution_of_1956",
+        "http://dbpedia.org/resource/Category:Hungary–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Massacres_in_Hungary",
+        "http://dbpedia.org/resource/Category:November_1956_events_in_Europe",
+        "http://dbpedia.org/resource/Category:October_1956_events_in_Europe",
+        "http://dbpedia.org/resource/Category:Protests_in_Hungary",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Hungary",
+        "http://dbpedia.org/resource/Category:Soviet_military_occupations",
+        "http://dbpedia.org/resource/Category:Urban_warfare",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "4343.5996"
+      ],
+      "refCount": [
+        "57"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Working_People's_Party"
+      ],
+      "redirectlabel": [
+        "General Secretary of the <B>Hungarian</B> Working People's Party",
+        "<B>Hungarian</B> Workers Party",
+        "<B>Hungarian</B> Working Peoples Party",
+        "Magyar Dolgozók Pártja"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Working People's Party (<B>Hungarian</B>: Magyar Dolgozók Pártja, MDP) was the ruling"
+      ],
+      "label": [
+        "<B>Hungarian</B> Working People's Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Working_People's_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1956_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Formerly_ruling_communist_parties",
+        "http://dbpedia.org/resource/Category:Hungarian_People's_Republic",
+        "http://dbpedia.org/resource/Category:Hungarian_Revolution_of_1956",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1956",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1948",
+        "http://dbpedia.org/resource/Category:Social_Democratic_Party_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "4318.512"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Hungarian_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Republic (1946-1949)",
+        "<B>Hungarian</B> Republic (1946-49)",
+        "<B>Hungarian</B> Republic (1946–1949)",
+        "<B>Hungarian</B> Republic (1946–49)",
+        "Republic of Hungary (1946-1949)",
+        "Republic of Hungary (1946-49)",
+        "Republic of Hungary (1946–1949)",
+        "Republic of Hungary (1946–49)",
+        "Second Republic of Hungary"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Second <B>Hungarian</B> Republic (<B>Hungarian</B>: Magyar Köztársaság) was a parliamentary republic briefly"
+      ],
+      "label": [
+        "Second <B>Hungarian</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Hungarian_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Hungary",
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1946_in_Hungary",
+        "http://dbpedia.org/resource/Category:1947_in_Hungary",
+        "http://dbpedia.org/resource/Category:1948_in_Hungary",
+        "http://dbpedia.org/resource/Category:1949_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1949_in_Hungary",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1949",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1946",
+        "http://dbpedia.org/resource/Category:Territorial_evolution_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "3799.8604"
+      ],
+      "refCount": [
+        "777"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Hungary"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Kingdom",
+        "<B>Hungarian</B> kingdom",
+        "Kingdom of Hungary (1000-1526)",
+        "Kingdom of Hungary (1000-1538)",
+        "Kingdom of Hungary (1000-1918)",
+        "Kingdom of Hungary (1000–1526)",
+        "Kingdom of Hungary (1000–1538)",
+        "Kingdom of Hungary (1000–1918)",
+        "Kingdom of Hungary (medieval)",
+        "Kingdom of Hungary in the Middle Ages",
+        "Kingdom of hungary",
+        "Mediaeval Hungary",
+        "Medieval Kingdom of Hungary",
+        "Medieval kingdom of Hungary",
+        "The Kingdom of Hungary",
+        "Ugarska",
+        "Uhorsko"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of Hungary was a monarchy in Central Europe that existed from the Middle Ages into the 20th century (1000–1946 with the exception of 1918–1920). The Principality of Hungary emerged as a Christian kingdom upon the coronation of the first king Stephen I at Esztergom around the year 1000; his family (the Árpád dynasty) led the monarchy for 300 years. By the 12th century, the kingdom became a European middle power within the Western world."
+      ],
+      "label": [
+        "Kingdom of Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Hungary"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1000_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:10th-century_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:2nd_millennium_in_Hungary",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Early_Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Geographic_history_of_Ukraine",
+        "http://dbpedia.org/resource/Category:History_of_Slovakia_by_topic",
+        "http://dbpedia.org/resource/Category:History_of_Transylvania",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Croatia",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Kingdom_of_Hungary_(1867–1918)",
+        "http://dbpedia.org/resource/Category:Medieval_Hungary",
+        "http://dbpedia.org/resource/Category:Medieval_Serbia",
+        "http://dbpedia.org/resource/Category:Medieval_history_of_Vojvodina",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1000",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:Territorial_evolution_of_Hungary",
+        "http://dbpedia.org/resource/Category:Transylvania_in_the_Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:Vojvodina_under_Habsburg_rule"
+      ]
+    },
+    {
+      "score": [
+        "3520.4995"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "10.16892",
+        "Acta Ethnographica Academiae Scientiarum <B>Hungaricae</B>",
+        "Acta Geodaetica et Geophysica",
+        "Acta ethnographica Academiae Scientiarum <B>Hungaricae</B>",
+        "HAS Institute for Psychology",
+        "<B>Hungarian</B> Academy",
+        "<B>Hungarian</B> Academy of Science",
+        "<B>Hungarian</B> Science Academy",
+        "<B>Hungarian</B> Scientific Academy",
+        "<B>Hungarian</B> academy",
+        "<B>Hungarian</B> academy of sciences",
+        "Library and Information Centre, <B>Hungarian</B> Academy of Sciences",
+        "Magyar Tudomanyos Akademia",
+        "Magyar Tudományos Akadémia"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Academy of Sciences (<B>Hungarian</B>: Magyar Tudományos Akadémia (MTA)) is the most"
+      ],
+      "label": [
+        "<B>Hungarian</B> Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Academy_of_Sciences"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1825_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Budapest",
+        "http://dbpedia.org/resource/Category:Hungarian_Academy_of_Sciences",
+        "http://dbpedia.org/resource/Category:Hungarian_culture",
+        "http://dbpedia.org/resource/Category:Learned_societies_of_Hungary",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:National_academies_of_arts_and_humanities",
+        "http://dbpedia.org/resource/Category:National_academies_of_sciences",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1825",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1825"
+      ]
+    },
+    {
+      "score": [
+        "3457.9587"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_prehistory"
+      ],
+      "redirectlabel": [
+        "Atel-kuzu",
+        "Atelkuzu",
+        "Etelkoez",
+        "Etelkoz",
+        "Etelköz",
+        "<B>Hungarian</B> Early History and Prehistory",
+        "<B>Hungarian</B> Old Country, The-: by Dr. Istvan Kiszely",
+        "<B>Hungarian</B> Old Country, The: by Istvan Kiszely",
+        "<B>Hungarian</B> Prehistory",
+        "<B>Hungarian</B> Urheimat",
+        "<B>Hungarian</B> urheimat",
+        "Hungary: Early History and Pre-History",
+        "Levedia",
+        "Levédia",
+        "Magyar Oshaza",
+        "Magyar conquest of Pannonia",
+        "Magyar invasion legends",
+        "Magyar oshaza",
+        "Magyar Őshaza",
+        "Magyar őshaza",
+        "Migration of the Magyars",
+        "Origin of <B>Hungarians</B>",
+        "Origin of Magyars",
+        "Origin of the <B>Hungarians</B>",
+        "Prehistoric Magyars",
+        "The <B>Hungarian</B> Old Country: by Istvan Kiszely"
+      ],
+      "comment": [
+        "<B>Hungarian</B> prehistory (<B>Hungarian</B>: magyar őstörténet) spans the period of history of the <B>Hungarian</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> prehistory"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_prehistory"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Ural",
+        "http://dbpedia.org/resource/Category:Hungarian_prehistory",
+        "http://dbpedia.org/resource/Category:Nomadic_groups_in_Eurasia",
+        "http://dbpedia.org/resource/Category:Pastoralists",
+        "http://dbpedia.org/resource/Category:Prehistoric_Hungary",
+        "http://dbpedia.org/resource/Category:Saltovo-Mayaki_culture"
+      ]
+    },
+    {
+      "score": [
+        "3413.3728"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian–Romanian_War"
+      ],
+      "redirectlabel": [
+        "1919 Allied intervention in Hungary",
+        "1919 <B>Hungarian</B>-Romanian War",
+        "1919 <B>Hungarian</B>–Romanian War",
+        "1919 Romanian-<B>Hungarian</B> War",
+        "1919 Romanian–<B>Hungarian</B> War",
+        "Czechoslovakia–Hungary War",
+        "<B>Hungarian</B>-Allies War",
+        "<B>Hungarian</B>-Romanian War",
+        "<B>Hungarian</B>-Romanian War of 1919",
+        "<B>Hungarian</B>-Romanian war of 1919",
+        "<B>Hungarian</B> Romanian War of 1919",
+        "<B>Hungarian</B>–Romanian War of 1919",
+        "<B>Hungarian</B>–Romanian war of 1919",
+        "Romanian-<B>Hungarian</B> War",
+        "Romanian-<B>Hungarian</B> War of 1919",
+        "Romanian intervention in Hungary (1919)",
+        "Romanian–<B>Hungarian</B> War",
+        "Romanian–<B>Hungarian</B> War of 1919",
+        "The <B>Hungarian</B>-Romanian War of 1919",
+        "The <B>Hungarian</B>-Romanian war of 1919"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B>–Romanian War was fought between the First <B>Hungarian</B> Republic (as the <B>Hungarian</B> Soviet"
+      ],
+      "label": [
+        "<B>Hungarian</B>–Romanian War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian–Romanian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_in_Hungary",
+        "http://dbpedia.org/resource/Category:1919_in_Romania",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:20th_century_in_Transylvania",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_I_in_Hungary",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_I_in_Romania",
+        "http://dbpedia.org/resource/Category:Communism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1919",
+        "http://dbpedia.org/resource/Category:Great_Union_(Romania)",
+        "http://dbpedia.org/resource/Category:History_of_Banat",
+        "http://dbpedia.org/resource/Category:Hungarian–Romanian_War",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Romania",
+        "http://dbpedia.org/resource/Category:Revolutions_of_1917–1923",
+        "http://dbpedia.org/resource/Category:Subsidiary_conflicts_of_World_War_I",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_Romania"
+      ]
+    },
+    {
+      "score": [
+        "3343.9463"
+      ],
+      "refCount": [
+        "119"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_People's_Republic"
+      ],
+      "redirectlabel": [
+        "Communism in Hungary",
+        "Communist <B>Hungaria</B>",
+        "Hungary People's Republic",
+        "People's Rep. of Hungary",
+        "People's Republic of Hungary",
+        "People's republic of hungary",
+        "People’s Republic of Hungary",
+        "Red Hungary"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> People's Republic (<B>Hungarian</B>: Magyar Népköztársaság) was a one-party socialist"
+      ],
+      "label": [
+        "<B>Hungarian</B> People's Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_People's_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1950s_in_Hungary",
+        "http://dbpedia.org/resource/Category:1960s_in_Hungary",
+        "http://dbpedia.org/resource/Category:1970s_in_Hungary",
+        "http://dbpedia.org/resource/Category:1980s_in_Hungary",
+        "http://dbpedia.org/resource/Category:1989_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:20th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:Communism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Communist_states",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Hungarian_People's_Republic",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Soviet_satellite_states",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1989",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1949",
+        "http://dbpedia.org/resource/Category:Territorial_evolution_of_Hungary",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "3319.378"
+      ],
+      "refCount": [
+        "150"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarians"
+      ],
+      "redirectlabel": [
+        "Ethnic <B>Hungarians</B>",
+        "Genetic history of Hungary",
+        "Genetic studies on <B>Hungarians</B>",
+        "<B>Hungarian</B> people",
+        "Mag-Yars",
+        "Magyar people",
+        "Magyarok",
+        "Magyars",
+        "Magyárs",
+        "Maygar",
+        "Mud-Yars",
+        "People of Hungary"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Hungarians</B>, also known as Magyars (<B>Hungarian</B>: magyarok), are a nation and ethnic group native to"
+      ],
+      "label": [
+        "<B>Hungarians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_divided_by_international_borders",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Hungary",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Romania",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Serbia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Slovenia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Ukraine",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Vojvodina",
+        "http://dbpedia.org/resource/Category:History_of_Ural",
+        "http://dbpedia.org/resource/Category:History_of_the_Hungarians",
+        "http://dbpedia.org/resource/Category:Hungarian_people",
+        "http://dbpedia.org/resource/Category:Ugric_peoples"
+      ]
+    },
+    {
+      "score": [
+        "3195.857"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Old_Hungarian_script"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Runes",
+        "<B>Hungarian</B> Runic",
+        "<B>Hungarian</B> rovás",
+        "<B>Hungarian</B> runes",
+        "<B>Hungarian</B> runic script",
+        "ISO 15924:Hung",
+        "Old <B>Hungarian</B> Script",
+        "Old <B>Hungarian</B> alphabet",
+        "Old <B>Hungarian</B> inscriptions",
+        "Old <B>hungarian</B> script",
+        "Pauline Rovas Script",
+        "Rovas script",
+        "Rovasiras",
+        "Rovás",
+        "Rovás script",
+        "Rovásirás",
+        "Rovásírás",
+        "Szekely-<B>Hungarian</B> Rovas",
+        "Szekely runes",
+        "Szekely script",
+        "Szekler-<B>Hungarian</B> Rovas Script",
+        "Székely rovásírás",
+        "Székely runes",
+        "Székely script"
+      ],
+      "comment": [
+        "The Old <B>Hungarian</B> script or <B>Hungarian</B> runes (<B>Hungarian</B>: Székely-magyar rovás, 'székely-magyar"
+      ],
+      "label": [
+        "Old <B>Hungarian</B> script"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Old_Hungarian_script"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Hungary_by_topic",
+        "http://dbpedia.org/resource/Category:Hungarian_language",
+        "http://dbpedia.org/resource/Category:Obsolete_writing_systems",
+        "http://dbpedia.org/resource/Category:Right-to-left_writing_systems",
+        "http://dbpedia.org/resource/Category:Rovas_script",
+        "http://dbpedia.org/resource/Category:Runiform_scripts"
+      ]
+    },
+    {
+      "score": [
+        "3154.1663"
+      ],
+      "refCount": [
+        "121"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Socialist_Party"
+      ],
+      "redirectlabel": [
+        "MSZP",
+        "MSzP",
+        "MZSP",
+        "Magyar Szocialista Part",
+        "Magyar Szocialista Párt"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Socialist Party (<B>Hungarian</B>: Magyar Szocialista Párt), known mostly by its acronym"
+      ],
+      "label": [
+        "<B>Hungarian</B> Socialist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Socialist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_Socialist_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "3101.0996"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Defence_Forces"
+      ],
+      "redirectlabel": [
+        "Army of hungary",
+        "Danube Guard",
+        "Honvedseg",
+        "Honvéd River Flotilla",
+        "Honvéd River Guard",
+        "<B>Hungarian</B> Armed Forces",
+        "<B>Hungarian</B> Army (1918-19)",
+        "<B>Hungarian</B> Army (1918–19)",
+        "<B>Hungarian</B> Army (1945-51)",
+        "<B>Hungarian</B> Army (1945–51)",
+        "<B>Hungarian</B> Defence Force",
+        "<B>Hungarian</B> Homeland Defence Forces",
+        "<B>Hungarian</B> Revolutionary Army",
+        "<B>Hungarian</B> armed forces",
+        "<B>Hungarian</B> military",
+        "Hungary/Military",
+        "Hungary Navy",
+        "Magyar Honvedseg",
+        "Magyar Honvédség",
+        "Military of Hungary"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Defence Forces (<B>Hungarian</B>: Magyar Honvédség) is the national defence force of Hungary"
+      ],
+      "label": [
+        "<B>Hungarian</B> Defence Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Defence_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2954.5198"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Americans"
+      ],
+      "redirectlabel": [
+        "American-<B>Hungarian</B>",
+        "American-<B>Hungarians</B>",
+        "American <B>Hungarian</B>",
+        "American <B>Hungarians</B>",
+        "Demographics of <B>Hungarian</B> Americans",
+        "History of <B>Hungarian</B> Americans",
+        "<B>Hungarian</B>-American",
+        "<B>Hungarian</B>-Americans",
+        "<B>Hungarian</B> American",
+        "<B>Hungarian</B> Catholics in America",
+        "<B>Hungarians</B> in the United States",
+        "Hungaro-american",
+        "Magyar American",
+        "Magyar Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Hungarian</B> Americans (<B>Hungarian</B>: amerikai magyarok) are Americans of <B>Hungarian</B> descent. Estimates of"
+      ],
+      "label": [
+        "<B>Hungarian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Hungarian_descent",
+        "http://dbpedia.org/resource/Category:European-American_society",
+        "http://dbpedia.org/resource/Category:Hungarian-American_history",
+        "http://dbpedia.org/resource/Category:Hungarian_American",
+        "http://dbpedia.org/resource/Category:Hungarian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2898.3262"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Hungarian_Army"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> National Army",
+        "<B>Hungarian</B> Navy",
+        "<B>Hungarian</B> River Forces",
+        "National Army of Hungary",
+        "Royal <B>Hungarian</B> Army River Forces",
+        "Royal <B>Hungarian</B> National Army",
+        "Royal <B>Hungarian</B> River Guard"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Hungarian</B> Army (<B>Hungarian</B>: Magyar Királyi Honvédség, German: Königlich Ungarische Armee"
+      ],
+      "label": [
+        "Royal <B>Hungarian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Hungarian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Disbanded_armies",
+        "http://dbpedia.org/resource/Category:Hungary_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1919",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Hungary_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2864.601"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Soviet_Republic"
+      ],
+      "redirectlabel": [
+        "1919 <B>Hungarian</B> Revolution",
+        "Council's Republic",
+        "Councils' Republic",
+        "<B>Hungarian</B> Council Republic",
+        "<B>Hungarian</B> Republic of Councils",
+        "<B>Hungarian</B> Republic of Councls",
+        "<B>Hungarian</B> Revolution of 1919",
+        "<B>Hungarian</B> Soviet Republic of 1919",
+        "Magyarországi Tanácsköztársaság",
+        "Revolutionary Governing Council",
+        "Soviet <B>Hungarian</B> Republic",
+        "Soviet Hungary",
+        "Soviet Republic of Hungary",
+        "Tanácsköztársaság"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Soviet Republic, literally the Republic of Councils in Hungary (<B>Hungarian</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> Soviet Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Soviet_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1919_in_Hungary",
+        "http://dbpedia.org/resource/Category:20th_century_rump_states",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_I_in_Hungary",
+        "http://dbpedia.org/resource/Category:Communism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Early_Soviet_republics",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Hungary–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1919",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1919",
+        "http://dbpedia.org/resource/Category:Territorial_evolution_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2816.0002"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> national awakening",
+        "<B>Hungarian</B> nationalist"
+      ],
+      "comment": [
+        "<B>Hungarian</B> nationalism developed in the early 19th century along the classic lines of scholarly"
+      ],
+      "label": [
+        "<B>Hungarian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:19th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_nationalism"
+      ]
+    },
+    {
+      "score": [
+        "2758.776"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_pengő"
+      ],
+      "redirectlabel": [
+        "1946 <B>Hungarian</B> inflation",
+        "<B>Hungarian</B> Pengő",
+        "<B>Hungarian</B> inflation",
+        "<B>Hungarian</B> pengo",
+        "<B>Hungarian</B> pengov",
+        "<B>Hungarian</B> pengö",
+        "<B>Hungarian</B> pengő hyperinflation",
+        "Pengo (currency)",
+        "Pengoe",
+        "Pengov",
+        "Pengö",
+        "Pengő"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The pengő (<B>Hungarian</B>: [ˈpɛŋɡøː]; sometimes written as pengo or pengoe in English) was the currency"
+      ],
+      "label": [
+        "<B>Hungarian</B> pengő"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_pengő"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1927_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1946_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Currencies_of_Hungary",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "2730.3862"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_invasions_of_Europe"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> invasions",
+        "<B>Hungarian</B> invasions of Western Europe",
+        "Magyar invasion",
+        "Pagan Magyars"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> invasions of Europe (<B>Hungarian</B>: kalandozások, German: Ungarneinfälle) took place in"
+      ],
+      "label": [
+        "<B>Hungarian</B> invasions of Europe"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_invasions_of_Europe"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_invasions_of_Europe",
+        "http://dbpedia.org/resource/Category:Invasions_of_Europe",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Byzantine_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Holy_Roman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "2668.5862"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_rule_in_Bosnia_and_Herzegovina"
+      ],
+      "redirectlabel": [
+        "Austrian-<B>Hungarian</B> rule in Bosnia and Herzegovina",
+        "Austro-<B>Hungarian</B> Bosnia and Herzegovina",
+        "Austro-<B>Hungarian</B> Condominium of Bosnia and Herzegovina",
+        "Bosnia and Herzegovina (1878-1918)",
+        "Bosnia and Herzegovina (1878–1918)",
+        "Bosnia and Herzegovina (Austria-Hungary)",
+        "Bosnia and Herzegovina (Austro-<B>Hungarian</B> condominium)",
+        "Bosnia and Herzegovina (condominium)",
+        "Bosnia and Herzegovina in Austria-Hungary",
+        "Bosnia and Herzegovina under Austro-<B>Hungarian</B> rule",
+        "Condominium of Bosnia and Herzegovina",
+        "Governor of Bosnia and Herzegovina",
+        "History of Bosnia and Herzegovina (1878-1918)",
+        "History of Bosnia and Herzegovina (1878–1918)",
+        "List of governors of Bosnia and Herzegovina",
+        "Province of Bosnia and Herzegovina"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Bosnia and Herzegovina fell under Austro-<B>Hungarian</B> rule in 1878, when the Congress of Berlin"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> rule in Bosnia and Herzegovina"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_rule_in_Bosnia_and_Herzegovina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1870s_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:1878_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1890s_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:1900s_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:1910s_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:19th_century_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:20th_century_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Austria-Hungary–Serbia_relations",
+        "http://dbpedia.org/resource/Category:Austro-Hungarian_rule_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Condominia_(international_law)",
+        "http://dbpedia.org/resource/Category:Former_Slavic_countries",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:Historical_regions_of_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Empire_of_Austria_(1867–1918)",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Kingdom_of_Hungary_(1867–1918)",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1878",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria-Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2658.0813"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_wine"
+      ],
+      "redirectlabel": [
+        "History of <B>Hungarian</B> wine",
+        "History of wine in Hungary",
+        "<B>Hungarian</B> (wine)",
+        "<B>Hungarian</B> wines",
+        "Hungary (wine)",
+        "Hungary wine",
+        "Hungary wines",
+        "Origins of <B>Hungarian</B> wine-making",
+        "Wine from Hungary",
+        "Wine in Hungary",
+        "Wines from Hungary"
+      ],
+      "comment": [
+        "<B>Hungarian</B> wine has a history dating back to the Kingdom of Hungary. Outside Hungary, the best-known"
+      ],
+      "label": [
+        "<B>Hungarian</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_wine"
+      ]
+    },
+    {
+      "score": [
+        "2595.7646"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_State_Railways"
+      ],
+      "redirectlabel": [
+        "History of rail transport in Hungary",
+        "<B>Hungarian</B> Railways",
+        "MAV Co.",
+        "MAV Group",
+        "MAV Magyar Allamvasutak Zrt.",
+        "MAV Szolgaltato Kozpont Zrt.",
+        "MAV Zrt.",
+        "MAV Zrt",
+        "Magyar Államvasutak",
+        "MÁV",
+        "MÁV Co.",
+        "MÁV Group",
+        "MÁV Magyar Államvasutak Zrt.",
+        "MÁV START",
+        "MÁV Szolgáltató Központ Zrt.",
+        "MÁV Zrt.",
+        "MÁV Zrt"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Hungarian</B> State Railways (<B>Hungarian</B>: Magyar Államvasutak, MÁV) is the <B>Hungarian</B> national railway"
+      ],
+      "label": [
+        "<B>Hungarian</B> State Railways"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_State_Railways"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1868_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Budapest",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Hungary",
+        "http://dbpedia.org/resource/Category:Government-owned_railway_companies",
+        "http://dbpedia.org/resource/Category:Hungarian_brands",
+        "http://dbpedia.org/resource/Category:Public_transport_companies_in_Hungary",
+        "http://dbpedia.org/resource/Category:Railway_companies_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2533.1233"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadians of <B>Hungarian</B> ancestry",
+        "Canadians of <B>hungarian</B> ancestry",
+        "<B>Hungarian</B>-Canadian",
+        "<B>Hungarian</B> Albertans",
+        "<B>Hungarian</B> Canadian",
+        "<B>Hungarians</B> in Canada",
+        "<B>Hungarians</B> in Manitoba",
+        "<B>Hungarians</B> in Ontario",
+        "<B>Hungarians</B> in Saskatchewan",
+        "Magyar Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Hungarian</B> Canadians (<B>Hungarian</B>: Kanadai magyarok) are persons in Canada of <B>Hungarian</B> ancestry"
+      ],
+      "label": [
+        "<B>Hungarian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Canada–Hungary_relations",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:European_Canadian",
+        "http://dbpedia.org/resource/Category:Hungarian_Canadian",
+        "http://dbpedia.org/resource/Category:Hungarian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2506.75"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Hungarian_Republic"
+      ],
+      "redirectlabel": [
+        "Democratic Republic of Hungary",
+        "First <B>Hungarian</B> People's Republic",
+        "First Republic of Hungary",
+        "<B>Hungarian</B> Democratic Republic",
+        "<B>Hungarian</B> People's Republic (1918-19)",
+        "<B>Hungarian</B> People's Republic (1918-1919)",
+        "<B>Hungarian</B> People's Republic (1918–19)",
+        "<B>Hungarian</B> People's Republic (1918–1919)",
+        "People's Republic of Hungary (1918-19)",
+        "People's Republic of Hungary (1918-1919)",
+        "People's Republic of Hungary (1918–19)",
+        "People's Republic of Hungary (1918–1919)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The First <B>Hungarian</B> Republic (<B>Hungarian</B>: Első Magyar Köztársaság), until 21. March 1919 the"
+      ],
+      "label": [
+        "First <B>Hungarian</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Hungarian_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_Hungary",
+        "http://dbpedia.org/resource/Category:1918_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1918_in_politics",
+        "http://dbpedia.org/resource/Category:1919_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1919_in_politics",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_I_in_Hungary",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1919",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1918",
+        "http://dbpedia.org/resource/Category:States_succeeding_Austria-Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2415.2617"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_forint"
+      ],
+      "redirectlabel": [
+        "Forint",
+        "Forint sign",
+        "Forints",
+        "<B>Hungarian</B> Forint",
+        "<B>Hungarian</B> florin",
+        "<B>Hungarian</B> forints",
+        "Hungary Forint",
+        "ISO 4217:HUF",
+        "Magyar forint"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " was a crucial step in the post-World War II stabilisation of the <B>Hungarian</B> economy, and the currency"
+      ],
+      "label": [
+        "<B>Hungarian</B> forint"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_forint"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1946",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Industry_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2381.9043"
+      ],
+      "refCount": [
+        "93"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Nemzeti_Bajnokság_III"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> National Championship III",
+        "NBIII",
+        "NB III",
+        "Nemzeti Bajnoksag III"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "Nemzeti Bajnokság III (NBIII, National Championship III) is the third tier of <B>Hungarian</B> football"
+      ],
+      "label": [
+        "Nemzeti Bajnokság III"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Nemzeti_Bajnokság_III"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Hungary",
+        "http://dbpedia.org/resource/Category:Nemzeti_Bajnokság_III",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Hungary",
+        "http://dbpedia.org/resource/Category:Third_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2379.2043"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of Hungary",
+        "Cuisine of hungary",
+        "Gastronomy of Hungary",
+        "History of <B>Hungarian</B> cuisine",
+        "<B>Hungarian</B> drinks",
+        "<B>Hungarian</B> food",
+        "<B>Hungarian</B> gastronomy",
+        "<B>Hungarian</B> soups"
+      ],
+      "comment": [
+        "<B>Hungarian</B> or Magyar cuisine is the cuisine characteristic of the nation of Hungary and its primary"
+      ],
+      "label": [
+        "<B>Hungarian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2377.9612"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_notation"
+      ],
+      "redirectlabel": [
+        "Apps <B>Hungarian</B>",
+        "Apps <B>Hungarian</B> Notation",
+        "Apps <B>Hungarian</B> notation",
+        "Apps notation",
+        "<B>Hungarian</B> Notation",
+        "Systems <B>Hungarian</B>",
+        "Systems <B>Hungarian</B> Notation",
+        "Systems <B>Hungarian</B> notation",
+        "Systems notation"
+      ],
+      "comment": [
+        "<B>Hungarian</B> notation is an identifier naming convention in computer programming, in which the name of"
+      ],
+      "label": [
+        "<B>Hungarian</B> notation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_notation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Naming_conventions",
+        "http://dbpedia.org/resource/Category:Source_code"
+      ]
+    },
+    {
+      "score": [
+        "2343.3835"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Hungary"
+      ],
+      "redirectlabel": [
+        "Cinema of hungary",
+        "<B>Hungarian</B> cinema",
+        "<B>Hungarian</B> film"
+      ],
+      "comment": [
+        " <B>Hungarian</B> films include Merry-go-round, Mephisto, Werckmeister Harmonies and Kontroll."
+      ],
+      "label": [
+        "Cinema of Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Hungary"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2308.3506"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bulgarian–Hungarian_wars"
+      ],
+      "redirectlabel": [
+        "Bulgarian-<B>Hunganrian</B> Wars",
+        "Bulgarian-<B>Hungarian</B> Wars",
+        "Bulgarian-<B>Hungarian</B> wars",
+        "Bulgarian–<B>Hungarian</B> Wars",
+        "First Bulgarian-<B>Hungarian</B> War",
+        "First Bulgarian–<B>Hungarian</B> War",
+        "Second Bulgarian-<B>Hungarian</B> War",
+        "Second Bulgarian–<B>Hungarian</B> War",
+        "Third Bulgarian-<B>Hungarian</B> War",
+        "Third Bulgarian–<B>Hungarian</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Bulgarian–<B>Hungarian</B> wars were a series of conflicts that occurred during the 9th–14th centuries"
+      ],
+      "label": [
+        "Bulgarian–<B>Hungarian</B> wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bulgarian–Hungarian_wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:10th_century_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:11th_century_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:12th_century_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:13th_century_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:14th_century_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:9th_century_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_First_Bulgarian_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Second_Bulgarian_Empire"
+      ]
+    },
+    {
+      "score": [
+        "2295.1846"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Democratic_Forum"
+      ],
+      "redirectlabel": [
+        "Conservative Youth Union",
+        "Magyar Demokrata Fórum"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Democratic Forum (<B>Hungarian</B>: Magyar Demokrata Fórum, MDF) was a centre-right"
+      ],
+      "label": [
+        "<B>Hungarian</B> Democratic Forum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Democratic_Forum"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:2011_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Alliance_of_Conservatives_and_Reformists_in_Europe_member_parties",
+        "http://dbpedia.org/resource/Category:Christian_political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:European_Conservatives_and_Reformists_member_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2011",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1987"
+      ]
+    },
+    {
+      "score": [
+        "2277.509"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_crown"
+      ],
+      "redirectlabel": [
+        "Austrian crown",
+        "Austrian korona",
+        "Austro-<B>Hungarian</B> Krone",
+        "Austro-<B>Hungarian</B> coroana",
+        "Austro-<B>Hungarian</B> coroană",
+        "Austro-<B>Hungarian</B> corona",
+        "Austro-<B>Hungarian</B> korona",
+        "Austro-<B>Hungarian</B> koruna",
+        "Austro-<B>Hungarian</B> krona",
+        "Austro-<B>Hungarian</B> krone",
+        "Austro-<B>Hungarian</B> krune"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> crown"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_crown"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1892_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Currencies_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Currencies_of_Austria",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2272.3535"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Workers'_Party"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Communist Workers' Party",
+        "<B>Hungarian</B> Communist Workers’ Party",
+        "<B>Hungarian</B> Worker's Party",
+        "<B>Hungarian</B> Workers' Party (2013)",
+        "Magyar Kommunista Munkáspárt",
+        "Workers' Party (Hungary)",
+        "Workers Party (Hungary)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Workers' Party (<B>Hungarian</B>: Magyar Munkáspárt) is a communist party in Hungary led by"
+      ],
+      "label": [
+        "<B>Hungarian</B> Workers' Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Workers'_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Eurosceptic_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_Socialist_Party_breakaway_groups",
+        "http://dbpedia.org/resource/Category:International_Meeting_of_Communist_and_Workers_Parties",
+        "http://dbpedia.org/resource/Category:Marxist_parties",
+        "http://dbpedia.org/resource/Category:Opposition_to_NATO",
+        "http://dbpedia.org/resource/Category:Party_of_the_European_Left_former_member_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1989"
+      ]
+    },
+    {
+      "score": [
+        "2232.522"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Compromise_of_1867"
+      ],
+      "redirectlabel": [
+        "Ausgleich",
+        "Austro-<B>Hungarian</B> Compromise",
+        "Austro-<B>Hungarian</B> compromise",
+        "Austro–<B>Hungarian</B> Compromise of 1867",
+        "Composition of 1867",
+        "Compromise of 1867",
+        "<B>Hungarian</B> Compromise",
+        "Kiegyezes",
+        "Kiegyezés"
+      ],
+      "comment": [
+        "The Austro-<B>Hungarian</B> Compromise of 1867 (German: Ausgleich, <B>Hungarian</B>: Kiegyezés) established the"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> Compromise of 1867"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Compromise_of_1867"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1867_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1867_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1867_establishments_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:1867_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1867_in_Hungary",
+        "http://dbpedia.org/resource/Category:1867_in_international_relations",
+        "http://dbpedia.org/resource/Category:1867_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Constitutional_history_of_Austria",
+        "http://dbpedia.org/resource/Category:Franz_Joseph_I_of_Austria",
+        "http://dbpedia.org/resource/Category:History_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Hungary_under_Habsburg_rule",
+        "http://dbpedia.org/resource/Category:June_1867_events",
+        "http://dbpedia.org/resource/Category:Political_compromises_in_Europe",
+        "http://dbpedia.org/resource/Category:Real_unions",
+        "http://dbpedia.org/resource/Category:Territorial_evolution_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2231.028"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_korona"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Korona",
+        "<B>Hungarian</B> Krone",
+        "<B>Hungarian</B> coroana",
+        "<B>Hungarian</B> coroană",
+        "<B>Hungarian</B> crown (currency)",
+        "<B>Hungarian</B> koruna"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> korona (<B>Hungarian</B>: magyar korona; korona in English is \"crown\") was the replacement"
+      ],
+      "label": [
+        "<B>Hungarian</B> korona"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_korona"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1926_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Currencies_of_Hungary",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "2212.6685"
+      ],
+      "refCount": [
+        "251"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_cities_and_towns_of_Hungary"
+      ],
+      "redirectlabel": [
+        "Cities of Hungary",
+        "List of <B>Hungarian</B> towns",
+        "List of cities & towns in Hungary",
+        "List of cities and towns in Hungary",
+        "List of cities in Hungary",
+        "List of towns in Hungary",
+        "Municipalities of Hungary"
+      ],
+      "comment": [
+        "Hungary has 3,152 localities as of July 15, 2013. 346 towns (<B>Hungarian</B> term: város, plural: városok"
+      ],
+      "label": [
+        "List of cities and towns of Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_cities_and_towns_of_Hungary"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Hungary",
+        "http://dbpedia.org/resource/Category:Demographics_of_Hungary",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_in_Europe",
+        "http://dbpedia.org/resource/Category:Lists_of_populated_places_in_Hungary",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Hungary",
+        "http://dbpedia.org/resource/Category:Towns_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2193.5308"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_florin"
+      ],
+      "redirectlabel": [
+        "Austrian-<B>Hungarian</B> guilder",
+        "Austrian-<B>Hungarian</B> gulden",
+        "Austrian Florin",
+        "Austrian florin",
+        "Austro-<B>Hungarian</B> Gulden",
+        "Austro-<B>Hungarian</B> forint",
+        "Austro-<B>Hungarian</B> guilder",
+        "Austro-<B>Hungarian</B> gulden",
+        "Austro-<B>Hungarian</B> gulden paper money",
+        "Paper money of the Austro-<B>Hungarian</B> florin",
+        "Paper money of the Austro-<B>Hungarian</B> gulden"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> florin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_florin"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Currencies_of_Austria",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2185.3538"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_diaspora"
+      ],
+      "redirectlabel": [
+        "Emigration from Hungary",
+        "<B>Hungarian</B> Chileans",
+        "<B>Hungarian</B> Diaspora",
+        "<B>Hungarians</B> in France",
+        "<B>Hungarians</B> in Ireland",
+        "<B>Hungarians</B> in Italy",
+        "<B>Hungarians</B> in Kazakhstan",
+        "<B>Hungarians</B> in Poland",
+        "<B>Hungarians</B> in Russia",
+        "<B>Hungarians</B> in Sweden",
+        "<B>Hungarians</B> in Switzerland",
+        "<B>Hungarians</B> in Turkey",
+        "<B>Hungarians</B> in the Czech Republic"
+      ],
+      "comment": [
+        " Hungary so that it runs through <B>Hungarian</B> majority areas. As a consequence, 3.3 million <B>Hungarians</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_diasporas",
+        "http://dbpedia.org/resource/Category:Hungarian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2131.876"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Aviation_Troops"
+      ],
+      "redirectlabel": [
+        "Air Force of Austria-Hungary",
+        "Austrian-<B>Hungarian</B> Imperial and Royal Aviation Troops",
+        "Austro-<B>Hungarian</B> Air Corps",
+        "Austro-<B>Hungarian</B> Air Force",
+        "Austro-<B>Hungarian</B> Air Service",
+        "Austro-<B>Hungarian</B> Air Service in World War I",
+        "Austro-<B>Hungarian</B> Imperial and Royal Aviation Troops",
+        "Aviation Troops of Austria-Hungary",
+        "Imperial and Royal Aviation Troops",
+        "Imperial and Royal Aviation Troops (Austro-<B>Hungarian</B>)",
+        "K.u.K. Luftfahrtruppen",
+        "Kaiserliche und Konigliche Luftfahrtruppen",
+        "Kaiserliche und Königliche Luftfahrtruppen",
+        "KuKLFT",
+        "Luftfahrtruppen",
+        "The Imperial and Royal Aviation Troops"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Austro-<B>Hungarian</B> Aviation Troops or Imperial and Royal Aviation Troops (Kaiserliche und"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> Aviation Troops"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Aviation_Troops"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1893_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Austro-Hungarian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1893",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Austria-Hungary_in_World_War_I"
+      ]
+    },
+    {
+      "score": [
+        "2125.8274"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Hungarian_monarchs"
+      ],
+      "redirectlabel": [
+        "Duke of Hungary",
+        "<B>Hungarian</B> king",
+        "<B>Hungarian</B> kings",
+        "<B>Hungarian</B> rulers",
+        "List of <B>Hungarian</B> rulers",
+        "List of <B>hungarian</B> monarchs",
+        "List of <B>hungarian</B> rulers",
+        "List of kings of Hungary",
+        "List of monarchs of Hungary",
+        "List of rulers of Hungary",
+        "Monarchs of Hungary",
+        "Prince Palatine of Hungary",
+        "Rulers of Hungary"
+      ],
+      "comment": [
+        "This is a List of <B>Hungarian</B> monarchs, which includes the grand princes (895–1000) and the kings and"
+      ],
+      "label": [
+        "List of <B>Hungarian</B> monarchs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Hungarian_monarchs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Heads_of_state_of_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_European_rulers",
+        "http://dbpedia.org/resource/Category:Lists_of_Hungarian_people",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "2123.3035"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Hungary"
+      ],
+      "redirectlabel": [
+        "Bosnia and Herzegovina-Hungary relations",
+        "Bosnia and Herzegovina - Hungary relations",
+        "Bosnia and Herzegovina – Hungary relations",
+        "Bosnia and Herzegovina–Hungary relations",
+        "Foreign policy of Hungary",
+        "Foreign relations of hungary",
+        "<B>Hungarian</B>-Ireland relations",
+        "<B>Hungarian</B>-Irish relations",
+        "<B>Hungarian</B>-Latvia relations",
+        "<B>Hungarian</B>-Latvian relations",
+        "<B>Hungarian</B>-Lithuanian relations",
+        "<B>Hungarian</B>-Luxembourg relations",
+        "<B>Hungarian</B>-Maltese relations",
+        "<B>Hungarian</B>-Mongolian relations",
+        "<B>Hungarian</B>-Norwegian relations",
+        "<B>Hungarian</B>-Portuguese relations",
+        "<B>Hungarian</B>-Slovenian relations",
+        "<B>Hungarian</B>-Turkish relations",
+        "<B>Hungarian</B> foreign relations",
+        "<B>Hungarian</B>–Ireland relations",
+        "<B>Hungarian</B>–Latvia relations",
+        "<B>Hungarian</B>–Luxembourg relations",
+        "<B>Hungarian</B>–Turkish relations",
+        "Hungary-Iceland relations",
+        "Hungary-Iraq relations",
+        "Hungary-Ireland relations",
+        "Hungary-Italy relations",
+        "Hungary-Latvia relations",
+        "Hungary-Lithuania relations",
+        "Hungary-Luxembourg relations",
+        "Hungary-Malta relations",
+        "Hungary-Mongolia relations",
+        "Hungary-Montenegro relations",
+        "Hungary-Norway relations",
+        "Hungary-People's Republic of China relations",
+        "Hungary-Portugal relations",
+        "Hungary-Slovenia relations",
+        "Hungary/Transnational issues",
+        "Hungary – Turkey relations",
+        "Hungary–Iceland relations",
+        "Hungary–Iraq relations",
+        "Hungary–Ireland relations",
+        "Hungary–Italy relations",
+        "Hungary–Latvia relations",
+        "Hungary–Lithuania relations",
+        "Hungary–Luxembourg relations",
+        "Hungary–Malta relations",
+        "Hungary–Mongolia relations",
+        "Hungary–Montenegro relations",
+        "Hungary–Norway relations",
+        "Hungary–People's Republic of China relations",
+        "Hungary–Portugal relations",
+        "Hungary–Slovenia relations",
+        "People's Republic of China-<B>Hungarian</B> relations",
+        "People's Republic of China-Hungary relations",
+        "People's Republic of China - Hungary relations",
+        "People's Republic of China – Hungary relations",
+        "People's Republic of China–<B>Hungarian</B> relations",
+        "People's Republic of China–Hungary relations"
+      ],
+      "comment": [
+        " <B>Hungarian</B> economy is fairly open and relies strongly on international trade."
+      ],
+      "label": [
+        "Foreign relations of Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Hungary"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2120.5212"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_State_Opera_House"
+      ],
+      "redirectlabel": [
+        "Budapest National Opera",
+        "Budapest Opera",
+        "Budapest Opera House",
+        "Budapest State Opera House",
+        "<B>Hungarian</B> Opera",
+        "<B>Hungarian</B> Opera House",
+        "<B>Hungarian</B> Royal Opera",
+        "<B>Hungarian</B> Royal Opera House",
+        "Királyi Operaház",
+        "Magyar Állami Operaház",
+        "Opera House of Budapest",
+        "Operahaz",
+        "Operaház",
+        "Royal <B>Hungarian</B> Opera House"
+      ],
+      "typeName": [
+        "Building",
+        "Venue",
+        "Place",
+        "Theatre",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> State Opera House (<B>Hungarian</B>: Magyar Állami Operaház) is a neo-Renaissance opera"
+      ],
+      "label": [
+        "<B>Hungarian</B> State Opera House"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_State_Opera_House"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Venue",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Theatre",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Budapest",
+        "http://dbpedia.org/resource/Category:Culture_in_Budapest",
+        "http://dbpedia.org/resource/Category:Landmarks_in_Hungary",
+        "http://dbpedia.org/resource/Category:Music_venues_completed_in_1884",
+        "http://dbpedia.org/resource/Category:Opera_houses_in_Hungary",
+        "http://dbpedia.org/resource/Category:Renaissance_Revival_architecture_in_Hungary",
+        "http://dbpedia.org/resource/Category:Theatres_completed_in_1884",
+        "http://dbpedia.org/resource/Category:Tourist_attractions_in_Budapest"
+      ]
+    },
+    {
+      "score": [
+        "2120.2283"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Navy"
+      ],
+      "redirectlabel": [
+        "Austrian-<B>Hungarian</B> Navy",
+        "Austrian Navy",
+        "Austro-<B>Hungarian</B> Navy in World War I",
+        "Austro-<B>Hungarian</B> navy",
+        "Danube Flotilla (Austria-Hungary)",
+        "Imperial Austrian Navy",
+        "Imperial and Royal Navy",
+        "Imperial and Royal War Navy",
+        "K.u.K. Kriegsmarine",
+        "K.u.K. Navy",
+        "K.u.K. Seefliegerkorps",
+        "K.u.k. Kriegsmarine",
+        "Kaiserlich und Königlich Seefliegerkorps",
+        "Kaiserliche und Königliche Kriegsmarine",
+        "Kaiserliche und königliche Kriegsmarine",
+        "Kuk Kriegsmarine",
+        "Navy of Austria-Hungary"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Austro-<B>Hungarian</B> Navy or Imperial and Royal War Navy (German: kaiserliche und königliche"
+      ],
+      "label": [
+        "Austro-<B>Hungarian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Hungarian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1867_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Austro-Hungarian_Navy",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1867",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Austria-Hungary_in_World_War_I"
+      ]
+    },
+    {
+      "score": [
+        "2113.009"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Slovenes"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Slovene",
+        "<B>Hungarian</B> Slovenians",
+        "Porabski Slovenci",
+        "Raba Slovenes",
+        "Rába Slovenes",
+        "Slovene <B>Hungarians</B>",
+        "Slovenes in Hungary",
+        "Slovenes in Somogy",
+        "Slovenes of Hungary",
+        "Somogy Slovenes"
+      ],
+      "comment": [
+        "<B>Hungarian</B> Slovenes (Slovene: Madžarski Slovenci, <B>Hungarian</B>: Magyarországi szlovének) are an"
+      ],
+      "label": [
+        "<B>Hungarian</B> Slovenes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Slovenes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_Slovenes",
+        "http://dbpedia.org/resource/Category:Slovenian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2082.1836"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Communist_Party"
+      ],
+      "redirectlabel": [
+        "Communist Party of Hungary",
+        "Kommunisták Magyarországi Pártja",
+        "Magyar Kommunista Part",
+        "Magyar Kommunista Párt",
+        "Party of Communists in Hungary",
+        "Party of Socialist Communist Workers in Hungary",
+        "Peace Party (Hungary)",
+        "Socialist Party of Hungary"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Party of Communists in Hungary (<B>Hungarian</B>: Kommunisták Magyarországi Pártja), renamed <B>Hungarian</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> Communist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Communist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:1948_disestablishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Comintern_sections",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Hungary",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1948",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1918",
+        "http://dbpedia.org/resource/Category:Revolutions_of_1917–1923"
+      ]
+    },
+    {
+      "score": [
+        "2071.7131"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Serbian–Hungarian_Baranya–Baja_Republic"
+      ],
+      "redirectlabel": [
+        "Baranja-Baja Republic",
+        "Baranja Republic",
+        "Baranya-Baja Republic",
+        "Baranya Republic",
+        "Serb-<B>Hungarian</B> Baranja-Baja Republic",
+        "Serb-<B>Hungarian</B> Baranja Republic",
+        "Serb-<B>Hungarian</B> Baranya-Baja Republic",
+        "Serb-<B>Hungarian</B> Baranya Republic",
+        "Serbian-<B>Hungarian</B> Baranja-Baja Republic",
+        "Serbian-<B>Hungarian</B> Baranja Republic",
+        "Serbian-<B>Hungarian</B> Baranya-Baja Republic",
+        "Serbian-<B>Hungarian</B> Baranya Republic",
+        "Serbian-<B>Hungarian</B> Republic of Baranja"
+      ],
+      "label": [
+        "Serbian–<B>Hungarian</B> Baranya–Baja Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Serbian–Hungarian_Baranya–Baja_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_in_Hungary",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_I_in_Hungary",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:History_of_Baranya_(region)",
+        "http://dbpedia.org/resource/Category:History_of_Bačka",
+        "http://dbpedia.org/resource/Category:History_of_the_Serbs",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1921",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1921"
+      ]
+    },
+    {
+      "score": [
+        "2051.8115"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_noun_phrase"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> case",
+        "<B>Hungarian</B> cases",
+        "<B>Hungarian</B> grammar (noun phrase)",
+        "<B>Hungarian</B> grammar (noun phrases)",
+        "<B>Hungarian</B> noun",
+        "<B>Hungarian</B> noun phrases",
+        "<B>Hungarian</B> nouns",
+        "List of <B>Hungarian</B> cases"
+      ],
+      "comment": [
+        "This page is about noun phrases in <B>Hungarian</B> grammar."
+      ],
+      "label": [
+        "<B>Hungarian</B> noun phrase"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_noun_phrase"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_grammar",
+        "http://dbpedia.org/resource/Category:Hungarian_words_and_phrases"
+      ]
+    },
+    {
+      "score": [
+        "2048.571"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Croatian–Hungarian_Settlement"
+      ],
+      "redirectlabel": [
+        "Croatian-<B>Hungarian</B> Agreement",
+        "Croatian-<B>Hungarian</B> Compromise of 1868",
+        "Croatian-<B>Hungarian</B> Settlement",
+        "Croatian–<B>Hungarian</B> Agreement",
+        "Horvát-magyar kiegyezés",
+        "Horvát–magyar kiegyezés",
+        "Hrvatsko-ugarska nagodba",
+        "<B>Hungarian</B>-Croatian Settlement",
+        "Hungaro-Croatian Compromise of 1868",
+        "Kroatisch-Ungarischer Ausgleich",
+        "Nagodba"
+      ],
+      "comment": [
+        "Croatian–<B>Hungarian</B> Settlement (Croatian: Hrvatsko-ugarska nagodba, <B>Hungarian</B>: Horvát–magyar"
+      ],
+      "label": [
+        "Croatian–<B>Hungarian</B> Settlement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Croatian–Hungarian_Settlement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1868_documents",
+        "http://dbpedia.org/resource/Category:1868_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1868_in_Croatia",
+        "http://dbpedia.org/resource/Category:1868_in_Hungary",
+        "http://dbpedia.org/resource/Category:1868_treaties",
+        "http://dbpedia.org/resource/Category:Croatia–Hungary_relations",
+        "http://dbpedia.org/resource/Category:Legal_history_of_Croatia",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Kingdom_of_Croatia-Slavonia",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Kingdom_of_Hungary_(1000–1918)"
+      ]
+    },
+    {
+      "score": [
+        "2044.6658"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_minor_scale"
+      ],
+      "redirectlabel": [
+        "Double harmonic minor scale",
+        "Gypsy minor scale",
+        "<B>Hungarian</B> Gypsy scale",
+        "<B>Hungarian</B> gypsy scale",
+        "<B>Hungarian</B> harmonic",
+        "<B>Hungarian</B> minor",
+        "<B>Hungarian</B> mode",
+        "<B>Hungarian</B> scale",
+        "The Gastlerian Scale"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> minor scale, double harmonic minor scale, or Gypsy minor scale, is a type of combined"
+      ],
+      "label": [
+        "<B>Hungarian</B> minor scale"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_minor_scale"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hemitonic_scales",
+        "http://dbpedia.org/resource/Category:Heptatonic_scales",
+        "http://dbpedia.org/resource/Category:Musical_scales_with_augmented_seconds",
+        "http://dbpedia.org/resource/Category:Tritonic_scales"
+      ]
+    },
+    {
+      "score": [
+        "2036.703"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Grey"
+      ],
+      "redirectlabel": [
+        "Gray <B>Hungarian</B>",
+        "Gray cattle",
+        "Grey <B>Hungarian</B>",
+        "<B>Hungarian</B> Grey Cattle",
+        "<B>Hungarian</B> Grey cattle",
+        "<B>Hungarian</B> Steppe cattle",
+        "<B>Hungarian</B> grey cattle"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Grey (<B>Hungarian</B>: Magyar Szürke), also known as <B>Hungarian</B> Steppe Cattle, is an ancient"
+      ],
+      "label": [
+        "<B>Hungarian</B> Grey"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Grey"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cattle_breeds",
+        "http://dbpedia.org/resource/Category:Cattle_breeds_originating_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2028.0161"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_irredentism"
+      ],
+      "redirectlabel": [
+        "Greater Hungary (irredentism)",
+        "Greater Hungary (political concept)",
+        "<B>Hungarian</B> Irrendentism",
+        "<B>Hungarian</B> irredentist",
+        "<B>Hungarian</B> revisionism"
+      ],
+      "comment": [
+        "<B>Hungarian</B> irredentism or Greater Hungary are irredentist and revisionist political ideas concerning"
+      ],
+      "label": [
+        "<B>Hungarian</B> irredentism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_irredentism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_irredentism",
+        "http://dbpedia.org/resource/Category:Hungarian_nationalism",
+        "http://dbpedia.org/resource/Category:Political_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Politics_of_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2027.8336"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Great_Hungarian_Plain"
+      ],
+      "redirectlabel": [
+        "Alfoeld",
+        "Alföld",
+        "Great Alfoeld",
+        "Great Alfold",
+        "Great Alföld",
+        "Great <B>Hungarian</B> plain",
+        "<B>Hungarian</B> Plain",
+        "<B>Hungarian</B> plain",
+        "Nagy Alföld",
+        "Nagyalföld",
+        "Veľká dunajská kotlina"
+      ],
+      "comment": [
+        "The Great <B>Hungarian</B> Plain (also known as Alföld or Great Alföld, <B>Hungarian</B>: Alföld [ˈɒlføld] or"
+      ],
+      "label": [
+        "Great <B>Hungarian</B> Plain"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Great_Hungarian_Plain"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eurasian_Steppe",
+        "http://dbpedia.org/resource/Category:Geography_of_Vojvodina",
+        "http://dbpedia.org/resource/Category:Great_Hungarian_Plain",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_Hungary",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_the_Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:Pannonian_Plain",
+        "http://dbpedia.org/resource/Category:Plains_of_Croatia",
+        "http://dbpedia.org/resource/Category:Plains_of_Hungary",
+        "http://dbpedia.org/resource/Category:Plains_of_Romania",
+        "http://dbpedia.org/resource/Category:Plains_of_Serbia",
+        "http://dbpedia.org/resource/Category:Plains_of_Slovakia",
+        "http://dbpedia.org/resource/Category:Plains_of_Ukraine"
+      ]
+    },
+    {
+      "score": [
+        "2009.219"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Hungarian_Honvéd"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Honved",
+        "<B>Hungarian</B> Honvéd",
+        "K.u. Landwehr",
+        "Königlich ungarische Landwehr",
+        "Magyar Királyi Honvédség",
+        "Royal <B>Hungarian</B> Honved",
+        "Royal <B>Hungarian</B> Landwehr"
+      ],
+      "comment": [
+        "The Royal <B>Hungarian</B> Honvéd (<B>Hungarian</B>: Magyar Királyi Honvédség), Royal <B>Hungarian</B> Honved or Royal"
+      ],
+      "label": [
+        "Royal <B>Hungarian</B> Honvéd"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Hungarian_Honvéd"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austro-Hungarian_Army",
+        "http://dbpedia.org/resource/Category:Establishments_in_the_Kingdom_of_Hungary_(1867–1918)",
+        "http://dbpedia.org/resource/Category:Military_history_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1930.9731"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_nobility"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Royalty",
+        "<B>Hungarian</B> noble",
+        "<B>Hungarian</B> nobles",
+        "Hungarus",
+        "Lesser nobility (Kingdom of Hungary)",
+        "Nobility and Royalty of the Kingdom of Hungary",
+        "Nobility and royalty of the Kingdom of Hungary",
+        "Nobility and royalty of the kingdom of hungary",
+        "Nobility in the Kingdom of Hungary",
+        "Nobility of the Kingdom of Hungary",
+        "Slovak noble families",
+        "Slovakian nobility",
+        "Zeman (nobleman)"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> nobility consisted of a privileged group of people, most of whom owned landed"
+      ],
+      "label": [
+        "<B>Hungarian</B> nobility"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_nobility"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Croatia",
+        "http://dbpedia.org/resource/Category:History_of_Hungary",
+        "http://dbpedia.org/resource/Category:History_of_Slovakia",
+        "http://dbpedia.org/resource/Category:Hungarian_nobility",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Croatia",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:Transylvania_in_the_Kingdom_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1927.5911"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Football_Federation"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Football Association",
+        "<B>Hungarian</B> Football Federation Player of the Year",
+        "<B>Hungarian</B> Football Union",
+        "MLSZ",
+        "Magyar Labdarúgó Szövetség"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Football Federation (<B>Hungarian</B>: Magyar Labdarúgó Szövetség, MLSZ) is the governing"
+      ],
+      "label": [
+        "<B>Hungarian</B> Football Federation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Football_Federation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1901_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Football_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Football_in_Hungary",
+        "http://dbpedia.org/resource/Category:Futsal_in_Hungary",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Hungary",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1901",
+        "http://dbpedia.org/resource/Category:UEFA_member_associations"
+      ]
+    },
+    {
+      "score": [
+        "1918.3972"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Party_of_the_Hungarian_Community"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Coalition (Slovakia)",
+        "Magyar Koalicio Partja",
+        "Magyar Koalició Pártja",
+        "Magyar Koalíció Pártja",
+        "Party of the <B>Hungarian</B> Coalition",
+        "Party of the <B>hungarian</B> coalition",
+        "SMK-MKP",
+        "Strana madarskej koalicie",
+        "Strana maďarskej koalície",
+        "Strana maďarskej koalície - Magyar Koalíció Pártja",
+        "Strana maďarskej koalície – Magyar Koalíció Pártja"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Party of the <B>Hungarian</B> Community  (<B>Hungarian</B>: Magyar Közösség Pártja, Slovak: Strana maďarskej"
+      ],
+      "label": [
+        "Party of the <B>Hungarian</B> Community"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Party_of_the_Hungarian_Community"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_establishments_in_Slovakia",
+        "http://dbpedia.org/resource/Category:2021_disestablishments_in_Slovakia",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Slovakia",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Slovakia",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Slovakia",
+        "http://dbpedia.org/resource/Category:Hungarian_minority_interests_parties",
+        "http://dbpedia.org/resource/Category:Hungarians_in_Slovakia",
+        "http://dbpedia.org/resource/Category:Member_parties_of_the_European_People's_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2021",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1998",
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities_in_Slovakia"
+      ]
+    },
+    {
+      "score": [
+        "1916.1683"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_occupation_of_Yugoslav_territories"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> occupation of Backa and Baranja, 1941-1944",
+        "<B>Hungarian</B> occupation of Backa and Baranja, 1941–1944",
+        "<B>Hungarian</B> occupation of Baranja and Bačka, 1941-1944",
+        "<B>Hungarian</B> occupation of Baranja and Bačka, 1941–1944",
+        "<B>Hungarian</B> occupation of Bačka",
+        "<B>Hungarian</B> occupation of Bačka and Baranja, 1941-1944",
+        "<B>Hungarian</B> occupation of Bačka and Baranja, 1941–1944",
+        "<B>Hungarian</B> occupation of Bačka and Baranja",
+        "<B>Hungarian</B> occupation of Međimurje",
+        "<B>Hungarian</B> occupation of Prekmurje",
+        "<B>Hungarian</B> occupation of Yugoslavian territories"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> occupation of Yugoslav territories consisted of the military occupation, then"
+      ],
+      "label": [
+        "<B>Hungarian</B> occupation of Yugoslav territories"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_occupation_of_Yugoslav_territories"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Croatia",
+        "http://dbpedia.org/resource/Category:1940s_in_Slovenia",
+        "http://dbpedia.org/resource/Category:1941_establishments_in_Yugoslavia",
+        "http://dbpedia.org/resource/Category:1944_disestablishments_in_Yugoslavia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Vojvodina",
+        "http://dbpedia.org/resource/Category:Annexation",
+        "http://dbpedia.org/resource/Category:History_of_Baranya_(region)",
+        "http://dbpedia.org/resource/Category:History_of_Bačka",
+        "http://dbpedia.org/resource/Category:Hungary_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Hungary–Yugoslavia_relations",
+        "http://dbpedia.org/resource/Category:Serbia_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Slovenia_in_World_War_II",
+        "http://dbpedia.org/resource/Category:The_Holocaust_in_Yugoslavia",
+        "http://dbpedia.org/resource/Category:World_War_II_crimes",
+        "http://dbpedia.org/resource/Category:World_War_II_occupied_territories",
+        "http://dbpedia.org/resource/Category:Yugoslavia_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "1909.7201"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarians_in_Romania"
+      ],
+      "redirectlabel": [
+        "History of the <B>Hungarians</B> in Romania",
+        "<B>Hungarian</B> Minority in Romania",
+        "<B>Hungarian</B> Romanian",
+        "<B>Hungarian</B> Romanians",
+        "<B>Hungarian</B> minority in Romania",
+        "<B>Hungarian</B> minority in romania",
+        "<B>Hungarian</B> minority of Romania",
+        "<B>Hungarians</B> in Moldova",
+        "<B>Hungarians</B> in Transylvania",
+        "<B>Hungarians</B> of Romania",
+        "Romanian-<B>Hungarian</B>",
+        "Romanians of <B>Hungarian</B> descent",
+        "Transylvanian <B>Hungarians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> minority of Romania (<B>Hungarian</B>: romániai magyarok, Romanian: maghiarii din România"
+      ],
+      "label": [
+        "<B>Hungarians</B> in Romania"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarians_in_Romania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Romania",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Transylvania",
+        "http://dbpedia.org/resource/Category:Hungarian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Hungarian_minorities_in_Europe",
+        "http://dbpedia.org/resource/Category:Hungarians_in_Romania"
+      ]
+    },
+    {
+      "score": [
+        "1877.9292"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Green_Hungarian"
+      ],
+      "redirectlabel": [
+        "Aramon du Nord",
+        "Bela Pelesovna",
+        "Bela Selenika",
+        "Belline",
+        "Bockseckel",
+        "Butschera",
+        "Elender",
+        "Glockauer",
+        "Grune Pelesovna",
+        "Grüne Pelesovna",
+        "Gyongy szolo",
+        "Gyongyszolo",
+        "Gyöngy Szölö",
+        "Gyöngyszölö",
+        "Heinisch Rot",
+        "Hinschen Weiss",
+        "Lelt Szoeloe",
+        "Misera",
+        "Perlentraube",
+        "Putchir",
+        "Putscheere Bleu",
+        "Putscher",
+        "Putzcheere",
+        "Putzscheere",
+        "Rothinsch",
+        "Sauerlamper",
+        "Talburger",
+        "Tokauer",
+        "Treitsche",
+        "Ungar (grape)",
+        "Weisser Tokayer",
+        "Zuti Krhkopetec"
+      ],
+      "typeName": [
+        "Plant",
+        "Species",
+        "Eukaryote",
+        "Grape",
+        "FloweringPlant"
+      ],
+      "comment": [
+        "Green <B>Hungarian</B>, Butschera (<B>Hungarian</B>) or Putzscheere (German) is a white <B>Hungarian</B> wine grape. It"
+      ],
+      "label": [
+        "Green <B>Hungarian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Green_Hungarian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Plant",
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Eukaryote",
+        "http://dbpedia.org/ontology/Grape",
+        "http://dbpedia.org/ontology/FloweringPlant"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:White_wine_grape_varieties"
+      ]
+    },
+    {
+      "score": [
+        "1872.0259"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Ground_Forces"
+      ],
+      "redirectlabel": [
+        "Army of Hungary",
+        "Danube Flotilla (Hungary)",
+        "<B>Hungarian</B> Army",
+        "<B>Hungarian</B> Ground Force",
+        "<B>Hungarian</B> Red Army",
+        "<B>Hungarian</B> army",
+        "Military equipment of Hungary"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Ground Forces are one of the branches of the <B>Hungarian</B> Defence Forces. It is the army"
+      ],
+      "label": [
+        "<B>Hungarian</B> Ground Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Ground_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armies_by_country",
+        "http://dbpedia.org/resource/Category:Military_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1855.7981"
+      ],
+      "refCount": [
+        "341"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romanian_language"
+      ],
+      "redirectlabel": [
+        "Daco-Romanian",
+        "Daco-Romanian language",
+        "Dacoromanian",
+        "Geographical distribution of Romanian speakers",
+        "<B>Hungarian</B> influence on Romanian",
+        "ISO 639:ro",
+        "ISO 639:ron",
+        "ISO 639:rum",
+        "Limba Romana",
+        "Limba Română",
+        "Limba română",
+        "Ro (language code)",
+        "Romainian punctuation",
+        "Romanian-language",
+        "Romanian (language)",
+        "Romanian / moldovan language",
+        "Romanian Language",
+        "Romanophone",
+        "Română",
+        "Rumanian (language)",
+        "Rumanian language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Romanian (dated Rumanian or Roumanian; autonym: limba română [ˈlimba roˈmɨnə] (), \"the Romanian language\", or românește, lit. \"in Romanian\") is a Balkan Romance language spoken by approximately 24–26 million people as a native language, primarily in Romania and Moldova, and by another 4 million people as a second language. It is an official and national language of both Romania and Moldova and is one of the official languages of the European Union."
+      ],
+      "label": [
+        "Romanian language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romanian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Languages_of_Austria",
+        "http://dbpedia.org/resource/Category:Languages_of_Hungary",
+        "http://dbpedia.org/resource/Category:Languages_of_Kazakhstan",
+        "http://dbpedia.org/resource/Category:Languages_of_Moldova",
+        "http://dbpedia.org/resource/Category:Languages_of_Romania",
+        "http://dbpedia.org/resource/Category:Languages_of_Russia",
+        "http://dbpedia.org/resource/Category:Languages_of_Serbia",
+        "http://dbpedia.org/resource/Category:Languages_of_Transnistria",
+        "http://dbpedia.org/resource/Category:Languages_of_Ukraine",
+        "http://dbpedia.org/resource/Category:Languages_of_Vojvodina",
+        "http://dbpedia.org/resource/Category:Romanian_language"
+      ]
+    },
+    {
+      "score": [
+        "1854.8799"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ottoman–Hungarian_wars"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B>-Ottoman Wars",
+        "Hungaro-Turkish Wars",
+        "Hungaro-Turkish wars",
+        "Hungaro-turkish wars",
+        "Ottoman-<B>Hungarian</B> Wars",
+        "Ottoman-<B>Hungarian</B> wars",
+        "Ottoman–<B>Hungarian</B> Wars"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Ottoman–<B>Hungarian</B> Wars were a series of battles between the Ottoman Empire and the medieval"
+      ],
+      "label": [
+        "Ottoman–<B>Hungarian</B> wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ottoman–Hungarian_wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:15th-century_conflicts",
+        "http://dbpedia.org/resource/Category:15th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:16th-century_conflicts",
+        "http://dbpedia.org/resource/Category:16th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:Early_Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:Ottoman_period_in_Hungary",
+        "http://dbpedia.org/resource/Category:Territorial_evolution_of_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_medieval_Serbian_states",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "1850.898"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Native_Faith"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Hungarian</B> Religion",
+        "<B>Hungarian</B> Neopaganism",
+        "<B>Hungarian</B> native faith",
+        "<B>Hungarian</B> neopaganism",
+        "Osmagyar Vallas",
+        "Taltosism",
+        "Ősmagyar Vallás"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Native Faith (<B>Hungarian</B>: Ősmagyar Vallás), also termed <B>Hungarian</B> Neopaganism, is a"
+      ],
+      "label": [
+        "<B>Hungarian</B> Native Faith"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Native_Faith"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Modern_paganism_by_country",
+        "http://dbpedia.org/resource/Category:Modern_paganism_in_Europe",
+        "http://dbpedia.org/resource/Category:Religion_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1821.1196"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of Hungary",
+        "Air Force of the <B>Hungarian</B> People's Army",
+        "HUNAF",
+        "History of the <B>Hungarian</B> Air Force",
+        "Magyar Királyi Honvéd Légierő",
+        "Magyar Légierő",
+        "Red <B>Hungarian</B> Air Corps",
+        "Royal <B>Hungarian</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Air Force (<B>Hungarian</B>: Magyar Légierő) is the air force branch of the <B>Hungarian</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Aviation_in_Hungary",
+        "http://dbpedia.org/resource/Category:Military_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1815.9364"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian–Czechoslovak_War"
+      ],
+      "redirectlabel": [
+        "Czechoslovak-<B>Hungarian</B> War",
+        "Czechoslovakia-Hungary War",
+        "Czechoslovak–<B>Hungarian</B> War",
+        "<B>Hungarian</B>-Czechoslovak War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B>–Czechoslovak War, or Northern Campaign (<B>Hungarian</B>: északi hadjárat), was fought"
+      ],
+      "label": [
+        "<B>Hungarian</B>–Czechoslovak War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian–Czechoslovak_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1918_in_Hungary",
+        "http://dbpedia.org/resource/Category:1919_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1919_in_Hungary",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1918",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1919",
+        "http://dbpedia.org/resource/Category:Wars_between_the_Czech_Republic_and_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1815.1019"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Parliament_Building"
+      ],
+      "redirectlabel": [
+        "Budapest Parliament",
+        "Budapest Parliament Building",
+        "Budapest Parliament building",
+        "<B>Hungarian</B> Parliament building",
+        "<B>Hungarian</B> parliament building",
+        "Hungary Parliament Building",
+        "Orszaghaz",
+        "Országház",
+        "Parliament Building of Hungary"
+      ],
+      "typeName": [
+        "Building",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Parliament Building (<B>Hungarian</B>: Országház, pronounced [ˈorsaːghaːz], which translates"
+      ],
+      "label": [
+        "<B>Hungarian</B> Parliament Building"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Parliament_Building"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1904",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Budapest",
+        "http://dbpedia.org/resource/Category:Government_buildings_with_domes",
+        "http://dbpedia.org/resource/Category:Landmarks_in_Hungary",
+        "http://dbpedia.org/resource/Category:Legislative_buildings_in_Europe",
+        "http://dbpedia.org/resource/Category:Politics_of_Hungary",
+        "http://dbpedia.org/resource/Category:Seats_of_national_legislatures"
+      ]
+    },
+    {
+      "score": [
+        "1790.7395"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_campaign_of_1527–1528"
+      ],
+      "redirectlabel": [
+        "Campaign of Ferdinand I",
+        "Ferdinand I's campaign",
+        "<B>Hungarian</B> Civil War",
+        "<B>Hungarian</B> campaign of 1527-1528",
+        "<B>Hungarian</B> campaign of 1527-28",
+        "<B>Hungarian</B> campaign of 1527–28"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> campaign of 1527–1528 was launched by Ferdinand I, Archduke of Austria and King of"
+      ],
+      "label": [
+        "<B>Hungarian</B> campaign of 1527–1528"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_campaign_of_1527–1528"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1527_in_Hungary",
+        "http://dbpedia.org/resource/Category:1527_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:1527_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:1528_in_Hungary",
+        "http://dbpedia.org/resource/Category:1528_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:1528_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1527",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1528",
+        "http://dbpedia.org/resource/Category:Ferdinand_I,_Holy_Roman_Emperor",
+        "http://dbpedia.org/resource/Category:Hungarian_campaign_of_1527–1528",
+        "http://dbpedia.org/resource/Category:Military_campaigns_involving_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:Military_campaigns_involving_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_Croatia"
+      ]
+    },
+    {
+      "score": [
+        "1773.9895"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_border_barrier"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> border wall",
+        "<B>Hungarian</B> southern border fence",
+        "Hungary-Croatia barrier",
+        "Hungary-Serbia barrier",
+        "Hungary-Serbia border fence",
+        "Hungary-Slovenia barrier",
+        "Hungary–Croatia barrier",
+        "Hungary–Serbia barrier",
+        "Hungary–Serbia border fence",
+        "Hungary–Slovenia barrier"
+      ],
+      "typeName": [
+        "Place",
+        "MilitaryStructure",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "In 2015, Hungary built a border barrier on its border with Serbia and Croatia. The fence was constructed during the European migrant crisis (see timeline), with the aim to ensure border security by preventing illegal immigrants from entering, and enabling the option to enter through official checkpoints and claim asylum in Hungary in accordance with international and European law. The number of illegal entries to Hungary declined greatly after the barrier was finished as it effectively abolished the access to asylum in Hungary."
+      ],
+      "label": [
+        "<B>Hungarian</B> border barrier"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_border_barrier"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/MilitaryStructure",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:2015_in_Hungary",
+        "http://dbpedia.org/resource/Category:2015_in_Serbia",
+        "http://dbpedia.org/resource/Category:Border_barriers_constructed_during_the_European_migrant_crisis",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_2015",
+        "http://dbpedia.org/resource/Category:Hungary–Serbia_border",
+        "http://dbpedia.org/resource/Category:Viktor_Orbán"
+      ]
+    },
+    {
+      "score": [
+        "1765.254"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "label": [
+        "<B>Hungarian</B> Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Revolution"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Revolution"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Revolution (disambiguation)",
+        "<B>Hungarian</B> Uprising",
+        "<B>Hungarian</B> Uprising (disambiguation)",
+        "<B>Hungarian</B> revolution",
+        "<B>Hungarian</B> uprising"
+      ]
+    },
+    {
+      "score": [
+        "1761.0314"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_verbs"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> grammar (verb)",
+        "<B>Hungarian</B> grammar (verbs)",
+        "<B>Hungarian</B> irregular verbs",
+        "<B>Hungarian</B> verb"
+      ],
+      "comment": [
+        "This page is about verbs in <B>Hungarian</B> grammar."
+      ],
+      "label": [
+        "<B>Hungarian</B> verbs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_verbs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_grammar",
+        "http://dbpedia.org/resource/Category:Verbs_by_language"
+      ]
+    },
+    {
+      "score": [
+        "1726.9188"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Uruguayans"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Uruguayan",
+        "<B>Hungarian</B> immigration in Uruguay",
+        "<B>Hungarian</B> immigration to Uruguay",
+        "<B>Hungarians</B> in Uruguay"
+      ],
+      "comment": [
+        "<B>Hungarian</B> Uruguayans are people born in Hungary who live in Uruguay or Uruguayan-born people of <B>Hungarian</B> descent."
+      ],
+      "label": [
+        "<B>Hungarian</B> Uruguayans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Uruguayans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Uruguay",
+        "http://dbpedia.org/resource/Category:European_Uruguayan",
+        "http://dbpedia.org/resource/Category:Hungarian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Hungary–Uruguay_relations",
+        "http://dbpedia.org/resource/Category:Immigration_to_Uruguay",
+        "http://dbpedia.org/resource/Category:Uruguayan_people_of_Hungarian_descent"
+      ]
+    },
+    {
+      "score": [
+        "1711.9009"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Catholic_Archeparchy_of_Hajdúdorog"
+      ],
+      "redirectlabel": [
+        "Byzantine Catholic Diocese of Hajdúdorog",
+        "Diocese of Hajdudorog",
+        "Diocese of Hajdúdorog",
+        "Eparchy of Hajdudorog",
+        "Eparchy of Hajdúdorog",
+        "Hajdúdorog of the <B>Hungarians</B>",
+        "<B>Hungarian</B> Catholic Archeparchy of Hajdudorog",
+        "<B>Hungarian</B> Catholic Eparchy of Hajdúdorog",
+        "<B>Hungarian</B> Catholic Metropolitanate of Hajdúdorog",
+        "<B>Hungarian</B> Greek Catholic Archeparchy of Hajdúdorog",
+        "Roman Catholic Diocese of Hajdudorog",
+        "Roman Catholic Diocese of Hajdúdorog"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Diocese",
+        "Location",
+        "Region",
+        "ClericalAdministrativeRegion"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> (Greek) Catholic Archeparchy of Hajdúdorog (Latin: Archidioecesis Haidudoroghensis"
+      ],
+      "label": [
+        "<B>Hungarian</B> Catholic Archeparchy of Hajdúdorog"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Catholic_Archeparchy_of_Hajdúdorog"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Diocese",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region",
+        "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Christian_organizations_established_in_1912",
+        "http://dbpedia.org/resource/Category:Eastern_Catholic_dioceses_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_Greek_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Roman_Catholic_Ecclesiastical_Province_of_Esztergom–Budapest",
+        "http://dbpedia.org/resource/Category:Roman_Catholic_dioceses_and_prelatures_established_in_the_20th_century"
+      ]
+    },
+    {
+      "score": [
+        "1704.752"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Magyar_Kupa_(men's_basketball)"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Basketball Cup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        ". Budapest Honved has won the most titles with 17. The Cup is named after the retired <B>Hungarian</B> player"
+      ],
+      "label": [
+        "Magyar Kupa (men's basketball)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Magyar_Kupa_(men's_basketball)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Hungary",
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1702.3792"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Nemzeti_Bajnokság_I"
+      ],
+      "redirectlabel": [
+        "Arany Aszok Liga",
+        "Arany Ászok Liga",
+        "Borsodi Liga",
+        "<B>Hungarian</B> League",
+        "<B>Hungarian</B> National Championship I",
+        "<B>Hungarian</B> Premier League",
+        "Monicomp liga",
+        "NB1",
+        "NB I",
+        "Nemzeti Bajnoksag",
+        "Nemzeti Bajnoksag I",
+        "Nemzeti Bajnokság",
+        "OTP Bank Liga",
+        "Soproni Liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Nemzeti Bajnokság (<B>Hungarian</B> pronunciation: [ˈnɛmzɛti ˈbɒjnokʃaːɡ], \"National Championship\") is"
+      ],
+      "label": [
+        "Nemzeti Bajnokság I"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Nemzeti_Bajnokság_I"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1901_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Hungary",
+        "http://dbpedia.org/resource/Category:Nemzeti_Bajnokság_I",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Hungary",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1695.8938"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Byzantine Catholic Church",
+        "<B>Hungarian</B> Greco-Catholic Church"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Greek Catholic Church (<B>Hungarian</B>: Magyar görögkatolikus egyház) or <B>Hungarian</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> Greek Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Greek_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Eastern_Catholicism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_Greek_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "1679.0426"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_National_Defence_Association"
+      ],
+      "redirectlabel": [
+        "Association of <B>Hungarian</B> National Defence",
+        "<B>Hungarian</B> National Defence Force Association",
+        "<B>Hungarian</B> National Defence Force Union",
+        "MOVE (Hungary)",
+        "Magyar Orszagos Vedero Egyesuelet",
+        "Magyar Orszagos Vedero Egyesulet",
+        "Magyar Országos Véderő Egyesület",
+        "Szeged Fascists",
+        "Vedero"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> National Defence Association (<B>Hungarian</B>: Magyar Országos Véderő Egylet or MOVE) was"
+      ],
+      "label": [
+        "<B>Hungarian</B> National Defence Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_National_Defence_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-communist_organizations",
+        "http://dbpedia.org/resource/Category:Banned_far-right_parties",
+        "http://dbpedia.org/resource/Category:Fascism_in_Hungary",
+        "http://dbpedia.org/resource/Category:Fascist_organizations",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1919",
+        "http://dbpedia.org/resource/Category:Paramilitary_organisations_based_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1678.3798"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Dances_(Brahms)"
+      ],
+      "redirectlabel": [
+        "Brahms <B>hungarian</B> dance No. 5",
+        "<B>Hungarian</B> Dance No. 5",
+        "<B>Hungarian</B> Dances",
+        "Ungarische Taenze",
+        "Ungarische Tanze",
+        "Ungarische Tänze",
+        "Ungarischer Tanz"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Dances (German: Ungarische Tänze) by Johannes Brahms (WoO 1), are a set of 21 lively"
+      ],
+      "label": [
+        "<B>Hungarian</B> Dances (Brahms)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Dances_(Brahms)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1869_compositions",
+        "http://dbpedia.org/resource/Category:Compositions_by_Johannes_Brahms",
+        "http://dbpedia.org/resource/Category:Compositions_for_piano_four-hands",
+        "http://dbpedia.org/resource/Category:Compositions_set_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_music"
+      ]
+    },
+    {
+      "score": [
+        "1661.1366"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_wax_pepper"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Wax",
+        "<B>Hungarian</B> Wax pepper",
+        "<B>Hungarian</B> hot wax",
+        "<B>Hungarian</B> hot wax pepper",
+        "<B>Hungarian</B> wax"
+      ],
+      "typeName": [
+        "CultivatedVariety",
+        "Plant",
+        "Species",
+        "Eukaryote"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> wax pepper is a medium variety of Capsicum annuum with a wide Scoville Scale range of 1,000 to 15,000 Scoville units."
+      ],
+      "label": [
+        "<B>Hungarian</B> wax pepper"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_wax_pepper"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/CultivatedVariety",
+        "http://dbpedia.org/ontology/Plant",
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Eukaryote"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Capsicum_cultivars",
+        "http://dbpedia.org/resource/Category:Chili_peppers",
+        "http://dbpedia.org/resource/Category:Hydroponics"
+      ]
+    },
+    {
+      "score": [
+        "1659.8136"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_mythology"
+      ],
+      "redirectlabel": [
+        "Animals in <B>Hungarian</B> mythology",
+        "Csodaszarvas",
+        "Garabonciás",
+        "Guta (spirit)",
+        "<B>Hungarian</B> deities",
+        "Mythology of Hungary"
+      ],
+      "comment": [
+        "<B>Hungarian</B> mythology includes the myths, legends, folk tales, fairy tales and gods of the <B>Hungarians</B>, also known as the Magyars."
+      ],
+      "label": [
+        "<B>Hungarian</B> mythology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_mythology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_mythology",
+        "http://dbpedia.org/resource/Category:Hungarian_prehistory",
+        "http://dbpedia.org/resource/Category:Uralic_mythology"
+      ]
+    },
+    {
+      "score": [
+        "1658.0253"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Association_of_Hungarian_Record_Companies"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Airplay Chart",
+        "<B>Hungarian</B> Albums Chart",
+        "<B>Hungarian</B> Singles Chart",
+        "<B>Hungarian</B> singles chart",
+        "Hungary Singles Chart",
+        "MAHASZ",
+        "Mahasz"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Recording Industry Association (<B>Hungarian</B>: Magyar Hanglemezkiadók Szövetsége, more"
+      ],
+      "label": [
+        "Association of <B>Hungarian</B> Record Companies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Association_of_Hungarian_Record_Companies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Music_industry_associations",
+        "http://dbpedia.org/resource/Category:Music_organisations_based_in_Hungary",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "1654.6031"
+      ],
+      "refCount": [
+        "71"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bačka"
+      ],
+      "redirectlabel": [
+        "Bachka",
+        "Backa",
+        "Bacska",
+        "Batschka",
+        "Bácska",
+        "Dél-Bácska",
+        "<B>Hungarian</B> Bačka",
+        "Közép- és Dél-Bácska",
+        "Serbian Bačka",
+        "Észak-Bácska"
+      ],
+      "comment": [
+        "Bačka (Serbian: Бачка / Bačka, pronounced [bâːt͡ʃkaː]; <B>Hungarian</B>: Bácska, pronounced [ˈbaːt͡ʃkɒ"
+      ],
+      "label": [
+        "Bačka"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bačka"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bačka",
+        "http://dbpedia.org/resource/Category:Divided_regions",
+        "http://dbpedia.org/resource/Category:Geographical_regions_of_Serbia",
+        "http://dbpedia.org/resource/Category:Geography_of_Vojvodina",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_Hungary",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_Serbia",
+        "http://dbpedia.org/resource/Category:Regions_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1654.4608"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Hungarian_fees_abolition_referendum"
+      ],
+      "redirectlabel": [
+        "2008 <B>Hungarian</B> fees abolishment referendum",
+        "<B>Hungarian</B> fees abolishment referendum, 2008",
+        "<B>Hungarian</B> fees abolition referendum, 2008",
+        "<B>Hungarian</B> medical and higher education fees referendum, 2008",
+        "<B>Hungarian</B> medical and university fees referendum, 2008",
+        "<B>Hungarian</B> referendum, 2008",
+        "<B>Hungarian</B> referendum of 2008",
+        "Social referendum"
+      ],
+      "comment": [
+        "A referendum on revoking some medical and tuition fees was held in Hungary on 9 March 2008. The proposals would cancel government reforms which introduced doctor visit fees paid per visitation and medical fees paid per number of days spent in hospital as well as tuition fees in higher education. All three were supported by a majority of voters. Prime Minister Ferenc Gyurcsány stated that the fees would be abolished on 1 April 2008 following the referendum, but that the government had no funds available to replace the income lost for the higher educations institutions and health institutions due to the abolishment of the fees."
+      ],
+      "label": [
+        "2008 <B>Hungarian</B> fees abolition referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Hungarian_fees_abolition_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_in_Hungary",
+        "http://dbpedia.org/resource/Category:2008_referendums",
+        "http://dbpedia.org/resource/Category:Healthcare_in_Hungary",
+        "http://dbpedia.org/resource/Category:Referendums_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1640.616"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Rhapsodies"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> Rhapsodies (Liszt)",
+        "<B>Hungarian</B> Rhapsody",
+        "<B>Hungarian</B> rhapsodies",
+        "<B>Hungarian</B> rhapsody"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> Rhapsodies, S.244, R.106 (French: Rhapsodies hongroises, German: Ungarische"
+      ],
+      "label": [
+        "<B>Hungarian</B> Rhapsodies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Rhapsodies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1853_compositions",
+        "http://dbpedia.org/resource/Category:1882_compositions",
+        "http://dbpedia.org/resource/Category:1885_compositions",
+        "http://dbpedia.org/resource/Category:Compositions_set_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_Rhapsodies_by_Franz_Liszt"
+      ]
+    },
+    {
+      "score": [
+        "1637.4692"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_conquest_of_the_Carpathian_Basin"
+      ],
+      "redirectlabel": [
+        "Honfoglalas",
+        "Honfoglalás",
+        "<B>Hungarian</B> Conquest",
+        "<B>Hungarian</B> Conquest of the Carpathian Basin",
+        "<B>Hungarian</B> landtaking",
+        "Magyar invasion of Pannonia",
+        "Magyar migration",
+        "The <B>Hungarian</B> landtaking"
+      ],
+      "comment": [
+        " <B>Hungarian</B> horsemen as soldiers. Therefore, the <B>Hungarians</B> who dwelt on the Pontic steppes east of the"
+      ],
+      "label": [
+        "<B>Hungarian</B> conquest of the Carpathian Basin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_conquest_of_the_Carpathian_Basin"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:10th-century_conflicts",
+        "http://dbpedia.org/resource/Category:10th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:10th_century_in_Romania",
+        "http://dbpedia.org/resource/Category:10th_century_in_Serbia",
+        "http://dbpedia.org/resource/Category:9th-century_conflicts",
+        "http://dbpedia.org/resource/Category:9th_century_in_Hungary",
+        "http://dbpedia.org/resource/Category:9th_century_in_Romania",
+        "http://dbpedia.org/resource/Category:9th_century_in_Serbia",
+        "http://dbpedia.org/resource/Category:Hungarian_invasions_of_Europe",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Carolingian_Empire"
+      ]
+    },
+    {
+      "score": [
+        "1636.71"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_names"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B>-language surname",
+        "<B>Hungarian</B> name",
+        "<B>Hungarian</B> naming",
+        "<B>Hungarian</B> surname"
+      ],
+      "comment": [
+        "<B>Hungarian</B> names include surnames and given names. Occasionally there are more than one of the"
+      ],
+      "label": [
+        "<B>Hungarian</B> names"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_names"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1629.8273"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_National_Philharmonic"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> National Orchestra",
+        "<B>Hungarian</B> National Philharmonic Orchestra",
+        "<B>Hungarian</B> State Orchestra",
+        "<B>Hungarian</B> State Symphony",
+        "<B>Hungarian</B> State Symphony Orchestra"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> National Philharmonic Orchestra (<B>Hungarian</B>: Nemzeti Filharmonikus Zenekar; formerly"
+      ],
+      "label": [
+        "<B>Hungarian</B> National Philharmonic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_National_Philharmonic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1923_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Hungarian_orchestras",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1923"
+      ]
+    },
+    {
+      "score": [
+        "1620.4358"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Hungarian</B> citizen",
+        "<B>Hungarian</B> citizenship",
+        "Hungary citizenship",
+        "Hungary nationality law",
+        "Magyar law",
+        "Nationality law of Hungary"
+      ],
+      "comment": [
+        "<B>Hungarian</B> nationality law is based on the principles of jus sanguinis. <B>Hungarian</B> citizenship can be"
+      ],
+      "label": [
+        "<B>Hungarian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hungarian_nationality_law",
+        "http://dbpedia.org/resource/Category:Hungary_and_the_European_Union"
+      ]
+    },
+    {
+      "score": [
+        "1608.3188"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian_Catholic_Eparchy_of_Nyíregyháza"
+      ],
+      "redirectlabel": [
+        "Byzantine Catholic Eparchy of Nyíregyháza",
+        "Eparchy of Nyíregyháza",
+        "<B>Hungarian</B> Catholic Diocese of Nyíregyháza",
+        "<B>Hungarian</B> Catholic Eparchy of Nyiregyhaza",
+        "<B>Hungarian</B> Greek Catholic Archeparchy of Nyiregyhaza",
+        "<B>Hungarian</B> Greek Catholic Eparchy of Nyiregyhaza",
+        "<B>Hungarian</B> Greek Catholic Eparchy of Nyíregyháza",
+        "Nyíregyháza of the <B>Hungarians</B>"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Diocese",
+        "Location",
+        "Region",
+        "ClericalAdministrativeRegion"
+      ],
+      "comment": [
+        "The <B>Hungarian</B> (Greek) Catholic Eparchy of Nyíregyháza is an eparchy (diocese) of the <B>Hungarian</B>"
+      ],
+      "label": [
+        "<B>Hungarian</B> Catholic Eparchy of Nyíregyháza"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian_Catholic_Eparchy_of_Nyíregyháza"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Diocese",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region",
+        "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_establishments_in_Hungary",
+        "http://dbpedia.org/resource/Category:Eastern_Catholic_dioceses_in_Hungary",
+        "http://dbpedia.org/resource/Category:Eastern_Catholicism_in_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1608.1726"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Baranya_(region)"
+      ],
+      "redirectlabel": [
+        "Baranja (region)",
+        "Baranja region",
+        "Branau (region)",
+        "Croatian Baranja",
+        "Drávaköz",
+        "Drávaszög",
+        "<B>Hungarian</B> Baranya"
+      ],
+      "comment": [
+        "Baranya or Baranja (<B>Hungarian</B>: Baranya, pronounced [ˈbɒrɒɲɒ]; German: Branau; Serbo-Croatian"
+      ],
+      "label": [
+        "Baranya (region)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Baranya_(region)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Baranya_(region)",
+        "http://dbpedia.org/resource/Category:Divided_regions",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_Croatia",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_Hungary",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_the_Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:Regions_of_Croatia",
+        "http://dbpedia.org/resource/Category:Regions_of_Hungary"
+      ]
+    },
+    {
+      "score": [
+        "1595.4528"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hungarian"
+      ],
+      "redirectlabel": [
+        "<B>Hugarian</B>",
+        "<B>Hungarian</B> (disambiguation)",
+        "Magyarian",
+        "Magyarosag"
+      ],
+      "label": [
+        "<B>Hungarian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hungarian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1562.1752"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Hungarian_language"
+      ],
+      "redirectlabel": [
+        "History of <B>Hungarian</B>",
+        "History of the <B>hungarian</B> language",
+        "ISO 639:ohu",
+        "Old <B>Hungarian</B> language",
+        "Origin of the <B>Hungarian</B> language",
+        "Proto-<B>Hungarian</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " Hungary since the <B>Hungarian</B> conquest of the Carpathian Basin in the late 9th century. <B>Hungarian’s</B>"
+      ],
+      "label": [
+        "History of the <B>Hungarian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Hungarian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Hungary_by_topic",
+        "http://dbpedia.org/resource/Category:History_of_the_Hungarians",
+        "http://dbpedia.org/resource/Category:Hungarian_language",
+        "http://dbpedia.org/resource/Category:Language_histories"
+      ]
+    },
+    {
+      "score": [
+        "1550.8737"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Hungarian_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Hungarianism</B>",
+        "Antimagyarism",
+        "History of anti-<B>Hungarian</B> sentiment",
+        "Hungarophobia",
+        "Magyarophobia",
+        "Magyarphobia"
+      ],
+      "comment": [
+        "Anti-<B>Hungarian</B> sentiment (also known as Hungarophobia, Anti-<B>Hungarianism</B>, Magyarophobia or"
+      ],
+      "label": [
+        "Anti-<B>Hungarian</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Hungarian_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Hungarian_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment",
+        "http://dbpedia.org/resource/Category:Hungarian_diaspora",
+        "http://dbpedia.org/resource/Category:Society_of_Hungary"
+      ]
+    }
+  ]
+}

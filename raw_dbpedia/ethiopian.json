@@ -1,0 +1,4991 @@
+{
+  "docs": [
+    {
+      "score": [
+        "8264.336"
+      ],
+      "refCount": [
+        "193"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_wolf"
+      ],
+      "redirectlabel": [
+        "Abyssian Fox",
+        "Abyssian Foxes",
+        "Abyssian Foxs",
+        "Abyssian Jackal",
+        "Abyssian Jackals",
+        "Abyssian Jackel",
+        "Abyssian Jackels",
+        "Abyssian Wolf",
+        "Abyssian Wolfs",
+        "Abyssian Wolves",
+        "Abyssian fox",
+        "Abyssian foxes",
+        "Abyssian foxs",
+        "Abyssian jackal",
+        "Abyssian jackals",
+        "Abyssian jackel",
+        "Abyssian jackels",
+        "Abyssian wolf",
+        "Abyssian wolfs",
+        "Abyssian wolves",
+        "Abyssinian Wolf",
+        "Abyssinian Wolfs",
+        "Abyssinian Wolves",
+        "Abyssinian fox",
+        "Abyssinian wolf",
+        "Arouaye",
+        "Arouayé",
+        "C. S. Simensis",
+        "C. S. citernii",
+        "C. Semiensis",
+        "C. Simensis",
+        "C. Sinus",
+        "C. Walge",
+        "C. Walgie",
+        "C. Walgié",
+        "C. Walgé",
+        "C. s. citernii",
+        "C. s. simensis",
+        "C. semiensis",
+        "C. simensis",
+        "C. sinus",
+        "C. walge",
+        "C. walgie",
+        "C. walgié",
+        "C. walgé",
+        "Canis (Simenia) Simensis citernii",
+        "Canis (Simenia) simensis citernii",
+        "Canis Semiensis",
+        "Canis Simensis",
+        "Canis Simensis Simensis",
+        "Canis Simensis citernii",
+        "Canis Sinus",
+        "Canis Walge",
+        "Canis Walgie",
+        "Canis Walgié",
+        "Canis Walgé",
+        "Canis citernii",
+        "Canis crinensis",
+        "Canis semiensis",
+        "Canis simensis",
+        "Canis simensis citernii",
+        "Canis simensis simensis",
+        "Canis sinus",
+        "Canis walge",
+        "Canis walgi",
+        "Canis walgie",
+        "Canis walgié",
+        "Canis walgé",
+        "Cuberow",
+        "<B>Ethiopean</B> Fox",
+        "<B>Ethiopean</B> Foxes",
+        "<B>Ethiopean</B> Foxs",
+        "<B>Ethiopean</B> Jackal",
+        "<B>Ethiopean</B> Jackals",
+        "<B>Ethiopean</B> Jackel",
+        "<B>Ethiopean</B> Jackels",
+        "<B>Ethiopean</B> Wolf",
+        "<B>Ethiopean</B> Wolfs",
+        "<B>Ethiopean</B> Wolves",
+        "<B>Ethiopean</B> fox",
+        "<B>Ethiopean</B> foxes",
+        "<B>Ethiopean</B> foxs",
+        "<B>Ethiopean</B> jackal",
+        "<B>Ethiopean</B> jackals",
+        "<B>Ethiopean</B> jackel",
+        "<B>Ethiopean</B> jackels",
+        "<B>Ethiopean</B> wolf",
+        "<B>Ethiopean</B> wolfs",
+        "<B>Ethiopean</B> wolves",
+        "<B>Ethiopian</B> Fox",
+        "<B>Ethiopian</B> Foxes",
+        "<B>Ethiopian</B> Foxs",
+        "<B>Ethiopian</B> Jackal",
+        "<B>Ethiopian</B> Jackals",
+        "<B>Ethiopian</B> Jackel",
+        "<B>Ethiopian</B> Jackels",
+        "<B>Ethiopian</B> Wolf",
+        "<B>Ethiopian</B> Wolves",
+        "<B>Ethiopian</B> fox",
+        "<B>Ethiopian</B> foxes",
+        "<B>Ethiopian</B> foxs",
+        "<B>Ethiopian</B> jackal",
+        "<B>Ethiopian</B> jackals",
+        "<B>Ethiopian</B> jackel",
+        "<B>Ethiopian</B> jackels",
+        "<B>Ethiopian</B> wolfs",
+        "<B>Ethiopian</B> wolves",
+        "Feeding behavior of <B>Ethiopian</B> wolves",
+        "Horse's Jackal",
+        "Horse's Jackals",
+        "Horse's Jackel",
+        "Horse's Jackels",
+        "Horse's jackal",
+        "Horse's jackals",
+        "Horse's jackel",
+        "Horse's jackels",
+        "Hunting behavior of <B>Ethiopian</B> wolves",
+        "Jedalla Farda",
+        "Jedalla farda",
+        "Jedallah Farda",
+        "Jedallah farda",
+        "Ky Kebero",
+        "Ky kebero",
+        "Red Jackals",
+        "Red Jackel",
+        "Red Jackels",
+        "Red jackal",
+        "Red jackals",
+        "Red jackel",
+        "Red jackels",
+        "S. Simensis",
+        "S. simensis",
+        "Sexual behavior of <B>Ethiopian</B> wolves",
+        "Simean Fox",
+        "Simean Foxes",
+        "Simean Foxs",
+        "Simean fox",
+        "Simean foxes",
+        "Simean foxs",
+        "Simenia Simensis",
+        "Simenia simensis",
+        "Simenian Fox",
+        "Simenian Foxes",
+        "Simenian Foxs",
+        "Simenian fox",
+        "Simenian foxes",
+        "Simenian foxs",
+        "Simian Jackal",
+        "Simian Jackals",
+        "Simian Jackel",
+        "Simian Jackels",
+        "Simian fox",
+        "Simian foxes",
+        "Simian foxs",
+        "Simian jackal",
+        "Simian jackals",
+        "Simian jackel",
+        "Simian jackels",
+        "Simien Fox",
+        "Simien Foxes",
+        "Simien Foxs",
+        "Simien Jackal",
+        "Simien Jackals",
+        "Simien Jackel",
+        "Simien Jackels",
+        "Simien fox",
+        "Simien foxes",
+        "Simien foxs",
+        "Simien jackal",
+        "Simien jackals",
+        "Simien jackel",
+        "Simien jackels",
+        "Simien wolf",
+        "Siminean Jackal",
+        "Siminean Jackals",
+        "Siminean Jackel",
+        "Siminean Jackels",
+        "Siminean jackal",
+        "Siminean jackals",
+        "Siminean jackel",
+        "Siminean jackels",
+        "Social behavior of <B>Ethiopian</B> wolves",
+        "V. Walge",
+        "V. Walgé",
+        "V. crinensis",
+        "V. walge",
+        "V. walgé",
+        "Vulpes Walge",
+        "Vulpes Walgé",
+        "Vulpes crinensis",
+        "Vulpes walge",
+        "Vulpes walgé",
+        "ቀይ ቀበሮ"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> wolf (Canis simensis), also known as the Simien jackal or Simien fox, is a canid"
+      ],
+      "label": [
+        "<B>Ethiopian</B> wolf"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_wolf"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Canis",
+        "http://dbpedia.org/resource/Category:Carnivorans_of_Africa",
+        "http://dbpedia.org/resource/Category:Endangered_fauna_of_Africa",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_montane_moorlands",
+        "http://dbpedia.org/resource/Category:Fauna_of_the_Ethiopian_Highlands",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1840",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wolves"
+      ]
+    },
+    {
+      "score": [
+        "6148.3936"
+      ],
+      "refCount": [
+        "1586"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopia"
+      ],
+      "redirectlabel": [
+        "AEthiopia",
+        "Abissinia",
+        "Abysinna",
+        "Entoto Observatory and Space Science Research Center",
+        "<B>Etheopia</B>",
+        "<B>Ethiopai</B>",
+        "<B>Ethiopean</B>",
+        "<B>Ethiopioa</B>",
+        "<B>Ethoipia</B>",
+        "<B>Ethopian</B>",
+        "Etiophia",
+        "<B>Etiopia</B>",
+        "Etymology of <B>Ethiopia</B>",
+        "Exports from <B>Ethiopia</B>",
+        "F.D.R. <B>Ethiopia</B>",
+        "FDRE",
+        "FEDERAL DEMOCRATIC REPUBLIC OF <B>ETHIOPIA</B>",
+        "Federal Democratic Republic of <B>Ethiopia</B>",
+        "Federal Republic of <B>Ethiopia</B>",
+        "ISO 3166-1:ET",
+        "Ityop'ia",
+        "Ityop'iya",
+        "Ityop'pya",
+        "Ityoppya",
+        "Ityoṗṗya",
+        "Name of <B>Ethiopia</B>",
+        "Names of <B>Ethiopia</B>",
+        "Prehistory of <B>Ethiopia</B>",
+        "The Democratic Republic Of <B>Ethiopia</B>",
+        "Ye-Ityoppya",
+        "YeʾĪtiyoṗṗya Fēdēralawī Dēmokirasīyawī Rīpebilīk",
+        "Æthiopia",
+        "Ītyōṗṗyā",
+        "ʾĪtyōṗṗyā",
+        "ኢትዮጵያ",
+        "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Ethiopia</B> (; Amharic: ኢትዮጵያ, ʾĪtyōṗṗyā, , Tigrinya: ኢትዮጵያ, Oromo: Itoophiyaa, Somali: Itoobiya, Afar"
+      ],
+      "label": [
+        "<B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Countries_in_Africa",
+        "http://dbpedia.org/resource/Category:East_African_countries",
+        "http://dbpedia.org/resource/Category:Ethiopia",
+        "http://dbpedia.org/resource/Category:Federal_republics",
+        "http://dbpedia.org/resource/Category:Horn_African_countries",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Least_developed_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_African_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations"
+      ]
+    },
+    {
+      "score": [
+        "5631.1064"
+      ],
+      "refCount": [
+        "101"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Empire"
+      ],
+      "redirectlabel": [
+        "Abbysinia",
+        "Abbysinnia",
+        "Abisina",
+        "Abysinia",
+        "Abyssinia",
+        "Abyssinian Empire",
+        "Abyssinian empire",
+        "Empire of <B>Ethiopia</B>",
+        "Empire of <B>ethiopia</B>",
+        "Imperial <B>Ethiopia</B>",
+        "Kingdom of <B>Ethiopia</B>",
+        "The <B>Ethiopian</B> Empire"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Empire (Tigrinya: ንጉሠ ነገሥት መንግሥቲ ዘ ኢትዮጵያ, Amharic: የኢትዮጵያ ንጉሠ ነገሥት መንግሥተ, Mängəstä"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Empire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Empire"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1270_establishments",
+        "http://dbpedia.org/resource/Category:13th-century_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1974_disestablishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2nd_millennium_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Countries_in_precolonial_Africa",
+        "http://dbpedia.org/resource/Category:Ethiopian_Empire",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_monarchies",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Africa",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wikipedia_articles_incorporating_text_from_the_World_Factbook"
+      ]
+    },
+    {
+      "score": [
+        "4685.21"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Orthodox_Tewahedo_Church"
+      ],
+      "redirectlabel": [
+        "Abysainian Church",
+        "Abyssinian Christian",
+        "Abyssinian Christians",
+        "Abyssinian Church",
+        "Bete christian",
+        "<B>Ethiopian</B> Church",
+        "<B>Ethiopian</B> Orthodox",
+        "<B>Ethiopian</B> Orthodox Christian",
+        "<B>Ethiopian</B> Orthodox Christianity",
+        "<B>Ethiopian</B> Orthodox Church",
+        "<B>Ethiopian</B> Orthodox Tewahedo",
+        "<B>Ethiopian</B> Orthodox Tewahedo Christians",
+        "<B>Ethiopian</B> Orthodox Tewahido Church",
+        "<B>Ethiopian</B> Orthodoxy",
+        "<B>Ethiopian</B> Tewahedo",
+        "<B>Ethiopian</B> Tewahedo Church",
+        "<B>Ethiopian</B> church",
+        "<B>Ethiopic</B> church",
+        "History of the <B>Ethiopian</B> Orthodox Tewahedo Church",
+        "Oriental Orthodoxy in <B>Ethiopia</B>",
+        "Orthodoxy in <B>Ethiopia</B>",
+        "The Abyssinian Church",
+        "Yaityop'ya ortodoks tawahedo betakrestyan",
+        "Yaityopya ortodoks tawahedo betakrestyan",
+        "Yäityop'ya ortodoks täwahedo bétäkrestyan",
+        "Yäityopya ortodoks täwahedo bétäkrestyan",
+        "የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Orthodox Tewahedo Church (Amharic: የኢትዮጵያ:ኦርቶዶክስ:ተዋሕዶ:ቤተ:ክርስቲያን; Yäityop'ya ortodoks"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Orthodox Tewahedo Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Orthodox_Tewahedo_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_Orthodox_Tewahedo_Church",
+        "http://dbpedia.org/resource/Category:Members_of_the_World_Council_of_Churches"
+      ]
+    },
+    {
+      "score": [
+        "4646.8545"
+      ],
+      "refCount": [
+        "158"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopia_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> national football team",
+        "Walias"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " men's international football and is controlled by the <B>Ethiopian</B> Football Federation, the governing"
+      ],
+      "label": [
+        "<B>Ethiopia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Africa_Cup_of_Nations-winning_countries",
+        "http://dbpedia.org/resource/Category:African_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Ethiopia_national_football_team",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1947"
+      ]
+    },
+    {
+      "score": [
+        "4086.21"
+      ],
+      "refCount": [
+        "66"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_aristocratic_and_court_titles"
+      ],
+      "redirectlabel": [
+        "Abeto",
+        "Afa Negus",
+        "Afanegus",
+        "Afe Negus",
+        "Afenegus",
+        "Azmach",
+        "Bahir Negash",
+        "Balambaras",
+        "Balambaras (title)",
+        "Basha (title)",
+        "Bitwoded",
+        "Blattengeta",
+        "Dedjazmatch",
+        "Dejaz(title)",
+        "Dejazmach",
+        "Dejazmatch",
+        "Dejjazmatch",
+        "Enderase",
+        "<B>Ethiopian</B> aristocracy",
+        "<B>Ethiopian</B> aristocratic and court title",
+        "<B>Ethiopian</B> aristocratic and religious titles",
+        "<B>Ethiopian</B> aristocratic and royal titles",
+        "<B>Ethiopian</B> nobility",
+        "<B>Ethiopian</B> noble and court titles",
+        "Fit'awrari",
+        "Fitawrari",
+        "Gerazmach",
+        "Grazmach",
+        "Inderase",
+        "Itege",
+        "Kenyazmach",
+        "Le'ul",
+        "Lij (title)",
+        "Meridazmach",
+        "Méridazmach",
+        "Negadras",
+        "Negus Negorum",
+        "Negus negorum",
+        "Nigiste Negestatt",
+        "Qegnazmach",
+        "Ras Bitwoded",
+        "Tsehafi Taezaz",
+        "Wagshum"
+      ],
+      "typeName": [
+        "GivenName",
+        "Name"
+      ],
+      "comment": [
+        "Until the end of the <B>Ethiopian</B> monarchy in 1974, there were two categories of nobility in <B>Ethiopia</B>"
+      ],
+      "label": [
+        "<B>Ethiopian</B> aristocratic and court titles"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_aristocratic_and_court_titles"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/GivenName",
+        "http://dbpedia.org/ontology/Name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Court_titles",
+        "http://dbpedia.org/resource/Category:Ethiopian_given_names",
+        "http://dbpedia.org/resource/Category:Ethiopian_nobility",
+        "http://dbpedia.org/resource/Category:Gubernatorial_titles",
+        "http://dbpedia.org/resource/Category:Noble_titles",
+        "http://dbpedia.org/resource/Category:Royal_titles",
+        "http://dbpedia.org/resource/Category:Titles_of_national_or_ethnic_leadership"
+      ]
+    },
+    {
+      "score": [
+        "3933.3328"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Semitic_languages"
+      ],
+      "redirectlabel": [
+        "Afro-Semitic",
+        "Amharic-Arbobba languages",
+        "Amharic-Argobba languages",
+        "Amharic–Argobba languages",
+        "East African Semitic languages",
+        "Ethio-Semitic",
+        "Ethio-Semitic language",
+        "Ethio-Semitic languages",
+        "<B>Ethiopian</B> Semites",
+        "<B>Ethiopian</B> Semitic",
+        "<B>Ethiopian</B> Semitic (language)",
+        "<B>Ethiopian</B> Semitic language",
+        "<B>Ethiopian</B> semitic languages",
+        "<B>Ethiopic</B> Semitic languages",
+        "<B>Ethiopic</B> languages",
+        "Ethiosemitic",
+        "Ethiosemitic languages",
+        "Habesha languages",
+        "Horn of Africa Semitic languages",
+        "North <B>Ethiopic</B>",
+        "North <B>Ethiopic</B> languages",
+        "Semito-Hamitic Languages",
+        "Semito Hamitic Languages",
+        "South <B>Ethiopian</B> Semitic languages",
+        "South <B>Ethiopic</B> languages",
+        "Transversal South <B>Ethiopian</B> Semitic languages"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Semitic (also Ethio-Semitic, Ethiosemitic, <B>Ethiopic</B> or Abyssinian) is a family of"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Semitic languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Semitic_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_Semitic_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Eritrea",
+        "http://dbpedia.org/resource/Category:Languages_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Semitic_languages",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages",
+        "http://dbpedia.org/resource/Category:Western_South_Semitic_languages"
+      ]
+    },
+    {
+      "score": [
+        "3898.1523"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Coffee_S.C."
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Coffee F.C.",
+        "<B>Ethiopian</B> Coffee FC"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Coffee Sport Club (Amharic: የኢትዮጵያ ቡና ስፖርት ክለብ, <B>Ethiopian</B> Buna Sports Club) is an"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Coffee S.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Coffee_S.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1976_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1976",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Addis_Ababa",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Works_association_football_clubs_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "3575.5771"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_oriole"
+      ],
+      "redirectlabel": [
+        "Abyssinia Black-Headed Oriole",
+        "Abyssinia Black-headed Oriole",
+        "Abyssinia Oriole",
+        "Abyssinia black-headed oriole",
+        "Abyssinia oriole",
+        "Abyssinian Black-Headed Oriole",
+        "Abyssinian Black-headed Oriole",
+        "Abyssinian Oriole",
+        "Abyssinian black-headed oriole",
+        "Abyssinian oriole",
+        "Black-Headed Forest Oriole",
+        "Black-headed Forest Oriole",
+        "Black-headed forest oriole",
+        "Dark-Headed Oriole",
+        "Dark-headed Oriole",
+        "Dark-headed Uriole",
+        "Dark-headed oriole",
+        "<B>Ethiopia</B> Black-Headed Oriole",
+        "<B>Ethiopia</B> Black-headed Oriole",
+        "<B>Ethiopia</B> Forest Oriole",
+        "<B>Ethiopia</B> Oriole",
+        "<B>Ethiopia</B> black-headed oriole",
+        "<B>Ethiopia</B> forest oriole",
+        "<B>Ethiopia</B> oriole",
+        "<B>Ethiopian</B> Black-Headed Oriole",
+        "<B>Ethiopian</B> Black-headed Oriole",
+        "<B>Ethiopian</B> Forest Oriole",
+        "<B>Ethiopian</B> Oriole",
+        "<B>Ethiopian</B> black-headed oriole",
+        "<B>Ethiopian</B> forest oriole",
+        "Forest Oriole",
+        "Forest oriole",
+        "Omo Black-Headed Oriole",
+        "Omo Black-headed Oriole",
+        "Omo black-headed oriole",
+        "Oriolus monacha",
+        "Turdus monacha"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> oriole (Oriolus monacha) is a species of bird in the family Oriolidae. It is found in"
+      ],
+      "label": [
+        "<B>Ethiopian</B> oriole"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_oriole"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1789",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Horn_of_Africa",
+        "http://dbpedia.org/resource/Category:Orioles",
+        "http://dbpedia.org/resource/Category:Oriolus",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Johann_Friedrich_Gmelin",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "3551.1096"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines"
+      ],
+      "redirectlabel": [
+        "@flyethiopian",
+        "ET fleet",
+        "<B>Ethiopia</B> Air",
+        "<B>Ethiopia</B> Airlines",
+        "<B>Ethiopian</B> (airline)",
+        "<B>Ethiopian</B> AirLines",
+        "<B>Ethiopian</B> Air Lines",
+        "<B>Ethiopian</B> Airlines Cargo",
+        "<B>Ethiopian</B> Airlines Enterprise",
+        "<B>Ethiopian</B> Airlines SC",
+        "<B>Ethiopian</B> Airways",
+        "<B>Ethiopian</B> Cargo",
+        "<B>Ethiopianairlines.com</B>",
+        "Flyethiopian.com",
+        "ShebaMiles",
+        "Sheba Miles"
+      ],
+      "comment": [
+        " short), formerly <B>Ethiopian</B> Air Lines (EAL) and often referred to as simply <B>Ethiopian</B>, is <B>Ethiopia's</B> flag"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1945",
+        "http://dbpedia.org/resource/Category:Airlines_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Addis_Ababa",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Star_Alliance"
+      ]
+    },
+    {
+      "score": [
+        "3149.1028"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_People's_Revolutionary_Democratic_Front"
+      ],
+      "redirectlabel": [
+        "EPDRF",
+        "EPRDF",
+        "<B>Ethiopian</B> Peoples' Revolutionary Democratic Front",
+        "<B>Ethiopian</B> People’s Revolutionary Democratic Front",
+        "Ihadeg",
+        "Revolutionary Democracy",
+        "የኢትዮጵያ ሕዝቦች አብዮታዊ ዲሞክራሲያዊ ግንባር"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> People's Revolutionary Democratic Front (EPRDF; Amharic: የኢትዮጵያ ሕዝቦች አብዮታዊ ዲሞክራሲያዊ"
+      ],
+      "label": [
+        "<B>Ethiopian</B> People's Revolutionary Democratic Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_People's_Revolutionary_Democratic_Front"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_People's_Revolutionary_Democratic_Front"
+      ]
+    },
+    {
+      "score": [
+        "3125.0713"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Civil_War"
+      ],
+      "redirectlabel": [
+        "Civil war in <B>Ethiopia</B>",
+        "<B>Ethiopian</B> civil war",
+        "<B>Ethiopian</B> civil war (1974-1991)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Civil War was a civil war in <B>Ethiopia</B> and present day Eritrea, fought between the"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_conflicts",
+        "http://dbpedia.org/resource/Category:1970s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1970s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1980s_conflicts",
+        "http://dbpedia.org/resource/Category:1980s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1990s_conflicts",
+        "http://dbpedia.org/resource/Category:1990s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Africa",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Coup-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Derg",
+        "http://dbpedia.org/resource/Category:Eritrea–Ethiopia_military_relations",
+        "http://dbpedia.org/resource/Category:Ethiopian_Civil_War",
+        "http://dbpedia.org/resource/Category:Ethnicity-based_civil_wars",
+        "http://dbpedia.org/resource/Category:History_of_Eritrea",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Political_history_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Revolution-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Separatist_rebellion-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "3107.9084"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Italo-Ethiopian_War"
+      ],
+      "redirectlabel": [
+        "1935 invasion of Abyssinia",
+        "2nd Italo-Abyssinian War",
+        "Italian conquest of Abyssinia",
+        "Italian conquest of <B>Ethiopia</B>",
+        "Italy's invasion and occupation of <B>Ethiopia</B>",
+        "Italy's invasion of <B>Ethiopia</B> in 1935",
+        "Rape of <B>Ethiopia</B>",
+        "Second Italian-Abyssian War",
+        "Second Italian-Abyssinian War",
+        "Second Italo-Abyssinian War",
+        "Second Italo–Abyssinian War",
+        "Second Italo–<B>Ethiopian</B> War",
+        "Wal Wal incident",
+        "Welwel Incident"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Second Italo-<B>Ethiopian</B> War, also referred to as the Second Italo-Abyssinian War, was a colonial"
+      ],
+      "label": [
+        "Second Italo-<B>Ethiopian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Italo-Ethiopian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1935_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1935_in_Italy",
+        "http://dbpedia.org/resource/Category:1936_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1936_in_Italy",
+        "http://dbpedia.org/resource/Category:African_resistance_to_colonialism",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1935",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1936",
+        "http://dbpedia.org/resource/Category:Ethiopia–Italy_military_relations",
+        "http://dbpedia.org/resource/Category:Haile_Selassie",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Interwar_period",
+        "http://dbpedia.org/resource/Category:Invasions",
+        "http://dbpedia.org/resource/Category:Italian_East_Africa",
+        "http://dbpedia.org/resource/Category:Italy_in_the_Second_Italo-Ethiopian_War",
+        "http://dbpedia.org/resource/Category:Second_Italo-Ethiopian_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy"
+      ]
+    },
+    {
+      "score": [
+        "3050.0132"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_National_Defense_Force"
+      ],
+      "redirectlabel": [
+        "Armed forces of <B>Ethiopia</B>",
+        "Army of <B>Ethiopia</B>",
+        "Coalition of <B>Ethiopian</B> security forces",
+        "Derg Peoples army",
+        "<B>Ethiopia</B>/Military",
+        "<B>Ethiopia</B> Armed Forces",
+        "<B>Ethiopian</B> Armed Forces",
+        "<B>Ethiopian</B> Military",
+        "<B>Ethiopian</B> National Defence Force",
+        "<B>Ethiopian</B> National Defence Forces",
+        "<B>Ethiopian</B> National Defense Forces",
+        "<B>Ethiopian</B> Revolutionary Army",
+        "<B>Ethiopian</B> military",
+        "Military of <B>Ethiopia</B>",
+        "Military of <B>Ethopia</B>",
+        "Navy of <B>Ethiopia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> National Defense Force (ENDF) is the military of <B>Ethiopia</B>. Civil direction of the"
+      ],
+      "label": [
+        "<B>Ethiopian</B> National Defense Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_National_Defense_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "3006.6404"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_birr"
+      ],
+      "redirectlabel": [
+        "Abyssinian birr",
+        "Abyssinian talari",
+        "Birr (currency)",
+        "<B>Ethiopia</B> currency",
+        "<B>Ethiopian</B> Birr",
+        "<B>Ethiopian</B> Dollar",
+        "<B>Ethiopian</B> dollar",
+        "<B>Ethiopian</B> talari",
+        "ISO 4217:ETB",
+        "ብር"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " considered the Abyssinian birr and the post-1931 currency the <B>Ethiopian</B> birr, although it was the same country and the same currency before and after."
+      ],
+      "label": [
+        "<B>Ethiopian</B> birr"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_birr"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1894",
+        "http://dbpedia.org/resource/Category:Economy_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "2882.3513"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_961"
+      ],
+      "redirectlabel": [
+        "Abate, Leul",
+        "Alamayhu Bekele",
+        "Brian Tetley",
+        "Chanya Huddle",
+        "ET-961",
+        "ET-AIZ",
+        "ET961",
+        "ETH961",
+        "ETH 961",
+        "ET 961",
+        "<B>Ethiopian</B> 961",
+        "<B>Ethiopian</B> Airline Flight 961",
+        "<B>Ethiopian</B> Airlines 961",
+        "<B>Ethiopian</B> Airlines Flight No. 961",
+        "<B>Ethiopian</B> Airlines flight 961",
+        "Flt.961",
+        "Hiwot Tadesse",
+        "Leul Abate",
+        "Mariana Gouws",
+        "Mateias Solomon",
+        "Michael Oddenyo",
+        "N.B. Surti",
+        "Nagin B. Surti",
+        "Shania Huddle",
+        "Sultan Ali Hussein",
+        "Takahiko Sugiyama",
+        "Yeshimebete Gebremeskel",
+        "Yonas Mekuria",
+        "Yonis Mekuria",
+        "ልኡል አባተ"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Airlines Flight 961 was a scheduled flight serving the route Addis Ababa–Nairobi"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Airlines Flight 961"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_961"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1996_in_the_Comoros",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_767",
+        "http://dbpedia.org/resource/Category:Aircraft_hijackings",
+        "http://dbpedia.org/resource/Category:Aircraft_hijackings_in_Africa",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_fuel_exhaustion",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_hijacking",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_involving_ditching",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_1996",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_the_Comoros",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1996",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_Africa",
+        "http://dbpedia.org/resource/Category:November_1996_crimes",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Africa_in_1996",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Ethiopia_in_the_1990s"
+      ]
+    },
+    {
+      "score": [
+        "2790.3633"
+      ],
+      "refCount": [
+        "325"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Addis_Ababa"
+      ],
+      "redirectlabel": [
+        "Addis-Abeba",
+        "Addis Ababa, ET",
+        "Addis Ababa, <B>Ethiopia</B>",
+        "Addis Ababa Museum",
+        "Addis Abba, <B>Ethiopia</B>",
+        "Addis Abba",
+        "Addis Abbaba",
+        "Addis Abeba",
+        "Addis Adaba",
+        "Adis Ababa",
+        "Adis Abeba",
+        "Adis abeda",
+        "Architecture of Addis Ababa",
+        "Capital of <B>Ethiopia</B>",
+        "Districts of Addis Ababa",
+        "<B>Ethiopian</B> Ethnological Museum",
+        "<B>Ethiopian</B> Natural History Museum",
+        "Finfinne",
+        "Geography of Addis Ababa",
+        "List of people from Addis Ababa",
+        "Science and technology in Addis Ababa",
+        "Sheger",
+        "Sports in Addis Ababa",
+        "Tewodros Square",
+        "Tourism in Addis Ababa",
+        "Ādīs Ābeba",
+        "አዲስ አበባ"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Ethiopia</B>. According to the 2007 census, the city has a population of 2,739,551 inhabitants. The city is"
+      ],
+      "label": [
+        "Addis Ababa"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Addis_Ababa"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1886_establishments_in_the_Ethiopian_Empire",
+        "http://dbpedia.org/resource/Category:Addis_Ababa",
+        "http://dbpedia.org/resource/Category:Capitals_in_Africa",
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:City-states",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1886",
+        "http://dbpedia.org/resource/Category:Regions_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "2770.5417"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian–Adal_War"
+      ],
+      "redirectlabel": [
+        "Abyssinian-Adal War",
+        "Abyssinian-Adal war",
+        "Abyssinian–Adal War",
+        "Abyssinian–Adal war",
+        "Adal-<B>Ethiopian</B> War",
+        "Adal-<B>Ethiopian</B> war",
+        "Adal-<B>ethiopian</B> war",
+        "<B>Ethiopian</B>-Adal War",
+        "<B>Ethiopian</B>-Adal war",
+        "<B>Ethiopian</B>-Ottoman War",
+        "<B>Ethiopian</B> adal War",
+        "<B>Ethiopian</B>–Adal war",
+        "Habesha-Adal war",
+        "Habesha–Adal war",
+        "Ottoman-<B>Ethiopian</B> War",
+        "Portugal adal war"
+      ],
+      "label": [
+        "<B>Ethiopian</B>–Adal War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian–Adal_War"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:16th-century_conflicts",
+        "http://dbpedia.org/resource/Category:16th_century_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Adal_Sultanate",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1529",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1543",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Africa",
+        "http://dbpedia.org/resource/Category:Military_history_of_Somaliland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Portugal",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somaliland",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "2748.0723"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_409"
+      ],
+      "redirectlabel": [
+        "ET-409",
+        "ET-ANB",
+        "ET409",
+        "ETH409",
+        "ETH 409",
+        "ET 409",
+        "<B>Ethiopian</B> 409",
+        "<B>Ethiopian</B> 409 Accident",
+        "<B>Ethiopian</B> 409 flight",
+        "<B>Ethiopian</B> Airline Flight 409",
+        "<B>Ethiopian</B> Airlines 409",
+        "<B>Ethiopian</B> Airlines flight ET 40",
+        "<B>Ethiopian</B> Flight 409",
+        "<B>Ethiopian</B> flight ET-409",
+        "<B>Ethiopian</B> flight ET409",
+        "Flight ET409",
+        "Flight ET 409"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Airlines Flight 409 was an international commercial flight scheduled from Beirut to Addis"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Airlines Flight 409"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_409"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_disasters_in_Asia",
+        "http://dbpedia.org/resource/Category:2010_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2010_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2010_in_international_relations",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_737_Next_Generation",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_pilot_error",
+        "http://dbpedia.org/resource/Category:Aviation_accident_investigations_with_disputed_causes",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2010",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:January_2010_events_in_Asia",
+        "http://dbpedia.org/resource/Category:January_2010_events_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2685.9717"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Highlands"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopia</B> Highland",
+        "<B>Ethiopia</B> Highlands",
+        "<B>Ethiopian</B> Highland",
+        "<B>Ethiopian</B> Plateau",
+        "<B>Ethiopian</B> highlands",
+        "<B>Ethiopian</B> montane grasslands and woodlands.",
+        "<B>Ethiopian</B> plateau",
+        "Highlands of <B>Ethiopia</B>",
+        "History of the <B>Ethiopian</B> Highlands"
+      ],
+      "typeName": [
+        "Place",
+        "Mountain",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Highlands is a rugged mass of mountains in <B>Ethiopia</B>, situated in the Horn region in"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Highlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Highlands"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Mountain",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afromontane_ecoregions",
+        "http://dbpedia.org/resource/Category:Amhara_Region",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Africa",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Sudan",
+        "http://dbpedia.org/resource/Category:Ethiopian_Highlands",
+        "http://dbpedia.org/resource/Category:Forests_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Freshwater_ecoregions_of_Africa",
+        "http://dbpedia.org/resource/Category:Geography_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Geography_of_Oromia_Region",
+        "http://dbpedia.org/resource/Category:Highlands",
+        "http://dbpedia.org/resource/Category:Large_igneous_provinces",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Oligocene_Africa",
+        "http://dbpedia.org/resource/Category:Oligocene_volcanism",
+        "http://dbpedia.org/resource/Category:Plateaus_of_Africa",
+        "http://dbpedia.org/resource/Category:Regions_of_Africa",
+        "http://dbpedia.org/resource/Category:Tigray_Region"
+      ]
+    },
+    {
+      "score": [
+        "2679.347"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Italo-Ethiopian_War"
+      ],
+      "redirectlabel": [
+        "First Italian-Abyssinian War",
+        "First Italo-Abyssinian War",
+        "First Italo-<B>Ethiopia</B> War",
+        "First Italo–Abyssinian War",
+        "First Italo–<B>Ethiopian</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The First Italo-<B>Ethiopian</B> War was fought between Italy and <B>Ethiopia</B> (supported by Russia and France"
+      ],
+      "label": [
+        "First Italo-<B>Ethiopian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Italo-Ethiopian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1895_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1895_in_Italy",
+        "http://dbpedia.org/resource/Category:1896_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1896_in_Italy",
+        "http://dbpedia.org/resource/Category:African_resistance_to_colonialism",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1895",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1896",
+        "http://dbpedia.org/resource/Category:Ethiopia–Italy_military_relations",
+        "http://dbpedia.org/resource/Category:First_Italo-Ethiopian_War",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Italian_East_Africa",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy"
+      ]
+    },
+    {
+      "score": [
+        "2602.4893"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Eritrean–Ethiopian_War"
+      ],
+      "redirectlabel": [
+        "Badme war",
+        "EEBC",
+        "Eritrea-<B>Ethiopia</B> war",
+        "Eritrean-<B>Ethiopian</B> War",
+        "<B>Ethiopia</B>-Eritrea War",
+        "<B>Ethiopia</B>-Eritrea war",
+        "<B>Ethiopian</B>-Eritrean War",
+        "<B>Ethiopian</B>–Eritrean War",
+        "<B>Ethiopia</B>–Eritrea War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Eritrean–<B>Ethiopian</B> War, one of the conflicts in the Horn of Africa, took place between <B>Ethiopia</B>"
+      ],
+      "label": [
+        "Eritrean–<B>Ethiopian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Eritrean–Ethiopian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_in_Eritrea",
+        "http://dbpedia.org/resource/Category:1998_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1999_in_Eritrea",
+        "http://dbpedia.org/resource/Category:1999_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2000_in_Eritrea",
+        "http://dbpedia.org/resource/Category:2000_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1998",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1999",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2000",
+        "http://dbpedia.org/resource/Category:Eritrea–Ethiopia_border",
+        "http://dbpedia.org/resource/Category:Eritrea–Ethiopia_military_relations",
+        "http://dbpedia.org/resource/Category:Permanent_Court_of_Arbitration_cases",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Eritrea",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Eritrea",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "2495.2065"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Catholic",
+        "<B>Ethiopian</B> Catholicism",
+        "<B>Ethiopic</B> Catholic Church"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Catholic Church is a Metropolitan sui iuris Eastern particular church within the"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Catholic_Church_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Christian_denominations_established_in_the_20th_century",
+        "http://dbpedia.org/resource/Category:Christian_organizations_established_in_1930",
+        "http://dbpedia.org/resource/Category:Eastern_Catholicism_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "2490.298"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_302"
+      ],
+      "redirectlabel": [
+        "2019 <B>Ethiopian</B> Airlines crash",
+        "ET-302",
+        "ET-AVJ",
+        "ET302",
+        "ETH-302",
+        "ETH302",
+        "<B>ETHIOPIAN</B> 302",
+        "ETH 302",
+        "ET 302",
+        "<B>Ethiopian</B> 302",
+        "<B>Ethiopian</B> Airlines 302",
+        "<B>Ethiopian</B> Airlines flight 302",
+        "<B>Ethiopian</B> Airlines flight ET 302",
+        "<B>Ethiopian</B> Airlines flight number ET 302",
+        "Flight ET 302"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Airlines Flight 302 was a scheduled international passenger flight from Addis Ababa Bole"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Airlines Flight 302"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_302"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_disasters_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2019_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_737_MAX",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_design_or_manufacturing_errors",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2019",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:March_2019_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Oromia_Region"
+      ]
+    },
+    {
+      "score": [
+        "2489.78"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "label": [
+        "Italo-<B>Ethiopian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italo-Ethiopian_War"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italo-Ethiopian_War"
+      ],
+      "redirectlabel": [
+        "Abyssinia Campaign",
+        "Abyssinian war",
+        "<B>Ethiopia</B> War",
+        "<B>Ethiopian</B> War",
+        "Invasion of Abyssinia",
+        "Invasion of <B>Ethiopia</B>",
+        "Italian-Abyssinian War",
+        "Italian-<B>Ethiopian</B> War",
+        "Italian invasion of Abyssinia",
+        "Italian invasion of <B>Ethiopia</B>",
+        "Italian invasion of <B>ethiopia</B>",
+        "Italo-Abyssinian War",
+        "Italo-Abyssinian War (disambiguation)",
+        "Italo-<B>Ethiopian</B> War (disambiguation)",
+        "Italo-<B>Ethiopian</B> war",
+        "Italo-<B>Ethiopian</B> war (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "2427.8047"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Civil_Aviation_Authority"
+      ],
+      "redirectlabel": [
+        "Civil Aviation Authority (<B>Ethiopia</B>)",
+        "<B>Ethiopia</B> Civil Aviation Authority",
+        "<B>Ethiopia</B> Civil avation Autority",
+        "<B>Ethiopian</B> Accident Investigation Authority",
+        "<B>Ethiopian</B> CAA",
+        "<B>Ethiopian</B> Civil Aviation Agency",
+        "<B>Ethiopian</B> Civil aviation Authority"
+      ],
+      "comment": [
+        " conducts aircraft accident investigations in <B>Ethiopia</B> or involving <B>Ethiopian</B> aircraft. The Flight"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Civil Aviation Authority"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Civil_Aviation_Authority"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Aviation_organisations_based_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Civil_aviation_authorities_in_Africa",
+        "http://dbpedia.org/resource/Category:Civil_aviation_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Organizations_investigating_aviation_accidents_and_incidents"
+      ]
+    },
+    {
+      "score": [
+        "2290.9927"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of <B>Ethiopia</B>",
+        "<B>Ethiopian</B> alcoholic beverages",
+        "<B>Ethiopian</B> cooking",
+        "<B>Ethiopian</B> food",
+        "<B>Ethiopian</B> restaurant",
+        "Foon waaddii",
+        "Tibs"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> cuisine (Amharic: የኢትዮጵያ ምግብ) characteristically consists of vegetable and often very"
+      ],
+      "label": [
+        "<B>Ethiopian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:East_African_cuisine",
+        "http://dbpedia.org/resource/Category:Ethiopian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2286.4744"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian–Somali_conflict"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B>-Somali conflict",
+        "<B>Ethiopian</B> involvement in Somalia",
+        "<B>Ethiopian</B> somali conflict",
+        "Somali-<B>Ethiopian</B> conflict",
+        "Somali <B>Ethiopian</B> onflict",
+        "Somali <B>ethiopian</B> conflict",
+        "Somalia-<B>Ethiopia</B> conflict"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B>–Somali conflict is a territorial and political dispute between the territories of"
+      ],
+      "label": [
+        "<B>Ethiopian</B>–Somali conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian–Somali_conflict"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopia–Somalia_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Africa",
+        "http://dbpedia.org/resource/Category:Military_history_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Somalia",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "2228.6318"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Electric_Power"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Electric Power Corporation"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Electric Power (Amharic: ኢትዮጵያ ኤሌክትሪክ ኃይል) is a state-owned electricity producer in the"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Electric Power"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Electric_Power"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Addis_Ababa",
+        "http://dbpedia.org/resource/Category:Energy_companies_established_in_1956",
+        "http://dbpedia.org/resource/Category:Energy_companies_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "2201.715"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Higher_League"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Second Division"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " the second division of association football in <B>Ethiopia</B>. Regulated by the <B>Ethiopian</B> Football"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Higher League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Higher_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "2198.81"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Ethiopia"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> music",
+        "<B>Ethiopian</B> musical instruments",
+        "<B>Ethiopian</B> popular music",
+        "Religious music of <B>Ethiopia</B>",
+        "Traditional <B>Ethiopian</B> musical instruments"
+      ],
+      "comment": [
+        "The music of <B>Ethiopia</B> is extremely diverse, with each of <B>Ethiopia's</B> ethnic groups being associated with unique sounds."
+      ],
+      "label": [
+        "Music of <B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Ethiopia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_music"
+      ]
+    },
+    {
+      "score": [
+        "2124.4648"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Americans"
+      ],
+      "redirectlabel": [
+        "Abyssinian American",
+        "<B>Ethiopian</B>-American",
+        "<B>Ethiopian</B> American",
+        "<B>Ethiopian</B> Americans in Minnesota",
+        "History of <B>Ethiopian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Americans are Americans of <B>Ethiopian</B> descent, as well as individuals of American and <B>Ethiopian</B> ancestry."
+      ],
+      "label": [
+        "<B>Ethiopian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African-American_society",
+        "http://dbpedia.org/resource/Category:American_people_of_Ethiopian_descent",
+        "http://dbpedia.org/resource/Category:Ethiopian-American_history",
+        "http://dbpedia.org/resource/Category:Ethiopian_American",
+        "http://dbpedia.org/resource/Category:Ethiopian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Horn_Africans_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2120.001"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Premier_League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Ethiopia</B>. Regulated by the <B>Ethiopian</B> Football Federation, it was created in 1997 (1990 E.C"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1944_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_Premier_League",
+        "http://dbpedia.org/resource/Category:National_championships_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1944",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "2113.1055"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Democratic_Party"
+      ],
+      "redirectlabel": [
+        "Admassu Gebeyehu",
+        "Chane Kebede",
+        "Dr. Chane Kebede",
+        "<B>Ethiopian</B> Democratic Unity Party",
+        "Mesfin Mengistu",
+        "Mushe Semu",
+        "United <B>Ethiopian</B> Democratic Party-Medhin Party",
+        "United <B>Ethiopian</B> Democratic Party - Medhin Party",
+        "United <B>Ethiopian</B> Democratic Party – Medhin Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Democratic Party (Amharic: ከኢትዮጵያዊያን ዴሞክራሲያዊ ፓርቲ) was a political party in <B>Ethiopia</B>"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Democratic Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Democratic_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2019_disestablishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Africa",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_Civil_War",
+        "http://dbpedia.org/resource/Category:Ethiopian_nationalism",
+        "http://dbpedia.org/resource/Category:Federalist_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Africa",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2019",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1974",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "2051.964"
+      ],
+      "refCount": [
+        "76"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Somali_Region"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Somali Regional State",
+        "Somali, <B>Ethiopia</B>",
+        "Somali Region, <B>Ethiopia</B>",
+        "Somali Regional State",
+        "Somali region",
+        "Soomaali Galbeed",
+        "Sumalē",
+        "Xuseen Dalal Iljeex"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " largest and easternmost of the Nine regions (kilimo) of <B>Ethiopia</B>. The state borders the <B>Ethiopian</B>"
+      ],
+      "label": [
+        "Somali Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Somali_Region"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Regions_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Somali-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Somali_Region",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "2044.0667"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_calendar"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B>/Ge'ez calendar",
+        "<B>Ethiopian</B> Calendar",
+        "<B>Ethiopian</B> Millenium",
+        "Ge'ez Calander",
+        "Ge'ez calendar",
+        "Mesafe Hisab"
+      ],
+      "comment": [
+        " Eritrea and <B>Ethiopia</B> belonging to the Eritrean Orthodox Tewahedo Church, <B>Ethiopian</B> Orthodox"
+      ],
+      "label": [
+        "<B>Ethiopian</B> calendar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_calendar"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eritrean_culture",
+        "http://dbpedia.org/resource/Category:Ethiopian_culture",
+        "http://dbpedia.org/resource/Category:Liturgical_calendar",
+        "http://dbpedia.org/resource/Category:Liturgical_calendars",
+        "http://dbpedia.org/resource/Category:Specific_calendars",
+        "http://dbpedia.org/resource/Category:Time_in_Eritrea",
+        "http://dbpedia.org/resource/Category:Time_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "2014.7277"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2020–2022_Ethiopian–Sudanese_clashes"
+      ],
+      "redirectlabel": [
+        "2020-2021 <B>Ethiopian</B>-Sudanese clashes",
+        "2020-2021 Sudanese-<B>Ethiopian</B> clashes",
+        "2020-2022 <B>Ethiopian</B>-Sudanese clashes",
+        "2020-21 <B>Ethiopian</B>-Sudanese clashes",
+        "2020-21 Sudanese-<B>Ethiopian</B> clashes",
+        "2020 Sudanese-<B>Ethiopian</B> clashes",
+        "2020–2021 <B>Ethiopian</B>–Sudanese clashes",
+        "2020–2021 Sudanese–<B>Ethiopian</B> clashes",
+        "2020–21 <B>Ethiopian</B>–Sudanese clashes",
+        "2020–21 Sudanese–<B>Ethiopian</B> clashes"
+      ],
+      "label": [
+        "2020–2022 <B>Ethiopian</B>–Sudanese clashes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2020–2022_Ethiopian–Sudanese_clashes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2020_in_Sudan",
+        "http://dbpedia.org/resource/Category:2020_in_international_relations",
+        "http://dbpedia.org/resource/Category:2021_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2021_in_Sudan",
+        "http://dbpedia.org/resource/Category:2021_in_international_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Sudan",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2020",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2021",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2022",
+        "http://dbpedia.org/resource/Category:Ethiopia–Sudan_border",
+        "http://dbpedia.org/resource/Category:Ethiopia–Sudan_relations",
+        "http://dbpedia.org/resource/Category:Military_operations_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Military_operations_involving_Sudan",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Sudan",
+        "http://dbpedia.org/resource/Category:Tigray_War"
+      ]
+    },
+    {
+      "score": [
+        "1879.5433"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/July_2019_Ethiopian_Jews_protest_in_Israel"
+      ],
+      "redirectlabel": [
+        "2015 <B>Ethiopian</B> Jews protest in Israel",
+        "2019 mass protest in Israel",
+        "Death of Solomon Teka",
+        "<B>Ethiopian</B> Jews protest in July 2019",
+        "Israeli riot July 2019",
+        "July 2019 <B>Ethiopian</B> Jews demonstration in Israel",
+        "July 2019 Israel black protest",
+        "July 2019 Israel protest",
+        "July 2019 Israel riot",
+        "July 2019 Israeli <B>Ethiopian</B> Jews protest",
+        "July 2019 Israeli <B>Ethiopian</B> protest",
+        "July 2019 Israeli black people riot",
+        "July 2019 Israeli riot and protest",
+        "July 2019 nationwide protest in Israel",
+        "July 2019 protest in Israel",
+        "Killing of Solomon Teka",
+        "Nationwide protest in Israel July 2019",
+        "Solomon Teka",
+        "Solomon Teka incident"
+      ],
+      "comment": [
+        "The July 2019 <B>Ethiopian</B> Jews protest in Israel was a period of unrest initiated by <B>Ethiopian</B>"
+      ],
+      "label": [
+        "July 2019 <B>Ethiopian</B> Jews protest in Israel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/July_2019_Ethiopian_Jews_protest_in_Israel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_in_Israel",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:Anti-black_racism_in_Israel",
+        "http://dbpedia.org/resource/Category:Anti-racism_in_Israel",
+        "http://dbpedia.org/resource/Category:Beta_Israel",
+        "http://dbpedia.org/resource/Category:Discrimination_in_Israel",
+        "http://dbpedia.org/resource/Category:Ethiopian-Jewish_culture_in_Israel",
+        "http://dbpedia.org/resource/Category:Jewish_anti-racism",
+        "http://dbpedia.org/resource/Category:July_2019_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Police_brutality_in_Israel",
+        "http://dbpedia.org/resource/Category:Protests_against_police_brutality",
+        "http://dbpedia.org/resource/Category:Protests_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1870.7289"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ogaden_War"
+      ],
+      "redirectlabel": [
+        "Ethio-Somali War",
+        "<B>Ethiopia</B>-Somalia War",
+        "<B>Ethiopia</B> Somalia War",
+        "<B>Ethiopian</B>-Somali War",
+        "<B>Ethiopian</B>-Somali wars",
+        "<B>Ethiopian</B>-Somalian War",
+        "Ethio–Somali War",
+        "Somali-<B>Ethiopian</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " military offensive between July 1977 and March 1978 over the disputed <B>Ethiopian</B> region of Ogaden"
+      ],
+      "label": [
+        "Ogaden War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ogaden_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1977_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1977_in_Somalia",
+        "http://dbpedia.org/resource/Category:1978_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1978_in_Somalia",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_in_Africa",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1977",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1978",
+        "http://dbpedia.org/resource/Category:Cuba–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Ethiopian_Civil_War",
+        "http://dbpedia.org/resource/Category:Ethiopia–Somalia_military_relations",
+        "http://dbpedia.org/resource/Category:Ethiopia–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Ogaden_War",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Africa",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cuba",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Yemen",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1836.6837"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Jews_in_Israel"
+      ],
+      "redirectlabel": [
+        "Beta Israel community in Israel",
+        "Discrimination against <B>Ethiopian</B> Jews in Israel",
+        "<B>Ethiopian</B> Beta Israel in Israel",
+        "<B>Ethiopian</B> Heritage Museum",
+        "<B>Ethiopian</B> Israeli Jews",
+        "History of the <B>Ethiopian</B> Jews in Israel",
+        "Operation Brothers"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " communities in <B>Ethiopia</B> who now reside in Israel. To a lesser, but notable, extent, the <B>Ethiopian</B> Jewish"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Jews in Israel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Jews_in_Israel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Beta_Israel",
+        "http://dbpedia.org/resource/Category:Ethiopian-Jewish_culture_in_Israel",
+        "http://dbpedia.org/resource/Category:Ethiopian_Jews",
+        "http://dbpedia.org/resource/Category:Ethiopian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Habesha_peoples",
+        "http://dbpedia.org/resource/Category:Israeli_Jews_by_national_origin",
+        "http://dbpedia.org/resource/Category:Israeli_people_of_Ethiopian-Jewish_descent",
+        "http://dbpedia.org/resource/Category:Jewish_Agency_for_Israel",
+        "http://dbpedia.org/resource/Category:Jewish_Ethiopian_history",
+        "http://dbpedia.org/resource/Category:Society_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1823.1304"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> nationalism (Pan-<B>Ethiopianism</B>)",
+        "Ethiopiawinet",
+        "History of <B>Ethiopian</B> nationalism"
+      ],
+      "label": [
+        "<B>Ethiopian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_nationalism",
+        "http://dbpedia.org/resource/Category:Society_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1804.8813"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Serenaders"
+      ],
+      "redirectlabel": [
+        "Boston Minstrels",
+        "Dumbolton",
+        "<B>Ethiopian</B> Melodists",
+        "<B>Ethiopian</B> Minstrels",
+        "The <B>Ethiopian</B> Serenaders"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Serenaders was a blackface minstrel troupe from the 1840s. Their first major"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Serenaders"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Serenaders"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1840s_in_the_United_States",
+        "http://dbpedia.org/resource/Category:American_comedy_troupes",
+        "http://dbpedia.org/resource/Category:Blackface_minstrel_troupes"
+      ]
+    },
+    {
+      "score": [
+        "1795.1519"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Emperor_of_Ethiopia"
+      ],
+      "redirectlabel": [
+        "Abyssinian Emperor",
+        "Abyssinian throne",
+        "Atse",
+        "Emperor of Abyssinia",
+        "Emperor of <B>ethiopia</B>",
+        "<B>Ethiopian</B> Emperor",
+        "<B>Ethiopian</B> emperor",
+        "<B>Ethiopian</B> emperors family tree",
+        "<B>Ethiopian</B> imperial court",
+        "King of <B>Ethiopia</B>",
+        "King of the <B>Ethiopians</B>",
+        "Negusa nagast",
+        "Neguse negest",
+        "Nigus",
+        "Nəgusä nägäst",
+        "ንጉሠ ነገሥት"
+      ],
+      "comment": [
+        " of the <B>Ethiopian</B> Empire, until the abolition of the monarchy in 1975. The Emperor was the head of"
+      ],
+      "label": [
+        "Emperor of <B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Emperor_of_Ethiopia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Descent_from_antiquity",
+        "http://dbpedia.org/resource/Category:Dynasty_genealogy",
+        "http://dbpedia.org/resource/Category:Emperors_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1742.9652"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Broadcasting_Corporation"
+      ],
+      "redirectlabel": [
+        "ETV (<B>Ethiopia</B>)",
+        "ETV <B>Ethiopia</B>",
+        "ETV News HD",
+        "<B>Ethiopian</B> Radio and Television Agency",
+        "<B>Ethiopian</B> Television"
+      ],
+      "typeName": [
+        "Organisation",
+        "BroadcastNetwork",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Broadcasting Corporation (EBC) is an <B>Ethiopian</B> public service broadcaster. It is"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Broadcasting Corporation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Broadcasting_Corporation"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BroadcastNetwork",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Publicly_funded_broadcasters",
+        "http://dbpedia.org/resource/Category:Radio_stations_established_in_1935",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1962",
+        "http://dbpedia.org/resource/Category:Television_channels_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Television_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Television_networks"
+      ]
+    },
+    {
+      "score": [
+        "1725.8127"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Demographics_of_Ethiopia"
+      ],
+      "redirectlabel": [
+        "Demographics of <B>ethiopia</B>",
+        "Demography of <B>Ethiopia</B>",
+        "Eastern AEthiopian",
+        "Eastern <B>Ethiopian</B>",
+        "Eastern <B>Ethiopians</B>",
+        "<B>Ethiopia</B>/People",
+        "<B>Ethiopian</B> People",
+        "Ethnic <B>Ethiopian</B>",
+        "Ethnic <B>Ethiopians</B>",
+        "Mixed <B>Ethiopian</B>",
+        "Population of <B>Ethiopia</B>",
+        "White <B>Ethiopians</B>",
+        "Youth in <B>Ethiopia</B>"
+      ],
+      "comment": [
+        "The demographics of <B>Ethiopia</B> encompass the demographic features of <B>Ethiopia's</B> inhabitants"
+      ],
+      "label": [
+        "Demographics of <B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Demographics_of_Ethiopia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Demographics_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1708.2675"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Unity_Patriots_Front"
+      ],
+      "redirectlabel": [
+        "EPUF",
+        "EUPF",
+        "<B>Ethiopian</B> Patriotic United Front",
+        "<B>Ethiopian</B> United Patriotic Front",
+        "<B>Ethiopian</B> Unity Patriot Front",
+        "<B>Ethiopian</B> Unity Patriotic Front"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Unity Patriots Front (abbreviated EUPF) is a political party and militant rebel"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Unity Patriots Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Unity_Patriots_Front"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Factions_of_the_South_Sudanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1993",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Politics_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_South_Sudan"
+      ]
+    },
+    {
+      "score": [
+        "1680.8339"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_long-eared_bat"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Big-Eared Bat",
+        "<B>Ethiopian</B> Big-eared Bat",
+        "<B>Ethiopian</B> Big-eared bat",
+        "<B>Ethiopian</B> big-eared bat",
+        "<B>Ethiopian</B> big-eared rat",
+        "Plecotus balensis"
+      ],
+      "label": [
+        "<B>Ethiopian</B> long-eared bat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_long-eared_bat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bats_of_Africa",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_2000",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Plecotus",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot",
+        "http://dbpedia.org/resource/Category:Vulnerable_animals",
+        "http://dbpedia.org/resource/Category:Vulnerable_biota_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1672.3264"
+      ],
+      "refCount": [
+        "343"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Geʽez_script"
+      ],
+      "redirectlabel": [
+        "Ethi (script)",
+        "<B>Ethiopian</B> alphabet",
+        "<B>Ethiopian</B> number",
+        "<B>Ethiopian</B> script",
+        "<B>Ethiopic</B> (script)",
+        "<B>Ethiopic</B> alphabet",
+        "<B>Ethiopic</B> script",
+        "<B>Ethiopic</B> semicolon",
+        "<B>Ethiopic</B> syllabary",
+        "Fidäl",
+        "Ge'ez Script",
+        "Ge'ez abugida",
+        "Ge'ez alphabet",
+        "Ge'ez numerals",
+        "Ge'ez script",
+        "Ge'ez syllabary",
+        "Ge'ez writing system",
+        "Geez alphabet",
+        "Geez script",
+        "Geʽez alphabet",
+        "Hahu",
+        "ISO 15924:Ethi",
+        "ሀ",
+        "ሁ",
+        "ሂ",
+        "ሃ",
+        "ሄ",
+        "ህ",
+        "ሆ",
+        "ለ",
+        "ሉ",
+        "ሊ",
+        "ላ",
+        "ሌ",
+        "ል",
+        "ሎ",
+        "ሏ",
+        "ሐ",
+        "ሑ",
+        "ሒ",
+        "ሓ",
+        "ሔ",
+        "ሕ",
+        "ሖ",
+        "ሗ",
+        "መ",
+        "ሙ",
+        "ሚ",
+        "ማ",
+        "ሜ",
+        "ም",
+        "ሞ",
+        "ሟ",
+        "ረ",
+        "ሩ",
+        "ሪ",
+        "ራ",
+        "ሬ",
+        "ር",
+        "ሮ",
+        "ሯ",
+        "ሸ",
+        "ሹ",
+        "ሺ",
+        "ሻ",
+        "ሼ",
+        "ሽ",
+        "ሾ",
+        "ሿ",
+        "ቀ",
+        "ቁ",
+        "ቂ",
+        "ቃ",
+        "ቄ",
+        "ቅ",
+        "ቆ",
+        "ቈ",
+        "ቊ",
+        "ቋ",
+        "ቌ",
+        "ቍ",
+        "ቐ",
+        "ቑ",
+        "ቒ",
+        "ቓ",
+        "ቔ",
+        "ቕ",
+        "ቖ",
+        "ቘ",
+        "ቚ",
+        "ቛ",
+        "ቜ",
+        "ቝ",
+        "በ",
+        "ቡ",
+        "ቢ",
+        "ባ",
+        "ቤ",
+        "ብ",
+        "ቦ",
+        "ቧ",
+        "ቨ",
+        "ቩ",
+        "ቪ",
+        "ቫ",
+        "ቬ",
+        "ቭ",
+        "ቮ",
+        "ቯ",
+        "ተ",
+        "ቱ",
+        "ቲ",
+        "ታ",
+        "ቴ",
+        "ት",
+        "ቶ",
+        "ቷ",
+        "ቸ",
+        "ቹ",
+        "ቺ",
+        "ቻ",
+        "ቼ",
+        "ች",
+        "ቾ",
+        "ቿ",
+        "ኀ",
+        "ኁ",
+        "ኂ",
+        "ኃ",
+        "ኄ",
+        "ኅ",
+        "ኆ",
+        "ኈ",
+        "ኊ",
+        "ኋ",
+        "ኌ",
+        "ኍ",
+        "ነ",
+        "ኑ",
+        "ኒ",
+        "ና",
+        "ኔ",
+        "ን",
+        "ኖ",
+        "ኗ",
+        "ኘ",
+        "ኙ",
+        "ኚ",
+        "ኛ",
+        "ኜ",
+        "ኝ",
+        "ኞ",
+        "ኟ",
+        "አ",
+        "ኡ",
+        "ኢ",
+        "ኣ",
+        "ኤ",
+        "እ",
+        "ኦ",
+        "ኧ",
+        "ከ",
+        "ኩ",
+        "ኪ",
+        "ካ",
+        "ኬ",
+        "ክ",
+        "ኮ",
+        "ኰ",
+        "ኲ",
+        "ኳ",
+        "ኴ",
+        "ኵ",
+        "ኸ",
+        "ኹ",
+        "ኺ",
+        "ኻ",
+        "ኼ",
+        "ኽ",
+        "ኾ",
+        "ዀ",
+        "ዂ",
+        "ዃ",
+        "ዄ",
+        "ዅ",
+        "ወ",
+        "ዉ",
+        "ዊ",
+        "ዋ",
+        "ዌ",
+        "ው",
+        "ዎ",
+        "ዐ",
+        "ዑ",
+        "ዒ",
+        "ዓ",
+        "ዔ",
+        "ዕ",
+        "ዖ",
+        "ዘ",
+        "ዙ",
+        "ዚ",
+        "ዛ",
+        "ዜ",
+        "ዝ",
+        "ዞ",
+        "ዟ",
+        "ዠ",
+        "ዡ",
+        "ዢ",
+        "ዣ",
+        "ዤ",
+        "ዥ",
+        "ዦ",
+        "ዧ",
+        "የ",
+        "ዩ",
+        "ዪ",
+        "ያ",
+        "ዬ",
+        "ይ",
+        "ዮ",
+        "ደ",
+        "ዱ",
+        "ዲ",
+        "ዳ",
+        "ዴ",
+        "ድ",
+        "ዶ",
+        "ዷ",
+        "ጀ",
+        "ጁ",
+        "ጂ",
+        "ጃ",
+        "ጄ",
+        "ጅ",
+        "ጆ",
+        "ጇ",
+        "ገ",
+        "ጉ",
+        "ጊ",
+        "ጋ",
+        "ጌ",
+        "ግ",
+        "ጎ",
+        "ጐ",
+        "ጒ",
+        "ጓ",
+        "ጔ",
+        "ጕ",
+        "ጘ",
+        "ጙ",
+        "ጚ",
+        "ጛ",
+        "ጜ",
+        "ጝ",
+        "ጞ",
+        "ጠ",
+        "ጡ",
+        "ጢ",
+        "ጣ",
+        "ጤ",
+        "ጥ",
+        "ጦ",
+        "ጧ",
+        "ጨ",
+        "ጩ",
+        "ጪ",
+        "ጫ",
+        "ጬ",
+        "ጭ",
+        "ጮ",
+        "ጯ",
+        "ጰ",
+        "ጱ",
+        "ጲ",
+        "ጳ",
+        "ጴ",
+        "ጵ",
+        "ጶ",
+        "ጷ",
+        "ጸ",
+        "ጹ",
+        "ጺ",
+        "ጻ",
+        "ጼ",
+        "ጽ",
+        "ጾ",
+        "ጿ",
+        "ፀ",
+        "ፁ",
+        "ፂ",
+        "ፃ",
+        "ፄ",
+        "ፅ",
+        "ፆ",
+        "ፇ",
+        "ፈ",
+        "ፉ",
+        "ፊ",
+        "ፋ",
+        "ፌ",
+        "ፍ",
+        "ፎ",
+        "ፏ",
+        "ፐ",
+        "ፑ",
+        "ፒ",
+        "ፓ",
+        "ፔ",
+        "ፕ",
+        "ፖ",
+        "ፗ",
+        "ፘ",
+        "ፙ",
+        "ፚ",
+        "፠",
+        "፣",
+        "፤",
+        "፥",
+        "፦",
+        "፧",
+        "፨",
+        "፩",
+        "፪",
+        "፫",
+        "፬",
+        "፭",
+        "፮",
+        "፯",
+        "፰",
+        "፱",
+        "፲",
+        "፳",
+        "፴",
+        "፵",
+        "፶",
+        "፷",
+        "፸",
+        "፹",
+        "፺",
+        "፻",
+        "፼"
+      ],
+      "comment": [
+        " Church, the <B>Ethiopian</B> Orthodox Tewahedo Church, and Beta Israel, the Jewish community in <B>Ethiopia</B>. In"
+      ],
+      "label": [
+        "Geʽez script"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Geʽez_script"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Abugida_writing_systems",
+        "http://dbpedia.org/resource/Category:Ge'ez_language",
+        "http://dbpedia.org/resource/Category:Semitic_writing_systems",
+        "http://dbpedia.org/resource/Category:Writing_systems_of_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1671.3494"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/P'ent'ay"
+      ],
+      "redirectlabel": [
+        "Eritrean Evangelical Church",
+        "Eritrean Evangelicalism",
+        "<B>Ethiopian</B>-Eritrean Evangelicalism",
+        "<B>Ethiopian</B> Eritrean Evangelical Church",
+        "<B>Ethiopian</B> Evangelical Church",
+        "<B>Ethiopian</B> Evangelicalism",
+        "Evangelical Church Fellowship of <B>Ethiopia</B>",
+        "P'ent'ay (<B>Ethiopian</B>-Eritrean Evangelicalism)",
+        "P'ent'ay (<B>Ethiopian</B> Evangelicalism)",
+        "P'entay",
+        "Pent'ay",
+        "Pentay",
+        "Protestantism in <B>Ethiopia</B>",
+        "Protestants in <B>Ethiopia</B>",
+        "Wenigelawi"
+      ],
+      "label": [
+        "P'ent'ay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/P'ent'ay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Evangelicalism_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Pentecostalism_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1669.86"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_civil_conflict_(2018–present)"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Civil War (2018-present)",
+        "<B>Ethiopian</B> Civil War (2018–present)",
+        "<B>Ethiopian</B> civil conflict (2018-present)",
+        "<B>Ethiopian</B> civil conflict under Abiy Ahmed's administration",
+        "<B>Ethiopian</B> civil conflict under the Abiy administration",
+        "<B>Ethiopian</B> civil conflict under the Ahmed administration",
+        "<B>Ethiopian</B> conflict"
+      ],
+      "label": [
+        "<B>Ethiopian</B> civil conflict (2018–present)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_civil_conflict_(2018–present)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_civil_wars",
+        "http://dbpedia.org/resource/Category:2018_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2019_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2020_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2020s_civil_wars",
+        "http://dbpedia.org/resource/Category:2021_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2022_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Africa",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2018",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2019",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2020",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2021",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2022",
+        "http://dbpedia.org/resource/Category:Ethiopian_civil_conflict_(2018–present)",
+        "http://dbpedia.org/resource/Category:Ethnicity-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Eritrea",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Sudan"
+      ]
+    },
+    {
+      "score": [
+        "1669.7828"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_amphibious_rat"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Amphibious Rat",
+        "<B>Ethiopian</B> Water Mouse",
+        "<B>Ethiopian</B> water mouse",
+        "Nilopegamys",
+        "Nilopegamys plumbeus"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> amphibious rat also known as the <B>Ethiopian</B> water mouse (Nilopegamys plumbeus) is an"
+      ],
+      "label": [
+        "<B>Ethiopian</B> amphibious rat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_amphibious_rat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1928",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Old_World_rats_and_mice",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1664.325"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Ethiopian_regions_by_Human_Development_Index"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> regions by HDI",
+        "<B>Ethiopian</B> regions by Human Development Index",
+        "HDI of <B>Ethiopian</B> regions",
+        "HDI of regions of <B>Ethiopia</B>",
+        "Human Development Index of <B>Ethiopian</B> regions",
+        "Human Development Index of regions of <B>Ethiopia</B>",
+        "List of <B>Ethiopian</B> regions by HDI",
+        "List of regions of <B>Ethiopia</B> by HDI",
+        "List of regions of <B>Ethiopia</B> by Human Development Index",
+        "Regions of <B>Ethiopia</B> by HDI",
+        "Regions of <B>Ethiopia</B> by Human Development Index"
+      ],
+      "comment": [
+        "This is a list of <B>Ethiopian</B> regions and the two chartered cities of Addis Ababa and Dire Dawa by Human Development Index as of 2017."
+      ],
+      "label": [
+        "List of <B>Ethiopian</B> regions by Human Development Index"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Ethiopian_regions_by_Human_Development_Index"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Ethiopia-related_lists",
+        "http://dbpedia.org/resource/Category:Human_Development_Index",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1658.4014"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Grand_Ethiopian_Renaissance_Dam"
+      ],
+      "redirectlabel": [
+        "Grand Renaissance Dam",
+        "Grand <B>ethiopian</B> renaissance dam",
+        "Great <B>Ethiopian</B> Renaissance Dam",
+        "Great Millenium Dam",
+        "Hidase Dam",
+        "Millennium Dam",
+        "Nile Dam",
+        "Renaissance Dam"
+      ],
+      "typeName": [
+        "Place",
+        "Dam",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure"
+      ],
+      "comment": [
+        "The Grand <B>Ethiopian</B> Renaissance Dam (GERD or TaIHiGe; Amharic: ታላቁ የኢትዮጵያ ሕዳሴ ግድብ, romanized"
+      ],
+      "label": [
+        "Grand <B>Ethiopian</B> Renaissance Dam"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Grand_Ethiopian_Renaissance_Dam"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Dam",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Blue_Nile",
+        "http://dbpedia.org/resource/Category:Dam_controversies",
+        "http://dbpedia.org/resource/Category:Dams_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Dams_in_the_Nile_basin",
+        "http://dbpedia.org/resource/Category:Dams_under_construction",
+        "http://dbpedia.org/resource/Category:Gravity_dams",
+        "http://dbpedia.org/resource/Category:Hydroelectric_power_stations_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Reservoirs_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Roller-compacted_concrete_dams",
+        "http://dbpedia.org/resource/Category:Water_conflicts"
+      ]
+    },
+    {
+      "score": [
+        "1655.1752"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007–2008_Ethiopian_crackdown_in_Ogaden"
+      ],
+      "redirectlabel": [
+        "2007-08 <B>Ethiopian</B> crackdown in Ogaden",
+        "2007-2008 <B>Ethiopian</B> crackdown in Ogaden",
+        "2007-present <B>Ethiopian</B> crackdown in Ogaden",
+        "2007-present Ogaden conflict",
+        "2007 Ogaden conflict",
+        "2007–08 <B>Ethiopian</B> crackdown in Ogaden",
+        "2007–present <B>Ethiopian</B> crackdown in Ogaden",
+        "2007–present Ogaden conflict",
+        "Ogaden conflict (2007)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2007–2008 <B>Ethiopian</B> crackdown in Ogaden was a military campaign by the <B>Ethiopian</B> Army against"
+      ],
+      "label": [
+        "2007–2008 <B>Ethiopian</B> crackdown in Ogaden"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007–2008_Ethiopian_crackdown_in_Ogaden"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2008_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2007",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2008",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Insurgency_in_Ogaden"
+      ]
+    },
+    {
+      "score": [
+        "1634.8485"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Ground_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Army",
+        "<B>Ethiopian</B> army",
+        "<B>Ethiopian</B> soldier",
+        "<B>Ethiopian</B> troops"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Ground Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Ground_Forces"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armies_by_country",
+        "http://dbpedia.org/resource/Category:Military_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1996"
+      ]
+    },
+    {
+      "score": [
+        "1627.1608"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1964_Ethiopian–Somali_Border_War"
+      ],
+      "redirectlabel": [
+        "1964 <B>Ethiopian</B>-Somali Border War",
+        "1964 <B>Ethiopian</B>-Somali War",
+        "1964 <B>Ethiopian</B>–Somali War",
+        "<B>Ethiopian</B>-Somali border dispute (1960-64)",
+        "<B>Ethiopian</B>–Somali border dispute (1960–64)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1964 <B>Ethiopian</B>–Somali Border War was a short war between the Somali Republic and the <B>Ethiopian</B>"
+      ],
+      "label": [
+        "1964 <B>Ethiopian</B>–Somali Border War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1964_Ethiopian–Somali_Border_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1964_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1964_in_Somalia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1964",
+        "http://dbpedia.org/resource/Category:Ethiopia–Somalia_military_relations",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somalia"
+      ]
+    },
+    {
+      "score": [
+        "1615.4326"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopians"
+      ],
+      "redirectlabel": [
+        "Emigration from <B>Ethiopia</B>",
+        "<B>Ethiopian</B>",
+        "<B>Ethiopian</B> diaspora",
+        "<B>Ethiopian</B> people",
+        "<B>Ethiopians</B> (national origin)",
+        "Ethnic groups of <B>Ethiopia</B>",
+        "<B>Ethopians</B>",
+        "Genetic history of <B>Ethiopia</B>",
+        "Genetic studies on <B>Ethiopians</B>",
+        "People of <B>Ethiopia</B>",
+        "People of <B>ethiopia</B>"
+      ],
+      "label": [
+        "<B>Ethiopians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Society_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1611.6206"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_702"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopia</B> Airlines Flight 702",
+        "<B>Ethiopian</B> Airlines 702",
+        "<B>Ethiopian</B> Airlines ET702 hijacking",
+        "<B>Ethiopian</B> Airlines Flight 702 hijacking",
+        "<B>Ethiopian</B> Airlines flight ET702"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Airlines Flight 702 was a scheduled flight from Addis Ababa to Milan via Rome on 17"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Airlines Flight 702"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_702"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2014_in_Switzerland",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_767",
+        "http://dbpedia.org/resource/Category:Aircraft_hijackings",
+        "http://dbpedia.org/resource/Category:Aircraft_hijackings_in_Africa",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2014",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Switzerland",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:February_2014_events_in_Africa",
+        "http://dbpedia.org/resource/Category:February_2014_events_in_Switzerland"
+      ]
+    },
+    {
+      "score": [
+        "1590.5237"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Ethiopia</B>",
+        "<B>Ethiopian</B> and Eritrean art",
+        "<B>Ethiopian</B> painting",
+        "Visual art of <B>Ethiopia</B>"
+      ],
+      "comment": [
+        " kingdom of D'mt. The <B>Ethiopian</B> Orthodox Tewahedo Church has been the predominant religion in <B>Ethiopia</B>"
+      ],
+      "label": [
+        "<B>Ethiopian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_art",
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Christian_art",
+        "http://dbpedia.org/resource/Category:Ethiopian_art",
+        "http://dbpedia.org/resource/Category:Ethiopian_culture"
+      ]
+    },
+    {
+      "score": [
+        "1557.5387"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1982_Ethiopian–Somali_Border_War"
+      ],
+      "redirectlabel": [
+        "1982 <B>Ethiopian</B>-Somali Border War",
+        "1982 <B>Ethiopian</B>-Somalian Border War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1982 <B>Ethiopian</B>–Somali Border War occurred between June and August 1982 when <B>Ethiopia</B>, sending a"
+      ],
+      "label": [
+        "1982 <B>Ethiopian</B>–Somali Border War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1982_Ethiopian–Somali_Border_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1982_in_Somalia",
+        "http://dbpedia.org/resource/Category:August_1982_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1982",
+        "http://dbpedia.org/resource/Category:Ethiopian_Civil_War",
+        "http://dbpedia.org/resource/Category:Ethiopia–Somalia_border",
+        "http://dbpedia.org/resource/Category:Ethiopia–Somalia_military_relations",
+        "http://dbpedia.org/resource/Category:July_1982_events_in_Africa",
+        "http://dbpedia.org/resource/Category:June_1982_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1547.516"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Eritrean–Ethiopian_border_conflict"
+      ],
+      "redirectlabel": [
+        "Eritrean-<B>Ethiopian</B> border conflict",
+        "<B>Ethiopia</B>-Eritrea border conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Eritrean–<B>Ethiopian</B> border conflict was a violent standoff and a proxy conflict between Eritrea"
+      ],
+      "label": [
+        "Eritrean–<B>Ethiopian</B> border conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Eritrean–Ethiopian_border_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_conflicts",
+        "http://dbpedia.org/resource/Category:2000s_in_Eritrea",
+        "http://dbpedia.org/resource/Category:2000s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Eritrea",
+        "http://dbpedia.org/resource/Category:2010s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Africa",
+        "http://dbpedia.org/resource/Category:Eritrea–Ethiopia_border",
+        "http://dbpedia.org/resource/Category:Eritrea–Ethiopia_military_relations",
+        "http://dbpedia.org/resource/Category:Insurgencies_in_Africa",
+        "http://dbpedia.org/resource/Category:Military_history_of_Eritrea",
+        "http://dbpedia.org/resource/Category:Military_history_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Eritrea",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1537.7142"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian–Egyptian_War"
+      ],
+      "redirectlabel": [
+        "Egyptian-<B>Ethiopian</B> War",
+        "Egyptian-<B>Ethiopian</B> war",
+        "Ethio-Egyptian War",
+        "<B>Ethiopian</B>-Egyptian War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B>-Egyptian War was a war between the <B>Ethiopian</B> Empire and the Khedivate of Egypt from 1874 to 1876, resulting in an <B>Ethiopian</B> victory."
+      ],
+      "label": [
+        "<B>Ethiopian</B>–Egyptian War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian–Egyptian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1874_in_Africa",
+        "http://dbpedia.org/resource/Category:1875_in_Africa",
+        "http://dbpedia.org/resource/Category:1876_in_Africa",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1874",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1875",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1876",
+        "http://dbpedia.org/resource/Category:Egypt–Ethiopia_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Egypt",
+        "http://dbpedia.org/resource/Category:Military_history_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Egypt",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1516.6885"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Ethiopia</B>",
+        "History of the <B>Ethiopian</B> Air Force",
+        "Imperial <B>Ethiopian</B> Air Force",
+        "የኢትዮጵያ አየር ሃይል"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Air Force (ETAF) (Amharic: የኢትዮጵያ አየር ሃይል, Ye Ithopya A yer Hayl) is the air arm of"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1929"
+      ]
+    },
+    {
+      "score": [
+        "1514.3334"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Navy"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopia</B> Navy",
+        "<B>Ethiopian</B> Navy Incident",
+        "Imperial <B>Ethiopian</B> Navy"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Navy, known as the Imperial <B>Ethiopian</B> Navy until 1974, was a branch of the <B>Ethiopian</B>"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1996_disestablishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_Navy",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1996",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1955"
+      ]
+    },
+    {
+      "score": [
+        "1513.6923"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_white-footed_mouse"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> White-Footed Mouse",
+        "<B>Ethiopian</B> White-footed Mouse",
+        "Myomys albipes",
+        "Stenocephalemys albipes",
+        "White-Footed Stenocephalemys",
+        "White-footed Stenocephalemys",
+        "White-footed stenocephalemys"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> white-footed mouse or white-footed stenocephalemys (Stenocephalemys albipes) is a"
+      ],
+      "label": [
+        "<B>Ethiopian</B> white-footed mouse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_white-footed_mouse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1842",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Stenocephalemys",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1511.3495"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Catholic_Archeparchy_of_Addis_Abeba"
+      ],
+      "redirectlabel": [
+        "Abyssinia of the <B>Ethiopics</B>",
+        "Addis Abeba of the <B>Ethiopics</B>",
+        "Apostolic Exarchate of Addis Abbeba",
+        "Apostolic Prefecture of Abyssinia",
+        "Apostolic Vicariate of Abyssinia",
+        "Archbishopric of Addis Abbeba",
+        "Archdiocese of Addis Ababa",
+        "Archdiocese of Addis Abeba",
+        "<B>Ethiopian</B> Catholic Archeparchy of Addis Ababa",
+        "<B>Ethiopic</B> Catholic Metropolitanate of Addis Abeba",
+        "<B>Ethiopic</B> Metropolitanate sui juris of Addis Abeba",
+        "Metropolitan Archdiocese of Addis Abeba",
+        "Roman Catholic Archdiocese of Addis Ababa",
+        "Roman Catholic Archdiocese of Addis Abeba"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Diocese",
+        "Location",
+        "Region",
+        "ClericalAdministrativeRegion"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Catholic Archeparchy of Addis Abeba, officially the Metropolitan sui iuris"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Catholic Archeparchy of Addis Abeba"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Catholic_Archeparchy_of_Addis_Abeba"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Diocese",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region",
+        "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Christian_organizations_established_in_1951",
+        "http://dbpedia.org/resource/Category:Ethiopian_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Addis_Ababa",
+        "http://dbpedia.org/resource/Category:Roman_Catholic_dioceses_and_prelatures_established_in_the_20th_century"
+      ]
+    },
+    {
+      "score": [
+        "1507.6764"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Confederation_of_Ethiopian_Trade_Unions"
+      ],
+      "redirectlabel": [
+        "All-<B>Ethiopia</B> Trade Union",
+        "All-<B>Ethiopian</B> Trade Union",
+        "CETU",
+        "Confederation of <B>ethiopian</B> trade unions",
+        "<B>Ethiopian</B> Trade Union"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "The Confederation of <B>Ethiopian</B> Trade Unions (CETU) is an alliance of trade unions in <B>Ethiopia</B>. As"
+      ],
+      "label": [
+        "Confederation of <B>Ethiopian</B> Trade Unions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Confederation_of_Ethiopian_Trade_Unions"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Trade_unions_established_in_1977",
+        "http://dbpedia.org/resource/Category:Trade_unions_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:World_Federation_of_Trade_Unions"
+      ]
+    },
+    {
+      "score": [
+        "1502.6145"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–11_Ethiopian_Premier_League"
+      ],
+      "redirectlabel": [
+        "2010-11 <B>Ethiopian</B> Premier League",
+        "<B>Ethiopian</B> Premier League 2009-11",
+        "<B>Ethiopian</B> Premier League 2009–11",
+        "<B>Ethiopian</B> Premier League 2010-11",
+        "<B>Ethiopian</B> Premier League 2010–11"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2010–11 <B>Ethiopian</B> Premier League is the season of the <B>Ethiopian</B> Premier League since its"
+      ],
+      "label": [
+        "2010–11 <B>Ethiopian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–11_Ethiopian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_in_Ethiopian_sport",
+        "http://dbpedia.org/resource/Category:2010–11_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2011_in_Ethiopian_sport",
+        "http://dbpedia.org/resource/Category:Ethiopian_Premier_League"
+      ]
+    },
+    {
+      "score": [
+        "1499.9209"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Insurance_F.C."
+      ],
+      "redirectlabel": [
+        "EIFC",
+        "<B>Ethiopian</B> Insurance",
+        "Insurance (football club)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " the city of Addis Abeba.  They play in the <B>Ethiopian</B> Higher League, the second division of professional football in <B>Ethiopia</B>."
+      ],
+      "label": [
+        "<B>Ethiopian</B> Insurance F.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Insurance_F.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Financial_services_association_football_clubs_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Addis_Ababa"
+      ]
+    },
+    {
+      "score": [
+        "1494.7816"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Ethiopian_Premier_League"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Ethiopian</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2019–20 <B>Ethiopian</B> Premier League is the 73rd season of top-tier football in <B>Ethiopia</B> (21st"
+      ],
+      "label": [
+        "2019–20 <B>Ethiopian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Ethiopian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2019–20_in_Ethiopian_football",
+        "http://dbpedia.org/resource/Category:Association_football_events_curtailed_and_voided_due_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:Ethiopian_Premier_League"
+      ]
+    },
+    {
+      "score": [
+        "1492.7229"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Beta_Israel"
+      ],
+      "redirectlabel": [
+        "Beta Esrael",
+        "Beta Israelis",
+        "Beta Israels",
+        "Beta Yisrael",
+        "Bete Israel",
+        "<B>Ethiopian</B> Israeli",
+        "<B>Ethiopian</B> Israelis",
+        "<B>Ethiopian</B> Jews",
+        "Falasha",
+        "Falasha Mura",
+        "Falasha jews",
+        "Falashah",
+        "Falashah Jews",
+        "Falashas",
+        "Felasha",
+        "Genetic studies on the Beta Israel",
+        "Jewish Falasha",
+        "Jews and Judaism in <B>Ethiopia</B>",
+        "Letter to the Falashas"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " <B>Ethiopian</B> Jews (Hebrew: יְהוּדֵי אֶתְיוֹפְּיָה: Yehudey Etyopyah; Ge'ez: የኢትዮጵያ አይሁድዊ, ye-Ityoppya Ayhudi"
+      ],
+      "label": [
+        "Beta Israel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Beta_Israel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Beta_Israel",
+        "http://dbpedia.org/resource/Category:Ethiopian_Jews",
+        "http://dbpedia.org/resource/Category:Habesha_peoples",
+        "http://dbpedia.org/resource/Category:History_of_the_Jews_in_Africa",
+        "http://dbpedia.org/resource/Category:Jewish_Ethiopian_history",
+        "http://dbpedia.org/resource/Category:Jewish_ethnic_groups"
+      ]
+    },
+    {
+      "score": [
+        "1492.1853"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Ethiopia"
+      ],
+      "redirectlabel": [
+        "Belkis Wolde Giorgis",
+        "Belkis Woldegiorgis",
+        "<B>Ethiopian</B> Government",
+        "<B>Ethiopian</B> Govt.",
+        "<B>Ethiopian</B> government",
+        "Fdre government",
+        "Federal Government of <B>Ethiopia</B>",
+        "Federal government of <B>Ethiopia</B>"
+      ],
+      "comment": [
+        "The government of <B>Ethiopia</B> is structured in a framework of a federal parliamentary republic"
+      ],
+      "label": [
+        "Government of <B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Ethiopia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1488.79"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Canadian",
+        "List of <B>Ethiopian</B> Canadians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Canadians are Canadian citizens of <B>Ethiopian</B> descent or an <B>Ethiopia</B>-born person who"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Ethiopian_descent",
+        "http://dbpedia.org/resource/Category:Ethiopian_Canadian",
+        "http://dbpedia.org/resource/Category:Ethiopian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Ethiopian_emigrants_to_Canada",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada"
+      ]
+    },
+    {
+      "score": [
+        "1482.153"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Australian",
+        "List of <B>Ethiopian</B> Australians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Australians is a term that may be used to refer to immigrants from <B>Ethiopia</B> to Australia"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_Australian",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Ethiopian_descent",
+        "http://dbpedia.org/resource/Category:Ethiopian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Australia"
+      ]
+    },
+    {
+      "score": [
+        "1477.7107"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Coffee_production_in_Ethiopia"
+      ],
+      "redirectlabel": [
+        "Coffee in <B>Ethiopia</B>",
+        "<B>Ethiopia</B> Sidamo (coffee)",
+        "<B>Ethiopia</B> coffee",
+        "<B>Ethiopian</B> Coffee",
+        "<B>Ethiopian</B> Harar",
+        "<B>Ethiopian</B> Sidamo",
+        "<B>Ethiopian</B> Sidamo (coffee)",
+        "<B>Ethiopian</B> coffee",
+        "Harari coffee"
+      ],
+      "comment": [
+        "Coffee production in <B>Ethiopia</B> is a longstanding tradition which dates back to dozens of centuries"
+      ],
+      "label": [
+        "Coffee production in <B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Coffee_production_in_Ethiopia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agriculture_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Coffee_production_by_country",
+        "http://dbpedia.org/resource/Category:Economy_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1476.8654"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Regiment"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> regiment",
+        "Lord Dunmore's <B>Ethiopian</B> Regiment"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Regiment, better known as Lord Dunmore's <B>Ethiopian</B> Regiment, was a British colonial"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Regiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Regiment"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_Americans_in_the_American_Revolution",
+        "http://dbpedia.org/resource/Category:Black_Loyalists",
+        "http://dbpedia.org/resource/Category:Loyalist_military_units_in_the_American_Revolution",
+        "http://dbpedia.org/resource/Category:Military_emancipation_in_the_American_Revolutionary_War",
+        "http://dbpedia.org/resource/Category:Military_units_of_Virginia_in_the_American_Revolution"
+      ]
+    },
+    {
+      "score": [
+        "1475.1512"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Mozambique_Airlines"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Mocambique",
+        "<B>Ethiopian</B> Mozambique",
+        "<B>Ethiopian</B> Moçambique"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Mozambique Airlines is an airline based at Maputo International Airport that flies to"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Mozambique Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Mozambique_Airlines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_establishments_in_Mozambique",
+        "http://dbpedia.org/resource/Category:2021_disestablishments_in_Mozambique",
+        "http://dbpedia.org/resource/Category:Airlines_disestablished_in_2021",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_2018",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Maputo",
+        "http://dbpedia.org/resource/Category:Defunct_airlines_of_Mozambique",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines"
+      ]
+    },
+    {
+      "score": [
+        "1453.0272"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Southern_Ethiopian_People's_Democratic_Movement"
+      ],
+      "redirectlabel": [
+        "SEPDM",
+        "South <B>Ethiopian</B> Peoples' Democratic Front"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Southern <B>Ethiopian</B> People's Democratic Movement (SEPDM) was a political party in <B>Ethiopia</B>. At"
+      ],
+      "label": [
+        "Southern <B>Ethiopian</B> People's Democratic Movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Southern_Ethiopian_People's_Democratic_Movement"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2019_disestablishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Defunct_socialist_parties",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Africa",
+        "http://dbpedia.org/resource/Category:Ethiopian_People's_Revolutionary_Democratic_Front",
+        "http://dbpedia.org/resource/Category:Federalist_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2019",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1992",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Africa",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1445.6472"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Civil_Service_University"
+      ],
+      "redirectlabel": [
+        "10.56302",
+        "<B>Ethiopian</B> Civil Service College"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Civil Service University (ECSU) is a public university in <B>Ethiopia</B>. Its purpose is"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Civil Service University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Civil_Service_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Civil_service_colleges",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1995",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1425.574"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Eritrean–Ethiopian_border_skirmish"
+      ],
+      "redirectlabel": [
+        "2010 Eritrea-<B>Ethiopia</B> border skirmish",
+        "2010 Eritrea-<B>Ethiopian</B> border skirmish",
+        "2010 Eritrean-<B>Ethiopian</B> border skirmish",
+        "2010 Eritrea–<B>Ethiopia</B> border skirmish",
+        "2010 Eritrea–<B>Ethiopian</B> border skirmish"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " forces crossed the border. The <B>Ethiopian</B> Government claimed Eritrea was trying to cover up an internal crisis by implicating <B>Ethiopia</B>."
+      ],
+      "label": [
+        "2010 Eritrean–<B>Ethiopian</B> border skirmish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Eritrean–Ethiopian_border_skirmish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_in_Eritrea",
+        "http://dbpedia.org/resource/Category:2010_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2010",
+        "http://dbpedia.org/resource/Category:Eritrea–Ethiopia_border",
+        "http://dbpedia.org/resource/Category:January_2010_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Second_Afar_insurgency",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Eritrea",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1419.1831"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afrotropical_realm"
+      ],
+      "redirectlabel": [
+        "Afro-tropical",
+        "Afrotropic",
+        "Afrotropic ecozone",
+        "Afrotropical",
+        "Afrotropical Realm",
+        "Afrotropical Region",
+        "Afrotropical ecozone",
+        "Afrotropical region",
+        "Afrotropics",
+        "<B>Ethiopian</B> Region",
+        "<B>Ethiopian</B> ecozone",
+        "<B>Ethiopian</B> realm",
+        "<B>Ethiopian</B> region"
+      ],
+      "comment": [
+        " and extreme southwestern Pakistan, and the islands of the western Indian Ocean. It was formerly known as the <B>Ethiopian</B> Zone or <B>Ethiopian</B> Region."
+      ],
+      "label": [
+        "Afrotropical realm"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afrotropical_realm"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afrotropical_realm",
+        "http://dbpedia.org/resource/Category:Biogeographic_realms",
+        "http://dbpedia.org/resource/Category:Biogeography",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Africa",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Asia",
+        "http://dbpedia.org/resource/Category:Natural_history_of_Africa",
+        "http://dbpedia.org/resource/Category:Natural_history_of_Asia",
+        "http://dbpedia.org/resource/Category:Tropics"
+      ]
+    },
+    {
+      "score": [
+        "1406.7357"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italo-Ethiopian_War_of_1887–1889"
+      ],
+      "redirectlabel": [
+        "Italo-<B>Ethiopian</B> War of 1887-1889"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Italo-<B>Ethiopian</B> War of 1887–1889 was an undeclared war between the Kingdom of Italy and the"
+      ],
+      "label": [
+        "Italo-<B>Ethiopian</B> War of 1887–1889"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italo-Ethiopian_War_of_1887–1889"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1887_in_Italy",
+        "http://dbpedia.org/resource/Category:African_resistance_to_colonialism",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1887",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy"
+      ]
+    },
+    {
+      "score": [
+        "1400.2446"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_siskin"
+      ],
+      "redirectlabel": [
+        "Abyssinian Siskin",
+        "Abyssinian siskin",
+        "<B>Ethiopian</B> Siskin",
+        "Serinus nigriceps"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> siskin or Abyssinian siskin (Serinus nigriceps) is a species of finch in the family"
+      ],
+      "label": [
+        "<B>Ethiopian</B> siskin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_siskin"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1840",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Fauna_of_the_Ethiopian_Highlands",
+        "http://dbpedia.org/resource/Category:Serinus",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1397.0546"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Postal_Service"
+      ],
+      "redirectlabel": [
+        "Ethio Postal",
+        "<B>Ethiopian</B> Post",
+        "<B>Ethiopian</B> post"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Postal Service (Ethio Postal) is the national postal service of <B>Ethiopia</B>."
+      ],
+      "label": [
+        "<B>Ethiopian</B> Postal Service"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Postal_Service"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Communications_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Companies_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Philately_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Postal_organizations"
+      ]
+    },
+    {
+      "score": [
+        "1395.2241"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_People's_Revolutionary_Party"
+      ],
+      "redirectlabel": [
+        "EPRP",
+        "<B>Ethiopian</B> People's Revolutionary Army",
+        "Ihapa"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> People's Revolutionary Party (Amharic: የኢትዮጵያ ሕዝባዊ አብዮታዊ ፓርቲ: Yethiopia Hizbawi"
+      ],
+      "label": [
+        "<B>Ethiopian</B> People's Revolutionary Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_People's_Revolutionary_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1972_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Factions_of_the_Ethiopian_Civil_War",
+        "http://dbpedia.org/resource/Category:Federalist_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1972",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1386.1785"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/War_in_Somalia_(2006–2009)"
+      ],
+      "redirectlabel": [
+        "2006-Present War in Somalia",
+        "2006-present War in Somalia",
+        "2006 War in Somalia",
+        "2006 al-Shabaab invasion of <B>Ethiopia</B>",
+        "2007 Islamic Courts Union insurgency",
+        "<B>Ethiopian</B> War in Somalia",
+        "<B>Ethiopian</B> intervention Somalia",
+        "<B>Ethiopian</B> intervention in Somalia",
+        "<B>Ethiopian</B> intervention in the Somali Civil War",
+        "<B>Ethiopian</B> involvement in the 2006 Somali Civil War",
+        "<B>Ethiopian</B> involvement in the Somali Civil War",
+        "<B>Ethiopian</B> war in Somalia",
+        "ICU insurgency",
+        "Islamic Courts Union insurgency",
+        "Islamist insurgency in Somalia (2007–present)",
+        "Somali Civil War (2006-2009)",
+        "Somali Civil War (2006-current)",
+        "Somali Civil War (2006-present)",
+        "Somali Civil War (2006–2009)",
+        "Somalia War (2006-2009)",
+        "Somalia War (2006–2009)",
+        "The Minute War",
+        "War in Somalia (2006--present)",
+        "War in Somalia (2006-09)",
+        "War in Somalia (2006-2009)",
+        "War in Somalia (2006-present)",
+        "War in Somalia (2006 - present)",
+        "War in Somalia (2006 – present)",
+        "War in Somalia (2006–09)",
+        "War in Somalia (2006–present)",
+        "War in Somalia (2006—present)"
+      ],
+      "label": [
+        "War in Somalia (2006–2009)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/War_in_Somalia_(2006–2009)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_conflicts",
+        "http://dbpedia.org/resource/Category:2000s_in_Somalia",
+        "http://dbpedia.org/resource/Category:Somali_Civil_War",
+        "http://dbpedia.org/resource/Category:Somalia_War_(2006–2009)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Burundi",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ghana",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kenya",
+        "http://dbpedia.org/resource/Category:Wars_involving_Malawi",
+        "http://dbpedia.org/resource/Category:Wars_involving_Nigeria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somalia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Uganda",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1380.5845"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_striped_mouse"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Striped Mouse",
+        "Muriculus",
+        "Muriculus imberbis",
+        "Mus imberbis",
+        "Striped-Back Mouse",
+        "Striped-back Mouse"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> striped mouse or striped-back mouse (Muriculus imberbis) is a species of rodent in"
+      ],
+      "label": [
+        "<B>Ethiopian</B> striped mouse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_striped_mouse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1842",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Mus_(rodent)",
+        "http://dbpedia.org/resource/Category:Old_World_rats_and_mice",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Eduard_Rüppell",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1373.2571"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1995_Constitution_of_Ethiopia"
+      ],
+      "redirectlabel": [
+        "1994 Constitution of <B>Ethiopia</B>",
+        "1995 <B>Ethiopian</B> Constitution",
+        "1995 <B>Ethiopian</B> constitution",
+        "Constitution of <B>Ethiopia</B>",
+        "Constitution of <B>Ethiopia</B> (1995)",
+        "Constitution of <B>ethiopia</B>",
+        "<B>Ethiopia's</B> constitution",
+        "<B>Ethiopian</B> Constitution of 1995",
+        "<B>Ethiopian</B> constitution",
+        "FDRE Constitution"
+      ],
+      "comment": [
+        "The current Constitution of <B>Ethiopia</B>, which is the supreme law of the Federal Democratic Republic"
+      ],
+      "label": [
+        "1995 Constitution of <B>Ethiopia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1995_Constitution_of_Ethiopia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_documents",
+        "http://dbpedia.org/resource/Category:1995_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1995_in_law",
+        "http://dbpedia.org/resource/Category:Constitutions_of_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1366.7213"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_movement"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Movement",
+        "<B>Ethiopianism</B>",
+        "<B>Ethiopianist</B>"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> movement is a religious movement that began in southern Africa towards the end of the"
+      ],
+      "label": [
+        "<B>Ethiopian</B> movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_movement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_initiated_churches",
+        "http://dbpedia.org/resource/Category:Anglicanism_in_South_Africa",
+        "http://dbpedia.org/resource/Category:History_of_Christianity_in_Africa",
+        "http://dbpedia.org/resource/Category:Wilberforce_University"
+      ]
+    },
+    {
+      "score": [
+        "1351.7548"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Ethiopian–Somali_wars_and_conflicts"
+      ],
+      "redirectlabel": [
+        "List of <B>Ethiopian</B>-Somali wars",
+        "List of <B>Ethiopian</B>-Somali wars and conflicts",
+        "List of <B>Ethiopian</B>-Somali wars en conflicts",
+        "List of Somali-<B>Ethiopian</B> wars and conflicts",
+        "Somalia-<B>Ethiopia</B> War"
+      ],
+      "comment": [
+        "For the historical war see <B>Ethiopian</B>-Adal War. The following is a list of <B>Ethiopian</B>-Somali wars and"
+      ],
+      "label": [
+        "List of <B>Ethiopian</B>–Somali wars and conflicts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Ethiopian–Somali_wars_and_conflicts"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopia_history-related_lists",
+        "http://dbpedia.org/resource/Category:Ethiopia–Somalia_relations",
+        "http://dbpedia.org/resource/Category:Somalia_history-related_lists",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ethiopia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Somalia"
+      ]
+    },
+    {
+      "score": [
+        "1340.3314"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Meqabyan"
+      ],
+      "redirectlabel": [
+        "1 Meqabyan",
+        "2 Meqabyan",
+        "3 Meqabyan",
+        "<B>Ethiopian</B> Maccabees",
+        "<B>Ethiopic</B> Maccabees",
+        "First Book of <B>Ethiopian</B> Maccabees",
+        "III Meqabyan",
+        "II Meqabyan",
+        "I Meqabyan",
+        "Makabian",
+        "Meqabyan 1",
+        "Meqabyan 2",
+        "Meqabyan 3",
+        "Meqabyan I",
+        "Meqabyan II",
+        "Meqabyan III",
+        "Mäqabeyan",
+        "Second Book of <B>Ethiopian</B> Maccabees",
+        "Third Book of <B>Ethiopian</B> Maccabees"
+      ],
+      "comment": [
+        " to as <B>Ethiopian</B> Maccabees and <B>Ethiopic</B> Maccabees, are three books found only in the <B>Ethiopian</B>"
+      ],
+      "label": [
+        "Meqabyan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Meqabyan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:5th-century_books",
+        "http://dbpedia.org/resource/Category:Books_of_the_Maccabees",
+        "http://dbpedia.org/resource/Category:Ge'ez_language",
+        "http://dbpedia.org/resource/Category:Works_of_unknown_authorship",
+        "http://dbpedia.org/resource/Category:Year_of_work_missing"
+      ]
+    },
+    {
+      "score": [
+        "1340.0974"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_604"
+      ],
+      "redirectlabel": [
+        "ET604",
+        "ETH604",
+        "ETH 604",
+        "ET 604",
+        "<B>Ethiopian</B> 604"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Airlines Flight 604 was a scheduled Addis Ababa–Bahir Dar–Asmara flight in which the"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Airlines Flight 604"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Airlines_Flight_604"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_disasters_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1988_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_737_Original",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_bird_strikes",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_involving_belly_landings",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_1988",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:September_1988_events_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1337.5576"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_Police_University_College"
+      ],
+      "redirectlabel": [
+        "Abba Dina",
+        "Abba Dina Police College",
+        "<B>Ethiopian</B> Police College",
+        "Imperial <B>Ethiopian</B> Police"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> Police University College Formerly Called Aba Dina Police College is a public"
+      ],
+      "label": [
+        "<B>Ethiopian</B> Police University College"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_Police_University_College"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1946",
+        "http://dbpedia.org/resource/Category:Law_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Police_academies",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1333.9717"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ethiopian_literature"
+      ],
+      "redirectlabel": [
+        "Axumite literature",
+        "Literature of <B>Ethiopia</B>",
+        "Medieval <B>Ethiopian</B> literature"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Literature dates from Ancient <B>Ethiopian</B> literature (around 300 AD) up until modern"
+      ],
+      "label": [
+        "<B>Ethiopian</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ethiopian_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_literature"
+      ]
+    },
+    {
+      "score": [
+        "1323.0773"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/October_2019_Ethiopian_clashes"
+      ],
+      "redirectlabel": [
+        "2019 <B>Ethiopian</B> clashes",
+        "2019 <B>Ethiopian</B> protests",
+        "2019 <B>Ethiopian</B> riots"
+      ],
+      "comment": [
+        "A nationwide series of violent protests, concentrated in the Oromia Region, broke out in <B>Ethiopia</B>"
+      ],
+      "label": [
+        "October 2019 <B>Ethiopian</B> clashes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/October_2019_Ethiopian_clashes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_murders_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:Attacks_in_Africa_in_2019",
+        "http://dbpedia.org/resource/Category:Ethiopian_civil_conflict_(2018–present)",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_2019",
+        "http://dbpedia.org/resource/Category:October_2019_crimes_in_Africa",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1306.2491"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Ethiopian_Airlines_destinations"
+      ],
+      "redirectlabel": [
+        "<B>Ethiopian</B> Airlines Destinations",
+        "<B>Ethiopian</B> Airlines destinations",
+        "<B>Ethiopian</B> airlines destinations"
+      ],
+      "comment": [
+        "<B>Ethiopian</B> Airlines is the flag carrier of <B>Ethiopia</B>; it was founded as <B>Ethiopian</B> Air Lines on 21"
+      ],
+      "label": [
+        "List of <B>Ethiopian</B> Airlines destinations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Ethiopian_Airlines_destinations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethiopian_Airlines",
+        "http://dbpedia.org/resource/Category:Lists_of_airline_destinations",
+        "http://dbpedia.org/resource/Category:Star_Alliance_destinations"
+      ]
+    },
+    {
+      "score": [
+        "1278.9712"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Derg"
+      ],
+      "redirectlabel": [
+        "Armed Forces Coordinated Committee",
+        "Coordinating Committee of the Armed Forces, Police, and Territorial Army",
+        "Dergue",
+        "<B>Ethiopian</B> revolution",
+        "Provisional Military Administrative Council",
+        "Provisional Military Government of Socialist <B>Ethiopia</B>",
+        "Socialist <B>Ethiopian</B> Liberation Army",
+        "Socialist <B>Ethiopian</B> Libration Army",
+        "The Derg",
+        "The Dergue",
+        "የኅብረተሰብአዊት ኢትዮጵያ ጊዜያዊ ወታደራዊ መንግሥት",
+        "ደርግ"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " Territorial Army by low-ranking officers of the <B>Ethiopian</B> Army and police led by Chairman Aman Andom"
+      ],
+      "label": [
+        "Derg"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Derg"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_establishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1980s_disestablishments_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1987_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:20th_century_in_Eritrea",
+        "http://dbpedia.org/resource/Category:20th_century_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Atheist_states",
+        "http://dbpedia.org/resource/Category:Communism_in_Eritrea",
+        "http://dbpedia.org/resource/Category:Communism_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Communist_states",
+        "http://dbpedia.org/resource/Category:Derg",
+        "http://dbpedia.org/resource/Category:Factions_of_the_Ethiopian_Civil_War",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Government_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Military_dictatorships",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1987",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1974",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "1277.4576"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2005_Ethiopian_general_election_violence"
+      ],
+      "redirectlabel": [
+        "2005 <B>Ethiopian</B> police massacres",
+        "<B>Ethiopian</B> police massacre",
+        "<B>Ethiopian</B> police massacres"
+      ],
+      "comment": [
+        "The <B>Ethiopian</B> police massacre refers to the killing of innocent people by government forces during"
+      ],
+      "label": [
+        "2005 <B>Ethiopian</B> general election violence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2005_Ethiopian_general_election_violence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_deaths",
+        "http://dbpedia.org/resource/Category:2005_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Addis_Ababa",
+        "http://dbpedia.org/resource/Category:Massacres_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Political_repression_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Politics_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Protest-related_deaths",
+        "http://dbpedia.org/resource/Category:Protests_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1272.3254"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2005_Ethiopian_general_election"
+      ],
+      "redirectlabel": [
+        "2005 <B>Ethiopian</B> general elections",
+        "<B>Ethiopian</B> general election, 2005",
+        "<B>Ethiopian</B> general elections, 2005"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "<B>Ethiopia</B> held general elections on May 15, 2005, for seats in both its national House of Peoples"
+      ],
+      "label": [
+        "2005 <B>Ethiopian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2005_Ethiopian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:2005_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:General_elections_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:May_2005_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Political_repression_in_Ethiopia"
+      ]
+    },
+    {
+      "score": [
+        "1267.9332"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Ethiopian_Art_Theatre"
+      ],
+      "redirectlabel": [
+        "Chicago Folk Theatre",
+        "Colored Folk Theatre",
+        "<B>Ethiopian</B> Art Theatre",
+        "The <B>Ethiopian</B> Art Theatre/Players"
+      ],
+      "label": [
+        "The <B>Ethiopian</B> Art Theatre"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Ethiopian_Art_Theatre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African-American_arts_organizations",
+        "http://dbpedia.org/resource/Category:African-American_theatre",
+        "http://dbpedia.org/resource/Category:Harlem_Renaissance",
+        "http://dbpedia.org/resource/Category:Theatre_companies_in_Chicago"
+      ]
+    }
+  ]
+}

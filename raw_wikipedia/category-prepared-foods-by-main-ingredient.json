@@ -1,0 +1,58 @@
+{
+  "warnings": {
+    "main": {
+      "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+    },
+    "parse": {
+      "*": "\"prop=sections\" is deprecated since MediaWiki 1.46. Use \"prop=tocdata\" instead."
+    }
+  },
+  "parse": {
+    "title": "Category:Prepared foods by main ingredient",
+    "pageid": 15752002,
+    "text": {
+      "*": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><style data-mw-deduplicate=\"TemplateStyles:r1317217337\">.mw-parser-output .cmbox{margin:3px 0;border:1px solid #a2a9b1;background-color:#dfe8ff;box-sizing:border-box;overflow-x:hidden;color:var(--color-base,#202122)}.mw-parser-output .cmbox-speedy{border:4px solid #b32424;background-color:#ffdbdb}.mw-parser-output .cmbox-delete{background-color:#ffdbdb}.mw-parser-output .cmbox-content{background-color:#ffe7ce}.mw-parser-output .cmbox-style{background-color:#fff9db}.mw-parser-output .cmbox-move{background-color:#e4d8ff}.mw-parser-output .cmbox-protection{background-color:#efefe1}.mw-parser-output .cmbox .mbox-text{padding:0.35em 1em;flex:1 1 100%}.mw-parser-output .cmbox .mbox-image,.mw-parser-output .cmbox .mbox-imageright{padding:4px 2px;text-align:center;flex:none}.mw-parser-output .mbox-invalid-type{text-align:center}@media(min-width:480px){.mw-parser-output .cmbox{display:flex;align-items:center}.mw-parser-output .cmbox .mbox-image{padding-left:1em}.mw-parser-output .cmbox .mbox-imageright{padding-right:1em}}@media(min-width:640px){.mw-parser-output .cmbox{margin:3px 10%}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .cmbox{background-color:#0d1a27}html.skin-theme-clientpref-night .mw-parser-output .cmbox-speedy,html.skin-theme-clientpref-night .mw-parser-output .cmbox-delete{background-color:#300}html.skin-theme-clientpref-night .mw-parser-output .cmbox-content{background-color:#331a00}html.skin-theme-clientpref-night .mw-parser-output .cmbox-style{background-color:#332b00}html.skin-theme-clientpref-night .mw-parser-output .cmbox-move{background-color:#08001a}html.skin-theme-clientpref-night .mw-parser-output .cmbox-protection{background-color:#212112}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cmbox{background-color:#0d1a27}html.skin-theme-clientpref-os .mw-parser-output .cmbox-speedy,html.skin-theme-clientpref-os .mw-parser-output .cmbox-delete{background-color:#300}html.skin-theme-clientpref-os .mw-parser-output .cmbox-content{background-color:#331a00}html.skin-theme-clientpref-os .mw-parser-output .cmbox-style{background-color:#332b00}html.skin-theme-clientpref-os .mw-parser-output .cmbox-move{background-color:#08001a}html.skin-theme-clientpref-os .mw-parser-output .cmbox-protection{background-color:#212112}}</style><div class=\"plainlinks cmbox cmbox-notice\"><div class=\"mbox-image\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png\" decoding=\"async\" width=\"40\" height=\"40\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/120px-Information_icon4.svg.png 2x\" data-file-width=\"620\" data-file-height=\"620\" /></span></span></div><div class=\"mbox-text\">This is a <b><a href=\"/wiki/Category:Container_categories\" title=\"Category:Container categories\">container category</a></b>. Due to its scope, it should contain <i>only</i> <a href=\"/wiki/Wikipedia:Categorization#Subcategorization\" title=\"Wikipedia:Categorization\">subcategories</a>.</div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r1314755338\">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);color:inherit;display:flow-root}.mw-parser-output .infobox .side-box{font-size:100%}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:640px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate=\"TemplateStyles:r1311551236\">@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*=\"Wiktionary-logo-en-v2.svg\"]{filter:invert(1)brightness(55%)contrast(250%)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*=\"Wiktionary-logo-en-v2.svg\"]{filter:invert(1)brightness(55%)contrast(250%)hue-rotate(180deg)}}</style><div class=\"side-box side-box-right plainlinks sistersitebox\"><style data-mw-deduplicate=\"TemplateStyles:r1126788409\">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>\n<div class=\"side-box-flex\">\n<div class=\"side-box-image\"><span class=\"noviewer\" typeof=\"mw:File\"><a href=\"/wiki/File:Commons-logo.svg\" class=\"mw-file-description\"><img alt=\"Wikimedia Commons logo\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png\" decoding=\"async\" width=\"30\" height=\"40\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x\" data-file-width=\"1024\" data-file-height=\"1376\" /></a></span></div>\n<div class=\"side-box-text plainlist\">Wikimedia Commons has media related to <span style=\"font-weight: bold; font-style: italic;\"><a href=\"https://commons.wikimedia.org/wiki/Category:Food_by_main_ingredient\" class=\"extiw\" title=\"commons:Category:Food by main ingredient\">Food by main ingredient</a></span>.</div></div>\n</div>\n<!-- \nNewPP limit report\nParsed by mw‐web.eqiad.main‐6dbf997859‐wkj4z\nCached time: 20260402095342\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.109 seconds\nReal time usage: 0.155 seconds\nPreprocessor visited node count: 177/1000000\nRevision size: 160/2097152 bytes\nPost‐expand include size: 4184/2097152 bytes\nTemplate argument size: 499/2097152 bytes\nHighest expansion depth: 13/100\nExpensive parser function count: 0/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4227/5000000 bytes\nLua time usage: 0.072/10.000 seconds\nLua memory usage: 1388202/52428800 bytes\nNumber of Wikibase entities loaded: 0/500\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  144.998      1 -total\n 53.27%   77.242      1 Template:Commonscat\n 50.82%   73.688      1 Template:Sister_project\n 49.75%   72.140      1 Template:Side_box\n 46.66%   67.657      1 Template:Container\n 36.05%   52.266      1 Template:Cmbox\n  3.50%    5.082      1 Template:Single_namespace\n  3.46%    5.016      1 Template:Replace\n  1.43%    2.071      1 Template:Category_other\n-->\n\n<!-- Render ID d4b8dfd7-2e79-11f1-af68-bb98f5b133f1 -->\n\n<!-- Saved in parser cache with key enwiki:pcache:15752002:|#|:idhash:canonical and timestamp 20260402095342 and revision id 1212541642. Rendering was triggered because: page_view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "Container_categories"
+      },
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "Commons_category_link_is_on_Wikidata"
+      },
+      {
+        "sortkey": " ",
+        "*": "Foods"
+      },
+      {
+        "sortkey": "",
+        "*": "Cuisine"
+      },
+      {
+        "sortkey": " ",
+        "*": "Food_ingredients"
+      },
+      {
+        "sortkey": "",
+        "*": "Objects_by_material"
+      }
+    ],
+    "links": [
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Categorization"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "Category:Container categories"
+      }
+    ],
+    "sections": []
+  }
+}

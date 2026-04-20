@@ -1,0 +1,4305 @@
+{
+  "docs": [
+    {
+      "score": [
+        "11663.329"
+      ],
+      "refCount": [
+        "976"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Municipalities_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Municipality",
+        "<B>Colombian</B> municipality",
+        "List of <B>Colombian</B> Municipalities",
+        "Municipalities of <B>Columbia</B>"
+      ],
+      "comment": [
+        "The Municipalities of <B>Colombia</B> are decentralized subdivisions of the Republic of <B>Colombia</B>"
+      ],
+      "label": [
+        "Municipalities of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Municipalities_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Municipalities_of_Colombia",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "10198.77"
+      ],
+      "refCount": [
+        "999"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombia_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> national football team",
+        "<B>Colombian</B> soccer team",
+        "<B>Columbia</B> national football team",
+        "Los Cafeteros"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " in men's international football competitions and it's governed by the <B>Colombian</B> Football Federation"
+      ],
+      "label": [
+        "<B>Colombia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1938_establishments_in_Colombia",
+        "http://dbpedia.org/resource/Category:Colombia_national_football_team",
+        "http://dbpedia.org/resource/Category:Football_in_Colombia",
+        "http://dbpedia.org/resource/Category:South_American_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "9131.148"
+      ],
+      "refCount": [
+        "5378"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombia"
+      ],
+      "redirectlabel": [
+        "Agrado",
+        "<B>Colombiá</B>",
+        "<B>Columbia</B> (country)",
+        "Country of <B>Columbia</B>",
+        "El Agrado",
+        "Ethnic groups in <B>Colombia</B>",
+        "Etymology of <B>Colombia</B>",
+        "ISO 3166-1:CO",
+        "Name of <B>Colombia</B>",
+        "Republic of <B>Colombia</B>",
+        "Republic of <B>Columbia</B>",
+        "Republica de <B>Colombia</B>",
+        "República de <B>Colombia</B>",
+        "The Republic of <B>Colombia</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Colombia</B> ( () kə-LUM-bee-ə,  -⁠LOM-; Spanish: [koˈlombja] ()), officially the Republic of <B>Colombia</B>"
+      ],
+      "label": [
+        "<B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Andean_Community",
+        "http://dbpedia.org/resource/Category:Colombia",
+        "http://dbpedia.org/resource/Category:Constitutional_republics",
+        "http://dbpedia.org/resource/Category:Countries_in_South_America",
+        "http://dbpedia.org/resource/Category:Former_Spanish_colonies",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Spanish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1810",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "5718.6494"
+      ],
+      "refCount": [
+        "8419"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British_Columbia"
+      ],
+      "redirectlabel": [
+        "BC, Canada",
+        "BC Canada",
+        "BCer",
+        "British <B>Colombia</B>",
+        "British <B>Columbia</B>, Canada",
+        "British <B>Columbia</B> Province",
+        "British <B>Columbian</B>",
+        "British columba",
+        "British <B>columbia</B>",
+        "Brittish <B>columbia</B>",
+        "Brtish <B>Columbia</B>",
+        "CA-BC",
+        "<B>Colombie</B>-Britannique",
+        "<B>Columbia</B> Británica",
+        "Culture of British <B>Columbia</B>",
+        "Ecology of British <B>Columbia</B>",
+        "Fur trade in British <B>Columbia</B>",
+        "History of the indigenous peoples of British <B>Columbia</B>",
+        "La <B>Colombie</B>-Britannique",
+        "Pacific Canada",
+        "Province of British <B>Columbia</B>",
+        "Rail transport in British <B>Columbia</B>",
+        "Recreation in British <B>Columbia</B>",
+        "Transportation in British <B>Columbia</B>"
+      ],
+      "comment": [
+        "British <B>Columbia</B> (BC; French: <B>Colombie</B>-Britannique) is the westernmost province in Canada, located"
+      ],
+      "label": [
+        "British <B>Columbia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British_Columbia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1871_establishments_in_Canada",
+        "http://dbpedia.org/resource/Category:British_Columbia",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Pacific_Northwest",
+        "http://dbpedia.org/resource/Category:Provinces_and_territories_of_Canada",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1871",
+        "http://dbpedia.org/resource/Category:Western_Canada"
+      ]
+    },
+    {
+      "score": [
+        "4709.7314"
+      ],
+      "refCount": [
+        "161"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Liberal_Party"
+      ],
+      "redirectlabel": [
+        "Liberal Party (<B>Colombia</B>)",
+        "Liberal Party of <B>Colombia</B>",
+        "Partido Liberal <B>Colombiano</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Liberal Party (Spanish: Partido Liberal <B>Colombiano</B>; PLC) is a social democratic and"
+      ],
+      "label": [
+        "<B>Colombian</B> Liberal Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Liberal_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1848_establishments_in_the_Republic_of_New_Granada",
+        "http://dbpedia.org/resource/Category:Full_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:La_Violencia",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Colombia",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1848",
+        "http://dbpedia.org/resource/Category:Radical_parties",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Colombia",
+        "http://dbpedia.org/resource/Category:Social_liberal_parties"
+      ]
+    },
+    {
+      "score": [
+        "4109.339"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_conflict"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Armed Conflict",
+        "<B>Colombian</B> Armed Conflict (1960s-present)",
+        "<B>Colombian</B> Armed Conflict (1960s - present)",
+        "<B>Colombian</B> Armed Conflict (1960s–present)",
+        "<B>Colombian</B> Civil War (1960s-present)",
+        "<B>Colombian</B> Civil War (1960s–present)",
+        "<B>Colombian</B> Civil War (1964-present)",
+        "<B>Colombian</B> Civil War (1964–present)",
+        "<B>Colombian</B> Conflict",
+        "<B>Colombian</B> Drug War",
+        "<B>Colombian</B> Marxist insurgency",
+        "<B>Colombian</B> armed conflict",
+        "<B>Colombian</B> armed conflict (1960s-present)",
+        "<B>Colombian</B> armed conflict (1960s–present)",
+        "<B>Colombian</B> armed conflict (1964-present)",
+        "<B>Colombian</B> armed conflict (1964–present)",
+        "<B>Colombian</B> armed conflict (1966-present)",
+        "<B>Colombian</B> armed conflict (1966–present)",
+        "<B>Colombian</B> civil war (1964-present)",
+        "<B>Colombian</B> civil war (1964–present)",
+        "<B>Colombian</B> conflict (1964-present)",
+        "<B>Colombian</B> conflict (1964–present)",
+        "<B>Colombian</B> internal conflict",
+        "Economic impact of the <B>Colombian</B> conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> conflict (Spanish: Conflicto armado interno de <B>Colombia</B>) began in the mid-1960s and"
+      ],
+      "label": [
+        "<B>Colombian</B> conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_conflicts",
+        "http://dbpedia.org/resource/Category:20th_century_in_Colombia",
+        "http://dbpedia.org/resource/Category:21st-century_conflicts",
+        "http://dbpedia.org/resource/Category:21st_century_in_Colombia",
+        "http://dbpedia.org/resource/Category:Anti-communist_terrorism",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_South_America",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Colombian_conflict",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Communism_in_Colombia",
+        "http://dbpedia.org/resource/Category:Communist_rebellions",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2022",
+        "http://dbpedia.org/resource/Category:FARC",
+        "http://dbpedia.org/resource/Category:Guerrilla_wars",
+        "http://dbpedia.org/resource/Category:Military_history_of_Colombia",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Rebellions_in_South_America",
+        "http://dbpedia.org/resource/Category:Revolution-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "3773.779"
+      ],
+      "refCount": [
+        "300"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombia_national_under-20_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Colombia</B> U-20",
+        "<B>Colombia</B> national under-19 football team",
+        "<B>Colombia</B> national under-21 football team",
+        "<B>Colombian</B> U-20 National Football Team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " competitions and is overseen by the <B>Colombian</B> Football Federation. The team's most notable"
+      ],
+      "label": [
+        "<B>Colombia</B> national under-20 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombia_national_under-20_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_youth_sports_teams_of_Colombia",
+        "http://dbpedia.org/resource/Category:South_American_national_under-20_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "3529.0051"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Conservative_Party"
+      ],
+      "redirectlabel": [
+        "<B>Colombia</B> Conservative Party",
+        "Partido Conservador <B>Colombiano</B>",
+        "Partido conservador <B>colombiano</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Conservative Party (Spanish: Partido Conservador <B>Colombiano</B>) is a conservative"
+      ],
+      "label": [
+        "<B>Colombian</B> Conservative Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Conservative_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1849_establishments_in_the_Republic_of_New_Granada",
+        "http://dbpedia.org/resource/Category:Conservatism_in_Colombia",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Colombia",
+        "http://dbpedia.org/resource/Category:International_Democrat_Union_member_parties",
+        "http://dbpedia.org/resource/Category:La_Violencia",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1848"
+      ]
+    },
+    {
+      "score": [
+        "3428.543"
+      ],
+      "refCount": [
+        "73"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombians"
+      ],
+      "redirectlabel": [
+        "Angolan <B>Colombian</B>",
+        "Armenian <B>Colombians</B>",
+        "Asian <B>Colombian</B>",
+        "Asian <B>Colombians</B>",
+        "Austrian <B>Colombians</B>",
+        "Belgian <B>Colombians</B>",
+        "Brazilian <B>Colombians</B>",
+        "British <B>Colombian</B>",
+        "British <B>Colombians</B>",
+        "Chinese <B>Colombians</B>",
+        "<B>Colombian</B> People",
+        "<B>Colombian</B> people",
+        "<B>Colombianos</B>",
+        "<B>Colombians</B> in France",
+        "<B>Columbians</B>",
+        "Croatian <B>Colombians</B>",
+        "English <B>Colombian</B>",
+        "English <B>Colombians</B>",
+        "French-<B>Colombian</B>",
+        "Greek <B>Colombians</B>",
+        "Hungarian <B>Colombians</B>",
+        "Indian immigration to <B>Colombia</B>",
+        "Iranian <B>Colombians</B>",
+        "Irish <B>Colombians</B>",
+        "People of <B>Colombia</B>",
+        "Portuguese <B>Colombians</B>",
+        "Romanian <B>Colombians</B>",
+        "Russian <B>Colombians</B>",
+        "Scandinavian <B>Colombians</B>",
+        "Scottish <B>Colombian</B>",
+        "Scottish <B>Colombians</B>",
+        "Senegalese immigration to <B>Colombia</B>",
+        "Serbian <B>Colombians</B>",
+        "Swiss <B>Colombians</B>",
+        "Turkish <B>Colombians</B>",
+        "Ukrainian <B>Colombians</B>",
+        "Venezuelan <B>Colombians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " these connections exist and are collectively the source of their being <B>Colombian</B>. <B>Colombia</B> is a"
+      ],
+      "label": [
+        "<B>Colombians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_people",
+        "http://dbpedia.org/resource/Category:Society_of_Colombia",
+        "http://dbpedia.org/resource/Category:South_American_people_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "3298.2302"
+      ],
+      "refCount": [
+        "5210"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Columbia_Records"
+      ],
+      "redirectlabel": [
+        "30th Century Records",
+        "American Recordings Company",
+        "C2 Records",
+        "CBS Schallplatten",
+        "CBS Schallplatten GmbH",
+        "CMV Enterprises",
+        "<B>Colombia</B> Records",
+        "<B>Columbia</B>/CBS Records",
+        "<B>Columbia</B> (1982-onward)",
+        "<B>Columbia</B> (1982–onward)",
+        "<B>Columbia</B> (SME)",
+        "<B>Columbia</B> (Sony)",
+        "<B>Columbia</B> (record label)",
+        "<B>Columbia</B> (record lable)",
+        "<B>Columbia</B> Music Video",
+        "<B>Columbia</B> Nashville",
+        "<B>Columbia</B> Phonograph",
+        "<B>Columbia</B> Phonograph Co.",
+        "<B>Columbia</B> Phonograph Company, Inc.",
+        "<B>Columbia</B> Phonograph Company",
+        "<B>Columbia</B> Record Company",
+        "<B>Columbia</B> Recording Studio",
+        "<B>Columbia</B> record label",
+        "<B>Columbia</B> records",
+        "Mums Records",
+        "Private-I Records",
+        "Zelig Records"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "RecordLabel",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Columbia</B> Records is an American record label owned by Sony Music Entertainment, a subsidiary of"
+      ],
+      "label": [
+        "<B>Columbia</B> Records"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Columbia_Records"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/RecordLabel",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1889_establishments_in_New_York_(state)",
+        "http://dbpedia.org/resource/Category:American_companies_established_in_1889",
+        "http://dbpedia.org/resource/Category:American_country_music_record_labels",
+        "http://dbpedia.org/resource/Category:American_record_labels",
+        "http://dbpedia.org/resource/Category:Columbia_Records",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Manhattan",
+        "http://dbpedia.org/resource/Category:Contemporary_R&B_record_labels",
+        "http://dbpedia.org/resource/Category:Cylinder_record_producers",
+        "http://dbpedia.org/resource/Category:Entertainment_companies_based_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Hip_hop_record_labels",
+        "http://dbpedia.org/resource/Category:Jazz_record_labels",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Pop_record_labels",
+        "http://dbpedia.org/resource/Category:Record_labels_established_in_1889",
+        "http://dbpedia.org/resource/Category:Rhythm_and_blues_record_labels",
+        "http://dbpedia.org/resource/Category:Rock_record_labels",
+        "http://dbpedia.org/resource/Category:Sony_Music",
+        "http://dbpedia.org/resource/Category:Soundtrack_record_labels"
+      ]
+    },
+    {
+      "score": [
+        "2613.7693"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Navy"
+      ],
+      "redirectlabel": [
+        "ARC (Callsign)",
+        "Armada Nacional <B>Colombiana</B>",
+        "<B>Colombian</B> Armada",
+        "<B>Colombian</B> National Armada",
+        "<B>Colombian</B> National Navy",
+        "<B>Columbian</B> Navy",
+        "Escuela Naval Almirante Padilla",
+        "Gran <B>Colombia</B> Navy",
+        "History of the <B>Colombian</B> Navy",
+        "Navy of <B>Colombia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Navy, officially the <B>Colombian</B> National Navy (Spanish: Armada Nacional de la"
+      ],
+      "label": [
+        "<B>Colombian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_Navy",
+        "http://dbpedia.org/resource/Category:Military_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "2440.8325"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_cuisine"
+      ],
+      "redirectlabel": [
+        "Alcohol in <B>Colombia</B>",
+        "<B>Colombia</B> cuisine",
+        "<B>Colombian</B> desserts",
+        "<B>Colombian</B> food",
+        "Cuisine of <B>Colombia</B>",
+        "History of <B>Colombian</B> cuisine",
+        "List of <B>Colombian</B> cuisine dishes",
+        "List of <B>Colombian</B> dishes"
+      ],
+      "comment": [
+        "<B>Colombian</B> cuisine is a compound of the culinary traditions of the six main regions within the"
+      ],
+      "label": [
+        "<B>Colombian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2430.6714"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_parapolitics_scandal"
+      ],
+      "redirectlabel": [
+        "2006-2007 <B>Colombian</B> para-political scandal",
+        "2006-2007 <B>Colombian</B> parapolitics scandal",
+        "2006–2007 <B>Colombian</B> para-political scandal",
+        "2006–2007 <B>Colombian</B> parapolitics scandal",
+        "Para-political",
+        "Para-political scandal",
+        "Para-politics",
+        "Para political",
+        "Para politics",
+        "Paragate",
+        "Parapolitica",
+        "Parapolitica scandal",
+        "Parapolitical",
+        "Parapolitics",
+        "Parapolitics scandal",
+        "Parauribismo"
+      ],
+      "comment": [
+        " <B>Colombia</B> (AUC), a paramilitary group which is responsible for killing thousands of <B>Colombian</B> civilians."
+      ],
+      "label": [
+        "<B>Colombian</B> parapolitics scandal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_parapolitics_scandal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_parapolitics_scandal"
+      ]
+    },
+    {
+      "score": [
+        "2414.727"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Spanish"
+      ],
+      "redirectlabel": [
+        "Es-CO",
+        "Opita"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Colombian</B> Spanish (Spanish: español <B>colombiano</B> or castellano <B>colombiano</B>) is a grouping of the"
+      ],
+      "label": [
+        "<B>Colombian</B> Spanish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Spanish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_culture",
+        "http://dbpedia.org/resource/Category:Languages_of_Colombia",
+        "http://dbpedia.org/resource/Category:Spanish_Colombian",
+        "http://dbpedia.org/resource/Category:Spanish_dialects_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2401.9126"
+      ],
+      "refCount": [
+        "3153"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Columbia_University"
+      ],
+      "redirectlabel": [
+        "Augustus C. Long Health Sciences Library - <B>Columbia</B> University",
+        "CMUNNY",
+        "<B>Colombia</B> University",
+        "<B>Colombia</B> university",
+        "Columbia.edu",
+        "<B>Columbia</B>: A Journal of Literature and Art",
+        "<B>Columbia</B> (university)",
+        "<B>Columbia</B> Journal",
+        "<B>Columbia</B> U",
+        "<B>Columbia</B> Uni",
+        "<B>Columbia</B> Univ.",
+        "<B>Columbia</B> University African American and African Diaspora Studies",
+        "<B>Columbia</B> University Department of Statistics",
+        "<B>Columbia</B> University Graduate School of Arts and Sciences",
+        "<B>Columbia</B> University in New York",
+        "<B>Columbia</B> University in the City of New York",
+        "<B>Columbia</B> journal",
+        "<B>Columbia</B> lit journal",
+        "<B>Columbia</B> literary journal",
+        "<B>Columbia</B> university",
+        "Harmony Hall (<B>Columbia</B> University)",
+        "John Jay Scholar",
+        "John Jay Scholars",
+        "Kellett Fellowship",
+        "Kent Hall",
+        "King's college (New York)",
+        "Kings College, New York",
+        "Math.columbia.edu",
+        "Taiwan Focus",
+        "Teachers College, <B>Columbia</B> University, Tokyo",
+        "The <B>Columbia</B> Review",
+        "Univeristy of <B>Columbia</B>",
+        "University of <B>Columbia</B>",
+        "University of Havana North",
+        "World Leaders Forum"
+      ],
+      "comment": [
+        "<B>Columbia</B> University (also known as <B>Columbia</B>, and officially as <B>Columbia</B> University in the City of"
+      ],
+      "label": [
+        "<B>Columbia</B> University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Columbia_University"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1754_establishments_in_the_Province_of_New_York",
+        "http://dbpedia.org/resource/Category:Colonial_colleges",
+        "http://dbpedia.org/resource/Category:Columbia_University",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1754",
+        "http://dbpedia.org/resource/Category:McKim,_Mead_&_White_buildings",
+        "http://dbpedia.org/resource/Category:New_York_(state)_in_the_American_Revolution",
+        "http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Manhattan"
+      ]
+    },
+    {
+      "score": [
+        "2304.805"
+      ],
+      "refCount": [
+        "2760"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Columbia_Pictures"
+      ],
+      "redirectlabel": [
+        "A <B>Columbia</B> Production",
+        "Amelia Batchler",
+        "C.B.C. Film Sales",
+        "CPII",
+        "Cohn-Brandt-Cohn Film Sales",
+        "<B>Colombia</B> Pictures",
+        "<B>Columbia</B> (British) Productions",
+        "<B>Columbia</B> (production)",
+        "<B>Columbia</B> British Productions",
+        "<B>Columbia</B> Film-Verleih",
+        "<B>Columbia</B> Film",
+        "<B>Columbia</B> Films",
+        "<B>Columbia</B> Pictures (Sony Pictures)",
+        "<B>Columbia</B> Pictures Corp. of Calif. LTD.",
+        "<B>Columbia</B> Pictures Corporation",
+        "<B>Columbia</B> Pictures Entertainment",
+        "<B>Columbia</B> Pictures Entertainment Inc.",
+        "<B>Columbia</B> Pictures Indsutries, Inc.",
+        "<B>Columbia</B> Pictures Industries, Inc.",
+        "<B>Columbia</B> Pictures Industries",
+        "<B>Columbia</B> Pictures Industries Inc.",
+        "<B>Columbia</B> Pictures Publications",
+        "<B>Columbia</B> Productions",
+        "<B>Columbia</B> Studios",
+        "<B>Columbia</B> Tri-Star",
+        "<B>Columbia</B> Tristar Pictures",
+        "<B>Columbia</B> films",
+        "<B>Columbia</B> pictures",
+        "History of <B>Columbia</B> Pictures",
+        "RCA <B>Columbia</B> Pictures",
+        "The CBC Film Sales Corporation",
+        "Torch Lady",
+        "Torch Lady (<B>Columbia</B>)",
+        "Torch Lady (<B>Columbia</B> Pictures)"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Columbia</B> Pictures Industries, Inc. (commonly known as <B>Columbia</B> Pictures or simply <B>Columbia</B>) is an"
+      ],
+      "label": [
+        "<B>Columbia</B> Pictures"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Columbia_Pictures"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_establishments_in_California",
+        "http://dbpedia.org/resource/Category:1924_establishments_in_California",
+        "http://dbpedia.org/resource/Category:1982_mergers_and_acquisitions",
+        "http://dbpedia.org/resource/Category:1989_mergers_and_acquisitions",
+        "http://dbpedia.org/resource/Category:Academy_Award_for_Technical_Achievement_winners",
+        "http://dbpedia.org/resource/Category:American_brands",
+        "http://dbpedia.org/resource/Category:Coca-Cola_acquisitions",
+        "http://dbpedia.org/resource/Category:Columbia_Pictures",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Culver_City,_California",
+        "http://dbpedia.org/resource/Category:Entertainment_companies_based_in_California",
+        "http://dbpedia.org/resource/Category:Entertainment_companies_established_in_1918",
+        "http://dbpedia.org/resource/Category:Entertainment_companies_established_in_1924",
+        "http://dbpedia.org/resource/Category:Film_distributors_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Film_production_companies_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Film_studios_in_Southern_California",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1918",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1924",
+        "http://dbpedia.org/resource/Category:Sony_Pictures_Entertainment",
+        "http://dbpedia.org/resource/Category:Sony_Pictures_Entertainment_Motion_Picture_Group",
+        "http://dbpedia.org/resource/Category:Sony_subsidiaries"
+      ]
+    },
+    {
+      "score": [
+        "2251.1052"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Time_in_Colombia"
+      ],
+      "redirectlabel": [
+        "America/Bogota",
+        "<B>Colombia</B> Summer Time",
+        "<B>Colombia</B> Time",
+        "<B>Colombian</B> time"
+      ],
+      "comment": [
+        "<B>Colombia</B> has one time zone, <B>Colombia</B> Time (COT), which is located in the UTC−05:00 zone, 5 hours"
+      ],
+      "label": [
+        "Time in <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Time_in_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Colombia",
+        "http://dbpedia.org/resource/Category:Time_zones"
+      ]
+    },
+    {
+      "score": [
+        "2130.026"
+      ],
+      "refCount": [
+        "6329"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Washington,_D.C."
+      ],
+      "redirectlabel": [
+        "American Federal District",
+        "Capital of the USA",
+        "Climate of Washington, D.C.",
+        "D.C. Washington",
+        "DC Washington",
+        "Dist. of <B>Columbia</B>",
+        "Distict of <B>Columbia</B>",
+        "Distric of <B>Columbia</B>",
+        "Distric of <B>colombia</B>",
+        "District Of <B>Columbia</B>",
+        "District of <B>Columbia</B>, District of <B>Columbia</B>",
+        "District of <B>Columbia</B>, United States",
+        "District of <B>Columbia</B>",
+        "District of <B>Columbia</B> County, DC",
+        "District of <B>columbia</B>",
+        "Districtofcolumbia",
+        "Economy of Washington, D.C.",
+        "Economy of the District of <B>Columbia</B>",
+        "Education in DC",
+        "Education in Washington, D.C.",
+        "Federal district (United States)",
+        "Government of D.C.",
+        "Higher education in Washington, D.C.",
+        "L'Enfant City",
+        "The District of <B>Columbia</B>",
+        "UN/LOCODE:USWAS",
+        "US-DC",
+        "United States Capital",
+        "United States Federal District",
+        "United States capital",
+        "Us capital",
+        "WA DC",
+        "Wahington D.C",
+        "Wash, D.C.",
+        "Wash, DC",
+        "Wash., D.C.",
+        "Wash. D.C.",
+        "Wash. DC",
+        "Wash DC",
+        "Washingotn, DC",
+        "Washington,D.C",
+        "Washington, D.C., USA",
+        "Washington, D.C., United States",
+        "Washington, D.C",
+        "Washington, D. C.",
+        "Washington, D.c.",
+        "Washington, DC.",
+        "Washington, DC",
+        "Washington, D C",
+        "Washington, Dc",
+        "Washington, District Of <B>Columbia</B>",
+        "Washington, District of <B>Columbia</B>",
+        "Washington, US-DC",
+        "Washington, dc",
+        "Washington-DC",
+        "Washington (D.C.)",
+        "Washington (DC)",
+        "Washington (District of <B>Columbia</B>)",
+        "Washington (city)",
+        "Washington City",
+        "Washington D.C.",
+        "Washington D.C",
+        "Washington D. C.",
+        "Washington DC, USA",
+        "Washington DC, United States of America",
+        "Washington DC.",
+        "Washington DC",
+        "Washington Dc",
+        "Washington District of <B>Columbia</B>",
+        "Washington city",
+        "Washington d.c",
+        "Washington dc",
+        "Washingtondc",
+        "Wasington, DC",
+        "Wasington D.C.",
+        "Wasington DC"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Washington, D.C., () formally the District of <B>Columbia</B> and commonly referred to as D.C., Washington"
+      ],
+      "label": [
+        "Washington, D.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Washington,_D.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1790_establishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Capitals_in_North_America",
+        "http://dbpedia.org/resource/Category:Contiguous_United_States",
+        "http://dbpedia.org/resource/Category:Members_of_the_Unrepresented_Nations_and_Peoples_Organization",
+        "http://dbpedia.org/resource/Category:Mid-Atlantic_states",
+        "http://dbpedia.org/resource/Category:Northeastern_United_States",
+        "http://dbpedia.org/resource/Category:Planned_capitals",
+        "http://dbpedia.org/resource/Category:Planned_cities_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Political_divisions_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1790",
+        "http://dbpedia.org/resource/Category:Populated_places_on_the_Potomac_River",
+        "http://dbpedia.org/resource/Category:Southern_United_States",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1790",
+        "http://dbpedia.org/resource/Category:Washington,_D.C.",
+        "http://dbpedia.org/resource/Category:Washington_metropolitan_area"
+      ]
+    },
+    {
+      "score": [
+        "2107.583"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_necktie"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Necktie",
+        "<B>Colombian</B> Tie",
+        "<B>Colombian</B> necklace",
+        "<B>Columbian</B> neck-tie",
+        "<B>Columbian</B> necktie",
+        "Cuban necktie",
+        "Italian necktie",
+        "Sicilian Necktie",
+        "Sicilian necktie",
+        "The <B>Colombian</B> Tie"
+      ],
+      "comment": [
+        "A <B>Colombian</B> necktie (Spanish: corbata <B>colombiana</B>) is a method of execution by mutilation used in"
+      ],
+      "label": [
+        "<B>Colombian</B> necktie"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_necktie"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Execution_methods",
+        "http://dbpedia.org/resource/Category:La_Violencia"
+      ]
+    },
+    {
+      "score": [
+        "2078.4363"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Civil_Aviation_Authority"
+      ],
+      "redirectlabel": [
+        "Aerocivil",
+        "AerocivilCol",
+        "Aerocivil de <B>Colombia</B>",
+        "Aeronautica Civil, Republica de <B>Colombia</B>",
+        "Aeronautica Civil",
+        "Aeronáutica Civil",
+        "Autoridad de la Aviacion Civil <B>Colombiana</B>",
+        "Autoridad de la Aviación Civil <B>Colombiana</B>",
+        "Civil Aviation Authority of <B>Colombia</B>",
+        "<B>Colombian</B> Aeronautica Civil",
+        "<B>Colombian</B> Aeronautical Authority",
+        "<B>Colombian</B> Civil Aeronautical Authority",
+        "<B>Colombian</B> Civil Aviation authority",
+        "<B>Colombian</B> aeronautical authority",
+        "Special Administrative Unit of Civil Aeronautics",
+        "UAEAC",
+        "Unidad Administrativa Especial de Aeronautica Civil",
+        "Unidad Administrativa Especial de Aeronáutica Civil"
+      ],
+      "label": [
+        "<B>Colombian</B> Civil Aviation Authority"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Civil_Aviation_Authority"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Aviation_organisations_based_in_Colombia",
+        "http://dbpedia.org/resource/Category:Civil_aviation_authorities_in_South_America",
+        "http://dbpedia.org/resource/Category:Civil_aviation_in_Colombia",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Colombia",
+        "http://dbpedia.org/resource/Category:Ministry_of_Transport_(Colombia)",
+        "http://dbpedia.org/resource/Category:Organizations_investigating_aviation_accidents_and_incidents"
+      ]
+    },
+    {
+      "score": [
+        "1969.226"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Colombia</B>",
+        "Fuerza Aerea <B>Colombiana</B>",
+        "Fuerza Aérea <B>Colombiana</B>",
+        "Fuerza Aérea de <B>Colombia</B>",
+        "History of the <B>Colombian</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Air Force or FAC (Spanish: Fuerza Aérea <B>Colombiana</B>) is the Air Force of the Republic"
+      ],
+      "label": [
+        "<B>Colombian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1950.3109"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B>-American",
+        "<B>Colombian</B> American",
+        "<B>Colombians</B> in the United States",
+        "Demographics of <B>Colombian</B> Americans",
+        "History of <B>Colombian</B> Americans",
+        "Socioeconomic status of <B>Colombian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " <B>Colombia</B>. The word may refer to someone born in the U.S. of full or partial <B>Colombian</B> descent or to"
+      ],
+      "label": [
+        "<B>Colombian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Colombian_descent",
+        "http://dbpedia.org/resource/Category:Colombian_American",
+        "http://dbpedia.org/resource/Category:Colombia–United_States_relations",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American"
+      ]
+    },
+    {
+      "score": [
+        "1925.3693"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Military_ranks_of_the_Colombian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> armed forces insignias",
+        "<B>Columbian</B> military insignias",
+        "Insignias of <B>colombian</B> military",
+        "Military insignias of <B>Colombia</B>",
+        "Military ranking of <B>Colombia</B>",
+        "Military ranks of <B>Colombia</B>",
+        "Military ranks of the <B>Colombian</B> Air Force",
+        "Military ranks of the <B>Colombian</B> Armed Forces/Air Force",
+        "Military ranks of the <B>Colombian</B> Armed Forces/Army",
+        "Military ranks of the <B>Colombian</B> Armed Forces/Navy",
+        "Military ranks of the <B>Colombian</B> Army",
+        "Military ranks of the <B>Colombian</B> Navy",
+        "Ranking insignias of <B>Colombia</B>"
+      ],
+      "comment": [
+        "The Military ranks of the <B>Colombian</B> armed forces consist of the list and ordering of the different"
+      ],
+      "label": [
+        "Military ranks of the <B>Colombian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Military_ranks_of_the_Colombian_Armed_Forces"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_ranks_by_country",
+        "http://dbpedia.org/resource/Category:Military_ranks_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1781.0172"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Categoría_Primera_A"
+      ],
+      "redirectlabel": [
+        "2004-II",
+        "Campeonato Profesional",
+        "Categoria Primera A",
+        "<B>Colombian</B> Primera A",
+        "<B>Colombian</B> Professional Football",
+        "<B>Colombian</B> Professional football",
+        "<B>Colombian</B> Professional football (soccer)",
+        "Copa Mustang",
+        "Futbol Profesional <B>Colombiano</B>",
+        "Fútbol Profesional <B>Colombiano</B>",
+        "Liga Postobon I",
+        "Liga Postobón",
+        "Liga Águila",
+        "Mustang Cup",
+        "Primera Division de <B>Colombia</B>",
+        "Primera División de <B>Colombia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " company , is a <B>Colombian</B> professional league for association football clubs. It is the country's premier"
+      ],
+      "label": [
+        "Categoría Primera A"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Categoría_Primera_A"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Colombia",
+        "http://dbpedia.org/resource/Category:Categoría_Primera_A",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Colombia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1948",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1753.6543"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Colombians"
+      ],
+      "redirectlabel": [
+        "African <B>Colombian</B>",
+        "African <B>Colombians</B>",
+        "Afro-<B>Colombian</B>",
+        "Afro <B>Colombian</B>",
+        "Afro <B>Colombians</B>",
+        "Afro <B>colombian</B>",
+        "Afrocolombian",
+        "Angolan <B>Colombians</B>",
+        "Senegalese <B>Colombian</B>",
+        "Senegalese <B>Colombians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Colombians</B> or Afrocolombianos are <B>Colombians</B> of West African descent."
+      ],
+      "label": [
+        "Afro-<B>Colombians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Colombians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Colombian",
+        "http://dbpedia.org/resource/Category:Colombian_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Society_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1720.9408"
+      ],
+      "refCount": [
+        "50"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Gran_Colombia"
+      ],
+      "redirectlabel": [
+        "1819 Republic of <B>Colombia</B>",
+        "Confederation of Gran <B>Colombia</B>",
+        "Gran <B>Colombian</B>",
+        "Gran <B>columbia</B>",
+        "Grand <B>Colombia</B>",
+        "Grand <B>colombia</B>",
+        "Great <B>Colombia</B>",
+        "Greater <B>Colombia</B>",
+        "Republic of Gran <B>Colombia</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Gran <B>Colombia</B> (Spanish pronunciation: [ˈɡɾaŋ koˈlombja] (), \"Greater <B>Colombia</B>\") is the name"
+      ],
+      "label": [
+        "Gran <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Gran_Colombia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1819_establishments_in_Gran_Colombia",
+        "http://dbpedia.org/resource/Category:1820s_in_Gran_Colombia",
+        "http://dbpedia.org/resource/Category:1821_establishments_in_Gran_Colombia",
+        "http://dbpedia.org/resource/Category:1830s_in_Gran_Colombia",
+        "http://dbpedia.org/resource/Category:1831_disestablishments_in_Gran_Colombia",
+        "http://dbpedia.org/resource/Category:19th_century_in_Colombia",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Central_America",
+        "http://dbpedia.org/resource/Category:Former_countries_in_South_America",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:Gran_Colombia",
+        "http://dbpedia.org/resource/Category:History_of_Colombia",
+        "http://dbpedia.org/resource/Category:History_of_Ecuador",
+        "http://dbpedia.org/resource/Category:History_of_Panama",
+        "http://dbpedia.org/resource/Category:History_of_South_America",
+        "http://dbpedia.org/resource/Category:History_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Irredentism",
+        "http://dbpedia.org/resource/Category:Pan-Americanism",
+        "http://dbpedia.org/resource/Category:Spanish_American_wars_of_independence",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1831",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1821"
+      ]
+    },
+    {
+      "score": [
+        "1720.2599"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Colombia</B>",
+        "Art of <B>colombia</B>",
+        "<B>Colombian</B> Art",
+        "<B>Colombian</B> sculpture",
+        "Pre-<B>Columbian</B> sculpture in <B>Colombia</B>",
+        "Visual art of <B>Colombia</B>"
+      ],
+      "comment": [
+        "<B>Colombian</B> art has 3500 years of history and covers a wide range of media and styles ranging from"
+      ],
+      "label": [
+        "<B>Colombian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Colombian_art"
+      ]
+    },
+    {
+      "score": [
+        "1701.4797"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Army_of_Colombia"
+      ],
+      "redirectlabel": [
+        "Army of <B>Colombia</B>",
+        "<B>Colombian</B> Army",
+        "<B>Colombian</B> National Army",
+        "<B>Colombian</B> army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The National Army of <B>Colombia</B> (Spanish: Ejército Nacional de <B>Colombia</B>) is the land warfare service"
+      ],
+      "label": [
+        "National Army of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Army_of_Colombia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Colombia",
+        "http://dbpedia.org/resource/Category:National_Army_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1691.174"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Civil_War_(1860–1862)"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Civil War (1860-1862)",
+        "<B>Colombian</B> Civil War (1860-62)",
+        "<B>Colombian</B> Civil War (1860–62)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Civil War began on May 8, 1860, and lasted until November 1862. It was an internal"
+      ],
+      "label": [
+        "<B>Colombian</B> Civil War (1860–1862)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Civil_War_(1860–1862)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1860_in_the_Granadine_Confederation",
+        "http://dbpedia.org/resource/Category:1861_in_the_Granadine_Confederation",
+        "http://dbpedia.org/resource/Category:1862_in_the_Granadine_Confederation",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_South_America",
+        "http://dbpedia.org/resource/Category:Civil_wars_of_the_Industrial_era",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1860",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1861",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1862",
+        "http://dbpedia.org/resource/Category:Granadine_Confederation",
+        "http://dbpedia.org/resource/Category:Military_history_of_Colombia",
+        "http://dbpedia.org/resource/Category:Rebellions_in_South_America",
+        "http://dbpedia.org/resource/Category:Revolution-based_civil_wars"
+      ]
+    },
+    {
+      "score": [
+        "1639.4128"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Classic"
+      ],
+      "redirectlabel": [
+        "Arturo Calle <B>Colombian</B> Classic",
+        "Arturo Calle <B>Colombian</B> Coffee Classic",
+        "<B>Colombia</B> Classic",
+        "Fortox <B>Colombia</B> Classic",
+        "Holcim <B>Colombia</B> Classic",
+        "Volvo <B>Colombian</B> Classic"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        " Latinoamérica from 26 November to 2 December 2012 as the \"Arturo Calle <B>Colombian</B> Coffee Classic Presentado"
+      ],
+      "label": [
+        "<B>Colombian</B> Classic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Classic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Colombia",
+        "http://dbpedia.org/resource/Category:PGA_Tour_Latinoamérica_events",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_disestablished_in_2016",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_2012"
+      ]
+    },
+    {
+      "score": [
+        "1610.8218"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Colombian_rainy_season"
+      ],
+      "redirectlabel": [
+        "2010 <B>Colombia</B> floods",
+        "2010 <B>colombian</B> floods",
+        "2010 floods in <B>Columbia</B>",
+        "<B>Colombian</B> floods of 2010",
+        "<B>Colombian</B> winter disaster of 2010",
+        "<B>Columbia</B> floods 2010",
+        "<B>Columbian</B> floods 2010",
+        "The 2010 <B>Colombia</B> floods"
+      ],
+      "comment": [
+        "The 2010 <B>Colombian</B> rainy season was an unusually heavy wet season that affected <B>Colombia</B> during the"
+      ],
+      "label": [
+        "2010 <B>Colombian</B> rainy season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Colombian_rainy_season"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_floods",
+        "http://dbpedia.org/resource/Category:2010_in_Colombia",
+        "http://dbpedia.org/resource/Category:Antioquia_Department",
+        "http://dbpedia.org/resource/Category:Atlántico_Department",
+        "http://dbpedia.org/resource/Category:Bogotá",
+        "http://dbpedia.org/resource/Category:Bolívar_Department",
+        "http://dbpedia.org/resource/Category:Cundinamarca_Department",
+        "http://dbpedia.org/resource/Category:Córdoba_Department",
+        "http://dbpedia.org/resource/Category:Floods_in_Colombia",
+        "http://dbpedia.org/resource/Category:La_Guajira_Department",
+        "http://dbpedia.org/resource/Category:Landslides_in_2010",
+        "http://dbpedia.org/resource/Category:Landslides_in_Colombia",
+        "http://dbpedia.org/resource/Category:Natural_disasters_in_Colombia",
+        "http://dbpedia.org/resource/Category:Norte_de_Santander_Department"
+      ]
+    },
+    {
+      "score": [
+        "1597.3247"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_emeralds"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Emerald Trade",
+        "<B>Colombian</B> Emeralds",
+        "<B>Colombian</B> emerald trade"
+      ],
+      "comment": [
+        ", fine and extra fine quality emeralds are extremely rare. <B>Colombian</B> emeralds over 50 carat can cost much more than diamonds of the same size."
+      ],
+      "label": [
+        "<B>Colombian</B> emeralds"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_emeralds"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_emeralds"
+      ]
+    },
+    {
+      "score": [
+        "1569.6389"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_peace_process"
+      ],
+      "redirectlabel": [
+        "2012-2016 <B>Colombian</B> peace process",
+        "<B>Colombian</B> peace process (2012-2016)",
+        "<B>Colombian</B> peace process (2012–2016)",
+        "FARC peace deal"
+      ],
+      "comment": [
+        "The <B>Colombian</B> peace process refers to the peace process between the <B>Colombian</B> government of"
+      ],
+      "label": [
+        "<B>Colombian</B> peace process"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_peace_process"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Colombia",
+        "http://dbpedia.org/resource/Category:2012_in_Colombia",
+        "http://dbpedia.org/resource/Category:2013_in_Colombia",
+        "http://dbpedia.org/resource/Category:2014_in_Colombia",
+        "http://dbpedia.org/resource/Category:2015_in_Colombia",
+        "http://dbpedia.org/resource/Category:Colombian_conflict",
+        "http://dbpedia.org/resource/Category:Colombian_peace_process",
+        "http://dbpedia.org/resource/Category:FARC"
+      ]
+    },
+    {
+      "score": [
+        "1550.0419"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Colombia</B> citizenship",
+        "<B>Colombia</B> nationality law",
+        "<B>Colombian</B> citizenship",
+        "History of <B>Colombian</B> nationality law"
+      ],
+      "comment": [
+        "<B>Colombian</B> nationality is typically obtained by birth in <B>Colombia</B> when one of the parents is either"
+      ],
+      "label": [
+        "<B>Colombian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_of_Colombia",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1544.9185"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_peso"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Peso",
+        "ISO 4217:COP",
+        "ISO 4217:COU",
+        "Peso <B>colombiano</B>",
+        "Unidad de Valor Real"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The peso is the currency of <B>Colombia</B>. Its ISO 4217 code is COP. The official peso symbol is $, with"
+      ],
+      "label": [
+        "<B>Colombian</B> peso"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_peso"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1837_introductions",
+        "http://dbpedia.org/resource/Category:Currencies_of_South_America",
+        "http://dbpedia.org/resource/Category:Finance_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1520.202"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Colombian_regional_elections"
+      ],
+      "redirectlabel": [
+        "2007 <B>Colombian</B> regional election",
+        "<B>Colombian</B> election, 2007",
+        "<B>Colombian</B> elections, 2007",
+        "<B>Colombian</B> legislative election, 2007",
+        "<B>Colombian</B> regional election, 2007",
+        "<B>Colombian</B> regional elections, 2007"
+      ],
+      "comment": [
+        "The <B>Colombian</B> elections of 2007 (Spanish: Elecciones regionales de <B>Colombia</B>, 2007) refers to the"
+      ],
+      "label": [
+        "2007 <B>Colombian</B> regional elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Colombian_regional_elections"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:2007_in_Colombia",
+        "http://dbpedia.org/resource/Category:Regional_and_municipal_elections_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1519.0629"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2020_Colombian_protests"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Colombian</B> protests",
+        "2019-20 <B>Colombian</B> protests",
+        "2019 <B>Colombian</B> protests",
+        "2019–20 <B>Colombian</B> protests",
+        "2019—20 <B>Colombian</B> protests",
+        "Javier Ordonez protests",
+        "Javier Ordóñez"
+      ],
+      "label": [
+        "2019–2020 <B>Colombian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2020_Colombian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_in_Colombia",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Colombia",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:Colombian_peace_process",
+        "http://dbpedia.org/resource/Category:November_2019_crimes_in_South_America",
+        "http://dbpedia.org/resource/Category:November_2019_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Protests_against_police_brutality",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1500.2819"
+      ],
+      "refCount": [
+        "2833"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Vancouver"
+      ],
+      "redirectlabel": [
+        "Arts and culture of Vancouver",
+        "City of Vancouver",
+        "Corpus Christi Elementary",
+        "Corpus Christi Elementary School (Canada)",
+        "Education in Vancouver",
+        "Food in vancouver",
+        "Geography of Vancouver",
+        "Greater Vancouver Bridges",
+        "Hastings East (Vancouver)",
+        "Hong couver",
+        "Hong kouver",
+        "South Vancouver, British <B>Columbia</B>",
+        "UN/LOCODE:CAVAN",
+        "Vancouver, B.C., Canada",
+        "Vancouver, B.C.",
+        "Vancouver, B. C.",
+        "Vancouver, BC, Canada",
+        "Vancouver, BC",
+        "Vancouver, British-<B>Columbia</B>",
+        "Vancouver, British <B>Colombia</B>",
+        "Vancouver, British <B>Columbia</B>, Canada",
+        "Vancouver, British <B>Columbia</B>",
+        "Vancouver, Canada",
+        "Vancouver, bc",
+        "Vancouver (B.C.)",
+        "Vancouver (BC)",
+        "Vancouver (Canada)",
+        "Vancouver B.C.",
+        "Vancouver BC",
+        "Vancouver British <B>Columbia</B>",
+        "Vancouver Canada",
+        "Vancouver Christian School",
+        "Vancouver City Centre, British <B>Columbia</B>",
+        "Vancouverite",
+        "Vancouverites",
+        "Vancouvr",
+        "Vancover, British <B>Columbia</B>",
+        "Vancover",
+        "Vanocuver",
+        "Vansterdam"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " of British <B>Columbia</B>. As the most populous city in the province, the 2016 census recorded 631,486"
+      ],
+      "label": [
+        "Vancouver"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Vancouver"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1886_establishments_in_British_Columbia",
+        "http://dbpedia.org/resource/Category:Cities_in_British_Columbia",
+        "http://dbpedia.org/resource/Category:Populated_coastal_places_in_Canada",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1886",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Greater_Vancouver",
+        "http://dbpedia.org/resource/Category:Populated_places_on_the_Fraser_River",
+        "http://dbpedia.org/resource/Category:Port_cities_and_towns_on_the_Canadian_Pacific_coast",
+        "http://dbpedia.org/resource/Category:Vancouver"
+      ]
+    },
+    {
+      "score": [
+        "1471.5033"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Naval_Infantry"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Marine Corps",
+        "<B>Colombian</B> Marine Infantry",
+        "<B>Colombian</B> marines",
+        "Infanteria de Marina <B>Colombiana</B>",
+        "Infantería de Marina <B>Colombiana</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " Marina <B>Colombiana</B>) is the marine force of the <B>Colombian</B> National Armada. The 24,000-member <B>Colombian</B>"
+      ],
+      "label": [
+        "<B>Colombian</B> Naval Infantry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Naval_Infantry"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_Navy",
+        "http://dbpedia.org/resource/Category:Marines"
+      ]
+    },
+    {
+      "score": [
+        "1444.8156"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_coffee_growing_axis"
+      ],
+      "redirectlabel": [
+        "Coffee-Growers Axis",
+        "Coffee Cultural Landscape",
+        "Coffee Cultural Landscape of <B>Colombia</B>",
+        "Coffee Triangle",
+        "<B>Colombian</B> Coffee-Growers Axis",
+        "<B>Colombian</B> coffee region",
+        "Eje cafetero"
+      ],
+      "typeName": [
+        "Place",
+        "WorldHeritageSite",
+        "Location"
+      ],
+      "comment": [
+        ": Triángulo del Café) is a part of the <B>Colombian</B> Paisa region in the rural area of <B>Colombia</B>. It is"
+      ],
+      "label": [
+        "<B>Colombian</B> coffee growing axis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_coffee_growing_axis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/WorldHeritageSite",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agriculture_in_Colombia",
+        "http://dbpedia.org/resource/Category:Coffee_production"
+      ]
+    },
+    {
+      "score": [
+        "1380.9729"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_tiple"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> guitar",
+        "<B>Columbian</B> guitar",
+        "<B>Columbian</B> tiple",
+        "Tiple <B>colombiano</B>"
+      ],
+      "comment": [
+        "The Tiple <B>Colombiano</B>, or <B>Colombian</B> tiple (pronounced:tee-pleh), is a plucked string instrument of"
+      ],
+      "label": [
+        "<B>Colombian</B> tiple"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_tiple"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_musical_instruments",
+        "http://dbpedia.org/resource/Category:Guitar_family_instruments"
+      ]
+    },
+    {
+      "score": [
+        "1380.9303"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Open"
+      ],
+      "redirectlabel": [
+        "Abierto de <B>Colombia</B>",
+        "Arturo Calle <B>Colombian</B> Open",
+        "Avianca <B>Colombia</B> Open",
+        "Avianca <B>Colombian</B> Open"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Open, or Abierto de <B>Colombia</B>, is a golf tournament on the <B>Colombian</B> Tour and PGA Tour"
+      ],
+      "label": [
+        "<B>Colombian</B> Open"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Open"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Former_Tour_de_las_Américas_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Colombia",
+        "http://dbpedia.org/resource/Category:PGA_Tour_Latinoamérica_events",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "1377.3575"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_crake"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Crake",
+        "N. <B>colombiana</B>",
+        "Neocrex <B>colombiana</B>",
+        "Neocrex <B>colombianus</B>"
+      ],
+      "comment": [
+        "The <B>Colombian</B> crake (Neocrex <B>colombiana</B>) is a species of bird in the family Rallidae.It is found in"
+      ],
+      "label": [
+        "<B>Colombian</B> crake"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_crake"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1898",
+        "http://dbpedia.org/resource/Category:Birds_of_Colombia",
+        "http://dbpedia.org/resource/Category:Birds_of_Panama",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Tumbes-Chocó-Magdalena",
+        "http://dbpedia.org/resource/Category:Neocrex",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1375.8297"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Isthmo-Colombian_Area"
+      ],
+      "redirectlabel": [
+        "Isthmo-<B>Colombia</B>",
+        "Isthmo-<B>Colombian</B>",
+        "Isthmo-<B>Colombian</B> area",
+        "Isthmo-<B>Columbian</B> area"
+      ],
+      "comment": [
+        "The Isthmo-<B>Colombian</B> Area is defined as a cultural area encompassing those territories occupied"
+      ],
+      "label": [
+        "Isthmo-<B>Colombian</B> Area"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Isthmo-Colombian_Area"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cultural_landscapes",
+        "http://dbpedia.org/resource/Category:History_of_Central_America",
+        "http://dbpedia.org/resource/Category:Pre-Columbian_cultural_areas"
+      ]
+    },
+    {
+      "score": [
+        "1302.5104"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Constitution_of_1991"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Consitution of 1991",
+        "<B>Colombian</B> Constitution",
+        "Constitution of 1991",
+        "Constitution of <B>Colombia</B>"
+      ],
+      "comment": [
+        "The Constitution of <B>Colombia</B> (Spanish: Constitución Política de <B>Colombia</B>), better known as the"
+      ],
+      "label": [
+        "<B>Colombian</B> Constitution of 1991"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Constitution_of_1991"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_in_Colombia",
+        "http://dbpedia.org/resource/Category:1991_in_law",
+        "http://dbpedia.org/resource/Category:Constitution_of_Colombia",
+        "http://dbpedia.org/resource/Category:Government_of_Colombia",
+        "http://dbpedia.org/resource/Category:Right_to_a_healthy_environment"
+      ]
+    },
+    {
+      "score": [
+        "1292.6019"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ranks_of_the_Colombian_National_Police"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> National Police enlisted rank insignia",
+        "<B>Colombian</B> National Police executive rank insignia",
+        "<B>Colombian</B> National Police officer rank insignia",
+        "<B>Colombian</B> national police enlisted rank insignia",
+        "<B>Colombian</B> national police executive rank insignia",
+        "<B>Colombian</B> national police officer rank insignia"
+      ],
+      "comment": [
+        "This chart represents the <B>Colombian</B> National Police officer rank insignia."
+      ],
+      "label": [
+        "Ranks of the <B>Colombian</B> National Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ranks_of_the_Colombian_National_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_Police_of_Colombia",
+        "http://dbpedia.org/resource/Category:Police_ranks_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1277.7177"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tete_sea_catfish"
+      ],
+      "redirectlabel": [
+        "Ariopsis seemanni",
+        "Arius jordani",
+        "Arius seemani",
+        "Arius seemanni",
+        "<B>Colombian</B> Shark",
+        "<B>Colombian</B> Shark Catfish",
+        "<B>Colombian</B> Shark catfish",
+        "<B>Colombian</B> shark",
+        "<B>Colombian</B> shark Catfish",
+        "<B>Colombian</B> shark catfish",
+        "<B>Columbian</B> sharks",
+        "Galeichthys eigenmanni",
+        "Galeichthys gilberti",
+        "Galeichthys simonsi",
+        "Hexanematichthys seemanni",
+        "Sciades seemanni",
+        "Tachisurus jordani",
+        "Tete Sea Catfish",
+        "Tete Sea catfish",
+        "Tete sea Catfish"
+      ],
+      "comment": [
+        "The Tete sea catfish (Ariopsis seemanni) or <B>Colombian</B> shark catfish is a species of sea catfish in"
+      ],
+      "label": [
+        "Tete sea catfish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tete_sea_catfish"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ariidae",
+        "http://dbpedia.org/resource/Category:Fish_described_in_1864",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Albert_Günther"
+      ]
+    },
+    {
+      "score": [
+        "1264.4149"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Police_of_Colombia"
+      ],
+      "redirectlabel": [
+        "10.22335",
+        "<B>Colombia</B> National Police",
+        "<B>Colombian</B> National Police",
+        "<B>Colombian</B> Police",
+        "<B>Colombian</B> national police",
+        "<B>Colombian</B> police",
+        "Law enforcement in <B>Colombia</B>",
+        "Police of <B>Colombia</B>",
+        "Policia Nacional de <B>Colombia</B>"
+      ],
+      "comment": [
+        " the <B>Colombian</B> nation, enforce the law by constitutional mandate, maintain and guarantee the"
+      ],
+      "label": [
+        "National Police of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Police_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1891_establishments_in_Colombia",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_1891",
+        "http://dbpedia.org/resource/Category:Ministry_of_National_Defense_(Colombia)",
+        "http://dbpedia.org/resource/Category:National_Police_of_Colombia",
+        "http://dbpedia.org/resource/Category:National_law_enforcement_agencies_of_Colombia",
+        "http://dbpedia.org/resource/Category:National_police_forces"
+      ]
+    },
+    {
+      "score": [
+        "1262.2549"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_chachalaca"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Chachalaca",
+        "Ortalis <B>colombiana</B>",
+        "Ortalis <B>columbiana</B>"
+      ],
+      "comment": [
+        "The <B>Colombian</B> chachalaca (Ortalis <B>columbiana</B>) is a species of bird in the family Cracidae. It is"
+      ],
+      "label": [
+        "<B>Colombian</B> chachalaca"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_chachalaca"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1906",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Colombian_Andes",
+        "http://dbpedia.org/resource/Category:Chachalacas",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1256.6031"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> hip hop",
+        "<B>Colombian</B> music",
+        "<B>Colombian</B> music La Distritofonica",
+        "<B>Colombian</B> singer",
+        "<B>Columbian</B> music"
+      ],
+      "comment": [
+        "The music of <B>Colombia</B> is an expression of <B>Colombian</B> culture, music genres, both traditional and"
+      ],
+      "label": [
+        "Music of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_music",
+        "http://dbpedia.org/resource/Category:Latin_American_music"
+      ]
+    },
+    {
+      "score": [
+        "1244.5002"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Colombian_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "2006 <B>Colombian</B> elections",
+        "2006 <B>Colombian</B> legislative election",
+        "<B>Colombian</B> legislative election, 2006",
+        "<B>Colombian</B> parliamentary election, 2006"
+      ],
+      "comment": [
+        "On March 12, 2006 <B>Colombians</B> went to the polls to elect Senate and Chamber of Representatives"
+      ],
+      "label": [
+        "2006 <B>Colombian</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Colombian_parliamentary_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:2006_in_Colombia",
+        "http://dbpedia.org/resource/Category:March_2006_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1240.3732"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016_Colombian_peace_agreement_referendum"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> peace agreement plebiscite, 2016",
+        "<B>Colombian</B> peace agreement referendum, 2016",
+        "<B>Colombian</B> peace agreement referendum",
+        "FARC peace agreement"
+      ],
+      "comment": [
+        "The <B>Colombian</B> peace plebiscite to ratify the final agreement on the termination of the <B>Colombian</B>"
+      ],
+      "label": [
+        "2016 <B>Colombian</B> peace agreement referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016_Colombian_peace_agreement_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016_in_Colombia",
+        "http://dbpedia.org/resource/Category:2016_referendums",
+        "http://dbpedia.org/resource/Category:Colombian_peace_process",
+        "http://dbpedia.org/resource/Category:October_2016_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Referendums_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1238.4161"
+      ],
+      "refCount": [
+        "675"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Columbia,_South_Carolina"
+      ],
+      "redirectlabel": [
+        "Capital of South Carolina",
+        "<B>Colombia</B>, South Carolina",
+        "<B>Columbia</B>,SC",
+        "<B>Columbia</B>, S.C.",
+        "<B>Columbia</B>, SC",
+        "<B>Columbia</B>, sc",
+        "<B>Columbia</B> (SC)",
+        "<B>Columbia</B> , South Carolina",
+        "<B>Columbia</B> Metropolitan Convention Center",
+        "Downtown <B>Columbia</B>, South Carolina",
+        "Geography of <B>Columbia</B>, South Carolina",
+        "History of <B>Columbia</B>, South Carolina",
+        "Soda City",
+        "Soda City Market",
+        "UN/LOCODE:USCAE"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Columbia</B> is the capital and second largest city of the U.S. state of South Carolina, with a"
+      ],
+      "label": [
+        "<B>Columbia</B>, South Carolina"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Columbia,_South_Carolina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ]
+    },
+    {
+      "score": [
+        "1198.318"
+      ],
+      "refCount": [
+        "3209"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/CBS"
+      ],
+      "redirectlabel": [
+        "Big Four (radio networks)",
+        "CBS, Inc",
+        "CBS-HD",
+        "CBS-TV",
+        "CBS.COM",
+        "CBS.com",
+        "CBS: Television You Can Feel",
+        "CBS (TV network)",
+        "CBS (network)",
+        "CBS Animation",
+        "CBS Broadcasting, Inc.",
+        "CBS Broadcasting",
+        "CBS Broadcasting Inc.",
+        "CBS Broadcasting Inc",
+        "CBS Daytime CBSD",
+        "CBS Electronics",
+        "CBS Eye",
+        "CBS Eye logo",
+        "CBS Foundation",
+        "CBS Frontline",
+        "CBS HD",
+        "CBS Inc.",
+        "CBS Music Group",
+        "CBS Network",
+        "CBS Special Movie",
+        "CBS Studios, Inc.",
+        "CBS Studios Inc.",
+        "CBS Television",
+        "CBS Television Network",
+        "CBS Toys",
+        "CBS eye",
+        "CBS logo",
+        "CBS logos",
+        "CBS network",
+        "CBS television",
+        "CBS–HD",
+        "Cbs.com",
+        "Cbs",
+        "Cbs Logo",
+        "<B>Columbia</B> Boradcasting System",
+        "<B>Columbia</B> Broacasting System",
+        "<B>Columbia</B> Broadcast System",
+        "<B>Columbia</B> Broadcasting",
+        "<B>Columbia</B> Broadcasting Company",
+        "<B>Columbia</B> Broadcasting Service",
+        "<B>Columbia</B> Broadcasting System, Inc.",
+        "<B>Columbia</B> Broadcasting System",
+        "<B>Columbia</B> Broadcasting System (CBS)",
+        "<B>Columbia</B> Phonographic Broadcasting System",
+        "Continental Broadcasting System",
+        "Eye Network",
+        "Gabriel Toys",
+        "Get Ready for CBS",
+        "Get ready for cbs",
+        "Great Moments",
+        "Reach for the Stars (CBS promo)",
+        "Share the Spirit of CBS/CBSpirit",
+        "The CBS Tuesday Movie",
+        "The Cbs Eye",
+        "The <B>Columbia</B> Broadcasting System",
+        "The Tiffany Network",
+        "Tiffany Network",
+        "Tiffany network",
+        "United Independent Broadcasters",
+        "We've Got the Touch"
+      ],
+      "typeName": [
+        "Organisation",
+        "BroadcastNetwork",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "CBS (an initialism of the network's former name, the <B>Columbia</B> Broadcasting System) is an American"
+      ],
+      "label": [
+        "CBS"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/CBS"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BroadcastNetwork",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1927_establishments_in_New_York_(state)",
+        "http://dbpedia.org/resource/Category:American_companies_established_in_1927",
+        "http://dbpedia.org/resource/Category:CBS_Television_Network",
+        "http://dbpedia.org/resource/Category:New_York_Yankees_owners",
+        "http://dbpedia.org/resource/Category:Paramount_Global_subsidiaries",
+        "http://dbpedia.org/resource/Category:Peabody_Award_winners",
+        "http://dbpedia.org/resource/Category:Television_networks_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1194.8134"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_weasel"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Weasel",
+        "Don Felipe's Weasel",
+        "Mustela felipei",
+        "Neogale felipei"
+      ],
+      "comment": [
+        "The <B>Colombian</B> weasel (Mustela felipei), also known as Don Felipe's weasel, is a very rare species"
+      ],
+      "label": [
+        "<B>Colombian</B> weasel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_weasel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Carnivorans_of_South_America",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Colombia",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Ecuador",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1978",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ecuador",
+        "http://dbpedia.org/resource/Category:Mammals_of_the_Andes",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN",
+        "http://dbpedia.org/resource/Category:Vulnerable_animals",
+        "http://dbpedia.org/resource/Category:Vulnerable_biota_of_South_America",
+        "http://dbpedia.org/resource/Category:Weasels"
+      ]
+    },
+    {
+      "score": [
+        "1194.6255"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Rufescent_screech_owl"
+      ],
+      "redirectlabel": [
+        "Autillo <B>Colombiano</B>",
+        "<B>Colombian</B> Screech-Owl",
+        "<B>Colombian</B> Screech-owl",
+        "<B>Colombian</B> Screech Owl",
+        "<B>Colombian</B> screech-owl",
+        "<B>Colombian</B> screech owl",
+        "Megascops <B>colombianus</B>",
+        "Megascops ingens",
+        "Otus <B>colombianus</B>",
+        "Otus ingens",
+        "Petit-duc De <B>Colombie</B>",
+        "Rufescent Screech-Owl",
+        "Rufescent Screech-owl",
+        "Rufescent Screech Owl",
+        "Rufescent screech-owl"
+      ],
+      "comment": [
+        "-tufts. The tarsi are feathered to the base of the toes. The <B>Colombian</B> screech owl was formerly consi"
+      ],
+      "label": [
+        "Rufescent screech owl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Rufescent_screech_owl"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1897",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Northern_Andes",
+        "http://dbpedia.org/resource/Category:Megascops",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Osbert_Salvin",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1176.5292"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Civil War (disambiguation)",
+        "<B>Colombian</B> Civil Wars",
+        "<B>Colombian</B> civil war"
+      ],
+      "label": [
+        "<B>Colombian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Civil_War"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_South_America",
+        "http://dbpedia.org/resource/Category:Military_history_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1176.1373"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_Colombia"
+      ],
+      "redirectlabel": [
+        "Archaeology of <B>Colombia</B>",
+        "<B>Colombian</B> history",
+        "History of <B>colombia</B>",
+        "Pre-<B>Columbian</B> <B>Colombia</B>",
+        "Pre-colonial history of <B>Colombia</B>",
+        "Prehistory of <B>Colombia</B>"
+      ],
+      "comment": [
+        "The history of <B>Colombia</B> includes the settlements and society by indigenous peoples, most notably"
+      ],
+      "label": [
+        "History of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1167.2463"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ecuadorian–Colombian_War"
+      ],
+      "redirectlabel": [
+        "Ecuadorian-<B>Colombian</B> War",
+        "Ecuadorian-<B>Columbian</B> War",
+        "War of Cauca"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Ecuadorian–<B>Colombian</B> War, or War of the Cauca (Guerra del Cauca), occurred in 1863 between the"
+      ],
+      "label": [
+        "Ecuadorian–<B>Colombian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ecuadorian–Colombian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1863_in_Colombia",
+        "http://dbpedia.org/resource/Category:19th_century_in_Colombia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1863",
+        "http://dbpedia.org/resource/Category:Military_history_of_Colombia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Colombia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ecuador"
+      ]
+    },
+    {
+      "score": [
+        "1158.4719"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_spiny_rat"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Spiny-rat",
+        "<B>Colombian</B> Spiny Rat",
+        "Proechimys canicollis"
+      ],
+      "comment": [
+        "The <B>Colombian</B> spiny-rat (Proechimys canicollis) is a species of rodent in the family Echimyidae. It is found in <B>Colombia</B> and Venezuela."
+      ],
+      "label": [
+        "<B>Colombian</B> spiny rat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_spiny_rat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1899",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Proechimys",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Joel_Asaph_Allen",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1153.0596"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Carlos_Sánchez_(Colombian_footballer)"
+      ],
+      "redirectlabel": [
+        "Carlos Alberto Sanchez Moreno",
+        "Carlos Alberto Sánchez Moreno",
+        "Carlos Sanchez (<B>Colombian</B> footballer)",
+        "Carlos Sanchez Moreno",
+        "Carlos Sánchez (<B>Columbian</B> footballer)",
+        "Carlos Sánchez Moreno"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Carlos Alberto Sánchez Moreno (born 6 February 1986) is a <B>Colombian</B> professional footballer who"
+      ],
+      "label": [
+        "Carlos Sánchez (<B>Colombian</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Carlos_Sánchez_(Colombian_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1986_births",
+        "http://dbpedia.org/resource/Category:2011_Copa_América_players",
+        "http://dbpedia.org/resource/Category:2014_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:2015_Copa_América_players",
+        "http://dbpedia.org/resource/Category:2018_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:ACF_Fiorentina_players",
+        "http://dbpedia.org/resource/Category:Association_football_midfielders",
+        "http://dbpedia.org/resource/Category:Aston_Villa_F.C._players",
+        "http://dbpedia.org/resource/Category:Categoría_Primera_A_players",
+        "http://dbpedia.org/resource/Category:Club_Atlético_River_Plate_(Montevideo)_players",
+        "http://dbpedia.org/resource/Category:Colombia_international_footballers",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_England",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_France",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Italy",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Spain",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Uruguay",
+        "http://dbpedia.org/resource/Category:Colombian_footballers",
+        "http://dbpedia.org/resource/Category:Colombian_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Copa_América_Centenario_players",
+        "http://dbpedia.org/resource/Category:Danubio_F.C._players",
+        "http://dbpedia.org/resource/Category:Elche_CF_players",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_England",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_France",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Italy",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Spain",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Uruguay",
+        "http://dbpedia.org/resource/Category:FA_Cup_Final_players",
+        "http://dbpedia.org/resource/Category:La_Liga_players",
+        "http://dbpedia.org/resource/Category:Ligue_1_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:People_from_Quibdó",
+        "http://dbpedia.org/resource/Category:Premier_League_players",
+        "http://dbpedia.org/resource/Category:RCD_Espanyol_footballers",
+        "http://dbpedia.org/resource/Category:Serie_A_players",
+        "http://dbpedia.org/resource/Category:Sportspeople_from_Chocó_Department",
+        "http://dbpedia.org/resource/Category:Uruguayan_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Valenciennes_FC_players",
+        "http://dbpedia.org/resource/Category:Watford_F.C._players",
+        "http://dbpedia.org/resource/Category:West_Ham_United_F.C._players",
+        "http://dbpedia.org/resource/Category:Independiente__Santa_Fe_footballers"
+      ]
+    },
+    {
+      "score": [
+        "1152.2928"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Government",
+        "<B>Colombian</B> government",
+        "Gobierno de <B>Colombia</B>",
+        "The Government of <B>Colombia</B>"
+      ],
+      "comment": [
+        "The Government of <B>Colombia</B> is a republic with separation of powers into executive, judicial and"
+      ],
+      "label": [
+        "Government of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1148.015"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Categoría_Primera_B"
+      ],
+      "redirectlabel": [
+        "Categoria Primera B",
+        "<B>Colombian</B> Categoria Primera B",
+        "Copa Premier",
+        "Primera B (<B>Colombia</B>)",
+        "Primera B <B>Colombia</B>",
+        "Torneo Águila"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " betting company  (formerly Torneo Águila), is the second-division football league in <B>Colombia</B>."
+      ],
+      "label": [
+        "Categoría Primera B"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Categoría_Primera_B"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Categoría_Primera_B",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Colombia",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1139.0825"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Colombian_artists"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Artists",
+        "<B>Colombian</B> artists",
+        "List of artists from <B>Colombia</B>"
+      ],
+      "comment": [
+        "This is a list of <B>Colombian</B> artists. <B>Colombian</B> art has 3,500 years of history and covers a wide"
+      ],
+      "label": [
+        "List of <B>Colombian</B> artists"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Colombian_artists"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_artists",
+        "http://dbpedia.org/resource/Category:Lists_of_Colombian_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_artists_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1128.4833"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_comedy"
+      ],
+      "redirectlabel": [
+        "Comedia en <B>Colombia</B>",
+        "Comedy of <B>colombia</B>",
+        "Don Chinche",
+        "Humor in <B>Colombia</B>",
+        "La Tele (show)",
+        "La tele (show)",
+        "Martin de Francisco",
+        "Quac",
+        "Santiago Moure"
+      ],
+      "comment": [
+        "<B>Colombian</B> Comedy is comedy made in <B>Colombia</B> or by <B>Colombians</B> outside of <B>Colombia</B>. Although <B>Colombia</B>"
+      ],
+      "label": [
+        "<B>Colombian</B> comedy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_comedy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_comedy"
+      ]
+    },
+    {
+      "score": [
+        "1127.9834"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_black-handed_titi_monkey"
+      ],
+      "redirectlabel": [
+        "Callicebus (Torquatus) medemi",
+        "Callicebus medemi",
+        "Cheracebus medemi",
+        "<B>Colombian</B> Black-handed Titi",
+        "<B>Colombian</B> black-handed titi"
+      ],
+      "label": [
+        "<B>Colombian</B> black-handed titi monkey"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_black-handed_titi_monkey"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cheracebus",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1963",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Philip_Hershkovitz"
+      ]
+    },
+    {
+      "score": [
+        "1126.4865"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pre-Columbian_era"
+      ],
+      "redirectlabel": [
+        "Ancient America",
+        "Ancient American history",
+        "Ancient Americas",
+        "Ancient america",
+        "Pre-<B>Colombian</B>",
+        "Pre-<B>Colombian</B> era",
+        "Pre-Colonial America",
+        "Pre-<B>Columbia</B>",
+        "Pre-<B>Columbian</B>",
+        "Pre-<B>Columbian</B> America",
+        "Pre-<B>Columbian</B> Americas",
+        "Pre-<B>Columbian</B> Civilizations",
+        "Pre-<B>Columbian</B> North America",
+        "Pre-<B>Columbian</B> South America",
+        "Pre-<B>Columbian</B> agriculture",
+        "Pre-<B>Columbian</B> civilizations",
+        "Pre-Contact",
+        "Pre-European North America",
+        "Pre-Hispanic",
+        "Pre-Hispanic cultures",
+        "Pre-colonial America",
+        "Pre-colonial North America",
+        "Pre-<B>columbian</B>",
+        "Pre-<B>columbian</B> America",
+        "Pre-hispanic",
+        "Pre <B>Columbian</B>",
+        "Precolombian",
+        "Precolumbian",
+        "Precolumbian era",
+        "Precontact",
+        "Precontact era",
+        "Prehispanic",
+        "Prehistoric America",
+        "Prehistoric Americas",
+        "Prehistory of the Americas"
+      ],
+      "comment": [
+        "The pre-<B>Columbian</B> era incorporates all period subdivisions in the history of the Americas before"
+      ],
+      "label": [
+        "Pre-<B>Columbian</B> era"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pre-Columbian_era"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Historical_eras",
+        "http://dbpedia.org/resource/Category:History_of_indigenous_peoples_of_the_Americas",
+        "http://dbpedia.org/resource/Category:Pre-Columbian_era"
+      ]
+    },
+    {
+      "score": [
+        "1124.3914"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_grima"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> fencing",
+        "<B>Colombian</B> machete fencing"
+      ],
+      "comment": [
+        " <B>Colombia</B>. In the early twentieth century, the Afro-<B>Colombian</B> communities of the Gran Cauca and"
+      ],
+      "label": [
+        "<B>Colombian</B> grima"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_grima"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_martial_arts"
+      ]
+    },
+    {
+      "score": [
+        "1123.8346"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Música_Ficta_(Colombian_ensemble)"
+      ],
+      "redirectlabel": [
+        "Ficta <B>colombia</B>",
+        "Musica Ficta (<B>Colombia</B>)",
+        "Musica Ficta (<B>Colombian</B> ensemble)",
+        "Música Ficta",
+        "Música Ficta (<B>Colombia</B>)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Música Ficta is an early music ensemble founded in Bogotá, <B>Colombia</B>, in 1988. The ensemble is"
+      ],
+      "label": [
+        "Música Ficta (<B>Colombian</B> ensemble)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Música_Ficta_(Colombian_ensemble)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_orchestras",
+        "http://dbpedia.org/resource/Category:Early_music_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1988"
+      ]
+    },
+    {
+      "score": [
+        "1120.416"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Military_Forces_of_Colombia"
+      ],
+      "redirectlabel": [
+        "Armed Forces of <B>Colombia</B>",
+        "<B>Colombia</B>/Military",
+        "<B>Colombia</B> Armed Forces",
+        "<B>Colombian</B> Armed Forces",
+        "<B>Colombian</B> Military",
+        "<B>Colombian</B> military",
+        "Military of <B>Colombia</B>",
+        "Military of <B>Columbia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " forces of the Republic of <B>Colombia</B>. They consist of the <B>Colombian</B> Army, the <B>Colombian</B> Navy and the"
+      ],
+      "label": [
+        "Military Forces of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Military_Forces_of_Colombia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Colombia",
+        "http://dbpedia.org/resource/Category:Ministry_of_National_Defense_(Colombia)"
+      ]
+    },
+    {
+      "score": [
+        "1113.2408"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_tinamou"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Tinamou",
+        "Crypturellus columbianus",
+        "Crypturellus erythropus columbianus"
+      ],
+      "comment": [
+        "The <B>Colombian</B> tinamou, Crypturellus erythropus columbianus, is a tinamou found in Córdoba, Sucre"
+      ],
+      "label": [
+        "<B>Colombian</B> tinamou"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_tinamou"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1895",
+        "http://dbpedia.org/resource/Category:Birds_of_Colombia",
+        "http://dbpedia.org/resource/Category:Crypturellus",
+        "http://dbpedia.org/resource/Category:Tinamous_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1107.6935"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Mexicans"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Mexican",
+        "<B>Colombian</B> immigration to Mexico"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "There is a significant <B>Colombian</B> diaspora in Mexico. According to the 2010 census, there were"
+      ],
+      "label": [
+        "<B>Colombian</B> Mexicans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Mexicans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_diaspora",
+        "http://dbpedia.org/resource/Category:Colombian_emigrants_to_Mexico",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Mexico",
+        "http://dbpedia.org/resource/Category:Immigration_to_Mexico",
+        "http://dbpedia.org/resource/Category:Mexican_people_of_Colombian_descent"
+      ]
+    },
+    {
+      "score": [
+        "1097.5728"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Australian",
+        "<B>Columbian</B> Australian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Colombian</B> Australians are Australian citizens who trace their nationality or heritage from the South American nation of <B>Colombia</B>."
+      ],
+      "label": [
+        "<B>Colombian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Colombian_descent",
+        "http://dbpedia.org/resource/Category:Colombian_diaspora",
+        "http://dbpedia.org/resource/Category:Latin_American_Australian"
+      ]
+    },
+    {
+      "score": [
+        "1091.6481"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1990_Colombian_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "1990 <B>Colombian</B> legislative election",
+        "<B>Colombian</B> legislative election, 1990",
+        "<B>Colombian</B> parliamentary election, 1990"
+      ],
+      "comment": [
+        "Parliamentary elections were held in <B>Colombia</B> on 11 March 1990 alongside local elections and an"
+      ],
+      "label": [
+        "1990 <B>Colombian</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1990_Colombian_parliamentary_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:1990_in_Colombia",
+        "http://dbpedia.org/resource/Category:1990_referendums",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Colombia",
+        "http://dbpedia.org/resource/Category:Referendums_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1090.9832"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2002_Colombian_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "2002 <B>Colombian</B> legislative election",
+        "<B>Colombian</B> legislative election, 2002",
+        "<B>Colombian</B> parliamentary election, 2002"
+      ],
+      "comment": [
+        "Parliamentary elections were held in <B>Colombia</B> on 10 March 2002 to elect the Senate and Chamber of"
+      ],
+      "label": [
+        "2002 <B>Colombian</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2002_Colombian_parliamentary_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:2002_in_Colombia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1090.746"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Colombian_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "2010 <B>Colombian</B> legislative election",
+        "<B>Colombian</B> legislative election, 2010",
+        "<B>Colombian</B> parliamentary election, 2010"
+      ],
+      "comment": [
+        "<B>Colombia</B> held elections to both chambers of Congress on 14 March 2010. The nationwide constituency"
+      ],
+      "label": [
+        "2010 <B>Colombian</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Colombian_parliamentary_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1066.9595"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/White_Colombians"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> of European descent",
+        "European <B>Colombian</B>",
+        "Europeans in <B>Colombia</B>",
+        "Genetic studies on White <B>Colombians</B>",
+        "White <B>Colombian</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "White <B>Colombians</B> are the <B>Colombian</B> descendants of European and Middle Eastern people. According to"
+      ],
+      "label": [
+        "White <B>Colombians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/White_Colombians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_people_of_European_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Colombia",
+        "http://dbpedia.org/resource/Category:European_Colombian",
+        "http://dbpedia.org/resource/Category:White_Latin_American"
+      ]
+    },
+    {
+      "score": [
+        "1051.1677"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_forest_mouse"
+      ],
+      "redirectlabel": [
+        "Chilomys",
+        "Chilomys instans",
+        "<B>Colombian</B> Forest Mouse"
+      ],
+      "comment": [
+        "The <B>Colombian</B> forest mouse (Chilomys instans) is a species of rodent in the family Cricetidae. Some"
+      ],
+      "label": [
+        "<B>Colombian</B> forest mouse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_forest_mouse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1895",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_of_Ecuador",
+        "http://dbpedia.org/resource/Category:Mammals_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Mammals_of_the_Andes",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Oldfield_Thomas",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot",
+        "http://dbpedia.org/resource/Category:Thomasomyini"
+      ]
+    },
+    {
+      "score": [
+        "1047.6296"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_rice_rat"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Rice Rat",
+        "Handleyomys intectus",
+        "Oryzomys intectus",
+        "White-footed Handley's Mouse"
+      ],
+      "label": [
+        "<B>Colombian</B> rice rat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_rice_rat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Colombia",
+        "http://dbpedia.org/resource/Category:Handleyomys",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1921",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Oldfield_Thomas",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1045.0051"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Juan_González_(Colombian_footballer)"
+      ],
+      "redirectlabel": [
+        "Juan Gonzalez (<B>Colombian</B> footballer born 1987)",
+        "Juan Gonzalez (<B>Colombian</B> footballer born 1988)",
+        "Juan González (<B>Colombian</B> footballer born 1988)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Juan González (born 1 January 1988), is a <B>Colombian</B> footballer who currently plays as a Defender"
+      ],
+      "label": [
+        "Juan González (<B>Colombian</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Juan_González_(Colombian_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_births",
+        "http://dbpedia.org/resource/Category:Association_football_defenders",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Colombian_footballers",
+        "http://dbpedia.org/resource/Category:Expatriate_soccer_players_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Footballers_from_Cali",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:New_York_Cosmos_(2010)_players",
+        "http://dbpedia.org/resource/Category:North_American_Soccer_League_players",
+        "http://dbpedia.org/resource/Category:Soccer_players_from_Florida",
+        "http://dbpedia.org/resource/Category:South_Florida_Surf_players",
+        "http://dbpedia.org/resource/Category:USL_League_Two_players"
+      ]
+    },
+    {
+      "score": [
+        "1044.6156"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Marco_Pérez_(Colombian_footballer)"
+      ],
+      "redirectlabel": [
+        "Marco Perez (<B>Colombian</B> footballer)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Marco Jhonnier Pérez Murillo (born September 18, 1990 in Quibdó) is a <B>Colombian</B> football striker who currently plays for Al-Raed ."
+      ],
+      "label": [
+        "Marco Pérez (<B>Colombian</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Marco_Pérez_(Colombian_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_births",
+        "http://dbpedia.org/resource/Category:Al-Raed_FC_players",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Association_football_forwards",
+        "http://dbpedia.org/resource/Category:Boyacá_Chicó_F.C._footballers",
+        "http://dbpedia.org/resource/Category:Categoría_Primera_A_players",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Club_Atlético_Belgrano_footballers",
+        "http://dbpedia.org/resource/Category:Club_Atlético_Independiente_footballers",
+        "http://dbpedia.org/resource/Category:Club_de_Gimnasia_y_Esgrima_La_Plata_footballers",
+        "http://dbpedia.org/resource/Category:Colombia_under-20_international_footballers",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Argentina",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Chile",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:Colombian_expatriate_sportspeople_in_Spain",
+        "http://dbpedia.org/resource/Category:Colombian_footballers",
+        "http://dbpedia.org/resource/Category:Deportes_Tolima_footballers",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Argentina",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Chile",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Spain",
+        "http://dbpedia.org/resource/Category:Independiente_Medellín_footballers",
+        "http://dbpedia.org/resource/Category:La_Liga_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:O'Higgins_F.C._footballers",
+        "http://dbpedia.org/resource/Category:People_from_Quibdó",
+        "http://dbpedia.org/resource/Category:Real_Zaragoza_players",
+        "http://dbpedia.org/resource/Category:Saudi_Professional_League_players",
+        "http://dbpedia.org/resource/Category:Sportspeople_from_Chocó_Department"
+      ]
+    },
+    {
+      "score": [
+        "1038.9572"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Television_in_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombia</B> TV",
+        "<B>Colombia</B> Television",
+        "<B>Colombian</B> TV",
+        "<B>Colombian</B> Television",
+        "<B>Colombian</B> television",
+        "Digital television in <B>Colombia</B>",
+        "Television in <B>colombia</B>"
+      ],
+      "comment": [
+        "Television in <B>Colombia</B> or <B>Colombian</B> television (Spanish: Televisión de <B>Colombia</B>) is a media of"
+      ],
+      "label": [
+        "Television in <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Television_in_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Television_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1034.4045"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Departments_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> departments",
+        "<B>Colombian</B> divisions",
+        "Department (<B>Colombia</B>)",
+        "Department of <B>Colombia</B>",
+        "Departments of <B>colombia</B>"
+      ],
+      "comment": [
+        "<B>Colombia</B> is a unitary republic made up of thirty-two departments (Spanish: departamentos, sing"
+      ],
+      "label": [
+        "Departments of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Departments_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombia_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Departments_of_Colombia",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_administrative_divisions",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1034.1509"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Communist_Party"
+      ],
+      "redirectlabel": [
+        "Communist Party of <B>Colombia</B>",
+        "Partido Comunista <B>Colombiano</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Communist Party (in Spanish: Partido Comunista <B>Colombiano</B>) or PCC is a legal"
+      ],
+      "label": [
+        "<B>Colombian</B> Communist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Communist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930_establishments_in_Colombia",
+        "http://dbpedia.org/resource/Category:Bolivarianism",
+        "http://dbpedia.org/resource/Category:Comintern_sections",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Colombia",
+        "http://dbpedia.org/resource/Category:FARC",
+        "http://dbpedia.org/resource/Category:Far-left_politics_in_Colombia",
+        "http://dbpedia.org/resource/Category:Foro_de_São_Paulo",
+        "http://dbpedia.org/resource/Category:International_Meeting_of_Communist_and_Workers_Parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1930"
+      ]
+    },
+    {
+      "score": [
+        "1032.2863"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_bonneted_bat"
+      ],
+      "redirectlabel": [
+        "Bonneted Bat",
+        "<B>Colombian</B> Bonneted Bat",
+        "Eumops trumbulli"
+      ],
+      "comment": [
+        "The <B>Colombian</B> bonneted bat (Eumops trumbulli), also known as Trumbull's bonneted bat, is a bat"
+      ],
+      "label": [
+        "<B>Colombian</B> bonneted bat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_bonneted_bat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bats_of_Brazil",
+        "http://dbpedia.org/resource/Category:Bats_of_South_America",
+        "http://dbpedia.org/resource/Category:Eumops",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1901",
+        "http://dbpedia.org/resource/Category:Mammals_of_Bolivia",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_of_French_Guiana",
+        "http://dbpedia.org/resource/Category:Mammals_of_Guyana",
+        "http://dbpedia.org/resource/Category:Mammals_of_Peru",
+        "http://dbpedia.org/resource/Category:Mammals_of_Suriname",
+        "http://dbpedia.org/resource/Category:Mammals_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Oldfield_Thomas"
+      ]
+    },
+    {
+      "score": [
+        "1029.5737"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Colombia"
+      ],
+      "redirectlabel": [
+        "Cinema of <B>colombia</B>",
+        "Collywood",
+        "<B>Colombian</B> Cinema",
+        "<B>Colombian</B> cinema",
+        "History of cinema in <B>Colombia</B>"
+      ],
+      "comment": [
+        "Cinema of <B>Colombia</B> refers to the film industry based in <B>Colombia</B>. <B>Colombian</B> cinema began in 1897"
+      ],
+      "label": [
+        "Cinema of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Cinema_of_Colombia",
+        "http://dbpedia.org/resource/Category:Colombian_culture"
+      ]
+    },
+    {
+      "score": [
+        "1029.2517"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian–Peruvian_territorial_dispute"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B>-Peruvian territorial dispute",
+        "García-Herrera Treaty",
+        "García–Herrera Treaty",
+        "Pando-Noboa Treaty",
+        "Pando–Noboa Treaty",
+        "Treaty of Bogotá (1856)"
+      ],
+      "label": [
+        "<B>Colombian</B>–Peruvian territorial dispute"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian–Peruvian_territorial_dispute"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombia–Peru_border",
+        "http://dbpedia.org/resource/Category:Colombia–Peru_relations",
+        "http://dbpedia.org/resource/Category:History_of_Colombia",
+        "http://dbpedia.org/resource/Category:History_of_Peru",
+        "http://dbpedia.org/resource/Category:Irredentism",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Colombia",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Peru"
+      ]
+    },
+    {
+      "score": [
+        "1026.6987"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_grebe"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Grebe",
+        "Podiceps andinus"
+      ],
+      "comment": [
+        "The <B>Colombian</B> grebe (Podiceps andinus), was a grebe (aquatic bird) found in the Bogotá wetlands on"
+      ],
+      "label": [
+        "<B>Colombian</B> grebe"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_grebe"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Altiplano_Cundiboyacense",
+        "http://dbpedia.org/resource/Category:Bird_extinctions_since_1500",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1959",
+        "http://dbpedia.org/resource/Category:Extinct_birds_of_South_America",
+        "http://dbpedia.org/resource/Category:Podiceps",
+        "http://dbpedia.org/resource/Category:Podicipedidae",
+        "http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Rodolphe_Meyer_de_Schauensee"
+      ]
+    },
+    {
+      "score": [
+        "1015.68304"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1970_Colombian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> general election, 1970",
+        "<B>Colombian</B> presidential elections of 1970",
+        "Presidential elections of 1970 in <B>Colombia</B>"
+      ],
+      "comment": [
+        "General elections were held in <B>Colombia</B> on 19 April 1970 to elect the President, the Senate and the"
+      ],
+      "label": [
+        "1970 <B>Colombian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1970_Colombian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:1970_in_Colombia",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Colombia",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1014.9"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_woolly_monkey"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Woolly Monkey",
+        "Lagothrix lagothricha lugens",
+        "Lagothrix lugens"
+      ],
+      "comment": [
+        "The <B>Colombian</B> woolly monkey (Lagothrix lugens) is a critically endangered species of woolly monkey from <B>Colombia</B> and possibly also Venezuela."
+      ],
+      "label": [
+        "<B>Colombian</B> woolly monkey"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_woolly_monkey"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Critically_endangered_animals",
+        "http://dbpedia.org/resource/Category:Critically_endangered_biota_of_South_America",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1907",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_of_the_Andes",
+        "http://dbpedia.org/resource/Category:Subspecies",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Daniel_Giraud_Elliot",
+        "http://dbpedia.org/resource/Category:Woolly_monkeys"
+      ]
+    },
+    {
+      "score": [
+        "1006.1685"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Congress_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombia</B>, Congress",
+        "<B>Colombian</B> Congress",
+        "<B>Colombian</B> congress",
+        "Congress <B>colombia</B>",
+        "Congress of <B>colombia</B>",
+        "Congress of the Republic of <B>Colombia</B>",
+        "Legislature of <B>Colombia</B>",
+        "Parliament of <B>Colombia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        " name given to <B>Colombia's</B> bicameral national legislature. The Congress of <B>Colombia</B> consists of the 108"
+      ],
+      "label": [
+        "Congress of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Congress_of_Colombia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bicameral_legislatures",
+        "http://dbpedia.org/resource/Category:Congress_of_Colombia",
+        "http://dbpedia.org/resource/Category:Government_of_Colombia",
+        "http://dbpedia.org/resource/Category:Legislative_branch_of_Colombia",
+        "http://dbpedia.org/resource/Category:National_legislatures"
+      ]
+    },
+    {
+      "score": [
+        "1005.81647"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Corruption_in_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> corruption",
+        "<B>Colombian</B> corruption scandals",
+        "Corruption in <B>colombia</B>",
+        "Judicial corruption in <B>Colombia</B>",
+        "Political corruption in <B>Colombia</B>",
+        "Political scandals of <B>Colombia</B>",
+        "Recent <B>Colombian</B> corruption scandals",
+        "Recent <B>colombian</B> corruption scandals"
+      ],
+      "comment": [
+        "Corruption in <B>Colombia</B>  is a pervasive problem at all levels of government, as well as in the"
+      ],
+      "label": [
+        "Corruption in <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Corruption_in_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Corruption_in_Colombia",
+        "http://dbpedia.org/resource/Category:Corruption_in_South_America",
+        "http://dbpedia.org/resource/Category:Crime_in_Colombia_by_type",
+        "http://dbpedia.org/resource/Category:Politics_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "992.52496"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Association_of_Colombian_Universities"
+      ],
+      "redirectlabel": [
+        "ASCUN",
+        "Asociación <B>Colombiana</B> de Universidades",
+        "Association of <B>colombian</B> universities"
+      ],
+      "comment": [
+        "The Association of <B>Colombian</B> Universities (Spanish: Asociación <B>Colombiana</B> de Universidades), also"
+      ],
+      "label": [
+        "Association of <B>Colombian</B> Universities"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Association_of_Colombian_Universities"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:College_and_university_associations_and_consortia_in_South_America",
+        "http://dbpedia.org/resource/Category:Educational_organisations_based_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "989.08203"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Institute_of_Culture"
+      ],
+      "redirectlabel": [
+        "Colcultura",
+        "<B>Colombian</B> Institute for Culture",
+        "Instituto <B>Colombiano</B> de Cultura"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Institute of Culture (Spanish: Instituto <B>Colombiano</B> de Cultura; short name Colcultura"
+      ],
+      "label": [
+        "<B>Colombian</B> Institute of Culture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Institute_of_Culture"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colombian_culture",
+        "http://dbpedia.org/resource/Category:Cultural_promotion_organizations"
+      ]
+    },
+    {
+      "score": [
+        "988.08014"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_People's_Party"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Popular Party"
+      ],
+      "comment": [
+        "The <B>Colombian</B> People's Party (Partido Popular <B>ColombianO</B>) is a political party in <B>Colombia</B>. At the"
+      ],
+      "label": [
+        "<B>Colombian</B> People's Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_People's_Party"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Political_parties_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "986.96875"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colombian_Declaration_of_Independence"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Independence Day",
+        "Florero de Llorente"
+      ],
+      "comment": [
+        "The <B>Colombian</B> Declaration of Independence refers to the events of July 20, 1810, in Santa Fe de"
+      ],
+      "label": [
+        "<B>Colombian</B> Declaration of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colombian_Declaration_of_Independence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1810_in_Colombia",
+        "http://dbpedia.org/resource/Category:1810_in_international_relations",
+        "http://dbpedia.org/resource/Category:1810_in_the_Viceroyalty_of_New_Granada",
+        "http://dbpedia.org/resource/Category:Colonial_Colombia",
+        "http://dbpedia.org/resource/Category:Colonial_Venezuela",
+        "http://dbpedia.org/resource/Category:Declarations_of_independence",
+        "http://dbpedia.org/resource/Category:Gran_Colombia",
+        "http://dbpedia.org/resource/Category:History_of_Colombia",
+        "http://dbpedia.org/resource/Category:Independence_of_Colombia",
+        "http://dbpedia.org/resource/Category:July_1810_events",
+        "http://dbpedia.org/resource/Category:Separatism_in_Colombia",
+        "http://dbpedia.org/resource/Category:Viceroyalty_of_New_Granada"
+      ]
+    },
+    {
+      "score": [
+        "984.5721"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Elections_in_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombia</B> election",
+        "<B>Colombia</B> elections",
+        "<B>Colombian</B> election",
+        "<B>Colombian</B> elections",
+        "<B>Colombian</B> electoral system",
+        "Elections in <B>colombia</B>"
+      ],
+      "comment": [
+        "Elections in <B>Colombia</B> are regulated and controlled by the National Electoral Council which also"
+      ],
+      "label": [
+        "Elections in <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Elections_in_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Elections_in_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "977.81683"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Senate_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Colombian</B> Senate",
+        "<B>Colombian</B> Senator",
+        "Senate (<B>Colombia</B>)",
+        "Senate of <B>colombia</B>",
+        "Senator of <B>Colombia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The Senate of the Republic of <B>Colombia</B>  (Spanish: Senado de la República de <B>Colombia</B>) is the upper"
+      ],
+      "label": [
+        "Senate of <B>Colombia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Senate_of_Colombia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Colombia",
+        "http://dbpedia.org/resource/Category:Government_of_Colombia",
+        "http://dbpedia.org/resource/Category:Legislative_branch_of_Colombia",
+        "http://dbpedia.org/resource/Category:National_upper_houses",
+        "http://dbpedia.org/resource/Category:Senate_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "970.50726"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/A_corazón_abierto_(Colombian_TV_series)"
+      ],
+      "redirectlabel": [
+        "A Corazón Abierto (<B>Colombian</B> telenovela)",
+        "A corazón abierto (<B>Colombian</B> telenovela)"
+      ],
+      "typeName": [
+        "TelevisionShow",
+        "Work"
+      ],
+      "comment": [
+        "A corazón abierto is a <B>Colombian</B> telenovela premiered on RCN Televisión on April 26, 2010, and"
+      ],
+      "label": [
+        "A corazón abierto (<B>Colombian</B> TV series)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/A_corazón_abierto_(Colombian_TV_series)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/TelevisionShow",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_Colombian_television_series_debuts",
+        "http://dbpedia.org/resource/Category:2010_telenovelas",
+        "http://dbpedia.org/resource/Category:2011_Colombian_television_series_endings",
+        "http://dbpedia.org/resource/Category:Colombian_telenovelas",
+        "http://dbpedia.org/resource/Category:Colombian_television_series_based_on_American_television_series",
+        "http://dbpedia.org/resource/Category:Grey's_Anatomy",
+        "http://dbpedia.org/resource/Category:Medical_telenovelas",
+        "http://dbpedia.org/resource/Category:Spanish-language_telenovelas",
+        "http://dbpedia.org/resource/Category:Television_shows_set_in_Bogotá"
+      ]
+    },
+    {
+      "score": [
+        "967.1763"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab_Colombians"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Colombian</B>",
+        "Arab <B>Colombian</B>",
+        "Arab diaspora in <B>Colombia</B>",
+        "Arab diaspora in <B>colombia</B>",
+        "Palestinian <B>Colombian</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Arab <B>Colombians</B> refers to Arab immigrants and their descendants in the Republic of <B>Colombia</B>. Most"
+      ],
+      "label": [
+        "Arab <B>Colombians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab_Colombians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_Colombian",
+        "http://dbpedia.org/resource/Category:Arab_diaspora_in_South_America",
+        "http://dbpedia.org/resource/Category:Asian_Colombian",
+        "http://dbpedia.org/resource/Category:Colombian_people_of_Arab_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Colombia"
+      ]
+    }
+  ]
+}

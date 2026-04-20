@@ -1,0 +1,1065 @@
+id,name,normalized_name,ingredient_kind,foodon_id
+ing-mealdb-1,Chicken,chicken,mealdb-ingredient,FOODON_03411457
+ing-mealdb-2,Salmon,salmon,mealdb-ingredient,FOODON_00003473
+ing-mealdb-3,Beef,beef,mealdb-ingredient,
+ing-mealdb-4,Pork,pork,mealdb-ingredient,
+ing-mealdb-5,Avocado,avocado,mealdb-ingredient,FOODON_00003600
+ing-mealdb-9,Apple Cider Vinegar,apple cider vinegar,mealdb-ingredient,
+ing-mealdb-10,Asparagus,asparagus,mealdb-ingredient,
+ing-mealdb-11,Aubergine,aubergine,mealdb-ingredient,
+ing-mealdb-13,Baby Plum Tomatoes,baby plum tomatoes,mealdb-ingredient,
+ing-mealdb-14,Bacon,bacon,mealdb-ingredient,
+ing-mealdb-15,Baking Powder,baking powder,mealdb-ingredient,FOODON_03301940
+ing-mealdb-16,Balsamic Vinegar,balsamic vinegar,mealdb-ingredient,FOODON_00005503
+ing-mealdb-17,Basil,basil,mealdb-ingredient,
+ing-mealdb-18,Basil Leaves,basil leaves,mealdb-ingredient,
+ing-mealdb-19,Basmati Rice,basmati rice,mealdb-ingredient,
+ing-mealdb-20,Bay Leaf,bay leaf,mealdb-ingredient,FOODON_00003802
+ing-mealdb-21,Bay Leaves,bay leaves,mealdb-ingredient,
+ing-mealdb-23,Beef Brisket,beef brisket,mealdb-ingredient,FOODON_02000189
+ing-mealdb-24,Beef Fillet,beef fillet,mealdb-ingredient,
+ing-mealdb-25,Beef Gravy,beef gravy,mealdb-ingredient,FOODON_03310598
+ing-mealdb-26,Beef Stock,beef stock,mealdb-ingredient,
+ing-mealdb-27,Bicarbonate Of Soda,bicarbonate of soda,mealdb-ingredient,
+ing-mealdb-28,Biryani Masala,biryani masala,mealdb-ingredient,
+ing-mealdb-29,Black Pepper,black pepper,mealdb-ingredient,
+ing-mealdb-30,Black Treacle,black treacle,mealdb-ingredient,
+ing-mealdb-31,Borlotti Beans,borlotti beans,mealdb-ingredient,
+ing-mealdb-32,Bowtie Pasta,bowtie pasta,mealdb-ingredient,
+ing-mealdb-33,Bramley Apples,bramley apples,mealdb-ingredient,
+ing-mealdb-34,Brandy,brandy,mealdb-ingredient,FOODON_03301632
+ing-mealdb-35,Bread,bread,mealdb-ingredient,FOODON_03000288
+ing-mealdb-36,Breadcrumbs,breadcrumbs,mealdb-ingredient,FOODON_00005442
+ing-mealdb-37,Broccoli,broccoli,mealdb-ingredient,
+ing-mealdb-38,Brown Lentils,brown lentils,mealdb-ingredient,
+ing-mealdb-39,Brown Rice,brown rice,mealdb-ingredient,
+ing-mealdb-40,Brown Sugar,brown sugar,mealdb-ingredient,FOODON_03420156
+ing-mealdb-41,Butter,butter,mealdb-ingredient,FOODON_03310351
+ing-mealdb-43,Cacao,cacao,mealdb-ingredient,
+ing-mealdb-44,Cajun,cajun,mealdb-ingredient,
+ing-mealdb-45,Canned Tomatoes,canned tomatoes,mealdb-ingredient,
+ing-mealdb-46,Cannellini Beans,cannellini beans,mealdb-ingredient,
+ing-mealdb-47,Cardamom,cardamom,mealdb-ingredient,
+ing-mealdb-49,Carrots,carrots,mealdb-ingredient,
+ing-mealdb-50,Cashew Nuts,cashew nuts,mealdb-ingredient,
+ing-mealdb-51,Cashews,cashews,mealdb-ingredient,
+ing-mealdb-52,Caster Sugar,caster sugar,mealdb-ingredient,
+ing-mealdb-53,Cayenne Pepper,cayenne pepper,mealdb-ingredient,FOODON_00003798
+ing-mealdb-54,Celeriac,celeriac,mealdb-ingredient,
+ing-mealdb-55,Celery,celery,mealdb-ingredient,
+ing-mealdb-56,Celery Salt,celery salt,mealdb-ingredient,FOODON_03304738
+ing-mealdb-57,Challots,challots,mealdb-ingredient,
+ing-mealdb-58,Charlotte Potatoes,charlotte potatoes,mealdb-ingredient,
+ing-mealdb-59,Cheddar Cheese,cheddar cheese,mealdb-ingredient,FOODON_03302458
+ing-mealdb-60,Cheese,cheese,mealdb-ingredient,FOODON_03000287
+ing-mealdb-61,Cheese Curds,cheese curds,mealdb-ingredient,
+ing-mealdb-62,Cherry Tomatoes,cherry tomatoes,mealdb-ingredient,
+ing-mealdb-63,Chestnut Mushroom,chestnut mushroom,mealdb-ingredient,
+ing-mealdb-65,Chicken Breast,chicken breast,mealdb-ingredient,FOODON_00002703
+ing-mealdb-66,Chicken Breasts,chicken breasts,mealdb-ingredient,
+ing-mealdb-67,Chicken Legs,chicken legs,mealdb-ingredient,
+ing-mealdb-68,Chicken Stock,chicken stock,mealdb-ingredient,
+ing-mealdb-70,Chicken Thighs,chicken thighs,mealdb-ingredient,
+ing-mealdb-71,Chickpeas,chickpeas,mealdb-ingredient,
+ing-mealdb-72,Chili Powder,chili powder,mealdb-ingredient,FOODON_03302030
+ing-mealdb-73,Chilled Butter,chilled butter,mealdb-ingredient,
+ing-mealdb-74,Chilli,chilli,mealdb-ingredient,
+ing-mealdb-75,Chilli Powder,chilli powder,mealdb-ingredient,
+ing-mealdb-76,Chinese Broccoli,chinese broccoli,mealdb-ingredient,
+ing-mealdb-77,Chocolate Chips,chocolate chips,mealdb-ingredient,
+ing-mealdb-78,Chopped Onion,chopped onion,mealdb-ingredient,
+ing-mealdb-79,Chopped Parsley,chopped parsley,mealdb-ingredient,
+ing-mealdb-80,Chopped Tomatoes,chopped tomatoes,mealdb-ingredient,
+ing-mealdb-81,Chorizo,chorizo,mealdb-ingredient,FOODON_03316070
+ing-mealdb-82,Christmas Pudding,christmas pudding,mealdb-ingredient,FOODON_03307094
+ing-mealdb-83,Cilantro,cilantro,mealdb-ingredient,
+ing-mealdb-84,Cinnamon,cinnamon,mealdb-ingredient,FOODON_03301175
+ing-mealdb-85,Cinnamon Stick,cinnamon stick,mealdb-ingredient,FOODON_03301224
+ing-mealdb-87,Cloves,cloves,mealdb-ingredient,
+ing-mealdb-88,Coco Sugar,coco sugar,mealdb-ingredient,
+ing-mealdb-89,Cocoa,cocoa,mealdb-ingredient,FOODON_03301072
+ing-mealdb-90,Coconut Cream,coconut cream,mealdb-ingredient,FOODON_03303088
+ing-mealdb-91,Coconut Milk,coconut milk,mealdb-ingredient,FOODON_03303084
+ing-mealdb-92,Colby Jack Cheese,colby jack cheese,mealdb-ingredient,
+ing-mealdb-93,Cold Water,cold water,mealdb-ingredient,
+ing-mealdb-94,Condensed Milk,condensed milk,mealdb-ingredient,
+ing-mealdb-95,Coriander,coriander,mealdb-ingredient,FOODON_03310370
+ing-mealdb-96,Coriander Leaves,coriander leaves,mealdb-ingredient,
+ing-mealdb-97,Coriander Seeds,coriander seeds,mealdb-ingredient,
+ing-mealdb-98,Corn Tortillas,corn tortillas,mealdb-ingredient,
+ing-mealdb-99,Cornstarch,cornstarch,mealdb-ingredient,
+ing-mealdb-100,Cream,cream,mealdb-ingredient,
+ing-mealdb-101,Creme Fraiche,creme fraiche,mealdb-ingredient,
+ing-mealdb-102,Cubed Feta Cheese,cubed feta cheese,mealdb-ingredient,
+ing-mealdb-103,Cucumber,cucumber,mealdb-ingredient,FOODON_00003415
+ing-mealdb-104,Cumin,cumin,mealdb-ingredient,
+ing-mealdb-105,Cumin Seeds,cumin seeds,mealdb-ingredient,
+ing-mealdb-106,Curry Powder,curry powder,mealdb-ingredient,FOODON_03301842
+ing-mealdb-107,Dark Brown Sugar,dark brown sugar,mealdb-ingredient,
+ing-mealdb-108,Dark Soft Brown Sugar,dark soft brown sugar,mealdb-ingredient,
+ing-mealdb-109,Dark Soy Sauce,dark soy sauce,mealdb-ingredient,
+ing-mealdb-110,Demerara Sugar,demerara sugar,mealdb-ingredient,FOODON_00002847
+ing-mealdb-111,Diced Tomatoes,diced tomatoes,mealdb-ingredient,
+ing-mealdb-112,Digestive Biscuits,digestive biscuits,mealdb-ingredient,
+ing-mealdb-113,Dill,dill,mealdb-ingredient,
+ing-mealdb-114,Doner Meat,doner meat,mealdb-ingredient,
+ing-mealdb-115,Double Cream,double cream,mealdb-ingredient,
+ing-mealdb-116,Dried Oregano,dried oregano,mealdb-ingredient,
+ing-mealdb-117,Dry White Wine,dry white wine,mealdb-ingredient,
+ing-mealdb-119,Egg Plants,egg plants,mealdb-ingredient,
+ing-mealdb-120,Egg Rolls,egg rolls,mealdb-ingredient,
+ing-mealdb-121,Egg White,egg white,mealdb-ingredient,
+ing-mealdb-122,Egg Yolks,egg yolks,mealdb-ingredient,
+ing-mealdb-123,Eggs,eggs,mealdb-ingredient,
+ing-mealdb-124,Enchilada Sauce,enchilada sauce,mealdb-ingredient,FOODON_03304007
+ing-mealdb-125,English Mustard,english mustard,mealdb-ingredient,
+ing-mealdb-126,Extra Virgin Olive Oil,extra virgin olive oil,mealdb-ingredient,
+ing-mealdb-127,Fajita Seasoning,fajita seasoning,mealdb-ingredient,
+ing-mealdb-128,Farfalle,farfalle,mealdb-ingredient,
+ing-mealdb-130,Fennel Bulb,fennel bulb,mealdb-ingredient,FOODON_03000120
+ing-mealdb-131,Fennel Seeds,fennel seeds,mealdb-ingredient,
+ing-mealdb-132,Fenugreek,fenugreek,mealdb-ingredient,
+ing-mealdb-133,Feta,feta,mealdb-ingredient,
+ing-mealdb-134,Fish Sauce,fish sauce,mealdb-ingredient,FOODON_03317197
+ing-mealdb-135,Flaked Almonds,flaked almonds,mealdb-ingredient,
+ing-mealdb-136,Flax Eggs,flax eggs,mealdb-ingredient,
+ing-mealdb-137,Flour,flour,mealdb-ingredient,FOODON_00004510
+ing-mealdb-138,Flour Tortilla,flour tortilla,mealdb-ingredient,
+ing-mealdb-139,Floury Potatoes,floury potatoes,mealdb-ingredient,
+ing-mealdb-140,"Free-range Egg, Beaten",free range egg beaten,mealdb-ingredient,
+ing-mealdb-141,"Free-range Eggs, Beaten",free range eggs beaten,mealdb-ingredient,
+ing-mealdb-142,French Lentils,french lentils,mealdb-ingredient,
+ing-mealdb-143,Fresh Basil,fresh basil,mealdb-ingredient,
+ing-mealdb-144,Fresh Thyme,fresh thyme,mealdb-ingredient,
+ing-mealdb-145,Freshly Chopped Parsley,freshly chopped parsley,mealdb-ingredient,
+ing-mealdb-146,Fries,fries,mealdb-ingredient,
+ing-mealdb-147,Full Fat Yogurt,full fat yogurt,mealdb-ingredient,
+ing-mealdb-148,Garam Masala,garam masala,mealdb-ingredient,
+ing-mealdb-149,Garlic,garlic,mealdb-ingredient,
+ing-mealdb-150,Garlic Clove,garlic clove,mealdb-ingredient,FOODON_00003583
+ing-mealdb-151,Garlic Powder,garlic powder,mealdb-ingredient,FOODON_03301844
+ing-mealdb-152,Garlic Sauce,garlic sauce,mealdb-ingredient,
+ing-mealdb-153,Ghee,ghee,mealdb-ingredient,FOODON_03310185
+ing-mealdb-154,Ginger,ginger,mealdb-ingredient,
+ing-mealdb-155,Ginger Cordial,ginger cordial,mealdb-ingredient,
+ing-mealdb-156,Ginger Garlic Paste,ginger garlic paste,mealdb-ingredient,
+ing-mealdb-157,Ginger Paste,ginger paste,mealdb-ingredient,
+ing-mealdb-158,Golden Syrup,golden syrup,mealdb-ingredient,
+ing-mealdb-159,Gouda Cheese,gouda cheese,mealdb-ingredient,FOODON_03303514
+ing-mealdb-160,Granulated Sugar,granulated sugar,mealdb-ingredient,
+ing-mealdb-161,Grape Tomatoes,grape tomatoes,mealdb-ingredient,
+ing-mealdb-162,Greek Yogurt,greek yogurt,mealdb-ingredient,FOODON_00004409
+ing-mealdb-163,Green Beans,green beans,mealdb-ingredient,
+ing-mealdb-165,Green Chilli,green chilli,mealdb-ingredient,
+ing-mealdb-166,Green Olives,green olives,mealdb-ingredient,
+ing-mealdb-167,Green Red Lentils,green red lentils,mealdb-ingredient,
+ing-mealdb-168,Green Salsa,green salsa,mealdb-ingredient,
+ing-mealdb-169,Ground Almonds,ground almonds,mealdb-ingredient,
+ing-mealdb-170,Ground Cumin,ground cumin,mealdb-ingredient,
+ing-mealdb-171,Ground Ginger,ground ginger,mealdb-ingredient,
+ing-mealdb-172,Gruyère,gruyere,mealdb-ingredient,
+ing-mealdb-173,Hard Taco Shells,hard taco shells,mealdb-ingredient,
+ing-mealdb-175,Harissa Spice,harissa spice,mealdb-ingredient,
+ing-mealdb-176,Heavy Cream,heavy cream,mealdb-ingredient,FOODON_03310795
+ing-mealdb-177,Honey,honey,mealdb-ingredient,
+ing-mealdb-178,Horseradish,horseradish,mealdb-ingredient,FOODON_03316284
+ing-mealdb-179,Hot Beef Stock,hot beef stock,mealdb-ingredient,
+ing-mealdb-180,Hotsauce,hotsauce,mealdb-ingredient,
+ing-mealdb-181,Ice Cream,ice cream,mealdb-ingredient,FOODON_00004500
+ing-mealdb-182,Italian Fennel Sausages,italian fennel sausages,mealdb-ingredient,
+ing-mealdb-183,Italian Seasoning,italian seasoning,mealdb-ingredient,
+ing-mealdb-184,Jalapeno,jalapeno,mealdb-ingredient,
+ing-mealdb-185,Jasmine Rice,jasmine rice,mealdb-ingredient,
+ing-mealdb-186,Jerusalem Artichokes,jerusalem artichokes,mealdb-ingredient,
+ing-mealdb-187,Kale,kale,mealdb-ingredient,
+ing-mealdb-188,Khus Khus,khus khus,mealdb-ingredient,
+ing-mealdb-189,King Prawns,king prawns,mealdb-ingredient,
+ing-mealdb-190,Kosher Salt,kosher salt,mealdb-ingredient,
+ing-mealdb-191,Lamb,lamb,mealdb-ingredient,FOODON_03411669
+ing-mealdb-192,Lamb Loin Chops,lamb loin chops,mealdb-ingredient,
+ing-mealdb-193,Lamb Mince,lamb mince,mealdb-ingredient,
+ing-mealdb-194,Lasagne Sheets,lasagne sheets,mealdb-ingredient,
+ing-mealdb-195,Lean Minced Beef,lean minced beef,mealdb-ingredient,
+ing-mealdb-196,Leek,leek,mealdb-ingredient,FOODON_00003670
+ing-mealdb-197,Lemon,lemon,mealdb-ingredient,FOODON_03315104
+ing-mealdb-198,Lemon Juice,lemon juice,mealdb-ingredient,FOODON_03305428
+ing-mealdb-199,Lemon Zest,lemon zest,mealdb-ingredient,FOODON_00003284
+ing-mealdb-200,Lemons,lemons,mealdb-ingredient,
+ing-mealdb-201,Lettuce,lettuce,mealdb-ingredient,
+ing-mealdb-202,Lime,lime,mealdb-ingredient,FOODON_00003661
+ing-mealdb-203,Little Gem Lettuce,little gem lettuce,mealdb-ingredient,
+ing-mealdb-204,Macaroni,macaroni,mealdb-ingredient,
+ing-mealdb-205,Mackerel,mackerel,mealdb-ingredient,FOODON_03411043
+ing-mealdb-206,Madras Paste,madras paste,mealdb-ingredient,
+ing-mealdb-207,Marjoram,marjoram,mealdb-ingredient,
+ing-mealdb-208,Massaman Curry Paste,massaman curry paste,mealdb-ingredient,
+ing-mealdb-209,Medjool Dates,medjool dates,mealdb-ingredient,
+ing-mealdb-210,Meringue Nests,meringue nests,mealdb-ingredient,
+ing-mealdb-211,Milk,milk,mealdb-ingredient,
+ing-mealdb-212,Minced Garlic,minced garlic,mealdb-ingredient,
+ing-mealdb-213,Miniature Marshmallows,miniature marshmallows,mealdb-ingredient,
+ing-mealdb-214,Mint,mint,mealdb-ingredient,
+ing-mealdb-215,Monterey Jack Cheese,monterey jack cheese,mealdb-ingredient,
+ing-mealdb-216,Mozzarella Balls,mozzarella balls,mealdb-ingredient,
+ing-mealdb-217,Muscovado Sugar,muscovado sugar,mealdb-ingredient,
+ing-mealdb-218,Mushrooms,mushrooms,mealdb-ingredient,
+ing-mealdb-219,Mustard,mustard,mealdb-ingredient,
+ing-mealdb-220,Mustard Powder,mustard powder,mealdb-ingredient,FOODON_03306359
+ing-mealdb-221,Mustard Seeds,mustard seeds,mealdb-ingredient,
+ing-mealdb-222,Nutmeg,nutmeg,mealdb-ingredient,
+ing-mealdb-223,Oil,oil,mealdb-ingredient,FOODON_03310387
+ing-mealdb-224,Olive Oil,olive oil,mealdb-ingredient,FOODON_03301826
+ing-mealdb-226,Onion Salt,onion salt,mealdb-ingredient,FOODON_03304740
+ing-mealdb-227,Onions,onions,mealdb-ingredient,
+ing-mealdb-228,Orange,orange,mealdb-ingredient,FOODON_03315106
+ing-mealdb-229,Orange Zest,orange zest,mealdb-ingredient,
+ing-mealdb-230,Oregano,oregano,mealdb-ingredient,
+ing-mealdb-231,Oyster Sauce,oyster sauce,mealdb-ingredient,FOODON_03317654
+ing-mealdb-232,Paprika,paprika,mealdb-ingredient,
+ing-mealdb-233,Parma Ham,parma ham,mealdb-ingredient,
+ing-mealdb-234,Parmesan,parmesan,mealdb-ingredient,
+ing-mealdb-235,Parmesan Cheese,parmesan cheese,mealdb-ingredient,
+ing-mealdb-236,Parmigiano-reggiano,parmigiano reggiano,mealdb-ingredient,
+ing-mealdb-237,Parsley,parsley,mealdb-ingredient,
+ing-mealdb-238,Peanut Butter,peanut butter,mealdb-ingredient,FOODON_03306867
+ing-mealdb-239,Peanut Oil,peanut oil,mealdb-ingredient,FOODON_03309857
+ing-mealdb-240,Peanuts,peanuts,mealdb-ingredient,
+ing-mealdb-241,Peas,peas,mealdb-ingredient,
+ing-mealdb-242,Pecorino,pecorino,mealdb-ingredient,
+ing-mealdb-243,Penne Rigate,penne rigate,mealdb-ingredient,
+ing-mealdb-244,Pepper,pepper,mealdb-ingredient,FOODON_00003520
+ing-mealdb-245,Pine Nuts,pine nuts,mealdb-ingredient,
+ing-mealdb-246,Pitted Black Olives,pitted black olives,mealdb-ingredient,
+ing-mealdb-247,Plain Chocolate,plain chocolate,mealdb-ingredient,
+ing-mealdb-248,Plain Flour,plain flour,mealdb-ingredient,
+ing-mealdb-249,Plum Tomatoes,plum tomatoes,mealdb-ingredient,
+ing-mealdb-252,Potato Starch,potato starch,mealdb-ingredient,FOODON_03307543
+ing-mealdb-253,Potatoes,potatoes,mealdb-ingredient,
+ing-mealdb-254,Prawns,prawns,mealdb-ingredient,
+ing-mealdb-255,Puff Pastry,puff pastry,Pastry,
+ing-mealdb-256,Raspberry Jam,raspberry jam,mealdb-ingredient,FOODON_03305865
+ing-mealdb-257,Raw King Prawns,raw king prawns,mealdb-ingredient,
+ing-mealdb-258,Red Chilli Flakes,red chilli flakes,mealdb-ingredient,
+ing-mealdb-259,Red Chilli,red chilli,mealdb-ingredient,
+ing-mealdb-261,Red Chilli Powder,red chilli powder,mealdb-ingredient,
+ing-mealdb-263,Red Onions,red onions,mealdb-ingredient,
+ing-mealdb-264,Red Pepper,red pepper,mealdb-ingredient,
+ing-mealdb-265,Red Pepper Flakes,red pepper flakes,mealdb-ingredient,
+ing-mealdb-266,Red Wine,red wine,mealdb-ingredient,FOODON_03310272
+ing-mealdb-267,Refried Beans,refried beans,mealdb-ingredient,
+ing-mealdb-268,Rice,rice,mealdb-ingredient,FOODON_00004327
+ing-mealdb-269,Rice Noodles,rice noodles,mealdb-ingredient,
+ing-mealdb-270,Rice Stick Noodles,rice stick noodles,mealdb-ingredient,
+ing-mealdb-271,Rice Vermicelli,rice vermicelli,mealdb-ingredient,
+ing-mealdb-272,Rigatoni,rigatoni,mealdb-ingredient,
+ing-mealdb-273,Rocket,rocket,mealdb-ingredient,
+ing-mealdb-274,Rolled Oats,rolled oats,mealdb-ingredient,FOODON_03307110
+ing-mealdb-276,Saffron,saffron,mealdb-ingredient,
+ing-mealdb-277,Sage,sage,mealdb-ingredient,
+ing-mealdb-278,Sake,sake,mealdb-ingredient,FOODON_03301670
+ing-mealdb-280,Salsa,salsa,mealdb-ingredient,FOODON_03310086
+ing-mealdb-281,Salt,salt,mealdb-ingredient,
+ing-mealdb-282,Salted Butter,salted butter,mealdb-ingredient,
+ing-mealdb-283,Sausages,sausages,mealdb-ingredient,
+ing-mealdb-284,Sea Salt,sea salt,mealdb-ingredient,
+ing-mealdb-286,Self-raising Flour,self raising flour,mealdb-ingredient,
+ing-mealdb-287,Semi-skimmed Milk,semi skimmed milk,mealdb-ingredient,
+ing-mealdb-288,Sesame Seed,sesame seed,mealdb-ingredient,FOODON_03310306
+ing-mealdb-289,Shallots,shallots,mealdb-ingredient,
+ing-mealdb-290,Shredded Mexican Cheese,shredded mexican cheese,mealdb-ingredient,
+ing-mealdb-291,Shredded Monterey Jack Cheese,shredded monterey jack cheese,mealdb-ingredient,
+ing-mealdb-292,Small Potatoes,small potatoes,mealdb-ingredient,
+ing-mealdb-293,Smoked Paprika,smoked paprika,mealdb-ingredient,
+ing-mealdb-294,Smoky Paprika,smoky paprika,mealdb-ingredient,
+ing-mealdb-295,Sour Cream,sour cream,mealdb-ingredient,FOODON_03302515
+ing-mealdb-296,Soy Sauce,soy sauce,mealdb-ingredient,FOODON_03301115
+ing-mealdb-297,Soya Milk,soya milk,mealdb-ingredient,
+ing-mealdb-298,Spaghetti,spaghetti,mealdb-ingredient,
+ing-mealdb-299,Spinach,spinach,mealdb-ingredient,
+ing-mealdb-301,Spring Onions,spring onions,mealdb-ingredient,
+ing-mealdb-302,Squash,squash,mealdb-ingredient,FOODON_00003539
+ing-mealdb-303,Stir-fry Vegetables,stir fry vegetables,mealdb-ingredient,
+ing-mealdb-304,Strawberries,strawberries,mealdb-ingredient,
+ing-mealdb-305,Sugar,sugar,mealdb-ingredient,FOODON_03420108
+ing-mealdb-306,Sultanas,sultanas,mealdb-ingredient,
+ing-mealdb-307,Sunflower Oil,sunflower oil,mealdb-ingredient,
+ing-mealdb-308,Tamarind Ball,tamarind ball,mealdb-ingredient,
+ing-mealdb-309,Tamarind Paste,tamarind paste,mealdb-ingredient,
+ing-mealdb-310,Thai Fish Sauce,thai fish sauce,mealdb-ingredient,
+ing-mealdb-311,Thai Green Curry Paste,thai green curry paste,mealdb-ingredient,
+ing-mealdb-312,Thai Red Curry Paste,thai red curry paste,mealdb-ingredient,
+ing-mealdb-313,Thyme,thyme,mealdb-ingredient,
+ing-mealdb-315,Tomato Ketchup,tomato ketchup,mealdb-ingredient,FOODON_03301460
+ing-mealdb-316,Tomato Puree,tomato puree,mealdb-ingredient,FOODON_03301457
+ing-mealdb-317,Tomatoes,tomatoes,mealdb-ingredient,
+ing-mealdb-318,Toor Dal,toor dal,mealdb-ingredient,
+ing-mealdb-319,Tuna,tuna,mealdb-ingredient,FOODON_03411269
+ing-mealdb-320,Turmeric,turmeric,mealdb-ingredient,
+ing-mealdb-321,Turmeric Powder,turmeric powder,mealdb-ingredient,
+ing-mealdb-322,Turnips,turnips,mealdb-ingredient,
+ing-mealdb-323,Vanilla,vanilla,mealdb-ingredient,
+ing-mealdb-324,Vanilla Extract,vanilla extract,mealdb-ingredient,
+ing-mealdb-325,Veal,veal,mealdb-ingredient,FOODON_00003083
+ing-mealdb-326,Vegan Butter,vegan butter,mealdb-ingredient,
+ing-mealdb-327,Vegetable Oil,vegetable oil,mealdb-ingredient,FOODON_03305263
+ing-mealdb-328,Vegetable Stock,vegetable stock,mealdb-ingredient,FOODON_03315835
+ing-mealdb-329,Vegetable Stock Cube,vegetable stock cube,mealdb-ingredient,
+ing-mealdb-330,Vinaigrette Dressing,vinaigrette dressing,mealdb-ingredient,
+ing-mealdb-331,Vine Leaves,vine leaves,mealdb-ingredient,
+ing-mealdb-332,Vinegar,vinegar,mealdb-ingredient,FOODON_03301705
+ing-mealdb-333,Water,water,mealdb-ingredient,
+ing-mealdb-334,White Chocolate Chips,white chocolate chips,mealdb-ingredient,
+ing-mealdb-335,White Fish,white fish,mealdb-ingredient,
+ing-mealdb-336,White Fish Fillets,white fish fillets,mealdb-ingredient,
+ing-mealdb-337,White Vinegar,white vinegar,mealdb-ingredient,
+ing-mealdb-338,White Wine,white wine,mealdb-ingredient,FOODON_03310273
+ing-mealdb-339,Whole Milk,whole milk,mealdb-ingredient,
+ing-mealdb-340,Whole Wheat,whole wheat,mealdb-ingredient,
+ing-mealdb-341,Wholegrain Bread,wholegrain bread,mealdb-ingredient,
+ing-mealdb-342,Worcestershire Sauce,worcestershire sauce,mealdb-ingredient,FOODON_03305003
+ing-mealdb-343,Yogurt,yogurt,mealdb-ingredient,
+ing-mealdb-344,Zucchini,zucchini,mealdb-ingredient,
+ing-mealdb-345,Pretzels,pretzels,mealdb-ingredient,
+ing-mealdb-346,Cream Cheese,cream cheese,mealdb-ingredient,FOODON_03301889
+ing-mealdb-347,Icing Sugar,icing sugar,mealdb-ingredient,
+ing-mealdb-348,Toffee Popcorn,toffee popcorn,mealdb-ingredient,
+ing-mealdb-349,Caramel,caramel,mealdb-ingredient,FOODON_03317034
+ing-mealdb-350,Caramel Sauce,caramel sauce,mealdb-ingredient,
+ing-mealdb-351,Tagliatelle,tagliatelle,mealdb-ingredient,FOODON_00002631
+ing-mealdb-352,Fettuccine,fettuccine,mealdb-ingredient,
+ing-mealdb-353,Clotted Cream,clotted cream,mealdb-ingredient,FOODON_03317490
+ing-mealdb-354,Corn Flour,corn flour,mealdb-ingredient,FOODON_03302500
+ing-mealdb-355,Mussels,mussels,mealdb-ingredient,
+ing-mealdb-356,Fideo,fideo,mealdb-ingredient,
+ing-mealdb-357,Monkfish,monkfish,mealdb-ingredient,FOODON_02021920
+ing-mealdb-358,Vermicelli Pasta,vermicelli pasta,mealdb-ingredient,
+ing-mealdb-359,Baby Squid,baby squid,mealdb-ingredient,
+ing-mealdb-360,Squid,squid,mealdb-ingredient,FOODON_03411205
+ing-mealdb-361,Fish Stock,fish stock,mealdb-ingredient,
+ing-mealdb-362,Pilchards,pilchards,mealdb-ingredient,
+ing-mealdb-363,Black Olives,black olives,mealdb-ingredient,
+ing-mealdb-364,Onion,onion,mealdb-ingredient,FOODON_03316347
+ing-mealdb-365,Tomato,tomato,mealdb-ingredient,FOODON_03301453
+ing-mealdb-366,Duck,duck,mealdb-ingredient,FOODON_03411316
+ing-mealdb-367,Duck Legs,duck legs,mealdb-ingredient,
+ing-mealdb-368,Chicken Stock Cube,chicken stock cube,mealdb-ingredient,
+ing-mealdb-369,Pappardelle Pasta,pappardelle pasta,mealdb-ingredient,
+ing-mealdb-370,Paccheri Pasta,paccheri pasta,mealdb-ingredient,
+ing-mealdb-371,Linguine Pasta,linguine pasta,mealdb-ingredient,
+ing-mealdb-373,Sugar Snap Peas,sugar snap peas,mealdb-ingredient,
+ing-mealdb-374,Crusty Bread,crusty bread,mealdb-ingredient,
+ing-mealdb-375,Fromage Frais,fromage frais,mealdb-ingredient,
+ing-mealdb-376,Clams,clams,mealdb-ingredient,
+ing-mealdb-377,Passata,passata,mealdb-ingredient,
+ing-mealdb-378,Rapeseed Oil,rapeseed oil,mealdb-ingredient,FOODON_03310482
+ing-mealdb-379,Stilton Cheese,stilton cheese,mealdb-ingredient,FOODON_03303870
+ing-mealdb-380,Lamb Leg,lamb leg,mealdb-ingredient,FOODON_02000253
+ing-mealdb-381,Lamb Shoulder,lamb shoulder,mealdb-ingredient,FOODON_02000239
+ing-mealdb-382,Apricot,apricot,mealdb-ingredient,FOODON_00003476
+ing-mealdb-383,Butternut Squash,butternut squash,mealdb-ingredient,FOODON_00005354
+ing-mealdb-384,Couscous,couscous,mealdb-ingredient,FOODON_00005532
+ing-mealdb-387,Minced Beef,minced beef,mealdb-ingredient,
+ing-mealdb-388,Turkey Mince,turkey mince,mealdb-ingredient,
+ing-mealdb-389,Barbeque Sauce,barbeque sauce,mealdb-ingredient,FOODON_03302062
+ing-mealdb-390,Sweetcorn,sweetcorn,mealdb-ingredient,
+ing-mealdb-391,Goose Fat,goose fat,mealdb-ingredient,FOODON_02020394
+ing-mealdb-392,Duck Fat,duck fat,mealdb-ingredient,FOODON_02020133
+ing-mealdb-393,Fennel,fennel,mealdb-ingredient,
+ing-mealdb-394,Red Wine Vinegar,red wine vinegar,mealdb-ingredient,
+ing-mealdb-395,Haricot Beans,haricot beans,mealdb-ingredient,
+ing-mealdb-396,Rosemary,rosemary,mealdb-ingredient,
+ing-mealdb-397,Butter Beans,butter beans,mealdb-ingredient,
+ing-mealdb-398,Pinto Beans,pinto beans,mealdb-ingredient,
+ing-mealdb-399,Tomato Sauce,tomato sauce,mealdb-ingredient,FOODON_03301217
+ing-mealdb-401,Mascarpone,mascarpone,mealdb-ingredient,FOODON_00003255
+ing-mealdb-402,Mozzarella,mozzarella,mealdb-ingredient,
+ing-mealdb-403,Ricotta,ricotta,mealdb-ingredient,
+ing-mealdb-405,Dried Apricots,dried apricots,mealdb-ingredient,
+ing-mealdb-406,Capers,capers,mealdb-ingredient,
+ing-mealdb-407,Banana,banana,mealdb-ingredient,FOODON_00004183
+ing-mealdb-408,Raspberries,raspberries,mealdb-ingredient,
+ing-mealdb-409,Blueberries,blueberries,mealdb-ingredient,
+ing-mealdb-410,Walnuts,walnuts,mealdb-ingredient,
+ing-mealdb-411,Pecan Nuts,pecan nuts,mealdb-ingredient,
+ing-mealdb-412,Maple Syrup,maple syrup,mealdb-ingredient,FOODON_03301848
+ing-mealdb-413,Light Brown Soft Sugar,light brown soft sugar,mealdb-ingredient,
+ing-mealdb-414,Dark Brown Soft Sugar,dark brown soft sugar,mealdb-ingredient,
+ing-mealdb-415,Dark Chocolate Chips,dark chocolate chips,mealdb-ingredient,
+ing-mealdb-416,Milk Chocolate,milk chocolate,mealdb-ingredient,FOODON_03302806
+ing-mealdb-417,Dark Chocolate,dark chocolate,mealdb-ingredient,FOODON_03303588
+ing-mealdb-418,Pumpkin,pumpkin,mealdb-ingredient,FOODON_00003486
+ing-mealdb-419,Shortcrust Pastry,shortcrust pastry,Pastry,
+ing-mealdb-420,Peanut Cookies,peanut cookies,mealdb-ingredient,
+ing-mealdb-421,Gelatine Leafs,gelatine leafs,mealdb-ingredient,
+ing-mealdb-422,Peanut Brittle,peanut brittle,mealdb-ingredient,FOODON_03302000
+ing-mealdb-423,Peaches,peaches,mealdb-ingredient,
+ing-mealdb-424,Yellow Pepper,yellow pepper,mealdb-ingredient,
+ing-mealdb-425,Green Pepper,green pepper,mealdb-ingredient,
+ing-mealdb-426,Courgettes,courgettes,mealdb-ingredient,
+ing-mealdb-427,Tinned Tomatos,tinned tomatos,mealdb-ingredient,
+ing-mealdb-428,Chestnuts,chestnuts,mealdb-ingredient,
+ing-mealdb-429,Wild Mushrooms,wild mushrooms,mealdb-ingredient,
+ing-mealdb-430,Truffle Oil,truffle oil,mealdb-ingredient,
+ing-mealdb-431,Paneer,paneer,mealdb-ingredient,FOODON_03601045
+ing-mealdb-432,Naan Bread,naan bread,mealdb-ingredient,
+ing-mealdb-433,Lentils,lentils,mealdb-ingredient,
+ing-mealdb-434,Roasted Vegetables,roasted vegetables,mealdb-ingredient,
+ing-mealdb-435,Kidney Beans,kidney beans,mealdb-ingredient,
+ing-mealdb-436,Mixed Grain,mixed grain,mealdb-ingredient,
+ing-mealdb-437,Tahini,tahini,mealdb-ingredient,FOODON_00003855
+ing-mealdb-438,Tortillas,tortillas,mealdb-ingredient,
+ing-mealdb-439,Udon Noodles,udon noodles,mealdb-ingredient,
+ing-mealdb-440,Cabbage,cabbage,mealdb-ingredient,
+ing-mealdb-441,Shiitake Mushrooms,shiitake mushrooms,mealdb-ingredient,
+ing-mealdb-442,Mirin,mirin,mealdb-ingredient,
+ing-mealdb-443,Sesame Seed Oil,sesame seed oil,mealdb-ingredient,
+ing-mealdb-444,Baguette,baguette,mealdb-ingredient,
+ing-mealdb-445,Vine Tomatoes,vine tomatoes,mealdb-ingredient,
+ing-mealdb-446,Suet,suet,mealdb-ingredient,
+ing-mealdb-447,Swede,swede,mealdb-ingredient,
+ing-mealdb-448,Ham,ham,mealdb-ingredient,FOODON_00005591
+ing-mealdb-449,Oysters,oysters,mealdb-ingredient,
+ing-mealdb-450,Stout,stout,mealdb-ingredient,
+ing-mealdb-451,Lard,lard,mealdb-ingredient,FOODON_03302051
+ing-mealdb-452,Lamb Kidney,lamb kidney,mealdb-ingredient,FOODON_02021150
+ing-mealdb-453,Beef Kidney,beef kidney,mealdb-ingredient,FOODON_02020912
+ing-mealdb-454,Haddock,haddock,mealdb-ingredient,FOODON_03411441
+ing-mealdb-455,Smoked Haddock,smoked haddock,mealdb-ingredient,
+ing-mealdb-456,Brussels Sprouts,brussels sprouts,mealdb-ingredient,
+ing-mealdb-457,Raisins,raisins,mealdb-ingredient,
+ing-mealdb-458,Currants,currants,mealdb-ingredient,
+ing-mealdb-459,Custard,custard,mealdb-ingredient,FOODON_03302946
+ing-mealdb-460,Mixed Peel,mixed peel,mealdb-ingredient,
+ing-mealdb-461,Redcurrants,redcurrants,mealdb-ingredient,
+ing-mealdb-462,Blackberries,blackberries,mealdb-ingredient,
+ing-mealdb-463,Hazlenuts,hazlenuts,mealdb-ingredient,
+ing-mealdb-464,Braeburn Apples,braeburn apples,mealdb-ingredient,
+ing-mealdb-465,Red Food Colouring,red food colouring,mealdb-ingredient,
+ing-mealdb-466,Pink Food Colouring,pink food colouring,mealdb-ingredient,
+ing-mealdb-467,Blue Food Colouring,blue food colouring,mealdb-ingredient,
+ing-mealdb-468,Yellow Food Colouring,yellow food colouring,mealdb-ingredient,
+ing-mealdb-469,Apricot Jam,apricot jam,mealdb-ingredient,FOODON_03305781
+ing-mealdb-470,Marzipan,marzipan,mealdb-ingredient,FOODON_03315555
+ing-mealdb-471,Almonds,almonds,mealdb-ingredient,
+ing-mealdb-472,Black Pudding,black pudding,mealdb-ingredient,FOODON_00002557
+ing-mealdb-473,Baked Beans,baked beans,mealdb-ingredient,
+ing-mealdb-474,White Flour,white flour,mealdb-ingredient,
+ing-mealdb-475,Yeast,yeast,mealdb-ingredient,FOODON_03411345
+ing-mealdb-476,Fruit Mix,fruit mix,mealdb-ingredient,FOODON_03305222
+ing-mealdb-477,Dried Fruit,dried fruit,mealdb-ingredient,
+ing-mealdb-478,Cherry,cherry,mealdb-ingredient,FOODON_00003478
+ing-mealdb-479,Glace Cherry,glace cherry,mealdb-ingredient,
+ing-mealdb-480,Treacle,treacle,mealdb-ingredient,FOODON_03307582
+ing-mealdb-481,Oatmeal,oatmeal,mealdb-ingredient,
+ing-mealdb-482,Oats,oats,mealdb-ingredient,
+ing-mealdb-483,Egg,egg,mealdb-ingredient,
+ing-mealdb-484,Beef Shin,beef shin,mealdb-ingredient,
+ing-mealdb-485,Bouquet Garni,bouquet garni,mealdb-ingredient,
+ing-mealdb-486,Single Cream,single cream,mealdb-ingredient,
+ing-mealdb-487,Red Wine Jelly,red wine jelly,mealdb-ingredient,
+ing-mealdb-488,Apples,apples,mealdb-ingredient,
+ing-mealdb-489,Goats Cheese,goats cheese,mealdb-ingredient,
+ing-mealdb-490,Prosciutto,prosciutto,mealdb-ingredient,FOODON_00003246
+ing-mealdb-491,Unsalted Butter,unsalted butter,mealdb-ingredient,
+ing-mealdb-492,Brie,brie,mealdb-ingredient,
+ing-mealdb-493,Tarragon Leaves,tarragon leaves,mealdb-ingredient,
+ing-mealdb-494,Chives,chives,mealdb-ingredient,
+ing-mealdb-495,Pears,pears,mealdb-ingredient,
+ing-mealdb-496,White Chocolate,white chocolate,mealdb-ingredient,FOODON_03301329
+ing-mealdb-497,Star Anise,star anise,mealdb-ingredient,FOODON_00003502
+ing-mealdb-498,Tiger Prawns,tiger prawns,mealdb-ingredient,
+ing-mealdb-499,Custard Powder,custard powder,mealdb-ingredient,FOODON_03302923
+ing-mealdb-500,Desiccated Coconut,desiccated coconut,mealdb-ingredient,
+ing-mealdb-501,Frozen Peas,frozen peas,mealdb-ingredient,
+ing-mealdb-502,Minced Pork,minced pork,mealdb-ingredient,
+ing-mealdb-503,Creamed Corn,creamed corn,mealdb-ingredient,
+ing-mealdb-504,Sun-Dried Tomatoes,sun dried tomatoes,mealdb-ingredient,
+ing-mealdb-505,Dijon Mustard,dijon mustard,mealdb-ingredient,
+ing-mealdb-506,Tabasco Sauce,tabasco sauce,mealdb-ingredient,
+ing-mealdb-507,Canola Oil,canola oil,mealdb-ingredient,FOODON_03302578
+ing-mealdb-508,Cod,cod,mealdb-ingredient,FOODON_03411423
+ing-mealdb-509,Salt Cod,salt cod,mealdb-ingredient,
+ing-mealdb-510,Ackee,ackee,mealdb-ingredient,
+ing-mealdb-511,Jerk,jerk,mealdb-ingredient,
+ing-mealdb-512,Ground Beef,ground beef,mealdb-ingredient,
+ing-mealdb-513,Baby Aubergine,baby aubergine,Vegetable,
+ing-mealdb-514,Paella Rice,paella rice,mealdb-ingredient,
+ing-mealdb-515,Scotch Bonnet,scotch bonnet,Vegetable,FOODON_03414944
+ing-mealdb-516,Oxtail,oxtail,Meat,
+ing-mealdb-517,Broad Beans,broad beans,Vegetable,
+ing-mealdb-518,Red Snapper,red snapper,Fish,FOODON_03411089
+ing-mealdb-519,Malt Vinegar,malt vinegar,Seasoning,FOODON_03301229
+ing-mealdb-520,Rice Vinegar,rice vinegar,Vinegar,
+ing-mealdb-521,Water Chestnut,water chestnut,Sedge,FOODON_00003571
+ing-mealdb-522,Tofu,tofu,Curd,FOODON_00004697
+ing-mealdb-523,Doubanjiang,doubanjiang,Sauce,
+ing-mealdb-524,Fermented Black Beans,fermented black beans,Bean,
+ing-mealdb-525,Scallions,scallions,Vegetable,
+ing-mealdb-526,Sichuan Pepper,sichuan pepper,Spice,FOODON_00003470
+ing-mealdb-527,Wonton Skin,wonton skin,Pastry,
+ing-mealdb-528,Starch,starch,Side,
+ing-mealdb-529,Rice wine,rice wine,Wine,FOODON_03307312
+ing-mealdb-530,Cooking wine,cooking wine,Wine,FOODON_03307299
+ing-mealdb-531,Duck Sauce,duck sauce,Sauce,
+ing-mealdb-532,Gochujang,gochujang,Sauce,
+ing-mealdb-533,Bean Sprouts,bean sprouts,Vegetable,
+ing-mealdb-534,Noodles,noodles,Side,
+ing-mealdb-535,Wood Ear Mushrooms,wood ear mushrooms,Vegetable,
+ing-mealdb-536,Dark Rum,dark rum,Spirit,
+ing-mealdb-537,Light Rum,light rum,Spirit,
+ing-mealdb-538,Rum,rum,Spirit,FOODON_03301614
+ing-mealdb-539,English Muffins,english muffins,Bread,
+ing-mealdb-540,Muffins,muffins,Bread,
+ing-mealdb-541,White Wine Vinegar,white wine vinegar,Dressing,
+ing-mealdb-542,Smoked Salmon,smoked salmon,Fish,
+ing-mealdb-543,Mars Bar,mars bar,Confectionery,
+ing-mealdb-544,Rice Krispies,rice krispies,Cereal,
+ing-mealdb-545,Ancho Chillies,ancho chillies,Spice,
+ing-mealdb-546,Almond Milk,almond milk,Dairy,FOODON_00003157
+ing-mealdb-548,Allspice,allspice,mealdb-ingredient,FOODON_00002667
+ing-mealdb-550,Almond Extract,almond extract,Fruit,
+ing-mealdb-552,Tripe,tripe,Meat,FOODON_03420192
+ing-mealdb-553,Goat Meat,goat meat,Meat,
+ing-mealdb-554,Black Beans,black beans,Bean,
+ing-mealdb-555,Anchovy Fillet,anchovy fillet,Fish,FOODON_00002669
+ing-mealdb-556,Ras el hanout,ras el hanout,Spice,
+ing-mealdb-557,Filo Pastry,filo pastry,Pastry,
+ing-mealdb-558,Orange Blossom Water,orange blossom water,Drink,
+ing-mealdb-559,Candied Peel,candied peel,Confectionery,
+ing-mealdb-560,Grand Marnier,grand marnier,Liqueur,
+ing-mealdb-561,Sherry,sherry,Wine,FOODON_03310760
+ing-mealdb-562,Rose water,rose water,Drink,
+ing-mealdb-563,Mixed Spice,mixed spice,Spice,
+ing-mealdb-564,Mincemeat,mincemeat,Spice,FOODON_03305810
+ing-mealdb-565,Sweet Potatoes,sweet potatoes,Root Vegetable,
+ing-mealdb-566,Bread Rolls,bread rolls,Bread,
+ing-mealdb-567,Bun,bun,Bread,
+ing-mealdb-568,Potatoe Buns,potatoe buns,Bread,
+ing-mealdb-569,Ground Pork,ground pork,Meat,
+ing-mealdb-570,Pork Chops,pork chops,Meat,
+ing-mealdb-571,Yukon Gold Potatoes,yukon gold potatoes,Root Vegetable,
+ing-mealdb-572,Yellow Onion,yellow onion,Vegetable,FOODON_00003517
+ing-mealdb-573,Beef Stock Concentrate,beef stock concentrate,Stock,
+ing-mealdb-574,Chicken Stock Concentrate,chicken stock concentrate,Stock,
+ing-mealdb-575,Persian Cucumber,persian cucumber,Vegetable,
+ing-mealdb-576,Mayonnaise,mayonnaise,Sauce,FOODON_03301440
+ing-mealdb-577,Sriracha,sriracha,Sauce,
+ing-mealdb-578,Rhubarb,rhubarb,Vegetable,
+ing-mealdb-579,Pita Bread,pita bread,Bread,FOODON_00003060
+ing-mealdb-580,Bulgur Wheat,bulgur wheat,Cereal,
+ing-mealdb-581,Quinoa,quinoa,Grain,
+ing-mealdb-582,Dill Pickles,dill pickles,Vegetable,
+ing-mealdb-583,Sesame Seed Burger Buns,sesame seed burger buns,Bread,
+ing-mealdb-585,Buns,buns,Bread,
+ing-mealdb-586,Iceberg Lettuce,iceberg lettuce,Vegetable,
+ing-mealdb-587,Gherkin Relish,gherkin relish,Sauce,
+ing-mealdb-588,Cheese Slices,cheese slices,Cheese,
+ing-mealdb-589,Shortening,shortening,Fat,FOODON_03301314
+ing-mealdb-590,Warm Water,warm water,Liquid,
+ing-mealdb-591,Boiling Water,boiling water,Liquid,FOODON_00004090
+ing-mealdb-592,Pickle Juice,pickle juice,Juice,
+ing-mealdb-593,Powdered Sugar,powdered sugar,Sugar,
+ing-mealdb-594,Kielbasa,kielbasa,Meat,FOODON_00002728
+ing-mealdb-595,Polish Sausage,polish sausage,Meat,
+ing-mealdb-596,Sauerkraut,sauerkraut,Vegetable,FOODON_03301397
+ing-mealdb-597,Caraway Seed,caraway seed,Spice,
+ing-mealdb-598,Herring,herring,Fish,FOODON_03411414
+ing-mealdb-599,Jam,jam,Preserve,FOODON_03309973
+ing-mealdb-600,Mulukhiyah,mulukhiyah,Vegetable,
+ing-mealdb-601,Sushi Rice,sushi rice,Rice,
+ing-mealdb-602,Figs,figs,Fruit,
+ing-mealdb-603,Cider,cider,Drink,
+ing-mealdb-604,Beetroot,beetroot,Vegetable,FOODON_03317254
+ing-mealdb-605,Sardines,sardines,Seafood,
+ing-mealdb-606,Ciabatta,ciabatta,Bread,
+ing-mealdb-607,Buckwheat,buckwheat,Grain,
+ing-mealdb-608,Prunes,prunes,Fruit,
+ing-mealdb-609,Grape leaves,grape leaves,Vegetable,
+ing-mealdb-610,Falafel,falafel,Bread,
+ing-mealdb-611,Green Cardamom Pods,green cardamom pods,mealdb-ingredient,
+ing-mealdb-612,Black Cardamom Pods,black cardamom pods,mealdb-ingredient,
+ing-mealdb-613,Corned Beef,corned beef,Meat,FOODON_00005507
+ing-mealdb-616,Nutella,nutella,Confectionery,
+ing-mealdb-617,Feather blade beef,feather blade beef,Meat,
+ing-mealdb-618,Mature Cheddar,mature cheddar,Cheese,
+ing-mealdb-619,Beef Stock Cubes,beef stock cubes,Sauce,
+ing-mealdb-620,Lean Minced Steak,lean minced steak,Meat,
+ing-mealdb-621,Cooked Beetroot,cooked beetroot,Root Vegetable,
+ing-mealdb-622,Soured cream and chive dip,soured cream and chive dip,Dressing,
+ing-mealdb-623,Unwaxed Lemon,unwaxed lemon,Fruit,
+ing-mealdb-624,Cocoa Powder,cocoa powder,Confectionery,
+ing-mealdb-625,Can of chickpeas,can of chickpeas,Legume,
+ing-mealdb-626,barramundi,barramundi,Fish,FOODON_03412872
+ing-mealdb-627,Golden Caster Sugar,golden caster sugar,Seasoning,
+ing-mealdb-628,Baby New Potatoes,baby new potatoes,Root Vegetable,
+ing-mealdb-629,Hot Chilli Powder,hot chilli powder,Seasoning,
+ing-mealdb-630,Chilli Flakes,chilli flakes,Seasoning,
+ing-mealdb-631,Streaky Bacon,streaky bacon,Meat,
+ing-mealdb-632,Clear Honey,clear honey,Seasoning,
+ing-mealdb-633,Jersey Royal Potatoes,jersey royal potatoes,Root Vegetable,
+ing-mealdb-634,Natural Yoghurt,natural yoghurt,Dairy,
+ing-mealdb-635,Appleton rum,appleton rum,Drink,
+ing-mealdb-636,Chinese five spice powder,chinese five spice powder,Seasoning,FOODON_00004176
+ing-mealdb-637,sweet chilli sauce,sweet chilli sauce,Dressing,
+ing-mealdb-638,Ground Cinnamon,ground cinnamon,Seasoning,
+ing-mealdb-639,Chopped Chive,chopped chive,Seasoning,
+ing-mealdb-640,Ready rolled shortcrust pastry,ready rolled shortcrust pastry,Pastry,
+ing-mealdb-641,Chicken drumsticks,chicken drumsticks,Meat,
+ing-mealdb-642,Porridge oats,porridge oats,Cereal,
+ing-mealdb-643,Sirloin Steak tips,sirloin steak tips,Meat,
+ing-mealdb-644,White Cornmeal,white cornmeal,Grain,FOODON_03309766
+ing-mealdb-645,Cider Vinegar,cider vinegar,Dressing,FOODON_03307916
+ing-mealdb-646,Strong White Flour,strong white flour,Grain,
+ing-mealdb-647,Fast action yeast,fast action yeast,Grain,
+ing-mealdb-648,Rye Bread,rye bread,Bread,
+ing-mealdb-649,västerbottensost cheese,vasterbottensost cheese,Cheese,
+ing-mealdb-650,White Asparagus,white asparagus,Root Vegetable,
+ing-mealdb-651,Full fat sour cream,full fat sour cream,Dairy,
+ing-mealdb-652,Instant Yeast,instant yeast,Grain,
+ing-mealdb-653,vanilla sugar,vanilla sugar,Fat,FOODON_03307273
+ing-mealdb-654,vanilla pod,vanilla pod,Fruit,
+ing-mealdb-655,Shredded Coconut,shredded coconut,Fruit,
+ing-mealdb-656,Buttermilk,buttermilk,Dairy,
+ing-mealdb-657,Melted Butter,melted butter,Dairy,
+ing-mealdb-658,All purpose flour,all purpose flour,Grain,
+ing-mealdb-659,Fish fillet,fish fillet,Fish,FOODON_00002679
+ing-mealdb-660,Shrimp,shrimp,Fish,FOODON_03411237
+ing-mealdb-661,White Cabbage,white cabbage,Root Vegetable,
+ing-mealdb-662,Whole black peppercorns,whole black peppercorns,Seasoning,
+ing-mealdb-663,Red Potatoes,red potatoes,Root Vegetable,
+ing-mealdb-664,Bouillon Cubes,bouillon cubes,Seasoning,
+ing-mealdb-665,Pork knuckle,pork knuckle,Meat,
+ing-mealdb-666,Whipping Cream,whipping cream,Dairy,
+ing-mealdb-667,Almond Flour,almond flour,Grain,
+ing-mealdb-668,Mixed Beef Cuts,mixed beef cuts,Meat,
+ing-mealdb-669,Morcilla,morcilla,Meat,
+ing-mealdb-670,Beef Cutlet,beef cutlet,Meat,
+ing-mealdb-671,Chimichurri sauce,chimichurri sauce,Dressing,
+ing-mealdb-672,Dulce de leche,dulce de leche,Dressing,FOODON_00003138
+ing-mealdb-673,Chickpea Flour,chickpea flour,Grain,FOODON_03304537
+ing-mealdb-674,Beef Flank Steak,beef flank steak,Meat,FOODON_02000177
+ing-mealdb-675,sweet smoked paprika,sweet smoked paprika,Seasoning,
+ing-mealdb-676,manchego,manchego,Dairy,
+ing-mealdb-677,Wild Garlic Leaves,wild garlic leaves,Seasoning,
+ing-mealdb-678,jamón ibérico,jamon iberico,Meat,
+ing-mealdb-679,Strong white bread flour,strong white bread flour,Grain,
+ing-mealdb-680,Dried white corn,dried white corn,Grain,
+ing-mealdb-681,Dried white beans,dried white beans,Grain,
+ing-mealdb-682,Seafood stock,seafood stock,Seasoning,
+ing-mealdb-683,Padron peppers,padron peppers,Root Vegetable,
+ing-mealdb-684,Raw tiger prawns,raw tiger prawns,Fish,
+ing-mealdb-685,Dry sherry,dry sherry,Drink,
+ing-mealdb-686,Hake,hake,Fish,FOODON_03413878
+ing-mealdb-687,Sherry vinegar,sherry vinegar,Dressing,
+ing-mealdb-688,Roasted pepper,roasted pepper,Root Vegetable,
+ing-mealdb-689,Pork belly slices,pork belly slices,Meat,
+ing-mealdb-690,Bacon lardon,bacon lardon,Meat,
+ing-mealdb-691,Mixed peppers,mixed peppers,Root Vegetable,
+ing-mealdb-692,Stale bread,stale bread,Bread,
+ing-mealdb-693,Dried cranberries,dried cranberries,Fruit,
+ing-mealdb-694,Sweet Sherry,sweet sherry,Drink,
+ing-mealdb-695,Frozen Seafood mix,frozen seafood mix,Fish,
+ing-mealdb-696,Savoy Cabbage,savoy cabbage,Root Vegetable,
+ing-mealdb-697,White bread,white bread,Bread,FOODON_03301055
+ing-mealdb-698,Hot smoked paprika,hot smoked paprika,Seasoning,
+ing-mealdb-699,Garlic Bulb,garlic bulb,Seasoning,FOODON_00003582
+ing-mealdb-700,Shelled Hazelnuts,shelled hazelnuts,Nut,
+ing-mealdb-701,Serrano Ham,serrano ham,Meat,FOODON_00002545
+ing-mealdb-702,Beef tomatoes,beef tomatoes,Fruit,
+ing-mealdb-703,Semolina,semolina,Fruit,
+ing-mealdb-704,Ground Poppy seeds,ground poppy seeds,Grain,
+ing-mealdb-705,Bryndza cheese,bryndza cheese,Cheese,
+ing-mealdb-706,Panang Curry Paste,panang curry paste,Sauce,
+ing-mealdb-707,makrut lime leaves,makrut lime leaves,Seasoning,
+ing-mealdb-708,Dried Red Chillies,dried red chillies,Root Vegetable,
+ing-mealdb-709,Shrimp Paste,shrimp paste,Sauce,FOODON_03309823
+ing-mealdb-710,Galangal,galangal,Seasoning,
+ing-mealdb-711,Lemongrass,lemongrass,Seasoning,
+ing-mealdb-712,Ground Coriander,ground coriander,Seasoning,
+ing-mealdb-713,Ground Nutmeg,ground nutmeg,Seasoning,
+ing-mealdb-714,Flat Rice Noodles,flat rice noodles,Pasta,
+ing-mealdb-715,Birds-eye Chillies,birds eye chillies,Root Vegetable,
+ing-mealdb-716,Sirloin steak,sirloin steak,Meat,
+ing-mealdb-717,Lemongrass Stalks,lemongrass stalks,Seasoning,
+ing-mealdb-718,Oyster Mushrooms,oyster mushrooms,Mushroom,
+ing-mealdb-719,Lime juice,lime juice,Dressing,FOODON_03306160
+ing-mealdb-720,Thai Chilli Jam,thai chilli jam,Curd,
+ing-mealdb-721,Pork Tenderloin,pork tenderloin,Meat,FOODON_02000306
+ing-mealdb-722,Chilli Sauce,chilli sauce,Sauce,
+ing-mealdb-723,Ground Nut Oil,ground nut oil,Seasoning,
+ing-mealdb-725,Runner Beans,runner beans,Root Vegetable,
+ing-mealdb-726,Trout,trout,Fish,FOODON_03411258
+ing-mealdb-727,Baby Pak Koi,baby pak koi,Root Vegetable,
+ing-mealdb-728,Vermicelli Rice Noodles,vermicelli rice noodles,Pasta,
+ing-mealdb-729,Raw Frozen Prawns,raw frozen prawns,Fish,
+ing-mealdb-730,Galangal Paste,galangal paste,Fish,
+ing-mealdb-731,Lime Leaves,lime leaves,Seasoning,
+ing-mealdb-732,Egg Noodles,egg noodles,Pasta,
+ing-mealdb-733,Chinese Leaf,chinese leaf,Seasoning,
+ing-mealdb-734,Five Spice Powder,five spice powder,Seasoning,
+ing-mealdb-735,Brown Rice Noodle,brown rice noodle,Pasta,
+ing-mealdb-736,Pak Choi,pak choi,Root Vegetable,
+ing-mealdb-737,Bamboo Shoot,bamboo shoot,Root Vegetable,FOODON_00005324
+ing-mealdb-738,Knafeh,knafeh,Root Vegetable,
+ing-mealdb-739,Arabic Rice,arabic rice,Rice,
+ing-mealdb-740,Hail,hail,Rice,
+ing-mealdb-741,Mixture Powder,mixture powder,Seasoning,
+ing-mealdb-742,Chuck Roast,chuck roast,Meat,
+ing-mealdb-743,Ground Clove,ground clove,Seasoning,
+ing-mealdb-744,Ground Cardomom,ground cardomom,Seasoning,
+ing-mealdb-745,Kabse Spice,kabse spice,Seasoning,
+ing-mealdb-746,Garlic Granules,garlic granules,Seasoning,FOODON_03316447
+ing-mealdb-747,Toast,toast,Bread,FOODON_03306255
+ing-mealdb-748,Unsalted Pistachio,unsalted pistachio,Nut,
+ing-mealdb-749,Oreo Cream Biscuits,oreo cream biscuits,Confectionery,
+ing-mealdb-750,Sevaiiya,sevaiiya,Pasta,
+ing-mealdb-751,Malai,malai,Dairy,
+ing-mealdb-752,Liquid Cheese,liquid cheese,Dairy,
+ing-mealdb-753,Rice Paper Sheets,rice paper sheets,Rice,
+ing-mealdb-754,Rainbow Trout,rainbow trout,Fish,FOODON_03411109
+ing-mealdb-755,Bok Choi,bok choi,Fish,
+ing-mealdb-756,Fillet Of Steak,fillet of steak,Meat,
+ing-mealdb-757,Chinese Cabbage,chinese cabbage,Root Vegetable,
+ing-mealdb-758,Soda Water,soda water,Drink,FOODON_03302269
+ing-mealdb-759,Purple Sprouting Broccoli,purple sprouting broccoli,Root Vegetable,
+ing-mealdb-760,Lamb Shanks,lamb shanks,Meat,
+ing-mealdb-761,Lamb Stock,lamb stock,Sauce,
+ing-mealdb-762,Radish,radish,Root Vegetable,FOODON_00003431
+ing-mealdb-763,Szechuan Peppercorns,szechuan peppercorns,Seasoning,
+ing-mealdb-764,Pork Shoulder Steaks,pork shoulder steaks,Meat,
+ing-mealdb-765,Palm Sugar,palm sugar,Seasoning,FOODON_03304565
+ing-mealdb-766,Soya Bean,soya bean,Legume,
+ing-mealdb-767,Marinated Tofu,marinated tofu,Root Vegetable,
+ing-mealdb-768,Hoisin Sauce,hoisin sauce,Sauce,FOODON_00002526
+ing-mealdb-769,Rice Flour Pancakes,rice flour pancakes,Rice,
+ing-mealdb-770,White Bread Mix,white bread mix,Bread,
+ing-mealdb-771,Roasted Peanut,roasted peanut,Nut,
+ing-mealdb-772,Hot Smoked Flaked Salmon,hot smoked flaked salmon,Fish,
+ing-mealdb-773,Red Cabbage,red cabbage,Root Vegetable,
+ing-mealdb-774,Sea Bass,sea bass,Root Vegetable,FOODON_03412180
+ing-mealdb-775,Sea Bass Fillets,sea bass fillets,Fish,
+ing-mealdb-776,Petit Pois,petit pois,Root Vegetable,
+ing-mealdb-777,Chicken Liver,chicken liver,Meat,FOODON_00002705
+ing-mealdb-778,Turkey,turkey,Meat,FOODON_02020418
+ing-mealdb-779,Raw Vegetables,raw vegetables,Root Vegetable,
+ing-mealdb-780,Vegan White Wine Vinegar,vegan white wine vinegar,Dressing,
+ing-mealdb-781,Hummus,hummus,Legume,FOODON_00003049
+ing-mealdb-782,Tempeh,tempeh,Legume,FOODON_03304999
+ing-mealdb-783,Romano Pepper,romano pepper,Root Vegetable,
+ing-mealdb-785,Red Pepper Paste,red pepper paste,Sauce,
+ing-mealdb-786,Pomegranate Molasses,pomegranate molasses,Sauce,
+ing-mealdb-787,Pul Biber,pul biber,Root Vegetable,
+ing-mealdb-788,Sumac,sumac,Seasoning,
+ing-mealdb-789,Dried Mint,dried mint,Seasoning,
+ing-mealdb-790,Sweet Peppadew Peppers,sweet peppadew peppers,Root Vegetable,
+ing-mealdb-791,Chicken Wings,chicken wings,Meat,
+ing-mealdb-792,Pistachio,pistachio,Meat,
+ing-mealdb-793,Smoky Aïoli,smoky aioli,Sauce,
+ing-mealdb-794,Tahini Paste,tahini paste,Legume,
+ing-mealdb-795,Seasoning,seasoning,Seasoning,FOODON_03301189
+ing-mealdb-796,Stoned Dates,stoned dates,Fruit,
+ing-mealdb-797,Strong Wholemeal Flour,strong wholemeal flour,Grain,
+ing-mealdb-798,Turkish Delight,turkish delight,Confectionery,
+ing-mealdb-800,Vanilla Custard,vanilla custard,Dairy,
+ing-mealdb-801,Vanilla Bean Paste,vanilla bean paste,Sauce,
+ing-mealdb-802,Ground Pistachios,ground pistachios,Nut,
+ing-mealdb-803,New Potatoes,new potatoes,Root Vegetable,
+ing-mealdb-804,Semolina Flour,semolina flour,Grain,
+ing-mealdb-805,Freekeh,freekeh,Grain,
+ing-mealdb-806,Emmentaler Cheese,emmentaler cheese,Cheese,
+ing-mealdb-807,Phyllo Dough,phyllo dough,Bread,
+ing-mealdb-808,Plum Jam,plum jam,Fruit,
+ing-mealdb-809,Pistachio Paste,pistachio paste,Nut,
+ing-mealdb-810,Unwaxed Lime,unwaxed lime,Fruit,
+ing-mealdb-811,Polish Kabanos,polish kabanos,Meat,
+ing-mealdb-812,Hispi (sweetheart) Cabbage,hispi sweetheart cabbage,Root Vegetable,
+ing-mealdb-813,Baby Lettuce Leaves,baby lettuce leaves,Root Vegetable,
+ing-mealdb-814,Pomegranate,pomegranate,Fruit,FOODON_00003679
+ing-mealdb-815,Almond Essence,almond essence,Seasoning,
+ing-mealdb-816,German Sausages,german sausages,Meat,
+ing-mealdb-817,Juniper Berries,juniper berries,Fruit,
+ing-mealdb-818,Allspice Berries,allspice berries,Fruit,
+ing-mealdb-819,Peppercorns,peppercorns,Fruit,
+ing-mealdb-820,White Sauerkraut,white sauerkraut,Root Vegetable,
+ing-mealdb-821,Pork Shoulder,pork shoulder,Meat,FOODON_02000322
+ing-mealdb-822,Cabbage Leaves,cabbage leaves,Root Vegetable,
+ing-mealdb-823,Cooked Chestnut,cooked chestnut,Nut,
+ing-mealdb-824,Cranberry,cranberry,Fruit,FOODON_00003657
+ing-mealdb-825,Pork Back Ribs,pork back ribs,Meat,
+ing-mealdb-826,Rye,rye,Meat,
+ing-mealdb-827,Poppy Seeds,poppy seeds,Legume,
+ing-mealdb-828,Wholegrain Mustard,wholegrain mustard,Dressing,
+ing-mealdb-829,Kabanos Sausages,kabanos sausages,Meat,
+ing-mealdb-830,Frozen Mixed Berries,frozen mixed berries,Fruit,
+ing-mealdb-831,Blackcurrant Jam,blackcurrant jam,Fruit,
+ing-mealdb-832,Egg Wash,egg wash,Dairy,
+ing-mealdb-833,Molasses,molasses,Dressing,
+ing-mealdb-834,Bread Flour,bread flour,Grain,
+ing-mealdb-835,Unsweetened Cocoa,unsweetened cocoa,Seasoning,
+ing-mealdb-836,Coconut Flakes,coconut flakes,Fruit,
+ing-mealdb-837,Peach Juice,peach juice,Sauce,FOODON_03310658
+ing-mealdb-838,Cornmeal,cornmeal,Sauce,FOODON_03310257
+ing-mealdb-839,Hind Shank,hind shank,Meat,
+ing-mealdb-840,Sweet Red Peppers,sweet red peppers,Root Vegetable,
+ing-mealdb-841,Cassaba,cassaba,Fruit,
+ing-mealdb-842,Yautia,yautia,Root Vegetable,
+ing-mealdb-843,White Yam,white yam,Root Vegetable,
+ing-mealdb-844,Papelon,papelon,Seasoning,
+ing-mealdb-845,Skirty Steak,skirty steak,Meat,
+ing-mealdb-846,White Masarepa,white masarepa,Grain,
+ing-mealdb-847,Casabe,casabe,Bread,
+ing-mealdb-848,Turkey Ham,turkey ham,Meat,FOODON_03310971
+ing-mealdb-849,Ground Oats,ground oats,Grain,
+ing-mealdb-850,Sugar Syrup,sugar syrup,Dressing,
+ing-mealdb-851,Pre-fried Tequeños,pre fried tequenos,Cheese,
+ing-mealdb-852,Avacado Hass Pulp,avacado hass pulp,Root Vegetable,
+ing-mealdb-853,Sazon,sazon,Seasoning,
+ing-mealdb-854,Yellow Masarepa,yellow masarepa,Grain,
+ing-mealdb-855,Unflavoured Gelatin,unflavoured gelatin,Curd,
+ing-mealdb-856,Passion Fruit Pulp,passion fruit pulp,Fruit,FOODON_03307022
+ing-mealdb-857,Corn Arepa Filled With Mozarella Cheese,corn arepa filled with mozarella cheese,Cheese,
+ing-mealdb-858,Fried Ripe Bananas,fried ripe bananas,Fruit,
+ing-mealdb-859,Pico De Gallo Sauce,pico de gallo sauce,Sauce,
+ing-mealdb-860,Shredded Meat,shredded meat,Meat,
+ing-mealdb-861,Yellow Split Peas,yellow split peas,Legume,
+ing-mealdb-862,Dried White Navy Beans,dried white navy beans,Legume,
+ing-mealdb-863,Vegetable Shortening,vegetable shortening,Root Vegetable,FOODON_03302604
+ing-mealdb-864,Saskatoon Berries,saskatoon berries,Fruit,
+ing-mealdb-865,Pitted Dates,pitted dates,Fruit,
+ing-mealdb-866,Graham Cracker Crumbs,graham cracker crumbs,Grain,
+ing-mealdb-867,Cream Of Tartar,cream of tartar,Preserve,
+ing-mealdb-868,Dried Leaves Of Summer Savoury,dried leaves of summer savoury,Seasoning,
+ing-mealdb-869,Russet Potato,russet potato,Root Vegetable,FOODON_00004971
+ing-mealdb-870,All-purpose Seasoning,all purpose seasoning,Seasoning,
+ing-mealdb-871,Grape Nut Cereal,grape nut cereal,Grain,
+ing-mealdb-872,Beer,beer,Drink,
+ing-mealdb-873,Caramelized Sugar Sauce,caramelized sugar sauce,Dressing,
+ing-mealdb-874,Dried Cherries,dried cherries,Fruit,
+ing-mealdb-875,Ground Annatto,ground annatto,Seasoning,
+ing-mealdb-876,Shrimp Stock,shrimp stock,Seasoning,
+ing-mealdb-877,Snapper Fish,snapper fish,Fish,
+ing-mealdb-878,Fish Seasoning,fish seasoning,Seasoning,
+ing-mealdb-879,Penne Pasta,penne pasta,Pasta,
+ing-mealdb-880,Jamaican Curry Powder,jamaican curry powder,Seasoning,
+ing-mealdb-881,Turkey Neck,turkey neck,Meat,FOODON_02020480
+ing-mealdb-882,Smoked Turkey Neck,smoked turkey neck,Meat,
+ing-mealdb-883,Ground Allspice,ground allspice,Seasoning,
+ing-mealdb-884,Tamarind Pulp,tamarind pulp,Fruit,
+ing-mealdb-885,Callaloo,callaloo,Root Vegetable,
+ing-mealdb-886,Jumbo Shrimp,jumbo shrimp,Fish,
+ing-mealdb-887,Unsweetened Coconut Milk,unsweetened coconut milk,Drink,
+ing-mealdb-888,Fine Yellow Cornmeal,fine yellow cornmeal,Grain,
+ing-mealdb-889,Sweetened Condensed Milk,sweetened condensed milk,Dairy,FOODON_03304384
+ing-mealdb-890,Orange Juice,orange juice,Drink,FOODON_03301103
+ing-mealdb-891,High Heat Cooking Oil,high heat cooking oil,Sauce,
+ing-mealdb-892,Seasoned Rice Vinegar,seasoned rice vinegar,Dressing,
+ing-mealdb-893,Napa Cabbage,napa cabbage,Root Vegetable,
+ing-mealdb-894,Cilantro Leaves,cilantro leaves,Seasoning,
+ing-mealdb-895,Silken Tofu,silken tofu,Legume,FOODON_00005541
+ing-mealdb-896,Chinese Sesame Sauce,chinese sesame sauce,Sauce,
+ing-mealdb-897,Unsalted Beef Stock,unsalted beef stock,Sauce,
+ing-mealdb-898,Shaoxing Wine,shaoxing wine,Drink,
+ing-mealdb-899,Mung Bean Sprouts,mung bean sprouts,Legume,
+ing-mealdb-900,Chinese Long Beans,chinese long beans,Legume,
+ing-mealdb-901,Dried Chillies,dried chillies,Legume,
+ing-mealdb-902,Chicken Bouillon Powder,chicken bouillon powder,Seasoning,
+ing-mealdb-903,Egg Roll Wrappers,egg roll wrappers,Dairy,
+ing-mealdb-904,Plum Sauce,plum sauce,Sauce,
+ing-mealdb-905,Chilli Bean Paste,chilli bean paste,Seasoning,
+ing-mealdb-906,Snow Peas,snow peas,Root Vegetable,
+ing-mealdb-907,Pineapple Chunks,pineapple chunks,Fruit,
+ing-mealdb-908,Pineapple Juice,pineapple juice,Drink,
+ing-mealdb-909,Dried Shrimp,dried shrimp,Fish,
+ing-mealdb-910,Buckwheat Flour,buckwheat flour,Legume,FOODON_03309980
+ing-mealdb-911,Split Peas,split peas,Legume,
+ing-mealdb-912,Ground Sugar,ground sugar,Seasoning,
+ing-mealdb-913,Speculaas Spice Mix,speculaas spice mix,Seasoning,
+ing-mealdb-914,Almond Paste,almond paste,Nut,FOODON_03305617
+ing-mealdb-915,Dutch Stroop,dutch stroop,Dressing,
+ing-foodon-foodon_00004512,00 white wheat flour,00 white wheat flour,foodon-product,FOODON_00004512
+ing-foodon-foodon_03540009,00090 - buckwheat (efsa foodex2),00090 buckwheat efsa foodex2,foodon-product,FOODON_03540009
+ing-foodon-foodon_03540096,00960 - groats (efsa foodex2),00960 groats efsa foodex2,foodon-product,FOODON_03540096
+ing-foodon-foodon_03400649,01 fruits (ccpr),01 fruits ccpr,foodon-product,FOODON_03400649
+ing-foodon-foodon_03540103,01030 - bulgur (efsa foodex2),01030 bulgur efsa foodex2,foodon-product,FOODON_03540103
+ing-foodon-foodon_03540104,01040 - semolina (efsa foodex2),01040 semolina efsa foodex2,foodon-product,FOODON_03540104
+ing-foodon-foodon_03401222,0110000 - citrus fruit (ec),0110000 citrus fruit ec,foodon-product,FOODON_03401222
+ing-foodon-foodon_03540129,01290 - pumpernickel (efsa foodex2),01290 pumpernickel efsa foodex2,foodon-product,FOODON_03540129
+ing-foodon-foodon_03401224,0130000 - pome fruit (ec),0130000 pome fruit ec,foodon-product,FOODON_03401224
+ing-foodon-foodon_03401225,0140000 - stone fruit (ec),0140000 stone fruit ec,foodon-product,FOODON_03401225
+ing-foodon-foodon_03540142,01420 - matzo (efsa foodex2),01420 matzo efsa foodex2,foodon-product,FOODON_03540142
+ing-foodon-foodon_03540143,01430 - tortilla (efsa foodex2),01430 tortilla efsa foodex2,foodon-product,FOODON_03540143
+ing-foodon-foodon_03540144,01440 - roti (efsa foodex2),01440 roti efsa foodex2,foodon-product,FOODON_03540144
+ing-foodon-foodon_03540145,01450 - chapati (efsa foodex2),01450 chapati efsa foodex2,foodon-product,FOODON_03540145
+ing-foodon-foodon_03400680,015 pulses (vd) (ccpr),015 pulses vd ccpr,foodon-product,FOODON_03400680
+ing-foodon-foodon_03401267,0160000 - miscellaneous fruit (ec),0160000 miscellaneous fruit ec,foodon-product,FOODON_03401267
+ing-foodon-foodon_03540162,01620 - rusk (efsa foodex2),01620 rusk efsa foodex2,foodon-product,FOODON_03540162
+ing-foodon-foodon_03540169,01690 - pretzels (efsa foodex2),01690 pretzels efsa foodex2,foodon-product,FOODON_03540169
+ing-foodon-foodon_03540171,01710 - breadcrumbs (efsa foodex2),01710 breadcrumbs efsa foodex2,foodon-product,FOODON_03540171
+ing-foodon-foodon_03540172,01720 - croutons (efsa foodex2),01720 croutons efsa foodex2,foodon-product,FOODON_03540172
+ing-foodon-foodon_03540193,01930 - gnocchi (efsa foodex2),01930 gnocchi efsa foodex2,foodon-product,FOODON_03540193
+ing-foodon-foodon_03540196,01960 - couscous (efsa foodex2),01960 couscous efsa foodex2,foodon-product,FOODON_03540196
+ing-foodon-foodon_03400692,02 breakfast cereals (efg),02 breakfast cereals efg,foodon-product,FOODON_03400692
+ing-foodon-foodon_03400650,02 vegetables (ccpr),02 vegetables ccpr,foodon-product,FOODON_03400650
+ing-foodon-foodon_03401229,0220000 - bulb vegetables (ec),0220000 bulb vegetables ec,foodon-product,FOODON_03401229
+ing-foodon-foodon_03400686,023 oilseed (so) (ccpr),023 oilseed so ccpr,foodon-product,FOODON_03400686
+ing-foodon-foodon_03401230,0230000 - fruiting vegetables (ec),0230000 fruiting vegetables ec,foodon-product,FOODON_03401230
+ing-foodon-foodon_03540237,02370 - biscuits (efsa foodex2),02370 biscuits efsa foodex2,foodon-product,FOODON_03540237
+ing-foodon-foodon_03401231,0240000 - brassica vegetables (ec),0240000 brassica vegetables ec,foodon-product,FOODON_03401231
+ing-foodon-foodon_03540244,02440 - speculaas (efsa foodex2),02440 speculaas efsa foodex2,foodon-product,FOODON_03540244
+ing-foodon-foodon_03540247,02470 - wafers (efsa foodex2),02470 wafers efsa foodex2,foodon-product,FOODON_03540247
+ing-foodon-foodon_03540249,02490 - éclair (efsa foodex2),02490 eclair efsa foodex2,foodon-product,FOODON_03540249
+ing-foodon-foodon_03540250,02500 - beignets (efsa foodex2),02500 beignets efsa foodex2,foodon-product,FOODON_03540250
+ing-foodon-foodon_03540251,02510 - profiterole (efsa foodex2),02510 profiterole efsa foodex2,foodon-product,FOODON_03540251
+ing-foodon-foodon_03540252,02520 - croquembouche (efsa foodex2),02520 croquembouche efsa foodex2,foodon-product,FOODON_03540252
+ing-foodon-foodon_03540253,02530 - gougere (efsa foodex2),02530 gougere efsa foodex2,foodon-product,FOODON_03540253
+ing-foodon-foodon_03540254,02540 - cakes (efsa foodex2),02540 cakes efsa foodex2,foodon-product,FOODON_03540254
+ing-foodon-foodon_03401233,0260000 - legume vegetables (ec),0260000 legume vegetables ec,foodon-product,FOODON_03401233
+ing-foodon-foodon_03540266,02660 - muffins (efsa foodex2),02660 muffins efsa foodex2,foodon-product,FOODON_03540266
+ing-foodon-foodon_03400688,027 herbs (hh) (ccpr),027 herbs hh ccpr,foodon-product,FOODON_03400688
+ing-foodon-foodon_03401234,0270000 - stem vegetables (ec),0270000 stem vegetables ec,foodon-product,FOODON_03401234
+ing-foodon-foodon_03540276,02760 - buns (efsa foodex2),02760 buns efsa foodex2,foodon-product,FOODON_03540276
+ing-foodon-foodon_03540277,02770 - croissant (efsa foodex2),02770 croissant efsa foodex2,foodon-product,FOODON_03540277
+ing-foodon-foodon_03400689,028 spices (hs) (codex),028 spices hs codex,foodon-product,FOODON_03400689
+ing-foodon-foodon_03401235,0280000 - fungi (ec),0280000 fungi ec,foodon-product,FOODON_03401235
+ing-foodon-foodon_03540282,02820 - kringles (efsa foodex2),02820 kringles efsa foodex2,foodon-product,FOODON_03540282
+ing-foodon-foodon_03401268,0290000 - sea weeds (ec),0290000 sea weeds ec,foodon-product,FOODON_03401268
+ing-foodon-foodon_03540296,02960 - baklava (efsa foodex2),02960 baklava efsa foodex2,foodon-product,FOODON_03540296
+ing-foodon-foodon_03540299,02990 - pancakes (efsa foodex2),02990 pancakes efsa foodex2,foodon-product,FOODON_03540299
+ing-foodon-foodon_03400693,03 flour (efg),03 flour efg,foodon-product,FOODON_03400693
+ing-foodon-foodon_03400651,03 grasses (ccpr),03 grasses ccpr,foodon-product,FOODON_03400651
+ing-foodon-foodon_03540301,03010 - macaroons (efsa foodex2),03010 macaroons efsa foodex2,foodon-product,FOODON_03540301
+ing-foodon-foodon_03540302,03020 - meringue (efsa foodex2),03020 meringue efsa foodex2,foodon-product,FOODON_03540302
+ing-foodon-foodon_03540303,03030 - waffles (efsa foodex2),03030 waffles efsa foodex2,foodon-product,FOODON_03540303
+ing-foodon-foodon_03540305,03050 - lebkuchen (efsa foodex2),03050 lebkuchen efsa foodex2,foodon-product,FOODON_03540305
+ing-foodon-foodon_03540306,03060 - gingerbread (efsa foodex2),03060 gingerbread efsa foodex2,foodon-product,FOODON_03540306
+ing-foodon-foodon_03400740,033 milks (ml) (ccpr),033 milks ml ccpr,foodon-product,FOODON_03400740
+ing-foodon-foodon_03540370,03700 - romaines (efsa foodex2),03700 romaines efsa foodex2,foodon-product,FOODON_03540370
+ing-foodon-foodon_03540372,03720 - escaroles (efsa foodex2),03720 escaroles efsa foodex2,foodon-product,FOODON_03540372
+ing-foodon-foodon_03540374,03740 - dandelions (efsa foodex2),03740 dandelions efsa foodex2,foodon-product,FOODON_03540374
+ing-foodon-foodon_03540375,03750 - puntarelle (efsa foodex2),03750 puntarelle efsa foodex2,foodon-product,FOODON_03540375
+ing-foodon-foodon_03540376,03760 - radicchio (efsa foodex2),03760 radicchio efsa foodex2,foodon-product,FOODON_03540376
+ing-foodon-foodon_03400744,039 eggs (pe) (ccpr),039 eggs pe ccpr,foodon-product,FOODON_03400744
+ing-foodon-foodon_03400694,04 pasta (efg),04 pasta efg,foodon-product,FOODON_03400694
+ing-foodon-foodon_03401238,0401000 - oilseeds (ec),0401000 oilseeds ec,foodon-product,FOODON_03401238
+ing-foodon-foodon_03401239,0402000 - oilfruits (ec),0402000 oilfruits ec,foodon-product,FOODON_03401239
+ing-foodon-foodon_03540405,04050 - pokeweed (efsa foodex2),04050 pokeweed efsa foodex2,foodon-product,FOODON_03540405
+ing-foodon-foodon_03540421,04210 - spinaches (efsa foodex2),04210 spinaches efsa foodex2,foodon-product,FOODON_03540421
+ing-foodon-foodon_03540429,04290 - bitterleaves (efsa foodex2),04290 bitterleaves efsa foodex2,foodon-product,FOODON_03540429
+ing-foodon-foodon_03540438,04380 - purslanes (efsa foodex2),04380 purslanes efsa foodex2,foodon-product,FOODON_03540438
+ing-foodon-foodon_03540439,04390 - agretti (efsa foodex2),04390 agretti efsa foodex2,foodon-product,FOODON_03540439
+ing-foodon-foodon_03540440,04400 - glassworts (efsa foodex2),04400 glassworts efsa foodex2,foodon-product,FOODON_03540440
+ing-foodon-foodon_03540446,04460 - chards (efsa foodex2),04460 chards efsa foodex2,foodon-product,FOODON_03540446
+ing-foodon-foodon_03400750,045 crustaceans (wc) (ccpr),045 crustaceans wc ccpr,foodon-product,FOODON_03400750
+ing-foodon-foodon_03540450,04500 - goosefoot (efsa foodex2),04500 goosefoot efsa foodex2,foodon-product,FOODON_03540450
+ing-foodon-foodon_03540458,04580 - watercresses (efsa foodex2),04580 watercresses efsa foodex2,foodon-product,FOODON_03540458
+ing-foodon-foodon_03540463,04630 - witloofs (efsa foodex2),04630 witloofs efsa foodex2,foodon-product,FOODON_03540463
+ing-foodon-foodon_03540468,04680 - bracken (efsa foodex2),04680 bracken efsa foodex2,foodon-product,FOODON_03540468
+ing-foodon-foodon_03540485,04850 - komatsuna (efsa foodex2),04850 komatsuna efsa foodex2,foodon-product,FOODON_03540485
+ing-foodon-foodon_03540486,04860 - mizuna (efsa foodex2),04860 mizuna efsa foodex2,foodon-product,FOODON_03540486
+ing-foodon-foodon_03540491,04910 - collards (efsa foodex2),04910 collards efsa foodex2,foodon-product,FOODON_03540491
+ing-foodon-foodon_03540500,05000 - cresses (efsa foodex2),05000 cresses efsa foodex2,foodon-product,FOODON_03540500
+ing-foodon-foodon_03401240,0500000 - 5. cereals (ec),0500000 5 cereals ec,foodon-product,FOODON_03401240
+ing-foodon-foodon_03540512,05120 - wheatgrass (efsa foodex2),05120 wheatgrass efsa foodex2,foodon-product,FOODON_03540512
+ing-foodon-foodon_03540525,05250 - broccoli (efsa foodex2),05250 broccoli efsa foodex2,foodon-product,FOODON_03540525
+ing-foodon-foodon_03540526,05260 - calabrese (efsa foodex2),05260 calabrese efsa foodex2,foodon-product,FOODON_03540526
+ing-foodon-foodon_03540529,05290 - rapini (efsa foodex2),05290 rapini efsa foodex2,foodon-product,FOODON_03540529
+ing-foodon-foodon_03540531,05310 - cauliflowers (efsa foodex2),05310 cauliflowers efsa foodex2,foodon-product,FOODON_03540531
+ing-foodon-foodon_03540539,05390 - asparagus (efsa foodex2),05390 asparagus efsa foodex2,foodon-product,FOODON_03540539
+ing-foodon-foodon_03540542,05420 - cardoons (efsa foodex2),05420 cardoons efsa foodex2,foodon-product,FOODON_03540542
+ing-foodon-foodon_03540545,05450 - celeries (efsa foodex2),05450 celeries efsa foodex2,foodon-product,FOODON_03540545
+ing-foodon-foodon_03540555,05550 - leeks (efsa foodex2),05550 leeks efsa foodex2,foodon-product,FOODON_03540555
+ing-foodon-foodon_03540556,05560 - kurrat (efsa foodex2),05560 kurrat efsa foodex2,foodon-product,FOODON_03540556
+ing-foodon-foodon_03540558,05580 - rhubarbs (efsa foodex2),05580 rhubarbs efsa foodex2,foodon-product,FOODON_03540558
+ing-foodon-foodon_03540571,05710 - celtuce (efsa foodex2),05710 celtuce efsa foodex2,foodon-product,FOODON_03540571
+ing-foodon-foodon_03540573,05730 - kohlrabies (efsa foodex2),05730 kohlrabies efsa foodex2,foodon-product,FOODON_03540573
+ing-foodon-foodon_03540576,05760 - garlic (efsa foodex2),05760 garlic efsa foodex2,foodon-product,FOODON_03540576
+ing-foodon-foodon_03540579,05790 - onions (efsa foodex2),05790 onions efsa foodex2,foodon-product,FOODON_03540579
+ing-foodon-foodon_03540582,05820 - rakkyo (efsa foodex2),05820 rakkyo efsa foodex2,foodon-product,FOODON_03540582
+ing-foodon-foodon_03540585,05850 - shallots (efsa foodex2),05850 shallots efsa foodex2,foodon-product,FOODON_03540585
+ing-foodon-foodon_03401242,0610000 - tea (ec),0610000 tea ec,foodon-product,FOODON_03401242
+ing-foodon-foodon_03401243,0620000 - coffee beans (ec),0620000 coffee beans ec,foodon-product,FOODON_03401243
+ing-foodon-foodon_03401244,0630000 - herbal infusions (ec),0630000 herbal infusions ec,foodon-product,FOODON_03401244
+ing-foodon-foodon_03540631,06310 - solanacea (efsa foodex2),06310 solanacea efsa foodex2,foodon-product,FOODON_03540631
+ing-foodon-foodon_03540633,06330 - tomatoes (efsa foodex2),06330 tomatoes efsa foodex2,foodon-product,FOODON_03540633
+ing-foodon-foodon_03401245,0640000 - cocoa (ec),0640000 cocoa ec,foodon-product,FOODON_03401245
+ing-foodon-foodon_03540641,06410 - alkekengi (efsa foodex2),06410 alkekengi efsa foodex2,foodon-product,FOODON_03540641
+ing-foodon-foodon_03540644,06440 - tomatillos (efsa foodex2),06440 tomatillos efsa foodex2,foodon-product,FOODON_03540644
+ing-foodon-foodon_03540645,06450 - gojiberry (efsa foodex2),06450 gojiberry efsa foodex2,foodon-product,FOODON_03540645
+ing-foodon-foodon_03540646,06460 - wolfberries (efsa foodex2),06460 wolfberries efsa foodex2,foodon-product,FOODON_03540646
+ing-foodon-foodon_03401246,0650000 - carob (ec),0650000 carob ec,foodon-product,FOODON_03401246
+ing-foodon-foodon_03540658,06580 - aubergines (efsa foodex2),06580 aubergines efsa foodex2,foodon-product,FOODON_03540658
+ing-foodon-foodon_03540659,06590 - antroewas (efsa foodex2),06590 antroewas efsa foodex2,foodon-product,FOODON_03540659
+ing-foodon-foodon_03400762,066 teas (dt) (ccpr),066 teas dt ccpr,foodon-product,FOODON_03400762
+ing-foodon-foodon_03540661,06610 - pepinos (efsa foodex2),06610 pepinos efsa foodex2,foodon-product,FOODON_03540661
+ing-foodon-foodon_03540665,06650 - okra (efsa foodex2),06650 okra efsa foodex2,foodon-product,FOODON_03540665
+ing-foodon-foodon_03540670,06700 - cucumbers (efsa foodex2),06700 cucumbers efsa foodex2,foodon-product,FOODON_03540670
+ing-foodon-foodon_03540672,06720 - dosakayi (efsa foodex2),06720 dosakayi efsa foodex2,foodon-product,FOODON_03540672
+ing-foodon-foodon_03540674,06740 - gherkins (efsa foodex2),06740 gherkins efsa foodex2,foodon-product,FOODON_03540674
+ing-foodon-foodon_03540677,06770 - courgettes (efsa foodex2),06770 courgettes efsa foodex2,foodon-product,FOODON_03540677
+ing-foodon-foodon_03540684,06840 - sopropos (efsa foodex2),06840 sopropos efsa foodex2,foodon-product,FOODON_03540684
+ing-foodon-foodon_03540686,06860 - patisson (efsa foodex2),06860 patisson efsa foodex2,foodon-product,FOODON_03540686
+ing-foodon-foodon_03540689,06890 - kakrol (efsa foodex2),06890 kakrol efsa foodex2,foodon-product,FOODON_03540689
+ing-foodon-foodon_03540691,06910 - gac (efsa foodex2),06910 gac efsa foodex2,foodon-product,FOODON_03540691
+ing-foodon-foodon_03540694,06940 - melons (efsa foodex2),06940 melons efsa foodex2,foodon-product,FOODON_03540694
+ing-foodon-foodon_03540695,06950 - kiwanos (efsa foodex2),06950 kiwanos efsa foodex2,foodon-product,FOODON_03540695
+ing-foodon-foodon_03540697,06970 - pumpkins (efsa foodex2),06970 pumpkins efsa foodex2,foodon-product,FOODON_03540697
+ing-foodon-foodon_03400697,07 sugar (efg),07 sugar efg,foodon-product,FOODON_03400697
+ing-foodon-foodon_03401247,0700000 - hops (dried) (ec),0700000 hops dried ec,foodon-product,FOODON_03401247
+ing-foodon-foodon_03540702,07020 - watermelons (efsa foodex2),07020 watermelons efsa foodex2,foodon-product,FOODON_03540702
+ing-foodon-foodon_03540710,07100 - beetroots (efsa foodex2),07100 beetroots efsa foodex2,foodon-product,FOODON_03540710
+ing-foodon-foodon_03540712,07120 - carrots (efsa foodex2),07120 carrots efsa foodex2,foodon-product,FOODON_03540712
+ing-foodon-foodon_03540716,07160 - celeriacs (efsa foodex2),07160 celeriacs efsa foodex2,foodon-product,FOODON_03540716
+ing-foodon-foodon_03540723,07230 - crosnes (efsa foodex2),07230 crosnes efsa foodex2,foodon-product,FOODON_03540723
+ing-foodon-foodon_03540736,07360 - radishes (efsa foodex2),07360 radishes efsa foodex2,foodon-product,FOODON_03540736
+ing-foodon-foodon_03540738,07380 - daikon (efsa foodex2),07380 daikon efsa foodex2,foodon-product,FOODON_03540738
+ing-foodon-foodon_03540741,07410 - tigernuts (efsa foodex2),07410 tigernuts efsa foodex2,foodon-product,FOODON_03540741
+ing-foodon-foodon_03540743,07430 - salsifies (efsa foodex2),07430 salsifies efsa foodex2,foodon-product,FOODON_03540743
+ing-foodon-foodon_03540746,07460 - scorzonera (efsa foodex2),07460 scorzonera efsa foodex2,foodon-product,FOODON_03540746
+ing-foodon-foodon_03540747,07470 - skirrets (efsa foodex2),07470 skirrets efsa foodex2,foodon-product,FOODON_03540747
+ing-foodon-foodon_03540750,07500 - swedes (efsa foodex2),07500 swedes efsa foodex2,foodon-product,FOODON_03540750
+ing-foodon-foodon_03540752,07520 - turnips (efsa foodex2),07520 turnips efsa foodex2,foodon-product,FOODON_03540752
+ing-foodon-foodon_03540755,07550 - arracacha (efsa foodex2),07550 arracacha efsa foodex2,foodon-product,FOODON_03540755
+ing-foodon-foodon_03540756,07560 - arrowhead (efsa foodex2),07560 arrowhead efsa foodex2,foodon-product,FOODON_03540756
+ing-foodon-foodon_03540757,07570 - ullucu (efsa foodex2),07570 ullucu efsa foodex2,foodon-product,FOODON_03540757
+ing-foodon-foodon_03540758,07580 - oca (efsa foodex2),07580 oca efsa foodex2,foodon-product,FOODON_03540758
+ing-foodon-foodon_03540764,07640 - eucheuma (efsa foodex2),07640 eucheuma efsa foodex2,foodon-product,FOODON_03540764
+ing-foodon-foodon_03540766,07660 - laver (efsa foodex2),07660 laver efsa foodex2,foodon-product,FOODON_03540766
+ing-foodon-foodon_03540767,07670 - dulse (efsa foodex2),07670 dulse efsa foodex2,foodon-product,FOODON_03540767
+ing-foodon-foodon_03540770,07700 - hijiki (efsa foodex2),07700 hijiki efsa foodex2,foodon-product,FOODON_03540770
+ing-foodon-foodon_03540773,07730 - wakame (efsa foodex2),07730 wakame efsa foodex2,foodon-product,FOODON_03540773
+ing-foodon-foodon_03540774,07740 - kombu (efsa foodex2),07740 kombu efsa foodex2,foodon-product,FOODON_03540774
+ing-foodon-foodon_03540776,07760 - spirulina (efsa foodex2),07760 spirulina efsa foodex2,foodon-product,FOODON_03540776
+ing-foodon-foodon_03540782,07820 - fungi (efsa foodex2),07820 fungi efsa foodex2,foodon-product,FOODON_03540782
+ing-foodon-foodon_03540786,07860 - enokitake (efsa foodex2),07860 enokitake efsa foodex2,foodon-product,FOODON_03540786
+ing-foodon-foodon_03540791,07910 - nameko (efsa foodex2),07910 nameko efsa foodex2,foodon-product,FOODON_03540791
+ing-foodon-foodon_03540792,07920 - pleurotus (efsa foodex2),07920 pleurotus efsa foodex2,foodon-product,FOODON_03540792
+ing-foodon-foodon_03540797,07970 - shiitake (efsa foodex2),07970 shiitake efsa foodex2,foodon-product,FOODON_03540797
+ing-foodon-foodon_03540798,07980 - shimeji (efsa foodex2),07980 shimeji efsa foodex2,foodon-product,FOODON_03540798
+ing-foodon-foodon_03401248,0800000 - spices (ec),0800000 spices ec,foodon-product,FOODON_03401248
+ing-foodon-foodon_03540803,08030 - ceps (efsa foodex2),08030 ceps efsa foodex2,foodon-product,FOODON_03540803
+ing-foodon-foodon_03540804,08040 - chanterelles (efsa foodex2),08040 chanterelles efsa foodex2,foodon-product,FOODON_03540804
+ing-foodon-foodon_03401249,"0810000 - spices, seeds (ec)",0810000 spices seeds ec,foodon-product,FOODON_03401249
+ing-foodon-foodon_03540811,08110 - morels (efsa foodex2),08110 morels efsa foodex2,foodon-product,FOODON_03540811
+ing-foodon-foodon_03540812,08120 - truffles (efsa foodex2),08120 truffles efsa foodex2,foodon-product,FOODON_03540812
+ing-foodon-foodon_03540827,08270 - chervil (efsa foodex2),08270 chervil efsa foodex2,foodon-product,FOODON_03540827
+ing-foodon-foodon_03540829,08290 - chives (efsa foodex2),08290 chives efsa foodex2,foodon-product,FOODON_03540829
+ing-foodon-foodon_03401251,"0830000 - spices, bark (ec)",0830000 spices bark ec,foodon-product,FOODON_03401251
+ing-foodon-foodon_03540831,08310 - ramson (efsa foodex2),08310 ramson efsa foodex2,foodon-product,FOODON_03540831
+ing-foodon-foodon_03540835,08350 - burnet (efsa foodex2),08350 burnet efsa foodex2,foodon-product,FOODON_03540835
+ing-foodon-foodon_03540844,08440 - pimpernel (efsa foodex2),08440 pimpernel efsa foodex2,foodon-product,FOODON_03540844
+ing-foodon-foodon_03540846,08460 - sorrel (efsa foodex2),08460 sorrel efsa foodex2,foodon-product,FOODON_03540846
+ing-foodon-foodon_03401253,"0850000 - spices, buds (ec)",0850000 spices buds ec,foodon-product,FOODON_03401253
+ing-stock-10b585aa,stock,stock,manual-core,
+ing-wine-d9b224f8,wine,wine,manual-core,
+ing-shallot-57e95ac5,shallot,shallot,manual-core,
+ing-corn-3b83d0f7,corn,corn,manual-core,
+ing-beans-0ac956d8,beans,beans,manual-core,
+ing-chile-pepper-1c71dc2d,chile pepper,chile pepper,manual-core,
+ing-seaweed-23656875,seaweed,seaweed,manual-core,
+ing-nuts-0d9ef112,nuts,nuts,manual-core,
+ing-chocolate-153068d0,chocolate,chocolate,manual-core,
+ing-green-onion-b2d12481,green onion,green onion,manual-core,
+ing-potato-f77defdf,potato,potato,manual-core,
+ing-fish-7300011c,fish,fish,manual-core,
+ing-meat-08049bca,meat,meat,manual-core,
+ing-pasta-117df6be,pasta,pasta,manual-core,

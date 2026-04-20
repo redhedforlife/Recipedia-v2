@@ -1,0 +1,4711 @@
+{
+  "docs": [
+    {
+      "score": [
+        "44096.47"
+      ],
+      "refCount": [
+        "10890"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentina"
+      ],
+      "redirectlabel": [
+        "Airgintin",
+        "<B>Argentiina</B>",
+        "<B>Argentina</B> Information",
+        "<B>Argentina</B> Republic",
+        "<B>Argentine</B> Republic",
+        "<B>Argentine</B> republic",
+        "<B>Argentinia</B>",
+        "<B>Argentinie</B>",
+        "Arghantina",
+        "Argie",
+        "<B>Argintina</B>",
+        "Biodiversity of <B>Argentina</B>",
+        "ISO 3166-1:AR",
+        "Land of silver",
+        "Nacion <B>Argentina</B>",
+        "Nación <B>Argentina</B>",
+        "Republic of <B>Argentina</B>",
+        "Republica <B>Argentina</B>",
+        "República <B>Argentina</B>",
+        "The <B>Argentine</B>",
+        "The <B>Argentine</B> Republic",
+        "The <B>argentine</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Argentina</B> (Spanish: [aɾxenˈtina]), officially the <B>Argentine</B> Republic (Spanish: República <B>Argentina</B>"
+      ],
+      "label": [
+        "<B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1816_establishments_in_South_America",
+        "http://dbpedia.org/resource/Category:Argentina",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Countries_in_South_America",
+        "http://dbpedia.org/resource/Category:Federal_constitutional_republics",
+        "http://dbpedia.org/resource/Category:Former_Spanish_colonies",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:G20_nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_Mercosur",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Southern_Cone_countries",
+        "http://dbpedia.org/resource/Category:Spanish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1816"
+      ]
+    },
+    {
+      "score": [
+        "7985.1875"
+      ],
+      "refCount": [
+        "2022"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentina_national_football_team"
+      ],
+      "redirectlabel": [
+        "Albiceleste",
+        "Albicelestes",
+        "<B>Argentina</B>-Germany rivalry",
+        "<B>Argentina</B> National Football Team",
+        "<B>Argentina</B> fc",
+        "<B>Argentina</B> football team",
+        "<B>Argentina</B> men's national football team",
+        "<B>Argentina</B> national football team kit",
+        "<B>Argentina</B> national football team kit history",
+        "<B>Argentina</B> national football team kits",
+        "<B>Argentine</B> national football team",
+        "Argentinian football team",
+        "Argentinian national football team",
+        "La Albiceleste",
+        "National Selection of soccer of <B>Argentina</B>",
+        "Seleccion <B>argentina</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " <B>Argentina</B> in international football, and is administered by the <B>Argentine</B> Football Association. Argentina's"
+      ],
+      "label": [
+        "<B>Argentina</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentina_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina_national_football_team",
+        "http://dbpedia.org/resource/Category:FIFA_Confederations_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:FIFA_World_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Football_teams_in_Argentina",
+        "http://dbpedia.org/resource/Category:South_American_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "7480.218"
+      ],
+      "refCount": [
+        "426"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Departments_of_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> departments",
+        "Departments of <B>argentina</B>"
+      ],
+      "comment": [
+        " provinces), and are subdivided in municipalities. They are extended in all of <B>Argentina</B> except for the"
+      ],
+      "label": [
+        "Departments of <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Departments_of_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Departments_of_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Argentina",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "6039.916"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2020-21 <B>Argentine</B> Primera División",
+        "2020–21 <B>Argentine</B> Primera División",
+        "Amateur Era in <B>Argentine</B> football",
+        "Amateur era in <B>Argentine</B> football",
+        "Amateur era in <B>argentine</B> football",
+        "Amateur era of <B>Argentine</B> football",
+        "<B>Argentina</B> Primera Division",
+        "<B>Argentine</B> First Division",
+        "<B>Argentine</B> Primera",
+        "<B>Argentine</B> Primera Division",
+        "<B>Argentine</B> Superliga",
+        "<B>Argentine</B> primera division",
+        "Primera Division <B>Argentina</B>",
+        "Primera Division de <B>Argentina</B>",
+        "Primera División <B>Argentina</B>",
+        "Primera División de <B>Argentina</B>",
+        "Primera Divison <B>Argentina</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " Superliga <B>Argentina</B> (English: <B>Argentine</B> Super League) since the 2017–18 season, is a professional"
+      ],
+      "label": [
+        "<B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1891_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Argentina",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Argentina",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1891",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "4506.4624"
+      ],
+      "refCount": [
+        "127"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Government",
+        "<B>Argentine</B> government",
+        "Gob.ar"
+      ],
+      "comment": [
+        "The government of <B>Argentina</B>, within the framework of a federal system, is a presidential"
+      ],
+      "label": [
+        "Government of <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Argentina",
+        "http://dbpedia.org/resource/Category:Politics_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "4378.802"
+      ],
+      "refCount": [
+        "112"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Army"
+      ],
+      "redirectlabel": [
+        "601 Air Assault Regiment",
+        "<B>Argentinas</B> Army",
+        "<B>Argentinean</B> Army",
+        "Argentinian army",
+        "Army of <B>Argentina</B>",
+        "Ejercito <B>argentino</B>",
+        "Ejercito de <B>Argentino</B>",
+        "Ejército <B>Argentino</B>",
+        "Regimiento de Asalto Aereo 601",
+        "Regimiento de Asalto Aéreo 601"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Army (Ejército <B>Argentino</B>, EA) is the land armed force branch of the Armed Forces of"
+      ],
+      "label": [
+        "<B>Argentine</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_Army"
+      ]
+    },
+    {
+      "score": [
+        "4170.485"
+      ],
+      "refCount": [
+        "57"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Independence War",
+        "<B>Argentine</B> War",
+        "<B>Argentine</B> Wars of Independence",
+        "<B>Argentine</B> war of independence",
+        "Argentinian War of Independence",
+        "War of the <B>Argentine</B> Revolution",
+        "War of the Argentinian Revolution",
+        "Wars of the <B>Argentine</B> Revolution",
+        "Wars of the Argentinian Revolution"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> War of Independence was fought from 1810 to 1818 by <B>Argentine</B> patriotic forces under"
+      ],
+      "label": [
+        "<B>Argentine</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1810s_conflicts",
+        "http://dbpedia.org/resource/Category:1810s_in_Argentina",
+        "http://dbpedia.org/resource/Category:19th_century_in_Argentina",
+        "http://dbpedia.org/resource/Category:19th_century_in_the_Viceroyalty_of_the_Río_de_la_Plata",
+        "http://dbpedia.org/resource/Category:Argentine_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Argentina",
+        "http://dbpedia.org/resource/Category:Spanish_American_wars_of_independence",
+        "http://dbpedia.org/resource/Category:Viceroyalty_of_the_Río_de_la_Plata",
+        "http://dbpedia.org/resource/Category:Wars_involving_Argentina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain"
+      ]
+    },
+    {
+      "score": [
+        "4146.764"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Navy"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> navy",
+        "Argentinian Navy",
+        "Armada <B>Argentina</B>",
+        "Armada <B>Argentina</B> (<B>Argentine</B> Navy)",
+        "Armada Republica <B>Argentina</B>",
+        "Armada República <B>Argentina</B>",
+        "Armada <B>argentina</B>",
+        "Armada de la Republica <B>Argentina</B>",
+        "Armada de la República <B>Argentina</B>",
+        "Armada of the <B>Argentine</B> Republic",
+        "Armada of the <B>argentine</B> republic",
+        "Equipment of the <B>Argentine</B> Navy",
+        "Navy of <B>Argentina</B>",
+        "Navy of the <B>Argentine</B> Republic",
+        "Navy of the <B>argentine</B> republic"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Navy is the navy of <B>Argentina</B>. It is one of the three branches of the Armed Forces of"
+      ],
+      "label": [
+        "<B>Argentine</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_Navy",
+        "http://dbpedia.org/resource/Category:Navies_by_country"
+      ]
+    },
+    {
+      "score": [
+        "3828.0125"
+      ],
+      "refCount": [
+        "87"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentines"
+      ],
+      "redirectlabel": [
+        "<B>Argentinan</B>",
+        "<B>Argentine</B>",
+        "<B>Argentine</B> people",
+        "<B>Argentinean</B>",
+        "<B>Argentinean</B> people",
+        "<B>Argentineans</B>",
+        "Argentinian",
+        "Argentinian people",
+        "Argentinians",
+        "<B>Argentinien</B>",
+        "Argies",
+        "Genetic history of <B>Argentina</B>",
+        "Genetic studies on <B>Argentines</B>",
+        "People of <B>Argentina</B>",
+        "People of <B>Argintina</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ", historical or cultural. For most <B>Argentines</B>, several (or all) of these connections exist and are collectively the source of their being <B>Argentine</B>."
+      ],
+      "label": [
+        "<B>Argentines</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Argentina",
+        "http://dbpedia.org/resource/Category:South_American_people_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "3717.1838"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Civil_Wars"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Civil War",
+        "<B>Argentine</B> civil war",
+        "<B>Argentine</B> civil wars",
+        "Argentinian Civil Wars",
+        "Colorados Revolution",
+        "Secession of Buenos Aires"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Civil Wars were a series of civil wars that took place in <B>Argentina</B> from 1814 to 1880"
+      ],
+      "label": [
+        "<B>Argentine</B> Civil Wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Civil_Wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_Civil_War",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_South_America",
+        "http://dbpedia.org/resource/Category:Civil_wars_of_the_Industrial_era",
+        "http://dbpedia.org/resource/Category:Wars_involving_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "3599.8376"
+      ],
+      "refCount": [
+        "45"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lists_of_Argentine_films"
+      ],
+      "redirectlabel": [
+        "Abajo la careta",
+        "<B>Argentine</B> films",
+        "<B>Argentine</B> films of the 1940s",
+        "<B>Argentine</B> films of the 1950s",
+        "<B>Argentine</B> films of the 1960s",
+        "<B>Argentine</B> films of the 1970s",
+        "<B>Argentine</B> films of the 1980s",
+        "<B>Argentine</B> films of the 1990s",
+        "<B>Argentine</B> films of the 2000s",
+        "<B>Argentinean</B> films",
+        "Argentinian films",
+        "Cochero de tranvia",
+        "Cochero de tranvía",
+        "Deja e jugar, che, che",
+        "Dejá é jugar, ché, ché",
+        "El Pechador",
+        "El Soldado de la Independencia",
+        "En casa del fotografo",
+        "En casa del fotógrafo",
+        "Gabino, el Mayora",
+        "La Beata",
+        "La Mano (TV film)",
+        "La Revista de la Escuadra <B>Argentina</B>",
+        "List of <B>Argentine</B> films:1940s",
+        "List of <B>Argentine</B> films:1950s",
+        "List of <B>Argentine</B> films:1960s",
+        "List of <B>Argentine</B> films:1970s",
+        "List of <B>Argentine</B> films:1980s",
+        "List of <B>Argentine</B> films:1990s",
+        "List of <B>Argentine</B> films:2000s",
+        "List of <B>Argentine</B> films",
+        "List of <B>Argentine</B> films of the 1940s",
+        "List of <B>Argentine</B> films of the 1950s",
+        "List of <B>Argentine</B> films of the 1960s",
+        "List of <B>Argentine</B> films of the 1970s",
+        "List of <B>Argentine</B> films of the 1980s",
+        "List of <B>Argentine</B> films of the 1990s",
+        "List of <B>Argentine</B> films of the 2000s",
+        "List of <B>Argentine</B> films of the 2010s",
+        "List of <B>Argentine</B> films of the 2020s",
+        "List of Argentinian films",
+        "Los Carreros",
+        "Los Tocayos",
+        "Mister Wiskey",
+        "Pica, pica Compadrito"
+      ],
+      "comment": [
+        "This is an index to pages listing <B>Argentine</B> films ordered by year of release. For an A-Z list, see Category:Argentine films."
+      ],
+      "label": [
+        "Lists of <B>Argentine</B> films"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lists_of_Argentine_films"
+      ]
+    },
+    {
+      "score": [
+        "3466.1504"
+      ],
+      "refCount": [
+        "458"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Club_Atlético_Atlanta"
+      ],
+      "redirectlabel": [
+        "2019-20 Club Atlético Atlanta season",
+        "2019–20 Club Atlético Atlanta season",
+        "Atlanta, <B>Argentine</B> Soccer Team",
+        "Atlanta Buenos Aires",
+        "CA Atlanta",
+        "Club Atletico Atlanta"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Club Atlético Atlanta is an <B>Argentine</B> sports club from the Villa Crespo district of Buenos Aires"
+      ],
+      "label": [
+        "Club Atlético Atlanta"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Club_Atlético_Atlanta"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1904_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentine_handball_clubs",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1904",
+        "http://dbpedia.org/resource/Category:Club_Atlético_Atlanta",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Buenos_Aires",
+        "http://dbpedia.org/resource/Category:Jewish_football_clubs",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Buenos_Aires"
+      ]
+    },
+    {
+      "score": [
+        "3364.6074"
+      ],
+      "refCount": [
+        "86"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_tango"
+      ],
+      "redirectlabel": [
+        "Adrian Griffero",
+        "Analia Centurion",
+        "Analía Centurion",
+        "Analía Centurión",
+        "Andrea Misse",
+        "Andrea Missé",
+        "Andrea Reyero",
+        "Andres Laza Moreno",
+        "<B>Argentine</B> Tango",
+        "Argentinian Tango",
+        "Arrastre",
+        "Canyengue",
+        "Carlos Perez (dancer)",
+        "Carlos Rivarola",
+        "Club Glorias <B>Argentinas</B>",
+        "Club Sin Rumbo",
+        "Coca Ines",
+        "Coca Inés",
+        "Codigos",
+        "Confiteria style",
+        "Códigos",
+        "El Chino Perico",
+        "El Gallego Salvador",
+        "El Negro Celso",
+        "El Turco Brahemcha",
+        "Estilo milonguero",
+        "Ezequiel Paludi",
+        "Fabian Peralta",
+        "Finito Rivera",
+        "Gabriel Misse",
+        "Gabriel Missé",
+        "Geraldine Rojas",
+        "Gerardo Portalea",
+        "Javier Rodriguez (dancer)",
+        "Jorge Dispari",
+        "Jorge Rodriguez (dancer)",
+        "Jose Brahemcha",
+        "La Turca Dispari",
+        "Lampazo",
+        "Lampazo Vazquez",
+        "Luis Grondona",
+        "Luis Lemos",
+        "Luisa Ines",
+        "Luisa Inés",
+        "Malena Rodriguez",
+        "Maria Cieri",
+        "Marita Dispari",
+        "Marta Anton",
+        "María Rivarola",
+        "Miguel Balmaceda",
+        "Milonguita",
+        "Milonguita Lemos",
+        "Osvaldo Cartery",
+        "Osvaldo Zotto",
+        "Parada (dance move)",
+        "Pedro Rusconi",
+        "Ramon Rivera",
+        "Rodolfo Cieri",
+        "Romolo Garcia",
+        "Rosa Forte",
+        "Roxina Villegas",
+        "Salon Canning",
+        "Salon El Pial",
+        "Salon tango",
+        "Samantha Dispari",
+        "Sebastian Misse",
+        "Sebastian Missé",
+        "Show tango",
+        "Stella Misse",
+        "Stella Missé",
+        "Tango <B>Argentino</B>",
+        "Tango apilado",
+        "Tango <B>argentino</B>",
+        "Tango canyengue",
+        "Tango con corte y quebrada",
+        "Tango de fantasia",
+        "Tango de fantasía",
+        "Tango orillero",
+        "Tango tradicional",
+        "Tete Rusconi",
+        "Toto Faraldo",
+        "Vals (dance)",
+        "Virulazo"
+      ],
+      "comment": [
+        "<B>Argentine</B> tango is a musical genre and accompanying social dance originating at the end of the 19th"
+      ],
+      "label": [
+        "<B>Argentine</B> tango"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_tango"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_tango",
+        "http://dbpedia.org/resource/Category:Intangible_Cultural_Heritage_of_Humanity",
+        "http://dbpedia.org/resource/Category:Partner_dance",
+        "http://dbpedia.org/resource/Category:Social_dance",
+        "http://dbpedia.org/resource/Category:Tango_dance"
+      ]
+    },
+    {
+      "score": [
+        "3107.25"
+      ],
+      "refCount": [
+        "1138"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentinos_Juniors"
+      ],
+      "redirectlabel": [
+        "AAAJ",
+        "<B>Argentinos</B>",
+        "<B>Argentinos</B> Jrs",
+        "Asociacion Atletica <B>Argentinos</B> Juniors",
+        "Asociación Atlética <B>Argentinos</B> Juniors"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Asociación Atlética <B>Argentinos</B> Juniors is an <B>Argentine</B> sports club based in La Paternal, Buenos"
+      ],
+      "label": [
+        "<B>Argentinos</B> Juniors"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentinos_Juniors"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1904_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentine_volleyball_teams",
+        "http://dbpedia.org/resource/Category:Argentinos_Juniors",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1904",
+        "http://dbpedia.org/resource/Category:Copa_Interamericana_winning_clubs",
+        "http://dbpedia.org/resource/Category:Copa_Libertadores_winning_clubs",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Buenos_Aires"
+      ]
+    },
+    {
+      "score": [
+        "3005.0237"
+      ],
+      "refCount": [
+        "104"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liga_Nacional_de_Básquet"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> National Basketball League",
+        "<B>Argentine</B> Basketball League",
+        "<B>Argentine</B> National Basket League",
+        "<B>Argentine</B> National Basketball League",
+        "<B>Argentine</B> national basketball league",
+        "Argentinian National Basketball League",
+        "Liga Nacional de Basquet",
+        "Liga Nacional de Basquetbol",
+        "Liga Nacional de Básquetbol"
+      ],
+      "comment": [
+        " the now defunct Campeonato <B>Argentino</B> de Clubes, which was organized by the <B>Argentine</B> Basketball Federation."
+      ],
+      "label": [
+        "Liga Nacional de Básquet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liga_Nacional_de_Básquet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Argentina",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_South_America",
+        "http://dbpedia.org/resource/Category:Liga_Nacional_de_Básquet",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Argentina",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1985"
+      ]
+    },
+    {
+      "score": [
+        "2879.3625"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Confederation"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Federation",
+        "<B>Argentine</B> confederation",
+        "Confederación <B>Argentina</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Confederation (Spanish: Confederación <B>Argentina</B>) was the last predecessor state of"
+      ],
+      "label": [
+        "<B>Argentine</B> Confederation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Confederation"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:1861_disestablishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Former_confederations",
+        "http://dbpedia.org/resource/Category:Former_countries_in_South_America",
+        "http://dbpedia.org/resource/Category:Former_political_divisions_related_to_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2791.6443"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Argentine</B> Primera División"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2017–18 <B>Argentine</B> Primera División - Superliga <B>Argentina</B> (officially the Superliga Quilmes"
+      ],
+      "label": [
+        "2017–18 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017–18_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2741.2288"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Air_Force"
+      ],
+      "redirectlabel": [
+        "13th Parachute Regiment (<B>Argentina</B>)",
+        "Active <B>Argentina</B> military aircraft",
+        "Air Force of <B>Argentina</B>",
+        "Air force of <B>Argentina</B>",
+        "<B>Argentine</B> air force",
+        "<B>Argentinean</B> Air Force",
+        "Argentinian Air Force",
+        "Army Aviation Service",
+        "Escuadron de Apoyo Comando",
+        "Escuadrón de Apoyo Comando",
+        "Fuerza Aerea <B>Argentina</B>",
+        "Fuerza Aérea <B>Argentina</B>",
+        "Fueza Aera <B>Argentina</B>",
+        "Grupo de Operaciones Especiales (<B>Argentina</B>)",
+        "History of the <B>Argentine</B> Air Force",
+        "List of active <B>Argentine</B> military aircraft",
+        "List of active aircraft of the <B>Argentine</B> Air Force",
+        "Regimiento Paracaidista 13",
+        "Regimiento Paracaidista 7",
+        "Special Operations Group (<B>Argentina</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Air Force (Spanish: Fuerza Aérea <B>Argentina</B>, or simply FAA) is the national aviation"
+      ],
+      "label": [
+        "<B>Argentine</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "2740.303"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Argentine</B> Primera División"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2019–20 <B>Argentine</B> Primera División - Superliga <B>Argentina</B> (officially the Superliga Quilmes"
+      ],
+      "label": [
+        "2019–20 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2734.12"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_rock"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Rock",
+        "<B>Argentine</B> rock music",
+        "<B>Argentinean</B> rock",
+        "Argentinian rock",
+        "Origins of <B>Argentine</B> Rock",
+        "Origins of <B>Argentine</B> rock",
+        "Rock Nacional",
+        "Rock of <B>Argentina</B>"
+      ],
+      "comment": [
+        "<B>Argentine</B> rock (known locally as rock nacional [ˈrok nasjoˈnal], \"national rock\" in the sense of"
+      ],
+      "label": [
+        "<B>Argentine</B> rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_rock"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_music_genres",
+        "http://dbpedia.org/resource/Category:Argentine_rock_music",
+        "http://dbpedia.org/resource/Category:Latin_American_music",
+        "http://dbpedia.org/resource/Category:Rock_en_Español",
+        "http://dbpedia.org/resource/Category:Rock_music_by_country",
+        "http://dbpedia.org/resource/Category:Southern_cone_music"
+      ]
+    },
+    {
+      "score": [
+        "2723.8765"
+      ],
+      "refCount": [
+        "96"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Córdoba_Province,_Argentina"
+      ],
+      "redirectlabel": [
+        "AR-X",
+        "Cordoba (<B>Argentinan</B> province)",
+        "Cordoba (<B>Argentine</B> province)",
+        "Cordoba Province, <B>Argentina</B>",
+        "Cordoba Province (<B>Argentina</B>)",
+        "Córdoba (<B>Argentinan</B> province)",
+        "Córdoba (<B>Argentine</B> province)",
+        "Córdoba Province (<B>Argentina</B>)",
+        "Province of Córdoba, <B>Argentina</B>",
+        "Province of Córdoba (<B>Argentina</B>)",
+        "Provincia de Cordoba (<B>Argentina</B>)",
+        "Provincia de Córdoba (<B>Argentina</B>)"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "Córdoba (Spanish pronunciation: [ˈkoɾðoβa]) is a province of <B>Argentina</B>, located in the center of"
+      ],
+      "label": [
+        "Córdoba Province, <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Córdoba_Province,_Argentina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Córdoba_Province,_Argentina",
+        "http://dbpedia.org/resource/Category:Provinces_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2649.5474"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Argentine</B> Primera División"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Argentine</B> Primera División – Superliga <B>Argentina</B> (officially the Superliga Quilmes"
+      ],
+      "label": [
+        "2018–19 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2509.5383"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_peso"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> Pesos",
+        "<B>Argentine</B> Peso",
+        "<B>Argentine</B> nuevo peso",
+        "<B>Argentine</B> peso fuerte",
+        "Argentinian peso",
+        "Currency of <B>Argentina</B>",
+        "ISO 4217:ARS",
+        "ISO 4217:ARY",
+        "New <B>Argentine</B> peso",
+        "New Argentinian peso",
+        "Peso (<B>Argentina</B>)",
+        "Peso <B>argentino</B>"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The peso (established as the peso convertible) is the currency of <B>Argentina</B>, identified by the"
+      ],
+      "label": [
+        "<B>Argentine</B> peso"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_peso"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1826_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:1826_introductions",
+        "http://dbpedia.org/resource/Category:Currencies_of_Argentina",
+        "http://dbpedia.org/resource/Category:Economy_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2354.7993"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Antarctica"
+      ],
+      "redirectlabel": [
+        "Antartida <B>Argentina</B>",
+        "Antártida <B>Argentina</B>",
+        "<B>Argentine</B> Antarctic Geopolitics",
+        "<B>Argentine</B> Antarctic Territory",
+        "<B>Argentine</B> Antarctica Department",
+        "Argentinian Antarctica",
+        "Direccion Nacional del Antartico",
+        "Dirección nacional del antarctica",
+        "Geography of <B>Argentine</B> Antarctica"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "<B>Argentine</B> Antarctica (Spanish: Antártida <B>Argentina</B> or Sector Antártico <B>Argentino</B>.) is a sector of"
+      ],
+      "label": [
+        "<B>Argentine</B> Antarctica"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Antarctica"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1900s_establishments_in_Antarctica",
+        "http://dbpedia.org/resource/Category:Argentine_Antarctica",
+        "http://dbpedia.org/resource/Category:Departments_of_Tierra_del_Fuego_Province,_Argentina",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_the_1900s",
+        "http://dbpedia.org/resource/Category:Territorial_claims_in_Antarctica"
+      ]
+    },
+    {
+      "score": [
+        "2327.9924"
+      ],
+      "refCount": [
+        "569"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Time_in_Argentina"
+      ],
+      "redirectlabel": [
+        "America/<B>Argentina</B>/Buenos Aires",
+        "America/<B>Argentina</B>/Catamarca",
+        "America/<B>Argentina</B>/Cordoba",
+        "America/<B>Argentina</B>/Jujuy",
+        "America/<B>Argentina</B>/La Rioja",
+        "America/<B>Argentina</B>/Mendoza",
+        "America/<B>Argentina</B>/Rio Gallegos",
+        "America/<B>Argentina</B>/Salta",
+        "America/<B>Argentina</B>/San Juan",
+        "America/<B>Argentina</B>/San Luis",
+        "America/<B>Argentina</B>/Tucuman",
+        "America/<B>Argentina</B>/Ushuaia",
+        "<B>Argentina</B> Daylight Time",
+        "<B>Argentina</B> Standard Time",
+        "<B>Argentina</B> Summer Time",
+        "<B>Argentina</B> Time"
+      ],
+      "comment": [
+        " decision. At present, <B>Argentina</B> does not observe daylight saving time. The <B>Argentine</B> Hydrographic Service maintains the official national time."
+      ],
+      "label": [
+        "Time in <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Time_in_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Argentina",
+        "http://dbpedia.org/resource/Category:Time_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2324.0637"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_wine"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> (wine)",
+        "<B>Argentina</B> wine",
+        "<B>Argentine</B> (wine)",
+        "<B>Argentine</B> viticulture",
+        "<B>Argentine</B> wines",
+        "Argentinian wine",
+        "Wine from <B>Argentina</B>",
+        "Wines from <B>Argentina</B>",
+        "Wines of <B>Argentina</B>"
+      ],
+      "comment": [
+        "<B>Argentina</B> is the fifth largest producer of wine in the world. <B>Argentine</B> wine, as with some aspects"
+      ],
+      "label": [
+        "<B>Argentine</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_wine",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2278.1335"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "label": [
+        "<B>Argentine</B> Korean"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Korean"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Korean"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B>-Korean",
+        "<B>Argentine</B>-Koreans",
+        "<B>Argentine</B> Korean (disambiguation)",
+        "<B>Argentine</B> Koreans",
+        "Coreano <B>Argentinos</B>",
+        "Korean-<B>Argentine</B>",
+        "Korean-<B>Argentines</B>",
+        "Korean <B>Argentine</B>",
+        "Korean <B>Argentines</B>"
+      ]
+    },
+    {
+      "score": [
+        "2243.0842"
+      ],
+      "refCount": [
+        "71"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Rioplatense_Spanish"
+      ],
+      "redirectlabel": [
+        "Accents of <B>Argentina</B>",
+        "<B>Argentine</B> Castellane",
+        "<B>Argentine</B> Castilian",
+        "<B>Argentine</B> Castilian language",
+        "<B>Argentine</B> Spanish",
+        "<B>Argentinean</B> Spanish",
+        "Argentinian Spanish",
+        "Castellano <B>Argentino</B>",
+        "Castellano rioplatense",
+        "Español rioplatense",
+        "Rio Platense Spanish",
+        "Rio de la Plata Spanish",
+        "Rioplatense",
+        "River Plate Spanish",
+        "Río de la Plata Spanish",
+        "Ríoplatense Spanish",
+        "Silver-River Castilian",
+        "Silver-River Spanish",
+        "Silver RIver Castilian",
+        "Silver River Spanish"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Rioplatense Spanish (), also known as <B>Argentine</B>-Uruguayan Spanish is a variety of Spanish spoken"
+      ],
+      "label": [
+        "Rioplatense Spanish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Rioplatense_Spanish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian-Argentine_culture",
+        "http://dbpedia.org/resource/Category:Italian-Uruguayan_culture",
+        "http://dbpedia.org/resource/Category:Languages_of_Argentina",
+        "http://dbpedia.org/resource/Category:Languages_of_Uruguay",
+        "http://dbpedia.org/resource/Category:Spanish_dialects_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2220.0916"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Football_Association"
+      ],
+      "redirectlabel": [
+        "Afa.com.ar",
+        "<B>Argentina</B> Football Association",
+        "<B>Argentine</B> FA",
+        "Asociacion <B>Argentina</B> de Football",
+        "Asociacion del Futbol <B>Argentino</B>",
+        "Asociación <B>Argentina</B> de Football",
+        "Asociación de Fútbol <B>Argentina</B>",
+        "Asociación de Fútbol <B>Argentino</B>",
+        "Asociación del Fútbol <B>Argentino</B>",
+        "Association of <B>Argentine</B> Football",
+        "Association of the <B>Argentine</B> Football"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Football Association (Spanish: Asociación del Fútbol <B>Argentino</B>, locally [asosjaˈsjon"
+      ],
+      "label": [
+        "<B>Argentine</B> Football Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Football_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1893_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentine_Football_Association",
+        "http://dbpedia.org/resource/Category:Football_governing_bodies_in_Argentina",
+        "http://dbpedia.org/resource/Category:National_members_of_CONMEBOL",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Argentina",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1893"
+      ]
+    },
+    {
+      "score": [
+        "2182.8599"
+      ],
+      "refCount": [
+        "97"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B>-Barbados relations",
+        "<B>Argentina</B>-Belgium relations",
+        "<B>Argentina</B>-Bulgaria relations",
+        "<B>Argentina</B>-Colombia relations",
+        "<B>Argentina</B>-Costa Rica relations",
+        "<B>Argentina</B>-Czech Republic relations",
+        "<B>Argentina</B>-Denmark relations",
+        "<B>Argentina</B>-Dominican Republic relations",
+        "<B>Argentina</B>-Guatemala relations",
+        "<B>Argentina</B>-Guyana relations",
+        "<B>Argentina</B>-Honduras relations",
+        "<B>Argentina</B>-Hungarian relations",
+        "<B>Argentina</B>-Iceland relations",
+        "<B>Argentina</B>-Jamaica relations",
+        "<B>Argentina</B>-Libya relations",
+        "<B>Argentina</B>-Lithuania relations",
+        "<B>Argentina</B>-Netherlands relations",
+        "<B>Argentina</B>-Nicaragua relations",
+        "<B>Argentina</B>-Nigeria relations",
+        "<B>Argentina</B>-Norway relations",
+        "<B>Argentina</B>-Panama relations",
+        "<B>Argentina</B>-San Marino Relations",
+        "<B>Argentina</B>-San Marino relations",
+        "<B>Argentina</B>-Saudi Arabia relations",
+        "<B>Argentina</B>-Singapore relations",
+        "<B>Argentina</B>-Slovakia relations",
+        "<B>Argentina</B>-Slovenian relations",
+        "<B>Argentina</B>-Surinam relations",
+        "<B>Argentina</B>-Suriname relations",
+        "<B>Argentina</B>-Syria relations",
+        "<B>Argentina</B>-Thailand relations",
+        "<B>Argentina</B>-Trinidad and Tobago relations",
+        "<B>Argentina</B>-Tunisia relations",
+        "<B>Argentina</B>-United Arab Emirates relations",
+        "<B>Argentina</B>-Vietnam relations",
+        "<B>Argentina</B>/Foreign relations",
+        "<B>Argentina</B>/Transnational issues",
+        "<B>Argentina</B> - Barbados relations",
+        "<B>Argentina</B> - Costa Rica relations",
+        "<B>Argentina</B> - Czech Republic relations",
+        "<B>Argentina</B> - Saudi Arabia relations",
+        "<B>Argentina</B> Barbados relations",
+        "<B>Argentina</B> foreign relations",
+        "<B>Argentina</B> – Barbados relations",
+        "<B>Argentina</B> – Costa Rica relations",
+        "<B>Argentina</B> – Czech Republic relations",
+        "<B>Argentina</B> – Saudi Arabia relations",
+        "<B>Argentina</B>–Barbados relations",
+        "<B>Argentina</B>–Belgium relations",
+        "<B>Argentina</B>–Bulgaria relations",
+        "<B>Argentina</B>–Colombia relations",
+        "<B>Argentina</B>–Costa Rica relations",
+        "<B>Argentina</B>–Czech Republic relations",
+        "<B>Argentina</B>–Denmark relations",
+        "<B>Argentina</B>–Dominican Republic relations",
+        "<B>Argentina</B>–Guatemala relations",
+        "<B>Argentina</B>–Guyana relations",
+        "<B>Argentina</B>–Honduras relations",
+        "<B>Argentina</B>–Hungarian relations",
+        "<B>Argentina</B>–Iceland relations",
+        "<B>Argentina</B>–Jamaica relations",
+        "<B>Argentina</B>–Libya relations",
+        "<B>Argentina</B>–Lithuania relations",
+        "<B>Argentina</B>–Netherlands relations",
+        "<B>Argentina</B>–Nicaragua relations",
+        "<B>Argentina</B>–Nigeria relations",
+        "<B>Argentina</B>–Norway relations",
+        "<B>Argentina</B>–Panama relations",
+        "<B>Argentina</B>–San Marino relations",
+        "<B>Argentina</B>–Saudi Arabia relations",
+        "<B>Argentina</B>–Singapore relations",
+        "<B>Argentina</B>–Slovakia relations",
+        "<B>Argentina</B>–Suriname relations",
+        "<B>Argentina</B>–Syria relations",
+        "<B>Argentina</B>–Thailand relations",
+        "<B>Argentina</B>–Trinidad and Tobago relations",
+        "<B>Argentina</B>–Tunisia relations",
+        "<B>Argentina</B>–United Arab Emirates relations",
+        "<B>Argentina</B>–Vietnam relations",
+        "<B>Argentine</B>-Austrian relations",
+        "<B>Argentine</B>-Belgian relations",
+        "<B>Argentine</B>-Bulgarian relations",
+        "<B>Argentine</B>-Colombian relations",
+        "<B>Argentine</B>-Czech relations",
+        "<B>Argentine</B>-Danish relations",
+        "<B>Argentine</B>-Dutch relations",
+        "<B>Argentine</B>-Hungarian relations",
+        "<B>Argentine</B>-Lithuanian relations",
+        "<B>Argentine</B>-Slovenian relations",
+        "Barbados-<B>Argentina</B> relations",
+        "Barbados–<B>Argentina</B> relations",
+        "Diplomatic history of <B>Argentina</B>",
+        "Foreign policy of <B>Argentina</B>",
+        "Foreign relations of <B>argentina</B>",
+        "History of foreign relations of <B>Argentina</B>",
+        "Transnational issues of <B>Argentina</B>"
+      ],
+      "comment": [
+        " <B>Argentina</B>. At the political level, these matters are officially handled by the Ministry of Foreign"
+      ],
+      "label": [
+        "Foreign relations of <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Argentina",
+        "http://dbpedia.org/resource/Category:Government_of_Argentina",
+        "http://dbpedia.org/resource/Category:Politics_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2153.5046"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> nationalist",
+        "<B>Argentine</B> nationalists",
+        "Argentinian nationalist",
+        "Argentinian nationalists",
+        "History of <B>Argentine</B> nationalism"
+      ],
+      "comment": [
+        "<B>Argentine</B> nationalism refers to the nationalism of <B>Argentine</B> people and <B>Argentine</B> culture. It"
+      ],
+      "label": [
+        "<B>Argentine</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_culture",
+        "http://dbpedia.org/resource/Category:Argentine_nationalism",
+        "http://dbpedia.org/resource/Category:Society_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2138.6348"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provinces_of_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> Provinces",
+        "<B>Argentine</B> Provinces",
+        "<B>Argentine</B> province",
+        "<B>Argentine</B> provinces",
+        "List of <B>Argentine</B> provinces",
+        "List of provinces of <B>Argentina</B>",
+        "Province of <B>Argentina</B>",
+        "Provinces in <B>Argentina</B>",
+        "Provinces of <B>argentina</B>",
+        "States and territories of <B>Argentina</B>"
+      ],
+      "comment": [
+        "<B>Argentina</B> is subdivided into twenty-three provinces (Spanish: provincias, singular provincia) and"
+      ],
+      "label": [
+        "Provinces of <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provinces_of_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina_geography-related_lists",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Argentina",
+        "http://dbpedia.org/resource/Category:Provinces_of_Argentina",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2138.447"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_cuisine"
+      ],
+      "redirectlabel": [
+        "Alcohol in <B>Argentina</B>",
+        "Alcoholic drinks in <B>Argentina</B>",
+        "<B>Argentina</B> cuisine",
+        "<B>Argentine</B> beer",
+        "<B>Argentine</B> cuisine ingredients",
+        "<B>Argentinean</B> cuisine",
+        "Argentinian cuisine",
+        "Argentinian food",
+        "Cuisine of <B>Argentina</B>",
+        "Cuisine of <B>argentina</B>",
+        "Regional cuisines of <B>Argentina</B>"
+      ],
+      "comment": [
+        " consequently imprinted a large influence in the <B>Argentine</B> cuisine, after all <B>Argentina</B> was the second count"
+      ],
+      "label": [
+        "<B>Argentine</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_cuisine",
+        "http://dbpedia.org/resource/Category:Latin_American_cuisine",
+        "http://dbpedia.org/resource/Category:South_American_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2089.33"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_National_Anthem"
+      ],
+      "redirectlabel": [
+        "!Oid, Mortales!",
+        "<B>Argentina</B> anthem",
+        "<B>Argentina</B> national anthem",
+        "<B>Argentine</B> anthem",
+        "<B>Argentine</B> national anthem",
+        "Argentinian National Anthem",
+        "Himno Nacional <B>Argentino</B>",
+        "Himno nacional <B>argentino</B>",
+        "National Anthem of <B>Argentina</B>",
+        "National anthem of <B>Argentina</B>",
+        "Oid, Mortales",
+        "¡Oíd, Mortales!"
+      ],
+      "comment": [
+        "The \"<B>Argentine</B> National Anthem\" (Spanish: Himno Nacional <B>Argentino</B>; also known as \"Hear, mortals"
+      ],
+      "label": [
+        "<B>Argentine</B> National Anthem"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_National_Anthem"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1810s_songs",
+        "http://dbpedia.org/resource/Category:National_anthem_compositions_in_B-flat_major",
+        "http://dbpedia.org/resource/Category:National_anthems",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Argentina",
+        "http://dbpedia.org/resource/Category:South_American_anthems",
+        "http://dbpedia.org/resource/Category:Spanish-language_songs"
+      ]
+    },
+    {
+      "score": [
+        "2021.8295"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1998–2002_Argentine_great_depression"
+      ],
+      "redirectlabel": [
+        "1998-2002 <B>Argentine</B> great depression",
+        "1998-2002 Argentinian great depression",
+        "1998–2002 Argentinian great depression",
+        "<B>Argentina</B> 2002",
+        "<B>Argentine</B> default",
+        "<B>Argentine</B> economic crisis",
+        "<B>Argentine</B> economic crisis (1999-2002)",
+        "<B>Argentine</B> economic crisis (1999–2002)",
+        "<B>Argentine</B> economic crisis of 2002",
+        "Argentinian default",
+        "Argentinian economic crisis (1999-2002)",
+        "Argentinian economic crisis (1999–2002)"
+      ],
+      "comment": [
+        "The 1998–2002 <B>Argentine</B> Great Depression was an economic depression in <B>Argentina</B>, which began in"
+      ],
+      "label": [
+        "1998–2002 <B>Argentine</B> great depression"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1998–2002_Argentine_great_depression"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_in_Argentina",
+        "http://dbpedia.org/resource/Category:1998_in_economics",
+        "http://dbpedia.org/resource/Category:1999_in_Argentina",
+        "http://dbpedia.org/resource/Category:1999_in_economics",
+        "http://dbpedia.org/resource/Category:2000_in_Argentina",
+        "http://dbpedia.org/resource/Category:2000_in_economics",
+        "http://dbpedia.org/resource/Category:2001_in_Argentina",
+        "http://dbpedia.org/resource/Category:2001_in_economics",
+        "http://dbpedia.org/resource/Category:2002_in_Argentina",
+        "http://dbpedia.org/resource/Category:2002_in_economics",
+        "http://dbpedia.org/resource/Category:Economic_crises_in_Argentina",
+        "http://dbpedia.org/resource/Category:History_of_government_debt",
+        "http://dbpedia.org/resource/Category:Presidency_of_Carlos_Menem",
+        "http://dbpedia.org/resource/Category:Presidency_of_Eduardo_Duhalde",
+        "http://dbpedia.org/resource/Category:Presidency_of_Fernando_de_la_Rúa",
+        "http://dbpedia.org/resource/Category:Recessions"
+      ]
+    },
+    {
+      "score": [
+        "1981.8728"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B>-American",
+        "<B>Argentine</B> American",
+        "<B>Argentinean</B> American",
+        "Argentinian-American",
+        "Argentinian American",
+        "Demographics of <B>Argentine</B> Americans",
+        "Socioeconomic status of <B>Argentine</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Argentine</B> Americans (Spanish: <B>argentino</B>-americanos) are Americans whose full or partial origin is in <B>Argentina</B>."
+      ],
+      "label": [
+        "<B>Argentine</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Argentine_descent",
+        "http://dbpedia.org/resource/Category:Argentine_American",
+        "http://dbpedia.org/resource/Category:Argentine_diaspora",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American"
+      ]
+    },
+    {
+      "score": [
+        "1973.8818"
+      ],
+      "refCount": [
+        "723"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentina_national_under-20_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> U-20",
+        "<B>Argentina</B> U20",
+        "<B>Argentina</B> national U-20 football team",
+        "<B>Argentina</B> national under-18 football team",
+        "<B>Argentina</B> national under20 football team",
+        "<B>Argentina</B> under-20 national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Argentina</B> national under-20 football team is the representative of <B>Argentina</B> in FIFA sponsored"
+      ],
+      "label": [
+        "<B>Argentina</B> national under-20 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentina_national_under-20_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina_national_football_team",
+        "http://dbpedia.org/resource/Category:South_American_national_under-20_association_football_teams",
+        "http://dbpedia.org/resource/Category:Youth_sport_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1953.8346"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armed_Forces_of_the_Argentine_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B>/Military",
+        "<B>Argentine</B> Armed Forces",
+        "<B>Argentine</B> Military",
+        "<B>Argentine</B> military",
+        "Argentinian military",
+        "Armed Forces of <B>Argentina</B>",
+        "Armed forces of <B>Argentina</B>",
+        "Armed forces of the <B>argentine</B> republic",
+        "Fuerza de Despliege Rapido (<B>Argentina</B>)",
+        "Fuerza de Despliege Rápido (<B>Argentina</B>)",
+        "Fuerza de Despliegue Rapido",
+        "Fuerza de Despliegue Rapido (<B>Argentina</B>)",
+        "Fuerza de Despliegue Rápido",
+        "Fuerza de Despliegue Rápido (<B>Argentina</B>)",
+        "History of the Armed Forces of the <B>Argentine</B> Republic",
+        "Military of <B>Argentina</B>",
+        "Military of <B>argentina</B>",
+        "Rapid Deployment Force (<B>Argentina</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Armed Forces of the <B>Argentine</B> Republic, in Spanish: Fuerzas Armadas de la República <B>Argentina</B>"
+      ],
+      "label": [
+        "Armed Forces of the <B>Argentine</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armed_Forces_of_the_Argentine_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Argentina",
+        "http://dbpedia.org/resource/Category:Military_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1932.8112"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Instituto_Antártico_Argentino"
+      ],
+      "redirectlabel": [
+        "Antarctica Institute of <B>Argentina</B>",
+        "<B>Argentine</B> Antarctic Expedition",
+        "<B>Argentine</B> Antarctic Institute",
+        "<B>Argentine</B> actions in Antarctica",
+        "<B>Argentine</B> actions in antarctica",
+        "<B>Argentinia</B> Antarctic Institute",
+        "Argentinian Antarctic Institute",
+        "Instituto Antartico <B>Argentino</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Instituto Antártico <B>Argentino</B> (IAA; English: <B>Argentine</B> Antarctic Institute) is the <B>Argentine</B>"
+      ],
+      "label": [
+        "Instituto Antártico <B>Argentino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Instituto_Antártico_Argentino"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Antarctic_agencies",
+        "http://dbpedia.org/resource/Category:Antarctic_research",
+        "http://dbpedia.org/resource/Category:Argentina_and_the_Antarctic",
+        "http://dbpedia.org/resource/Category:Argentine_Antarctica"
+      ]
+    },
+    {
+      "score": [
+        "1915.0042"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007–08_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2007-08 <B>Argentine</B> Primera Division",
+        "2007-08 <B>Argentine</B> Primera Division season",
+        "2007-08 <B>Argentine</B> Primera División",
+        "2007-08 <B>Argentine</B> Primera División season",
+        "2007-08 Primera División <B>Argentina</B>",
+        "2007 Torneo Apertura (<B>Argentina</B>)",
+        "2007–08 <B>Argentine</B> Primera Division",
+        "2007–08 <B>Argentine</B> Primera Division season",
+        "2007–08 <B>Argentine</B> Primera División season",
+        "2007–08 Primera División <B>Argentina</B>",
+        "Primera División <B>Argentina</B> 2007-08",
+        "Primera División <B>Argentina</B> 2007–08",
+        "Torneo Clausura 2008"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        " <B>Argentinos</B> Juniors in 1984. Second place went to Tigre, a club playing their first season in the <B>Argentine</B>"
+      ],
+      "label": [
+        "2007–08 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007–08_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007–08_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1899.6599"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cisplatine_War"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B>-Brazil War",
+        "<B>Argentina</B>-Brazilian War",
+        "<B>Argentina</B>–Brazil War",
+        "<B>Argentine</B>-Brazilian War",
+        "<B>Argentine</B>–Brazilian War",
+        "Brazil-<B>Argentina</B> War",
+        "First <B>Argentine</B>-Brazilian War",
+        "The Cisplatine War",
+        "War of Cisplatina"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " (Spanish: Guerra <B>argentino</B>-brasileña) or in the <B>Argentine</B> and Uruguayan historiography as the Brazil"
+      ],
+      "label": [
+        "Cisplatine War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cisplatine_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1820s_in_Argentina",
+        "http://dbpedia.org/resource/Category:1820s_in_Brazil",
+        "http://dbpedia.org/resource/Category:1820s_in_Uruguay",
+        "http://dbpedia.org/resource/Category:Cisplatine_War",
+        "http://dbpedia.org/resource/Category:Colonial_Uruguay",
+        "http://dbpedia.org/resource/Category:Empire_of_Brazil",
+        "http://dbpedia.org/resource/Category:History_of_South_America",
+        "http://dbpedia.org/resource/Category:Invasions_by_Argentina",
+        "http://dbpedia.org/resource/Category:Maritime_history_of_Argentina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Argentina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Brazil",
+        "http://dbpedia.org/resource/Category:Wars_involving_Uruguay"
+      ]
+    },
+    {
+      "score": [
+        "1885.7659"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Argentine"
+      ],
+      "redirectlabel": [
+        "Dresden Affair",
+        "Irish-<B>Argentine</B>",
+        "Irish <B>Argentineans</B>",
+        "Irish <B>Argentines</B>",
+        "Irish Argentinian",
+        "Irish Argentinians",
+        "Irish settlement in <B>Argentina</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Irish <B>Argentines</B> are <B>Argentine</B> citizens who are fully or partially of Irish descent. Irish"
+      ],
+      "label": [
+        "Irish <B>Argentine</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Argentine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Argentina",
+        "http://dbpedia.org/resource/Category:Irish_Argentine",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1883.5107"
+      ],
+      "refCount": [
+        "433"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Córdoba,_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> Cordoba",
+        "Cordoba, <B>Argentina</B>",
+        "Cordoba (<B>Argentina</B>)",
+        "Cordoba (city, <B>Argentina</B>)",
+        "Córdoba (<B>Argentina</B>)",
+        "Córdoba (Argentinian province)",
+        "Córdoba (city, <B>Argentina</B>)",
+        "Córdoba del Tucumán",
+        "Ferreyra, Córdoba",
+        "Geography of Córdoba, <B>Argentina</B>",
+        "History of Córdoba, <B>Argentina</B>",
+        "List of people from Córdoba, <B>Argentina</B>",
+        "Santa Isabel, Córdoba",
+        "UN/LOCODE:ARCOR"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Córdoba (Spanish pronunciation: [ˈkoɾðoβa]) is a city in central <B>Argentina</B>, in the foothills of the"
+      ],
+      "label": [
+        "Córdoba, <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Córdoba,_Argentina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1573_establishments_in_South_America",
+        "http://dbpedia.org/resource/Category:1573_establishments_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:Capitals_of_Argentine_provinces",
+        "http://dbpedia.org/resource/Category:Cities_in_Argentina",
+        "http://dbpedia.org/resource/Category:Córdoba,_Argentina",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1573",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Córdoba_Province,_Argentina",
+        "http://dbpedia.org/resource/Category:World_Heritage_Sites_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1854.181"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_ant"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Ant",
+        "<B>Argentine</B> Ants",
+        "<B>Argentine</B> ants",
+        "<B>Argentinean</B> ant",
+        "Argentinian ant",
+        "Iridomyrmex humilis",
+        "Linepithema humile"
+      ],
+      "comment": [
+        "The <B>Argentine</B> ant (Linepithema humile), formerly Iridomyrmex humilis, is an ant native to northern"
+      ],
+      "label": [
+        "<B>Argentine</B> ant"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_ant"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agricultural_pest_insects",
+        "http://dbpedia.org/resource/Category:Ants_of_New_Zealand",
+        "http://dbpedia.org/resource/Category:Dolichoderinae",
+        "http://dbpedia.org/resource/Category:Household_pest_insects",
+        "http://dbpedia.org/resource/Category:Hymenoptera_of_New_Zealand",
+        "http://dbpedia.org/resource/Category:Insects_described_in_1868"
+      ]
+    },
+    {
+      "score": [
+        "1830.8771"
+      ],
+      "refCount": [
+        "4291"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Buenos_Aires"
+      ],
+      "redirectlabel": [
+        "AR-C",
+        "Autonomous City of Buenos Aires",
+        "Autonomous city of Buenos Aires",
+        "B. Aires",
+        "BBAA",
+        "B Aires",
+        "Baires",
+        "Bs.As.",
+        "Bs. As.",
+        "BsAs",
+        "Bs As",
+        "Bs as",
+        "Buenas Aires",
+        "Buenes Aires",
+        "Buenoes Ayres",
+        "Buenos-Aires",
+        "Buenos Aires, <B>Argentina</B>",
+        "Buenos Aires (<B>Argentina</B>)",
+        "Buenos Aires Autonomous City",
+        "Buenos Aires Capital Federal",
+        "Buenos Aires City",
+        "Buenos Aires city",
+        "Buenos Ares",
+        "Buenos Aries",
+        "Buenos Aíres",
+        "Buenos aires",
+        "Buone Arie",
+        "Capital Federal, <B>Argentina</B>",
+        "Capital Federal",
+        "Capital federal, <B>Argentina</B>",
+        "Capital federal",
+        "Capital federal (<B>Argentina</B>)",
+        "Capital of <B>Argentina</B>",
+        "City of Buenos Aires",
+        "Ciudad Autonoma de Buenos Aires",
+        "Ciudad Autónoma de Buenos Aires",
+        "Ciudad de Buenos Aires",
+        "Demographics of Buenos Aires",
+        "Distrito Federal, <B>Argentina</B>",
+        "Economy of Buenos Aires",
+        "Federal Capital (<B>Argentina</B>)",
+        "Federal District, <B>Argentina</B>",
+        "Geography of Buenos Aires",
+        "History of Buenos Aires",
+        "La Reina del Plata",
+        "Law enforcement in Buenos Aires",
+        "List of honorary citizens of Buenos Aires",
+        "Paris of South America",
+        "Regina Theatre",
+        "Transport in Buenos Aires",
+        "UN/LOCODE:ARBUE"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Argentina</B>. The city is located on the western shore of the estuary of the Río de la Plata, on the South"
+      ],
+      "label": [
+        "Buenos Aires"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Buenos_Aires"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Autonomous_cities",
+        "http://dbpedia.org/resource/Category:Buenos_Aires",
+        "http://dbpedia.org/resource/Category:Capital_districts_and_territories",
+        "http://dbpedia.org/resource/Category:Capitals_in_South_America",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1580",
+        "http://dbpedia.org/resource/Category:Port_settlements_in_Argentina",
+        "http://dbpedia.org/resource/Category:Provinces_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1829.4047"
+      ],
+      "refCount": [
+        "54"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Patagonia"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Patagonia",
+        "<B>Argentine</B> Patagonian cuisine",
+        "Argentinian Patagonia",
+        "Chilean Patagonia",
+        "Fictional depictions of Patagonia",
+        "History of Patagonia",
+        "Patagonia, <B>Argentina</B>",
+        "Patagonia (<B>Argentina</B> and Chile)",
+        "Patagonian",
+        "Tourism in Patagonia"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " of South America, shared by <B>Argentina</B> and Chile. The region comprises the southern section of the"
+      ],
+      "label": [
+        "Patagonia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Patagonia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina–Chile_border",
+        "http://dbpedia.org/resource/Category:Deserts_of_Argentina",
+        "http://dbpedia.org/resource/Category:Deserts_of_Chile",
+        "http://dbpedia.org/resource/Category:Geography_of_Aysén_Region",
+        "http://dbpedia.org/resource/Category:Geography_of_Magallanes_Region",
+        "http://dbpedia.org/resource/Category:Natural_regions_of_South_America",
+        "http://dbpedia.org/resource/Category:Patagonia",
+        "http://dbpedia.org/resource/Category:Regions_of_Argentina",
+        "http://dbpedia.org/resource/Category:Regions_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1820.083"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Federal_Police"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> federal police",
+        "<B>Argentine</B> police",
+        "Federal Police (<B>Argentina</B>)",
+        "Federal Police of <B>Argentina</B>",
+        "History of the <B>Argentine</B> Federal Police",
+        "Police of <B>Argentina</B>",
+        "Policia Federal <B>Argentina</B>",
+        "Policía Federal <B>Argentina</B>"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Federal Police (Spanish: Policía Federal <B>Argentina</B> or PFA) is the national civil"
+      ],
+      "label": [
+        "<B>Argentine</B> Federal Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Federal_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1943_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Federal_law_enforcement_agencies_of_Argentina",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_1943"
+      ]
+    },
+    {
+      "score": [
+        "1819.9221"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> citizenship",
+        "<B>Argentine</B> citizenship",
+        "Argentinian citizenship",
+        "Argentinian nationality law",
+        "History of <B>Argentine</B> nationality law"
+      ],
+      "comment": [
+        "<B>Argentine</B> nationality law has a dual system accepting Jus soli and Jus sanguinis."
+      ],
+      "label": [
+        "<B>Argentine</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_legislation",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1815.8317"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Argentine_general_election"
+      ],
+      "redirectlabel": [
+        "2007 <B>Argentina</B> presidential election",
+        "2007 <B>Argentine</B> Presidential Election",
+        "<B>Argentina</B> general elections, 2007",
+        "<B>Argentina</B> presidential election, 2007",
+        "<B>Argentine</B> elections, 2007",
+        "<B>Argentine</B> general election, 2007",
+        "<B>Argentine</B> presidential election, 2007",
+        "Elections in <B>Argentina</B>, 2007"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "<B>Argentina</B> held national presidential and legislative elections on Sunday, October 28, 2007, and"
+      ],
+      "label": [
+        "2007 <B>Argentine</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Argentine_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_Argentina",
+        "http://dbpedia.org/resource/Category:Presidency_of_Cristina_Fernández_de_Kirchner",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1806.5653"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Gran_Hermano_(Argentine_TV_series)"
+      ],
+      "redirectlabel": [
+        "Gran Hermano (<B>Argentina</B>)",
+        "Gran Hermano (<B>Argentina</B> TV series)",
+        "Gran Hermano (<B>Argentine</B> season 1)",
+        "Gran Hermano (<B>Argentine</B> season 2)",
+        "Gran Hermano (<B>Argentine</B> season 3)",
+        "Gran Hermano (<B>Argentine</B> season 4)",
+        "Gran Hermano (<B>Argentine</B> season 5)",
+        "Gran Hermano (Argentinian TV series)",
+        "Gran Hermano 2011 (<B>Argentina</B>)",
+        "Gran Hermano <B>Argentina</B>",
+        "Gran Hermano Famosos",
+        "Gran hermano (<B>Argentina</B>)"
+      ],
+      "typeName": [
+        "TelevisionShow",
+        "Work"
+      ],
+      "comment": [
+        "Gran Hermano is the <B>Argentine</B> version of the international reality television franchise Big Brother"
+      ],
+      "label": [
+        "Gran Hermano (<B>Argentine</B> TV series)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Gran_Hermano_(Argentine_TV_series)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/TelevisionShow",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_Argentine_television_series_debuts",
+        "http://dbpedia.org/resource/Category:Argentine_reality_television_series",
+        "http://dbpedia.org/resource/Category:Gran_Hermano_(Argentine_TV_series)"
+      ]
+    },
+    {
+      "score": [
+        "1806.4077"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Scottish_Argentine"
+      ],
+      "redirectlabel": [
+        "Scottish-<B>Argentine</B>",
+        "Scottish <B>Argentines</B>",
+        "Scottish Argentinian",
+        "Scottish settlement in <B>Argentina</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Scottish <B>Argentines</B> are <B>Argentine</B> citizens of Scottish descent or Scottish-born people who reside"
+      ],
+      "label": [
+        "Scottish <B>Argentine</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Scottish_Argentine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Scottish_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Argentina",
+        "http://dbpedia.org/resource/Category:Scottish_Argentine",
+        "http://dbpedia.org/resource/Category:Scottish_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1803.4359"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_irredentism"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> Grande",
+        "<B>Argentina</B> Irredentism",
+        "<B>Argentina</B> dás Grande",
+        "<B>Argentina</B> más Grande",
+        "<B>Argentine</B> Irredentism",
+        "Argentinian Irredentism",
+        "Grande <B>Argentina</B>",
+        "Great <B>Argentina</B>",
+        "Greater <B>Argentina</B>",
+        "Irredentism <B>Argentina</B>"
+      ],
+      "comment": [
+        "<B>Argentine</B> irredentism is the idea of Argentina's sovereignty over the British Overseas Territories"
+      ],
+      "label": [
+        "<B>Argentine</B> irredentism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_irredentism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_nationalism",
+        "http://dbpedia.org/resource/Category:Irredentism",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Falkland_Islands",
+        "http://dbpedia.org/resource/Category:Sovereignty",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1792.1832"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Santiago_García_(Argentine_footballer)"
+      ],
+      "redirectlabel": [
+        "Santiago Garcia (<B>Argentine</B> footballer)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Santiago García (born 8 July 1988) is an <B>Argentine</B> professional footballer who plays as a left-back"
+      ],
+      "label": [
+        "Santiago García (<B>Argentine</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Santiago_García_(Argentine_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_births",
+        "http://dbpedia.org/resource/Category:3._Liga_players",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Chile",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Germany",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Italy",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Mexico",
+        "http://dbpedia.org/resource/Category:Argentine_footballers",
+        "http://dbpedia.org/resource/Category:Association_football_central_defenders",
+        "http://dbpedia.org/resource/Category:Bundesliga_players",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Deportivo_Toluca_F.C._players",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Chile",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Germany",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Italy",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Mexico",
+        "http://dbpedia.org/resource/Category:Footballers_from_Rosario,_Santa_Fe",
+        "http://dbpedia.org/resource/Category:Liga_MX_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Novara_F.C._players",
+        "http://dbpedia.org/resource/Category:Palermo_F.C._players",
+        "http://dbpedia.org/resource/Category:Rosario_Central_footballers",
+        "http://dbpedia.org/resource/Category:SV_Werder_Bremen_players",
+        "http://dbpedia.org/resource/Category:Serie_A_players",
+        "http://dbpedia.org/resource/Category:Unión_La_Calera_footballers"
+      ]
+    },
+    {
+      "score": [
+        "1778.0197"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> cinema",
+        "<B>Argentine</B> cinema",
+        "<B>Argentine</B> film movement",
+        "Cinema of <B>argentina</B>",
+        "Golden Age of <B>Argentine</B> Cinema",
+        "History of cinema in <B>Argentina</B>",
+        "New <B>Argentine</B> Cinema"
+      ],
+      "comment": [
+        "Cinema of <B>Argentina</B> refers to the film industry based in <B>Argentina</B>. The <B>Argentine</B> cinema comprises"
+      ],
+      "label": [
+        "Cinema of <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_culture",
+        "http://dbpedia.org/resource/Category:Cinema_of_Argentina",
+        "http://dbpedia.org/resource/Category:Industry_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1766.8488"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Argentine"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B>-Armenian",
+        "<B>Argentine</B> Armenian",
+        "Argentinian-Armenian",
+        "Armenian <B>Argentina</B>",
+        "Armenians in <B>Argentina</B>",
+        "Armenians in <B>argentina</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Armenian <B>Argentines</B> are ethnic Armenians who live in <B>Argentina</B>. Between 70,000 and 135,000 people"
+      ],
+      "label": [
+        "Armenian <B>Argentine</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Argentine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:Armenian_Argentine",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1752.388"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_before_1930"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films: 1897 - 1929",
+        "Avelino Viamonte",
+        "Bohemia criolla",
+        "Ensalada criolla",
+        "Justicia criolla",
+        "List of <B>Argentine</B> films, 1897-1929",
+        "List of <B>Argentine</B> films, 1897–1929",
+        "List of <B>Argentine</B> films:1897-1929",
+        "List of <B>Argentine</B> films:1910s",
+        "List of <B>Argentine</B> films:1920s",
+        "List of <B>Argentine</B> films:Pre 1910"
+      ],
+      "comment": [
+        ". For an A-Z list of <B>Argentine</B> films see Category:Argentine films"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films before 1930"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_before_1930"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890s_in_Argentina",
+        "http://dbpedia.org/resource/Category:1900s_in_Argentina",
+        "http://dbpedia.org/resource/Category:1910s_in_Argentina",
+        "http://dbpedia.org/resource/Category:1920s_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_1890s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_1900s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_1910s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_1920s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_decade"
+      ]
+    },
+    {
+      "score": [
+        "1750.8701"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Central_Railway"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> & Gray's Peak Railway",
+        "<B>Argentine</B> & Grays Peak Railway",
+        "<B>Argentine</B> Central",
+        "<B>Argentine</B> Central Railroad",
+        "<B>Argentine</B> and Gray's Peak Railroad",
+        "<B>Argentine</B> and Gray's Peak Railway",
+        "<B>Argentine</B> and Grays Peak Railroad"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Central Railway was a 3 ft (914 mm) narrow gauge railroad in the United States built"
+      ],
+      "label": [
+        "<B>Argentine</B> Central Railway"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Central_Railway"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1906_establishments_in_Colorado",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Colorado",
+        "http://dbpedia.org/resource/Category:3_ft_gauge_railways_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Closed_railway_lines_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Defunct_Colorado_railroads",
+        "http://dbpedia.org/resource/Category:Narrow_gauge_railroads_in_Colorado"
+      ]
+    },
+    {
+      "score": [
+        "1747.9504"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011_Argentine_general_election"
+      ],
+      "redirectlabel": [
+        "2011 <B>Argentine</B> presidential elections",
+        "2011 elections in <B>Argentina</B>",
+        "<B>Argentine</B> general election, 2011",
+        "<B>Argentine</B> general elections, 2011",
+        "<B>Argentine</B> legistlative elections, 2011",
+        "<B>Argentine</B> presidential election, 2011",
+        "<B>Argentine</B> presidential elections, 2011"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "<B>Argentina</B> held national presidential and legislative elections on Sunday, 23 October 2011"
+      ],
+      "label": [
+        "2011 <B>Argentine</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011_Argentine_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_elections_in_Argentina",
+        "http://dbpedia.org/resource/Category:Elections_in_Argentina",
+        "http://dbpedia.org/resource/Category:October_2011_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidency_of_Cristina_Fernández_de_Kirchner",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1745.4326"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Argentine_general_election"
+      ],
+      "redirectlabel": [
+        "2003 <B>Argentine</B> presidential election",
+        "2003 elections in <B>Argentina</B>",
+        "<B>Argentine</B> elections, 2003",
+        "<B>Argentine</B> general election, 2003",
+        "<B>Argentine</B> legislative election, 2003",
+        "<B>Argentine</B> presidential election, 2003",
+        "<B>Argentine</B> presidential election 2003",
+        "Elections in <B>Argentina</B>, 2003"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "<B>Argentina</B> held presidential and parliamentary elections on Sunday, April 27, 2003. Turnout was 78.2"
+      ],
+      "label": [
+        "2003 <B>Argentine</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Argentine_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_elections_in_Argentina",
+        "http://dbpedia.org/resource/Category:Elections_in_Argentina",
+        "http://dbpedia.org/resource/Category:Presidency_of_Néstor_Kirchner",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1722.8763"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Santa_Cruz_Province,_Argentina"
+      ],
+      "redirectlabel": [
+        "AR-Z",
+        "Santa Cruz (province <B>argentine</B>)",
+        "Santa Cruz Province (<B>Argentina</B>)",
+        "Santa Cruz province, <B>Argentina</B>"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " province of <B>Argentina</B>, located in the southern part of the country, in Patagonia. It borders Chubut"
+      ],
+      "label": [
+        "Santa Cruz Province, <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Santa_Cruz_Province,_Argentina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1957_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Patagonia",
+        "http://dbpedia.org/resource/Category:Provinces_of_Argentina",
+        "http://dbpedia.org/resource/Category:Santa_Cruz_Province,_Argentina",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1957"
+      ]
+    },
+    {
+      "score": [
+        "1706.499"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_black_and_white_tegu"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> Black and white tegu",
+        "<B>Argentina</B> black and white tegu",
+        "<B>Argentine</B> Black and White Tegu",
+        "<B>Argentine</B> giant tegu",
+        "<B>Argentine</B> tegu",
+        "Black and gold tegu",
+        "Black and white tegu",
+        "Blue Tegu",
+        "Blue tegu",
+        "Huge tegu",
+        "Lagarto overo",
+        "Salvator merianae",
+        "Tupinambis merianae"
+      ],
+      "comment": [
+        "The <B>Argentine</B> black and white tegu (Salvator merianae), also called commonly the <B>Argentine</B> giant"
+      ],
+      "label": [
+        "<B>Argentine</B> black and white tegu"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_black_and_white_tegu"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Reptiles_as_pets",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1839",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Argentina",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Bolivia",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Brazil",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Paraguay",
+        "http://dbpedia.org/resource/Category:Salvator_(lizard)",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_André_Marie_Constant_Duméril",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Gabriel_Bibron"
+      ]
+    },
+    {
+      "score": [
+        "1706.3625"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Clarín_(Argentine_newspaper)"
+      ],
+      "redirectlabel": [
+        "Clarin.com",
+        "Clarin (<B>Argentina</B>)",
+        "Clarin (<B>Argentine</B> newspaper)",
+        "Clarín (<B>Argentina</B>)",
+        "Clarín (Argentinian newspaper)",
+        "El Clarín (<B>Argentine</B> newspaper)"
+      ],
+      "typeName": [
+        "WrittenWork",
+        "Newspaper",
+        "Work",
+        "PeriodicalLiterature"
+      ],
+      "comment": [
+        " <B>Argentina</B>, published by the Grupo Clarín media group. It was founded by Roberto Noble on 28 August 1945"
+      ],
+      "label": [
+        "Clarín (<B>Argentine</B> newspaper)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Clarín_(Argentine_newspaper)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Newspaper",
+        "http://dbpedia.org/ontology/Work",
+        "http://dbpedia.org/ontology/PeriodicalLiterature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentine_news_websites",
+        "http://dbpedia.org/resource/Category:Clarín_Group",
+        "http://dbpedia.org/resource/Category:Daily_newspapers_published_in_Argentina",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Buenos_Aires",
+        "http://dbpedia.org/resource/Category:Newspapers_established_in_1945",
+        "http://dbpedia.org/resource/Category:Spanish-language_newspapers",
+        "http://dbpedia.org/resource/Category:Spanish-language_websites"
+      ]
+    },
+    {
+      "score": [
+        "1703.9531"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentina_national_cricket_team"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> cricket team",
+        "<B>Argentine</B> cicket team",
+        "<B>Argentine</B> cricket team",
+        "Argentinian cricket team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Argentina</B> national cricket team is the team that represents the country of <B>Argentina</B> in"
+      ],
+      "label": [
+        "<B>Argentina</B> national cricket team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentina_national_cricket_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina_in_international_cricket",
+        "http://dbpedia.org/resource/Category:Cricket_in_Argentina",
+        "http://dbpedia.org/resource/Category:National_cricket_teams",
+        "http://dbpedia.org/resource/Category:National_sports_teams_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1699.4658"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greater_argentine"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> silus",
+        "Atlantic <B>Argentine</B>",
+        "Atlantic <B>argentine</B>",
+        "Greater <B>Argentine</B>",
+        "Salmo silus"
+      ],
+      "typeName": [
+        "Species",
+        "Animal",
+        "Eukaryote",
+        "Fish"
+      ],
+      "comment": [
+        "The greater <B>argentine</B> (<B>Argentina</B> silus ; synonymous with Salmo silus), also known as the Atlantic"
+      ],
+      "label": [
+        "Greater <B>argentine</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greater_argentine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Animal",
+        "http://dbpedia.org/ontology/Eukaryote",
+        "http://dbpedia.org/ontology/Fish"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentinidae",
+        "http://dbpedia.org/resource/Category:Fish_described_in_1775",
+        "http://dbpedia.org/resource/Category:Fish_of_the_North_Atlantic",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Peter_Ascanius"
+      ]
+    },
+    {
+      "score": [
+        "1682.194"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Argentines"
+      ],
+      "redirectlabel": [
+        "African <B>Argentine</B>",
+        "Afro-<B>Argentine</B>",
+        "Afro-Argentinians",
+        "Afro-<B>argentine</B>",
+        "Afro <B>Argentine</B>",
+        "Afro <B>Argentinean</B>",
+        "Black <B>Argentine</B>",
+        "Black <B>Argentinean</B>",
+        "Black <B>Argentineans</B>",
+        "Black <B>Argentines</B>",
+        "Blacks in <B>Argentina</B>",
+        "List of Afro-<B>Argentines</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Argentines</B> are <B>Argentine</B> people of Sub-Saharan African descent. At the <B>Argentine</B> national"
+      ],
+      "label": [
+        "Afro-<B>Argentines</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Argentines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Argentine",
+        "http://dbpedia.org/resource/Category:Argentine_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Argentina",
+        "http://dbpedia.org/resource/Category:People_of_African_descent"
+      ]
+    },
+    {
+      "score": [
+        "1665.5374"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Regional_Workers'_Federation"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Regional Workers Federation",
+        "<B>Argentine</B> Workers' Federation",
+        "Argentinian Regional Workers' Federation",
+        "FORA",
+        "FORA IX",
+        "FORA V",
+        "Federacion Obrera <B>Argentina</B>",
+        "Federacion Obrera Regional <B>Argentina</B>",
+        "Federación Obrera <B>Argentina</B>",
+        "Federación Obrera Regional <B>Argentina</B>",
+        "Regional Workers' Federation of <B>Argentina</B>",
+        "Regional Workers Federation of <B>Argentina</B>",
+        "Regional Workers’ Federation of <B>Argentina</B>"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Regional Workers' Federation (Spanish: Federación Obrera Regional <B>Argentina</B>"
+      ],
+      "label": [
+        "<B>Argentine</B> Regional Workers' Federation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Regional_Workers'_Federation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1901_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Anarchist_Federations",
+        "http://dbpedia.org/resource/Category:Anarchist_organisations_in_Argentina",
+        "http://dbpedia.org/resource/Category:International_Workers'_Association",
+        "http://dbpedia.org/resource/Category:National_trade_union_centers_of_Argentina",
+        "http://dbpedia.org/resource/Category:Syndicalism",
+        "http://dbpedia.org/resource/Category:Syndicalist_trade_unions",
+        "http://dbpedia.org/resource/Category:Trade_unions_disestablished_in_1922",
+        "http://dbpedia.org/resource/Category:Trade_unions_established_in_1901"
+      ]
+    },
+    {
+      "score": [
+        "1660.6975"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liga_Nacional_de_Básquet_Awards"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Basketball League Awards",
+        "<B>Argentine</B> Basketball League Finals MVP",
+        "<B>Argentine</B> Basketball League Ideal Quintet Team",
+        "<B>Argentine</B> Basketball League Most Improved Player",
+        "<B>Argentine</B> Basketball League Revelation of the Year",
+        "<B>Argentine</B> Basketball League awards",
+        "<B>Argentine</B> National Basketball League Awards",
+        "Liga Nacional de Basquet Awards",
+        "Liga Nacional de Basquet awards",
+        "Liga Nacional de Básquet awards"
+      ],
+      "comment": [
+        "The Liga Nacional de Básquet Awards (English: National Basketball League Awards) are the yearly individual awards that are given by Argentina's top-tier level men's professional club basketball league, the Liga Nacional de Básquet (LNB), or \"La Liga\"."
+      ],
+      "label": [
+        "Liga Nacional de Básquet Awards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liga_Nacional_de_Básquet_Awards"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_trophies_and_awards",
+        "http://dbpedia.org/resource/Category:Liga_Nacional_de_Básquet"
+      ]
+    },
+    {
+      "score": [
+        "1657.0729"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_2000"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films of 2000",
+        "Capoeira (2000 film)",
+        "Cerca de la frontera",
+        "Corazon, las alegrias de Pantriste",
+        "Corazón, las alegrias de Pantriste",
+        "Corazón, las alegrías de Pantriste",
+        "Dias de la vida, Los",
+        "Días de la vida, Los",
+        "El nadador inmóvil",
+        "En la lona, historia de boxeadores",
+        "Felix & Co.",
+        "Félix & Co.",
+        "Haiku (2000 film)",
+        "Haiku (film)",
+        "Huellas ocultas",
+        "Inspiracion",
+        "Inspiración",
+        "Invocacion",
+        "Invocación",
+        "Jailbird Rock",
+        "La Muerte y la brujula",
+        "La Muerte y la brújula",
+        "List of <B>Argentine</B> films:2000",
+        "Los Hombres que rien",
+        "Los Hombres que ríen",
+        "Monos con navaja",
+        "Nathan: El peluche asesino",
+        "Nathán: El peluche asesino",
+        "Ojos que no ven",
+        "Operacion Walsh",
+        "Operación Walsh",
+        "Papa es un idolo",
+        "Papá es un ídolo",
+        "Que absurdo es haber crecido"
+      ],
+      "comment": [
+        "A list of films produced in <B>Argentina</B> in 2000:"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films of 2000"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_2000"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_2000_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1654.9636"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Riff_(Argentine_band)"
+      ],
+      "redirectlabel": [
+        "Riff (<B>argentine</B> band)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        ", introducing heavy metal music in <B>Argentina</B> in the early 80s. In 2007, the <B>Argentine</B> edition of Rolling"
+      ],
+      "label": [
+        "Riff (<B>Argentine</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Riff_(Argentine_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_heavy_metal_musical_groups",
+        "http://dbpedia.org/resource/Category:Argentine_rock_music_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_disestablished_in_2005",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1980",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Buenos_Aires"
+      ]
+    },
+    {
+      "score": [
+        "1647.7566"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_humour"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> humor",
+        "<B>Argentine</B> jokes",
+        "Argentinian humor",
+        "Argentinian humour",
+        "Humor in <B>Argentina</B>",
+        "Humour in <B>Argentina</B>"
+      ],
+      "comment": [
+        "<B>Argentine</B> humour is exemplified by a number of humorous television programmes, film productions"
+      ],
+      "label": [
+        "<B>Argentine</B> humour"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_humour"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_humour"
+      ]
+    },
+    {
+      "score": [
+        "1645.8676"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_provinces_by_Human_Development_Index"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> provinces by HDI",
+        "<B>Argentine</B> provinces by Human Development Index",
+        "Argentinian provinces by HDI",
+        "Argentinian provinces by Human Development Index",
+        "HDI of <B>Argentine</B> provinces",
+        "HDI of Argentinian provinces",
+        "HDI of provinces of <B>Argentina</B>",
+        "Human Development Index of <B>Argentine</B> provinces",
+        "Human Development Index of Argentinian provinces",
+        "Human Development Index of provinces of <B>Argentina</B>",
+        "List of <B>Argentine</B> Provinces by Human Development Index",
+        "List of <B>Argentine</B> provinces by HDI",
+        "List of Argentinian provinces by HDI",
+        "List of provinces of <B>Argentina</B> by HDI",
+        "List of provinces of <B>Argentina</B> by Human Development Index",
+        "Provinces of <B>Argentina</B> by HDI",
+        "Provinces of <B>Argentina</B> by Human Development Index"
+      ],
+      "comment": [
+        "The following table presents a listing of Argentina's provinces and its autonomous city, ranked in order of their Human Development Index."
+      ],
+      "label": [
+        "List of <B>Argentine</B> provinces by Human Development Index"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_provinces_by_Human_Development_Index"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Economy_of_Argentina-related_lists",
+        "http://dbpedia.org/resource/Category:Human_Development_Index",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1614.6167"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/7.65×53mm_Mauser"
+      ],
+      "redirectlabel": [
+        "7,65 × 53 Arg.",
+        "7,65 × 53 Arg",
+        "7.65 <B>Argentine</B>",
+        "7.65 x 53",
+        "7.65 x 53R",
+        "7.65 x 53 <B>Argentine</B>",
+        "7.65 x 53 mm <B>Argentine</B>",
+        "7.65 x 53 mm Belgian Mauser",
+        "7.65 x 53 mm Mauser",
+        "7.65 x 53mm Belgian Mauser",
+        "7.65 × 53mm Mauser",
+        "7.65mm <B>Argentine</B>",
+        "7.65mm Belgian",
+        "7.65mm Mauser",
+        "7.65x53R",
+        "7.65x53 <B>Argentine</B>",
+        "7.65x53mm <B>Argentine</B>",
+        "7.65x53mm Belgian",
+        "7.65x53mm Belgian Mauser",
+        "7.65x53mm Mauser",
+        "7.65x 53mm Belgian Mauser",
+        "7.65×53 mm <B>Argentine</B>",
+        "7.65×53 mm Mauser",
+        "7.65×53mm",
+        "7.65×53mm <B>Argentine</B>",
+        "7.65×53mm <B>Argentine</B> rimless",
+        "7.65×53mm Belgian Mauser",
+        "7.65×54mm <B>Argentine</B>",
+        "7.65×54mm <B>Argentine</B> rimless"
+      ],
+      "comment": [
+        " Paul Mauser of the Mauser company. It is also known as 7.65×53mm <B>Argentine</B>, 7.65×53mm <B>Argentine</B>"
+      ],
+      "label": [
+        "7.65×53mm Mauser"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/7.65×53mm_Mauser"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:7.65×53mm_Mauser_firearms",
+        "http://dbpedia.org/resource/Category:Military_cartridges",
+        "http://dbpedia.org/resource/Category:Military_equipment_of_Argentina",
+        "http://dbpedia.org/resource/Category:Pistol_and_rifle_cartridges",
+        "http://dbpedia.org/resource/Category:Weapons_and_ammunition_introduced_in_1889"
+      ]
+    },
+    {
+      "score": [
+        "1608.6333"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008–09_Argentine_Primera_División_season"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Argentine</B> Primera Division season",
+        "2008-09 <B>Argentine</B> Primera División",
+        "2008-09 <B>Argentine</B> Primera División season",
+        "2008-09 Primera División <B>Argentina</B>",
+        "2008–09 <B>Argentine</B> Primera Division season",
+        "2008–09 <B>Argentine</B> Primera División",
+        "2008–09 Primera División <B>Argentina</B>",
+        "2009 Torneo Clausura (<B>Argentina</B>)",
+        "Primera División <B>Argentina</B> 2008-09",
+        "Primera División <B>Argentina</B> 2008–09",
+        "Torneo Apertura 2008 (<B>Argentina</B>)"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        " <B>Argentina</B> and the nineteenth season in which the Apertura and Clausura system is used. Boca Juniors won"
+      ],
+      "label": [
+        "2008–09 <B>Argentine</B> Primera División season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008–09_Argentine_Primera_División_season"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008–09_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons",
+        "http://dbpedia.org/resource/Category:Boca_Juniors_matches",
+        "http://dbpedia.org/resource/Category:San_Lorenzo_de_Almagro_matches"
+      ]
+    },
+    {
+      "score": [
+        "1583.4307"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009–10_Argentine_Primera_División_season"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Argentine</B> Primera Division season",
+        "2009-10 <B>Argentine</B> Primera División",
+        "2009-10 <B>Argentine</B> Primera División season",
+        "2009-10 Primera División <B>Argentina</B>",
+        "2009–10 <B>Argentine</B> Primera Division season",
+        "2009–10 <B>Argentine</B> Primera División",
+        "2009–10 Primera División <B>Argentina</B>",
+        "Primera División <B>Argentina</B> 2009-10",
+        "Primera División <B>Argentina</B> 2009–10"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        " <B>Argentina</B>. A total of 20 teams competed in the season, which started on 21 August 2009 and ended on 23 May 2010."
+      ],
+      "label": [
+        "2009–10 <B>Argentine</B> Primera División season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009–10_Argentine_Primera_División_season"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009–10_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1579.7439"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Nicolás_Navarro_(Argentine_footballer)"
+      ],
+      "redirectlabel": [
+        "Nicolas Navarro (<B>Argentine</B> footballer)",
+        "Nicolás Gastón Navarro"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Nicolás Gastón Navarro (born 25 March 1985) is an <B>Argentine</B> football goalkeeper who plays for San Lorenzo."
+      ],
+      "label": [
+        "Nicolás Navarro (<B>Argentine</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Nicolás_Navarro_(Argentine_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_births",
+        "http://dbpedia.org/resource/Category:Argentina_under-20_international_footballers",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Italy",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Mexico",
+        "http://dbpedia.org/resource/Category:Argentine_expatriate_sportspeople_in_Turkey",
+        "http://dbpedia.org/resource/Category:Argentine_footballers",
+        "http://dbpedia.org/resource/Category:Argentine_sportspeople_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:Argentinos_Juniors_footballers",
+        "http://dbpedia.org/resource/Category:Arsenal_de_Sarandí_footballers",
+        "http://dbpedia.org/resource/Category:Association_football_goalkeepers",
+        "http://dbpedia.org/resource/Category:Club_Atlético_River_Plate_footballers",
+        "http://dbpedia.org/resource/Category:Club_Atlético_Tigre_footballers",
+        "http://dbpedia.org/resource/Category:Club_de_Gimnasia_y_Esgrima_La_Plata_footballers",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Italy",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Mexico",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Turkey",
+        "http://dbpedia.org/resource/Category:Footballers_at_the_2003_Pan_American_Games",
+        "http://dbpedia.org/resource/Category:Footballers_at_the_2008_Summer_Olympics",
+        "http://dbpedia.org/resource/Category:Footballers_from_Buenos_Aires",
+        "http://dbpedia.org/resource/Category:Kayserispor_footballers",
+        "http://dbpedia.org/resource/Category:Liga_MX_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Medalists_at_the_2003_Pan_American_Games",
+        "http://dbpedia.org/resource/Category:Medalists_at_the_2008_Summer_Olympics",
+        "http://dbpedia.org/resource/Category:Olympic_footballers_of_Argentina",
+        "http://dbpedia.org/resource/Category:Olympic_gold_medalists_for_Argentina",
+        "http://dbpedia.org/resource/Category:Olympic_medalists_in_football",
+        "http://dbpedia.org/resource/Category:Pan_American_Games_gold_medalists_for_Argentina",
+        "http://dbpedia.org/resource/Category:Pan_American_Games_medalists_in_football",
+        "http://dbpedia.org/resource/Category:Querétaro_F.C._footballers",
+        "http://dbpedia.org/resource/Category:S.S.C._Napoli_players",
+        "http://dbpedia.org/resource/Category:San_Lorenzo_de_Almagro_footballers",
+        "http://dbpedia.org/resource/Category:Serie_A_players",
+        "http://dbpedia.org/resource/Category:Süper_Lig_players"
+      ]
+    },
+    {
+      "score": [
+        "1572.8441"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Workers'_Central_Union"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Workers' Center",
+        "<B>Argentine</B> Workers' Centre",
+        "<B>Argentine</B> Workers' Union",
+        "Central de Trabajadores <B>Argentinos</B>",
+        "Central de Trabajadores de la <B>Argentina</B>",
+        "Central de los Trabajadores <B>Argentinos</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Workers' Central Union (Spanish: Central de Trabajadores de la <B>Argentina</B>, (CTA) is a"
+      ],
+      "label": [
+        "<B>Argentine</B> Workers' Central Union"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Workers'_Central_Union"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:National_trade_union_centers_of_Argentina",
+        "http://dbpedia.org/resource/Category:Trade_unions_established_in_1991"
+      ]
+    },
+    {
+      "score": [
+        "1551.3783"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2014-15 <B>Argentine</B> Primera División season",
+        "2014 <B>Argentine</B> Primera Division",
+        "2014 <B>Argentine</B> Primera División season",
+        "2014–15 <B>Argentine</B> Primera División season"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        " professional football in <B>Argentina</B>. The season was scheduled to start on August 1, 2014 but was"
+      ],
+      "label": [
+        "2014 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1548.4376"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Culture_of_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Culture",
+        "<B>Argentine</B> art",
+        "<B>Argentine</B> culture",
+        "<B>Argentine</B> sculpture",
+        "<B>Argentine</B> society",
+        "<B>Argentine</B> values",
+        "Argentinian culture",
+        "Art of <B>Argentina</B>",
+        "Culutre of <B>Argentina</B>",
+        "Jose Freire Segundo",
+        "Jose Luis Salinas",
+        "Theater in <B>Argentina</B>",
+        "Visual arts of <B>Argentina</B>"
+      ],
+      "comment": [
+        " groups. Modern <B>Argentine</B> culture has been largely influenced by Italian, Spanish and other European"
+      ],
+      "label": [
+        "Culture of <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Culture_of_Argentina"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_culture"
+      ]
+    },
+    {
+      "score": [
+        "1539.5686"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1976_Argentine_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1976 <B>Argentin</B> coup",
+        "1976 <B>Argentine</B> coup",
+        "1976 <B>Argentine</B> coup d'etat",
+        "<B>Argentine</B> 1976 coup d'etat",
+        "<B>Argentine</B> coup d'etat",
+        "March 1976 coup"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1976 <B>Argentine</B> coup d'état was a right-wing coup that overthrew Isabel Perón as President of"
+      ],
+      "label": [
+        "1976 <B>Argentine</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1976_Argentine_coup_d'état"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1976_in_Argentina",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1976",
+        "http://dbpedia.org/resource/Category:March_1976_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Argentina",
+        "http://dbpedia.org/resource/Category:National_Reorganization_Process"
+      ]
+    },
+    {
+      "score": [
+        "1531.125"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_CID_card"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> cid",
+        "<B>Argentina</B> consular identification",
+        "<B>Argentina</B> matricula consular",
+        "<B>Argentine</B> cid card",
+        "<B>Argentinean</B> cid",
+        "Argentinian CID",
+        "Argentinian CID card",
+        "Argentinian Matricula Consular",
+        "Argentinian consular id",
+        "Argentinian consular identification"
+      ],
+      "comment": [
+        " <B>Argentine</B> Consulate in Los Angeles, CID cards have a lot of benefits for <B>Argentine</B> citizens. Moreover"
+      ],
+      "label": [
+        "<B>Argentine</B> CID card"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_CID_card"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Consular_identification_cards",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1520.44"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1990"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films of 1990",
+        "Casi no nos dimos cuenta",
+        "Corps perdus",
+        "Enfermero de dia, camarero de noche",
+        "Enfermero de día, camarero de noche",
+        "Flop (1990 film)",
+        "Flop (film)",
+        "Futbol <B>argentino</B>",
+        "Fútbol <B>argentino</B>",
+        "La Pandilla aventurera",
+        "List of <B>Argentine</B> films:1990",
+        "Malevo",
+        "Pais cerrado, teatro abierto",
+        "País cerrado, teatro abierto",
+        "Pequenos sinvergueenzas",
+        "Pequenos sinverguenzas",
+        "Pequeños sinvergüenzas",
+        "Un Elefante en banda"
+      ],
+      "comment": [
+        "A list of films produced in <B>Argentina</B> in 1990:"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films of 1990"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1990"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_1990_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1518.7927"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1987"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films of 1987",
+        "Catch the Heat",
+        "Chorros",
+        "De que estamos hechos",
+        "De regreso",
+        "Debajo del mundo",
+        "El Dueno del sol",
+        "El Dueño del sol",
+        "El Hombre de la deuda externa",
+        "El Manosanta esta cargado",
+        "El Manosanta está cargado",
+        "La Clinica del Dr. Cureta",
+        "La Clínica del Dr. Cureta",
+        "Las Esclavas",
+        "List of <B>Argentine</B> films:1987",
+        "Los Colimbas al ataque",
+        "Los Corruptores",
+        "Matar la tierra",
+        "Me sobra un marido",
+        "Mujer - Mujer",
+        "Obsesion de venganza",
+        "Obsesión de venganza",
+        "Prontuario de un <B>argentino</B>"
+      ],
+      "comment": [
+        "A list of films produced in <B>Argentina</B> in 1987:"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films of 1987"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1987"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_1987_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1518.0947"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ministries_of_the_Argentine_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> cabinet",
+        "<B>Argentine</B> cabinet of ministers",
+        "Cabinet (<B>Argentina</B>)",
+        "Cabinet of <B>Argentina</B>",
+        "Ministerios de la República <B>Argentina</B>",
+        "Ministries of <B>Argentina</B>",
+        "Ministries of the Republic of <B>Argentina</B>"
+      ],
+      "comment": [
+        "The Ministries of the <B>Argentine</B> Republic, which form the cabinet, currently consist of sixteen"
+      ],
+      "label": [
+        "Ministries of the <B>Argentine</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ministries_of_the_Argentine_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_ministries_of_Argentina",
+        "http://dbpedia.org/resource/Category:Government_of_Argentina",
+        "http://dbpedia.org/resource/Category:National_cabinets"
+      ]
+    },
+    {
+      "score": [
+        "1508.2628"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Anticommunist_Alliance"
+      ],
+      "redirectlabel": [
+        "Alianza Anticomunista <B>Argentina</B>",
+        "Alianza Apóstolica Anticomunista",
+        "Anticommunist <B>Argentine</B> Alliance",
+        "<B>Argentine</B> Anti-Communist Alliance",
+        "Triple A (<B>Argentina</B>)"
+      ],
+      "comment": [
+        "The <B>Argentine</B> Anticommunist Alliance (Spanish: Alianza Anticomunista <B>Argentina</B>, usually known as"
+      ],
+      "label": [
+        "<B>Argentine</B> Anticommunist Alliance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Anticommunist_Alliance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Argentina",
+        "http://dbpedia.org/resource/Category:Anti-communist_organizations",
+        "http://dbpedia.org/resource/Category:Anti-communist_terrorism",
+        "http://dbpedia.org/resource/Category:Counterterrorism_in_Argentina",
+        "http://dbpedia.org/resource/Category:Criminal_organizations",
+        "http://dbpedia.org/resource/Category:Dirty_War",
+        "http://dbpedia.org/resource/Category:Far-right_politics_in_Argentina",
+        "http://dbpedia.org/resource/Category:Far-right_terrorism_in_Spain",
+        "http://dbpedia.org/resource/Category:History_of_Argentina_(1973–1976)",
+        "http://dbpedia.org/resource/Category:Paramilitary_organisations_based_in_Argentina",
+        "http://dbpedia.org/resource/Category:Peronism",
+        "http://dbpedia.org/resource/Category:Terrorism_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1507.6371"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1996–97_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "1996-97 <B>Argentine</B> Primera Division",
+        "1996-97 <B>Argentine</B> Primera División",
+        "1996–97 <B>Argentine</B> Primera Division",
+        "<B>Argentine</B> Primera División 1996-97",
+        "<B>Argentine</B> Primera División 1996–97",
+        "Primera División <B>Argentina</B> 1996-97",
+        "Primera División <B>Argentina</B> 1996–97"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1996–97 <B>Argentine</B> Primera División was the 106th season of top-flight football in <B>Argentina</B>"
+      ],
+      "label": [
+        "1996–97 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1996–97_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_in_South_American_football_leagues",
+        "http://dbpedia.org/resource/Category:1996–97_in_Argentine_football",
+        "http://dbpedia.org/resource/Category:1997_in_South_American_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1503.7174"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003–04_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2003-04 <B>Argentine</B> Primera Division",
+        "2003-04 <B>Argentine</B> Primera División",
+        "2003–04 <B>Argentine</B> Primera Division",
+        "<B>Argentine</B> Primera División 2003-04",
+        "<B>Argentine</B> Primera División 2003–04",
+        "Primera División <B>Argentina</B> 2003-04",
+        "Primera División <B>Argentina</B> 2003–04"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2003–04 <B>Argentine</B> Primera División was the 113th season of top-flight football in <B>Argentina</B>"
+      ],
+      "label": [
+        "2003–04 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003–04_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003–04_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1502.3378"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2004–05_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2004-05 <B>Argentine</B> Primera Division",
+        "2004-05 <B>Argentine</B> Primera División",
+        "2004-05 Primera División <B>Argentina</B>",
+        "2004–05 <B>Argentine</B> Primera Division",
+        "2004–05 Primera División <B>Argentina</B>",
+        "<B>Argentine</B> Primera División 2004-05",
+        "Primera División <B>Argentina</B> 2004-05",
+        "Primera División <B>Argentina</B> 2004–05"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2004–05 <B>Argentine</B> Primera División was the 114th season of top-flight football in <B>Argentina</B>"
+      ],
+      "label": [
+        "2004–05 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2004–05_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004–05_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1501.032"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1997–98_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "1997-98 <B>Argentine</B> Primera Division",
+        "1997-98 <B>Argentine</B> Primera División",
+        "1997–98 <B>Argentine</B> Primera Division",
+        "<B>Argentine</B> Primera División 1997-98",
+        "<B>Argentine</B> Primera División 1997–98",
+        "Primera División <B>Argentina</B> 1997-98",
+        "Primera División <B>Argentina</B> 1997–98"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1997–98 <B>Argentine</B> Primera División was the 107th season of top-flight football in <B>Argentina</B>"
+      ],
+      "label": [
+        "1997–98 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1997–98_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_in_South_American_football_leagues",
+        "http://dbpedia.org/resource/Category:1997–98_in_Argentine_football",
+        "http://dbpedia.org/resource/Category:1998_in_South_American_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1482.7576"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1995"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films of 1995",
+        "Capitan Cardoso: El cerdo del horror",
+        "Con el alma",
+        "El Largo viaje de Nahuel Pan",
+        "Facundo, la sombra del tigre",
+        "Fotos del alma",
+        "Hasta donde llegan tus ojos",
+        "Hijo del rio",
+        "Hijo del río",
+        "Historia del cine <B>argentino</B>",
+        "Jimidin",
+        "La Ley de la frontera",
+        "La Nave de los locos",
+        "List of <B>Argentine</B> films:1995",
+        "Mamá querida",
+        "Mariposa china",
+        "Mas alla del limite",
+        "Más allá del límite",
+        "Ninos envueltos",
+        "No te mueras sin decirme adonde vas",
+        "No te mueras sin decirme adónde vas",
+        "Noches aticas",
+        "Noches áticas"
+      ],
+      "comment": [
+        "A list of films produced in <B>Argentina</B> in 1995:"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films of 1995"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1995"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_1995_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1480.2366"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/German_Argentines"
+      ],
+      "redirectlabel": [
+        "Deutschargentinier",
+        "German-<B>Argentine</B>",
+        "German-<B>Argentines</B>",
+        "German <B>Argentine</B>",
+        "German Argentinian",
+        "German settlement in <B>Argentina</B>",
+        "German settlement in <B>argentina</B>",
+        "Germano <B>argentinos</B>",
+        "Germans in <B>Argentina</B>",
+        "Germans in <B>argentina</B>",
+        "German–<B>Argentine</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "label": [
+        "German <B>Argentines</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/German_Argentines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_German_descent",
+        "http://dbpedia.org/resource/Category:German_Argentine",
+        "http://dbpedia.org/resource/Category:German_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Immigration_to_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1469.2065"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Declaration_of_Independence"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Independence",
+        "<B>Argentine</B> Independence Day",
+        "<B>Argentine</B> declaration of independence",
+        "Argentinian Declaration of Independence",
+        "Declaration of Independence of <B>Argentina</B>",
+        "Independence of <B>Argentina</B>"
+      ],
+      "comment": [
+        " <B>Argentine</B> Republic. The Federal League Provinces, at war with the United Provinces, were not allowed"
+      ],
+      "label": [
+        "<B>Argentine</B> Declaration of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Declaration_of_Independence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1816_documents",
+        "http://dbpedia.org/resource/Category:1816_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentine_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Declarations_of_independence",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Argentina",
+        "http://dbpedia.org/resource/Category:July_1816_events"
+      ]
+    },
+    {
+      "score": [
+        "1468.8956"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Argentina"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Jew",
+        "<B>Argentine</B> Jews",
+        "<B>Argentine</B> jew",
+        "<B>Argentine</B> jews",
+        "Argentinian Jew",
+        "Argentinian Jews",
+        "History of the Jews of <B>Argentina</B>",
+        "History of the jews in <B>argentina</B>",
+        "Jewish <B>Argentine</B>",
+        "Jewish community of <B>Argentina</B>",
+        "Jews in <B>Argentina</B>",
+        "Judaism in <B>Argentina</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The history of the Jews in <B>Argentina</B> goes back to the early sixteenth centuries, following the"
+      ],
+      "label": [
+        "History of the Jews in <B>Argentina</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Argentina"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jewish_Argentine_history",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1468.4197"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lycée_Franco-Argentin_Jean_Mermoz"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B>-french cooperation",
+        "French-<B>Argentine</B> Cooperation",
+        "French <B>Argentine</B> Cooperation",
+        "French Lycee <B>argentina</B>",
+        "French Lycée Buenos Aires",
+        "French lycée of buenos aires",
+        "Liceo Jean Mermoz",
+        "Lycee Franco-<B>Argentin</B> Jean Mermoz",
+        "Lycee Franco <B>Argentine</B>",
+        "Lycee Française of Buenos Aires",
+        "Lycee buenos aires",
+        "Lycee franco-<B>argentine</B>",
+        "Lycée Buenos Aires",
+        "Lycée Franco-<B>Argentine</B>",
+        "Lycée Français <B>Argentina</B>",
+        "Lycée Français Buenos Aires",
+        "Lycée Français Jean-Mermoz in Buenos Aires",
+        "Lycée Français de Buenos Aires",
+        "Lycée Français in <B>Argentine</B>",
+        "Lycée Français of Buenos Aires",
+        "Lycée Franço-<B>Argentin</B> Jean Mermoz",
+        "Lycée <B>argentina</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "School",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "Lycée Franco-<B>Argentin</B> Jean Mermoz (Spanish: Liceo Jean Mermoz) is a large French–<B>Argentine</B> school"
+      ],
+      "label": [
+        "Lycée Franco-<B>Argentin</B> Jean Mermoz"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lycée_Franco-Argentin_Jean_Mermoz"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/School",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Argentina–France_relations",
+        "http://dbpedia.org/resource/Category:Associations_of_schools",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1967",
+        "http://dbpedia.org/resource/Category:French_international_schools_in_South_America",
+        "http://dbpedia.org/resource/Category:International_Baccalaureate_schools_in_Argentina",
+        "http://dbpedia.org/resource/Category:International_schools_in_Buenos_Aires",
+        "http://dbpedia.org/resource/Category:Private_schools_in_Argentina",
+        "http://dbpedia.org/resource/Category:Schools_of_French_as_a_second_or_foreign_language",
+        "http://dbpedia.org/resource/Category:Secondary_schools_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1461.4817"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Township,_Michigan"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> Township, Genesee County, Michigan",
+        "<B>Argentine</B> Township, MI"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Argentine</B> Township is a general law township of Genesee County in the U.S. state of Michigan. As of"
+      ],
+      "label": [
+        "<B>Argentine</B> Township, Michigan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Township,_Michigan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1836_establishments_in_Michigan_Territory",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1836",
+        "http://dbpedia.org/resource/Category:Townships_in_Genesee_County,_Michigan",
+        "http://dbpedia.org/resource/Category:Townships_in_Michigan"
+      ]
+    },
+    {
+      "score": [
+        "1452.938"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_Chamber_of_Deputies"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> chamber of deputies",
+        "Argentinian Chamber of Deputies",
+        "Chamber of Deputies (<B>Argentina</B>)",
+        "Chamber of Deputies of <B>Argentina</B>",
+        "National Deputy of <B>Argentina</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Argentine</B> National Congress (Spanish: Congreso de la Nación). It is made up of 257 national deputies who"
+      ],
+      "label": [
+        "<B>Argentine</B> Chamber of Deputies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_Chamber_of_Deputies"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Argentina",
+        "http://dbpedia.org/resource/Category:National_Congress_of_Argentina",
+        "http://dbpedia.org/resource/Category:National_lower_houses"
+      ]
+    },
+    {
+      "score": [
+        "1448.2063"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001–02_Argentine_Primera_División"
+      ],
+      "redirectlabel": [
+        "2001-02 <B>Argentine</B> Primera Division",
+        "2001-02 <B>Argentine</B> Primera División",
+        "2001–02 <B>Argentine</B> Primera Division",
+        "Primera División <B>Argentina</B> 2001-02",
+        "Primera División <B>Argentina</B> 2001–02"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2001–02 <B>Argentine</B> Primera División was the 111th season of top-flight football in <B>Argentina</B>"
+      ],
+      "label": [
+        "2001–02 <B>Argentine</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001–02_Argentine_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001–02_in_Argentine_football_leagues",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.487"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1989"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films of 1989",
+        "Blauaeugig",
+        "Blauaugig",
+        "Cipayos (la tercera invasion)",
+        "Cipayos (la tercera invasión)",
+        "Desembarcos",
+        "Despues de ayer",
+        "Después de ayer",
+        "El Escudo del condor",
+        "El Escudo del cóndor",
+        "L' Isola alla deriva",
+        "La Ciudad oculta",
+        "La Ofrenda",
+        "List of <B>Argentine</B> films:1989",
+        "Los Espiritus patrioticos",
+        "Los Espíritus patrióticos",
+        "Pipo y los cazadores"
+      ],
+      "comment": [
+        "A list of films produced in <B>Argentina</B> in 1989:"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films of 1989"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1989"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_1989_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1417.4213"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1986"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> films of 1986",
+        "Camarero nocturno en Mar del Plata",
+        "Chechechela, una chica de barrio",
+        "Correccional de mujeres",
+        "Cuidado, hombres trabajando",
+        "Diapasón",
+        "El Hombre que gano la razon",
+        "El Hombre que ganó la razón",
+        "El hombre que ganó la razón",
+        "En busca del brillante perdido",
+        "Geronima",
+        "Gerónima",
+        "La Historia en la arena",
+        "La Mayoria silenciada",
+        "La Mayoría silenciada",
+        "La Republica perdida II",
+        "Las Minas de Salomon Rey",
+        "Las Minas de Salomón Rey",
+        "Las Puertitas del señor López",
+        "List of <B>Argentine</B> films:1986",
+        "Los Insomnes",
+        "Vivir a los 17"
+      ],
+      "comment": [
+        "A list of films produced in <B>Argentina</B> in 1986:"
+      ],
+      "label": [
+        "List of <B>Argentine</B> films of 1986"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Argentine_films_of_1986"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1986_in_Argentina",
+        "http://dbpedia.org/resource/Category:Lists_of_1986_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Argentine_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1414.7241"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Palace_of_the_Argentine_National_Congress"
+      ],
+      "redirectlabel": [
+        "<B>Argentina</B> National Congress Building",
+        "<B>Argentina</B> National Congress Palace",
+        "<B>Argentine</B> Congressional Palace",
+        "<B>Argentine</B> National Congress Palace",
+        "Congressional Palace of <B>Argentina</B>",
+        "Palace of Congress (<B>Argentina</B>)"
+      ],
+      "comment": [
+        "The Palace of the <B>Argentine</B> National Congress (Spanish: Palacio del Congreso Nacional <B>Argentino</B>"
+      ],
+      "label": [
+        "Palace of the <B>Argentine</B> National Congress"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Palace_of_the_Argentine_National_Congress"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1905_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Government_buildings_completed_in_1905",
+        "http://dbpedia.org/resource/Category:Government_buildings_in_Argentina",
+        "http://dbpedia.org/resource/Category:Government_buildings_with_domes",
+        "http://dbpedia.org/resource/Category:National_Historic_Monuments_of_Argentina",
+        "http://dbpedia.org/resource/Category:Neoclassical_architecture_in_Argentina",
+        "http://dbpedia.org/resource/Category:Palaces_in_Buenos_Aires",
+        "http://dbpedia.org/resource/Category:Seats_of_national_legislatures"
+      ]
+    },
+    {
+      "score": [
+        "1411.9691"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine_cheese"
+      ],
+      "redirectlabel": [
+        "<B>Argentine</B> cheeses",
+        "Cheese in <B>Argentina</B>",
+        "Cheeses of <B>Argentina</B>",
+        "List of <B>Argentine</B> cheeses"
+      ],
+      "label": [
+        "<B>Argentine</B> cheese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine_cheese"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_cheeses",
+        "http://dbpedia.org/resource/Category:Argentine_cuisine",
+        "http://dbpedia.org/resource/Category:Cheese"
+      ]
+    }
+  ]
+}

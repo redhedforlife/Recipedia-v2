@@ -1,0 +1,5028 @@
+{
+  "docs": [
+    {
+      "score": [
+        "12070.185"
+      ],
+      "refCount": [
+        "233"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean"
+      ],
+      "redirectlabel": [
+        "Biodiversity of the <B>Caribbean</B>",
+        "Caraïbe",
+        "Caraïbes",
+        "<B>Caribbea</B>",
+        "<B>Caribbean</B> integration",
+        "<B>Caribbean</B> island",
+        "<B>Caribbean</B> nation",
+        "<B>Caribbean</B> region",
+        "<B>Caribbee</B> Islands",
+        "<B>Caribean</B>",
+        "<B>Carribbean</B>",
+        "<B>Carribean</B>",
+        "<B>Carribean</B> Islands",
+        "<B>Carribean</B> islands",
+        "Carribeans",
+        "Carribian",
+        "Climate of the <B>Caribbean</B>",
+        "Countries of the <B>Carribean</B>",
+        "Demographics of the <B>Caribbean</B>",
+        "Ecology of the <B>Caribbean</B>",
+        "Foreign interventions by the United States in the <B>Caribbean</B>",
+        "Geography of the <B>Caribbean</B>",
+        "Geology of the <B>Caribbean</B>",
+        "List of <B>Caribbean</B> island groups",
+        "Politics of <B>Caribbean</B>",
+        "Politics of the <B>Caribbean</B>",
+        "Regional institutions in the <B>Caribbean</B>",
+        "The <B>Caribbean</B>",
+        "Wildlife of the <B>Caribbean</B>"
+      ],
+      "typeName": [
+        "Place",
+        "PopulatedPlace",
+        "Continent",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> (, locally ) (Spanish: El Caribe; French: la Caraïbe; Haitian Creole: Karayib; Dutch"
+      ],
+      "label": [
+        "<B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Continent",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "11428.307"
+      ],
+      "refCount": [
+        "281"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Sea"
+      ],
+      "redirectlabel": [
+        "Caraïbische Zee",
+        "<B>Caribbean</B> Ocean",
+        "<B>Caribbean</B> ocean",
+        "<B>Caribbean</B> sea",
+        "<B>Caribean</B> Sea",
+        "<B>Carribbean</B> Sea",
+        "<B>Carribean</B> Sea",
+        "Flora and fauna of the <B>Caribbean</B> Sea",
+        "Geology of the <B>Caribbean</B> Sea",
+        "Mar Caribe",
+        "Mer des Caraïbes",
+        "Sea of <B>Caribbea</B>",
+        "Sea of the Antilles",
+        "The <B>Caribbean</B> Sea",
+        "Wildlife of the <B>Caribbean</B> Sea"
+      ],
+      "typeName": [
+        "BodyOfWater",
+        "Place",
+        "Sea",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Sea (Spanish: Mar Caribe; Haitian Creole: lamè Karayib; French: Mer des Caraïbes"
+      ],
+      "label": [
+        "<B>Caribbean</B> Sea"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Sea"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/BodyOfWater",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Sea",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_Sea",
+        "http://dbpedia.org/resource/Category:Geography_of_Central_America",
+        "http://dbpedia.org/resource/Category:Geography_of_Colombia",
+        "http://dbpedia.org/resource/Category:Geography_of_Mexico",
+        "http://dbpedia.org/resource/Category:Geography_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Seas_of_the_Atlantic_Ocean",
+        "http://dbpedia.org/resource/Category:Tropical_Atlantic"
+      ]
+    },
+    {
+      "score": [
+        "6006.797"
+      ],
+      "refCount": [
+        "942"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Atlantic_Time_Zone"
+      ],
+      "redirectlabel": [
+        "ADT (time)",
+        "ADT time",
+        "AT (time)",
+        "AT time",
+        "Atlantic Daylight Time",
+        "Atlantic Standard Time",
+        "Atlantic Standard Time Zone",
+        "Atlantic Standard Timezone",
+        "Atlantic Time",
+        "Atlantic standard time",
+        "Atlantic time",
+        "Atlantic time zone",
+        "Eastern <B>Caribbean</B> Time",
+        "Eastern <B>Caribbean</B> Time Zone",
+        "Eastern <B>Caribbean</B> Time zone",
+        "Heure Avancée de l'Atlantique",
+        "Heure Normale de l'Atlantique",
+        "North American Atlantic Time Zone"
+      ],
+      "comment": [
+        "The Atlantic Time Zone is a geographical region that keeps standard time—called Atlantic Standard Time (AST)—by subtracting four hours from Coordinated Universal Time (UTC), resulting in UTC−04:00. During part of the year, some portions of the zone observe daylight saving time, referred to as Atlantic Daylight Time (ADT), by moving their clocks forward one hour to result in UTC−03:00. The clock time in this zone is based on the mean solar time of the 60th meridian west of the Greenwich Observatory."
+      ],
+      "label": [
+        "Atlantic Time Zone"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Atlantic_Time_Zone"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_zones",
+        "http://dbpedia.org/resource/Category:Time_zones_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "4605.1387"
+      ],
+      "refCount": [
+        "109"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Pirates_of_the_Caribbean_characters"
+      ],
+      "redirectlabel": [
+        "Admiral Norrington",
+        "Ammand The Corsair",
+        "Ammand the Corsair",
+        "Andrew Gillette",
+        "Angelica (Pirates of the <B>Caribbean</B>)",
+        "Armando Salazar",
+        "Blackbeard (Pirates of the <B>Caribbean</B>)",
+        "Boo Boo (Monkey)",
+        "Boot strap Bill Turner",
+        "Bootstrap Bill",
+        "Bootstrap Bill Turner",
+        "Bretheren of the coast",
+        "Brethren Court",
+        "Capitaine Chevalle",
+        "Capitaine Chevalle (Pirates of the <B>Caribbean</B>)",
+        "Captain Armando Salazar",
+        "Captain Edward Teague",
+        "Captain Grant Sparrow",
+        "Captain Salazar",
+        "Captain Sao Feng",
+        "Captain Teague",
+        "Carina Barbossa",
+        "Carina Smyth",
+        "Commodore James Norrington",
+        "Commodore Norrington",
+        "Cotton (Pirates of the <B>Caribbean</B>)",
+        "Cutler Beckett",
+        "Cutler beckett",
+        "Edinburgh Trader",
+        "Eduardo Villanueva (Pirates of the <B>Caribbean</B>)",
+        "Edward Teach (Pirates of the <B>Caribbean</B>)",
+        "Edward Teague",
+        "Feng Sao",
+        "Gentleman Jocard",
+        "Gillette (Pirates of the <B>Caribbean</B>)",
+        "Giselle (Pirates of the <B>Caribbean</B>)",
+        "Giselle and Scarlett",
+        "Governor Swann",
+        "Governor Weatherby Swann",
+        "Grant Sparrow",
+        "Gunner (Pirates of the <B>Caribbean</B>)",
+        "Hadras",
+        "Hai Peng (Pirates of the <B>Caribbean</B>)",
+        "Henry Turner (Pirates of the <B>Caribbean</B>)",
+        "Ian Mercer (Pirates of the <B>Caribbean</B>)",
+        "It's just good business",
+        "Jack sparrow's father",
+        "Jack the Monkey",
+        "Jack the monkey",
+        "James Norrington",
+        "Jim Norrington",
+        "John Scarfield",
+        "Levi (Monkey)",
+        "Lieutenant Commander Theodore Groves",
+        "Lieutenant Gillette",
+        "Lieutenant John Scarfield",
+        "Lieutenant Scarfield",
+        "Lieutenant Theodore Groves",
+        "List of characters in Pirates of the <B>Caribbean</B>",
+        "List of minor characters in Pirates of the <B>Caribbean</B>",
+        "Lord Cutler Beckett",
+        "Maccus (Pirates of the <B>Caribbean</B>)",
+        "Marty (Pirates of the <B>Caribbean</B>)",
+        "Mercedes (Monkey)",
+        "Mr. Cotton",
+        "Mr. Mercer",
+        "Mullroy",
+        "Mullroy and Murtogg",
+        "Murtogg",
+        "Murtogg and Mullroy",
+        "Norrington, James",
+        "Officer Groves",
+        "Officer groves",
+        "Philip Swift",
+        "Phillip Swift",
+        "Phillip Swift (Pirates of the <B>Caribbean</B>)",
+        "Pintel",
+        "Pintel and Ragetti",
+        "Poochie (Pirates of the <B>Caribbean</B>)",
+        "Quartermaster (Pirates of the <B>Caribbean</B>)",
+        "Ragetti",
+        "Ragetti & Pintel",
+        "Ragetti and Pintel",
+        "Salazar (Pirates of the <B>Caribbean</B>)",
+        "Sao Feng",
+        "Scarfield",
+        "Scarlett (Pirates of the <B>Caribbean</B>)",
+        "Scrum (Pirates of the <B>Caribbean</B>)",
+        "Shansa",
+        "Sri Sumbhajee",
+        "Sri Sumbhajee Angria",
+        "Syrena (Pirates of the <B>Caribbean</B>)",
+        "Tamara (Pirates of the <B>Caribbean</B>)",
+        "Tara (Monkey)",
+        "Teague Sparrow",
+        "Theodore Groves",
+        "Uncle \"Jack\" Teague",
+        "Uncle Jack (Pirates of the <B>Caribbean</B>)",
+        "Uncle Jack Teague",
+        "Uncle Teague",
+        "Weatherby Swann",
+        "William \"Bootstrap Bill\" Turner",
+        "William Turner III",
+        "William Turner Senior",
+        "William Turner Sr.",
+        "Yeoman (Pirates of the <B>Caribbean</B>)"
+      ],
+      "comment": [
+        "This is a list of characters appearing in the Pirates of the <B>Caribbean</B> film series."
+      ],
+      "label": [
+        "List of Pirates of the <B>Caribbean</B> characters"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Pirates_of_the_Caribbean_characters"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Disney_characters",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_characters"
+      ]
+    },
+    {
+      "score": [
+        "4260.767"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Hindustani"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Hindi",
+        "<B>Caribbean</B> Hindi language",
+        "<B>Caribbean</B> Hindoestani",
+        "<B>Caribbean</B> Hindustani language",
+        "<B>Caribbean</B> Urdu",
+        "Guyanese Hindustani",
+        "ISO 639:hns",
+        "Sarnami",
+        "Sarnami Hindustani",
+        "Sarnami Hindustani language",
+        "Sarnami language",
+        "Sarnámi Hindustani",
+        "Trinidad Bhojpuri",
+        "Trinidadian Bhojpuri",
+        "Trinidadian Hindustani"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Caribbean</B> Hindustani is an Indo-Aryan language spoken by Indo-<B>Caribbeans</B> and the Indo-<B>Caribbean</B>"
+      ],
+      "label": [
+        "<B>Caribbean</B> Hindustani"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Hindustani"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bhojpuri_language",
+        "http://dbpedia.org/resource/Category:Bihari_languages",
+        "http://dbpedia.org/resource/Category:Fusional_languages",
+        "http://dbpedia.org/resource/Category:Hindi_languages",
+        "http://dbpedia.org/resource/Category:Indian_diaspora",
+        "http://dbpedia.org/resource/Category:Indo-Caribbean_culture",
+        "http://dbpedia.org/resource/Category:Languages_of_Guyana",
+        "http://dbpedia.org/resource/Category:Languages_of_Jamaica",
+        "http://dbpedia.org/resource/Category:Languages_of_Suriname",
+        "http://dbpedia.org/resource/Category:Languages_of_Trinidad_and_Tobago"
+      ]
+    },
+    {
+      "score": [
+        "3950.5396"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Caribbean_International"
+      ],
+      "redirectlabel": [
+        "Controversies surrounding Royal <B>Caribbean</B> International",
+        "Michael Bayley",
+        "RCCL",
+        "Royal <B>Caribbean</B> Cruise Line",
+        "Royal <B>Caribbean</B> Cruise Lines",
+        "Royal <B>Caribbean</B> Line",
+        "Royal <B>Caribbean</B> Lines",
+        "Royal <B>Carribean</B> International",
+        "Royal <B>carribean</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "Royal <B>Caribbean</B> International (RCI), previously known as Royal <B>Caribbean</B> Cruise Line (RCCL), is a"
+      ],
+      "label": [
+        "Royal <B>Caribbean</B> International"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Caribbean_International"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Companies_based_in_Miami",
+        "http://dbpedia.org/resource/Category:Cruise_lines",
+        "http://dbpedia.org/resource/Category:Norwegian_companies_established_in_1968",
+        "http://dbpedia.org/resource/Category:Royal_Caribbean_Group",
+        "http://dbpedia.org/resource/Category:Royal_Caribbean_International"
+      ]
+    },
+    {
+      "score": [
+        "3866.5713"
+      ],
+      "refCount": [
+        "89"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Athletics_at_the_2006_Central_American_and_Caribbean_Games_–_Results"
+      ],
+      "redirectlabel": [
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 10,000 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 100 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 110 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 1500 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 200 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 20 kilometres walk",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 3000 metres steeplechase",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 400 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 400 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 4 × 100 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 4 × 400 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 5000 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's 800 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's decathlon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's discus throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's hammer throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's high jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's javelin throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's long jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's marathon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's pole vault",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's shot put",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Men's triple jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Results",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 100 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 100 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 1500 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 200 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 20 kilometres walk",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 400 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 400 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 4 × 100 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 4 × 400 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 5000 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's 800 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's discus throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's hammer throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's heptathlon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's high jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's javelin throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's long jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's marathon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's pole vault",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's shot put",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games - Women's triple jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 10,000 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 100 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 110 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 1500 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 200 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 20 kilometres walk",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 3000 metres steeplechase",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 400 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 400 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 4 × 100 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 4 × 400 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 5000 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's 800 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's decathlon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's discus throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's hammer throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's high jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's javelin throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's long jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's marathon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's pole vault",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's shot put",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Men's triple jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 100 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 100 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 1500 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 200 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 20 kilometres walk",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 400 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 400 metres hurdles",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 4 × 100 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 4 × 400 metres relay",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 5000 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's 800 metres",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's discus throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's hammer throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's heptathlon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's high jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's javelin throw",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's long jump",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's marathon",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's pole vault",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's shot put",
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Women's triple jump"
+      ],
+      "comment": [
+        " <B>Caribbean</B> Games which took place on July 25–29, 2006 in Cartagena, Colombia."
+      ],
+      "label": [
+        "Athletics at the 2006 Central American and <B>Caribbean</B> Games – Results"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Athletics_at_the_2006_Central_American_and_Caribbean_Games_–_Results"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_in_athletics_(track_and_field)",
+        "http://dbpedia.org/resource/Category:Athletics_events_at_the_Central_American_and_Caribbean_Games"
+      ]
+    },
+    {
+      "score": [
+        "3797.8591"
+      ],
+      "refCount": [
+        "107"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Caribbean_membranophones"
+      ],
+      "redirectlabel": [
+        "Agida",
+        "Apinti",
+        "Arobapa",
+        "Arobapá",
+        "Baboula",
+        "Balsie",
+        "Balsié",
+        "Base-bum",
+        "Base-kettle",
+        "Bass tumbadora",
+        "Bembe (membranophone)",
+        "Biankomeko",
+        "Biapa",
+        "Biapá",
+        "Bigi doon",
+        "Bonko enchemi",
+        "Bonko enchemiya",
+        "Bonkó enchemiyá",
+        "Buleador",
+        "Cachimbo",
+        "<B>Caribbean</B> drum",
+        "<B>Caribbean</B> drums",
+        "Conguito",
+        "Copo",
+        "Copo Hediondo",
+        "Cut drum",
+        "Djass",
+        "Doumbedoum",
+        "Dup (drum)",
+        "Ekue",
+        "Ekué",
+        "Enko",
+        "Enkomo",
+        "French reel",
+        "Funde",
+        "Fundeh",
+        "Gaan doon",
+        "Gombay",
+        "Gonde",
+        "Goombeh",
+        "Groska",
+        "Iyá",
+        "Katabo",
+        "Kbandu",
+        "Kuchiyerema",
+        "Kuchiyeremá",
+        "Kété",
+        "Lapo kabwit",
+        "List of <B>Caribbean</B> drums",
+        "List of <B>Caribbean</B> percussion instruments",
+        "List of <B>Carribean</B> drums",
+        "Makye",
+        "Makyé",
+        "Maké",
+        "Markeur",
+        "Marqueur",
+        "Mayohavau",
+        "Okonkolo",
+        "Okónkolo",
+        "Oumalay",
+        "Palo major",
+        "Palo menor",
+        "Pandereta",
+        "Pikin doo",
+        "Playin kya",
+        "Playing cast",
+        "Podya",
+        "Prenting",
+        "Ralé",
+        "Repicador",
+        "Salidor",
+        "Segon",
+        "Skratji",
+        "Subidor",
+        "Super quinto",
+        "Supertumba",
+        "Tambou",
+        "Tambou bas",
+        "Tambou bas a de fas",
+        "Tambou bas a dé fas",
+        "Tambou bas a yon fas",
+        "Tambou chan",
+        "Tambou debonda",
+        "Tambou di bas",
+        "Tambou di base",
+        "Tambou débonda",
+        "Tambou foule",
+        "Tambou foulé",
+        "Tambou grage",
+        "Tambou gragé",
+        "Tambou ich",
+        "Tambou kanmouge",
+        "Tambou kanmougé",
+        "Tambou koupe",
+        "Tambou koupé",
+        "Tambou lele",
+        "Tambou lélé",
+        "Tambou manman",
+        "Tambou tenbal",
+        "Tambou twavay",
+        "Toombah",
+        "Tres por dos",
+        "True conga",
+        "Wacharaca",
+        "Woowoo",
+        "Ñambar"
+      ],
+      "comment": [
+        "This is a list of membranophones used in the <B>Caribbean</B> music area, including the islands of the"
+      ],
+      "label": [
+        "List of <B>Caribbean</B> membranophones"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Caribbean_membranophones"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_musical_instruments",
+        "http://dbpedia.org/resource/Category:Central_American_and_Caribbean_percussion_instruments",
+        "http://dbpedia.org/resource/Category:Drums",
+        "http://dbpedia.org/resource/Category:Lists_of_percussion_instruments"
+      ]
+    },
+    {
+      "score": [
+        "3646.338"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British_African-Caribbean_people"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Caribbean</B> British",
+        "Britain's African <B>Caribbean</B> community",
+        "British African-<B>Caribbean</B>",
+        "British African-<B>Caribbean</B> community",
+        "British African-<B>Caribbean</B> culture",
+        "British African <B>Caribbean</B> Community",
+        "British African <B>Caribbean</B> community",
+        "British Afro-<B>Caribbean</B> community",
+        "British Afro-<B>Caribbeans</B>",
+        "British <B>Caribbean</B> community",
+        "British <B>Caribbean</B> people",
+        "<B>Caribbean</B>-British",
+        "<B>Caribbean</B> british nationality",
+        "Culture of the British African-<B>Caribbean</B> community",
+        "Demographics of the British African-<B>Caribbean</B> community",
+        "Dominican British",
+        "Dominican British (Afro-<B>Caribbeans</B>)",
+        "Dominican British (Dominica)",
+        "Dominicans in the United Kingdom",
+        "Genetic studies on British African-<B>Caribbean</B> people",
+        "Grenadian Briton",
+        "Grenadian Britons",
+        "Grenadians in Britain",
+        "Grenadians in Great Britain",
+        "Grenadians in the UK",
+        "History of the British African-<B>Caribbean</B> community",
+        "Kittian British",
+        "Kittian and Nevisian British",
+        "Kittitian British",
+        "Kittitian and Nevisian British",
+        "Migration to the United Kingdom from Dominica",
+        "Nevisian British",
+        "Saint Kitts and Nevisian British",
+        "Saint Lucian British",
+        "Vincentian British",
+        "West Indians in England",
+        "Windrush Generation",
+        "Windrush generation"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "British African-<B>Caribbean</B> people are residents of the United Kingdom who are of <B>Caribbean</B> descent"
+      ],
+      "label": [
+        "British African-<B>Caribbean</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British_African-Caribbean_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Caribbean",
+        "http://dbpedia.org/resource/Category:Black_British_history",
+        "http://dbpedia.org/resource/Category:Black_British_people",
+        "http://dbpedia.org/resource/Category:British_people_of_West_Indian_descent",
+        "http://dbpedia.org/resource/Category:Caribbean_British"
+      ]
+    },
+    {
+      "score": [
+        "3630.4846"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Stars"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Selects",
+        "<B>Caribbean</B> Stars AC"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Caribbean</B> Stars Soccer Club is a professional soccer club in the Greater Toronto Arena, Canada, who"
+      ],
+      "label": [
+        "<B>Caribbean</B> Stars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Stars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_establishments_in_Ontario",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1995",
+        "http://dbpedia.org/resource/Category:Canadian_Soccer_League_(1998–present)_teams",
+        "http://dbpedia.org/resource/Category:Soccer_clubs_in_Ontario",
+        "http://dbpedia.org/resource/Category:Soccer_clubs_in_Toronto"
+      ]
+    },
+    {
+      "score": [
+        "3592.0698"
+      ],
+      "refCount": [
+        "683"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Telecommunications"
+      ],
+      "redirectlabel": [
+        "Communication Systems",
+        "Communication technology",
+        "Communications in the <B>Caribbean</B>",
+        "Datacommunications",
+        "Electrical communication",
+        "Electronic and Communication",
+        "Electronic communication",
+        "Electronic communications",
+        "Electronics and Communication",
+        "Electronics and Communications",
+        "Electronics and communication",
+        "General Telecommunications",
+        "Global telecommunications infrastructure",
+        "Mobile access",
+        "Regulation of telecommunications",
+        "Social impact of telecommunications",
+        "Telecomm",
+        "Telecomms",
+        "Telecommunicating",
+        "Telecommunication",
+        "Telecommunication technology",
+        "Telecommunications Technology",
+        "Telecommunications in the <B>Caribbean</B>",
+        "Telecommunications systems",
+        "Telecommunnication",
+        "Telecoms",
+        "Telecomunication",
+        "Telecomunications",
+        "Telecomunnication",
+        "Transportation of information",
+        "Web communication"
+      ],
+      "label": [
+        "Telecommunications"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Telecommunications"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economics_of_transport_and_utility_industries",
+        "http://dbpedia.org/resource/Category:Mass_media_technology",
+        "http://dbpedia.org/resource/Category:Telecommunications"
+      ]
+    },
+    {
+      "score": [
+        "3147.8357"
+      ],
+      "refCount": [
+        "556"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Operation_Enduring_Freedom"
+      ],
+      "redirectlabel": [
+        "Enduring Freedom",
+        "OEF-CCA",
+        "OPERATION ENDURING FREEDOM",
+        "Operation Enduring Freedom - Afghanistan",
+        "Operation Enduring Freedom - <B>Caribbean</B> and Central America",
+        "Operation Enduring Freedom VI",
+        "Operation Enduring Freedom – Afghanistan",
+        "Operation Infinite Justice",
+        "Operation ultimate justice"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Operation Enduring Freedom (OEF) was the official name used by the U.S. government for the Global War on Terrorism. On October 7, 2001, in response to the September 11 attacks, President George W. Bush announced that airstrikes targeting Al Qaeda and the Taliban had begun in Afghanistan. Operation Enduring Freedom primarily refers to the War in Afghanistan, but it is also affiliated with counterterrorism operations in other countries, such as OEF-Philippines and OEF-Trans Sahara."
+      ],
+      "label": [
+        "Operation Enduring Freedom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Operation_Enduring_Freedom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_in_Afghanistan",
+        "http://dbpedia.org/resource/Category:Code_names",
+        "http://dbpedia.org/resource/Category:Counterterrorism_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Military_operations_involving_the_United_States",
+        "http://dbpedia.org/resource/Category:United_States_Marine_Corps_in_the_21st_century",
+        "http://dbpedia.org/resource/Category:War_in_Afghanistan_(2001–2021)"
+      ]
+    },
+    {
+      "score": [
+        "3081.1938"
+      ],
+      "refCount": [
+        "73"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Caribbean_islands"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Islands",
+        "<B>Caribbean</B> islands",
+        "Guadeloupe Archipelago",
+        "Islands of Angilla",
+        "Islands of Antigua and Barbuda",
+        "Islands of Aruba",
+        "Islands of Barbados",
+        "Islands of British Virgin Islands",
+        "Islands of Cayman Islands",
+        "Islands of Dominica",
+        "Islands of Grenada",
+        "Islands of Guadeloupe",
+        "Islands of Jamaica",
+        "Islands of Martinique",
+        "Islands of Montserrat",
+        "Islands of Saint Barthélemy",
+        "Islands of Saint Kitts and Nevis",
+        "Islands of Saint Lucia",
+        "Islands of Saint Martin (France)",
+        "Islands of Saint Vincent and the Grenadines",
+        "Islands of U.S. Virgin Islands",
+        "Islands of United States Virgin Islands",
+        "Islands of the British Virgin Islands",
+        "Islands of the <B>Caribbean</B>",
+        "Islands of the Cayman Islands",
+        "Islands of the Dominican Republic",
+        "Islands of the Turks and Caicos",
+        "Islands of the Turks and Caicos Islands",
+        "Islands of the United States Virgin Islands",
+        "List of <B>Caribbean</B> islands by political affiliation",
+        "List of Islands in the <B>Caribbean</B>",
+        "List of islands in the Antilles",
+        "List of islands in the British Virgin Islands",
+        "List of islands in the <B>Caribbean</B>",
+        "List of islands in the <B>Caribbean</B> Sea",
+        "List of islands of Angilla",
+        "List of islands of Antigua and Barbuda",
+        "List of islands of Archipelago of San Andrés, Providencia and Santa Catalina",
+        "List of islands of Aruba",
+        "List of islands of Barbados",
+        "List of islands of Bonaire",
+        "List of islands of Cayman Islands",
+        "List of islands of Collectivity of Saint Martin",
+        "List of islands of Curaçao",
+        "List of islands of Dominica",
+        "List of islands of Federal Dependencies of Venezuela",
+        "List of islands of Grenada",
+        "List of islands of Guadeloupe",
+        "List of islands of La Désirade",
+        "List of islands of Marie-Galante",
+        "List of islands of Martinique",
+        "List of islands of Montserrat",
+        "List of islands of Saba",
+        "List of islands of Saba (island)",
+        "List of islands of Saint Barthélemy",
+        "List of islands of Saint Kitts and Nevis",
+        "List of islands of Saint Lucia",
+        "List of islands of Saint Martin (France)",
+        "List of islands of Saint Vincent and the Grenadines",
+        "List of islands of Sint Eustatius",
+        "List of islands of the British Virgin Islands",
+        "List of islands of the <B>Caribbean</B>",
+        "List of islands of the <B>Caribbean</B> Sea",
+        "List of islands of the Cayman Islands",
+        "List of islands of the Collectivity of Saint Martin",
+        "List of islands of the Lucayan Archipelago",
+        "List of islands of the Netherlands Antilles",
+        "List of islands of the United States Virgin Islands",
+        "List of islands of the West Indies",
+        "List of islands of Îles des Saintes",
+        "List of the Turks and Caicos Islands",
+        "Salt Cay, British Virgin Islands",
+        "Salt Cay, U.S. Virgin Islands"
+      ],
+      "comment": [
+        "A list of islands in the <B>Caribbean</B> Sea, in alphabetical order by country of ownership and/or those with full independence and autonomy."
+      ],
+      "label": [
+        "List of <B>Caribbean</B> islands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Caribbean_islands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean-related_lists",
+        "http://dbpedia.org/resource/Category:Caribbean_islands",
+        "http://dbpedia.org/resource/Category:Lists_of_islands_by_sea",
+        "http://dbpedia.org/resource/Category:West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "3023.44"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/PokerStars_Caribbean_Adventure"
+      ],
+      "redirectlabel": [
+        "2004 PokerStars <B>Caribbean</B> Adventure",
+        "2005 PokerStars <B>Caribbean</B> Adventure",
+        "2006 PokerStars <B>Caribbean</B> Adventure",
+        "2007 PokerStars <B>Caribbean</B> Adventure",
+        "2008 PokerStars <B>Caribbean</B> Adventure",
+        "2009 PokerStars <B>Caribbean</B> Adventure",
+        "2010 PokerStars <B>Caribbean</B> Adventure",
+        "2011 PokerStars <B>Caribbean</B> Adventure",
+        "2012 PokerStars <B>Caribbean</B> Adventure",
+        "2013 PokerStars <B>Caribbean</B> Adventure",
+        "2014 PokerStars <B>Caribbean</B> Adventure",
+        "2015 PokerStars <B>Caribbean</B> Adventure",
+        "2016 PokerStars <B>Caribbean</B> Adventure",
+        "2017 PokerStars <B>Caribbean</B> Adventure",
+        "2018 PokerStars <B>Caribbean</B> Adventure",
+        "<B>Caribbean</B> Poker Adventure",
+        "PokerStars <B>Caribbean</B> Adventure High Roller",
+        "PokerStars <B>Caribbean</B> Adventure Super High Roller",
+        "PokerStars <B>Caribbean</B> Poker Adventure",
+        "PokerStars Championship Bahamas",
+        "The PokerStars <B>Caribbean</B> Adventure"
+      ],
+      "comment": [
+        "The PokerStars <B>Caribbean</B> Adventure was an annual televised poker tournament. The event was first"
+      ],
+      "label": [
+        "PokerStars <B>Caribbean</B> Adventure"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/PokerStars_Caribbean_Adventure"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_Poker_Tour",
+        "http://dbpedia.org/resource/Category:PokerStars",
+        "http://dbpedia.org/resource/Category:Poker_in_North_America",
+        "http://dbpedia.org/resource/Category:Poker_television_shows",
+        "http://dbpedia.org/resource/Category:Poker_tournaments"
+      ]
+    },
+    {
+      "score": [
+        "2959.9517"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Community"
+      ],
+      "redirectlabel": [
+        "CARICOM",
+        "<B>Caribbean</B> Community and Common Market",
+        "<B>Caribbean</B> Community organs and bodies",
+        "<B>Caribbean</B> Economic Community",
+        "<B>Caribbean</B> community",
+        "Caricom",
+        "List of the <B>Caribbean</B> Community organs and bodies",
+        "The CARICOM",
+        "The <B>Caribbean</B> Community"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Community (CARICOM or CC) is an organisation of fifteen <B>Caribbean</B> nations and"
+      ],
+      "label": [
+        "<B>Caribbean</B> Community"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Community"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_establishments_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1973_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:1973_establishments_in_South_America",
+        "http://dbpedia.org/resource/Category:1973_in_economics",
+        "http://dbpedia.org/resource/Category:Caribbean_Community",
+        "http://dbpedia.org/resource/Category:Customs_unions",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Intergovernmental_organizations_established_by_treaty",
+        "http://dbpedia.org/resource/Category:International_economic_organizations",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:International_political_organizations",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1973",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Trade_blocs",
+        "http://dbpedia.org/resource/Category:United_Nations_General_Assembly_observers"
+      ]
+    },
+    {
+      "score": [
+        "2889.8572"
+      ],
+      "refCount": [
+        "66"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Diocese_of_the_North_East_Caribbean_and_Aruba"
+      ],
+      "redirectlabel": [
+        "Anglican Bishop of Antigua",
+        "Anglican Bishop of Antigua & Leeward Islands",
+        "Anglican Bishop of Antigua & The Leeward Islands",
+        "Anglican Bishop of Antigua & the Leeward Islands",
+        "Anglican Bishop of Antigua and Leeward Islands",
+        "Anglican Bishop of Antigua and The Leeward Islands",
+        "Anglican Bishop of Antigua and the Leeward Islands",
+        "Anglican Bishop of Aruba",
+        "Anglican Bishop of Leeward Islands",
+        "Anglican Bishop of North East <B>Caribbean</B>",
+        "Anglican Bishop of The Leeward Islands",
+        "Anglican Bishop of the Leeward Islands",
+        "Anglican Bishop of the North East <B>Caribbean</B>",
+        "Anglican Bishop of the North East <B>Caribbean</B> and Aruba",
+        "Anglican Diocese of Antigua",
+        "Anglican Diocese of Antigua & Leeward Islands",
+        "Anglican Diocese of Antigua & The Leeward Islands",
+        "Anglican Diocese of Antigua & the Leeward Islands",
+        "Anglican Diocese of Antigua and Leeward Islands",
+        "Anglican Diocese of Antigua and The Leeward Islands",
+        "Anglican Diocese of Antigua and the Leeward Islands",
+        "Anglican Diocese of Aruba",
+        "Anglican Diocese of Leeward Islands",
+        "Anglican Diocese of North East <B>Caribbean</B>",
+        "Anglican Diocese of The Leeward Islands",
+        "Anglican Diocese of the Leeward Islands",
+        "Anglican Diocese of the North East <B>Caribbean</B>",
+        "Anglican Diocese of the North East <B>Caribbean</B> and Aruba",
+        "Anglican diocese of Antigua and the Leeward Islands",
+        "Archdeacon of Antigua",
+        "Archdeacons of Antigua",
+        "Bishop of Antigua",
+        "Bishop of Antigua & Leeward Islands",
+        "Bishop of Antigua & The Leeward Islands",
+        "Bishop of Antigua & the Leeward Islands",
+        "Bishop of Antigua and Leeward Islands",
+        "Bishop of Antigua and The Leeward Islands",
+        "Bishop of Antigua and the Leeward Islands",
+        "Bishop of Aruba",
+        "Bishop of Leeward Islands",
+        "Bishop of North-East <B>Caribbean</B> and Aruba",
+        "Bishop of North East <B>Caribbean</B>",
+        "Bishop of North East <B>Caribbean</B> and Aruba",
+        "Bishop of The Leeward Islands",
+        "Bishop of antigua",
+        "Bishop of the Leeward Islands",
+        "Bishop of the North-East <B>Caribbean</B> and Aruba",
+        "Bishop of the North East <B>Caribbean</B>",
+        "Bishop of the North East <B>Caribbean</B> and Aruba",
+        "Bishops of Antigua",
+        "Diocese of Antigua",
+        "Diocese of Antigua & Leeward Islands",
+        "Diocese of Antigua & The Leeward Islands",
+        "Diocese of Antigua & the Leeward Islands",
+        "Diocese of Antigua and Leeward Islands",
+        "Diocese of Antigua and The Leeward Islands",
+        "Diocese of Antigua and the Leeward Islands",
+        "Diocese of Aruba",
+        "Diocese of Leeward Islands",
+        "Diocese of North-East <B>Caribbean</B> and Aruba",
+        "Diocese of North East <B>Caribbean</B>",
+        "Diocese of North East <B>Caribbean</B> and Aruba",
+        "Diocese of The Leeward Islands",
+        "Diocese of the Leeward Islands",
+        "Diocese of the North-East <B>Caribbean</B> and Aruba",
+        "Diocese of the North East <B>Caribbean</B>"
+      ],
+      "comment": [
+        "The Anglican diocese of North East <B>Caribbean</B> and Aruba was formed in 1842 as the Diocese of Antigua"
+      ],
+      "label": [
+        "Diocese of the North East <B>Caribbean</B> and Aruba"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Diocese_of_the_North_East_Caribbean_and_Aruba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anglican_Church_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Anglican_bishops_in_the_Caribbean_by_diocese",
+        "http://dbpedia.org/resource/Category:Anglican_dioceses_in_North_America",
+        "http://dbpedia.org/resource/Category:Antigua_and_Barbuda_religion-related_lists",
+        "http://dbpedia.org/resource/Category:Christianity_in_Antigua_and_Barbuda",
+        "http://dbpedia.org/resource/Category:Church_in_the_Province_of_the_West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "2832.8833"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Caribbean_people"
+      ],
+      "redirectlabel": [
+        "African-<B>Caribbean</B>",
+        "African <B>Caribbean</B>",
+        "African–<B>Caribbean</B>",
+        "Afro-<B>Caribbean</B>",
+        "Afro-<B>Caribbean</B> culture",
+        "Afro-<B>Caribbeans</B>",
+        "Afro-<B>Carribean</B>",
+        "Afro-<B>Carribean</B> culture",
+        "Afro-Carribeans",
+        "Afro <B>Caribbean</B>",
+        "Afrocaribbean",
+        "Bantu <B>Caribbean</B>",
+        "Black <B>Caribbean</B>",
+        "Black <B>Caribbeans</B>",
+        "List of Afro-<B>Caribbean</B> people"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Caribbean</B> or African <B>Caribbean</B> are <B>Caribbean</B> people whose ancestors were taken from Africa via"
+      ],
+      "label": [
+        "Afro-<B>Caribbean</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Caribbean_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Caribbean",
+        "http://dbpedia.org/resource/Category:Caribbean_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:People_of_African_descent"
+      ]
+    },
+    {
+      "score": [
+        "2728.013"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Man's_Chest"
+      ],
+      "redirectlabel": [
+        "Dead Man's Chest (Pirates of the <B>Caribbean</B>)",
+        "Dead Man's Chest (film)",
+        "Dead man chest",
+        "PIRATES OF THE <B>CARIBBEAN</B>: DEAD MAN'S CHEST",
+        "POTC2",
+        "POTC:DMC",
+        "POTC 2",
+        "Pirates Of The <B>Caribbean</B>-Dead Mans Chest",
+        "Pirates of The <B>Caribbean</B> 2: Dead Man's Chest",
+        "Pirates of The <B>Caribbean</B> 2: Dead Man’s Chest",
+        "Pirates of the <B>Caribbean</B>: Dead Man's Chest DVD",
+        "Pirates of the <B>Caribbean</B>: Dead Mans Chest",
+        "Pirates of the <B>Caribbean</B>: Dead Man’s Chest",
+        "Pirates of the <B>Caribbean</B> 2: Dead Man's Chest",
+        "Pirates of the <B>Caribbean</B> 2",
+        "Pirates of the <B>Caribbean</B> Dead man's chest",
+        "Pirates of the <B>Caribbean</B> II: Dead Man's Chest",
+        "Pirates of the <B>Caribbean</B> II",
+        "Pirates of the <B>Caribean</B>: Dead Man's Chest",
+        "Pirates of the <B>Carribbean</B>: Dead Man's Chest",
+        "Pirates of the <B>Carribbean</B> 2",
+        "Pirates of the <B>Carribean</B>: Dead Man's Chest",
+        "Pirates of the <B>Carribean</B> 2",
+        "Pirates of the <B>caribbean</B>: dead's man chest",
+        "Pirates of the <B>caribbean</B> 2",
+        "Pirates of the <B>caribbean</B> dead man's chest",
+        "Pirates of the <B>carribean</B> dead man's chest",
+        "Poc2"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B>: Dead Man's Chest is a 2006 American fantasy swashbuckler film. It is the"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>: Dead Man's Chest"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Man's_Chest"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_American_films",
+        "http://dbpedia.org/resource/Category:2000s_British_films",
+        "http://dbpedia.org/resource/Category:2000s_English-language_films",
+        "http://dbpedia.org/resource/Category:2000s_action_adventure_films",
+        "http://dbpedia.org/resource/Category:2000s_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:2000s_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:2006_films",
+        "http://dbpedia.org/resource/Category:American_action_adventure_films",
+        "http://dbpedia.org/resource/Category:American_children's_adventure_films",
+        "http://dbpedia.org/resource/Category:American_coming-of-age_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:American_sequel_films",
+        "http://dbpedia.org/resource/Category:American_swashbuckler_films",
+        "http://dbpedia.org/resource/Category:BAFTA_winners_(films)",
+        "http://dbpedia.org/resource/Category:British_action_films",
+        "http://dbpedia.org/resource/Category:British_adventure_films",
+        "http://dbpedia.org/resource/Category:British_children's_adventure_films",
+        "http://dbpedia.org/resource/Category:British_sequel_films",
+        "http://dbpedia.org/resource/Category:Demons_in_film",
+        "http://dbpedia.org/resource/Category:Films_about_Voodoo",
+        "http://dbpedia.org/resource/Category:Films_about_cannibalism",
+        "http://dbpedia.org/resource/Category:Films_about_witchcraft",
+        "http://dbpedia.org/resource/Category:Films_adapted_into_comics",
+        "http://dbpedia.org/resource/Category:Films_directed_by_Gore_Verbinski",
+        "http://dbpedia.org/resource/Category:Films_scored_by_Hans_Zimmer",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_1720s",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_18th_century",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Films_set_on_ships",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Dominica",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Saint_Vincent_and_the_Grenadines",
+        "http://dbpedia.org/resource/Category:Films_shot_in_the_Bahamas",
+        "http://dbpedia.org/resource/Category:Films_that_won_the_Best_Visual_Effects_Academy_Award",
+        "http://dbpedia.org/resource/Category:Films_using_motion_capture",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Ted_Elliott",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Terry_Rossio",
+        "http://dbpedia.org/resource/Category:Flying_Dutchman",
+        "http://dbpedia.org/resource/Category:Kraken_in_popular_culture",
+        "http://dbpedia.org/resource/Category:Pirate_films",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)_films",
+        "http://dbpedia.org/resource/Category:Treasure_hunt_films",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Pictures_films"
+      ]
+    },
+    {
+      "score": [
+        "2655.3828"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Central_American_and_Caribbean_Games"
+      ],
+      "redirectlabel": [
+        "2010 CAC Games",
+        "Antigua and Barbuda at the 2010 Central American and <B>Caribbean</B> Games",
+        "Aruba at the 2010 Central American and <B>Caribbean</B> Games",
+        "Bahamas at the 2010 Central American and <B>Caribbean</B> Games",
+        "Barbados at the 2010 Central American and <B>Caribbean</B> Games",
+        "Belize at the 2010 Central American and <B>Caribbean</B> Games",
+        "Bermuda at the 2010 Central American and <B>Caribbean</B> Games",
+        "British Virgin Islands at the 2010 Central American and <B>Caribbean</B> Games",
+        "Costa Rica at the 2010 Central American and <B>Caribbean</B> Games",
+        "Dominica at the 2010 Central American and <B>Caribbean</B> Games",
+        "Dominican Republic at the 2010 Central American and <B>Caribbean</B> Games",
+        "Grenada at the 2010 Central American and <B>Caribbean</B> Games",
+        "Guatemala at the 2010 Central American and <B>Caribbean</B> Games",
+        "Guyana at the 2010 Central American and <B>Caribbean</B> Games",
+        "Haiti at the 2010 Central American and <B>Caribbean</B> Games",
+        "Jamaica at the 2010 Central American and <B>Caribbean</B> Games",
+        "Mayaguez 2010",
+        "Mayagüez 2010",
+        "Mexico at the 2010 Central American and <B>Caribbean</B> Games",
+        "Nicaragua at the 2010 Central American and <B>Caribbean</B> Games",
+        "Panama at the 2010 Central American and <B>Caribbean</B> Games",
+        "Saint Kitts and Nevis at the 2010 Central American and <B>Caribbean</B> Games",
+        "Saint Lucia at the 2010 Central American and <B>Caribbean</B> Games",
+        "Saint Vincent and the Grenadines at the 2010 Central American and <B>Caribbean</B> Games",
+        "Suriname at the 2010 Central American and <B>Caribbean</B> Games",
+        "Trinidad and Tobago at the 2010 Central American and <B>Caribbean</B> Games",
+        "Venezuela at the 2010 Central American and <B>Caribbean</B> Games",
+        "XXI Central American and <B>Caribbean</B> Games"
+      ],
+      "typeName": [
+        "Event",
+        "SportsEvent",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 21st Central American and <B>Caribbean</B> Games (Spanish: XXI Juegos Centroamericanos y del Caribe"
+      ],
+      "label": [
+        "2010 Central American and <B>Caribbean</B> Games"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Central_American_and_Caribbean_Games"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_Central_American_and_Caribbean_Games",
+        "http://dbpedia.org/resource/Category:2010_in_Caribbean_sport",
+        "http://dbpedia.org/resource/Category:2010_in_Central_American_sport",
+        "http://dbpedia.org/resource/Category:2010_in_Puerto_Rican_sports",
+        "http://dbpedia.org/resource/Category:2010_in_multi-sport_events",
+        "http://dbpedia.org/resource/Category:August_2010_sports_events_in_North_America",
+        "http://dbpedia.org/resource/Category:Central_American_and_Caribbean_Games",
+        "http://dbpedia.org/resource/Category:International_sports_competitions_hosted_by_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:July_2010_sports_events_in_North_America",
+        "http://dbpedia.org/resource/Category:Multi-sport_events_in_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Sports_in_Mayagüez,_Puerto_Rico"
+      ]
+    },
+    {
+      "score": [
+        "2629.2844"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Airlines"
+      ],
+      "redirectlabel": [
+        "BW523",
+        "BWA523",
+        "BWA 523",
+        "BW 523",
+        "<B>Caribbean</B> (airline)",
+        "<B>Caribbean</B> Airlines BW523",
+        "<B>Caribbean</B> Airlines Destinations",
+        "<B>Caribbean</B> Airlines Flight BW523",
+        "<B>Caribbean</B> Airlines Limited",
+        "<B>Caribbean</B> Airlines Penerbangan 523",
+        "<B>Caribbean</B> Airlines flight BW523",
+        "<B>Carribean</B> Airlines",
+        "Flight BW523",
+        "Flight No. BW523"
+      ],
+      "comment": [
+        "<B>Caribbean</B> Airlines Limited is the state-owned airline and flag carrier of Trinidad and Tobago"
+      ],
+      "label": [
+        "<B>Caribbean</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Airlines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_establishments_in_Trinidad_and_Tobago",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_2006",
+        "http://dbpedia.org/resource/Category:Airlines_of_Trinidad_and_Tobago",
+        "http://dbpedia.org/resource/Category:BWIA_West_Indies_Airways",
+        "http://dbpedia.org/resource/Category:Brands_of_Trinidad_and_Tobago",
+        "http://dbpedia.org/resource/Category:Cargo_airlines_of_Trinidad_and_Tobago",
+        "http://dbpedia.org/resource/Category:Caribbean_Airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Trinidad_and_Tobago",
+        "http://dbpedia.org/resource/Category:Latin_American_and_Caribbean_Air_Transport_Association"
+      ]
+    },
+    {
+      "score": [
+        "2626.4375"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_At_World's_End"
+      ],
+      "redirectlabel": [
+        "At Worlds End",
+        "At world's end",
+        "At worlds end",
+        "POTC3",
+        "POTC:AWE",
+        "POTC 3",
+        "Pirates3",
+        "Pirates 3",
+        "Pirates Of The <B>Caribbean</B>: At World's End",
+        "Pirates Of The <B>Carribean</B> 3",
+        "Pirates iii",
+        "Pirates of the <B>Caribbean</B>: At World End",
+        "Pirates of the <B>Caribbean</B>: At Worlds End",
+        "Pirates of the <B>Caribbean</B>: At the World's End",
+        "Pirates of the <B>Caribbean</B>: At the world's end",
+        "Pirates of the <B>Caribbean</B>: World's End",
+        "Pirates of the <B>Caribbean</B> 3: At World's End",
+        "Pirates of the <B>Caribbean</B> 3",
+        "Pirates of the <B>Caribbean</B> At World's End",
+        "Pirates of the <B>Caribbean</B> III",
+        "Pirates of the <B>Carribbean</B>: At Worlds End",
+        "Pirates of the Carribean:At Worlds End",
+        "Pirates of the <B>Carribean</B>: At World's End",
+        "Pirates of the <B>Carribean</B>: At Worlds End",
+        "Pirates of the <B>Carribean</B> 3",
+        "Pirates of the <B>caribbean</B> 3",
+        "Pirates of the <B>carribean</B> iii",
+        "Pirates of the <B>carribean</B> three",
+        "PotC: AWE",
+        "Potc3"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B>: At World's End is a 2007 American epic fantasy swashbuckler film directed"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>: At World's End"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_At_World's_End"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_American_films",
+        "http://dbpedia.org/resource/Category:2000s_English-language_films",
+        "http://dbpedia.org/resource/Category:2000s_action_adventure_films",
+        "http://dbpedia.org/resource/Category:2000s_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:2000s_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:2007_films",
+        "http://dbpedia.org/resource/Category:American_action_adventure_films",
+        "http://dbpedia.org/resource/Category:American_epic_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:American_sequel_films",
+        "http://dbpedia.org/resource/Category:Demons_in_film",
+        "http://dbpedia.org/resource/Category:Films_about_Voodoo",
+        "http://dbpedia.org/resource/Category:Films_directed_by_Gore_Verbinski",
+        "http://dbpedia.org/resource/Category:Films_produced_by_Jerry_Bruckheimer",
+        "http://dbpedia.org/resource/Category:Films_scored_by_Hans_Zimmer",
+        "http://dbpedia.org/resource/Category:Films_set_in_Singapore",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_1720s",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Films_set_on_ships",
+        "http://dbpedia.org/resource/Category:Films_shot_in_California",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Hawaii",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Utah",
+        "http://dbpedia.org/resource/Category:Films_shot_in_the_Bahamas",
+        "http://dbpedia.org/resource/Category:Films_using_motion_capture",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Ted_Elliott",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Terry_Rossio",
+        "http://dbpedia.org/resource/Category:Flying_Dutchman",
+        "http://dbpedia.org/resource/Category:Kraken_in_popular_culture",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)_films",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Pictures_films"
+      ]
+    },
+    {
+      "score": [
+        "2610.0244"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)"
+      ],
+      "redirectlabel": [
+        "Pirates Of The <B>Caribbean</B> Quadrilogy",
+        "Pirates of <B>caribbean</B> 6",
+        "Pirates of the <B>Caribbean</B> (trilogy)",
+        "Pirates of the <B>Caribbean</B> film series",
+        "Pirates of the <B>Caribbean</B> film trilogy",
+        "Pirates of the <B>Caribbean</B> films",
+        "Pirates of the <B>Caribbean</B> movies",
+        "Pirates of the <B>Caribbean</B> trilogy",
+        "Pirates of the <B>caribbean</B> film trilogy",
+        "Tales of the Code: Wedlocked"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B> is a series of fantasy swashbuckler films produced by Jerry Bruckheimer"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B> (film series)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Action_film_series",
+        "http://dbpedia.org/resource/Category:Adventure_film_series",
+        "http://dbpedia.org/resource/Category:Comedy_film_series",
+        "http://dbpedia.org/resource/Category:Disney_film_series",
+        "http://dbpedia.org/resource/Category:Fiction_set_in_the_18th_century",
+        "http://dbpedia.org/resource/Category:Film_series_introduced_in_2003",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)"
+      ]
+    },
+    {
+      "score": [
+        "2409.9053"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Eastern_Caribbean_dollar"
+      ],
+      "redirectlabel": [
+        "Banknotes of the East <B>Caribbean</B> dollar",
+        "Banknotes of the Eastern <B>Caribbean</B> dollar",
+        "Coins of the East <B>Caribbean</B> States",
+        "Coins of the East <B>Caribbean</B> dollar",
+        "Coins of the Eastern <B>Caribbean</B> dollar",
+        "EC$",
+        "EC dollar",
+        "East <B>Caribbean</B> Dollar",
+        "East <B>Caribbean</B> States dollar",
+        "East <B>Caribbean</B> dollar",
+        "East <B>caribbean</B> dollar",
+        "Eastern <B>Caribbean</B> Dollar",
+        "ISO 4217:XCD"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The Eastern <B>Caribbean</B> dollar (symbol: $; code: XCD) is the currency of all seven full members and"
+      ],
+      "label": [
+        "Eastern <B>Caribbean</B> dollar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Eastern_Caribbean_dollar"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_establishments_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1965_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1965",
+        "http://dbpedia.org/resource/Category:Currencies_of_British_Overseas_Territories",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Currency_unions",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Organisation_of_Eastern_Caribbean_States",
+        "http://dbpedia.org/resource/Category:Fixed_exchange_rate",
+        "http://dbpedia.org/resource/Category:Trade_blocs"
+      ]
+    },
+    {
+      "score": [
+        "2385.6482"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "Pirates Of The <B>Caribbean</B>",
+        "Pirates Of The <B>Carribbean</B>",
+        "Pirates of <B>caribbean</B>",
+        "Pirates of the <B>Carabean</B>",
+        "Pirates of the <B>Caribbean</B> (franchise)",
+        "Pirates of the <B>Caribbean</B> (series)",
+        "Pirates of the <B>Carrabean</B>",
+        "Pirates of the <B>Carribbean</B>",
+        "Pirates of the <B>Carribean</B>",
+        "Pirates of the <B>carabean</B>",
+        "Pirates of the <B>caribbean</B>",
+        "Pirates of the <B>caribean</B>",
+        "Pirates of the <B>carribean</B>",
+        "Priates of the <B>carribean</B>",
+        "The Brightest Star in the North: The Adventures of Carina Smyth",
+        "The Brightest Star in the North",
+        "The Pirates Of The <B>Caribbean</B>"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B> is a Disney franchise encompassing numerous theme park attractions and a"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_Empire_in_fiction",
+        "http://dbpedia.org/resource/Category:Caribbean_in_fiction",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Mass_media_franchises_introduced_in_1967",
+        "http://dbpedia.org/resource/Category:Piracy_in_fiction",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Spanish_Empire_in_fiction",
+        "http://dbpedia.org/resource/Category:Undead_in_popular_culture",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Studios_(division)_franchises"
+      ]
+    },
+    {
+      "score": [
+        "2363.6196"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_mountain_peaks_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "100 km isolated peaks of the <B>Caribbean</B>",
+        "Highest major peaks of the <B>Caribbean</B>",
+        "Highest mountain peaks of the <B>Caribbean</B>",
+        "List of mountain peaks of Cuba",
+        "List of mountain peaks of Grenada",
+        "List of mountain peaks of Guadeloupe",
+        "List of mountain peaks of Haiti",
+        "List of mountain peaks of Martinique",
+        "List of mountain peaks of Saint Kitts and Nevis",
+        "List of mountain peaks of Saint Lucia",
+        "List of mountain peaks of Saint Vincent and the Grenadines",
+        "List of mountain peaks of Trinidad and Tobago",
+        "List of mountain peaks of the British Virgin Islands",
+        "List of mountain peaks of the Dominican Republic",
+        "List of mountains in Dominican Republic",
+        "List of mountains in Trinidad and Tobago",
+        "List of mountains in the Dominican Republic",
+        "List of mountains of Cuba",
+        "List of mountains of Grenada",
+        "List of mountains of Guadeloupe",
+        "List of mountains of Haiti",
+        "List of mountains of Martinique",
+        "List of mountains of Saint Kitts and Nevis",
+        "List of mountains of Saint Lucia",
+        "List of mountains of Saint Vincent and the Grenadines",
+        "List of mountains of Trinidad and Tobago",
+        "List of mountains of the British Virgin Islands",
+        "List of mountains of the <B>Caribbean</B>",
+        "List of mountains of the Dominican Republic",
+        "List of the highest major summits of the <B>Caribbean</B>",
+        "List of the most isolated major summits of the <B>Caribbean</B>",
+        "List of the most prominent summits of the <B>Caribbean</B>",
+        "Most isolated major peaks of the <B>Caribbean</B>",
+        "Most isolated mountain peaks of the <B>Caribbean</B>",
+        "Most prominent mountain peaks of the <B>Caribbean</B>",
+        "Most prominent peaks of the <B>Caribbean</B>",
+        "Mountain peaks of the <B>Caribbean</B>"
+      ],
+      "comment": [
+        " <B>Caribbean</B> Sea. The summit of a mountain or hill may be measured in three principal ways: 1.  \n* The"
+      ],
+      "label": [
+        "List of mountain peaks of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_mountain_peaks_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean-related_lists",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Lists_of_mountains_by_elevation",
+        "http://dbpedia.org/resource/Category:Lists_of_mountains_by_isolation",
+        "http://dbpedia.org/resource/Category:Lists_of_mountains_by_prominence",
+        "http://dbpedia.org/resource/Category:Lists_of_mountains_of_North_America",
+        "http://dbpedia.org/resource/Category:Mountains_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "2336.856"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Jack_Sparrow"
+      ],
+      "redirectlabel": [
+        "Bold New Horizons",
+        "Jack Sparrow Novel",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: Bold New Horizons",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: City of Gold",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: Dance of the Hours",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: Poseidon's Peak",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: Silver",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: Sins of the Father",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Age of Bronze",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Coming Storm",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Pirate Chase",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Quest for the Sword of Cortes",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Quest for the Sword of Cortés",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Siren Song",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Sword of Cortes",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Sword of Cortés",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Tale of Billy Turner and Other Stories",
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow: The Timekeeper",
+        "Pirates of the <B>Caribbean</B> Jack Sparrow",
+        "Poseidon's Peak",
+        "The Pirate Chase",
+        "The Sword of Cortes",
+        "The Sword of Cortés",
+        "The Tale of Billy Turner and Other Stories"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow is a series for young readers of nine to twelve years"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>: Jack Sparrow"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Jack_Sparrow"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Novels_about_pirates",
+        "http://dbpedia.org/resource/Category:Novels_based_on_films",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Works_published_under_a_pseudonym"
+      ]
+    },
+    {
+      "score": [
+        "2294.2224"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Netherlands"
+      ],
+      "redirectlabel": [
+        "BES Islands",
+        "BES islands",
+        "Bonaire, Saint Eustatius and Saba",
+        "Bonaire, Sint Eustatius and Saba",
+        "<B>Caribbean</B> special municipalities of the Netherlands",
+        "ISO 3166-1:BQ",
+        "Kingdom Islands",
+        "National Office for the <B>Caribbean</B> Netherlands",
+        "Politics of Bonaire",
+        "Politics of Saba",
+        "Politics of Saba (island)",
+        "Politics of Sint Eustatius",
+        "Special municipality of the Netherlands"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Netherlands (Dutch: Caribisch Nederland, pronounced [kaːˌribis ˈneːdərlɑnt]) are the"
+      ],
+      "label": [
+        "<B>Caribbean</B> Netherlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Netherlands"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:2010s_establishments_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Caribbean_special_municipalities_of_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Dutch_Caribbean",
+        "http://dbpedia.org/resource/Category:History_of_the_Caribbean_Netherlands",
+        "http://dbpedia.org/resource/Category:Integral_overseas_territories",
+        "http://dbpedia.org/resource/Category:Islands_of_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Leeward_Islands_(Caribbean)",
+        "http://dbpedia.org/resource/Category:Municipalities_of_the_Netherlands_established_in_2010",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Netherlands"
+      ]
+    },
+    {
+      "score": [
+        "2279.1597"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_English"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> English language",
+        "<B>Carribean</B> English",
+        "Guyanese English",
+        "West Indian English"
+      ],
+      "comment": [
+        "<B>Caribbean</B> English dialects of the English language are spoken in the <B>Caribbean</B> and Liberia, most"
+      ],
+      "label": [
+        "<B>Caribbean</B> English"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_English"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dialects_of_English",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:North_American_English"
+      ]
+    },
+    {
+      "score": [
+        "2235.4412"
+      ],
+      "refCount": [
+        "136"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/West_Indies"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> basin",
+        "The West Indies",
+        "West Indes",
+        "West Indian Islands",
+        "West Indies Islands",
+        "West indes",
+        "West indies",
+        "Western Indies"
+      ],
+      "comment": [
+        "The West Indies is a region of the North Atlantic Ocean and the <B>Caribbean</B> that includes the island"
+      ],
+      "label": [
+        "West Indies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/West_Indies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Historical_regions",
+        "http://dbpedia.org/resource/Category:West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "2182.6196"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sino-Caribbean_relations"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B>-China relations",
+        "<B>Caribbean</B>-Chinese relations",
+        "<B>Caribbean</B>-People's Republic of China relations",
+        "<B>Caribbean</B> - People's Republic of China relations",
+        "<B>Caribbean</B> – People's Republic of China relations",
+        "<B>Caribbean</B>–China relations",
+        "<B>Caribbean</B>–People's Republic of China relations",
+        "China-<B>Caribbean</B> relations",
+        "Chinese-<B>Caribbean</B> relations",
+        "People's Republic of China-<B>Caribbean</B> relations",
+        "Sino–<B>Caribbean</B> relations"
+      ],
+      "label": [
+        "Sino-<B>Caribbean</B> relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sino-Caribbean_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_China",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Taiwan",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "2132.854"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> history",
+        "History of <B>Caribbean</B>",
+        "History of <B>Caribbean</B> Islands",
+        "History of slavery in the <B>Caribbean</B>",
+        "History of the West Indies",
+        "History of the <B>caribbean</B>",
+        "The <B>Caribbean</B> in the Early 17th Century"
+      ],
+      "comment": [
+        "The history of the <B>Caribbean</B> reveals the significant role the region played in the colonial"
+      ],
+      "label": [
+        "History of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_by_region",
+        "http://dbpedia.org/resource/Category:History_of_North_America",
+        "http://dbpedia.org/resource/Category:History_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "2115.0808"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Caribbean_Cup"
+      ],
+      "redirectlabel": [
+        "2006-07 <B>Caribbean</B> Cup",
+        "2006-07 <B>Caribbean</B> Nations Cup",
+        "2006–07 <B>Caribbean</B> Cup",
+        "2006–07 <B>Caribbean</B> Nations Cup",
+        "2007 CONCACAF Gold Cup (<B>Caribbean</B> Qualification)",
+        "2007 <B>Caribbean</B> Nations Cup",
+        "<B>Caribbean</B> Nations Cup 2006-07",
+        "<B>Caribbean</B> Nations Cup 2006/2007",
+        "<B>Caribbean</B> Nations Cup 2006–07",
+        "<B>Caribbean</B> Nations Cup 2007"
+      ],
+      "typeName": [
+        "Event",
+        "SoccerTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The 2007 <B>Caribbean</B> Cup (known as the Digicel <B>Caribbean</B> Cup for sponsorship reasons) is the"
+      ],
+      "label": [
+        "2007 <B>Caribbean</B> Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Caribbean_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SoccerTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006–07_in_Caribbean_football",
+        "http://dbpedia.org/resource/Category:2007_in_Trinidad_and_Tobago_football",
+        "http://dbpedia.org/resource/Category:Caribbean_Cup",
+        "http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Trinidad_and_Tobago"
+      ]
+    },
+    {
+      "score": [
+        "2102.5427"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> food",
+        "<B>Carribean</B> cuisine",
+        "Cuisine of the <B>Caribbean</B>",
+        "Goat Stew",
+        "West Indian cuisine",
+        "West Indian food",
+        "Wog food"
+      ],
+      "comment": [
+        "<B>Caribbean</B> cuisine is a fusion of African, Creole, Cajun, Amerindian, European, Latin American"
+      ],
+      "label": [
+        "<B>Caribbean</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2082.9246"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Organisation_of_Eastern_Caribbean_States"
+      ],
+      "redirectlabel": [
+        "East <B>carribbean</B> states",
+        "Eastern <B>Caribbean</B>",
+        "Eastern <B>Caribbean</B> Commission",
+        "Eastern <B>Caribbean</B> Drug Service",
+        "Economic Union Treaty",
+        "Flag of the Organisation of Eastern <B>Caribbean</B> States",
+        "Flag of the organisation of eastern <B>caribbean</B> states",
+        "OECS",
+        "Organisation des États de la Caraïbe orientale",
+        "Organisation of East <B>Caribbean</B> States",
+        "Organization of East <B>Caribbean</B> States",
+        "Organization of Eastern <B>Caribbean</B> States",
+        "Revised Treaty of Basseterre Establishing the OECS Economic Union",
+        "Revised Treaty of Basseterre Establishing the Organisation of Eastern <B>Caribbean</B> States Economic Union",
+        "Treaty of Basseterre"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Organisation of Eastern <B>Caribbean</B> States (OECS; French: Organisation des États de la Caraïbe"
+      ],
+      "label": [
+        "Organisation of Eastern <B>Caribbean</B> States"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Organisation_of_Eastern_Caribbean_States"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_establishments_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1981_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:Antigua_and_Barbuda–Grenada_relations",
+        "http://dbpedia.org/resource/Category:Antigua_and_Barbuda–Saint_Lucia_relations",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Antigua_and_Barbuda",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Dominica",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Grenada",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Saint_Kitts_and_Nevis",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Saint_Lucia",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Saint_Vincent_and_the_Grenadines",
+        "http://dbpedia.org/resource/Category:Grenada–Saint_Vincent_and_the_Grenadines_relations",
+        "http://dbpedia.org/resource/Category:Intergovernmental_organizations_established_by_treaty",
+        "http://dbpedia.org/resource/Category:International_diplomatic_organizations",
+        "http://dbpedia.org/resource/Category:International_economic_organizations",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_the_Americas",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:International_political_organizations",
+        "http://dbpedia.org/resource/Category:Lesser_Antilles",
+        "http://dbpedia.org/resource/Category:Organisation_of_Eastern_Caribbean_States",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1981",
+        "http://dbpedia.org/resource/Category:Political_organisations_based_in_Saint_Lucia",
+        "http://dbpedia.org/resource/Category:Politics_of_Anguilla",
+        "http://dbpedia.org/resource/Category:Politics_of_Antigua_and_Barbuda",
+        "http://dbpedia.org/resource/Category:Politics_of_Dominica",
+        "http://dbpedia.org/resource/Category:Politics_of_Grenada",
+        "http://dbpedia.org/resource/Category:Politics_of_Martinique",
+        "http://dbpedia.org/resource/Category:Politics_of_Montserrat",
+        "http://dbpedia.org/resource/Category:Politics_of_Saint_Kitts_and_Nevis",
+        "http://dbpedia.org/resource/Category:Politics_of_Saint_Lucia",
+        "http://dbpedia.org/resource/Category:Politics_of_Saint_Vincent_and_the_Grenadines",
+        "http://dbpedia.org/resource/Category:Politics_of_the_British_Virgin_Islands",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Saint_Lucia–Saint_Vincent_and_the_Grenadines_relations",
+        "http://dbpedia.org/resource/Category:United_Nations_General_Assembly_observers"
+      ]
+    },
+    {
+      "score": [
+        "2078.7988"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Organisation_of_African,_Caribbean_and_Pacific_States"
+      ],
+      "redirectlabel": [
+        "ACP (Lome Convention)",
+        "ACP (Lomé Convention)",
+        "ACP Countries",
+        "ACP Group",
+        "ACP States",
+        "ACP countries",
+        "ACP states",
+        "Acp.int",
+        "Africa, <B>Caribbean</B>, and Pacific countries",
+        "Africa, the <B>Caribbean</B> and the Pacific",
+        "African, <B>Caribbean</B>, and Pacific Group of States",
+        "African, <B>Caribbean</B> and Pacific Group",
+        "African, <B>Caribbean</B> and Pacific Group of States",
+        "African <B>Caribbean</B> Pacific Countries",
+        "Georgetown Agreement",
+        "Group of African, <B>Caribbean</B> and Pacific countries",
+        "OACPS",
+        "Organization of African, <B>Caribbean</B> and Pacific States",
+        "The ACP States"
+      ],
+      "label": [
+        "Organisation of African, <B>Caribbean</B> and Pacific States"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Organisation_of_African,_Caribbean_and_Pacific_States"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_establishments_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1975_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1975_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:1975_establishments_in_South_America",
+        "http://dbpedia.org/resource/Category:1981_establishments_in_Oceania",
+        "http://dbpedia.org/resource/Category:ACP–European_Union_relations",
+        "http://dbpedia.org/resource/Category:Economy_of_Africa",
+        "http://dbpedia.org/resource/Category:Economy_of_Oceania",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Intergovernmental_organizations_established_by_treaty",
+        "http://dbpedia.org/resource/Category:International_economic_organizations",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_Africa",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_Oceania",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:International_trade_organizations",
+        "http://dbpedia.org/resource/Category:Organisation_of_African,_Caribbean_and_Pacific_States",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1975",
+        "http://dbpedia.org/resource/Category:Politics_of_Africa",
+        "http://dbpedia.org/resource/Category:Politics_of_Oceania",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Trade_blocs",
+        "http://dbpedia.org/resource/Category:United_Nations_General_Assembly_observers"
+      ]
+    },
+    {
+      "score": [
+        "2068.1606"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Guyana_Amazon_Warriors"
+      ],
+      "redirectlabel": [
+        "Guyana <B>Caribbean</B> Premier League team",
+        "Junior Sinclair"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The Guyana Amazon Warriors is a franchise cricket team of the <B>Caribbean</B> Premier League based in"
+      ],
+      "label": [
+        "Guyana Amazon Warriors"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Guyana_Amazon_Warriors"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_establishments_in_Guyana",
+        "http://dbpedia.org/resource/Category:Caribbean_Premier_League_teams",
+        "http://dbpedia.org/resource/Category:Cricket_clubs_established_in_2013",
+        "http://dbpedia.org/resource/Category:Cricket_in_Guyana",
+        "http://dbpedia.org/resource/Category:Cricket_teams_in_the_West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "2033.185"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Santiago_Mariño_Caribbean_International_Airport"
+      ],
+      "redirectlabel": [
+        "Aeropuerto Internacional Del Caribe Santiago Marino",
+        "Aeropuerto Internacional Del Caribe Santiago Mariño",
+        "Aeropuerto Internacional del Caribe General en Jefe Santiago Marino",
+        "Aeropuerto Internacional del Caribe General en Jefe Santiago Mariño",
+        "Aeropuerto Internacional del Caribe Santiago Marino",
+        "Aeropuerto Internacional del Caribe Santiago Mariño",
+        "Del Caribe \"Santiago Marino\" International Airport",
+        "Del Caribe \"Santiago Mariño\" International Airport",
+        "Del Caribe International Airport",
+        "Del Caribe International General Santiago Marino Airport",
+        "General en Jefe Santiago Marino International <B>Caribbean</B> Airport",
+        "General en Jefe Santiago Mariño International <B>Caribbean</B> Airport",
+        "Porlamar Airport",
+        "SVMG",
+        "Santiago Marino <B>Caribbean</B> International Airport",
+        "Santiago Marino International Airport",
+        "Santiago Mariño <B>Caribbean</B> (airport)",
+        "Santiago Mariño <B>Caribbean</B> (international airport)",
+        "Santiago Mariño <B>Caribbean</B> International",
+        "Santiago Mariño International Airport"
+      ],
+      "typeName": [
+        "Airport",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure"
+      ],
+      "comment": [
+        "Santiago Mariño <B>Caribbean</B> International Airport (Spanish: Aeropuerto Internacional del Caribe"
+      ],
+      "label": [
+        "Santiago Mariño <B>Caribbean</B> International Airport"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Santiago_Mariño_Caribbean_International_Airport"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Airport",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Airports_in_Venezuela",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Nueva_Esparta",
+        "http://dbpedia.org/resource/Category:Porlamar"
+      ]
+    },
+    {
+      "score": [
+        "2020.4536"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_region_of_Colombia"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Region, Colombia",
+        "<B>Caribbean</B> Region",
+        "<B>Caribbean</B> Region (Colombia)",
+        "<B>Caribbean</B> Region of Colombia",
+        "<B>Caribbean</B> region (Colombia)",
+        "<B>Caribbean</B> region of colombia"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> region of Colombia or <B>Caribbean</B> coast region is in the north of Colombia and is"
+      ],
+      "label": [
+        "<B>Caribbean</B> region of Colombia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_region_of_Colombia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_region_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "2012.6976"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jamaica_Tallawahs"
+      ],
+      "redirectlabel": [
+        "Jamaica <B>Caribbean</B> Premier League team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The franchise of Jamaica Tallawahs are the representative team of Jamaica in the <B>Caribbean</B> Premier"
+      ],
+      "label": [
+        "Jamaica Tallawahs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jamaica_Tallawahs"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_Premier_League_teams",
+        "http://dbpedia.org/resource/Category:Cricket_clubs_established_in_2013",
+        "http://dbpedia.org/resource/Category:Cricket_in_Jamaica",
+        "http://dbpedia.org/resource/Category:Cricket_teams_in_the_West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "2012.0088"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British_Indo-Caribbean_people"
+      ],
+      "redirectlabel": [
+        "British Indo-<B>Caribbean</B> community",
+        "Indo-<B>Caribbean</B> British"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "British Indo-<B>Caribbean</B> people are residents of the United Kingdom who were born in the <B>Caribbean</B>"
+      ],
+      "label": [
+        "British Indo-<B>Caribbean</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British_Indo-Caribbean_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_people_of_Indian_descent",
+        "http://dbpedia.org/resource/Category:British_people_of_Indo-Guyanese_descent",
+        "http://dbpedia.org/resource/Category:British_people_of_Indo-Trinidadian_descent",
+        "http://dbpedia.org/resource/Category:British_people_of_West_Indian_descent",
+        "http://dbpedia.org/resource/Category:Caribbean_British",
+        "http://dbpedia.org/resource/Category:Indian_diaspora_in_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "2009.276"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Caribbean_Americans"
+      ],
+      "redirectlabel": [
+        "Indo-<B>Caribbean</B> American",
+        "Indo-<B>Caribbean</B> American people",
+        "List of Indo-<B>Caribbean</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Indo-<B>Caribbean</B> Americans or Indian-<B>Caribbean</B> Americans, are Americans who trace their ancestry"
+      ],
+      "label": [
+        "Indo-<B>Caribbean</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Caribbean_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Caribbean_descent",
+        "http://dbpedia.org/resource/Category:Caribbean_American",
+        "http://dbpedia.org/resource/Category:Indian_American",
+        "http://dbpedia.org/resource/Category:Indo-Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1999.8483"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Caribbean_Cup"
+      ],
+      "redirectlabel": [
+        "2008 <B>Caribbean</B> Championship",
+        "2008 <B>Caribbean</B> Championships",
+        "2008 <B>Caribbean</B> Nations Cup",
+        "2008 Digicel <B>Caribbean</B> Championships",
+        "<B>Caribbean</B> Championship 2008",
+        "<B>Caribbean</B> Championships 2008",
+        "<B>Caribbean</B> Nations Cup 2008",
+        "<B>Caribbean</B> cup 2008"
+      ],
+      "typeName": [
+        "Event",
+        "SoccerTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The 2008 <B>Caribbean</B> Cup (known as the Digicel <B>Caribbean</B> Cup for sponsorship reasons) is the 2008"
+      ],
+      "label": [
+        "2008 <B>Caribbean</B> Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Caribbean_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SoccerTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007–08_in_Caribbean_football",
+        "http://dbpedia.org/resource/Category:2007–08_in_Jamaican_football",
+        "http://dbpedia.org/resource/Category:2008_Caribbean_Cup",
+        "http://dbpedia.org/resource/Category:Caribbean_Cup",
+        "http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Jamaica"
+      ]
+    },
+    {
+      "score": [
+        "1977.0693"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Caribbean_music_genres"
+      ],
+      "redirectlabel": [
+        "Calypso song complex",
+        "<B>Caribbean</B> Music",
+        "<B>Caribbean</B> music",
+        "<B>Carribean</B> music",
+        "List of calypso-like genres",
+        "Music of the Anglophone <B>Caribbean</B>",
+        "Music of the <B>Caribbean</B>"
+      ],
+      "comment": [
+        "<B>Caribbean</B> music genres are diverse. They are each syntheses of African, European, Indian and"
+      ],
+      "label": [
+        "List of <B>Caribbean</B> music genres"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Caribbean_music_genres"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_music",
+        "http://dbpedia.org/resource/Category:Latin_American_music",
+        "http://dbpedia.org/resource/Category:Lists_of_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "1933.9844"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_On_Stranger_Tides"
+      ],
+      "redirectlabel": [
+        "POTC4",
+        "POTC:OST",
+        "POTC 4",
+        "Pirates 4",
+        "Pirates Of The <B>Caribbean</B>: On Stranger Tides",
+        "Pirates of the <B>Caribbean:On</B> Stranger Tides",
+        "Pirates of the <B>Caribbean</B>: Fountain of Youth",
+        "Pirates of the <B>Caribbean</B>: The Fountain of Youth",
+        "Pirates of the <B>Caribbean</B> 4: On Stranger Tides",
+        "Pirates of the <B>Caribbean</B> 4",
+        "Pirates of the <B>Caribbean</B> Four",
+        "Pirates of the <B>Caribbean</B> IV",
+        "Pirates of the <B>Carribean</B>: On Stranger Tides",
+        "Pirates of the <B>Carribean</B> 4",
+        "Pirates of the <B>caribbean</B> 4"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B>: On Stranger Tides (released in France as Pirates of the <B>Caribbean</B>: The"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>: On Stranger Tides"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_On_Stranger_Tides"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_American_films",
+        "http://dbpedia.org/resource/Category:2010s_English-language_films",
+        "http://dbpedia.org/resource/Category:2010s_action_adventure_films",
+        "http://dbpedia.org/resource/Category:2010s_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:2010s_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:2011_3D_films",
+        "http://dbpedia.org/resource/Category:2011_action_films",
+        "http://dbpedia.org/resource/Category:2011_films",
+        "http://dbpedia.org/resource/Category:American_action_adventure_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:American_films_about_revenge",
+        "http://dbpedia.org/resource/Category:American_sequel_films",
+        "http://dbpedia.org/resource/Category:American_zombie_films",
+        "http://dbpedia.org/resource/Category:Films_about_Voodoo",
+        "http://dbpedia.org/resource/Category:Films_about_mermaids",
+        "http://dbpedia.org/resource/Category:Films_based_on_American_novels",
+        "http://dbpedia.org/resource/Category:Films_based_on_multiple_works",
+        "http://dbpedia.org/resource/Category:Films_directed_by_Rob_Marshall",
+        "http://dbpedia.org/resource/Category:Films_produced_by_Jerry_Bruckheimer",
+        "http://dbpedia.org/resource/Category:Films_scored_by_Hans_Zimmer",
+        "http://dbpedia.org/resource/Category:Films_set_in_London",
+        "http://dbpedia.org/resource/Category:Films_set_in_Spain",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_1750s",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_18th_century",
+        "http://dbpedia.org/resource/Category:Films_set_on_ships",
+        "http://dbpedia.org/resource/Category:Films_shot_at_Pinewood_Studios",
+        "http://dbpedia.org/resource/Category:Films_shot_in_California",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Hawaii",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Ted_Elliott",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Terry_Rossio",
+        "http://dbpedia.org/resource/Category:IMAX_films",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)_films",
+        "http://dbpedia.org/resource/Category:Treasure_hunt_films",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Pictures_films"
+      ]
+    },
+    {
+      "score": [
+        "1923.0829"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_people"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> (ethnicity)",
+        "<B>Caribbean</B> people (ethnicity)",
+        "<B>Caribbeans</B>",
+        "People in the <B>Caribbean</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Caribbeane</B> are the people born in or inhabitants <B>Caribbean</B> region or people of <B>Caribbean</B> descent"
+      ],
+      "label": [
+        "<B>Caribbean</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_diaspora",
+        "http://dbpedia.org/resource/Category:Caribbean_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1917.9023"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/West_Caribbean_Airways"
+      ],
+      "redirectlabel": [
+        "WEST <B>CARIBBEAN</B> AIRWAYS S.A.",
+        "Wca.com.co",
+        "West <B>Caribbean</B>",
+        "West <B>Caribbean</B> AW",
+        "West <B>Caribbean</B> Airways S.A.",
+        "West <B>Caribbean</B> Airways plane crash",
+        "West <B>Carribean</B> Airways",
+        "West <B>Carribean</B> Airways plane crash"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "West <B>Caribbean</B> Airways S.A. (WCA) was a commercial airline founded in 1998 with its headquarters on"
+      ],
+      "label": [
+        "West <B>Caribbean</B> Airways"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/West_Caribbean_Airways"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Airlines_disestablished_in_2005",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1998",
+        "http://dbpedia.org/resource/Category:Defunct_airlines_of_Colombia"
+      ]
+    },
+    {
+      "score": [
+        "1915.9156"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Languages_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "Anglophone <B>Caribbean</B>",
+        "<B>Caribbean</B> Languages",
+        "<B>Caribbean</B> languages",
+        "Spoken languages of the <B>Caribbean</B>"
+      ],
+      "comment": [
+        "The languages of the <B>Caribbean</B> reflect the region's diverse history and culture. There are six"
+      ],
+      "label": [
+        "Languages of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Languages_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Languages_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1911.7408"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_sculptured_sea_catfish"
+      ],
+      "redirectlabel": [
+        "Arius neogranatensis",
+        "<B>Caribbean</B> Sculptured Sea Catfish",
+        "<B>Caribbean</B> Sculptured Sea catfish",
+        "<B>Caribbean</B> Sculptured sea Catfish",
+        "<B>Caribbean</B> Sculptured sea catfish",
+        "<B>Caribbean</B> sculptured Sea Catfish",
+        "<B>Caribbean</B> sculptured Sea catfish",
+        "<B>Caribbean</B> sculptured sea Catfish",
+        "Notarius neogranatensis"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> sculptured sea catfish (Notarius neogranatensis) is a species of catfish in the"
+      ],
+      "label": [
+        "<B>Caribbean</B> sculptured sea catfish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_sculptured_sea_catfish"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ariidae",
+        "http://dbpedia.org/resource/Category:Fish_described_in_2002"
+      ]
+    },
+    {
+      "score": [
+        "1910.4874"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/North_Caribbean_Coast_Autonomous_Region"
+      ],
+      "redirectlabel": [
+        "Atlántico Norte (autonomous region)",
+        "North Atlantic Autonomous Region",
+        "North <B>Caribbean</B> Autonomous Region",
+        "North <B>Caribbean</B> Coast Autonomous Regional Council",
+        "R.A.A.N",
+        "RACCN",
+        "RACN",
+        "Region Autonoma Atlantico Norte, Nicaragua",
+        "Region Autonoma del Atlantico Norte",
+        "Región Autónoma de la Costa Caribe Norte",
+        "Región Autónoma del Atlántico Norte"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "The North <B>Caribbean</B> Coast Autonomous Region (Spanish: Región Autónoma de la Costa Caribe Norte"
+      ],
+      "label": [
+        "North <B>Caribbean</B> Coast Autonomous Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/North_Caribbean_Coast_Autonomous_Region"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Autonomous_regions_of_Nicaragua",
+        "http://dbpedia.org/resource/Category:North_Caribbean_Coast_Autonomous_Region"
+      ]
+    },
+    {
+      "score": [
+        "1898.7764"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Caribbean_music"
+      ],
+      "redirectlabel": [
+        "African-<B>Caribbean</B> music",
+        "Afro-<B>Carribean</B> music"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Afro-<B>Caribbean</B> music is a broad term for music styles originating in the <B>Caribbean</B> from the African"
+      ],
+      "label": [
+        "Afro-<B>Caribbean</B> music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Caribbean_music"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Caribbean_culture",
+        "http://dbpedia.org/resource/Category:Afro-Caribbean_music",
+        "http://dbpedia.org/resource/Category:Caribbean_music"
+      ]
+    },
+    {
+      "score": [
+        "1894.2888"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales"
+      ],
+      "redirectlabel": [
+        "Chiquita (Monkey)",
+        "Dead Men Tell No Tales (2017 film)",
+        "Giles New",
+        "POTC:DMTNT",
+        "POTC 5",
+        "Pirates 5",
+        "Pirates of the <B>Caribbean:Salazar's</B> Revenge",
+        "Pirates of the <B>Caribbean</B>: Salazar's Revenge",
+        "Pirates of the <B>Caribbean</B> 5: Dead Men Tell No Tales",
+        "Pirates of the <B>Caribbean</B> 5: Salazar's Revenge",
+        "Pirates of the <B>Caribbean</B> 5",
+        "Pirates of the <B>Caribbean</B> 5 (2013 film)",
+        "Pirates of the <B>Caribbean</B> Dead Men Tell No Tales",
+        "Pirates of the <B>Caribbean</B> V",
+        "Pirates of the <B>Carribean</B> 5",
+        "Salazar's Revenge",
+        "Salazar's revenge",
+        "Silent Mary"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B>: Dead Men Tell No Tales (released in some countries as Pirates of the"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>: Dead Men Tell No Tales"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_American_films",
+        "http://dbpedia.org/resource/Category:2010s_English-language_films",
+        "http://dbpedia.org/resource/Category:2010s_action_adventure_films",
+        "http://dbpedia.org/resource/Category:2010s_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:2010s_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:4DX_films",
+        "http://dbpedia.org/resource/Category:American_action_adventure_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:American_films_about_revenge",
+        "http://dbpedia.org/resource/Category:American_ghost_films",
+        "http://dbpedia.org/resource/Category:American_sequel_films",
+        "http://dbpedia.org/resource/Category:Films_about_witchcraft",
+        "http://dbpedia.org/resource/Category:Films_directed_by_Espen_Sandberg",
+        "http://dbpedia.org/resource/Category:Films_directed_by_Joachim_Rønning",
+        "http://dbpedia.org/resource/Category:Films_produced_by_Jerry_Bruckheimer",
+        "http://dbpedia.org/resource/Category:Films_scored_by_Geoff_Zanelli",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_1750s",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Films_set_on_fictional_islands",
+        "http://dbpedia.org/resource/Category:Films_set_on_ships",
+        "http://dbpedia.org/resource/Category:Films_shot_at_Village_Roadshow_Studios",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Queensland",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Vancouver",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Jeff_Nathanson",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Terry_Rossio",
+        "http://dbpedia.org/resource/Category:Flying_Dutchman",
+        "http://dbpedia.org/resource/Category:IMAX_films",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)_films",
+        "http://dbpedia.org/resource/Category:ScreenX_films",
+        "http://dbpedia.org/resource/Category:Treasure_hunt_films",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Pictures_films"
+      ]
+    },
+    {
+      "score": [
+        "1882.9574"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1949_Caribbean_Series"
+      ],
+      "redirectlabel": [
+        "1949 <B>Caribbean</B> Baseball World Series",
+        "1949 Serie del Caribe",
+        "<B>Caribbean</B> Series, 1949",
+        "<B>Caribbean</B> Series (1949)",
+        "<B>Caribbean</B> Series 1949",
+        "<B>Caribbean</B> Series of 1949",
+        "Serie del Caribe, 1949",
+        "Serie del Caribe (1949)",
+        "Serie del Caribe 1949",
+        "Serie del Caribe of 1949"
+      ],
+      "comment": [
+        "The first edition of the <B>Caribbean</B> Series (Serie del Caribe) was played in 1949. It was held from"
+      ],
+      "label": [
+        "1949 <B>Caribbean</B> Series"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1949_Caribbean_Series"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_in_Caribbean_sport",
+        "http://dbpedia.org/resource/Category:1949_in_baseball",
+        "http://dbpedia.org/resource/Category:Caribbean_Series",
+        "http://dbpedia.org/resource/Category:International_baseball_competitions_hosted_by_Cuba",
+        "http://dbpedia.org/resource/Category:Sport_in_Havana"
+      ]
+    },
+    {
+      "score": [
+        "1877.615"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"
+      ],
+      "redirectlabel": [
+        "Abandon Ship or Abandon All Hope",
+        "Aztec treasure of cortez",
+        "Curse of the Black Pearl",
+        "Curse of the black pearl",
+        "POTC1",
+        "POTC:TCOBTP",
+        "Pirates 1",
+        "Pirates Of The <B>Carribean</B> (film)",
+        "Pirates of the <B>Caribbean</B>: Curse of the Black Pearl",
+        "Pirates of the <B>Caribbean</B>: The Curse of the Black Pearl (DVD)",
+        "Pirates of the <B>Caribbean</B>: The Curse of the Black Pearl DVD",
+        "Pirates of the <B>Caribbean</B>: the Curse of the Black Pearl",
+        "Pirates of the <B>Caribbean</B> (film)",
+        "Pirates of the <B>Caribbean</B> (movie)",
+        "Pirates of the <B>Caribbean</B> 1: The Curse of the Black Pearl",
+        "Pirates of the <B>Caribbean</B> 1",
+        "Pirates of the <B>Caribbean</B> I",
+        "Pirates of the <B>Carribbean</B>: Curse of the Black Pearl",
+        "Pirates of the <B>Carribean</B>: The Curse of the Black Pearl",
+        "Pirates of the <B>Carribean</B> 1",
+        "The Curse of the Black Pearl"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B>: The Curse of the Black Pearl is a 2003 American fantasy swashbuckler film"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B>: The Curse of the Black Pearl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_American_films",
+        "http://dbpedia.org/resource/Category:2000s_English-language_films",
+        "http://dbpedia.org/resource/Category:2000s_action_adventure_films",
+        "http://dbpedia.org/resource/Category:2000s_adventure_comedy_films",
+        "http://dbpedia.org/resource/Category:2000s_fantasy_action_films",
+        "http://dbpedia.org/resource/Category:2000s_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:2003_action_films",
+        "http://dbpedia.org/resource/Category:2003_comedy_films",
+        "http://dbpedia.org/resource/Category:2003_fantasy_films",
+        "http://dbpedia.org/resource/Category:2003_films",
+        "http://dbpedia.org/resource/Category:American_action_adventure_films",
+        "http://dbpedia.org/resource/Category:American_adventure_comedy_films",
+        "http://dbpedia.org/resource/Category:American_fantasy_adventure_films",
+        "http://dbpedia.org/resource/Category:BAFTA_winners_(films)",
+        "http://dbpedia.org/resource/Category:Films_about_curses",
+        "http://dbpedia.org/resource/Category:Films_about_undead",
+        "http://dbpedia.org/resource/Category:Films_directed_by_Gore_Verbinski",
+        "http://dbpedia.org/resource/Category:Films_produced_by_Jerry_Bruckheimer",
+        "http://dbpedia.org/resource/Category:Films_scored_by_Klaus_Badelt",
+        "http://dbpedia.org/resource/Category:Films_set_in_Jamaica",
+        "http://dbpedia.org/resource/Category:Films_set_in_the_1720s",
+        "http://dbpedia.org/resource/Category:Films_set_on_ships",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Los_Angeles_County,_California",
+        "http://dbpedia.org/resource/Category:Films_shot_in_Saint_Vincent_and_the_Grenadines",
+        "http://dbpedia.org/resource/Category:Films_using_motion_capture",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Stuart_Beattie",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Ted_Elliott",
+        "http://dbpedia.org/resource/Category:Films_with_screenplays_by_Terry_Rossio",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)_films",
+        "http://dbpedia.org/resource/Category:Treasure_hunt_films",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Pictures_films"
+      ]
+    },
+    {
+      "score": [
+        "1855.8423"
+      ],
+      "refCount": [
+        "64"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/English-based_creole_languages"
+      ],
+      "redirectlabel": [
+        "Creole English",
+        "Creoles and pidgins, English‑based",
+        "English-based creole",
+        "English-based creole language",
+        "English-based creoles",
+        "English-based creoles and pidgins language",
+        "English Creole",
+        "English based Creoles",
+        "English creole",
+        "English creoles",
+        "ISO 639:cpe",
+        "Lesser Antillean Creole English",
+        "Lesser Antillean Creole English language",
+        "Proto-Pidgin-English",
+        "Proto-Pidgin English",
+        "Western <B>Caribbean</B> Creole",
+        "Western <B>Caribbean</B> Creole English",
+        "Western <B>Caribbean</B> Creole English language",
+        "Western <B>Caribbean</B> Creole language",
+        "Western <B>Caribbean</B> creole language"
+      ],
+      "label": [
+        "English-based creole languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/English-based_creole_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:English-based_pidgins_and_creoles"
+      ]
+    },
+    {
+      "score": [
+        "1849.8074"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Urolophidae"
+      ],
+      "redirectlabel": [
+        "Spotted <B>Caribbean</B> stingray",
+        "Urolophid"
+      ],
+      "typeName": [
+        "Species",
+        "Animal",
+        "Eukaryote",
+        "Fish"
+      ],
+      "comment": [
+        "The Urolophidae are a family of rays in the order Myliobatiformes, commonly known as stingarees or round stingrays. This family formerly included the genera Urobatis and Urotrygon of the Americas, which are presently recognized as forming their own family Urotrygonidae. Stingarees are found in the Indo-Pacific region, with the greatest diversity off Australia. They are sluggish, bottom-dwelling fish that have been recorded from shallow waters close to shore to deep waters over the upper continental slope. Measuring between 15 and 80 cm (5.9 and 31.5 in) long, these rays have oval to diamond-shaped pectoral fin discs and relatively short tails that terminate in leaf-shaped caudal fins, and may also have small dorsal fins and lateral skin folds. Most are smooth-skinned, and some have ornate "
+      ],
+      "label": [
+        "Urolophidae"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Urolophidae"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Animal",
+        "http://dbpedia.org/ontology/Eukaryote",
+        "http://dbpedia.org/ontology/Fish"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ray_families",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Friedrich_Gustav_Jakob_Henle",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Johannes_Peter_Müller",
+        "http://dbpedia.org/resource/Category:Urolophidae"
+      ]
+    },
+    {
+      "score": [
+        "1818.3483"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Spanish"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Castilian",
+        "Espanol caribeno",
+        "Español caribeño"
+      ],
+      "comment": [
+        "<B>Caribbean</B> Spanish (Spanish: español caribeño) is the general name of the Spanish dialects spoken in"
+      ],
+      "label": [
+        "<B>Caribbean</B> Spanish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Spanish"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_Spanish",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Spanish-Caribbean_culture",
+        "http://dbpedia.org/resource/Category:Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:Spanish_dialects_of_North_America"
+      ]
+    },
+    {
+      "score": [
+        "1808.1371"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Examinations_Council"
+      ],
+      "redirectlabel": [
+        "CXC",
+        "<B>Caribbean</B> Advanced Proficiency Examination",
+        "<B>Caribbean</B> Advanced Proficiency Examinations",
+        "<B>Caribbean</B> Examination Council",
+        "<B>Caribbean</B> Secondary Education Certificate",
+        "<B>Caribbean</B> Secondary Education Certification",
+        "CxC"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Examinations Council (CXC) is an examination board in the <B>Caribbean</B>. It was"
+      ],
+      "label": [
+        "<B>Caribbean</B> Examinations Council"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Examinations_Council"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_Community",
+        "http://dbpedia.org/resource/Category:Education_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Educational_qualifications_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Institutions_of_the_Caribbean_Community",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:School_examinations",
+        "http://dbpedia.org/resource/Category:School_qualifications"
+      ]
+    },
+    {
+      "score": [
+        "1774.4493"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Gardens"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Gardens Market",
+        "<B>Caribbean</B> Lake",
+        "<B>Caribbean</B> Park",
+        "<B>Caribbean</B> Park Market",
+        "<B>Caribbean</B> gardens"
+      ],
+      "comment": [
+        "<B>Caribbean</B> Gardens is a 100 acres (0.40 km2) market and gardens located in the outer eastern suburb"
+      ],
+      "label": [
+        "<B>Caribbean</B> Gardens"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Gardens"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1965_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:2020_disestablishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Amusement_parks_in_Victoria_(Australia)",
+        "http://dbpedia.org/resource/Category:City_of_Knox",
+        "http://dbpedia.org/resource/Category:Retail_markets_in_Melbourne"
+      ]
+    },
+    {
+      "score": [
+        "1763.6465"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Commonwealth_Caribbean"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Caribbean</B>",
+        "Anglo-<B>Caribbeans</B>",
+        "Anglophone <B>Caribbeans</B>",
+        "<B>Caribbean</B>, English-speaking",
+        "English-speaking <B>Caribbean</B>"
+      ],
+      "comment": [
+        "Commonwealth <B>Caribbean</B> is a term used to refer to the English-speaking nations and territories of"
+      ],
+      "label": [
+        "Commonwealth <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Commonwealth_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_West_Indies",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1758.7815"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_locations_in_Pirates_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "Davy Jones' Locker (Pirates of the <B>Caribbean</B>)",
+        "Davy Jones's Locker (Pirates of the <B>Caribbean</B>)",
+        "Davy Jones’s Locker (Pirates of the <B>Caribbean</B>)",
+        "Geography of Pirates of the <B>Caribbean</B>",
+        "Geography of pirates of the <B>caribbean</B>",
+        "Isla Cruces",
+        "Isla de Muerta",
+        "Isla de Muerta (Pirates of the <B>Caribbean</B>)",
+        "Locations in Pirates of the <B>Caribbean</B>",
+        "Pelegosto",
+        "Shipwreck Cove",
+        "Tortuga (Pirates of the <B>Caribbean</B>)"
+      ],
+      "comment": [
+        "This is a list of islands and other locations in the Pirates of the <B>Caribbean</B> film series."
+      ],
+      "label": [
+        "List of locations in Pirates of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_locations_in_Pirates_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Disney-related_lists",
+        "http://dbpedia.org/resource/Category:Fictional_islands",
+        "http://dbpedia.org/resource/Category:Fictional_locations_by_series",
+        "http://dbpedia.org/resource/Category:Fictional_places_in_Disney_films",
+        "http://dbpedia.org/resource/Category:Lists_of_fictional_locations",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean_(film_series)"
+      ]
+    },
+    {
+      "score": [
+        "1753.4423"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_hermit_crab"
+      ],
+      "redirectlabel": [
+        "C. clypeatus",
+        "<B>Caribbean</B> Hermit Crab",
+        "<B>Caribbean</B> hermit crabs",
+        "<B>Caribean</B> hermit crab",
+        "Coenobita clypeatus",
+        "Purple Pincher",
+        "Purple pincer",
+        "Purple pincher",
+        "Tree-climbing crab",
+        "Tree crab"
+      ],
+      "typeName": [
+        "Species",
+        "Animal",
+        "Eukaryote",
+        "Crustacean"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> hermit crab (Coenobita clypeatus), also known as the soldier crab, West Atlantic crab"
+      ],
+      "label": [
+        "<B>Caribbean</B> hermit crab"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_hermit_crab"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Animal",
+        "http://dbpedia.org/ontology/Eukaryote",
+        "http://dbpedia.org/ontology/Crustacean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arthropods_of_the_Dominican_Republic",
+        "http://dbpedia.org/resource/Category:Crustaceans_described_in_1787",
+        "http://dbpedia.org/resource/Category:Fauna_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Hermit_crabs",
+        "http://dbpedia.org/resource/Category:Terrestrial_crustaceans"
+      ]
+    },
+    {
+      "score": [
+        "1715.8215"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Cup"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Championship",
+        "<B>Caribbean</B> Nations Cup",
+        "Copa Caribe",
+        "Digicel <B>Caribbean</B> Cup",
+        "Shell <B>Caribbean</B> Cup"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Cup was the championship tournament for national association football teams that are"
+      ],
+      "label": [
+        "<B>Caribbean</B> Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Cup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:2017_disestablishments_in_North_America",
+        "http://dbpedia.org/resource/Category:CONCACAF_Gold_Cup_qualification",
+        "http://dbpedia.org/resource/Category:Caribbean_Cup",
+        "http://dbpedia.org/resource/Category:Defunct_international_association_football_competitions_in_North_America",
+        "http://dbpedia.org/resource/Category:International_association_football_competitions_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Recurring_events_disestablished_in_2017",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1989"
+      ]
+    },
+    {
+      "score": [
+        "1709.9108"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Piracy_in_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> pirate",
+        "Piracy in the <B>Caribbean</B> Sea"
+      ],
+      "comment": [
+        "The era of piracy in the <B>Caribbean</B> began in the 1500s and phased out in the 1830s after the navies"
+      ],
+      "label": [
+        "Piracy in the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Piracy_in_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economic_history_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Maritime_folklore",
+        "http://dbpedia.org/resource/Category:New_Spain",
+        "http://dbpedia.org/resource/Category:Piracy_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Spanish_West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "1703.8859"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/West_Indian_Americans"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Caribbean</B> American",
+        "Afro-<B>Caribbean</B> Americans",
+        "Afro-<B>Carribean</B> American",
+        "American African <B>Caribbean</B> Community",
+        "American Afro-<B>Caribbean</B> Community",
+        "American Afro <B>Caribbean</B> Community",
+        "Aruban American",
+        "Brazilian and <B>Caribbean</B> American",
+        "<B>Caribbean</B>-American",
+        "<B>Caribbean</B> American",
+        "<B>Caribbean</B> Americans",
+        "List of <B>Caribbean</B> Americans",
+        "West Indian American"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "West Indian Americans or <B>Caribbean</B> Americans are Americans who can trace their recent ancestry to"
+      ],
+      "label": [
+        "West Indian Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/West_Indian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_West_Indian_descent",
+        "http://dbpedia.org/resource/Category:Caribbean_American",
+        "http://dbpedia.org/resource/Category:Caribbean_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Multiracial_ethnic_groups_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1700.9022"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/West_Caribbean_Airways_Flight_708"
+      ],
+      "redirectlabel": [
+        "Flight WCW 708",
+        "HK-4374X",
+        "Venezuela West <B>Caribbean</B> Airways MD-80 air disaster",
+        "WCA Flight 708",
+        "WCW708",
+        "WCW 708",
+        "West <B>Caribbean</B> Airways 708",
+        "West <B>Caribbean</B> Airways Flight 708 air disaster",
+        "West <B>Caribbean</B> Airways plane crash 16 August 2005",
+        "West <B>caribbean</B> 708"
+      ],
+      "comment": [
+        "West <B>Caribbean</B> Airways Flight 708 was a West <B>Caribbean</B> Airways charter flight which crashed in a"
+      ],
+      "label": [
+        "West <B>Caribbean</B> Airways Flight 708"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/West_Caribbean_Airways_Flight_708"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_in_Venezuela",
+        "http://dbpedia.org/resource/Category:2005_meteorology",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_McDonnell_Douglas_MD-82",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_pilot_error",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_stalls",
+        "http://dbpedia.org/resource/Category:August_2005_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2005",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Venezuela",
+        "http://dbpedia.org/resource/Category:Colombia–Venezuela_relations"
+      ]
+    },
+    {
+      "score": [
+        "1694.1392"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_stud_poker"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Stud",
+        "<B>Caribbean</B> Stud Poker",
+        "<B>Caribbean</B> poker",
+        "<B>Caribbean</B> stud",
+        "<B>Carribean</B> stud poker"
+      ],
+      "comment": [
+        "<B>Caribbean</B> stud poker, also called casino stud poker, is a casino table game with rules derived from"
+      ],
+      "label": [
+        "<B>Caribbean</B> stud poker"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_stud_poker"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Card_games_introduced_in_1982",
+        "http://dbpedia.org/resource/Category:Gambling_games",
+        "http://dbpedia.org/resource/Category:Stud_poker"
+      ]
+    },
+    {
+      "score": [
+        "1690.666"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/South_Caribbean_Coast_Autonomous_Region"
+      ],
+      "redirectlabel": [
+        "Atlántico Sur (autonomous region)",
+        "RACCS",
+        "Region Autonoma Atlantico Sur, Nicaragua",
+        "Region Autonoma del Atlantico Sur",
+        "Region Autónoma del Atlantico Sur",
+        "Región Autónoma de la Costa Caribe Sur",
+        "Región Autónoma del Atlántico Sur",
+        "South Atlantic Autonomous Region",
+        "South <B>Caribbean</B> Autonomous Region",
+        "Southern Atlantic Autonomous Region"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "The South <B>Caribbean</B> Coast Autonomous Region (Spanish: Región Autónoma de la Costa Caribe Sur"
+      ],
+      "label": [
+        "South <B>Caribbean</B> Coast Autonomous Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/South_Caribbean_Coast_Autonomous_Region"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Departments_of_Nicaragua",
+        "http://dbpedia.org/resource/Category:South_Caribbean_Coast_Autonomous_Region"
+      ]
+    },
+    {
+      "score": [
+        "1681.2992"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_University"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Junior College",
+        "<B>Caribbean</B> University College"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Caribbean</B> University is a private university system in Puerto Rico composed of four campuses."
+      ],
+      "label": [
+        "<B>Caribbean</B> University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1969_establishments_in_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Bayamón,_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Carolina,_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1969",
+        "http://dbpedia.org/resource/Category:Liga_Atletica_Interuniversitaria_de_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Ponce,_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:Vega_Baja,_Puerto_Rico"
+      ]
+    },
+    {
+      "score": [
+        "1653.3679"
+      ],
+      "refCount": [
+        "65"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Zouk"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Zouk",
+        "Zouk-Love",
+        "Zouk-love",
+        "Zouk (musical movement)",
+        "Zouk Love",
+        "Zouk beton",
+        "Zouk love",
+        "Zouklove"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Zouk is a music move originating from the <B>Caribbean</B> islands of Guadeloupe and Martinique"
+      ],
+      "label": [
+        "Zouk"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Zouk"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_music_genres",
+        "http://dbpedia.org/resource/Category:Dominica_music",
+        "http://dbpedia.org/resource/Category:Guadeloupean_music",
+        "http://dbpedia.org/resource/Category:Haitian_music",
+        "http://dbpedia.org/resource/Category:Lesser_Antillean_music",
+        "http://dbpedia.org/resource/Category:Martinican_music",
+        "http://dbpedia.org/resource/Category:Zouk"
+      ]
+    },
+    {
+      "score": [
+        "1644.1542"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_large_igneous_province"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B>-Colombian Plateau",
+        "<B>Caribbean</B>-Colombian oceanic plateau",
+        "<B>Caribbean</B> Large Igneous Province",
+        "<B>Caribbean</B>–Colombian Plateau",
+        "<B>Caribbean</B>–Colombian oceanic plateau",
+        "Madagascar and <B>Caribbean</B> Provinces"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> large igneous province (CLIP) consists of a major flood basalt, which created this"
+      ],
+      "label": [
+        "<B>Caribbean</B> large igneous province"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_large_igneous_province"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cretaceous_System",
+        "http://dbpedia.org/resource/Category:Cretaceous_volcanism",
+        "http://dbpedia.org/resource/Category:Geology_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Large_igneous_provinces"
+      ]
+    },
+    {
+      "score": [
+        "1640.6353"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Series"
+      ],
+      "redirectlabel": [
+        "1981 <B>Caribbean</B> Baseball World Series",
+        "1981 <B>Caribbean</B> Series",
+        "<B>Caribbean</B> Baseball World Series",
+        "<B>Caribbean</B> World Series",
+        "Serie del Caribe"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsLeague",
+        "BaseballLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Series (Spanish: Serie del Caribe), also called <B>Caribbean</B> World Series, is the"
+      ],
+      "label": [
+        "<B>Caribbean</B> Series"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Series"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/BaseballLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Baseball_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Caribbean_Series",
+        "http://dbpedia.org/resource/Category:International_baseball_competitions",
+        "http://dbpedia.org/resource/Category:International_sports_competitions_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1949"
+      ]
+    },
+    {
+      "score": [
+        "1631.6245"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Canada–Caribbean_relations"
+      ],
+      "redirectlabel": [
+        "Canada-<B>Caribbean</B> relations",
+        "Canadian-<B>Caribbean</B> relations",
+        "<B>Caribbean</B>-Canada relations",
+        "<B>Caribbean</B>-Canadian relations"
+      ],
+      "comment": [
+        "Canada–<B>Caribbean</B> relations are the long established relationships between Canada and the many"
+      ],
+      "label": [
+        "Canada–<B>Caribbean</B> relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Canada–Caribbean_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Canada",
+        "http://dbpedia.org/resource/Category:Canada–Caribbean_relations"
+      ]
+    },
+    {
+      "score": [
+        "1627.7095"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_television_stations_in_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "A1 Guadeloupe",
+        "List of <B>Caribbean</B> television channels",
+        "List of <B>Caribbean</B> television stations",
+        "List of television channels in the <B>Caribbean</B>",
+        "List of television stations in Anguilla",
+        "List of television stations in Antigua and Barbuda",
+        "List of television stations in Aruba",
+        "List of television stations in Barbados",
+        "List of television stations in Dominica",
+        "List of television stations in Grenada",
+        "List of television stations in Guadeloupe",
+        "List of television stations in Haiti",
+        "List of television stations in Jamaica",
+        "List of television stations in Martinique",
+        "List of television stations in Montserrat",
+        "List of television stations in Saint Kitts and Nevis",
+        "List of television stations in Saint Lucia",
+        "List of television stations in Saint Martin (France)",
+        "List of television stations in Saint Vincent and the Grenadines",
+        "List of television stations in the British Virgin Islands",
+        "List of television stations in the Cayman Islands",
+        "List of television stations in the Dominican Republic",
+        "List of television stations in the Netherlands Antilles",
+        "List of television stations in the Turks and Caicos Islands",
+        "List of television stations in the United States Virgin Islands",
+        "List of the <B>Caribbean</B> television channels",
+        "Television in Barbados",
+        "Television in Jamaica",
+        "Television in jamaica"
+      ],
+      "comment": [
+        "This is a brief listing of television channels in the <B>Caribbean</B> region. Note: All channels"
+      ],
+      "label": [
+        "List of television stations in the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_television_stations_in_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean-related_lists",
+        "http://dbpedia.org/resource/Category:Communications_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Television_stations_in_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1580.5677"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Catholic_Church_in_the_Dutch_Caribbean"
+      ],
+      "redirectlabel": [
+        "Catholic Church in the <B>Caribbean</B> part of the Kingdom of the Netherlands",
+        "Roman Catholicism in Bonaire",
+        "Roman Catholicism in Curaçao",
+        "Roman Catholicism in Saba",
+        "Roman Catholicism in Saba (island)",
+        "Roman Catholicism in Sint Eustatius",
+        "Roman Catholicism in Sint Maarten",
+        "Roman Catholicism in the <B>Caribbean</B> Netherlands",
+        "Roman Catholicism in the <B>Caribbean</B> part of the Kingdom of the Netherlands",
+        "Roman Catholicism in the Kingdom of the Netherlands in the <B>Caribbean</B>",
+        "Roman Catholicism in the Netherlands Antilles",
+        "Roman Catholics in Aruba",
+        "Roman Catholics in Bonaire",
+        "Roman Catholics in Curaçao",
+        "Roman Catholics in the Kingdom of the Netherlands in the <B>Caribbean</B>"
+      ],
+      "comment": [
+        "The Roman Catholic Church in the <B>Caribbean</B> part of the Kingdom of the Netherlands is part of the"
+      ],
+      "label": [
+        "Catholic Church in the Dutch <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Catholic_Church_in_the_Dutch_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Catholic_Church_in_Aruba",
+        "http://dbpedia.org/resource/Category:Catholic_Church_in_Curaçao",
+        "http://dbpedia.org/resource/Category:Catholic_Church_in_the_Dutch_Caribbean",
+        "http://dbpedia.org/resource/Category:Religion_in_Aruba",
+        "http://dbpedia.org/resource/Category:Religion_in_Bonaire",
+        "http://dbpedia.org/resource/Category:Religion_in_Saba",
+        "http://dbpedia.org/resource/Category:Religion_in_Sint_Eustatius",
+        "http://dbpedia.org/resource/Category:Religion_in_Sint_Maarten"
+      ]
+    },
+    {
+      "score": [
+        "1576.1866"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "label": [
+        "Royal <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Caribbean"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Caribbean"
+      ],
+      "redirectlabel": [
+        "Royal <B>Caribbean</B> (disambiguation)",
+        "Royal <B>Carribbean</B>",
+        "Royal <B>Carribean</B>",
+        "Royal <B>caribbean</B>"
+      ]
+    },
+    {
+      "score": [
+        "1571.8428"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Ultras_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "List of Ultras in the <B>Caribbean</B>",
+        "List of the ultra-prominent summits of the <B>Caribbean</B>",
+        "List of ultras of the <B>Caribbean</B>",
+        "Ultra-prominent mountain peaks of the <B>Caribbean</B>",
+        "Ultra-prominent peaks of the <B>Caribbean</B>",
+        "Ultra-prominent summits of the <B>Caribbean</B>",
+        "Ultra prominent peaks of the <B>Caribbean</B>",
+        "Ultras of the <B>Caribbean</B>"
+      ],
+      "comment": [
+        " <B>Caribbean</B> Sea. Each of these peaks has at least 1500 meters (4921 feet) of topographic prominence. Five"
+      ],
+      "label": [
+        "List of Ultras of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Ultras_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean-related_lists",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Lists_of_mountains_by_prominence",
+        "http://dbpedia.org/resource/Category:Lists_of_mountains_of_North_America",
+        "http://dbpedia.org/resource/Category:Mountains_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1553.852"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Women_in_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> women",
+        "West Indian women",
+        "Women from the <B>Caribbean</B>",
+        "Women from the West Indies",
+        "Women in the <B>Carribean</B>",
+        "Women in the West Indies",
+        "Women of the <B>Caribbean</B>",
+        "Women of the West Indies"
+      ],
+      "comment": [
+        "Women in the <B>Caribbean</B> are women who were born in, who live in, or are from the region of the"
+      ],
+      "label": [
+        "Women in the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Women_in_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_women",
+        "http://dbpedia.org/resource/Category:North_American_women",
+        "http://dbpedia.org/resource/Category:Women_in_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1552.6971"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Telephone_numbers_in_Curaçao_and_the_Caribbean_Netherlands"
+      ],
+      "redirectlabel": [
+        "+599",
+        "+599 3",
+        "+599 4",
+        "+599 7",
+        "+599 9",
+        "Area Code+599",
+        "Area Code +599",
+        "Telephone numbers in Bonaire",
+        "Telephone numbers in Curacao, Sint Maarten and the <B>Caribbean</B> Netherlands",
+        "Telephone numbers in Curacao and the <B>Caribbean</B> Netherlands",
+        "Telephone numbers in Curaçao, Sint Maarten and the <B>Caribbean</B> Netherlands",
+        "Telephone numbers in Curaçao",
+        "Telephone numbers in Saba",
+        "Telephone numbers in Saba (island)",
+        "Telephone numbers in Saint Eustatius",
+        "Telephone numbers in Sint Eustatius",
+        "Telephone numbers in the <B>Caribbean</B> Netherlands",
+        "Telephone numbers in the Netherlands Antilles",
+        "Telephone numbers in the netherlands antilles"
+      ],
+      "comment": [
+        " Netherlands Antilles (dissolved in 2010), and is now in use by Curaçao and the <B>Caribbean</B> Netherlands (Bonaire"
+      ],
+      "label": [
+        "Telephone numbers in Curaçao and the <B>Caribbean</B> Netherlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Telephone_numbers_in_Curaçao_and_the_Caribbean_Netherlands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Communications_in_Curaçao",
+        "http://dbpedia.org/resource/Category:Communications_in_the_Dutch_Caribbean",
+        "http://dbpedia.org/resource/Category:Communications_in_the_Netherlands_Antilles",
+        "http://dbpedia.org/resource/Category:Netherlands_Antilles-related_lists",
+        "http://dbpedia.org/resource/Category:Telephone_numbers_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1538.2444"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dutch_Caribbean_Coast_Guard"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Coastguard",
+        "<B>Caribbean</B> Coastguard (Netherlands)",
+        "Coast Guard <B>Caribbean</B> (Netherlands)",
+        "Coast Guard of Aruba, Curaçao, Sint Maarten, and the BES islands",
+        "Coast Guard of Aruba, Curaçao, Sint Maarten and the BES islands",
+        "Coast Guard of the Netherlands Antilles and Aruba",
+        "Dutch navy in the <B>Caribbean</B>",
+        "Netherlands, Antilles and Aruba Coastguard",
+        "Netherlands Antilles & Aruba Coast Guard",
+        "Netherlands Antilles and Aruba Coast Guard"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Dutch <B>Caribbean</B> Coast Guard (DCCG) (Dutch: Kustwacht Caribisch Gebied (KWCARIB)) is the coast"
+      ],
+      "label": [
+        "Dutch <B>Caribbean</B> Coast Guard"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dutch_Caribbean_Coast_Guard"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Coast_guards",
+        "http://dbpedia.org/resource/Category:Disaster_preparedness_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Emergency_management_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Government_of_Aruba",
+        "http://dbpedia.org/resource/Category:Government_of_Bonaire",
+        "http://dbpedia.org/resource/Category:Government_of_Curaçao",
+        "http://dbpedia.org/resource/Category:Government_of_Saba_(island)",
+        "http://dbpedia.org/resource/Category:Government_of_Sint_Eustatius",
+        "http://dbpedia.org/resource/Category:Government_of_Sint_Maarten",
+        "http://dbpedia.org/resource/Category:Transport_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Transport_in_the_Dutch_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1516.9858"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Association_of_Caribbean_States"
+      ],
+      "redirectlabel": [
+        "Association of <B>Caribbean</B> States (ACS)",
+        "Association of <B>caribbean</B> states",
+        "<B>Carribean</B> Union",
+        "<B>Carribean</B> union",
+        "Convention establishing the Association of <B>Caribbean</B> States",
+        "The ACS"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Association of <B>Caribbean</B> States (ACS; Spanish: Asociación de Estados del Caribe; French"
+      ],
+      "label": [
+        "Association of <B>Caribbean</B> States"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Association_of_Caribbean_States"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_establishments_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1994_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:1994_establishments_in_South_America",
+        "http://dbpedia.org/resource/Category:Intergovernmental_organizations_established_by_treaty",
+        "http://dbpedia.org/resource/Category:International_diplomatic_organizations",
+        "http://dbpedia.org/resource/Category:International_organizations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1994",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:United_Nations_General_Assembly_observers"
+      ]
+    },
+    {
+      "score": [
+        "1512.9874"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_literature"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Literature",
+        "List of West Indian writers",
+        "West Indian literature",
+        "West Indian writers"
+      ],
+      "comment": [
+        "<B>Caribbean</B> literature is the term generally accepted for the literature of the various territories"
+      ],
+      "label": [
+        "<B>Caribbean</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_diaspora_literature",
+        "http://dbpedia.org/resource/Category:Caribbean_literature",
+        "http://dbpedia.org/resource/Category:North_American_literature"
+      ]
+    },
+    {
+      "score": [
+        "1506.9727"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dutch_Caribbean"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of the Netherlands Antilles",
+        "Aruba, Curaçao and Sint Maarten",
+        "CAS islands",
+        "Dutch West Indies",
+        "History of the Dutch <B>Caribbean</B>",
+        "Islads of the Netherlands Antilles",
+        "Islands of the Netherlands Antilles"
+      ],
+      "comment": [
+        "The Dutch <B>Caribbean</B> (historically known as the Dutch West Indies) are the territories, colonies"
+      ],
+      "label": [
+        "Dutch <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dutch_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dependent_territories_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Dutch_Caribbean",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Regions_of_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Netherlands"
+      ]
+    },
+    {
+      "score": [
+        "1488.6348"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Trans-Caribbean_pipeline"
+      ],
+      "redirectlabel": [
+        "Antonio Ricaurte Gas Pipeline",
+        "Colombia-Venezuela gas pipeline",
+        "Colombia-Venezuela natural gas pipeline",
+        "Colombia-Venezuela pipeline",
+        "Trans-<B>Caribbean</B> gas pipeline",
+        "Trans-<B>Caribean</B> pipeline",
+        "Transcaribbean gas pipeline",
+        "Transcaribbean pipeline",
+        "Transcaribean gas pipeline",
+        "Transcaribean pipeline",
+        "Transguajiro",
+        "Transoceanic Gas Pipeline"
+      ],
+      "comment": [
+        "The Trans-<B>Caribbean</B> gas pipeline (also known as the Antonio Ricaurte Gas Pipeline) is a natural gas"
+      ],
+      "label": [
+        "Trans-<B>Caribbean</B> pipeline"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Trans-Caribbean_pipeline"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chevron_Corporation",
+        "http://dbpedia.org/resource/Category:Colombia–Panama_relations",
+        "http://dbpedia.org/resource/Category:Colombia–Venezuela_relations",
+        "http://dbpedia.org/resource/Category:Energy_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Energy_infrastructure_completed_in_2007",
+        "http://dbpedia.org/resource/Category:Natural_gas_pipelines_in_Colombia",
+        "http://dbpedia.org/resource/Category:Natural_gas_pipelines_in_Nicaragua",
+        "http://dbpedia.org/resource/Category:Natural_gas_pipelines_in_Panama",
+        "http://dbpedia.org/resource/Category:Natural_gas_pipelines_in_Venezuela",
+        "http://dbpedia.org/resource/Category:Union_of_South_American_Nations"
+      ]
+    },
+    {
+      "score": [
+        "1474.6975"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British_West_Indies"
+      ],
+      "redirectlabel": [
+        "British Antilles",
+        "British <B>Caribbean</B>",
+        "British West India Islands",
+        "British West Indian",
+        "West Indies, British"
+      ],
+      "comment": [
+        " territories historically established in the Anglo-<B>Caribbean</B>: Anguilla, the Cayman Islands, Turks and"
+      ],
+      "label": [
+        "British West Indies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British_West_Indies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1674_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:1674_establishments_in_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Bahamas–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:British_West_Indies",
+        "http://dbpedia.org/resource/Category:Colonial_government_in_the_West_Indies",
+        "http://dbpedia.org/resource/Category:Former_British_colonies_and_protectorates_in_the_Americas",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_North_America",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Jamaica–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:West_Indies"
+      ]
+    },
+    {
+      "score": [
+        "1466.701"
+      ],
+      "refCount": [
+        "15328"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Netherlands"
+      ],
+      "redirectlabel": [
+        "Agriculture in the Netherlands",
+        "Dutchia",
+        "European Netherlands",
+        "Holland (country)",
+        "Mainland Netherlands",
+        "Metropolitan Netherlands",
+        "NETHERLANDS",
+        "Neatherlands",
+        "Nederland",
+        "Nederlandia",
+        "Nehterlands",
+        "Neterlands",
+        "Netherland",
+        "Netherlands, The",
+        "Netherlands (European territory)",
+        "Pays-Bas",
+        "Political culture of the Netherlands",
+        "The Netheralands",
+        "The Netherlands",
+        "The netherland",
+        "The netherlands"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " Northwestern Europe with some overseas territories in the <B>Caribbean</B>. In Europe, it consists of 12 provinces"
+      ],
+      "label": [
+        "Netherlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Netherlands"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Dutch-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Germanic_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Kingdom_of_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Netherlands",
+        "http://dbpedia.org/resource/Category:Northwestern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1815",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "1461.7063"
+      ],
+      "refCount": [
+        "1008"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/American_Revolutionary_War"
+      ],
+      "redirectlabel": [
+        "1776 War of Independence",
+        "Am Rev War",
+        "American Revolution, military history",
+        "American Revolution War",
+        "American Revolutionary War/Article from the 1911 Encyclopedia Part 1",
+        "American Revolutionary War/Article from the 1911 Encyclopedia Part 2",
+        "American Revolutionary War (1911 Encyclopedia, part 1)",
+        "American Revolutionary War (1911 Encyclopedia, part 2)",
+        "American Revolutionary war",
+        "American War for Independence",
+        "American War of Indepedence",
+        "American War of Independance",
+        "American War of Independece",
+        "American War of Independence",
+        "American War of Indpendence",
+        "American Wars of Independence",
+        "American rev war",
+        "American revolutionary war",
+        "American war of Independance",
+        "American war of Independence",
+        "American war of independence",
+        "British-American War (1776)",
+        "British–American War (1776)",
+        "<B>Caribbean</B> theater of the American Revolutionary War",
+        "Colonial rebellion",
+        "Liberation War of the United States of America",
+        "Revolutionary War (United States)",
+        "Revolutionary War of US",
+        "Revolutionary war 1775",
+        "The American Revolutionary War",
+        "U.S. Revolutionary War",
+        "U.S. War of Independence",
+        "US Revolutionary War",
+        "United Colonies Revolutionary War",
+        "United Colonies War of Indepedence",
+        "United States Revolutionary War",
+        "United States War of Independence",
+        "Us war of independence",
+        "War of American Independence",
+        "War of Independence in 1775",
+        "War of the American Independence",
+        "War of the American Revolution",
+        "War of the Revolution",
+        "Wars of the American Revolution"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The American Revolutionary War (1775–1783), also known as the American War of Independence, was fought primarily between the Kingdom of Great Britain and her Thirteen Colonies in America; it resulted in the overthrow of British rule in the colonies and the establishment of the United States of America."
+      ],
+      "label": [
+        "American Revolutionary War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/American_Revolutionary_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_Revolutionary_War",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1775",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1776",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1777",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1778",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1779",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1780",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1781",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1782",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1783",
+        "http://dbpedia.org/resource/Category:Global_conflicts",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Wars_between_the_United_Kingdom_and_the_United_States",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "1452.9125"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_reef_squid"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Reef Squid",
+        "Loligo sepiodea",
+        "Sepia officinalis jurujubai",
+        "Sepioteuthis accidentalis",
+        "Sepioteuthis biangutata",
+        "Sepioteuthis ehrhardti",
+        "Sepioteuthis ovata",
+        "Sepioteuthis sepiodea",
+        "Sepioteuthis sepioidea",
+        "Sepioteuthis sloani"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> reef squid (Sepioteuthis sepioidea), commonly called the reef squid, is a species of"
+      ],
+      "label": [
+        "<B>Caribbean</B> reef squid"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_reef_squid"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cephalopods_described_in_1823",
+        "http://dbpedia.org/resource/Category:Molluscs_of_the_Atlantic_Ocean",
+        "http://dbpedia.org/resource/Category:Squid",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Henri_Marie_Ducrotay_de_Blainville"
+      ]
+    },
+    {
+      "score": [
+        "1450.0685"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Legion"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> legion",
+        "<B>Caribean</B> Legion",
+        "<B>Carribean</B> Legion",
+        "Cayo Confites affair",
+        "Cayo Confites expedition"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Legion (Spanish: Legión del Caribe) is the name of a group of progressive Latin"
+      ],
+      "label": [
+        "<B>Caribbean</B> Legion"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Legion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Central_America",
+        "http://dbpedia.org/resource/Category:History_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Politics_of_Central_America",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1437.72"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_flagfin_blenny"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> Flagfin Blenny",
+        "<B>Caribbean</B> Flagfin blenny",
+        "<B>Caribbean</B> flagfin Blenny",
+        "Emblemariopsis carib"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> flagfin blenny (Emblemariopsis carib) is a species of chaenopsid blenny known from"
+      ],
+      "label": [
+        "<B>Caribbean</B> flagfin blenny"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_flagfin_blenny"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Emblemariopsis",
+        "http://dbpedia.org/resource/Category:Fish_described_in_2010"
+      ]
+    },
+    {
+      "score": [
+        "1425.8173"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/White_Caribbeans"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> whites",
+        "European <B>Caribbean</B>",
+        "European <B>Caribbeans</B>",
+        "White <B>Caribbean</B>"
+      ],
+      "comment": [
+        " citizenship in their respective <B>Caribbean</B> countries. White <B>Caribbeans</B> include: \n* White Bahamian"
+      ],
+      "label": [
+        "White <B>Caribbeans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/White_Caribbeans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:European_Caribbean",
+        "http://dbpedia.org/resource/Category:White_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1425.0496"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_pine"
+      ],
+      "redirectlabel": [
+        "Bahamas Pine",
+        "<B>Caribbean</B> Pine",
+        "Honduras Pine",
+        "Pinus <B>caribaea</B>",
+        "Pinus hondurensis"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> pine, Pinus <B>caribaea</B>, is a hard pine, native to Central America, Cuba, the Bahamas"
+      ],
+      "label": [
+        "<B>Caribbean</B> pine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_pine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Flora_of_the_Turks_and_Caicos_Islands",
+        "http://dbpedia.org/resource/Category:Least_concern_flora_of_North_America",
+        "http://dbpedia.org/resource/Category:Pinus",
+        "http://dbpedia.org/resource/Category:Pinus_taxa_by_common_names",
+        "http://dbpedia.org/resource/Category:Trees_of_Belize",
+        "http://dbpedia.org/resource/Category:Trees_of_Cuba",
+        "http://dbpedia.org/resource/Category:Trees_of_El_Salvador",
+        "http://dbpedia.org/resource/Category:Trees_of_Guatemala",
+        "http://dbpedia.org/resource/Category:Trees_of_Honduras",
+        "http://dbpedia.org/resource/Category:Trees_of_Nicaragua",
+        "http://dbpedia.org/resource/Category:Trees_of_Quintana_Roo",
+        "http://dbpedia.org/resource/Category:Trees_of_the_Bahamas"
+      ]
+    },
+    {
+      "score": [
+        "1420.6868"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Caribbeans"
+      ],
+      "redirectlabel": [
+        "History of the Indo-<B>Caribbeans</B>",
+        "Indians in the <B>Caribbean</B>",
+        "Indo-<B>Caribbean</B>",
+        "Indo-<B>Caribbean</B> people"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Indo-<B>Caribbeans</B> or Indian-<B>Caribbeans</B>, are people of Indian descent who live in the <B>Caribbean</B>. They"
+      ],
+      "label": [
+        "Indo-<B>Caribbeans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Caribbeans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_people_of_Indian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Indo-Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1399.0792"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Climate_change_in_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "Climate change in Antigua and Barbuda",
+        "Climate change in Barbados",
+        "Climate change in <B>Caribbean</B>",
+        "Climate change in Cuba",
+        "Climate change in Dominica",
+        "Climate change in Saint Kitts and Nevis",
+        "Climate change in Saint Lucia",
+        "Climate change in Saint Vincent and the Grenadines",
+        "Climate change in Trinidad and Tobago",
+        "Climate change in the Bahamas",
+        "Effects of climate change in the <B>Caribbean</B>",
+        "Sea level rise in the <B>Caribbean</B>"
+      ],
+      "comment": [
+        "Anthropogenic climate change is caused by the rapid increase of greenhouse gases in the atmosphere principally from burning fossil fuels, converting forestland to pasture and monoculture cropland, with the greatest contributions happening in the period since the Industrial Revolution."
+      ],
+      "label": [
+        "Climate change in the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Climate_change_in_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Climate_change_articles_needing_expert_attention",
+        "http://dbpedia.org/resource/Category:Climate_change_by_country_and_region",
+        "http://dbpedia.org/resource/Category:Environment_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Regional_effects_of_climate_change"
+      ]
+    },
+    {
+      "score": [
+        "1388.8939"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Congress_of_Labour"
+      ],
+      "redirectlabel": [
+        "<B>Caribbean</B> congress of labour"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Congress of Labour (CCL) is a regional trade union federation. It represents 500,000"
+      ],
+      "label": [
+        "<B>Caribbean</B> Congress of Labour"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Congress_of_Labour"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960_establishments_in_Barbados",
+        "http://dbpedia.org/resource/Category:Caribbean_Congress_of_Labour",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Caribbean_Community",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Organisation_of_Eastern_Caribbean_States",
+        "http://dbpedia.org/resource/Category:Trade_unions_established_in_1960"
+      ]
+    },
+    {
+      "score": [
+        "1383.4814"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Battle_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "Battle of the <B>caribbean</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Battle of the <B>Caribbean</B> refers to a naval campaign waged during World War II that was part of"
+      ],
+      "label": [
+        "Battle of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Battle_of_the_Caribbean"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Aruba",
+        "http://dbpedia.org/resource/Category:1941_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1942_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1943_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1944_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:1945_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Battles_of_World_War_II_involving_Canada",
+        "http://dbpedia.org/resource/Category:Caribbean_Sea_operations_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_British_Guiana_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_British_Honduras_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Canada_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Naval_battles_and_operations_of_World_War_II_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Naval_battles_of_World_War_II_involving_Canada",
+        "http://dbpedia.org/resource/Category:Naval_battles_of_World_War_II_involving_Germany",
+        "http://dbpedia.org/resource/Category:Naval_battles_of_World_War_II_involving_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Naval_battles_of_World_War_II_involving_the_United_States",
+        "http://dbpedia.org/resource/Category:U-boats"
+      ]
+    },
+    {
+      "score": [
+        "1380.4543"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean_(attraction)"
+      ],
+      "redirectlabel": [
+        "Captain Jack Sparrow's Pirate Tutorial",
+        "Pirates of the <B>Caribbean</B> (2000 CD)",
+        "Pirates of the <B>Caribbean</B> (Disneyland)",
+        "Pirates of the <B>Caribbean</B> (ride)",
+        "Pirates of the <B>Caribbean</B> (theme park ride)",
+        "Pirates of the <B>Carribean</B> (Disneyland)"
+      ],
+      "typeName": [
+        "AmusementParkAttraction",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "Pirates of the <B>Caribbean</B> is a dark ride attraction at Disneyland, Magic Kingdom, Tokyo Disneyland"
+      ],
+      "label": [
+        "Pirates of the <B>Caribbean</B> (attraction)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pirates_of_the_Caribbean_(attraction)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AmusementParkAttraction",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Adventureland_(Disney)",
+        "http://dbpedia.org/resource/Category:Amusement_rides_introduced_in_1967",
+        "http://dbpedia.org/resource/Category:Amusement_rides_introduced_in_1973",
+        "http://dbpedia.org/resource/Category:Amusement_rides_introduced_in_1983",
+        "http://dbpedia.org/resource/Category:Amusement_rides_introduced_in_1992",
+        "http://dbpedia.org/resource/Category:Amusement_rides_manufactured_by_Arrow_Dynamics",
+        "http://dbpedia.org/resource/Category:Amusement_rides_manufactured_by_Intamin",
+        "http://dbpedia.org/resource/Category:Audio-Animatronic_attractions",
+        "http://dbpedia.org/resource/Category:Caribbean_in_fiction",
+        "http://dbpedia.org/resource/Category:Dark_rides",
+        "http://dbpedia.org/resource/Category:Disneyland",
+        "http://dbpedia.org/resource/Category:Disneyland_Park_(Paris)",
+        "http://dbpedia.org/resource/Category:Louisiana_in_fiction",
+        "http://dbpedia.org/resource/Category:Magic_Kingdom",
+        "http://dbpedia.org/resource/Category:New_Orleans_Square_(Disneyland)",
+        "http://dbpedia.org/resource/Category:Piracy_in_fiction",
+        "http://dbpedia.org/resource/Category:Pirates_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Tokyo_Disneyland",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Parks_and_Resorts_attractions",
+        "http://dbpedia.org/resource/Category:Walt_Disney_Parks_and_Resorts_gentle_boat_rides",
+        "http://dbpedia.org/resource/Category:Water_rides",
+        "http://dbpedia.org/resource/Category:Water_rides_manufactured_by_Arrow_Dynamics"
+      ]
+    },
+    {
+      "score": [
+        "1372.4833"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indigenous_peoples_of_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "Ciguayo",
+        "Ciguayo people",
+        "Indigenous <B>Caribbeans</B>",
+        "Indigenous people of the <B>Caribbean</B>",
+        "Indigenous peoples of the <B>Caribbeans</B>",
+        "Macorix people",
+        "Neo-Taino",
+        "Neo-Taino Nations",
+        "Neo-Taino nations",
+        "Neo-Taíno",
+        "Neo-Taíno Nations",
+        "Neo-Taíno nations"
+      ],
+      "comment": [
+        "The indigenous peoples of the <B>Caribbean</B> included the Taíno, the Island Caribs of the Lesser Antilles, and the Guanahatabey of western Cuba."
+      ],
+      "label": [
+        "Indigenous peoples of the <B>Caribbean</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indigenous_peoples_of_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "1361.5669"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Caribbean_music"
+      ],
+      "redirectlabel": [
+        "Indian music in the <B>Caribbean</B>",
+        "Indo-Antillean music",
+        "Indo-Guyanese music",
+        "Indo-Jamaican music",
+        "Indo-Surinamese music",
+        "Indo-Trinidadian music"
+      ],
+      "comment": [
+        ". Indo-<B>Caribbean</B> traditional music often reflects the Bhojpuri heritage of many Indo-<B>Caribbeans</B>; women's"
+      ],
+      "label": [
+        "Indo-<B>Caribbean</B> music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Caribbean_music"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_music",
+        "http://dbpedia.org/resource/Category:Culture_of_Indian_diaspora",
+        "http://dbpedia.org/resource/Category:Indian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Indo-Caribbean_culture"
+      ]
+    },
+    {
+      "score": [
+        "1357.298"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caribbean_Scout_Jamboree"
+      ],
+      "redirectlabel": [
+        "3rd <B>Caribbean</B> Jamboree",
+        "<B>Caribbean</B> Cuboree",
+        "<B>Caribbean</B> Jamboree"
+      ],
+      "comment": [
+        "The <B>Caribbean</B> Scout Jamboree is a periodic gathering for Boy Scouts in the <B>Caribbean</B>, held at"
+      ],
+      "label": [
+        "<B>Caribbean</B> Scout Jamboree"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caribbean_Scout_Jamboree"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Scouting_jamborees"
+      ]
+    },
+    {
+      "score": [
+        "1351.0251"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Order_of_the_Caribbean_Community"
+      ],
+      "redirectlabel": [
+        "Member of The Order of the <B>Caribbean</B> Community",
+        "Order of the <B>Caribbean</B>",
+        "The Order of the <B>Caribbean</B>",
+        "The Order of the <B>Caribbean</B> Community"
+      ],
+      "comment": [
+        "The Order of the <B>Caribbean</B> Community is an award given to \"<B>Caribbean</B> nationals whose legacy in the"
+      ],
+      "label": [
+        "Order of the <B>Caribbean</B> Community"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Order_of_the_Caribbean_Community"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Caribbean_Community"
+      ]
+    }
+  ]
+}

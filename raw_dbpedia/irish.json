@@ -1,0 +1,5287 @@
+{
+  "docs": [
+    {
+      "score": [
+        "26283.643"
+      ],
+      "refCount": [
+        "2154"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_people"
+      ],
+      "redirectlabel": [
+        "Black Scot",
+        "Dark <B>Irish</B>",
+        "Genetic history of Ireland",
+        "Genetic studies on <B>Irish</B> people",
+        "Irelander",
+        "Irelanders",
+        "<B>Irish</B> (people)",
+        "<B>Irish</B> People",
+        "<B>Irish</B> ancestry",
+        "<B>Irish</B> descent",
+        "<B>Irish</B> ethnicity",
+        "<B>Irish</B> folks",
+        "<B>Irish</B> genetics",
+        "<B>Irish</B> national identity",
+        "<B>Irishes</B>",
+        "<B>Irishman</B>",
+        "<B>Irishmen</B>",
+        "<B>Irishness</B>",
+        "<B>Irishwoman</B>",
+        "Muintir na hÉireann, na hÉireannaigh, na Gaeil",
+        "People of Ireland",
+        "People of Southern Ireland",
+        "People of the Republic of Ireland"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Irish</B> (<B>Irish</B>: Muintir na hÉireann or Na hÉireannaigh) are a nation and ethnic group native to"
+      ],
+      "label": [
+        "<B>Irish</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Celtic_ethnic_groups",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Ireland",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Gaels",
+        "http://dbpedia.org/resource/Category:Irish_people"
+      ]
+    },
+    {
+      "score": [
+        "9648.415"
+      ],
+      "refCount": [
+        "5605"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ireland"
+      ],
+      "redirectlabel": [
+        "Airlan",
+        "Airlann",
+        "Auld Sod",
+        "Eire politic",
+        "Eire political",
+        "Eire politics",
+        "Environmental impact of agriculture in Ireland",
+        "Flora and fauna of Ireland",
+        "IRELAND",
+        "Ireland (Island)",
+        "Ireland (island)",
+        "Ireland (region)",
+        "Ireland political",
+        "Ireland politics",
+        "Irelands politics",
+        "<B>Irish</B> Island",
+        "<B>Irish</B> Politics",
+        "<B>Irish</B> politics",
+        "Irland",
+        "Irland politic",
+        "Irland political",
+        "Irland politics",
+        "Irlanda",
+        "Irlandia",
+        "Island Ireland",
+        "Island ireland",
+        "Island of Ireland",
+        "Politic eire",
+        "Politic in eire",
+        "Politic of eire",
+        "Political eire",
+        "Political ireland",
+        "Political irland",
+        "Politics eire",
+        "Politics in Ireland",
+        "Politics in eire",
+        "Politics in irland",
+        "Politics ireland",
+        "Politics of Ireland",
+        "Politics of eire",
+        "Politics of ireland",
+        "Politics of irland",
+        "The island of Ireland",
+        "Wildlife of Ireland"
+      ],
+      "typeName": [
+        "Place",
+        "Island",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Ireland ( (); <B>Irish</B>: Éire [ˈeːɾʲə] (); Ulster-Scots: Airlann [ˈɑːrlən]) is an island in the North"
+      ],
+      "label": [
+        "Ireland"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ireland"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Island",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_Isles",
+        "http://dbpedia.org/resource/Category:Celtic_nations",
+        "http://dbpedia.org/resource/Category:Divided_regions",
+        "http://dbpedia.org/resource/Category:International_islands",
+        "http://dbpedia.org/resource/Category:Ireland"
+      ]
+    },
+    {
+      "score": [
+        "8686.094"
+      ],
+      "refCount": [
+        "257"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_language"
+      ],
+      "redirectlabel": [
+        "Gaedhilge",
+        "Gaeilge",
+        "Gaeilge language",
+        "Gaeilgeoirí",
+        "Gaeleg",
+        "Gaelge",
+        "Gaelgóir",
+        "Gaelic in Ireland",
+        "Gaelic language in Ireland",
+        "Gaelic language in Republic of Ireland",
+        "Gaelic language in the Republic of Ireland",
+        "Gaelic language of Ireland",
+        "Gaelic language of Republic of Ireland",
+        "Gaelic language of the Republic of Ireland",
+        "Gaelic of Ireland",
+        "Gaelic of Republic of Ireland",
+        "Gaelic of the Republic of Ireland",
+        "Gaelige",
+        "Gailge",
+        "Gaoidhealg",
+        "Gaolainn",
+        "Gaoluinn",
+        "Ghaeilge",
+        "ISO 639-1:ga",
+        "ISO 639:ga",
+        "ISO 639:gle",
+        "<B>Irish</B>-Gaelic",
+        "<B>Irish</B>-language",
+        "<B>Irish</B>-speaker",
+        "<B>Irish</B>-speaking",
+        "<B>Irish</B> (language)",
+        "<B>Irish</B> Gaelic",
+        "<B>Irish</B> Gaelic language",
+        "<B>Irish</B> Language",
+        "<B>Irish</B> dialect",
+        "<B>Irish</B> dialects",
+        "<B>Irish</B> gaelic",
+        "Leinster <B>Irish</B>",
+        "List of <B>Irish</B> counties by percentage of people with <B>Irish</B> language ability",
+        "Modern <B>Irish</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Irish</B> (Gaeilge) is a Goidelic language of the Celtic languages family, itself a branch of the Indo"
+      ],
+      "label": [
+        "<B>Irish</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fusional_languages",
+        "http://dbpedia.org/resource/Category:Goidelic_languages",
+        "http://dbpedia.org/resource/Category:Irish_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_4th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Ireland",
+        "http://dbpedia.org/resource/Category:Languages_of_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Verb–subject–object_languages",
+        "http://dbpedia.org/resource/Category:Vertical_vowel_systems"
+      ]
+    },
+    {
+      "score": [
+        "6790.4375"
+      ],
+      "refCount": [
+        "980"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Northern_Ireland_national_football_team"
+      ],
+      "redirectlabel": [
+        "History of the Northern Ireland national football team",
+        "NI football team",
+        "Northern Ireland FC",
+        "Northern Ireland MNT",
+        "Northern Ireland football team",
+        "Northern Ireland national association football team",
+        "Northern Ireland national soccer club",
+        "Northern Ireland national soccer team",
+        "Northern Ireland national team",
+        "Northern <B>Irish</B> MNT",
+        "Northern <B>Irish</B> football team",
+        "Northern <B>Irish</B> national football team",
+        "Northern <B>Irish</B> national soccer club",
+        "Northern <B>Irish</B> national soccer team",
+        "Northern <B>Irish</B> soccer team",
+        "Northern ireland national football team",
+        "We're not Brazil"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " football team, organised by the <B>Irish</B> Football Association (IFA). In 1921, the jurisdiction of the"
+      ],
+      "label": [
+        "Northern Ireland national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Northern_Ireland_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Northern_Ireland_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "5980.256"
+      ],
+      "refCount": [
+        "136"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Irish</B> Truce",
+        "Anglo-<B>Irish</B> War",
+        "Anglo-<B>Irish</B> war",
+        "Anglo-<B>irish</B> war",
+        "Anglo <B>Irish</B> War",
+        "British-<B>Irish</B> War",
+        "British <B>Irish</B> War",
+        "Cogadh na Saoirse",
+        "<B>Irish</B>-Anglo war",
+        "<B>Irish</B> War for Independence",
+        "<B>Irish</B> independence war",
+        "<B>Irish</B> war of Independence",
+        "<B>Irish</B> war of independance",
+        "<B>Irish</B> war of independence",
+        "July 1921 Truce",
+        "Tan War",
+        "Truce in July 1921",
+        "Truce of 11 July 1921",
+        "Truce of July 1921",
+        "War of Independence (Ireland)",
+        "War of Independence in Ireland",
+        "War of <B>Irish</B> Independence"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Irish</B> War of Independence (<B>Irish</B>: Cogadh na Saoirse) or Anglo-<B>Irish</B> War was a guerrilla war"
+      ],
+      "label": [
+        "<B>Irish</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_rebellions",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1919",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1920",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1921",
+        "http://dbpedia.org/resource/Category:Guerrilla_wars",
+        "http://dbpedia.org/resource/Category:Ireland–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Irish_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Ireland",
+        "http://dbpedia.org/resource/Category:Resistance_to_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ireland",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "5621.985"
+      ],
+      "refCount": [
+        "647"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hurling"
+      ],
+      "redirectlabel": [
+        "Hurley (game)",
+        "Hurley (sport)",
+        "Hurling (sport)",
+        "Hurnling",
+        "<B>Irish</B> hurling"
+      ],
+      "typeName": [
+        "Activity",
+        "Sport"
+      ],
+      "comment": [
+        "Hurling (<B>Irish</B>: iománaíocht, iomáint) is an outdoor team game of ancient Gaelic <B>Irish</B> origin. The"
+      ],
+      "label": [
+        "Hurling"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hurling"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Activity",
+        "http://dbpedia.org/ontology/Sport"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Gaelic_games",
+        "http://dbpedia.org/resource/Category:Hurlers",
+        "http://dbpedia.org/resource/Category:Hurling",
+        "http://dbpedia.org/resource/Category:Sports_originating_in_Ireland",
+        "http://dbpedia.org/resource/Category:Stick_sports",
+        "http://dbpedia.org/resource/Category:Team_sports"
+      ]
+    },
+    {
+      "score": [
+        "5439.3613"
+      ],
+      "refCount": [
+        "100"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Sea"
+      ],
+      "redirectlabel": [
+        "Celtic Wave",
+        "Counties with coastlines on the <B>Irish</B> Sea",
+        "East <B>Irish</B> Sea Basin",
+        "Gaelic Sea",
+        "History of the <B>Irish</B> Sea",
+        "<B>Irish</B> sea",
+        "Mann Sea",
+        "Manx Sea",
+        "Oil and gas exploration in the <B>Irish</B> Sea",
+        "Sea of Ireland",
+        "Wind power in the <B>Irish</B> Sea"
+      ],
+      "typeName": [
+        "BodyOfWater",
+        "Place",
+        "Sea",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        "The <B>Irish</B> Sea (<B>Irish</B>: Muir Éireann / An Mhuir Mheann, Manx: Y Keayn Yernagh, Scots: Erse Sie"
+      ],
+      "label": [
+        "<B>Irish</B> Sea"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Sea"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/BodyOfWater",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Sea",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bodies_of_water_of_Ireland",
+        "http://dbpedia.org/resource/Category:Bodies_of_water_of_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Bodies_of_water_of_Wales",
+        "http://dbpedia.org/resource/Category:Borders_of_Wales",
+        "http://dbpedia.org/resource/Category:European_seas",
+        "http://dbpedia.org/resource/Category:Geography_of_Northwestern_Europe",
+        "http://dbpedia.org/resource/Category:Irish_Sea",
+        "http://dbpedia.org/resource/Category:Maritime_boundaries",
+        "http://dbpedia.org/resource/Category:Republic_of_Ireland–United_Kingdom_border",
+        "http://dbpedia.org/resource/Category:Seas_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Seas_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Shipping_Forecast_areas"
+      ]
+    },
+    {
+      "score": [
+        "5283.3633"
+      ],
+      "refCount": [
+        "955"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Republic_of_Ireland_national_football_team"
+      ],
+      "redirectlabel": [
+        "Boys In Green",
+        "FAI Ireland national football team",
+        "Ireland national football team (FAI)",
+        "Ireland national soccer team",
+        "Ireland soccer",
+        "<B>Irish</B> Free State national football team",
+        "<B>Irish</B> international football team",
+        "<B>Irish</B> national soccer team",
+        "<B>Irish</B> republic football team",
+        "<B>Irish</B> soccer team",
+        "National soccer team of Ireland",
+        "Rep. Ireland national football team",
+        "Republic of Ireland National Football team",
+        "Republic of Ireland men's national football team",
+        "Republic of Ireland national association football team",
+        "Republic of Ireland national soccer team",
+        "Republic of Ireland soccer team",
+        "Republic of ireland football team",
+        "The Republic of Ireland national football team",
+        "Éire national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Republic of Ireland national football team (<B>Irish</B>: Foireann peile náisiúnta Phoblacht na"
+      ],
+      "label": [
+        "Republic of Ireland national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Republic_of_Ireland_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1924_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_Association_of_Ireland",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1924",
+        "http://dbpedia.org/resource/Category:Republic_of_Ireland_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "4796.6113"
+      ],
+      "refCount": [
+        "73"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Civil war",
+        "<B>Irish</B> civil war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Civil War (<B>Irish</B>: Cogadh Cathartha na hÉireann; 28 June 1922 – 24 May 1923) was a"
+      ],
+      "label": [
+        "<B>Irish</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_in_Ireland",
+        "http://dbpedia.org/resource/Category:1923_in_Ireland",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Civil_wars_of_the_Industrial_era",
+        "http://dbpedia.org/resource/Category:Guerrilla_wars",
+        "http://dbpedia.org/resource/Category:History_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_Civil_War",
+        "http://dbpedia.org/resource/Category:Irish_Free_State",
+        "http://dbpedia.org/resource/Category:Monarchy_in_the_Irish_Free_State",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "4775.287"
+      ],
+      "refCount": [
+        "6027"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Republic_of_Ireland"
+      ],
+      "redirectlabel": [
+        "26 Counties",
+        "26 counties",
+        "Eire Ireland",
+        "HÉireann",
+        "ISO 3166-1:IE",
+        "Ireland, Republic of",
+        "Ireland, republic of",
+        "Ireland/Éire",
+        "Ireland (Republic of)",
+        "Ireland (Republic of Ireland)",
+        "Ireland (country)",
+        "Ireland (nation)",
+        "Ireland (republic)",
+        "Ireland (sovereign state)",
+        "Ireland (state)",
+        "Ireland Republic",
+        "Ireland and the European Union",
+        "Ireland country",
+        "<B>Irish</B> state",
+        "Rep. Ireland",
+        "Rep. of Ireland",
+        "Rep Ire",
+        "Rep ireland",
+        "Rep of Ireland",
+        "Rep of ire",
+        "Republic, Ireland",
+        "Republic, ireland",
+        "Republic Ireland",
+        "Republic Of Ireland",
+        "Republic in Ireland",
+        "Republic in ireland",
+        "Republic of ireland",
+        "State of Ireland",
+        "Subdivisions of the Republic of Ireland",
+        "The 26 Counties",
+        "The Republic Of Ireland",
+        "The Republic of Ireland",
+        "The Twenty-Six Counties",
+        "The Twenty Six Counties",
+        "Twenty-Six Counties",
+        "Twenty Six Counties",
+        "Éire Ireland"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Ireland (<B>Irish</B>: Éire [ˈeːɾʲə] ()), also known as the Republic of Ireland (Poblacht na hÉireann), is"
+      ],
+      "label": [
+        "Republic of Ireland"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Republic_of_Ireland"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Countries_of_Europe_with_multiple_official_languages",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:NUTS_1_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Northwestern_European_countries",
+        "http://dbpedia.org/resource/Category:Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1949"
+      ]
+    },
+    {
+      "score": [
+        "4684.7676"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Free_State"
+      ],
+      "redirectlabel": [
+        "Dominion of Ireland (1922-1937)",
+        "Dominion of Ireland (1922–1937)",
+        "Dominion of the <B>Irish</B> Free State",
+        "Ireland Free State",
+        "<B>Irish</B> Free state",
+        "<B>Irish</B> free state",
+        "<B>Irish</B> state (1922-1937)",
+        "<B>Irish</B> state (1922–1937)",
+        "Saorstat",
+        "Saorstat Eirann",
+        "Saorstat Eireann",
+        "Saorstat Éireann",
+        "Saorstát Eireann",
+        "Saorstát Éireann",
+        "The Ireland Free State",
+        "The <B>Irish</B> Free State"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Irish</B> Free State (<B>Irish</B>: Saorstát Éireann, pronounced [ˈsˠiːɾˠsˠt̪ˠaːt̪ˠ ˈeːɾʲən̪ˠ], English"
+      ],
+      "label": [
+        "<B>Irish</B> Free State"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Free_State"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920s_in_Ireland",
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1930s_in_Ireland",
+        "http://dbpedia.org/resource/Category:1937_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Former_Commonwealth_realms",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Ireland",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_by_period",
+        "http://dbpedia.org/resource/Category:History_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Ireland_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Irish_Free_State",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Modern_history_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1937",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1922"
+      ]
+    },
+    {
+      "score": [
+        "4605.2485"
+      ],
+      "refCount": [
+        "3159"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Northern_Ireland"
+      ],
+      "redirectlabel": [
+        "6 counties",
+        "Communications in Northern Ireland",
+        "Geography of Northern Ireland",
+        "Governance of Northern Ireland",
+        "Ireland (Northern Ireland)",
+        "Ireland (north)",
+        "Ireland North",
+        "Irland du nord",
+        "Irlanda del Norte",
+        "N.Ireland",
+        "N. Ireland",
+        "N Ireland",
+        "Na Se Contaethe",
+        "Na Sé Contaethe",
+        "Norlin Airlan",
+        "Norlin Airlann",
+        "Norn Ireland",
+        "Norn Irn",
+        "Norn Iron",
+        "Norn iron",
+        "Norniron",
+        "Norrn Iron",
+        "North Ireland",
+        "North ireland",
+        "North of Ireland",
+        "North of ireland",
+        "Northeast of Ireland",
+        "Northern Ireland's national anthem",
+        "Northern Ireland, UK",
+        "Northern Ireland, United Kingdom",
+        "Northern Ireland (UK)",
+        "Northern Ireland Assembly and Executive",
+        "Northern Ireland assembly and Executive",
+        "Northern ireland",
+        "Northern <B>irish</B>",
+        "Nothern Ireland",
+        "Nothern <B>Irish</B>",
+        "Six Counties",
+        "Six counties",
+        "The 6 Counties",
+        "The Norn Iron",
+        "The North of Ireland",
+        "The Northern Ireland",
+        "The Occupied 6 Counties",
+        "Tuaisceart Eireann",
+        "Tuaisceart Éireann",
+        "Ulster (UK)",
+        "United Kingdom: Northern Ireland"
+      ],
+      "comment": [
+        "Northern Ireland (<B>Irish</B>: Tuaisceart Éireann [ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ] (); Ulster-Scots: Norlin"
+      ],
+      "label": [
+        "Northern Ireland"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Northern_Ireland"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:History_of_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Home_rule_in_Ireland",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:NUTS_1_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:NUTS_1_statistical_regions_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Northern_Ireland",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1921",
+        "http://dbpedia.org/resource/Category:United_Kingdom_by_country"
+      ]
+    },
+    {
+      "score": [
+        "4569.6504"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Derby"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Derby Stakes",
+        "<B>Irish</B> Sweeps Derby"
+      ],
+      "typeName": [
+        "HorseRace",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Race"
+      ],
+      "comment": [
+        "The <B>Irish</B> Derby (<B>Irish</B>: Dearbaí na hÉireann) is a Group 1 flat horse race in Ireland open to three"
+      ],
+      "label": [
+        "<B>Irish</B> Derby"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Derby"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/HorseRace",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Race"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1866_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Annual_sporting_events_in_Ireland",
+        "http://dbpedia.org/resource/Category:Curragh_Racecourse",
+        "http://dbpedia.org/resource/Category:Flat_horse_races_for_three-year-olds",
+        "http://dbpedia.org/resource/Category:Flat_races_in_Ireland",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1866",
+        "http://dbpedia.org/resource/Category:Summer_events_in_the_Republic_of_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "4488.0566"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Oaks"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Oaks Stakes"
+      ],
+      "typeName": [
+        "HorseRace",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Race"
+      ],
+      "comment": [
+        "The <B>Irish</B> Oaks is a Group 1 flat horse race in Ireland open to three-year-old thoroughbred fillies"
+      ],
+      "label": [
+        "<B>Irish</B> Oaks"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Oaks"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/HorseRace",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Race"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1895_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Curragh_Racecourse",
+        "http://dbpedia.org/resource/Category:Flat_horse_races_for_three-year-old_fillies",
+        "http://dbpedia.org/resource/Category:Flat_races_in_Ireland",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1895"
+      ]
+    },
+    {
+      "score": [
+        "4346.6147"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_traditional_music"
+      ],
+      "redirectlabel": [
+        "Folk music of Ireland",
+        "Folk music of Northern Ireland",
+        "Goltrai",
+        "<B>Irish</B> Folk",
+        "<B>Irish</B> Folk Music",
+        "<B>Irish</B> Traditional Music",
+        "<B>Irish</B> folk",
+        "<B>Irish</B> folk music",
+        "<B>Irish</B> folk song",
+        "<B>Irish</B> folk songs",
+        "<B>Irish</B> trad",
+        "<B>Irish</B> traditional",
+        "Suantrai",
+        "Traditional <B>Irish</B> Music",
+        "Traditional <B>Irish</B> dance music",
+        "Traditional <B>Irish</B> music",
+        "Traditional <B>Irish</B> musical instruments",
+        "Traditional <B>irish</B> music",
+        "Traditional music of Northern Ireland",
+        "Traditional music of the Republic of Ireland"
+      ],
+      "comment": [
+        "<B>Irish</B> traditional music (also known as <B>Irish</B> trad, <B>Irish</B> folk music, and other variants) is a genre"
+      ],
+      "label": [
+        "<B>Irish</B> traditional music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_traditional_music"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Folk_music_by_country",
+        "http://dbpedia.org/resource/Category:Irish_culture",
+        "http://dbpedia.org/resource/Category:Irish_folk_music"
+      ]
+    },
+    {
+      "score": [
+        "4299.5825"
+      ],
+      "refCount": [
+        "77"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_League_representative_team"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Football League XI",
+        "<B>Irish</B> League XI",
+        "Northern Regional League XI"
+      ],
+      "comment": [
+        "The <B>Irish</B> League representative team was the representative side of the <B>Irish</B> Football League, the"
+      ],
+      "label": [
+        "<B>Irish</B> League representative team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_League_representative_team"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1893_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:NIFL_Premiership",
+        "http://dbpedia.org/resource/Category:Representative_teams_of_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1893"
+      ]
+    },
+    {
+      "score": [
+        "4293.6426"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_nationalism"
+      ],
+      "redirectlabel": [
+        "History of <B>Irish</B> nationalism",
+        "<B>Irish</B>-nationalism.com",
+        "<B>Irish</B> Nationalism",
+        "<B>Irish</B> Nationalist",
+        "<B>Irish</B> Nationalists",
+        "<B>Irish</B> Separatist",
+        "<B>Irish</B> Separatists",
+        "<B>Irish</B> nationalist",
+        "<B>Irish</B> nationalist movement",
+        "<B>Irish</B> nationalists",
+        "<B>Irish</B> patriotism",
+        "<B>Irish</B> self-government",
+        "<B>Irish</B> separatism",
+        "<B>Irish</B> separatist",
+        "<B>Irish</B> separatists",
+        "Nationalism (Ireland)",
+        "Nationalist (Ireland)",
+        "Nationalist (Northern Ireland)",
+        "Nationalists (Ireland)"
+      ],
+      "comment": [
+        "<B>Irish</B> nationalism is a nationalist political movement which asserts that the <B>Irish</B> people are a"
+      ],
+      "label": [
+        "<B>Irish</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Celtic_nationalism",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_(1801–1923)",
+        "http://dbpedia.org/resource/Category:Independence_movements",
+        "http://dbpedia.org/resource/Category:Irish_nationalism",
+        "http://dbpedia.org/resource/Category:Political_movements_in_Ireland",
+        "http://dbpedia.org/resource/Category:Politics_of_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "4253.9233"
+      ],
+      "refCount": [
+        "82"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish_football"
+      ],
+      "redirectlabel": [
+        "1895 Notre Dame Fighting <B>Irish</B> football team",
+        "Fighting <B>Irish</B> Football",
+        "Fighting <B>Irish</B> football",
+        "Fighting <B>Irish</B> football team",
+        "List of Notre Dame Fighting <B>Irish</B> bowl games",
+        "Notre Dame Fighting <B>Irish</B> American football",
+        "Notre Dame Fighting <B>Irish</B> Football",
+        "Notre Dame Fighting <B>Irish</B> american football",
+        "Notre Dame Fighting <B>Irish</B> football (1950-1959)",
+        "Notre Dame Fighting <B>Irish</B> football (1950-59)",
+        "Notre Dame Fighting <B>Irish</B> football (1950–1959)",
+        "Notre Dame Fighting <B>Irish</B> football (1950–59)",
+        "Notre Dame Fighting <B>Irish</B> football (1960-1969)",
+        "Notre Dame Fighting <B>Irish</B> football (1960-69)",
+        "Notre Dame Fighting <B>Irish</B> football (1960–1969)",
+        "Notre Dame Fighting <B>Irish</B> football (1960–69)",
+        "Notre Dame Fighting <B>Irish</B> football (1980-1989)",
+        "Notre Dame Fighting <B>Irish</B> football (1980-89)",
+        "Notre Dame Fighting <B>Irish</B> football (1980–1989)",
+        "Notre Dame Fighting <B>Irish</B> football (1980–89)",
+        "Notre Dame Fighting <B>Irish</B> football (1990-1999)",
+        "Notre Dame Fighting <B>Irish</B> football (1990-99)",
+        "Notre Dame Fighting <B>Irish</B> football (1990–1999)",
+        "Notre Dame Fighting <B>Irish</B> football (1990–99)",
+        "Notre Dame Fighting <B>Irish</B> football future schedule",
+        "Notre Dame Fighting <B>Irish</B> football team",
+        "Notre Dame Football",
+        "Notre Dame <B>Irish</B> football",
+        "Notre Dame football",
+        "Notre dame fighting <B>irish</B> football",
+        "Notre dame football",
+        "Shamrock Series",
+        "University of Notre Dame football"
+      ],
+      "comment": [
+        "The Notre Dame Fighting <B>Irish</B> football team is the intercollegiate football team representing the"
+      ],
+      "label": [
+        "Notre Dame Fighting <B>Irish</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1887_establishments_in_Indiana",
+        "http://dbpedia.org/resource/Category:American_football_teams_established_in_1887",
+        "http://dbpedia.org/resource/Category:Notre_Dame_Fighting_Irish_football"
+      ]
+    },
+    {
+      "score": [
+        "4171.934"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_republicanism"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Republican",
+        "<B>Irish</B> Republicanism",
+        "<B>Irish</B> Republicanism in Northern Ireland",
+        "<B>Irish</B> Republicans",
+        "<B>Irish</B> republican",
+        "<B>Irish</B> republican paramilitaries",
+        "<B>Irish</B> republican paramilitarism",
+        "<B>Irish</B> republican socialism",
+        "<B>Irish</B> republican socialist",
+        "<B>Irish</B> republicanism in Northern Ireland",
+        "<B>Irish</B> republicans",
+        "Northern <B>Irish</B> republicanism",
+        "Phyiscal force Republicanism",
+        "Physical-force <B>Irish</B> republican",
+        "Physical-force <B>Irish</B> republicanism",
+        "Physical force <B>Irish</B> Republicanism",
+        "Physical force <B>Irish</B> republicanism",
+        "Physical force republicanism",
+        "Republican (Ireland)",
+        "Republicanism in Ireland",
+        "Republicanism in Northern Ireland",
+        "Republicanism in ireland",
+        "Republicanism in the Republic of Ireland"
+      ],
+      "comment": [
+        "<B>Irish</B> republicanism (<B>Irish</B>: poblachtánachas Éireannach) is the political movement for the unity and"
+      ],
+      "label": [
+        "<B>Irish</B> republicanism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_republicanism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Celtic_nationalism",
+        "http://dbpedia.org/resource/Category:Irish_republicanism",
+        "http://dbpedia.org/resource/Category:Politics_of_Ireland",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Republicanism_by_country"
+      ]
+    },
+    {
+      "score": [
+        "4154.75"
+      ],
+      "refCount": [
+        "74"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Rebellion_of_1798"
+      ],
+      "redirectlabel": [
+        "1798 <B>Irish</B> Rebellion",
+        "1798 Rebellion",
+        "1798 Rising",
+        "1798 rebellion",
+        "Battles during the <B>Irish</B> Rebellion of 1798",
+        "Battles of <B>Irish</B> rebellion 1798",
+        "Ireland 1798",
+        "<B>Irish</B> Rebellion 1798",
+        "<B>Irish</B> insurrection of 1798",
+        "<B>Irish</B> rebellion of 1798",
+        "<B>Irish</B> revolution of 1798",
+        "Rebellion in 1798",
+        "Rebellion of 1798",
+        "United <B>Irish</B> Rebellion of 1798",
+        "United <B>Irishmen</B> Rebellion of 1798",
+        "Wolfe Tone Rising"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Rebellion of 1798 (<B>Irish</B>: Éirí Amach 1798) was an uprising against British rule in"
+      ],
+      "label": [
+        "<B>Irish</B> Rebellion of 1798"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Rebellion_of_1798"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1798_in_Ireland",
+        "http://dbpedia.org/resource/Category:18th-century_rebellions",
+        "http://dbpedia.org/resource/Category:French_Directory",
+        "http://dbpedia.org/resource/Category:Ireland–United_Kingdom_military_relations",
+        "http://dbpedia.org/resource/Category:Irish_Rebellion_of_1798",
+        "http://dbpedia.org/resource/Category:Irish_republicanism",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_Kingdom_of_Ireland",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Ireland",
+        "http://dbpedia.org/resource/Category:Wars_involving_France",
+        "http://dbpedia.org/resource/Category:Wars_involving_Great_Britain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "4067.4905"
+      ],
+      "refCount": [
+        "100"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish_men's_basketball"
+      ],
+      "redirectlabel": [
+        "1930-31 Notre Dame Fighting <B>Irish</B> men's basketball team",
+        "1930–31 Notre Dame Fighting <B>Irish</B> men's basketball team"
+      ],
+      "comment": [
+        "The Notre Dame Fighting <B>Irish</B> men's basketball team is the intercollegiate men's basketball program"
+      ],
+      "label": [
+        "Notre Dame Fighting <B>Irish</B> men's basketball"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish_men's_basketball"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Notre_Dame_Fighting_Irish_men's_basketball"
+      ]
+    },
+    {
+      "score": [
+        "4045.0842"
+      ],
+      "refCount": [
+        "231"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ireland_cricket_team"
+      ],
+      "redirectlabel": [
+        "Ireland Cricket Team",
+        "Ireland Cricket team",
+        "Ireland national cricket team",
+        "<B>Irish</B> Cricket Team",
+        "<B>Irish</B> cricket team",
+        "<B>Irish</B> national cricket team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The Ireland cricket team represents all of Ireland in international cricket. The <B>Irish</B> Cricket"
+      ],
+      "label": [
+        "Ireland cricket team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ireland_cricket_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ireland_in_international_cricket",
+        "http://dbpedia.org/resource/Category:National_cricket_teams",
+        "http://dbpedia.org/resource/Category:National_sports_teams_of_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "4008.29"
+      ],
+      "refCount": [
+        "57"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_nationality_law"
+      ],
+      "redirectlabel": [
+        "Citizenship of Ireland",
+        "Citizenship of the Ireland",
+        "History of <B>Irish</B> nationality law",
+        "Honorary citizenship of Ireland",
+        "Ireland nationality law",
+        "<B>Irish</B> Born Child residency",
+        "<B>Irish</B> Citizen",
+        "<B>Irish</B> Citizenship",
+        "<B>Irish</B> Nationality Law",
+        "<B>Irish</B> Nationality and Citizenship Act 1956",
+        "<B>Irish</B> citizen",
+        "<B>Irish</B> citizens",
+        "<B>Irish</B> citizenship",
+        "<B>Irish</B> nationality",
+        "List of honorary citizens of Ireland",
+        "Nationality law of the Republic of Ireland",
+        "Republic of Ireland citizen"
+      ],
+      "comment": [
+        "<B>Irish</B> nationality law is contained in the provisions of the <B>Irish</B> Nationality and Citizenship Acts"
+      ],
+      "label": [
+        "<B>Irish</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ireland_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Ireland_and_the_European_Union",
+        "http://dbpedia.org/resource/Category:Irish-American_history",
+        "http://dbpedia.org/resource/Category:Irish_nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "3766.3596"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Americans"
+      ],
+      "redirectlabel": [
+        "American <B>Irish</B>",
+        "Americans of <B>Irish</B> descent",
+        "Americay",
+        "Amerikay",
+        "Discrimination against <B>Irish</B> Americans",
+        "Hiberno-American",
+        "<B>Irish</B>-America",
+        "<B>Irish</B>-American",
+        "<B>Irish</B>-American Catholic",
+        "<B>Irish</B>-Americans",
+        "<B>Irish</B>-americans",
+        "<B>Irish</B> American",
+        "<B>Irish</B> Americans in politics",
+        "Political views of <B>Irish</B> Americans",
+        "Social history of <B>Irish</B> Americans",
+        "Stereotypes of <B>Irish</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Irish</B> Americans (<B>Irish</B>: Gael-Mheiriceánaigh) are an ethnic group comprising Americans who have full"
+      ],
+      "label": [
+        "<B>Irish</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:Irish-American_history",
+        "http://dbpedia.org/resource/Category:Irish_American"
+      ]
+    },
+    {
+      "score": [
+        "3706.4438"
+      ],
+      "refCount": [
+        "325"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iarnród_Éireann"
+      ],
+      "redirectlabel": [
+        "Iarnrod",
+        "Iarnrod Eireann",
+        "Iarnrod Éireann",
+        "Iarnród Eireann",
+        "<B>Irish</B> Rail",
+        "Network Catering"
+      ],
+      "comment": [
+        "Iarnród Éireann (<B>Irish</B> pronunciation: [ˈiəɾˠnˠɾˠoːdˠ ˈeːɾʲən̪ˠ]), also known as <B>Irish</B> Rail in"
+      ],
+      "label": [
+        "Iarnród Éireann"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iarnród_Éireann"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:CIÉ",
+        "http://dbpedia.org/resource/Category:Department_of_Transport_(Ireland)",
+        "http://dbpedia.org/resource/Category:Iarnród_Éireann",
+        "http://dbpedia.org/resource/Category:Irish_brands",
+        "http://dbpedia.org/resource/Category:Passenger_rail_transport_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Rail_transport_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Rail_transport_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Railway_companies_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Railway_companies_of_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "3633.879"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Poker_Open"
+      ],
+      "redirectlabel": [
+        "1980 <B>Irish</B> Poker Open",
+        "1981 <B>Irish</B> Poker Open",
+        "1982 <B>Irish</B> Poker Open",
+        "1983 <B>Irish</B> Poker Open",
+        "1984 <B>Irish</B> Poker Open",
+        "1985 <B>Irish</B> Poker Open",
+        "1986 <B>Irish</B> Poker Open",
+        "1987 <B>Irish</B> Poker Open",
+        "1988 <B>Irish</B> Poker Open",
+        "1989 <B>Irish</B> Poker Open",
+        "1990 <B>Irish</B> Poker Open",
+        "1991 <B>Irish</B> Poker Open",
+        "1992 <B>Irish</B> Poker Open",
+        "1993 <B>Irish</B> Poker Open",
+        "1994 <B>Irish</B> Poker Open",
+        "1995 <B>Irish</B> Poker Open",
+        "1996 <B>Irish</B> Poker Open",
+        "1997 <B>Irish</B> Poker Open",
+        "1998 <B>Irish</B> Poker Open",
+        "1999 <B>Irish</B> Poker Open",
+        "2000 <B>Irish</B> Poker Open",
+        "2001 <B>Irish</B> Poker Open",
+        "2002 <B>Irish</B> Poker Open",
+        "2003 <B>Irish</B> Poker Open",
+        "2004 <B>Irish</B> Poker Open",
+        "2005 <B>Irish</B> Poker Open",
+        "2006 <B>Irish</B> Poker Open",
+        "2007 <B>Irish</B> Poker Open",
+        "2008 <B>Irish</B> Poker Open",
+        "2009 <B>Irish</B> Poker Open",
+        "2010 <B>Irish</B> Poker Open",
+        "2011 <B>Irish</B> Poker Open",
+        "2012 <B>Irish</B> Poker Open",
+        "2013 <B>Irish</B> Poker Open",
+        "2014 <B>Irish</B> Poker Open",
+        "2015 <B>Irish</B> Poker Open",
+        "2016 <B>Irish</B> Poker Open",
+        "2017 <B>Irish</B> Poker Open",
+        "2018 <B>Irish</B> Poker Open",
+        "The <B>Irish</B> Poker Open"
+      ],
+      "comment": [
+        "The <B>Irish</B> Poker Open is the longest running No Limit Texas hold 'em poker tournament in Europe and"
+      ],
+      "label": [
+        "<B>Irish</B> Poker Open"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Poker_Open"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Poker_tournaments_in_Europe",
+        "http://dbpedia.org/resource/Category:Recurring_events_established_in_1980"
+      ]
+    },
+    {
+      "score": [
+        "3622.0798"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Parliamentary_Party"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> National Party",
+        "<B>Irish</B> Parliamentary",
+        "<B>Irish</B> Parliamentry Party",
+        "<B>Irish</B> Party",
+        "Parnellism",
+        "Parnellite home-rulers",
+        "Parnellite split"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Parliamentary Party (IPP; commonly called the <B>Irish</B> Party or the Home Rule Party) was"
+      ],
+      "label": [
+        "<B>Irish</B> Parliamentary Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Parliamentary_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1874_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1922_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:All-Ireland_political_parties",
+        "http://dbpedia.org/resource/Category:All-for-Ireland_League_MPs",
+        "http://dbpedia.org/resource/Category:Anti-Parnellite_MPs",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_(1801–1923)",
+        "http://dbpedia.org/resource/Category:Irish_Parliamentary_Party_MPs",
+        "http://dbpedia.org/resource/Category:Irish_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Land_reform_in_Ireland",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Parnellite_MPs",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1922",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1874",
+        "http://dbpedia.org/resource/Category:Political_parties_in_pre-partition_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "3603.68"
+      ],
+      "refCount": [
+        "53"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Congress_of_Trade_Unions"
+      ],
+      "redirectlabel": [
+        "ICTU",
+        "<B>Irish</B> Congress of Trades Unions",
+        "<B>Irish</B> TUC"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Congress of Trade Unions (often abbreviated to just Congress or ICTU), formed in 1959 by"
+      ],
+      "label": [
+        "<B>Irish</B> Congress of Trade Unions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Congress_of_Trade_Unions"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ]
+    },
+    {
+      "score": [
+        "3594.9983"
+      ],
+      "refCount": [
+        "221"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Townland"
+      ],
+      "redirectlabel": [
+        "Baile fearainn",
+        "Ballyboe",
+        "Fermland",
+        "<B>Irish</B> Townland",
+        "<B>Irish</B> townlands",
+        "Toonlann",
+        "Town land",
+        "Townland (Scotland)",
+        "Townland (fermland)",
+        "Townlands",
+        "Townsland"
+      ],
+      "comment": [
+        "A townland (<B>Irish</B>: baile fearainn; Ulster-Scots: toonlann) is a small geographical division of land"
+      ],
+      "label": [
+        "Townland"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Townland"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Townlands_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Townlands_of_Ireland",
+        "http://dbpedia.org/resource/Category:Townlands_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Types_of_administrative_division"
+      ]
+    },
+    {
+      "score": [
+        "3478.1465"
+      ],
+      "refCount": [
+        "101"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Proceedings_of_the_Royal_Irish_Academy"
+      ],
+      "redirectlabel": [
+        "Biol. Environ.",
+        "Biol Environ",
+        "Biology & Environment: Proceedings of the Royal <B>Irish</B> Academy",
+        "Biology & Environment",
+        "Biology and Environment: Proceedings of the Royal <B>Irish</B> Academy",
+        "Biology and Environment",
+        "Math. Proc. R.I.A.",
+        "Math. Proc. R. Ir. Acad.",
+        "Math. Proc. RIA",
+        "Math. Proc. Roy. Ir. Acad.",
+        "Math. Proc. Royal Ir. Acad.",
+        "Math Proc RIA",
+        "Math Proc R Ir Acad",
+        "Math Proc Roy Ir Acad",
+        "Math Proc Royal Ir Acad",
+        "Mathematical Proceedings of the Royal <B>Irish</B> Academy",
+        "Proc. R.I.A.",
+        "Proc. R. I. A.",
+        "Proc. R. Ir. Acad., Polite Lit. Antiq.",
+        "Proc. R. Ir. Acad., Sci.",
+        "Proc. R. Ir. Acad.",
+        "Proc. R. Ir. Acad. A",
+        "Proc. R. Ir. Acad. B",
+        "Proc. R. Ir. Acad. C",
+        "Proc. R. Ir. Acad. Sect. A",
+        "Proc. R. Ir. Acad. Sect. B",
+        "Proc. R. Ir. Acad. Sect. C",
+        "Proc. RIA",
+        "Proc. Roy. Ir. Acad., Polite Lit. Antiq.",
+        "Proc. Roy. Ir. Acad., Sci.",
+        "Proc. Roy. Ir. Acad.",
+        "Proc. Roy. Ir. Acad. A",
+        "Proc. Roy. Ir. Acad. B",
+        "Proc. Roy. Ir. Acad. C",
+        "Proc. Roy. Ir. Acad. Sect. A",
+        "Proc. Roy. Ir. Acad. Sect. B",
+        "Proc. Roy. Ir. Acad. Sect. C",
+        "Proc. Royal Ir. Acad., Polite Lit. Antiq.",
+        "Proc. Royal Ir. Acad., Sci.",
+        "Proc. Royal Ir. Acad.",
+        "Proc. Royal Ir. Acad. A",
+        "Proc. Royal Ir. Acad. B",
+        "Proc. Royal Ir. Acad. C",
+        "Proc. Royal Ir. Acad. Sect. A",
+        "Proc. Royal Ir. Acad. Sect. B",
+        "Proc. Royal Ir. Acad. Sect. C",
+        "Proc. Royal <B>Irish</B> Acad.",
+        "Proc RIA",
+        "Proc R Ir Acad, Polite Lit Antiq",
+        "Proc R Ir Acad, Sci",
+        "Proc R Ir Acad",
+        "Proc R Ir Acad A",
+        "Proc R Ir Acad B",
+        "Proc R Ir Acad C",
+        "Proc R Ir Acad Sect A",
+        "Proc R Ir Acad Sect B",
+        "Proc R Ir Acad Sect C",
+        "Proc Roy Ir Acad, Polite Lit Antiq",
+        "Proc Roy Ir Acad, Sci",
+        "Proc Roy Ir Acad",
+        "Proc Roy Ir Acad A",
+        "Proc Roy Ir Acad B",
+        "Proc Roy Ir Acad C",
+        "Proc Roy Ir Acad Sect A",
+        "Proc Roy Ir Acad Sect B",
+        "Proc Roy Ir Acad Sect C",
+        "Proc Royal Ir Acad, Polite Lit Antiq",
+        "Proc Royal Ir Acad, Sci",
+        "Proc Royal Ir Acad",
+        "Proc Royal Ir Acad A",
+        "Proc Royal Ir Acad B",
+        "Proc Royal Ir Acad C",
+        "Proc Royal Ir Acad Sect A",
+        "Proc Royal Ir Acad Sect B",
+        "Proc Royal Ir Acad Sect C",
+        "Proc Royal <B>Irish</B> Acad",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section A: Mathematical & Physical Sciences",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section A: Mathematical and Physical Sciences",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section A",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section B: Biological, Geological, & Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section B: Biological, Geological, and Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section B: Biological, Geological & Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section B: Biological, Geological and Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section B",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section C: Archaeology, Celtic Studies, History, Linguistics, Literature",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section C: Archaeology, Culture, History, Literature",
+        "Proceedings of the Royal <B>Irish</B> Academy, Section C",
+        "Proceedings of the Royal <B>Irish</B> Academy. Polite Literature & Antiquities",
+        "Proceedings of the Royal <B>Irish</B> Academy. Polite Literature and Antiquities",
+        "Proceedings of the Royal <B>Irish</B> Academy. Science",
+        "Proceedings of the Royal <B>Irish</B> Academy. Section A: Mathematical & Physical Sciences",
+        "Proceedings of the Royal <B>Irish</B> Academy. Section A: Mathematical and Physical Sciences",
+        "Proceedings of the Royal <B>Irish</B> Academy. Section B: Biological, Geological, and Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy. Section B: Biological, Geological & Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy. Section B: Biological, Geological and Chemical Science",
+        "Proceedings of the Royal <B>Irish</B> Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature",
+        "Proceedings of the Royal <B>Irish</B> Academy: Archaeology, Culture, History, Literature",
+        "Proceedings of the Royal <B>Irish</B> Academy A",
+        "Proceedings of the Royal <B>Irish</B> Academy B",
+        "Proceedings of the Royal <B>Irish</B> Academy C",
+        "Proceedings of the Royal <B>Irish</B> Academy Section C"
+      ],
+      "typeName": [
+        "WrittenWork",
+        "AcademicJournal",
+        "Work",
+        "PeriodicalLiterature"
+      ],
+      "comment": [
+        "The Proceedings of the Royal <B>Irish</B> Academy (PRIA) is the journal of the Royal <B>Irish</B> Academy"
+      ],
+      "label": [
+        "Proceedings of the Royal <B>Irish</B> Academy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Proceedings_of_the_Royal_Irish_Academy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/AcademicJournal",
+        "http://dbpedia.org/ontology/Work",
+        "http://dbpedia.org/ontology/PeriodicalLiterature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Magazines_published_in_Ireland",
+        "http://dbpedia.org/resource/Category:Multidisciplinary_academic_journals",
+        "http://dbpedia.org/resource/Category:Royal_Irish_Academy"
+      ]
+    },
+    {
+      "score": [
+        "3412.087"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish"
+      ],
+      "redirectlabel": [
+        "Arlotta Family Lacrosse Stadium",
+        "Courtney Tennis Center",
+        "Eck Tennis Pavilion",
+        "Fighting <B>Irish</B>",
+        "Loftus Sports Center",
+        "McConnell Family Boathouse",
+        "Notre Dame Athletics",
+        "Notre Dame Fighting <B>Irish</B> men's cross country",
+        "Notre Dame Fighting <B>Irish</B> men's golf",
+        "Notre Dame Fighting <B>Irish</B> men's tennis",
+        "Notre Dame Fighting <B>Irish</B> ski team",
+        "Notre Dame Fighting <B>Irish</B> track and field",
+        "Notre Dame Fighting <B>Irish</B> women's cross country",
+        "Notre Dame Fighting <B>Irish</B> women's tennis",
+        "Notre Dame Golf Course",
+        "Notre Dame Track and Field Stadium",
+        "The fighting <B>irish</B>",
+        "University of Notre Dame Athletics",
+        "Warren Golf Course"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The Notre Dame Fighting <B>Irish</B> are the athletic teams that represent the University of Notre Dame"
+      ],
+      "label": [
+        "Notre Dame Fighting <B>Irish</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1887_establishments_in_Indiana",
+        "http://dbpedia.org/resource/Category:Irish-American_culture_in_sports",
+        "http://dbpedia.org/resource/Category:Notre_Dame_Fighting_Irish",
+        "http://dbpedia.org/resource/Category:Sports_clubs_established_in_1887"
+      ]
+    },
+    {
+      "score": [
+        "3407.3438"
+      ],
+      "refCount": [
+        "237"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Ireland"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Crown",
+        "Kingdom of ireland",
+        "Kingdom of Éire",
+        "List of <B>Irish</B> Kings",
+        "Ríocht na hÉireann",
+        "Ríocht Éireann",
+        "Ríoghacht Éireann",
+        "Tudor Ireland"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of Ireland (Classical <B>Irish</B>: Ríoghacht Éireann; Modern <B>Irish</B>: Ríocht Éireann) was a"
+      ],
+      "label": [
+        "Kingdom of Ireland"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Ireland"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1542_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:16th_century_in_Ireland",
+        "http://dbpedia.org/resource/Category:17th_century_in_Ireland",
+        "http://dbpedia.org/resource/Category:1800_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Early_Modern_Ireland",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Former_kingdoms_in_Ireland",
+        "http://dbpedia.org/resource/Category:History_of_the_United_Kingdom_by_country",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Monarchy_in_Ireland",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1800",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1542"
+      ]
+    },
+    {
+      "score": [
+        "3395.3123"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Volunteers"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Volunteer",
+        "<B>Irish</B> Volunteer Army",
+        "<B>Irish</B> Volunteer Force",
+        "<B>Irish</B> volunteers"
+      ],
+      "comment": [
+        "The <B>Irish</B> Volunteers (<B>Irish</B>: Óglaigh na hÉireann), sometimes called the <B>Irish</B> Volunteer Force or"
+      ],
+      "label": [
+        "<B>Irish</B> Volunteers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Volunteers"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_Ireland",
+        "http://dbpedia.org/resource/Category:1913_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_Republican_Brotherhood",
+        "http://dbpedia.org/resource/Category:Irish_republican_militant_groups",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1913",
+        "http://dbpedia.org/resource/Category:Organizations_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "3379.9563"
+      ],
+      "refCount": [
+        "186"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Labour_Party_(Ireland)"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Labour",
+        "<B>Irish</B> Labour Party",
+        "<B>Irish</B> Labour Party in Northern Ireland",
+        "<B>Irish</B> labour",
+        "Labor Party (Ireland)",
+        "Labor Party of Ireland",
+        "Labour.ie",
+        "Labour Party of Ireland",
+        "Lorraine Mulligan",
+        "Parliamentary Labour Party (Ireland)",
+        "Páirtí an Lucht Oibre"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Labour Party (<B>Irish</B>: Páirtí an Lucht Oibre) is a social democratic political party in the"
+      ],
+      "label": [
+        "Labour Party (Ireland)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Labour_Party_(Ireland)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Full_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Labour_Party_(Ireland)",
+        "http://dbpedia.org/resource/Category:Labour_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Party_of_European_Socialists_member_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1912",
+        "http://dbpedia.org/resource/Category:Political_parties_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Pro-European_political_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "3215.583"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Guards"
+      ],
+      "redirectlabel": [
+        "1 IG",
+        "1st Battalion, <B>Irish</B> Guards",
+        "<B>Irish</B> Guards (1900)",
+        "<B>Irish</B> Guards (1939)",
+        "<B>Irish</B> Guardsman"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Guards (IG), part of the Guards Division, is one of the Foot Guards regiments of the"
+      ],
+      "label": [
+        "<B>Irish</B> Guards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Guards"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1900_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:British_ceremonial_units",
+        "http://dbpedia.org/resource/Category:Guards_regiments",
+        "http://dbpedia.org/resource/Category:Infantry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Irish_Guards",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1900",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_Iraq_War",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_United_Kingdom_in_the_War_in_Afghanistan_(2001–2021)",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "3189.1375"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Republican_Army_(1919–1922)"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Republican Army (1917-1922)",
+        "<B>Irish</B> Republican Army (1917-22)",
+        "<B>Irish</B> Republican Army (1917–22)",
+        "<B>Irish</B> Republican Army (1919-1922)",
+        "<B>Irish</B> Republican Army (1919-22)",
+        "<B>Irish</B> Republican Army (1919–22)",
+        "Original IRA"
+      ],
+      "comment": [
+        "The <B>Irish</B> Republican Army (IRA) (<B>Irish</B>: Óglaigh na hÉireann) was an <B>Irish</B> republican revolutionary"
+      ],
+      "label": [
+        "<B>Irish</B> Republican Army (1919–1922)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Republican_Army_(1919–1922)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-imperialism_in_Europe",
+        "http://dbpedia.org/resource/Category:Guerrilla_organizations",
+        "http://dbpedia.org/resource/Category:Institutions_of_the_Irish_Republic_(1919–1922)",
+        "http://dbpedia.org/resource/Category:Irish_Republican_Army_(1919–1922)",
+        "http://dbpedia.org/resource/Category:Irish_republican_militant_groups",
+        "http://dbpedia.org/resource/Category:National_liberation_armies"
+      ]
+    },
+    {
+      "score": [
+        "3180.1309"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Army"
+      ],
+      "redirectlabel": [
+        "Arm na hÉireann",
+        "Army (Ireland)",
+        "Army of Ireland",
+        "Army of the Republic of Ireland",
+        "<B>Irish</B> Army Enlisted Rank Insignia",
+        "<B>Irish</B> Army Officer Rank Insignia",
+        "<B>Irish</B> Army enlisted rank insignia",
+        "<B>Irish</B> Army officer rank insignia",
+        "<B>Irish</B> army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Army, known simply as the Army (<B>Irish</B>: an tArm), is the land component of the Defence"
+      ],
+      "label": [
+        "<B>Irish</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1924_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Armies_by_country",
+        "http://dbpedia.org/resource/Category:Irish_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1924"
+      ]
+    },
+    {
+      "score": [
+        "3021.899"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_diaspora"
+      ],
+      "redirectlabel": [
+        "Ethnic <B>Irish</B>",
+        "<B>Irish</B>, The, (in countries other than Ireland)",
+        "<B>Irish</B> (in countries other than Ireland)",
+        "<B>Irish</B> Diaspora",
+        "<B>Irish</B> French",
+        "<B>Irish</B> Immigrants",
+        "<B>Irish</B> South African",
+        "<B>Irish</B> emigrant",
+        "<B>Irish</B> emigration",
+        "<B>Irish</B> immigrants",
+        "<B>Irish</B> immigration",
+        "<B>Irish</B> people in South Africa",
+        "The <B>Irish</B> Diaspora"
+      ],
+      "comment": [
+        "The <B>Irish</B> diaspora (<B>Irish</B>: Diaspóra na nGael) refers to ethnic <B>Irish</B> people and their descendants"
+      ],
+      "label": [
+        "<B>Irish</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_diasporas",
+        "http://dbpedia.org/resource/Category:Gaelic_culture",
+        "http://dbpedia.org/resource/Category:Irish_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "3015.3716"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_migration_to_Great_Britain"
+      ],
+      "redirectlabel": [
+        "British <B>Irish</B>",
+        "British people of <B>Irish</B> descent",
+        "English <B>Irish</B>",
+        "<B>Irish</B>-Britain",
+        "<B>Irish</B>-English (people)",
+        "<B>Irish</B> British",
+        "<B>Irish</B> British people",
+        "<B>Irish</B> Briton",
+        "<B>Irish</B> Britons",
+        "<B>Irish</B> English (people)",
+        "<B>Irish</B> English people",
+        "<B>Irish</B> community in Britain",
+        "<B>Irish</B> emigration to Britain",
+        "<B>Irish</B> emigration to England",
+        "<B>Irish</B> immigration to Britain",
+        "<B>Irish</B> immigration to Scotland",
+        "<B>Irish</B> in England",
+        "<B>Irish</B> in Great Britain",
+        "<B>Irish</B> in Scotland",
+        "<B>Irish</B> in Wales",
+        "<B>Irish</B> migration to Britain",
+        "<B>Irish</B> people in Scotland",
+        "Scottish <B>Irish</B>",
+        "UK <B>Irish</B>",
+        "Welsh <B>Irish</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Irish</B> migration to Great Britain has occurred from the earliest recorded history to the present"
+      ],
+      "label": [
+        "<B>Irish</B> migration to Great Britain"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_migration_to_Great_Britain"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:Cornish_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:English_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:History_of_immigration_to_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_Kingdom_by_country_of_origin",
+        "http://dbpedia.org/resource/Category:Ireland_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Ireland–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Scottish_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:Welsh_people_of_Irish_descent"
+      ]
+    },
+    {
+      "score": [
+        "2946.4014"
+      ],
+      "refCount": [
+        "263"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Troubles"
+      ],
+      "redirectlabel": [
+        "Conflict in Northern Ireland",
+        "Consultative Group on the Past",
+        "<B>Irish</B> Troubles",
+        "Murder triangle",
+        "NI conflict",
+        "Northen Ireland Conflict",
+        "Northern Ireland Ethnic Conflict",
+        "Northern Ireland Troubles",
+        "Northern Ireland conflict",
+        "Northern Ireland troubles",
+        "Northern Ireland war",
+        "Northern <B>Irish</B> Troubles",
+        "Northern <B>Irish</B> civil war",
+        "Northern <B>Irish</B> conflict",
+        "RUC-loyalist collusion",
+        "The <B>Irish</B> Problem",
+        "The Troubles (Ireland)",
+        "The Troubles (Northern Ireland)",
+        "The Troubles in Northern Ireland",
+        "The troub;es",
+        "The troubles",
+        "Troubles",
+        "Troubles (Northern Ireland)",
+        "Troubles in Northern Ireland",
+        "Ulster Conflict",
+        "Ulster Ethnic Conflict",
+        "Ulster Troubles",
+        "Ulster conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Troubles (<B>Irish</B>: Na Trioblóidí) were an ethno-nationalist conflict in Northern Ireland during"
+      ],
+      "label": [
+        "The Troubles"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Troubles"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:1969_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:1970s_conflicts",
+        "http://dbpedia.org/resource/Category:1970s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:1970s_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:1980s_conflicts",
+        "http://dbpedia.org/resource/Category:1980s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:1980s_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:1990s_conflicts",
+        "http://dbpedia.org/resource/Category:1990s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:1990s_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:20th-century_military_history_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1969",
+        "http://dbpedia.org/resource/Category:Dirty_wars",
+        "http://dbpedia.org/resource/Category:Guerrilla_wars",
+        "http://dbpedia.org/resource/Category:Ireland–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Irish_republicanism",
+        "http://dbpedia.org/resource/Category:Political_history_of_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Protestant–Catholic_sectarian_violence",
+        "http://dbpedia.org/resource/Category:Rebellions_in_the_United_Kingdom_and_Ireland",
+        "http://dbpedia.org/resource/Category:Separatist_rebellion-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Terrorism_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:The_Troubles_(Northern_Ireland)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ireland",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "2867.9282"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Travellers"
+      ],
+      "redirectlabel": [
+        "An lucht siúil",
+        "Discrimination against <B>Irish</B> Travellers",
+        "History of the <B>Irish</B> Travellers",
+        "<B>Irish</B> Gypsies",
+        "<B>Irish</B> Tinker",
+        "<B>Irish</B> Traveler",
+        "<B>Irish</B> Traveller",
+        "<B>Irish</B> gypsy",
+        "<B>Irish</B> tinkers",
+        "<B>Irish</B> traveler",
+        "<B>Irish</B> travelers",
+        "<B>Irish</B> traveller",
+        "<B>Irish</B> travellers",
+        "Mincéir",
+        "Mincéirí",
+        "Pavee",
+        "Pavees",
+        "Pikies",
+        "The Pavee",
+        "Tinkers"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Irish</B> Travellers (<B>Irish</B>: an lucht siúil, meaning \"the walking people\") are a traditionally"
+      ],
+      "label": [
+        "<B>Irish</B> Travellers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Travellers"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_United_Kingdom_census",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Ireland",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Irish_Travellers",
+        "http://dbpedia.org/resource/Category:Irish_culture",
+        "http://dbpedia.org/resource/Category:Irish_diaspora",
+        "http://dbpedia.org/resource/Category:Nomadic_groups_in_Eurasia"
+      ]
+    },
+    {
+      "score": [
+        "2808.1829"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Republican_Army"
+      ],
+      "redirectlabel": [
+        "Daniel Head",
+        "Genealogy of the IRA",
+        "Genealogy of the <B>Irish</B> Republican Army",
+        "Genealogy of the ira",
+        "IRA political wing",
+        "<B>Irish</B> Republican Group",
+        "List of <B>IRAs</B>",
+        "List of organisations known as the <B>Irish</B> Republican Army",
+        "Old <B>Irish</B> Republican Army",
+        "Political wing of the IRA",
+        "The IRA"
+      ],
+      "comment": [
+        "The <B>Irish</B> Republican Army (IRA) is a name used by various paramilitary organisations in Ireland"
+      ],
+      "label": [
+        "<B>Irish</B> Republican Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Republican_Army"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ireland-related_lists",
+        "http://dbpedia.org/resource/Category:Irish_Republican_Army",
+        "http://dbpedia.org/resource/Category:Lists_of_military_units_and_formations"
+      ]
+    },
+    {
+      "score": [
+        "2807.8032"
+      ],
+      "refCount": [
+        "335"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sinn_Féin"
+      ],
+      "redirectlabel": [
+        "Anti-Treaty Sinn Fein",
+        "<B>Irish</B> Republican Party",
+        "<B>Irish</B> republican Party",
+        "<B>Irish</B> republican party",
+        "Ourselves (Ireland)",
+        "Pro-Treaty Sinn Fein",
+        "Pro-Treaty Sinn Féin",
+        "Provisional Sinn Fein",
+        "Provisional Sinn Féin",
+        "Senn Feinn",
+        "Shinn Fein",
+        "Shinn Féin",
+        "Shinn fein",
+        "Sin Fein",
+        "Sin fein",
+        "SinnFein",
+        "SinnFéin",
+        "Sinn Fein",
+        "Sinn Fein (Anti-Treaty)",
+        "Sinn Fein (Kevin Street)",
+        "Sinn Fein (Pro-Treaty)",
+        "Sinn Fein Party",
+        "Sinn Fein members",
+        "Sinn Fein party",
+        "Sinn Fein republican",
+        "Sinn Féin (Kevin Street)",
+        "Sinn Féin in Northern Ireland",
+        "Sinn Féín",
+        "Sinn fein",
+        "Sinnfein.ie",
+        "Sinnfein",
+        "Sinnféin",
+        "Sínn Féin",
+        "The <B>Irish</B> Republican Party",
+        "We Alone",
+        "We Ourselves",
+        "We ourselves"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "Sinn Féin ( shin FAYN, <B>Irish</B>: [ʃɪnʲ ˈfʲeːnʲ]; English: \"[We] Ourselves\") is a centre-left to left"
+      ],
+      "label": [
+        "Sinn Féin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sinn_Féin"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1905_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Irish_nationalism",
+        "http://dbpedia.org/resource/Category:Left-wing_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Left-wing_politics_in_Ireland",
+        "http://dbpedia.org/resource/Category:Left-wing_populism",
+        "http://dbpedia.org/resource/Category:Parnell_Square",
+        "http://dbpedia.org/resource/Category:Sinn_Féin"
+      ]
+    },
+    {
+      "score": [
+        "2783.9277"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_mythology"
+      ],
+      "redirectlabel": [
+        "Gaelic folk heroes",
+        "<B>Irish</B> Folklore",
+        "<B>Irish</B> Mythology",
+        "<B>Irish</B> Mythology in Popular Culture",
+        "<B>Irish</B> Myths",
+        "<B>Irish</B> legend",
+        "<B>Irish</B> legends",
+        "<B>Irish</B> lore",
+        "<B>Irish</B> myth",
+        "<B>Irish</B> mythology in popular culture",
+        "<B>Irish</B> myths",
+        "Matter of Ireland",
+        "Mythology of Ireland",
+        "Mythology of Northern Ireland",
+        "Mythology of the Republic of Ireland",
+        "Selkie (Dungeons & Dragons)",
+        "Selkie (Dungeons and Dragons)"
+      ],
+      "comment": [
+        " tales in medieval <B>Irish</B> literature. Though the Christian influence is also seen in these"
+      ],
+      "label": [
+        "<B>Irish</B> mythology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_mythology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Celtic_mythology",
+        "http://dbpedia.org/resource/Category:Irish-language_literature",
+        "http://dbpedia.org/resource/Category:Irish_mythology"
+      ]
+    },
+    {
+      "score": [
+        "2754.2742"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Confederate_Wars"
+      ],
+      "redirectlabel": [
+        "Eleven Years' War",
+        "Eleven Years War",
+        "Eleven years war",
+        "<B>Irish</B> Confederate War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Confederate Wars, also called the Eleven Years' War (derived from the <B>Irish</B> language name"
+      ],
+      "label": [
+        "<B>Irish</B> Confederate Wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Confederate_Wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1640s_conflicts",
+        "http://dbpedia.org/resource/Category:1640s_in_Ireland",
+        "http://dbpedia.org/resource/Category:1650s_conflicts",
+        "http://dbpedia.org/resource/Category:1650s_in_Ireland",
+        "http://dbpedia.org/resource/Category:Catholic_rebellions",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Civil_wars_of_the_Early_Modern_period",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1641",
+        "http://dbpedia.org/resource/Category:European_wars_of_religion",
+        "http://dbpedia.org/resource/Category:Irish_Confederate_Wars",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_Kingdom_of_Ireland",
+        "http://dbpedia.org/resource/Category:Religion-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Wars_of_the_Three_Kingdoms"
+      ]
+    },
+    {
+      "score": [
+        "2741.8264"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Post-2008_Irish_economic_downturn"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Irish</B> financial crisis",
+        "2008-13 <B>Irish</B> economic downturn",
+        "2008-13 <B>Irish</B> financial crisis",
+        "2008-14 <B>Irish</B> economic crisis",
+        "2008-14 <B>Irish</B> financial crisis",
+        "2008-2009 <B>Irish</B> financial crisis",
+        "2008-2010 <B>Irish</B> financial crisis",
+        "2008-2011 <B>Irish</B> financial crisis",
+        "2008-2012 <B>Irish</B> financial crisis",
+        "2008-2013 <B>Irish</B> financial crisis",
+        "2008-2014 <B>Irish</B> economic downturn",
+        "2008–09 <B>Irish</B> financial crisis",
+        "2008–13 <B>Irish</B> economic downturn",
+        "2008–13 <B>Irish</B> financial crisis",
+        "2008–14 <B>Irish</B> economic crisis",
+        "2008–14 <B>Irish</B> financial crisis",
+        "2008–2009 <B>Irish</B> financial crisis",
+        "2008–2010 <B>Irish</B> financial crisis",
+        "2008–2011 <B>Irish</B> financial crisis",
+        "2008–2012 <B>Irish</B> financial crisis",
+        "2008–2013 <B>Irish</B> financial crisis",
+        "Economic crisis in Ireland",
+        "Economic crisis of Ireland",
+        "Great Recession in Ireland",
+        "Ireland debt crisis",
+        "Ireland government debt crisis",
+        "<B>Irish</B> debt crisis",
+        "<B>Irish</B> financial crisis",
+        "<B>Irish</B> government debt crisis",
+        "Post- 2008 <B>Irish</B> economic downturn",
+        "Prom Night (Ireland)"
+      ],
+      "comment": [
+        "The post-2008 <B>Irish</B> economic downturn in the Republic of Ireland, coincided with a series of"
+      ],
+      "label": [
+        "Post-2008 <B>Irish</B> economic downturn"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Post-2008_Irish_economic_downturn"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_economic_history",
+        "http://dbpedia.org/resource/Category:2000s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:2008_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2009_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2010_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2010s_economic_history",
+        "http://dbpedia.org/resource/Category:2010s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:2011_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2012_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2013_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2014_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Brian_Cowen",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Ireland",
+        "http://dbpedia.org/resource/Category:Eurozone_crisis",
+        "http://dbpedia.org/resource/Category:Financial_crises",
+        "http://dbpedia.org/resource/Category:Great_Recession_in_Europe",
+        "http://dbpedia.org/resource/Category:Post-2008_Irish_economic_downturn"
+      ]
+    },
+    {
+      "score": [
+        "2725.9177"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Scotch-Irish_Americans"
+      ],
+      "redirectlabel": [
+        "Scot-<B>Irish</B> American",
+        "Scotch-<B>Irish</B> American",
+        "Scotch <B>Irish</B> American",
+        "Scotch <B>irsh</B>",
+        "Scots-<B>Irish</B> American",
+        "Scots-<B>Irish</B> Americans",
+        "Scottish-<B>Irish</B>-American",
+        "Scottish-<B>Irish</B>-Americans",
+        "Scottish-<B>Irish</B> American",
+        "Scottish-<B>Irish</B> Americans",
+        "Ulster American",
+        "Ulster Scot Americans",
+        "Ulster Scots Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Scotch-<B>Irish</B> (or Scots-<B>Irish</B>) Americans are American descendants of Ulster Protestants who migrated"
+      ],
+      "label": [
+        "Scotch-<B>Irish</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Scotch-Irish_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Scotch-Irish_descent",
+        "http://dbpedia.org/resource/Category:British_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:English_diaspora",
+        "http://dbpedia.org/resource/Category:European-American_society",
+        "http://dbpedia.org/resource/Category:Irish_diaspora",
+        "http://dbpedia.org/resource/Category:Scotch-Irish_American",
+        "http://dbpedia.org/resource/Category:Scotch-Irish_American_history",
+        "http://dbpedia.org/resource/Category:Scottish_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2682.1172"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_2,000_Guineas"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> 2000 Guineas"
+      ],
+      "typeName": [
+        "HorseRace",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Race"
+      ],
+      "comment": [
+        "The <B>Irish</B> 2,000 Guineas is a Group 1 flat horse race in Ireland open to three-year-old thoroughbred"
+      ],
+      "label": [
+        "<B>Irish</B> 2,000 Guineas"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_2,000_Guineas"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/HorseRace",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Race"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Curragh_Racecourse",
+        "http://dbpedia.org/resource/Category:Flat_horse_races_for_three-year-olds",
+        "http://dbpedia.org/resource/Category:Flat_races_in_Ireland",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1921"
+      ]
+    },
+    {
+      "score": [
+        "2678.0515"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Irish_politicians"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> politician",
+        "List of Fianna Fail TDs",
+        "List of Fianna Fáil TDs",
+        "List of <B>Irish</B> Politicians",
+        "List of <B>Irish</B> politicians/Office holders, A-C",
+        "List of <B>Irish</B> politicians/Office holders, A–C",
+        "List of <B>Irish</B> politicians/Office holders, D-G",
+        "List of <B>Irish</B> politicians/Office holders, D–G",
+        "List of <B>Irish</B> politicians/Office holders, H-K",
+        "List of <B>Irish</B> politicians/Office holders, H-M",
+        "List of <B>Irish</B> politicians/Office holders, H–K",
+        "List of <B>Irish</B> politicians/Office holders, H–M",
+        "List of <B>Irish</B> politicians/Office holders, L-M",
+        "List of <B>Irish</B> politicians/Office holders, L–M",
+        "List of <B>Irish</B> politicians/Office holders, N-Q",
+        "List of <B>Irish</B> politicians/Office holders, N–Q",
+        "List of <B>Irish</B> politicians/Office holders, R-Y",
+        "List of <B>Irish</B> politicians/Office holders, R–Y",
+        "List of <B>Irish</B> politicians (A-C)",
+        "List of <B>Irish</B> politicians (A–C)",
+        "List of <B>Irish</B> politicians (D-G)",
+        "List of <B>Irish</B> politicians (D–G)",
+        "List of <B>Irish</B> politicians (H-K)",
+        "List of <B>Irish</B> politicians (H–K)",
+        "List of <B>Irish</B> politicians (L-M)",
+        "List of <B>Irish</B> politicians (L–M)",
+        "List of <B>Irish</B> politicians (N-Q)",
+        "List of <B>Irish</B> politicians (N–Q)",
+        "List of <B>Irish</B> politicians (R-Y)",
+        "List of <B>Irish</B> politicians (R–Y)"
+      ],
+      "comment": [
+        "This is a list of public-representative office-holders in Ireland in Ireland. It includes both the Republic of Ireland and Northern Ireland, as well as offices from pre-partition Ireland."
+      ],
+      "label": [
+        "List of <B>Irish</B> politicians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Irish_politicians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Irish_politicians",
+        "http://dbpedia.org/resource/Category:Lists_of_Irish_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_Irish_politicians"
+      ]
+    },
+    {
+      "score": [
+        "2652.0085"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Conservative_Party"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Conservatives",
+        "<B>Irish</B> Tories"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Conservative Party, often called the <B>Irish</B> Tories, was one of the dominant <B>Irish</B>"
+      ],
+      "label": [
+        "<B>Irish</B> Conservative Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Conservative_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:History_of_the_Conservative_Party_(UK)",
+        "http://dbpedia.org/resource/Category:Organisations_associated_with_the_Conservative_Party_(UK)",
+        "http://dbpedia.org/resource/Category:Political_parties_in_pre-partition_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2619.5835"
+      ],
+      "refCount": [
+        "304"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ireland_national_football_team_(1882–1950)"
+      ],
+      "redirectlabel": [
+        "IFA Ireland national football team",
+        "Ireland national football team (1882-1920)",
+        "Ireland national football team (1882-1950)",
+        "Ireland national football team (1882 to 1950)",
+        "Ireland national football team (1882—1950)",
+        "Ireland national football team (IFA)",
+        "<B>Irish</B> national football team (1882-1950)",
+        "<B>Irish</B> national football team (1882–1950)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " 1882 until 1950. It was organised by the <B>Irish</B> Football Association (IFA), and is the fourth oldest"
+      ],
+      "label": [
+        "Ireland national football team (1882–1950)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ireland_national_football_team_(1882–1950)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1882_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Former_national_association_football_teams_in_Europe",
+        "http://dbpedia.org/resource/Category:History_of_association_football_in_Ireland",
+        "http://dbpedia.org/resource/Category:Ireland_national_football_team_(1882–1950)"
+      ]
+    },
+    {
+      "score": [
+        "2573.082"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Independent_Irish_Party"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Independent Opposition",
+        "<B>Irish</B> Independent Party",
+        "The Pope's Brass Band",
+        "The Pope’s Brass Band"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Independent <B>Irish</B> Party (1852–1858) was an <B>Irish</B> political party founded in August of 1850. In"
+      ],
+      "label": [
+        "Independent <B>Irish</B> Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Independent_Irish_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1852_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1858_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:All-Ireland_political_parties",
+        "http://dbpedia.org/resource/Category:Defunct_liberal_political_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_(1801–1923)",
+        "http://dbpedia.org/resource/Category:Irish_Liberal_Party_MPs",
+        "http://dbpedia.org/resource/Category:Irish_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1858",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1852",
+        "http://dbpedia.org/resource/Category:Political_parties_in_pre-partition_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2554.8145"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lynch's_Irish_Pub_F.C."
+      ],
+      "redirectlabel": [
+        "D.S. United",
+        "Lynch's F.C.",
+        "Lynch's FC",
+        "Lynch's <B>Irish</B> Pub",
+        "Lynch's <B>Irish</B> Pub F. C.",
+        "Lynch's <B>Irish</B> Pub FC",
+        "Lynch's <B>Irish</B> Pub F C"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Lynch's <B>Irish</B> Pub F.C. (usually known by the shortened name, Lynch's F.C.) is an American amateur"
+      ],
+      "label": [
+        "Lynch's <B>Irish</B> Pub F.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lynch's_Irish_Pub_F.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999_establishments_in_Florida",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1999",
+        "http://dbpedia.org/resource/Category:Florida_Elite_Soccer_League",
+        "http://dbpedia.org/resource/Category:Soccer_clubs_in_Florida",
+        "http://dbpedia.org/resource/Category:Sports_teams_in_Jacksonville,_Florida"
+      ]
+    },
+    {
+      "score": [
+        "2523.3013"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Irish_Times"
+      ],
+      "redirectlabel": [
+        "BreakingNews.ie",
+        "Ir. Times",
+        "Ireland.com",
+        "<B>IrishTimes.com</B>",
+        "<B>Irish</B> Times",
+        "<B>Irish</B> Times Trust",
+        "<B>Irish</B> times",
+        "<B>Irishtimes.com</B>",
+        "<B>Irishtimes</B>",
+        "Rite and Reason",
+        "Www.irishtimes.com"
+      ],
+      "typeName": [
+        "WrittenWork",
+        "Newspaper",
+        "Work",
+        "PeriodicalLiterature"
+      ],
+      "comment": [
+        "The <B>Irish</B> Times is an <B>Irish</B> daily broadsheet newspaper launched on 29 March 1859. The editor is"
+      ],
+      "label": [
+        "The <B>Irish</B> Times"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Irish_Times"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Newspaper",
+        "http://dbpedia.org/ontology/Work",
+        "http://dbpedia.org/ontology/PeriodicalLiterature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1859_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Daily_newspapers_published_in_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_news_websites",
+        "http://dbpedia.org/resource/Category:Newspaper_companies_of_Ireland",
+        "http://dbpedia.org/resource/Category:Newspapers_established_in_1859",
+        "http://dbpedia.org/resource/Category:Newspapers_published_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:The_Irish_Times"
+      ]
+    },
+    {
+      "score": [
+        "2501.8337"
+      ],
+      "refCount": [
+        "260"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Presbyterianism"
+      ],
+      "redirectlabel": [
+        "Christian - Presbyterian",
+        "Cumberland Presbyterian Church of Hong Kong",
+        "<B>Irish</B> Presbyterianism",
+        "<B>Irish</B> presbyterianism",
+        "Prebysterian",
+        "Prebysterianism",
+        "Presbertyrian",
+        "Presby",
+        "Presbytarian",
+        "Presbyterian",
+        "Presbyterian Christian",
+        "Presbyterian Church",
+        "Presbyterian Churches",
+        "Presbyterian church",
+        "Presbyterianism in Ireland",
+        "Presbyterianism in Scotland",
+        "Presbyterians",
+        "Presbyterism",
+        "Scottish Presbyterian",
+        "Scottish orthodoxy",
+        "Scottish presbyterianism"
+      ],
+      "comment": [
+        "Presbyterianism is a part of the Reformed tradition within Protestantism, which traces its origins to Britain, particularly Scotland. Presbyterian churches derive their name from the presbyterian form of church government, which is governed by representative assemblies of elders. A great number of Reformed churches are organized this way, but the word Presbyterian, when capitalized, is often applied uniquely to churches that trace their roots to the Church of Scotland, as well as several English dissenter groups that formed during the English Civil War. Presbyterian theology typically emphasizes the sovereignty of God, the authority of the Scriptures, and the necessity of grace through faith in Christ. Presbyterian church government was ensured in Scotland by the Acts of Union in 1707, whi"
+      ],
+      "label": [
+        "Presbyterianism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Presbyterianism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christian_terminology",
+        "http://dbpedia.org/resource/Category:Presbyterianism"
+      ]
+    },
+    {
+      "score": [
+        "2484.1826"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_St._Leger"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> St. Leger Stakes",
+        "<B>Irish</B> St Leger"
+      ],
+      "typeName": [
+        "HorseRace",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Race"
+      ],
+      "comment": [
+        "This page is about the horse race. For other uses, see Saint-Léger (disambiguation) The <B>Irish</B> St"
+      ],
+      "label": [
+        "<B>Irish</B> St. Leger"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_St._Leger"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/HorseRace",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Race"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1915_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Curragh_Racecourse",
+        "http://dbpedia.org/resource/Category:Flat_races_in_Ireland",
+        "http://dbpedia.org/resource/Category:Open_long_distance_horse_races",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1915"
+      ]
+    },
+    {
+      "score": [
+        "2463.8203"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Michael_Collins_(Irish_leader)"
+      ],
+      "redirectlabel": [
+        "Assassination of Michael Collins",
+        "Collins 22 Society",
+        "Michael Collins (<B>Irish</B> Leader)",
+        "Michael Collins (<B>Irish</B> leader",
+        "Michael Collins (<B>Irish</B> patriot)",
+        "Michael Collins (leader)",
+        "Michael Collins (revolutionary)",
+        "Michael John \"Mick\" Collins",
+        "Michael John (\"Mick\") Collins",
+        "Michael collins (<B>Irish</B> Leader)",
+        "Michéal O Coileáin",
+        "Mícheál Seán Ó Coileáin",
+        "Mícheál Ó Coileáin",
+        "Shooting of Michael Collins"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Michael Collins (<B>Irish</B>: Mícheál Ó Coileáin; 16 October 1890 – 22 August 1922) was an <B>Irish</B>"
+      ],
+      "label": [
+        "Michael Collins (<B>Irish</B> leader)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Michael_Collins_(Irish_leader)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890_births",
+        "http://dbpedia.org/resource/Category:1920s_murders_in_Ireland",
+        "http://dbpedia.org/resource/Category:1922_crimes_in_Ireland",
+        "http://dbpedia.org/resource/Category:1922_deaths",
+        "http://dbpedia.org/resource/Category:1922_murders_in_Europe",
+        "http://dbpedia.org/resource/Category:Alumni_of_King's_College_London",
+        "http://dbpedia.org/resource/Category:Burials_at_Glasnevin_Cemetery",
+        "http://dbpedia.org/resource/Category:Collins_family",
+        "http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Ireland",
+        "http://dbpedia.org/resource/Category:Early_Sinn_Féin_TDs",
+        "http://dbpedia.org/resource/Category:Gaelic_games_players_from_London",
+        "http://dbpedia.org/resource/Category:Guerrilla_warfare_theorists",
+        "http://dbpedia.org/resource/Category:Heads_of_Irish_provisional_governments",
+        "http://dbpedia.org/resource/Category:Irish_Republican_Army_(1919–1922)_members",
+        "http://dbpedia.org/resource/Category:Irish_nationalists",
+        "http://dbpedia.org/resource/Category:Irish_republicans",
+        "http://dbpedia.org/resource/Category:Irish_revolutionaries",
+        "http://dbpedia.org/resource/Category:Male_murder_victims",
+        "http://dbpedia.org/resource/Category:Members_of_the_1st_Dáil",
+        "http://dbpedia.org/resource/Category:Members_of_the_2nd_Dáil",
+        "http://dbpedia.org/resource/Category:Members_of_the_3rd_Dáil",
+        "http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Northern_Ireland_1921–1925",
+        "http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Northern_Ireland_for_County_Armagh_constituencies",
+        "http://dbpedia.org/resource/Category:Members_of_the_Irish_Republican_Brotherhood",
+        "http://dbpedia.org/resource/Category:Members_of_the_Parliament_of_the_United_Kingdom_for_County_Cork_constituencies_(1801–1922)",
+        "http://dbpedia.org/resource/Category:Ministers_for_Finance_(Ireland)",
+        "http://dbpedia.org/resource/Category:Ministers_for_Justice_(Ireland)",
+        "http://dbpedia.org/resource/Category:National_Army_(Ireland)_generals",
+        "http://dbpedia.org/resource/Category:People_from_County_Cork",
+        "http://dbpedia.org/resource/Category:People_killed_in_the_Irish_Civil_War",
+        "http://dbpedia.org/resource/Category:People_of_the_Easter_Rising",
+        "http://dbpedia.org/resource/Category:People_of_the_Irish_Civil_War_(Pro-Treaty_side)",
+        "http://dbpedia.org/resource/Category:Politicians_from_County_Cork",
+        "http://dbpedia.org/resource/Category:UK_MPs_1918–1922",
+        "http://dbpedia.org/resource/Category:Unsolved_murders_in_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2457.0203"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_name"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> given name",
+        "<B>Irish</B> names",
+        "<B>Irish</B> personal naming system",
+        "<B>Irish</B> surname",
+        "<B>Irish</B> surnames",
+        "Mhic"
+      ],
+      "comment": [
+        "A formal <B>Irish</B>-language personal name consists of a given name and a surname. Surnames in <B>Irish</B> are"
+      ],
+      "label": [
+        "<B>Irish</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Irish_language",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "2441.134"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Unionist_Alliance"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Unionist Party",
+        "<B>Irish</B> Unionist alliance",
+        "<B>Irish</B> unionist Party",
+        "<B>Irish</B> unionist alliance",
+        "<B>Irish</B> unionist party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Unionist Alliance (IUA), also known as the <B>Irish</B> Unionist Party or simply the Unionists"
+      ],
+      "label": [
+        "<B>Irish</B> Unionist Alliance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Unionist_Alliance"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1891_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1922_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Ireland",
+        "http://dbpedia.org/resource/Category:History_of_the_Conservative_Party_(UK)",
+        "http://dbpedia.org/resource/Category:Irish_Unionist_Party_politicians",
+        "http://dbpedia.org/resource/Category:Organisations_associated_with_the_Conservative_Party_(UK)",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1922",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1891",
+        "http://dbpedia.org/resource/Category:Political_parties_in_pre-partition_Ireland",
+        "http://dbpedia.org/resource/Category:Right-wing_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Unionism_in_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2431.4646"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Trades_Union_Congress"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Trade Union Congress"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Trades Union Congress (ITUC) was a union federation covering the island of Ireland."
+      ],
+      "label": [
+        "<B>Irish</B> Trades Union Congress"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Trades_Union_Congress"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1894_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1959_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:National_trade_union_centres_of_Ireland",
+        "http://dbpedia.org/resource/Category:Trade_unions_disestablished_in_1959",
+        "http://dbpedia.org/resource/Category:Trade_unions_established_in_1894"
+      ]
+    },
+    {
+      "score": [
+        "2412.8467"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Middle_Irish"
+      ],
+      "redirectlabel": [
+        "ISO 639:mga",
+        "Mediaeval Gaelic",
+        "Mediaeval <B>Irish</B> Gaelic",
+        "Medieval Gaelic",
+        "Medieval <B>Irish</B>",
+        "Medieval <B>Irish</B> Gaelic",
+        "Mediæval Gaelic",
+        "Mediæval <B>Irish</B> Gaelic",
+        "Middle Gaelic",
+        "Middle Gaelic language",
+        "Middle <B>Irish</B> (900-1200)",
+        "Middle <B>Irish</B> Gaelic",
+        "Middle <B>Irish</B> Gaelic language",
+        "Middle <B>Irish</B> language",
+        "Middle <B>Irish</B> language (900-1200)",
+        "Middle <B>Irish</B> period"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Middle <B>Irish</B> (sometimes called Middle Gaelic, <B>Irish</B>: An Mheán-Ghaeilge) is the Goidelic language"
+      ],
+      "label": [
+        "Middle <B>Irish</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Middle_Irish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Culture_of_medieval_Scotland",
+        "http://dbpedia.org/resource/Category:History_of_the_Irish_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_10th_century",
+        "http://dbpedia.org/resource/Category:Manx_language",
+        "http://dbpedia.org/resource/Category:Medieval_Ireland",
+        "http://dbpedia.org/resource/Category:Medieval_languages",
+        "http://dbpedia.org/resource/Category:Scottish_Gaelic_language"
+      ]
+    },
+    {
+      "score": [
+        "2405.7312"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_literature"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Literature",
+        "<B>Irish</B> author",
+        "<B>Irish</B> litterature",
+        "<B>Irish</B> writing",
+        "Literature of Ireland",
+        "Literature of the Republic of Ireland"
+      ],
+      "comment": [
+        "<B>Irish</B> literature comprises writings in the <B>Irish</B>, Latin, and English (including Ulster Scots"
+      ],
+      "label": [
+        "<B>Irish</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:English-language_literature",
+        "http://dbpedia.org/resource/Category:European_literature",
+        "http://dbpedia.org/resource/Category:Irish_literature"
+      ]
+    },
+    {
+      "score": [
+        "2402.3135"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_pound"
+      ],
+      "redirectlabel": [
+        "IR£",
+        "ISO 4217:IEP",
+        "<B>Irish</B> Pound",
+        "<B>Irish</B> Punt",
+        "<B>Irish</B> currency",
+        "<B>Irish</B> pounds",
+        "<B>Irish</B> punt",
+        "Punt Eireannach",
+        "Punt Éireannach",
+        "Saorstat pound",
+        "Saorstát pound"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Irish</B> pound (<B>Irish</B>: punt Éireannach) was the currency of Ireland until 2002. Its ISO 4217 code"
+      ],
+      "label": [
+        "<B>Irish</B> pound"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_pound"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1928_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:2002_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Central_Bank_of_Ireland",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Currencies_replaced_by_the_euro",
+        "http://dbpedia.org/resource/Category:Currencies_with_multiple_banknote_issuers",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Ireland",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "2389.0742"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Status_of_the_Irish_language"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Gaelic language revitalisation",
+        "<B>Irish</B> Gaelic language revitalization",
+        "<B>Irish</B> Gaelic preservation",
+        "<B>Irish</B> Gaelic revitalisation",
+        "<B>Irish</B> language preservation",
+        "<B>Irish</B> language revitalisation",
+        "<B>Irish</B> language revitalization",
+        "<B>Irish</B> language revival",
+        "<B>Irish</B> language revivalism",
+        "<B>Irish</B> language status",
+        "Preservation of <B>Irish</B> Gaelic",
+        "Preservation of the <B>Irish</B> language",
+        "Revitalisation of <B>Irish</B> Gaelic",
+        "Revitalisation of the <B>Irish</B> language",
+        "Revitalization of <B>Irish</B> Gaelic",
+        "Revitalization of the <B>Irish</B> language",
+        "Revival of <B>Irish</B> Gaelic",
+        "Revival of the <B>Irish</B> language",
+        "Status of <B>Irish</B> Gaelic"
+      ],
+      "comment": [
+        "The official status of the <B>Irish</B> language remains high in the Republic of Ireland, and the total"
+      ],
+      "label": [
+        "Status of the <B>Irish</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Status_of_the_Irish_language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Celtic_language_revival",
+        "http://dbpedia.org/resource/Category:Irish_language",
+        "http://dbpedia.org/resource/Category:Sociolinguistics"
+      ]
+    },
+    {
+      "score": [
+        "2330.5151"
+      ],
+      "refCount": [
+        "706"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/News"
+      ],
+      "redirectlabel": [
+        "American current events",
+        "Australian Current Events",
+        "Australian current events",
+        "British and <B>Irish</B> current events",
+        "Current Events",
+        "Current Issues and Events",
+        "Current event",
+        "Current events",
+        "Currentevents",
+        "Hard news",
+        "History of news",
+        "New Zealand current events",
+        "News coverage",
+        "Newses",
+        "Odd news",
+        "Psychological effects of news consumption",
+        "United States:Current Events",
+        "United States current events"
+      ],
+      "comment": [
+        "News is information about current events. This may be provided through many different media: word of mouth, printing, postal systems, broadcasting, electronic communication, or through the testimony of observers and witnesses to events."
+      ],
+      "label": [
+        "News"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/News"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Communication",
+        "http://dbpedia.org/resource/Category:News",
+        "http://dbpedia.org/resource/Category:Sociology_of_knowledge",
+        "http://dbpedia.org/resource/Category:Television_terminology"
+      ]
+    },
+    {
+      "score": [
+        "2321.7563"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Republic"
+      ],
+      "redirectlabel": [
+        "Independent <B>Irish</B> Republic",
+        "<B>Irish</B> republic"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Irish</B> Republic (<B>Irish</B>: Poblacht na hÉireann or Saorstát Éireann) was a revolutionary state that"
+      ],
+      "label": [
+        "<B>Irish</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1920s_in_Ireland",
+        "http://dbpedia.org/resource/Category:1922_disestablishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:20th_century_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Ireland",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_unrecognized_countries",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_(1801–1923)",
+        "http://dbpedia.org/resource/Category:History_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_republicanism",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1922",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1919"
+      ]
+    },
+    {
+      "score": [
+        "2321.716"
+      ],
+      "refCount": [
+        "282"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Oulu"
+      ],
+      "redirectlabel": [
+        "Barony of Oulu",
+        "History of Oulu",
+        "Oulu, Finland",
+        "Solar power in Oulu",
+        "The <B>Irish</B> Festival of Oulu",
+        "UN/LOCODE:FIOUL",
+        "Ulaburgum",
+        "Uleaborg",
+        "Uleåborg",
+        "Uloa"
+      ],
+      "comment": [
+        "Oulu ( OH-loo, Finnish: [ˈou̯lu] (); Swedish: Uleåborg [ʉːlɛɔˈbɔrj] ()) is a city and municipality of 203,750 inhabitants (31 January 2019) in the region of North Ostrobothnia, Finland. It is the most populous city in Northern Finland, and the fifth most populous in the country. Only the city of Murmansk, Russia, has more people and is further north. Oulu is considered one of Europe's \"living labs\", where residents experiment with new technology (such as NFC tags and ubi-screens) on a community-wide scale."
+      ],
+      "label": [
+        "Oulu"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Oulu"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1605_establishments_in_Sweden",
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_Finland",
+        "http://dbpedia.org/resource/Category:Grand_Duchy_of_Finland",
+        "http://dbpedia.org/resource/Category:Oulu",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1605",
+        "http://dbpedia.org/resource/Category:Port_cities_and_towns_of_the_Baltic_Sea",
+        "http://dbpedia.org/resource/Category:Seaside_resorts_in_Finland"
+      ]
+    },
+    {
+      "score": [
+        "2317.457"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Post-2008_Irish_banking_crisis"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Irish</B> banking crisis",
+        "2008-13 <B>Irish</B> banking crisis",
+        "2008-14 <B>Irish</B> banking crisis",
+        "2008-15 <B>Irish</B> banking crisis",
+        "2008-2009 <B>Irish</B> banking crisis",
+        "2008-2010 <B>Irish</B> banking crisis",
+        "2008-2011 <B>Irish</B> banking crisis",
+        "2008-2012 <B>Irish</B> banking crisis",
+        "2008-2013 <B>Irish</B> banking crisis",
+        "2008–09 <B>Irish</B> banking crisis",
+        "2008–13 <B>Irish</B> banking crisis",
+        "2008–14 <B>Irish</B> banking crisis",
+        "2008–15 <B>Irish</B> banking crisis",
+        "2008–2009 <B>Irish</B> banking crisis",
+        "2008–2010 <B>Irish</B> banking crisis",
+        "2008–2011 <B>Irish</B> banking crisis",
+        "2008–2012 <B>Irish</B> banking crisis",
+        "2008–2013 <B>Irish</B> banking crisis",
+        "Committee of Inquiry into the Banking Crisis",
+        "<B>Irish</B> bailout of banks",
+        "<B>Irish</B> banking crisis"
+      ],
+      "comment": [
+        "The post-2008 <B>Irish</B> banking crisis was the situation whereby, due to the Great Recession, a number"
+      ],
+      "label": [
+        "Post-2008 <B>Irish</B> banking crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Post-2008_Irish_banking_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_economic_history",
+        "http://dbpedia.org/resource/Category:2000s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:2008_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2009_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2010_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2010s_economic_history",
+        "http://dbpedia.org/resource/Category:2010s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:2011_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2012_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2013_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2014_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:2015_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Bank_failures",
+        "http://dbpedia.org/resource/Category:Banking_crises",
+        "http://dbpedia.org/resource/Category:Brian_Cowen",
+        "http://dbpedia.org/resource/Category:Central_Bank_of_Ireland",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Ireland",
+        "http://dbpedia.org/resource/Category:Eurozone_crisis",
+        "http://dbpedia.org/resource/Category:Great_Recession_in_Europe",
+        "http://dbpedia.org/resource/Category:Post-2008_Irish_economic_downturn"
+      ]
+    },
+    {
+      "score": [
+        "2311.4111"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Football_Association"
+      ],
+      "redirectlabel": [
+        "(Northern) <B>Irish</B> Football Association",
+        "IFA Junior Cup",
+        "<B>Irish</B> FA",
+        "Northern <B>Irish</B> Football Association",
+        "The IFA",
+        "Ulster FA"
+      ],
+      "comment": [
+        "The <B>Irish</B> Football Association (IFA) is the governing body for association football in Northern"
+      ],
+      "label": [
+        "<B>Irish</B> Football Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Football_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1880_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Association_football_governing_bodies_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1880",
+        "http://dbpedia.org/resource/Category:UEFA_member_associations"
+      ]
+    },
+    {
+      "score": [
+        "2294.1912"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Double_Irish_arrangement"
+      ],
+      "redirectlabel": [
+        "CAIA arrangement",
+        "Capital Allowances for Intangible Assets",
+        "Capital allowances for intangible assets",
+        "Double <B>Irish</B>",
+        "Double <B>Irish</B> (tax avoidance)",
+        "Double <B>Irish</B> Arrangement",
+        "Double <B>Irish</B> tax",
+        "Double <B>Irish</B> with a Dutch sandwich",
+        "Single malt arrangement",
+        "Single malt tax"
+      ],
+      "comment": [
+        "The Double <B>Irish</B> is a base erosion and profit shifting (\"BEPS\") corporate tax tool, used mostly by"
+      ],
+      "label": [
+        "Double <B>Irish</B> arrangement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Double_Irish_arrangement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Corporate_tax_avoidance",
+        "http://dbpedia.org/resource/Category:Corporate_taxation_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:International_taxation",
+        "http://dbpedia.org/resource/Category:Taxation_in_the_Republic_of_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2282.0425"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Old_Irish"
+      ],
+      "redirectlabel": [
+        "Goidelc",
+        "Goidels",
+        "Goídelc",
+        "ISO 639:sga",
+        "OIr.",
+        "Old Gaelic",
+        "Old Gaelic language",
+        "Old <B>Irish</B> (to 900)",
+        "Old <B>Irish</B> Gaelic",
+        "Old <B>Irish</B> Gaelic language",
+        "Old <B>Irish</B> language",
+        "Old <B>Irish</B> language (to 900)",
+        "Old <B>Irish</B> phonology",
+        "Sean-Ghaeilge",
+        "Sengoidelc",
+        "Sengoídelc"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Old <B>Irish</B> (Goídelc; <B>Irish</B>: Sean-Ghaeilge; Scottish Gaelic: Seann Ghàidhlig; Manx: Shenn Yernish"
+      ],
+      "label": [
+        "Old <B>Irish</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Old_Irish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Culture_of_medieval_Scotland",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_8th_century",
+        "http://dbpedia.org/resource/Category:Medieval_Ireland",
+        "http://dbpedia.org/resource/Category:Medieval_languages",
+        "http://dbpedia.org/resource/Category:Old_Irish"
+      ]
+    },
+    {
+      "score": [
+        "2272.4446"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Republican_Brotherhood"
+      ],
+      "redirectlabel": [
+        "Bráithreachas Phoblacht na hÉireann",
+        "<B>Irish</B> People (newspaper)",
+        "<B>Irish</B> People newspaper",
+        "President of the <B>Irish</B> Republican Brotherhood"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Irish</B> Republican Brotherhood (IRB; <B>Irish</B>: Bráithreachas Phoblacht na hÉireann) was a secret"
+      ],
+      "label": [
+        "<B>Irish</B> Republican Brotherhood"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Republican_Brotherhood"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1858_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Defunct_organisations_based_in_Ireland",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_(1801–1923)",
+        "http://dbpedia.org/resource/Category:Irish_Republican_Brotherhood",
+        "http://dbpedia.org/resource/Category:Irish_revolutionaries",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Dublin_(city)",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1858",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2249.5796"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Ferries"
+      ],
+      "redirectlabel": [
+        "<B>Irish</B> Continental Line",
+        "<B>Irish</B> ferries"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Irish</B> Ferries is a maritime transport company that operates passenger and freight services on"
+      ],
+      "label": [
+        "<B>Irish</B> Ferries"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Ferries"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Companies_based_in_Dublin_(city)",
+        "http://dbpedia.org/resource/Category:Ferry_companies_of_Wales",
+        "http://dbpedia.org/resource/Category:Ferry_companies_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_companies_established_in_1973",
+        "http://dbpedia.org/resource/Category:Transport_companies_established_in_1973"
+      ]
+    },
+    {
+      "score": [
+        "2203.9822"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Australians"
+      ],
+      "redirectlabel": [
+        "Australian <B>Irish</B>",
+        "<B>Irish</B>-Australia",
+        "<B>Irish</B>-Australian",
+        "<B>Irish</B>-Australians",
+        "<B>Irish</B> Australian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Irish</B> Australians (<B>Irish</B>: Gael-Astrálaigh) are an ethnic group of Australian citizens of <B>Irish</B>"
+      ],
+      "label": [
+        "<B>Irish</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:European_Australian",
+        "http://dbpedia.org/resource/Category:Immigration_to_Australia",
+        "http://dbpedia.org/resource/Category:Irish-Australian_culture",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2200.0344"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/South_Irish_Horse"
+      ],
+      "redirectlabel": [
+        "131st (<B>Irish</B> Horse) Company, Imperial Yeomanry",
+        "132nd (<B>Irish</B> Horse) Company, Imperial Yeomanry",
+        "133rd (<B>Irish</B> Horse) Company, Imperial Yeomanry",
+        "134th (<B>Irish</B> Horse) Company, Imperial Yeomanry",
+        "175th (<B>Irish</B> Horse) Company, Imperial Yeomanry",
+        "176th (<B>Irish</B> Horse) Company, Imperial Yeomanry",
+        "18th Corps Cavalry Regiment",
+        "1st Corps Cavalry Regiment",
+        "1st South <B>Irish</B> Horse",
+        "29th (<B>Irish</B> Horse) Battalion, Imperial Yeomanry",
+        "2nd South <B>Irish</B> Horse",
+        "61st (South <B>Irish</B> Horse (Dublin)) Company, Imperial Yeomanry",
+        "74th (Dublin) Company, Imperial Yeomanry",
+        "7th (South <B>Irish</B> Horse) Battalion, Royal <B>Irish</B> Regiment",
+        "99th (<B>Irish</B>) Company, Imperial Yeomanry",
+        "I Corps Cavalry Regiment",
+        "South of Ireland Imperial Yeomanry",
+        "XVIII Corps Cavalry Regiment"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The South <B>Irish</B> Horse was a Special Reserve cavalry regiment of the British Army. Formed on 2"
+      ],
+      "label": [
+        "South <B>Irish</B> Horse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/South_Irish_Horse"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1902_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:1922_disestablishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Cavalry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Defunct_Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Ireland_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1922",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1902",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_I",
+        "http://dbpedia.org/resource/Category:South_Irish_Horse",
+        "http://dbpedia.org/resource/Category:Special_Reserve"
+      ]
+    },
+    {
+      "score": [
+        "2191.3638"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Irish_Fusiliers"
+      ],
+      "redirectlabel": [
+        "Old Fogs",
+        "Princess Victoria's (Royal <B>Irish</B> Fusiliers)",
+        "Princess Victoria's Royal <B>Irish</B> Fusiliers",
+        "Royal <B>Irish</B> Fusiliers (Princess Victoria's)",
+        "The Princess Victoria's (Royal <B>Irish</B> Fusiliers)",
+        "The Royal <B>Irish</B> Fusiliers",
+        "The Royal <B>Irish</B> Fusiliers (Princess Victoria's)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Irish</B> Fusiliers (Princess Victoria's) was an <B>Irish</B> line infantry regiment of the British"
+      ],
+      "label": [
+        "Royal <B>Irish</B> Fusiliers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Irish_Fusiliers"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1881_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:1968_disestablishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Armagh_(city)",
+        "http://dbpedia.org/resource/Category:Defunct_Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Fusilier_regiments",
+        "http://dbpedia.org/resource/Category:Fusilier_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Infantry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Ireland_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1968",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1881",
+        "http://dbpedia.org/resource/Category:Museums_in_County_Armagh",
+        "http://dbpedia.org/resource/Category:Regimental_museums_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2158.85"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anglo-Irish_people"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Irish</B>",
+        "Anglo-<B>Irishman</B>",
+        "Anglo <B>Irish</B>",
+        "Angloirish",
+        "Anglo–<B>Irish</B>",
+        "English-<B>Irish</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Anglo-<B>Irish</B> (<B>Irish</B>: Angla-Éireannach) is a term which was more commonly used in the 19th and early"
+      ],
+      "label": [
+        "Anglo-<B>Irish</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anglo-Irish_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anglo-Irish_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Ireland",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Social_class_in_Ireland",
+        "http://dbpedia.org/resource/Category:Social_history_of_Ireland",
+        "http://dbpedia.org/resource/Category:Social_history_of_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "2153.9827"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Argentine"
+      ],
+      "redirectlabel": [
+        "Dresden Affair",
+        "<B>Irish</B>-Argentine",
+        "<B>Irish</B> Argentineans",
+        "<B>Irish</B> Argentines",
+        "<B>Irish</B> Argentinian",
+        "<B>Irish</B> Argentinians",
+        "<B>Irish</B> settlement in Argentina"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Irish</B> Argentines are Argentine citizens who are fully or partially of <B>Irish</B> descent. <B>Irish</B>"
+      ],
+      "label": [
+        "<B>Irish</B> Argentine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Argentine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Irish_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Argentina",
+        "http://dbpedia.org/resource/Category:Irish_Argentine",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2143.8945"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/London_Irish"
+      ],
+      "redirectlabel": [
+        "Digger (Mascot)",
+        "Digger (mascot)",
+        "LIRFC",
+        "London <B>Irish</B> FC",
+        "London <B>Irish</B> RFC",
+        "London <B>Irish</B> rugby",
+        "The Exiles (rugby)"
+      ],
+      "typeName": [
+        "Organisation",
+        "RugbyClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "London <B>Irish</B> RFC is a professional English rugby union club, with an <B>Irish</B> Identity. It was"
+      ],
+      "label": [
+        "London <B>Irish</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/London_Irish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/RugbyClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1898_establishments_in_England",
+        "http://dbpedia.org/resource/Category:English_rugby_union_teams",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_in_England",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_sports_clubs_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:London_Irish",
+        "http://dbpedia.org/resource/Category:Premiership_Rugby_teams",
+        "http://dbpedia.org/resource/Category:Rugby_clubs_established_in_1898",
+        "http://dbpedia.org/resource/Category:Rugby_union_clubs_in_London",
+        "http://dbpedia.org/resource/Category:Rugby_union_in_Berkshire",
+        "http://dbpedia.org/resource/Category:Rugby_union_in_Surrey",
+        "http://dbpedia.org/resource/Category:Sport_in_Reading,_Berkshire"
+      ]
+    },
+    {
+      "score": [
+        "2125.4722"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Allied_Irish_Banks"
+      ],
+      "redirectlabel": [
+        "A.I.B",
+        "AIB Cup",
+        "AIB Group",
+        "Aib.ie",
+        "Allfirst Bank",
+        "Allied <B>Irish</B> Bank",
+        "Allied <B>Irish</B> Bank F.C.",
+        "Allied <B>Irish</B> Banks, p.l.c.",
+        "Allied <B>Irish</B> Banks Act 1993",
+        "Allied <B>Irish</B> Banks Act 1996",
+        "Allied <B>Irish</B> Banks F.C.",
+        "Allied <B>Irish</B> Banks plc",
+        "Munster & Leinster Bank",
+        "Munster and Leinster Bank",
+        "Provincial Bank of Ireland",
+        "Royal Bank of Ireland"
+      ],
+      "comment": [
+        "Allied <B>Irish</B> Banks, p.l.c. is one of the so-called Big Four commercial banks in Ireland. AIB offers"
+      ],
+      "label": [
+        "Allied <B>Irish</B> Banks"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Allied_Irish_Banks"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_initial_public_offerings",
+        "http://dbpedia.org/resource/Category:Allied_Irish_Banks",
+        "http://dbpedia.org/resource/Category:Banks_established_in_1966",
+        "http://dbpedia.org/resource/Category:Banks_of_Ireland",
+        "http://dbpedia.org/resource/Category:Banks_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Banks_under_direct_supervision_of_the_European_Central_Bank",
+        "http://dbpedia.org/resource/Category:Companies_listed_on_Euronext_Dublin",
+        "http://dbpedia.org/resource/Category:Financial_services_companies_based_in_Dublin_(city)",
+        "http://dbpedia.org/resource/Category:Irish_brands",
+        "http://dbpedia.org/resource/Category:Irish_companies_established_in_1966",
+        "http://dbpedia.org/resource/Category:Rogue_trading_banks"
+      ]
+    },
+    {
+      "score": [
+        "2116.984"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British–Irish_Parliamentary_Assembly"
+      ],
+      "redirectlabel": [
+        "BIIPB",
+        "British-<B>Irish</B> Inter-Parliamentary Body",
+        "British-<B>Irish</B> Inter Parliamentary Body",
+        "British-<B>Irish</B> Interparliamentary Body",
+        "British-<B>Irish</B> Parliamentary Assembly",
+        "British-<B>Irish</B> Parliamentary Body",
+        "British <B>Irish</B> Inter-Parliamentary Body",
+        "British <B>Irish</B> Inter Parliamentary Body",
+        "British <B>Irish</B> Interparliamentary Body",
+        "British <B>Irish</B> Parliamentary Assembly",
+        "British <B>Irish</B> Parliamentary Body",
+        "British–<B>Irish</B> Inter-Parliamentary Body",
+        "British–<B>Irish</B> Inter Parliamentary Body",
+        "British–<B>Irish</B> Interparliamentary Body",
+        "British–<B>Irish</B> Parliamentary Body"
+      ],
+      "comment": [
+        "The British–<B>Irish</B> Parliamentary Assembly (BIPA, <B>Irish</B>: Tionól Pharlaiminteach na Breataine agus na"
+      ],
+      "label": [
+        "British–<B>Irish</B> Parliamentary Assembly"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British–Irish_Parliamentary_Assembly"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1990_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Jersey",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_the_Isle_of_Man",
+        "http://dbpedia.org/resource/Category:Ireland–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Northern_Ireland_Assembly",
+        "http://dbpedia.org/resource/Category:Oireachtas",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1990",
+        "http://dbpedia.org/resource/Category:Parliament_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Parliamentary_assemblies",
+        "http://dbpedia.org/resource/Category:Politics_of_Guernsey",
+        "http://dbpedia.org/resource/Category:Politics_of_the_British_Isles",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Scottish_Parliament",
+        "http://dbpedia.org/resource/Category:Senedd"
+      ]
+    },
+    {
+      "score": [
+        "2113.1064"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_dance"
+      ],
+      "redirectlabel": [
+        "Clicks (<B>Irish</B> dance)",
+        "Dance in Ireland",
+        "Dance in Northern Ireland",
+        "Dance in the Republic of Ireland",
+        "History of <B>Irish</B> dance",
+        "<B>Irish</B> Dance",
+        "<B>Irish</B> Dancing",
+        "<B>Irish</B> dance music",
+        "<B>Irish</B> dancer",
+        "<B>Irish</B> dancing"
+      ],
+      "comment": [
+        "<B>Irish</B> dance is a group of traditional dance forms originating from Ireland, encompassing dancing"
+      ],
+      "label": [
+        "<B>Irish</B> dance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_dance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Folk_dances",
+        "http://dbpedia.org/resource/Category:Irish_dance"
+      ]
+    },
+    {
+      "score": [
+        "2111.4717"
+      ],
+      "refCount": [
+        "76"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Health_Service_Executive"
+      ],
+      "redirectlabel": [
+        "Feidhmeannacht na Seirbhíse Sláinte",
+        "HSE.ie",
+        "Health Service Executive (Ireland)",
+        "<B>Irish</B> Health Boards",
+        "<B>Irish</B> Health Service Executive Regions",
+        "<B>Irish</B> Health Services",
+        "Regions of the Health Service Executive (Ireland)"
+      ],
+      "comment": [
+        "The Health Service Executive (HSE) (<B>Irish</B>: Feidhmeannacht na Seirbhíse Sláinte) is responsible for"
+      ],
+      "label": [
+        "Health Service Executive"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Health_Service_Executive"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Department_of_Health_(Ireland)",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_2005",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Health_Service_Executive",
+        "http://dbpedia.org/resource/Category:Medical_and_health_organisations_based_in_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Micheál_Martin"
+      ]
+    },
+    {
+      "score": [
+        "2110.9238"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Irish_Academy"
+      ],
+      "redirectlabel": [
+        "10.3318",
+        "Acadamh Ríoga na hÉireann",
+        "Honorary Member of the Royal <B>Irish</B> Academy",
+        "Ireland Imperial Academy of Science",
+        "<B>Irish</B> Studies in International Affairs",
+        "Member of the Royal <B>Irish</B> Academy",
+        "Membership of the Royal <B>Irish</B> Academy",
+        "The Transactions of the Royal <B>Irish</B> Academy",
+        "Transactions of the Royal <B>Irish</B> Academy"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Irish</B> Academy (RIA; <B>Irish</B>: Acadamh Ríoga na hÉireann), based in Dublin, is an all-Ireland"
+      ],
+      "label": [
+        "Royal <B>Irish</B> Academy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Irish_Academy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1785_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:All-Ireland_organisations",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:National_academies",
+        "http://dbpedia.org/resource/Category:Royal_Irish_Academy",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1785",
+        "http://dbpedia.org/resource/Category:Seanad_nominating_bodies"
+      ]
+    },
+    {
+      "score": [
+        "2103.4873"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anglo-Irish_Treaty"
+      ],
+      "redirectlabel": [
+        "An Conradh Angla-Éireannach",
+        "Anglo-<B>Irish</B> Treaty of 1921",
+        "Anglo-<B>Irish</B> treaty",
+        "Anglo-<B>Irish</B> treaty of 1922",
+        "Anglo <B>Irish</B> Treaty",
+        "Anti-Treaty",
+        "Articles of Agreement for a Treaty Between Great Britain and Ireland",
+        "Articles of Agreement for a Treaty between Great Britain and Ireland",
+        "Articles of Agreement for an <B>Irish</B> Peace",
+        "British-<B>Irish</B> Treaty",
+        "<B>Irish</B> treaty",
+        "The Treaty",
+        "Treaty Debates",
+        "Treaty Debates (Ireland)",
+        "Treaty debates"
+      ],
+      "comment": [
+        "The Anglo-<B>Irish</B> Treaty (<B>Irish</B>: An Conradh Angla-Éireannach), commonly known as The Treaty and"
+      ],
+      "label": [
+        "Anglo-<B>Irish</B> Treaty"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anglo-Irish_Treaty"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920s_in_Irish_politics",
+        "http://dbpedia.org/resource/Category:1920s_in_the_City_of_Westminster",
+        "http://dbpedia.org/resource/Category:1921_in_British_law",
+        "http://dbpedia.org/resource/Category:1921_in_Ireland",
+        "http://dbpedia.org/resource/Category:1921_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:1921_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:20th_century_in_the_Royal_Borough_of_Kensington_and_Chelsea",
+        "http://dbpedia.org/resource/Category:Bilateral_treaties_of_Ireland",
+        "http://dbpedia.org/resource/Category:Bilateral_treaties_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:British_constitutional_laws_concerning_Ireland",
+        "http://dbpedia.org/resource/Category:Constitution_of_the_Irish_Free_State",
+        "http://dbpedia.org/resource/Category:Constitutional_laws_of_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Constitutional_laws_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:December_1921_events",
+        "http://dbpedia.org/resource/Category:History_of_Ireland_(1801–1923)",
+        "http://dbpedia.org/resource/Category:Interwar-period_treaties",
+        "http://dbpedia.org/resource/Category:Ireland_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Ireland–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Peace_treaties_of_Ireland",
+        "http://dbpedia.org/resource/Category:Peace_treaties_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Treaties_concluded_in_1921",
+        "http://dbpedia.org/resource/Category:Treaties_entered_into_force_in_1922",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Irish_Free_State",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_United_Kingdom_(1801–1922)"
+      ]
+    },
+    {
+      "score": [
+        "2095.374"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Home_Rule_movement"
+      ],
+      "redirectlabel": [
+        "Home Rule, <B>Irish</B>",
+        "Home Rule (Ireland)",
+        "Home Rule Bill",
+        "Home Rule for Ireland",
+        "Home Rule in Ireland",
+        "Home rule bill",
+        "<B>Irish</B> Home Rule",
+        "<B>Irish</B> Home Rule Bill",
+        "<B>Irish</B> Home Rule Bills",
+        "<B>Irish</B> Home Rule Movement",
+        "<B>Irish</B> Home Rule bills",
+        "<B>Irish</B> Home rule",
+        "<B>Irish</B> home rule",
+        "<B>Irish</B> home rule movement"
+      ],
+      "comment": [
+        "The <B>Irish</B> Home Rule movement was a movement that campaigned for self-government (or \"home rule"
+      ],
+      "label": [
+        "<B>Irish</B> Home Rule movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Home_Rule_movement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1886_in_Ireland",
+        "http://dbpedia.org/resource/Category:1893_in_Ireland",
+        "http://dbpedia.org/resource/Category:1914_in_Ireland",
+        "http://dbpedia.org/resource/Category:1920_in_Ireland",
+        "http://dbpedia.org/resource/Category:Home_rule_in_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_nationalism"
+      ]
+    },
+    {
+      "score": [
+        "2094.9924"
+      ],
+      "refCount": [
+        "84"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Congregation_of_Christian_Brothers"
+      ],
+      "redirectlabel": [
+        "Christian Brothers (Ireland)",
+        "Christian Brothers (<B>Irish</B>)",
+        "Christian Brothers of Ireland",
+        "Congregatio Fratrum Christianorum",
+        "Congregation of <B>Irish</B> Christian Brothers",
+        "Congregation of christian brothers",
+        "Congregation of the Christian Brothers",
+        "<B>Irish</B> Christian Brothers"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " of its foundation, though much relieved from the harshest of the Penal Laws by the <B>Irish</B>"
+      ],
+      "label": [
+        "Congregation of Christian Brothers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Congregation_of_Christian_Brothers"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Catholic_Church_sexual_abuse_scandals_in_Australia",
+        "http://dbpedia.org/resource/Category:Catholic_educational_institutions",
+        "http://dbpedia.org/resource/Category:Catholic_orders_and_societies",
+        "http://dbpedia.org/resource/Category:Catholic_religious_institutes_established_in_the_19th_century",
+        "http://dbpedia.org/resource/Category:Catholic_teaching_orders",
+        "http://dbpedia.org/resource/Category:Congregation_of_Christian_Brothers",
+        "http://dbpedia.org/resource/Category:Institutes_of_Catholic_religious_brothers"
+      ]
+    },
+    {
+      "score": [
+        "2085.8215"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Irish_Regiment_(1992)"
+      ],
+      "redirectlabel": [
+        "1st Battalion, Royal <B>Irish</B> Regiment",
+        "1st Battalion, Royal <B>Irish</B> Regiment (1992)",
+        "1st Battalion, The Royal <B>Irish</B> Regiment",
+        "83rd Ulster Defense Regiment",
+        "Royal <B>Irish</B> Regiment (27th (Inniskilling), 83rd, 87th and Ulster Defence Regiment)",
+        "Royal <B>Irish</B> Regiment (27th (Inniskilling), 83rd and 87th and Ulster Defence Regiment)",
+        "Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd, 87th and Ulster Defence Regiment)",
+        "Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd and 87th and The Ulster Defence Regiment)",
+        "Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd and 87th and Ulster Defence Regiment)",
+        "Royal <B>Irish</B> Regiment (formed 1992)",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling), 83rd, 87th and Ulster Defence Regiment)",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling), 83rd and 87th and Ulster Defence Regiment",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd, 87th and Ulster Defence Regiment)",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd and 87th and The Ulster Defence Regiment)",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd and 87th and Ulster Defence Regiment)",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling) 83rd and 87th and Ulster Defence Regiment",
+        "The Royal <B>Irish</B> Regiment (27th (Inniskillings), 83rd, 87th & The Ulster Defence Regiment)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Irish</B> Regiment (27th (Inniskilling), 83rd and 87th and Ulster Defence Regiment) (R <B>IRISH</B>"
+      ],
+      "label": [
+        "Royal <B>Irish</B> Regiment (1992)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Irish_Regiment_(1992)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Infantry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1992",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_Iraq_War",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_United_Kingdom_in_the_War_in_Afghanistan_(2001–2021)",
+        "http://dbpedia.org/resource/Category:Royal_Irish_Regiment_(1992)"
+      ]
+    },
+    {
+      "score": [
+        "2082.9922"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Naval_Service"
+      ],
+      "redirectlabel": [
+        "Ireland Navy",
+        "<B>Irish</B> Naval Service Commissioned Rank Insignia",
+        "<B>Irish</B> Naval Service Enlisted Rank Insignia",
+        "<B>Irish</B> Navy",
+        "<B>Irish</B> Navy Commissioned Rank Insignia",
+        "<B>Irish</B> Navy Enlisted Rank Insignia",
+        "<B>Irish</B> naval service",
+        "<B>Irish</B> navy",
+        "Naval Service (Ireland)",
+        "Navy of Ireland",
+        "Navy of the Republic of Ireland"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Naval Service (<B>Irish</B>: an tSeirbhís Chabhlaigh) is the maritime component of the Defence Forces"
+      ],
+      "label": [
+        "<B>Irish</B> Naval Service"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Naval_Service"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:Irish_Naval_Service",
+        "http://dbpedia.org/resource/Category:Military_of_the_Republic_of_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2073.9902"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_Republican_Army_(1922–1969)"
+      ],
+      "redirectlabel": [
+        "Anti-Treaty IRA",
+        "Anti-Treaty IRA (From the Treaty to the Troubles)",
+        "Anti-Treaty IRA fighters",
+        "Anti-Treaty IRA men",
+        "Anti-Treaty IRA unit",
+        "Anti-Treaty IRA units",
+        "Anti-Treaty <B>Irish</B> Republican Army",
+        "Anti-Treaty fighters",
+        "Anti-Treaty forces",
+        "Anti-Treaty garrison",
+        "Anti-Treaty leader",
+        "Anti-Treaty leaders",
+        "Anti-Treaty wings",
+        "IRA (1922-69)",
+        "IRA in World War II",
+        "<B>Irish</B> Republican Army (1922-1969)",
+        "<B>Irish</B> Republican Army (1922-69)",
+        "<B>Irish</B> Republican Army (1922–69)"
+      ],
+      "comment": [
+        "The original <B>Irish</B> Republican Army (IRA) fought a guerrilla war against British rule in Ireland in"
+      ],
+      "label": [
+        "<B>Irish</B> Republican Army (1922–1969)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_Republican_Army_(1922–1969)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:1960s_disestablishments_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:1969_disestablishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Irish_Republican_Army_(1922–1969)",
+        "http://dbpedia.org/resource/Category:Irish_republican_militant_groups",
+        "http://dbpedia.org/resource/Category:Proscribed_paramilitary_organisations_in_Northern_Ireland",
+        "http://dbpedia.org/resource/Category:Proscribed_paramilitary_organisations_in_the_Republic_of_Ireland"
+      ]
+    },
+    {
+      "score": [
+        "2073.8406"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/8th_King's_Royal_Irish_Hussars"
+      ],
+      "redirectlabel": [
+        "8th (King's Royal <B>Irish</B>) Hussars",
+        "8th (King’s Royal <B>Irish</B>) Hussars",
+        "8th (The King's Royal <B>Irish</B>) Hussars",
+        "8th (The King's Royal <B>Irish</B>) Light Dragoons",
+        "8th (The King's Royal <B>Irish</B>) Regiment of (Light) Dragoons",
+        "8th (The King's Royal <B>Irish</B>) Regiment of (Light) Dragoons (Hussars)",
+        "8th Dragoons",
+        "8th Hussars",
+        "8th Light Dragoons",
+        "8th Regiment of Dragoons",
+        "8th Royal <B>Irish</B> Hussars",
+        "Eighth King's Royal <B>Irish</B> Light Dragoons",
+        "Henry Conyngham's Regiment of Dragoons",
+        "<B>Irish</B> Dragoons"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The 8th King's Royal <B>Irish</B> Hussars was a cavalry regiment in the British Army, first raised in 1693"
+      ],
+      "label": [
+        "8th King's Royal <B>Irish</B> Hussars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/8th_King's_Royal_Irish_Hussars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1693_establishments_in_Ireland",
+        "http://dbpedia.org/resource/Category:1958_disestablishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Cavalry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Cavalry_regiments_of_the_British_Army_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Component_units_of_the_Queen's_Royal_Hussars",
+        "http://dbpedia.org/resource/Category:Defunct_Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Hussar_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1958",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1693",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_Second_Boer_War",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_United_Kingdom_in_the_Korean_War",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_the_Crimean_War"
+      ]
+    },
+    {
+      "score": [
+        "2063.7615"
+      ],
+      "refCount": [
+        "728"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liberal_Party_(UK)"
+      ],
+      "redirectlabel": [
+        "British Liberal Party",
+        "British Liberal party",
+        "British Liberals",
+        "Deputy Leader of the Liberal Party (UK)",
+        "History of the Liberal Party (UK)",
+        "<B>Irish</B> Liberal Party",
+        "Leader of the British Liberal Party",
+        "Liberal (UK)",
+        "Liberal Party(UK)",
+        "Liberal Party (Uk)",
+        "Liberal Party (United Kingdom)",
+        "Liberal Party UK)",
+        "Liberal Party UK",
+        "Liberal Party of the UK",
+        "Liberal party (UK)",
+        "Liberals (UK)",
+        "The Liberal Party (UK)",
+        "UK Liberal",
+        "UK Liberal Party",
+        "UK Liberal party",
+        "UK Liberals"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        ", it had formed four governments under William Gladstone. Despite being divided over the issue of <B>Irish</B>"
+      ],
+      "label": [
+        "Liberal Party (UK)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liberal_Party_(UK)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1859_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:1988_disestablishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Classical_liberal_parties",
+        "http://dbpedia.org/resource/Category:Defunct_liberal_political_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Leeds_Blue_Plaques",
+        "http://dbpedia.org/resource/Category:Liberal_Party_(UK)",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1988",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1859",
+        "http://dbpedia.org/resource/Category:Social_liberal_parties"
+      ]
+    },
+    {
+      "score": [
+        "2060.702"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Defence_Forces_(Ireland)"
+      ],
+      "redirectlabel": [
+        "Armed Forces of Ireland",
+        "Defense Forces (Ireland)",
+        "Fórsaí Cosanta",
+        "Ireland/Military",
+        "Ireland Armed Forces",
+        "<B>Irish</B> Armed Forces",
+        "<B>Irish</B> Defence Force",
+        "<B>Irish</B> Defence Forces",
+        "<B>Irish</B> Defence Forces (Ireland)",
+        "<B>Irish</B> Defense Forces",
+        "<B>Irish</B> Military",
+        "<B>Irish</B> defence force",
+        "<B>Irish</B> defence forces",
+        "<B>Irish</B> military",
+        "Military of Ireland",
+        "Military of Republic of Ireland",
+        "Military of the Republic of Ireland",
+        "Permanent Defence Forces",
+        "Óglaigh na hÉireann (<B>Irish</B> Dence Forces)",
+        "Óglaigh na hÉireann (The <B>Irish</B> Defence Forces)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Defence Forces (<B>Irish</B>: Fórsaí Cosanta, officially styled Óglaigh na hÉireann) are the armed"
+      ],
+      "label": [
+        "Defence Forces (Ireland)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Defence_Forces_(Ireland)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Department_of_Defence_(Ireland)",
+        "http://dbpedia.org/resource/Category:Military_of_the_Republic_of_Ireland",
+        "http://dbpedia.org/resource/Category:Permanent_Structured_Cooperation"
+      ]
+    },
+    {
+      "score": [
+        "2057.1191"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pontifical_Irish_College"
+      ],
+      "redirectlabel": [
+        "Collegio Irlanese",
+        "<B>Irish</B> Catholic College, Rome",
+        "<B>Irish</B> College, Rome",
+        "<B>Irish</B> College, in Rome",
+        "<B>Irish</B> College at Rome",
+        "<B>Irish</B> College in Rome"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The Pontifical <B>Irish</B> College is a Roman Catholic seminary for the training and education of priests"
+      ],
+      "label": [
+        "Pontifical <B>Irish</B> College"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pontifical_Irish_College"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1628_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Alumni_of_The_Irish_College,_Rome",
+        "http://dbpedia.org/resource/Category:Catholic_seminaries",
+        "http://dbpedia.org/resource/Category:Irish_Colleges_on_the_Continent",
+        "http://dbpedia.org/resource/Category:Irish_diaspora_in_Europe",
+        "http://dbpedia.org/resource/Category:Pontifical_universities",
+        "http://dbpedia.org/resource/Category:Roman_Colleges"
+      ]
+    },
+    {
+      "score": [
+        "2050.3093"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Country_and_Irish"
+      ],
+      "redirectlabel": [
+        "Country and <B>irish</B>"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Country and <B>Irish</B> is a musical subgenre in Ireland formed by mixing North American country style"
+      ],
+      "label": [
+        "Country and <B>Irish</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Country_and_Irish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Country_music_genres",
+        "http://dbpedia.org/resource/Category:Irish_styles_of_music"
+      ]
+    },
+    {
+      "score": [
+        "2041.2737"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Early_Irish_law"
+      ],
+      "redirectlabel": [
+        "Bechbretha",
+        "Brehon Law",
+        "Brehon Laws, The",
+        "Brehon Laws",
+        "Brehon law",
+        "Brehon laws",
+        "Brehons",
+        "Early <B>Irish</B> Law",
+        "Early <B>irish</B> law",
+        "Law of Ireland prior to 1921",
+        "Marriage in early <B>Irish</B> law",
+        "Noifis",
+        "Old <B>Irish</B> law",
+        "Senchas Mar",
+        "Senchas Már",
+        "Senchus Mor",
+        "Senchus Mór",
+        "The Knowledge of Nine",
+        "The Law of Patrick"
+      ],
+      "comment": [
+        "Early <B>Irish</B> law, also called Brehon law, comprised the statutes which governed everyday life in"
+      ],
+      "label": [
+        "Early <B>Irish</B> law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Early_Irish_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Customary_legal_systems",
+        "http://dbpedia.org/resource/Category:Early_Gaelic_law"
+      ]
+    },
+    {
+      "score": [
+        "2018.0416"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Great_Famine_(Ireland)"
+      ],
+      "redirectlabel": [
+        "An Drochshaol",
+        "An Gorta Mor",
+        "An Gorta Mór",
+        "An gorta mor",
+        "Famine of 1845-49",
+        "Gorta Mór",
+        "Great Famine in Ireland",
+        "Great Hunger",
+        "Great Hunger (Ireland)",
+        "Great Hunger in Ireland",
+        "Great <B>Irish</B> Famine",
+        "Great <B>Irish</B> Famine (1845-1849)",
+        "Great <B>Irish</B> Potato Famine",
+        "Great <B>Irish</B> famine",
+        "Great Potato Famine",
+        "Great famine (Ireland)",
+        "Great <B>irish</B> famine",
+        "Great potato famine",
+        "Greate Hunger",
+        "HERB-1",
+        "Ireland's Great Famine",
+        "Ireland's Holocaust",
+        "<B>Irish</B> Famine",
+        "<B>Irish</B> Genocide",
+        "<B>Irish</B> Holocaust",
+        "<B>Irish</B> Potato Famine",
+        "<B>Irish</B> Potato Famine (1845-1849)",
+        "<B>Irish</B> Potato Famine (1845–1849)",
+        "<B>Irish</B> Potato famine",
+        "<B>Irish</B> Potatoe Famine",
+        "<B>Irish</B> famine",
+        "<B>Irish</B> famine of 1847",
+        "<B>Irish</B> famines",
+        "<B>Irish</B> holocaust",
+        "<B>Irish</B> potato blight",
+        "<B>Irish</B> potato famine",
+        "<B>Irish</B> potato famine (footnotes)",
+        "The Great Calamity",
+        "The Great Hunger",
+        "The Greate Hunger",
+        "The <B>Irish</B> Famine",
+        "The <B>Irish</B> Potato Famine",
+        "The famine in Ireland"
+      ],
+      "comment": [
+        "The Great Famine (<B>Irish</B>: an Gorta Mór [anˠ ˈɡɔɾˠt̪ˠə ˈmˠoːɾˠ]), or the Great Hunger, was a period"
+      ],
+      "label": [
+        "Great Famine (Ireland)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Great_Famine_(Ireland)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1840s_disasters_in_Ireland",
+        "http://dbpedia.org/resource/Category:1845_disasters_in_Ireland",
+        "http://dbpedia.org/resource/Category:1850s_disasters_in_Ireland",
+        "http://dbpedia.org/resource/Category:1852_disasters_in_Ireland",
+        "http://dbpedia.org/resource/Category:19th-century_disasters_in_Ireland",
+        "http://dbpedia.org/resource/Category:19th-century_famines",
+        "http://dbpedia.org/resource/Category:Famines_in_Europe",
+        "http://dbpedia.org/resource/Category:Great_Famine_(Ireland)"
+      ]
+    },
+    {
+      "score": [
+        "2015.5592"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/North_Irish_Horse"
+      ],
+      "redirectlabel": [
+        "13th (<B>Irish</B>) Battalion, Imperial Yeomanry",
+        "1st North <B>Irish</B> Horse",
+        "2nd North <B>Irish</B> Horse",
+        "45th (Dublin Hunt) Company, Imperial Yeomanry",
+        "46th (1st Belfast) Company, Imperial Yeomanry",
+        "47th (Duke of Cambridge's Own) Company, Imperial Yeomanry",
+        "54th (2nd Belfast) Company, Imperial Yeomanry",
+        "5th (North <B>Irish</B> Horse) Corps Cyclist Battalion",
+        "60th (North <B>Irish</B> Horse (Belfast)) Company, Imperial Yeomanry",
+        "7th Corps Cavalry Regiment",
+        "North of Ireland Imperial Yeomanry",
+        "VII Corps Cavalry Regiment",
+        "V (North <B>Irish</B> Horse) Corps Cyclist Battalion"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The North <B>Irish</B> Horse is a yeomanry unit of the British Territorial Army raised in the northern"
+      ],
+      "label": [
+        "North <B>Irish</B> Horse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/North_Irish_Horse"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1903_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Cavalry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Company_sized_units_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Ireland_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1902",
+        "http://dbpedia.org/resource/Category:North_Irish_Horse",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Royal_Armoured_Corps",
+        "http://dbpedia.org/resource/Category:Royal_Irish_Regiment_(1992)",
+        "http://dbpedia.org/resource/Category:Special_Reserve",
+        "http://dbpedia.org/resource/Category:Yeomanry_regiments_of_the_British_Army"
+      ]
+    },
+    {
+      "score": [
+        "2013.71"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Irish_Regiment_(1684–1922)"
+      ],
+      "redirectlabel": [
+        "18th (Royal <B>Irish</B>)",
+        "18th (Royal <B>Irish</B>) Regiment of Foot",
+        "18th (The Royal <B>Irish</B>) Regiment of Foot",
+        "18th Foot",
+        "18th Regiment of Foot",
+        "18th foot",
+        "Earl of Granard's Regiment of Foot",
+        "Royal <B>Irish</B> Regiment (1684)",
+        "Royal <B>Irish</B> Regiment (1684-1922)",
+        "Royal Regiment of Ireland",
+        "The Royal <B>Irish</B> Regiment (1684)",
+        "The Royal Regiment of Ireland"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Irish</B> Regiment, until 1881 the 18th Regiment of Foot, was an infantry regiment of the"
+      ],
+      "label": [
+        "Royal <B>Irish</B> Regiment (1684–1922)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Irish_Regiment_(1684–1922)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1684_establishments_in_the_British_Empire",
+        "http://dbpedia.org/resource/Category:1922_disestablishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Defunct_Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Infantry_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Ireland_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Irish_regiments",
+        "http://dbpedia.org/resource/Category:Irish_regiments_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1922",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1684",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Regiments_of_the_British_Army_in_the_American_Revolutionary_War",
+        "http://dbpedia.org/resource/Category:Royal_Irish_Regiment_(1684–1922)"
+      ]
+    },
+    {
+      "score": [
+        "1994.7676"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Irish_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of Ireland",
+        "Cuisine of the Republic of Ireland",
+        "Food of Ireland",
+        "History of <B>Irish</B> cuisine",
+        "Ireland food",
+        "<B>Irish</B> Cuisine",
+        "<B>Irish</B> Food",
+        "<B>Irish</B> dish",
+        "<B>Irish</B> food",
+        "<B>Irish</B> traditional beverages"
+      ],
+      "comment": [
+        "<B>Irish</B> cuisine is the style of cooking that originated from Ireland, an island in the North Atlantic"
+      ],
+      "label": [
+        "<B>Irish</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Irish_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Irish_cuisine",
+        "http://dbpedia.org/resource/Category:Irish_culture"
+      ]
+    }
+  ]
+}

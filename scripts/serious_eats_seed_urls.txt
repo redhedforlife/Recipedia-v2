@@ -1,0 +1,15 @@
+# Curated Serious Eats URL candidates for expanding the MVP seed.
+# Start with chili and pasta; add barbecue after core lineage behavior is solid.
+https://www.seriouseats.com/the-best-chili-recipe
+https://www.seriouseats.com/real-texas-chili-con-carne
+https://www.seriouseats.com/pressure-cooker-ground-beef-and-bean-chili
+https://www.seriouseats.com/chile-verde-with-pork-recipe
+https://www.seriouseats.com/white-chili-with-chicken-best
+https://www.seriouseats.com/cincinnati-chili-recipe
+https://www.seriouseats.com/spaghetti-cacio-e-pepe-recipe
+https://www.seriouseats.com/pasta-carbonara-sauce-recipe
+https://www.seriouseats.com/fettuccine-alfredo-sauce-italian-pasta-recipe
+https://www.seriouseats.com/pasta-alla-gricia
+https://www.seriouseats.com/baked-ziti-with-two-mozzarellas-and-parmesan-cream-sauce-recipe
+https://www.seriouseats.com/ultra-gooey-stovetop-mac-and-cheese-recipe
+

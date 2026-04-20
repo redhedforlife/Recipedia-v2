@@ -1,0 +1,29 @@
+{
+  "warnings": {
+    "main": {
+      "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+    },
+    "parse": {
+      "*": "\"prop=sections\" is deprecated since MediaWiki 1.46. Use \"prop=tocdata\" instead."
+    }
+  },
+  "parse": {
+    "title": "Category:Lists of foods by ingredient",
+    "pageid": 52943448,
+    "text": {
+      "*": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\">\n<!-- \nNewPP limit report\nParsed by mw‐web.eqiad.main‐f5c7cfb79‐cwd7f\nCached time: 20260407075040\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nRevision size: 88/2097152 bytes\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nNumber of Wikibase entities loaded: 0/500\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Render ID 78c5cc4a-3256-11f1-a377-59e16285b18c -->\n\n<!-- Saved in parser cache with key enwiki:pcache:52943448:|#|:idhash:canonical and timestamp 20260407075040 and revision id 1342296894. Rendering was triggered because: page_view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": " ingredient",
+        "*": "Lists_of_foods"
+      },
+      {
+        "sortkey": "*",
+        "*": "Prepared_foods_by_main_ingredient"
+      }
+    ],
+    "links": [],
+    "sections": []
+  }
+}

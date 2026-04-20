@@ -1,0 +1,4812 @@
+{
+  "docs": [
+    {
+      "score": [
+        "18499.701"
+      ],
+      "refCount": [
+        "925"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_architecture"
+      ],
+      "redirectlabel": [
+        "Colonial <B>Georgian</B>",
+        "Colonial <B>Georgian</B> architecture",
+        "<B>Georgian</B>-style",
+        "<B>Georgian</B> (architecture)",
+        "<B>Georgian</B> Architecture",
+        "<B>Georgian</B> Colonial",
+        "<B>Georgian</B> Revival",
+        "<B>Georgian</B> Revival architecture",
+        "<B>Georgian</B> Revival style",
+        "<B>Georgian</B> Style",
+        "<B>Georgian</B> architectural style",
+        "<B>Georgian</B> houses",
+        "<B>Georgian</B> manor",
+        "<B>Georgian</B> revival",
+        "<B>Georgian</B> style",
+        "Mock-<B>Georgian</B>",
+        "Mock <B>Georgian</B>",
+        "Neo-<B>Georgian</B> architecture",
+        "Neo-<B>Georgian</B> style (Great Britain)"
+      ],
+      "comment": [
+        "<B>Georgian</B> architecture is the name given in most English-speaking countries to the set of"
+      ],
+      "label": [
+        "<B>Georgian</B> architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:18th-century_architecture_by_style",
+        "http://dbpedia.org/resource/Category:19th-century_architecture",
+        "http://dbpedia.org/resource/Category:American_architectural_styles",
+        "http://dbpedia.org/resource/Category:Architectural_styles",
+        "http://dbpedia.org/resource/Category:British_architecture_by_period_or_style",
+        "http://dbpedia.org/resource/Category:Georgian_architecture",
+        "http://dbpedia.org/resource/Category:House_styles"
+      ]
+    },
+    {
+      "score": [
+        "7265.1313"
+      ],
+      "refCount": [
+        "166"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_language"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> (language)",
+        "<B>Georgian</B> Language",
+        "<B>Georgian</B> Language and Alphabet",
+        "<B>Georgian</B> phonology",
+        "<B>Georigan</B> languge",
+        "History of the <B>Georgian</B> language",
+        "ISO 639:geo",
+        "ISO 639:ka",
+        "ISO 639:kat",
+        "Kartuli",
+        "Kartuli Ena",
+        "Kartuli ena",
+        "Middle <B>Georgian</B>",
+        "Middle <B>Georgian</B> language",
+        "Mtavruli",
+        "Nuclear <B>Georgian</B> language",
+        "ქართული",
+        "ქართული ენა"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " spoken by <B>Georgians</B>. It is the official language of <B>Georgia</B>. <B>Georgian</B> is written in its own writing"
+      ],
+      "label": [
+        "<B>Georgian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Georgian-Zan_languages",
+        "http://dbpedia.org/resource/Category:Georgian_language",
+        "http://dbpedia.org/resource/Category:Kartvelian_languages",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_5th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Abkhazia",
+        "http://dbpedia.org/resource/Category:Languages_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Languages_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Languages_of_Iran",
+        "http://dbpedia.org/resource/Category:Languages_of_Russia",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey"
+      ]
+    },
+    {
+      "score": [
+        "6622.7617"
+      ],
+      "refCount": [
+        "506"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> National Football Team",
+        "<B>Georgian</B> national football team",
+        "History of the <B>Georgia</B> national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Georgia</B> national football team (<B>Georgian</B>: საქართველოს ეროვნული საფეხბურთო ნაკრები, translit"
+      ],
+      "label": [
+        "<B>Georgia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Georgia_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "6063.911"
+      ],
+      "refCount": [
+        "1638"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia_(country)"
+      ],
+      "redirectlabel": [
+        "Biodiversity of <B>Georgia</B> (country)",
+        "Caucasian <B>Georgia</B>",
+        "Country of <B>Georgia</B>",
+        "<B>Georgia</B>(country)",
+        "<B>Georgia</B>, Asia",
+        "<B>Georgia</B>, Caucasus",
+        "<B>Georgia</B>, West Asia",
+        "<B>Georgia</B>, Western Asia",
+        "<B>Georgia</B> (Caucasus)",
+        "<B>Georgia</B> (Country)",
+        "<B>Georgia</B> (Eurasian state)",
+        "<B>Georgia</B> (Europe)",
+        "<B>Georgia</B> (Nation)",
+        "<B>Georgia</B> (Republic)",
+        "<B>Georgia</B> (Sakartvelo)",
+        "<B>Georgia</B> (West Asia)",
+        "<B>Georgia</B> (Western Asia)",
+        "<B>Georgia</B> (countrey)",
+        "<B>Georgia</B> (nation)",
+        "<B>Georgia</B> (republic)",
+        "<B>Georgia</B> (sovereign state)",
+        "<B>Georgia</B> Republic",
+        "<B>Georgia</B> country",
+        "<B>Georgia</B> proper",
+        "<B>Georgian</B> Republic",
+        "Gheorghia",
+        "Gorjestan",
+        "Gorjistan",
+        "Gruziya",
+        "Gurcistan",
+        "Gurjestan",
+        "Gurjistan",
+        "Gürcistan",
+        "ISO 3166-1:GE",
+        "Kartvelebistan",
+        "Republic of <B>Georgia</B>",
+        "Republic of <B>Georgia</B> (1991)",
+        "Sak'art'velo",
+        "Sakartvelia",
+        "Sakartvelo",
+        "Sakartvelobantustan",
+        "Saqartvelo",
+        "Virshan",
+        "Vrastan",
+        "Western <B>Georgia</B>",
+        "Wildlife of <B>Georgia</B> (country)",
+        "საქართველო"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Georgia</B> (<B>Georgian</B>: საქართველო, translit.: sakartvelo, IPA: [sɑkʰɑrtʰvɛlɔ] ()), known until 1995 as"
+      ],
+      "label": [
+        "<B>Georgia</B> (country)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia_(country)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Caucasus",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Eastern_European_countries",
+        "http://dbpedia.org/resource/Category:Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:South_Caucasus",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1991",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "5596.5903"
+      ],
+      "refCount": [
+        "187"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Soviet_Socialist_Republic"
+      ],
+      "redirectlabel": [
+        "Former Soviet <B>Georgia</B>",
+        "Former Soviet republic of <B>Georgia</B>",
+        "GSSR",
+        "<B>Georgia</B> (SSR)",
+        "<B>Georgia</B> (USSR)",
+        "<B>Georgia</B> SSR",
+        "<B>Georgian</B> (SSR)",
+        "<B>Georgian</B> S.S.R.",
+        "<B>Georgian</B> SSR",
+        "<B>Georgian</B> Socialist Soviet Republic",
+        "Gruzinskaya Sovetskaya Sotsialisticheskaya Respublika",
+        "Red <B>Georgia</B>",
+        "Sakartvelos sabch'ota socialist'uri resp'ublik'a",
+        "Sakartvelos sabch'ota sotsialist'uri resp'ublik'a",
+        "Socialist Conciliar Republic of <B>Georgia</B>",
+        "Socialist Republic of <B>Georgia</B>",
+        "Socialist Soviet Republic of <B>Georgia</B>",
+        "Soviet <B>Georgia</B>",
+        "Soviet Sakartvelo",
+        "Soviet Socialist Republic of <B>Georgia</B>",
+        "Soviet republic of <B>Georgia</B>",
+        "Грузинская Советская Социалистическая Республика",
+        "საქართველოს საბჭოთა სოციალისტური რესპუბლიკა"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Georgia</B>, formally the <B>Georgian</B> Soviet Socialist Republic (<B>Georgian</B> SSR; <B>Georgian</B>: საქართველოს"
+      ],
+      "label": [
+        "<B>Georgian</B> Soviet Socialist Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Soviet_Socialist_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1930s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1940s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1950s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1960s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1970s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1980s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1990s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1991_disestablishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1991_disestablishments_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:20th_century_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Communism_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Georgian_Soviet_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Post–Russian_Empire_states",
+        "http://dbpedia.org/resource/Category:Republics_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1991",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1921"
+      ]
+    },
+    {
+      "score": [
+        "5093.248"
+      ],
+      "refCount": [
+        "102"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Orthodox_Church"
+      ],
+      "redirectlabel": [
+        "Archbishop of Borjomi",
+        "Archbishop of borjomi",
+        "Christian (<B>Georgian</B> Orthodox)",
+        "Church of <B>Georgia</B>",
+        "Eastern Orthodoxy in <B>Georgia</B> (country)",
+        "<B>Georgian</B> Apostolic Autocephalous Orthodox Church",
+        "<B>Georgian</B> Apostolic Church",
+        "<B>Georgian</B> Church",
+        "<B>Georgian</B> Orthodox",
+        "<B>Georgian</B> Orthodox Christianity",
+        "<B>Georgian</B> Orthodox and Apostolic Church",
+        "<B>Georgian</B> Orthodox church",
+        "<B>Georgian</B> Orthodoxy",
+        "<B>Georgian</B> orthodox and apostolic church",
+        "Goergian orthodox church",
+        "History of the <B>Georgian</B> Orthodox Church",
+        "Orthodox Church of <B>Georgia</B>",
+        "Orthodoxy in <B>Georgia</B> (country)",
+        "Sakartvelos Samocikulo Martlmadidebeli Avtok'epaluri Ek'lesia",
+        "საქართველოს სამოციქულო მართლმადიდებელი ავტოკეფალური ეკლესია"
+      ],
+      "label": [
+        "<B>Georgian</B> Orthodox Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Orthodox_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christianity_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Eastern_Orthodoxy_by_country",
+        "http://dbpedia.org/resource/Category:Georgian_Orthodox_Church",
+        "http://dbpedia.org/resource/Category:National_churches",
+        "http://dbpedia.org/resource/Category:State_churches_(Christian)"
+      ]
+    },
+    {
+      "score": [
+        "4908.68"
+      ],
+      "refCount": [
+        "4570"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia_(U.S._state)"
+      ],
+      "redirectlabel": [
+        "American <B>Georgia</B>",
+        "City (<B>Georgia</B>)",
+        "Economy of <B>Georgia</B> (U.S. state)",
+        "Energy in <B>Georgia</B> (U.S. state)",
+        "Fauna of <B>Georgia</B> (U.S. state)",
+        "Flora of <B>Georgia</B> (U.S. state)",
+        "GA (state)",
+        "<B>Georgia</B>, U.S.",
+        "<B>Georgia</B>, US",
+        "<B>Georgia</B>, USA",
+        "<B>Georgia</B>, United States",
+        "<B>Georgia</B>-USA",
+        "<B>Georgia</B> (America)",
+        "<B>Georgia</B> (American state)",
+        "<B>Georgia</B> (U.S.)",
+        "<B>Georgia</B> (U.S. State)",
+        "<B>Georgia</B> (U.S. states)",
+        "<B>Georgia</B> (U.S.state)",
+        "<B>Georgia</B> (U.S state)",
+        "<B>Georgia</B> (U. S. State)",
+        "<B>Georgia</B> (U. S. state)",
+        "<B>Georgia</B> (US)",
+        "<B>Georgia</B> (USA)",
+        "<B>Georgia</B> (US State)",
+        "<B>Georgia</B> (US state)",
+        "<B>Georgia</B> (United States)",
+        "<B>Georgia</B> (United States state)",
+        "<B>Georgia</B> USA",
+        "Peach State",
+        "Religion in <B>Georgia</B> (U.S. state)",
+        "Religion in the State of <B>Georgia</B>",
+        "State Of <B>Georgia</B>",
+        "State of <B>Georgia</B>",
+        "The Empire State of the South",
+        "The Peach State",
+        "Tourism in <B>Georgia</B> (U.S. state)",
+        "U.S. <B>Georgia</B>",
+        "U.S. State of <B>Georgia</B>",
+        "U.S. state of <B>Georgia</B>",
+        "US-GA",
+        "USA <B>Georgia</B>",
+        "Wildlife of <B>Georgia</B> (U.S. state)"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "<B>Georgia</B> () is a state located in the southeastern region of the United States. <B>Georgia</B> is the 24th"
+      ],
+      "label": [
+        "<B>Georgia</B> (U.S. state)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia_(U.S._state)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1788_establishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Contiguous_United_States",
+        "http://dbpedia.org/resource/Category:Former_British_colonies_and_protectorates_in_the_Americas",
+        "http://dbpedia.org/resource/Category:Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Gullah_country",
+        "http://dbpedia.org/resource/Category:Southern_United_States",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1788",
+        "http://dbpedia.org/resource/Category:States_of_the_Confederate_States_of_America",
+        "http://dbpedia.org/resource/Category:States_of_the_East_Coast_of_the_United_States",
+        "http://dbpedia.org/resource/Category:States_of_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "4743.6685"
+      ],
+      "refCount": [
+        "128"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Russo-Georgian_War"
+      ],
+      "redirectlabel": [
+        "2008 Armed conflict in <B>Georgia</B>",
+        "2008 Conflict in South Ossetia",
+        "2008 <B>Georgia</B>-Russia War",
+        "2008 <B>Georgia</B>-Russia conflict",
+        "2008 <B>Georgia</B> War",
+        "2008 <B>Georgia</B> fuel train blast",
+        "2008 Ossetia War",
+        "2008 Ossetian War",
+        "2008 Russia-<B>Georgia</B> war",
+        "2008 Russian-<B>Georgian</B> War",
+        "2008 Russian <B>Georgian</B> war",
+        "2008 Russian invasion of <B>Georgia</B>",
+        "2008 Russia–<B>Georgia</B> war",
+        "2008 Russo-<B>Georgian</B> War",
+        "2008 Samachablo War",
+        "2008 South Ossetia Conflict",
+        "2008 South Ossetia War",
+        "2008 South Ossetia war",
+        "2008 South Ossetian Conflict",
+        "2008 South Ossetian War",
+        "2008 South Ossetian war",
+        "2008 Tskhinvali War",
+        "2008 War in <B>Georgia</B>",
+        "2008 War in Ossetia",
+        "2008 War in South Ossetia",
+        "2008 <B>georgian</B> russian war",
+        "2008 <B>georgian</B> war",
+        "2008 war in South Ossetia",
+        "2008 war in <B>georgia</B>",
+        "Action of 10 August 2008",
+        "Action of August 10, 2008",
+        "August 2008 South Ossetia war",
+        "August Surprise",
+        "August War",
+        "August surprise",
+        "First clashes in South Ossetia",
+        "Five-Day War",
+        "Five Day War",
+        "<B>Georgia</B>-Russia war",
+        "<B>Georgia</B> 2008 war",
+        "<B>Georgian</B>-Russian conflict",
+        "<B>Georgian</B>-Russian war",
+        "<B>Georgian</B> War 2008",
+        "<B>Georgian</B> attack on Ossetia",
+        "Operation Clear Field",
+        "Ossetia war",
+        "Ossetian War",
+        "Ossetian war",
+        "Public investigation of the Ossetian War",
+        "Russia-<B>Georgia</B> War",
+        "Russia-<B>Georgia</B> War (2008)",
+        "Russia-<B>Georgia</B> War of August 2008",
+        "Russia-<B>Georgia</B> war",
+        "Russia <B>Georgia</B> war",
+        "Russian-<B>Georgian</B> War",
+        "Russian-<B>Georgian</B> War 2008",
+        "Russian <B>Georgian</B> war",
+        "Russian attack on <B>Georgia</B>",
+        "Russian invasion of <B>Georgia</B>",
+        "Russia–<B>Georgia</B> War",
+        "Russia–<B>Georgia</B> war",
+        "Russo-<B>Georgian</B> war",
+        "Russo–<B>Georgian</B> War",
+        "Second Russian Invasion of <B>Georgia</B>",
+        "Second South Ossetian War",
+        "South Ossetia War (2008)",
+        "South osetia war",
+        "South ossettia war",
+        "War in South Osetia (2008)",
+        "War in South Ossetia (2008)",
+        "War in South Ossetia 2008"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Russo-<B>Georgian</B> War was a war between <B>Georgia</B>, Russia and the Russian-backed self-proclaimed"
+      ],
+      "label": [
+        "Russo-<B>Georgian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Russo-Georgian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_in_Abkhazia",
+        "http://dbpedia.org/resource/Category:2008_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:2008_in_Russia",
+        "http://dbpedia.org/resource/Category:2008_in_South_Ossetia",
+        "http://dbpedia.org/resource/Category:Abkhazia–Russia_relations",
+        "http://dbpedia.org/resource/Category:Abkhaz–Georgian_conflict",
+        "http://dbpedia.org/resource/Category:August_2008_events",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2008",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Russia_relations",
+        "http://dbpedia.org/resource/Category:Georgian–Ossetian_conflict",
+        "http://dbpedia.org/resource/Category:Invasions_by_Russia",
+        "http://dbpedia.org/resource/Category:Invasions_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_of_South_Ossetia",
+        "http://dbpedia.org/resource/Category:Post-Soviet_conflicts",
+        "http://dbpedia.org/resource/Category:Russia–South_Ossetia_relations",
+        "http://dbpedia.org/resource/Category:Russo-Georgian_War",
+        "http://dbpedia.org/resource/Category:Vladimir_Putin",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Russia"
+      ]
+    },
+    {
+      "score": [
+        "4198.756"
+      ],
+      "refCount": [
+        "2102"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Colonial_Revival_architecture"
+      ],
+      "redirectlabel": [
+        "American Colonial Revival",
+        "Colonial Revival",
+        "Colonial Revival Architecture",
+        "Colonial Revival Style",
+        "Colonial Revival Style architecture",
+        "Colonial Revival style",
+        "Colonial Revivalism",
+        "Colonial Revivial",
+        "Colonial revival",
+        "Colonial revival architecture",
+        "Colonial revival style",
+        "Colonial revivals",
+        "<B>Georgian</B> Colonial Revival architecture",
+        "Neocolonial architecture",
+        "The Colonial Revival",
+        "The Colonial Revival architecture"
+      ],
+      "comment": [
+        "The Colonial Revival architectural style seeks to revive elements of American colonial architecture. The beginnings of the Colonial Revival style are often attributed to the Centennial Exhibition of 1876, which reawakened Americans to the architectural traditions of their colonial past. Fairly small numbers of Colonial Revival homes were built c. 1880–1910, a period when Queen Anne-style architecture was dominant in the United States. From 1910–1930, the Colonial Revival movement was ascendant, with about 40% of U.S. homes built during this period in the Colonial Revival style. In the immediate post-war period (c. 1950s–early 1960s), Colonial Revival homes continued to be constructed, but in simplified form. In the present-day, many New Traditional homes draw from Colonial Revival styles."
+      ],
+      "label": [
+        "Colonial Revival architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Colonial_Revival_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_architectural_styles",
+        "http://dbpedia.org/resource/Category:Colonial_Revival_Movement",
+        "http://dbpedia.org/resource/Category:Colonial_Revival_architecture",
+        "http://dbpedia.org/resource/Category:Colonial_Revival_architecture_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Georgian_architecture",
+        "http://dbpedia.org/resource/Category:House_styles",
+        "http://dbpedia.org/resource/Category:Revival_architectural_styles",
+        "http://dbpedia.org/resource/Category:Revival_architecture_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "3628.7542"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Dream"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Dream-Democratic <B>Georgia</B>",
+        "<B>Georgian</B> Dream - Democratic <B>Georgia</B>",
+        "<B>Georgian</B> Dream – Democratic <B>Georgia</B>",
+        "<B>Georgian</B> Dream–Democratic <B>Georgia</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Georgian</B> Dream – Democratic <B>Georgia</B> (<B>Georgian</B>: ქართული ოცნება – დემოკრატიული საქართველო, Kartuli"
+      ],
+      "label": [
+        "<B>Georgian</B> Dream"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Dream"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Parties_related_to_the_Party_of_European_Socialists",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2012",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Pro-European_political_parties_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "3407.3945"
+      ],
+      "refCount": [
+        "113"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgians"
+      ],
+      "redirectlabel": [
+        "Ethnic <B>Georgians</B>",
+        "Genetic studies on <B>Georgians</B>",
+        "<B>Georgian</B> descent",
+        "<B>Georgian</B> people",
+        "<B>Georgili</B> (Ancient People)",
+        "Kartveli",
+        "Kartvelian people",
+        "Kartvelian peoples",
+        "Kartvelians",
+        "People of <B>Georgia</B>",
+        "People of <B>Georgia</B> (country)",
+        "ქართველები"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Georgians</B> or Kartvelians (; <B>Georgian</B>: ქართველები, translit.: kartvelebi, pronounced"
+      ],
+      "label": [
+        "<B>Georgians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_peoples_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Greece",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Russia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Turkey",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:People_from_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Peoples_of_the_Caucasus",
+        "http://dbpedia.org/resource/Category:Society_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "2946.4075"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_scripts"
+      ],
+      "redirectlabel": [
+        "Ani (<B>Georgian</B>)",
+        "Asomtavruli",
+        "Asomtavruli script",
+        "Geor (script)",
+        "<B>Georgian</B> (script)",
+        "<B>Georgian</B> alfabet",
+        "<B>Georgian</B> alphabet",
+        "<B>Georgian</B> letters",
+        "<B>Georgian</B> script",
+        "<B>Georgian</B> writing system",
+        "ISO 15924:Geok",
+        "ISO 15924:Geor",
+        "Kartvelian alphabet",
+        "Khutsuri",
+        "Khutsuri (Asomtavruli and Nuskhuri)",
+        "Khutsuri script",
+        "Kutkhovani",
+        "Mkhedruli",
+        "Mkhedruli (alphabet)",
+        "Mkhedruli alphabet",
+        "Mkhedruli script",
+        "Mrgvlovani",
+        "Mxedruli",
+        "Nuskhuri",
+        "Nuskhuri script",
+        "Xucuri",
+        "Ⴧ",
+        "ჶ",
+        "ჷ",
+        "ჸ",
+        "ჹ",
+        "ჺ"
+      ],
+      "comment": [
+        "The <B>Georgian</B> scripts are the three writing systems used to write the <B>Georgian</B> language: ,  and"
+      ],
+      "label": [
+        "<B>Georgian</B> scripts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_scripts"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian_scripts"
+      ]
+    },
+    {
+      "score": [
+        "2818.5684"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Superliga"
+      ],
+      "redirectlabel": [
+        "Aviamsheni Tbilisi",
+        "BC Batumi",
+        "BC Cactus Tbilisi",
+        "BC Delta",
+        "BC Mega",
+        "BC Olimpi Tbilisi",
+        "BC STU Tbilisi",
+        "BC Tskhum-Abkhazeti",
+        "BC Vera",
+        "GSAU Tbilisi",
+        "<B>Georgian</B> Basketball Championship",
+        "<B>Georgian</B> Basketball Super League",
+        "<B>Georgian</B> Super Liga",
+        "STU-Geocell Tbilisi",
+        "STU Tbilisi"
+      ],
+      "comment": [
+        "), also known as the <B>Georgian</B> Top League, is the highest professional basketball league in <B>Georgia</B>. The"
+      ],
+      "label": [
+        "<B>Georgian</B> Superliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Superliga"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Georgian_Superliga",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1991",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "2723.6233"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_era"
+      ],
+      "redirectlabel": [
+        "English Enlightenment",
+        "English <B>Georgian</B>",
+        "<B>Georgean</B> era",
+        "<B>Georgeon</B> era",
+        "<B>Georgian</B> England",
+        "<B>Georgian</B> Era",
+        "<B>Georgian</B> period",
+        "<B>Georgian</B> period in British history",
+        "<B>Georgian</B> period of British history"
+      ],
+      "comment": [
+        "The <B>Georgian</B> era is a period in British history from 1714 to c. 1830–37, named after the Hanoverian"
+      ],
+      "label": [
+        "<B>Georgian</B> era"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_era"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian_era",
+        "http://dbpedia.org/resource/Category:Historical_eras",
+        "http://dbpedia.org/resource/Category:History_of_the_United_Kingdom_by_period"
+      ]
+    },
+    {
+      "score": [
+        "2503.1975"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Bay"
+      ],
+      "redirectlabel": [
+        "Baie Georgienne",
+        "<B>Georgian</B> bay"
+      ],
+      "typeName": [
+        "BodyOfWater",
+        "Place",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        "<B>Georgian</B> Bay (French: Baie Georgienne) is a large bay of Lake Huron, in the Laurentia bioregion. It"
+      ],
+      "label": [
+        "<B>Georgian</B> Bay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Bay"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/BodyOfWater",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bays_of_Lake_Huron",
+        "http://dbpedia.org/resource/Category:Bays_of_Ontario",
+        "http://dbpedia.org/resource/Category:Biosphere_reserves_of_Canada",
+        "http://dbpedia.org/resource/Category:Georgian_Bay",
+        "http://dbpedia.org/resource/Category:Southwestern_Ontario"
+      ]
+    },
+    {
+      "score": [
+        "2312.1702"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B> Civil War",
+        "<B>Georgian</B> civil war",
+        "<B>Georgian</B> civil wars"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Civil War was a civil war in <B>Georgia</B> consisting of inter-ethnic and intranational"
+      ],
+      "label": [
+        "<B>Georgian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1990_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1991_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1992_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1993_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Abkhaz–Georgian_conflict",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1988",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1989",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1990",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1991",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1992",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1993",
+        "http://dbpedia.org/resource/Category:Coup-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Ethnicity-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Georgian–Ossetian_conflict",
+        "http://dbpedia.org/resource/Category:History_of_South_Ossetia",
+        "http://dbpedia.org/resource/Category:Post-Soviet_conflicts",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_Chechnya",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "2253.8965"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian–Ossetian_conflict"
+      ],
+      "redirectlabel": [
+        "2004 South Ossetia clashes",
+        "Conflict in South Ossetia",
+        "<B>Georgian</B>-Ossetian Conflict",
+        "<B>Georgian</B>-Ossetian War",
+        "<B>Georgian</B>-Ossetian conflict",
+        "<B>Georgian</B>-Ossetian conflict (1989-1992)",
+        "<B>Georgian</B>-Ossetian war",
+        "Ossetia conflict",
+        "Ossetian-<B>Georgian</B> War",
+        "Ossetian-<B>Georgian</B> conflict",
+        "Ossetian-<B>Georgian</B> war",
+        "Ossetian–<B>Georgian</B> conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ", military tensions and clashes between <B>Georgia</B> and South Ossetian separatists erupted into the Russo-<B>Georgian</B> War."
+      ],
+      "label": [
+        "<B>Georgian</B>–Ossetian conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian–Ossetian_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Conflicts_in_2022",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Russia_relations",
+        "http://dbpedia.org/resource/Category:Georgian–Ossetian_conflict",
+        "http://dbpedia.org/resource/Category:Military_of_South_Ossetia",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "2233.0557"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Abkhaz–Georgian_conflict"
+      ],
+      "redirectlabel": [
+        "Abkhaz-<B>Georgian</B> conflict",
+        "<B>Georgian</B>-Abkhaz Conflict",
+        "<B>Georgian</B>-Abkhaz War",
+        "<B>Georgian</B>-Abkhaz conflict",
+        "<B>Georgian</B>-Abkhaz war",
+        "<B>Georgian</B>-Abkhazian War",
+        "<B>Georgian</B>-Abkhazian conflict",
+        "<B>Georgian</B>-Abkhazian war",
+        "<B>Georgian</B>–Abkhaz conflict",
+        "<B>Georgian</B>–Abkhazian conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Abkhaz–<B>Georgian</B> conflict involves ethnic conflict between <B>Georgians</B> and the Abkhaz people in"
+      ],
+      "label": [
+        "Abkhaz–<B>Georgian</B> conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Abkhaz–Georgian_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1989_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1990s_in_Abkhazia",
+        "http://dbpedia.org/resource/Category:1990s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:2000s_in_Abkhazia",
+        "http://dbpedia.org/resource/Category:2000s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:2010s_in_Abkhazia",
+        "http://dbpedia.org/resource/Category:2010s_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:20th_century_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:21st_century_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Abkhaz–Georgian_conflict",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2022",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_of_Georgians_in_Abkhazia",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Russia_relations",
+        "http://dbpedia.org/resource/Category:History_of_Abkhazia",
+        "http://dbpedia.org/resource/Category:Post-Soviet_conflicts",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "2213.306"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Bay,_Ontario"
+      ],
+      "redirectlabel": [
+        "Bayview Park, Ontario",
+        "Big Chute, Ontario",
+        "Cedar Nook, Ontario",
+        "Crooked Bay, Ontario",
+        "Crooked bay",
+        "<B>Georgian</B> Bay (Township of) Public Library",
+        "<B>Georgian</B> Bay Township",
+        "Go Home, Ontario",
+        "Honey Harbour, Ontario",
+        "Honey Harbour",
+        "MacTier, Ontario",
+        "MacTier",
+        "Macey Bay, Ontario",
+        "Mactier, Ontario",
+        "Moon River, Ontario",
+        "Potters Landing, Ontario",
+        "South Bay, Ontario",
+        "Township of <B>Georgian</B> Bay",
+        "Wolverine Beach, Ontario",
+        "Wood Landing, Ontario"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Township of <B>Georgian</B> Bay is an area municipality of the District Municipality of Muskoka, in"
+      ],
+      "label": [
+        "<B>Georgian</B> Bay, Ontario"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Bay,_Ontario"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lower-tier_municipalities_in_Ontario",
+        "http://dbpedia.org/resource/Category:Municipalities_in_the_District_Municipality_of_Muskoka",
+        "http://dbpedia.org/resource/Category:Township_municipalities_in_Ontario"
+      ]
+    },
+    {
+      "score": [
+        "2164.8179"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_dance"
+      ],
+      "redirectlabel": [
+        "Ach'aruli",
+        "Acharuli",
+        "Adjaruli",
+        "Ajaruli",
+        "Dance in <B>Georgia</B>",
+        "Dance in <B>Georgia</B> (country)",
+        "Dance of <B>Georgia</B> (country)",
+        "Dances of <B>Georgia</B>",
+        "Dances of <B>georgia</B>",
+        "Davluri",
+        "<B>Georgian</B> Dances",
+        "<B>Georgian</B> dances",
+        "Jeirani",
+        "Karachokheli",
+        "Kartuli (dance)",
+        "Kazbeguri",
+        "Khanjluri",
+        "Khevsuruli",
+        "Mtiuluri",
+        "Simd and Khonga",
+        "აჭარული",
+        "ქართული ცეკვა"
+      ],
+      "comment": [
+        "<B>Georgian</B> dance (<B>Georgian</B>: ქართული ცეკვა) is the traditional dance of <B>Georgia</B>. It has its roots in"
+      ],
+      "label": [
+        "<B>Georgian</B> dance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_dance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dances_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "2126.3357"
+      ],
+      "refCount": [
+        "617"
+      ],
+      "label": [
+        "<B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia"
+      ],
+      "redirectlabel": [
+        "<B>Geordia</B>",
+        "<B>Georgea</B>",
+        "<B>Georgia</B>, State",
+        "<B>Georgia</B>, state",
+        "<B>Georgia</B> (State)",
+        "<B>Georgia</B> (album)",
+        "<B>Georgia</B> (disambiguation)",
+        "<B>Georgia</B> (film)",
+        "<B>Georgia</B> (ship)",
+        "<B>Georgia</B> (song)",
+        "<B>Georgia</B> (state)",
+        "Goergia"
+      ]
+    },
+    {
+      "score": [
+        "2052.3083"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Judaeo-Georgian"
+      ],
+      "redirectlabel": [
+        "Gruzinic",
+        "Gruzinic language",
+        "ISO 639:jge",
+        "Judaeo-<B>Georgian</B> language",
+        "Judeo-<B>Georgian</B>",
+        "Judeo-<B>Georgian</B> language",
+        "Judæo-<B>Georgian</B>",
+        "Judæo-<B>Georgian</B> language",
+        "Kivruli"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " <B>Georgian</B> dialect spoken by the <B>Georgian</B> Jews, the ancient Jewish community of the Caucasus nation of <B>Georgia</B>."
+      ],
+      "label": [
+        "Judaeo-<B>Georgian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Judaeo-Georgian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian-Jewish_culture_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Georgian-Zan_languages",
+        "http://dbpedia.org/resource/Category:Georgian_language",
+        "http://dbpedia.org/resource/Category:Jewish_languages",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Kartvelian_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Languages_of_Russia"
+      ]
+    },
+    {
+      "score": [
+        "2033.7172"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia_women's_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B> (country) women's national football team",
+        "<B>Georgia</B> women's football team",
+        "<B>Georgian</B> women's football team",
+        "<B>Georgian</B> women's national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Georgia</B> women's national football team represents <B>Georgia</B> in international football. <B>Georgia</B> took"
+      ],
+      "label": [
+        "<B>Georgia</B> women's national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia_women's_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_women's_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Georgia_women's_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "1964.1194"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Georgian_royal_consorts"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Consorts",
+        "<B>Georgian</B> Queen",
+        "<B>Georgian</B> Queen Consort",
+        "<B>Georgian</B> Queen Consorts",
+        "<B>Georgian</B> Queens",
+        "<B>Georgian</B> consorts",
+        "<B>Georgian</B> queen consort",
+        "<B>Georgian</B> queen consorts",
+        "King consort of <B>Georgia</B>",
+        "List of <B>Georgian</B> consorts",
+        "List of consorts of <B>Georgia</B>",
+        "List of royal consorts of <B>Georgia</B>",
+        "List of the Queens of <B>Georgia</B>",
+        "Queen consort of <B>Georgia</B>",
+        "Queen consort of Iberia",
+        "Queen consort of Kakheti",
+        "Queens of <B>Georgia</B>"
+      ],
+      "label": [
+        "List of <B>Georgian</B> royal consorts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Georgian_royal_consorts"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Georgian_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_queens",
+        "http://dbpedia.org/resource/Category:Lists_of_royal_consorts",
+        "http://dbpedia.org/resource/Category:Queens_consort_from_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1926.8547"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Păun"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Paun"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Georgian</B> Păun (born 24 October 1985) is a Romanian footballer who plays as a striker."
+      ],
+      "label": [
+        "<B>Georgian</B> Păun"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Păun"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_births",
+        "http://dbpedia.org/resource/Category:AFC_Turris-Oltul_Turnu_Măgurele_players",
+        "http://dbpedia.org/resource/Category:Association_football_forwards",
+        "http://dbpedia.org/resource/Category:CSO_Plopeni_players",
+        "http://dbpedia.org/resource/Category:CS_Sportul_Snagov_players",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:FCV_Farul_Constanța_players",
+        "http://dbpedia.org/resource/Category:FC_Astra_Giurgiu_players",
+        "http://dbpedia.org/resource/Category:FC_Brașov_(1936)_players",
+        "http://dbpedia.org/resource/Category:FC_Dinamo_București_players",
+        "http://dbpedia.org/resource/Category:FC_Gloria_Buzău_players",
+        "http://dbpedia.org/resource/Category:FC_Petrolul_Ploiești_players",
+        "http://dbpedia.org/resource/Category:FC_Politehnica_Iași_(1945)_players",
+        "http://dbpedia.org/resource/Category:First_Professional_Football_League_(Bulgaria)_players",
+        "http://dbpedia.org/resource/Category:Liga_II_players",
+        "http://dbpedia.org/resource/Category:Liga_I_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players",
+        "http://dbpedia.org/resource/Category:Romanian_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Romanian_expatriate_sportspeople_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:Romanian_footballers",
+        "http://dbpedia.org/resource/Category:Sportspeople_from_Ploiești"
+      ]
+    },
+    {
+      "score": [
+        "1897.2224"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Georgia"
+      ],
+      "redirectlabel": [
+        "Empire of <B>Georgia</B>",
+        "<B>Georgia</B> Kingdom",
+        "<B>Georgia</B> kingdom",
+        "<B>Georgian</B> Empire",
+        "<B>Georgian</B> Kingdom",
+        "<B>Georgian</B> civil war of 1463-1491",
+        "<B>Georgian</B> civil war of 1463–1491",
+        "<B>Georgian</B> kingdom",
+        "Kartvelian Kingdom",
+        "Kingdom of <B>Georgians</B>",
+        "Kingdom of <B>georgia</B>",
+        "Sak’art’velos Samep’o",
+        "The Kingdom of <B>Georgia</B>",
+        "საქართველოს სამეფო"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of <B>Georgia</B> (<B>Georgian</B>: საქართველოს სამეფო), also known as the <B>Georgian</B> Empire, was a"
+      ],
+      "label": [
+        "Kingdom of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1008_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1008_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1490_disestablishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1490_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Former_empires",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Asia",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:History_of_Transcaucasia",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Georgia",
+        "http://dbpedia.org/resource/Category:Medieval_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Medieval_Russia",
+        "http://dbpedia.org/resource/Category:Medieval_history_of_Iran",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1466",
+        "http://dbpedia.org/resource/Category:States_in_medieval_Anatolia"
+      ]
+    },
+    {
+      "score": [
+        "1856.7118"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_cuisine"
+      ],
+      "redirectlabel": [
+        "Abkhaz cuisine",
+        "Abkhazian cuisine",
+        "Cuisine of Abkhazia",
+        "Cuisine of Adjara",
+        "Cuisine of <B>Georgia</B>",
+        "Cuisine of <B>Georgia</B> (country)",
+        "<B>Georgian</B> (country) cuisine",
+        "<B>Georgian</B> cheeses",
+        "<B>Georgian</B> desserts",
+        "List of <B>Georgian</B> desserts",
+        "ქართული სამზარეულო"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        " cuisine of <B>Georgia</B>. <B>Georgian</B> cuisine has similarities with Persian and Caucasus cuisine. Every region"
+      ],
+      "label": [
+        "<B>Georgian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_cuisine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caucasian_cuisine",
+        "http://dbpedia.org/resource/Category:Cuisine_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Georgian_products_with_protected_designation_of_origin",
+        "http://dbpedia.org/resource/Category:Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity"
+      ]
+    },
+    {
+      "score": [
+        "1843.8352"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Airways"
+      ],
+      "redirectlabel": [
+        "AIRZENA",
+        "Air Zena",
+        "Air Zena <B>Georgian</B>",
+        "Airzena",
+        "Airzena <B>Georgian</B>",
+        "Airzena <B>Georgian</B> Airlines",
+        "<B>Georgian</B> (airline)",
+        "<B>Georgian</B> Airlines"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Georgian</B> Airways (<B>Georgian</B>: ჯორჯიან ეარვეისი), formerly Airzena, is the privately owned flag"
+      ],
+      "label": [
+        "<B>Georgian</B> Airways"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Airways"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_2004",
+        "http://dbpedia.org/resource/Category:Airlines_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Brands_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1839.509"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lists_of_Georgian_monarchs"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> King",
+        "<B>Georgian</B> Kings",
+        "<B>Georgian</B> Monarchs",
+        "<B>Georgian</B> king",
+        "<B>Georgian</B> kings",
+        "<B>Georgian</B> monarchs",
+        "List of <B>Georgian</B> Kings",
+        "List of <B>Georgian</B> kings",
+        "List of <B>Georgian</B> monarchs",
+        "List of lists of all <B>Georgian</B> monarchs",
+        "Lists of all <B>Georgian</B> monarchs"
+      ],
+      "comment": [
+        "This article lists <B>Georgian</B> monarchs, and includes monarchs of various <B>Georgian</B> kingdoms. See also British monarchs of the <B>Georgian</B> era."
+      ],
+      "label": [
+        "Lists of <B>Georgian</B> monarchs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lists_of_Georgian_monarchs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Georgian_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "1837.0286"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Bluffs"
+      ],
+      "redirectlabel": [
+        "Balmy Beach, Ontario",
+        "Benallen, Ontario",
+        "Big Bay, Ontario",
+        "Clavering, Ontario",
+        "Copperkettle, Ontario",
+        "Cruickshank, Ontario",
+        "Derby Township",
+        "East Linton, Ontario",
+        "<B>Georgian</B> Bluffs, Ontario",
+        "Hogg, Ontario",
+        "Inglis Falls, Ontario",
+        "Jackson, Ontario",
+        "Keady, Ontario",
+        "Kemble, Ontario",
+        "Keppel Township",
+        "Lake Charles, Ontario",
+        "Lindenwood, Ontario",
+        "Oxenden, Ontario",
+        "Sarawak Township",
+        "Shallow Lake, Ontario",
+        "Shouldice, Ontario",
+        "Springmount, Ontario",
+        "Squire, Ontario",
+        "Wolseley, Ontario",
+        "Zion, Grey County, Ontario"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Georgian</B> Bluffs is a township in southwestern Ontario, Canada, in Grey County located between"
+      ],
+      "label": [
+        "<B>Georgian</B> Bluffs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Bluffs"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lower-tier_municipalities_in_Ontario",
+        "http://dbpedia.org/resource/Category:Municipalities_in_Grey_County",
+        "http://dbpedia.org/resource/Category:Township_municipalities_in_Ontario"
+      ]
+    },
+    {
+      "score": [
+        "1797.0823"
+      ],
+      "refCount": [
+        "643"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Savannah,_Georgia"
+      ],
+      "redirectlabel": [
+        "Blessed Sacrament School (Savannah, <B>Georgia</B>)",
+        "Connect Savannah",
+        "Connect savannah",
+        "Crime in Savannah, <B>Georgia</B>",
+        "Description of Savannah, GA",
+        "Downtown Savannah, <B>Georgia</B>",
+        "Downtown Savannah",
+        "Savanna, GA",
+        "Savanna, <B>Georgia</B>",
+        "Savannah, GA",
+        "Savannah, Ga.",
+        "Savannah, <B>Georgia</B> (U.S. state)",
+        "Savannah, <B>Georgia</B> weather",
+        "Savannah, ga",
+        "Savannah-Chatham Metropolitan, <B>Georgia</B>",
+        "Savannah (GA)",
+        "Savannah (city)",
+        "Savannah (city, <B>Georgia</B>)",
+        "Savannah ga",
+        "Savannah <B>georgia</B>",
+        "UN/LOCODE:USSAV"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Savannah () is the oldest city in the U.S. state of <B>Georgia</B> and is the county seat of Chatham"
+      ],
+      "label": [
+        "Savannah, <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Savannah,_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Chatham_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Cities_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:County_seats_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Former_state_capitals_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Populated_coastal_places_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1733",
+        "http://dbpedia.org/resource/Category:Port_cities_and_towns_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Savannah,_Georgia",
+        "http://dbpedia.org/resource/Category:Savannah_metropolitan_area"
+      ]
+    },
+    {
+      "score": [
+        "1791.0212"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Shepherd"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Shepherd Dog",
+        "<B>Georgian</B> dog",
+        "<B>Georgian</B> mountain Dog",
+        "<B>Georgian</B> mountain dog",
+        "<B>Georgian</B> nagazi",
+        "<B>Georgian</B> shepherd",
+        "<B>Georgian</B> shepherd dog",
+        "Nagazi"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Shepherd (<B>Georgian</B>: ქართული მთის ძაღლი) also known as <B>Georgian</B> Mountain Dog is a"
+      ],
+      "label": [
+        "<B>Georgian</B> Shepherd"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Shepherd"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dog_breeds_originating_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Livestock_guardian_dogs"
+      ]
+    },
+    {
+      "score": [
+        "1787.524"
+      ],
+      "refCount": [
+        "598"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bath,_Somerset"
+      ],
+      "redirectlabel": [
+        "Bath, Avon",
+        "Bath, England",
+        "Bath, Somerset weather",
+        "Bath, Somersetshire",
+        "Bath, UK",
+        "Bath (Borough)",
+        "Bath (England)",
+        "Bath (Somerset)",
+        "Bath (UK City)",
+        "Bath (city)",
+        "Bath Corporation",
+        "Bath England",
+        "Bath Somerset",
+        "Bath england",
+        "City of Bath",
+        "Corporation of Bath",
+        "County Borough of Bath",
+        "<B>Georgian</B> Bath",
+        "History of Bath, Somerset",
+        "Moorlands Junior School, Bath",
+        "Pump Room, Assembly Rooms and Royal Crescent",
+        "The weather in Bath",
+        "Tourism in Bath, Somerset",
+        "UN/LOCODE:GBBTM"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Bath is the largest city in the county of Somerset, England, known for and named after its Roman-built baths. In 2011, the population was 88,859. Bath is in the valley of the River Avon, 97 miles (156 km) west of London and 11 miles (18 km) southeast of Bristol. The city became a World Heritage site in 1987. The city became a spa with the Latin name Aquae Sulis (\"the waters of Sul\") c. 60 AD when the Romans built baths and a temple in the valley of the River Avon, although hot springs were known even before then."
+      ],
+      "label": [
+        "Bath, Somerset"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bath,_Somerset"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bath,_Somerset",
+        "http://dbpedia.org/resource/Category:Bathonian",
+        "http://dbpedia.org/resource/Category:Cities_in_South_West_England",
+        "http://dbpedia.org/resource/Category:Former_boroughs_in_England",
+        "http://dbpedia.org/resource/Category:Former_non-metropolitan_districts_of_Avon",
+        "http://dbpedia.org/resource/Category:Geographical_articles_missing_image_alternative_text",
+        "http://dbpedia.org/resource/Category:River_Avon,_Bristol",
+        "http://dbpedia.org/resource/Category:Spa_towns_in_England",
+        "http://dbpedia.org/resource/Category:Towns_in_Bath_and_North_East_Somerset",
+        "http://dbpedia.org/resource/Category:Unparished_areas_in_Somerset",
+        "http://dbpedia.org/resource/Category:World_Heritage_Sites_in_England"
+      ]
+    },
+    {
+      "score": [
+        "1754.2744"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_heads_of_the_Georgian_Orthodox_Church"
+      ],
+      "redirectlabel": [
+        "Abraam I",
+        "Abraam II",
+        "Basil VI",
+        "Basili II",
+        "Basili III",
+        "Basili IV",
+        "Doroteoz I",
+        "Doroteoz II",
+        "Efrem I",
+        "Ekvtime I",
+        "Ekvtime II",
+        "Ekvtime III",
+        "Exarch of <B>Georgia</B>",
+        "Ioane II",
+        "Ioane III",
+        "Ioane IV",
+        "Ioane V",
+        "Ioane VI",
+        "Iovel I",
+        "Iovel II",
+        "Kirion I",
+        "Kyrion I",
+        "List of Catholicoi-Patriarchs of All <B>Georgia</B>",
+        "List of Catholicos-Patriarchs of All <B>Georgia</B>",
+        "List of Catholicos-Patriarchs of <B>Georgia</B>",
+        "List of head bishops of the <B>Georgian</B> Orthodox Church",
+        "List of heads of <B>Georgian</B> Orthodox Church",
+        "List of patriarchs of <B>Georgia</B>",
+        "Mikel IV",
+        "Mikel V",
+        "Mikel VI",
+        "Nikoloz I",
+        "Nikoloz II",
+        "Petre I",
+        "Petre II",
+        "Saba I",
+        "Saba II",
+        "Samoel I",
+        "Samoel II",
+        "Samoel III",
+        "Samoel IV",
+        "Samoel V",
+        "Samoel VI",
+        "Samoel VII",
+        "Samoel VIII",
+        "Shio I",
+        "Svimeon I",
+        "Svimeon II",
+        "Svimeon III",
+        "Svimeon IV",
+        "Svimeon V"
+      ],
+      "comment": [
+        "The heads of the <B>Georgian</B> Orthodox Church and its predecessors in the ancient <B>Georgian</B> Kingdom of"
+      ],
+      "label": [
+        "List of heads of the <B>Georgian</B> Orthodox Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_heads_of_the_Georgian_Orthodox_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Catholicoses_and_Patriarchs_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Georgian_Orthodox_Church",
+        "http://dbpedia.org/resource/Category:Lists_of_Catholicoi",
+        "http://dbpedia.org/resource/Category:Lists_of_Eastern_Orthodox_bishops_and_archbishops",
+        "http://dbpedia.org/resource/Category:Lists_of_patriarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_popes,_primates,_and_patriarchs",
+        "http://dbpedia.org/resource/Category:Primates_of_the_Georgian_Orthodox_Church"
+      ]
+    },
+    {
+      "score": [
+        "1665.2195"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Railway"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Railways",
+        "Narrow-gauge railways in <B>Georgia</B> (country)",
+        "Narrow gauge railways in <B>Georgia</B> (country)",
+        "Rail transport in <B>Georgia</B> (country)",
+        "Railroads in <B>Georgia</B> (country)",
+        "Railways in <B>Georgia</B> (country)",
+        "Sakartvelos Rkinigza",
+        "საქართველოს რკინიგზა"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Georgian</B> Railway LLC (<B>Georgian</B>: საქართველოს რკინიგზა, translit.: sakartvelos rk'inigza) is the"
+      ],
+      "label": [
+        "<B>Georgian</B> Railway"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Railway"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1870s_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1872_establishments_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:Caucasus_Viceroyalty_(1801–1917)",
+        "http://dbpedia.org/resource/Category:Rail_transport_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Railway_companies_established_in_1872",
+        "http://dbpedia.org/resource/Category:Transport_companies_established_in_1872",
+        "http://dbpedia.org/resource/Category:Transport_companies_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1658.1053"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_dialects"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Dialects",
+        "<B>Georgian</B> dialect"
+      ],
+      "comment": [
+        "<B>Georgian</B> (ქართული kartuli) is a Kartvelian language spoken by about 4 million people, primarily in"
+      ],
+      "label": [
+        "<B>Georgian</B> dialects"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_dialects"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dialects_by_language",
+        "http://dbpedia.org/resource/Category:Georgian_language"
+      ]
+    },
+    {
+      "score": [
+        "1629.0748"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_mythology"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Mythology",
+        "<B>Georgian</B> paganism",
+        "Kartvelian mythology",
+        "List of supernatural beings from <B>Georgian</B> myth",
+        "Mythology of <B>Georgia</B> (country)",
+        "Ochopintre",
+        "Ohcopinte",
+        "Tamar(goddess)",
+        "Tamar (goddess)"
+      ],
+      "comment": [
+        "<B>Georgian</B> mythology refers to the mythology of pre-Christian <B>Georgians</B>. Like many another rich and"
+      ],
+      "label": [
+        "<B>Georgian</B> mythology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_mythology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian_mythology"
+      ]
+    },
+    {
+      "score": [
+        "1618.4318"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Russo-Georgian_diplomatic_crisis"
+      ],
+      "redirectlabel": [
+        "2008-2009 <B>Georgia</B>-Russia crisis",
+        "2008-2009 <B>Georgia</B>–Russia crisis",
+        "2008-2010 <B>Georgia</B>-Russia crisis",
+        "2008-present <B>Georgia</B>-Russia crisis",
+        "2008 <B>Georgia</B>-Russia crisis",
+        "2008 <B>Georgian</B> Crisis",
+        "2008 <B>Georgia</B>–Russia crisis",
+        "2008 Russo–<B>Georgian</B> diplomatic crisis",
+        "2008 <B>georgian</B> crisis",
+        "2008 <B>georgian</B> russia conflict",
+        "2008 <B>georgian</B> russia crisis",
+        "2008–2009 <B>Georgia</B>–Russia crisis",
+        "2008–2010 <B>Georgia</B>–Russia crisis",
+        "2008–present <B>Georgia</B>–Russia crisis",
+        "Alexander Glukhov"
+      ],
+      "comment": [
+        "An international diplomatic crisis between <B>Georgia</B> and Russia began in 2008, when Russia announced"
+      ],
+      "label": [
+        "2008 Russo-<B>Georgian</B> diplomatic crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Russo-Georgian_diplomatic_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_in_Abkhazia",
+        "http://dbpedia.org/resource/Category:2008_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:2008_in_Russia",
+        "http://dbpedia.org/resource/Category:2008_in_South_Ossetia",
+        "http://dbpedia.org/resource/Category:2008_in_international_relations",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Russia_relations",
+        "http://dbpedia.org/resource/Category:Russo-Georgian_War"
+      ]
+    },
+    {
+      "score": [
+        "1574.5903"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_wine"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B> (wine)",
+        "<B>Georgia</B> wine",
+        "<B>Georgian</B> Vine and Wine",
+        "Khvanchkara",
+        "Wine from <B>Georgia</B>",
+        "Wine in <B>Georgia</B>",
+        "Wine of <B>Georgia</B>",
+        "Wines from <B>Georgia</B>",
+        "Wines of <B>Georgia</B>",
+        "Xvanchkara"
+      ],
+      "comment": [
+        " of the Transcaucasia were home to grapevine cultivation and neolithic wine production (<B>Georgian</B>"
+      ],
+      "label": [
+        "<B>Georgian</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian_wine"
+      ]
+    },
+    {
+      "score": [
+        "1573.6726"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romanization_of_Georgian"
+      ],
+      "redirectlabel": [
+        "BGN/PCGN romanization of <B>Georgian</B>",
+        "<B>Georgian</B> national system of romanization",
+        "<B>Georgian</B> romanization",
+        "ISO 9984:1996",
+        "ISO 9984",
+        "Orthographic Latinisation of <B>Georgian</B>",
+        "Orthographic Latinization of <B>Georgian</B>",
+        "Transliteration of <B>Georgian</B>"
+      ],
+      "comment": [
+        "Romanization of <B>Georgian</B> is the process of transliterating the <B>Georgian</B> language from the <B>Georgian</B> script into the Latin script."
+      ],
+      "label": [
+        "Romanization of <B>Georgian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romanization_of_Georgian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian_language",
+        "http://dbpedia.org/resource/Category:Georgian_scripts",
+        "http://dbpedia.org/resource/Category:ISO_standards",
+        "http://dbpedia.org/resource/Category:Romanization"
+      ]
+    },
+    {
+      "score": [
+        "1568.9644"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_lari"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Lari",
+        "ISO 4217:GEL",
+        "Lari (<B>Georgia</B>)",
+        "₾"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The lari (<B>Georgian</B>: ლარი; ISO 4217: GEL) is the currency of <B>Georgia</B>. It is divided into 100 tetri"
+      ],
+      "label": [
+        "<B>Georgian</B> lari"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_lari"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1995",
+        "http://dbpedia.org/resource/Category:Currencies_of_Europe",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Economy_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1563.6411"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B>-American",
+        "<B>Georgian</B>-Americans",
+        "<B>Georgian</B> American",
+        "<B>Georgians</B> in the United States",
+        "History of <B>Georgian</B> Americans",
+        "List of <B>Georgian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " of full or partial <B>Georgian</B> ancestry. They encompass ethnic <B>Georgians</B> who have immigrated to the"
+      ],
+      "label": [
+        "<B>Georgian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Georgian_(country)_descent",
+        "http://dbpedia.org/resource/Category:Georgian_(country)_American",
+        "http://dbpedia.org/resource/Category:Georgian_diaspora",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American"
+      ]
+    },
+    {
+      "score": [
+        "1552.0442"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Land_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Ground Forces",
+        "<B>Georgian</B> land forces",
+        "Military equipment of <B>Georgia</B>",
+        "Military equipment of the <B>Georgian</B> Air Force",
+        "Military equipment of the <B>Georgian</B> Army",
+        "Military equipment of the <B>Georgian</B> Navy"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Ground Forces (<B>Georgian</B>: საქართველოს სახმელეთო ძალები) are the land force component of"
+      ],
+      "label": [
+        "<B>Georgian</B> Land Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Land_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1991",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1506.542"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Georgia"
+      ],
+      "redirectlabel": [
+        "Bolivia-<B>Georgia</B> (country) relations",
+        "Bolivia-<B>Georgia</B> relations",
+        "Bolivia - <B>Georgia</B> relations",
+        "Bolivia <B>Georgia</B> relations",
+        "Bolivia – <B>Georgia</B> relations",
+        "Bolivia–<B>Georgia</B> (country) relations",
+        "Bolivia–<B>Georgia</B> relations",
+        "British-<B>Georgian</B> relations",
+        "British—<B>Georgian</B> relations",
+        "Foreign relations of Adjara",
+        "Foreign relations of <B>Georgia</B> (country)",
+        "Foreign relations of <B>georgia</B>",
+        "<B>Georgia</B>-Bolivia relations",
+        "<B>Georgia</B>-Hungary relations",
+        "<B>Georgia</B>-Iceland relations",
+        "<B>Georgia</B>-Kazakhstan relations",
+        "<B>Georgia</B>-Latvia relations",
+        "<B>Georgia</B>-Malaysia relations",
+        "<B>Georgia</B>-Serbia relations",
+        "<B>Georgia</B>-Sweden relations",
+        "<B>Georgia</B>-Switzerland relations",
+        "<B>Georgia</B>/Transnational issues",
+        "<B>Georgia</B> - Bolivia relations",
+        "<B>Georgia</B> Bolivia relations",
+        "<B>Georgia</B> – Bolivia relations",
+        "<B>Georgian</B>-Hungarian relations",
+        "<B>Georgian</B>-Latvian relations",
+        "<B>Georgian</B>-Lithuanian relations",
+        "<B>Georgian</B>-Serbian relations",
+        "<B>Georgian</B>-Swiss relations",
+        "<B>Georgia</B>–Bolivia relations",
+        "<B>Georgia</B>–Hungary relations",
+        "<B>Georgia</B>–Iceland relations",
+        "<B>Georgia</B>–Kazakhstan relations",
+        "<B>Georgia</B>–Latvia relations",
+        "<B>Georgia</B>–Serbia relations",
+        "<B>Georgia</B>–Sweden relations",
+        "<B>Georgia</B>–Switzerland relations",
+        "Hungarian-<B>Georgia</B> relations",
+        "Hungarian–<B>Georgia</B> relations",
+        "Transnational issues of <B>Georgia</B>"
+      ],
+      "comment": [
+        " region, but also serves as a buffer between Russia and Turkey. <B>Georgia</B> has a long and tumultuous"
+      ],
+      "label": [
+        "Foreign relations of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Georgia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Government_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Politics_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1505.382"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armeno-Georgian_War"
+      ],
+      "redirectlabel": [
+        "Armenian-<B>Georgian</B> War",
+        "Armenian–<B>Georgian</B> War",
+        "<B>Georgian</B>-Armenian War",
+        "<B>Georgian</B>-Armenian War 1918",
+        "<B>Georgian</B>-Armenian war 1918",
+        "<B>Georgian</B>–Armenian War",
+        "<B>Georgian</B>–Armenian War 1918"
+      ],
+      "label": [
+        "Armeno-<B>Georgian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armeno-Georgian_War"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_in_Armenia",
+        "http://dbpedia.org/resource/Category:1918_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Armenia–Georgia_(country)_relations",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1918",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_Georgia",
+        "http://dbpedia.org/resource/Category:First_Republic_of_Armenia",
+        "http://dbpedia.org/resource/Category:Russian_Civil_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Armenia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1483.7205"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Legion_(1915–1918)"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Legion (1914-18)",
+        "<B>Georgian</B> Legion (1914-1918)",
+        "<B>Georgian</B> Legion (1914–18)",
+        "<B>Georgian</B> Legion (1914–1918)",
+        "<B>Georgian</B> Legion (1915-18)",
+        "<B>Georgian</B> Legion (1915-1918)",
+        "<B>Georgian</B> Legion (1915–18)",
+        "The <B>Georgian</B> Legion (1914-1918)"
+      ],
+      "label": [
+        "<B>Georgian</B> Legion (1915–1918)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Legion_(1915–1918)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1915",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Germany_in_World_War_I"
+      ]
+    },
+    {
+      "score": [
+        "1464.2205"
+      ],
+      "refCount": [
+        "560"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/University_of_Georgia"
+      ],
+      "redirectlabel": [
+        "CCQC",
+        "Center for Computational Chemistry",
+        "Center for Computational Quantum Chemistry",
+        "Center for computational chemistry",
+        "Coastal Plain Research Arboretum",
+        "<B>Georgia</B> University",
+        "Greek life at the University of <B>Georgia</B>",
+        "History of UGA",
+        "List of fraternities and sororities at the University of <B>Georgia</B>",
+        "Myers Hall (University of <B>Georgia</B>)",
+        "Order of the Greek Horsemen",
+        "Payne Hall",
+        "Payne Hall (UGA)",
+        "Rutherford Hall",
+        "Tate Student Center",
+        "The Order of the Greek Horsemen",
+        "The University of <B>Georgia</B>",
+        "UGA COE",
+        "UGA College of Education",
+        "UGA FOOD SERVICES",
+        "UGA Griffin Campus",
+        "U <B>Georgia</B>",
+        "U of <B>Georgia</B>",
+        "Uga.edu",
+        "Univ. of <B>Georgia</B>",
+        "Univ of <B>Georgia</B>",
+        "University Of <B>Georgia</B>",
+        "University of <B>Georgia</B> (UGA)",
+        "University of <B>Georgia</B> College of Education",
+        "University of <B>Georgia</B> Research Foundation, Inc.",
+        "University of <B>Georgia</B> at Athens",
+        "Univesity of <B>Georgia</B>"
+      ],
+      "comment": [
+        "The University of <B>Georgia</B> (UGA or <B>Georgia</B>) is a public research university with its main campus in"
+      ],
+      "label": [
+        "University of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/University_of_Georgia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1785_establishments_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Education_in_Clarke_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Education_in_Tift_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1785",
+        "http://dbpedia.org/resource/Category:Flagship_universities_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Historic_districts_on_the_National_Register_of_Historic_Places_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Land-grant_universities_and_colleges",
+        "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Tift_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Public_universities_and_colleges_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Tourist_attractions_in_Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_accredited_by_the_Southern_Association_of_Colleges_and_Schools",
+        "http://dbpedia.org/resource/Category:University_of_Georgia"
+      ]
+    },
+    {
+      "score": [
+        "1453.8391"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_name"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> given name",
+        "<B>Georgian</B> names",
+        "<B>Georgian</B> surname",
+        "<B>Georgian</B> surnames",
+        "Shvili"
+      ],
+      "comment": [
+        "A <B>Georgian</B> name consists of a given name and a surname used by ethnic <B>Georgians</B>."
+      ],
+      "label": [
+        "<B>Georgian</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian-language_surnames",
+        "http://dbpedia.org/resource/Category:Georgian_given_names",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1450.5637"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Court_University"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Court",
+        "<B>Georgian</B> Court College",
+        "<B>Georgian</B> Court Lions"
+      ],
+      "comment": [
+        "<B>Georgian</B> Court University (commonly known as GCU and <B>Georgian</B> Court) is a private Roman Catholic"
+      ],
+      "label": [
+        "<B>Georgian</B> Court University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Court_University"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1908_establishments_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Association_of_Catholic_Colleges_and_Universities",
+        "http://dbpedia.org/resource/Category:Catholic_universities_and_colleges_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1908",
+        "http://dbpedia.org/resource/Category:Former_women's_universities_and_colleges_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Georgian_Court_University",
+        "http://dbpedia.org/resource/Category:Georgian_Revival_architecture_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Gilded_Age_mansions",
+        "http://dbpedia.org/resource/Category:Historic_districts_on_the_National_Register_of_Historic_Places_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Lakewood_Township,_New_Jersey",
+        "http://dbpedia.org/resource/Category:National_Historic_Landmarks_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Ocean_County,_New_Jersey",
+        "http://dbpedia.org/resource/Category:New_Jersey_Register_of_Historic_Places",
+        "http://dbpedia.org/resource/Category:Real_tennis_venues",
+        "http://dbpedia.org/resource/Category:Sisters_of_Mercy_colleges_and_universities",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Ocean_County,_New_Jersey"
+      ]
+    },
+    {
+      "score": [
+        "1421.0814"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Technical_University"
+      ],
+      "redirectlabel": [
+        "Technical University of <B>Georgia</B>",
+        "V.I. Lenin <B>Georgian</B> Polytechnical Institute",
+        "გპი",
+        "სტუ"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Georgian</B> Technical University (GTU, formerly V.I. Lenin <B>Georgian</B> Polytechnical Institute) is the"
+      ],
+      "label": [
+        "<B>Georgian</B> Technical University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Technical_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Tbilisi",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1922",
+        "http://dbpedia.org/resource/Category:Georgian_Technical_University",
+        "http://dbpedia.org/resource/Category:Universities_and_institutes_established_in_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "1411.1984"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Red_Army_invasion_of_Georgia"
+      ],
+      "redirectlabel": [
+        "1921 Russian-<B>Georgian</B> War",
+        "Russian-<B>Georgian</B> War 1921",
+        "Sovetization of <B>Georgia</B>",
+        "Soviet-<B>Georgian</B> War",
+        "Soviet-<B>Georgian</B> war",
+        "Soviet invasion of <B>Georgia</B>",
+        "Sovietization of <B>Georgia</B>",
+        "Soviet–<B>Georgian</B> War",
+        "Soviet—<B>Georgian</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Red Army invasion of <B>Georgia</B> (15 February – 17 March 1921), also known as the Soviet–<B>Georgian</B>"
+      ],
+      "label": [
+        "Red Army invasion of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Red_Army_invasion_of_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1921",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_Georgia",
+        "http://dbpedia.org/resource/Category:February_1921_events",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Russia_relations",
+        "http://dbpedia.org/resource/Category:Georgian_Soviet_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Invasions_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:March_1921_events",
+        "http://dbpedia.org/resource/Category:Russian_Civil_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Russia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Turkey",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "1410.8298"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Film_Studio"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B> Film Studio",
+        "<B>Georgian</B> Film Studios",
+        "<B>Georgian</B> State Film Industry",
+        "Grusiya film",
+        "Gruziya-film",
+        "Gruziya Film",
+        "Kartuli Pilmi",
+        "Kartuli pilmi",
+        "Qartuli Pilmi",
+        "Tbilisi Film Studio"
+      ],
+      "label": [
+        "<B>Georgian</B> Film Studio"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Film_Studio"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Cinema_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Film_production_companies_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Film_studios",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1921"
+      ]
+    },
+    {
+      "score": [
+        "1398.1897"
+      ],
+      "refCount": [
+        "521"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Augusta,_Georgia"
+      ],
+      "redirectlabel": [
+        "Augusta, GA",
+        "Augusta, Ga.",
+        "Augusta-Richmond County, <B>Georgia</B>",
+        "Augusta-Richmond County",
+        "Augusta-Richmond County (County), GA",
+        "Augusta-Richmond County (County), Richmond County, GA",
+        "Augusta-Richmond County (County), Richmond County, <B>Georgia</B>",
+        "Augusta-Richmond County (balance), GA",
+        "Augusta-Richmond County (balance), <B>Georgia</B>",
+        "Augusta-Richmond County (balance), Richmond County, GA",
+        "Augusta-Richmond County (balance), Richmond County, <B>Georgia</B>",
+        "Augusta (GA)",
+        "Disgusta",
+        "Episcopal Day School (Augusta, <B>Georgia</B>)",
+        "Gracewood, <B>Georgia</B>",
+        "Saint Mary on the Hill Catholic School",
+        "UN/LOCODE:USAGS"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " eastern border of the U.S. state of <B>Georgia</B>. The city lies across the Savannah River from South Carolina"
+      ],
+      "label": [
+        "Augusta, <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Augusta,_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Augusta,_Georgia",
+        "http://dbpedia.org/resource/Category:Augusta_metropolitan_area",
+        "http://dbpedia.org/resource/Category:Census_balances_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Cities_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Cities_in_Richmond_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Consolidated_city-counties",
+        "http://dbpedia.org/resource/Category:County_seats_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Former_state_capitals_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1735"
+      ]
+    },
+    {
+      "score": [
+        "1385.3687"
+      ],
+      "refCount": [
+        "360"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Columbus,_Georgia"
+      ],
+      "redirectlabel": [
+        "Alta Vista, Columbus, <B>Georgia</B>",
+        "Brookhaven, Columbus, <B>Georgia</B>",
+        "Colombus, <B>Georgia</B>",
+        "Columbus, GA",
+        "Columbus-Muscogee County, <B>Georgia</B>",
+        "Columbus (GA)",
+        "Columbus (<B>Georgia</B>)",
+        "Columbus (<B>Georgia</B>, United States)",
+        "Columbus (balance), <B>Georgia</B>",
+        "Columbus (city), GA",
+        "Columbus (city), <B>Georgia</B>",
+        "Columbus (city), Muscogee County, GA",
+        "Columbus (city), Muscogee County, <B>Georgia</B>",
+        "Columbus City, <B>Georgia</B>",
+        "Edgewood, Columbus, <B>Georgia</B>",
+        "History of Columbus, <B>Georgia</B>",
+        "Museums in Columbus, <B>Georgia</B>",
+        "Rothschild Middle School",
+        "Rothschild Middle school",
+        "Schatulga, <B>Georgia</B>",
+        "The Columbus Times",
+        "UN/LOCODE:USCSG"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Georgia</B>. Located on the Chattahoochee River directly across from Phenix City, Alabama, Columbus is the"
+      ],
+      "label": [
+        "Columbus, <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Columbus,_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1828_establishments_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Cities_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Cities_in_Muscogee_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Columbus,_Georgia",
+        "http://dbpedia.org/resource/Category:Columbus_metropolitan_area,_Georgia",
+        "http://dbpedia.org/resource/Category:Consolidated_city-counties",
+        "http://dbpedia.org/resource/Category:County_seats_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Georgia_populated_places_on_the_Chattahoochee_River",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1828"
+      ]
+    },
+    {
+      "score": [
+        "1375.8252"
+      ],
+      "refCount": [
+        "375"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Macon,_Georgia"
+      ],
+      "redirectlabel": [
+        "Arts and culture of Macon, <B>Georgia</B>",
+        "Eisenhower Crossing",
+        "History of Macon, <B>Georgia</B>",
+        "Macon, GA",
+        "Macon, Ga.",
+        "Macon, <B>Georgia</B> chronology",
+        "Macon, <B>Georgia</B> weather",
+        "Macon, ga",
+        "Macon-Bibb, <B>Georgia</B>",
+        "Macon-Bibb",
+        "Macon-Bibb (balance), <B>Georgia</B>",
+        "Macon-Bibb County",
+        "Macon (GA)",
+        "Macon <B>Georgia</B>",
+        "Macon–Bibb County",
+        "Robert A. Beall",
+        "Robert Augustus Beall",
+        "The Heart of <B>Georgia</B>",
+        "Timeline of Macon, <B>Georgia</B>",
+        "UN/LOCODE:USMCN",
+        "Vineville, <B>Georgia</B>"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Georgia</B>. Macon lies near the geographic center of the state, approximately 85 miles (137 km) south"
+      ],
+      "label": [
+        "Macon, <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Macon,_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Bibb_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Cities_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Cities_in_Jones_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Consolidated_city-counties",
+        "http://dbpedia.org/resource/Category:County_seats_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Former_state_capitals_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Macon,_Georgia",
+        "http://dbpedia.org/resource/Category:Macon_metropolitan_area,_Georgia",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1823"
+      ]
+    },
+    {
+      "score": [
+        "1363.7012"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Georgian_Chronicles"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Chronicles",
+        "<B>Georgian</B> royal annals",
+        "Kartlis Cxovreba",
+        "Kartlis Tskhovreba",
+        "Kartlis tskhovreba",
+        "The <B>Georgian</B> chronicles"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Chronicles is a conventional English name for the principal compendium of medieval"
+      ],
+      "label": [
+        "The <B>Georgian</B> Chronicles"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Georgian_Chronicles"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Georgian_chronicles"
+      ]
+    },
+    {
+      "score": [
+        "1360.7734"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian–Seljuk_wars"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B>-Seljuk wars",
+        "<B>Georgian</B> military campaign over Armenia",
+        "<B>Georgian</B> military campaigns over Armenian lands"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "<B>Georgian</B>–Seljuk wars, also known as <B>Georgian</B> Crusade, is a long series of battles and military"
+      ],
+      "label": [
+        "<B>Georgian</B>–Seljuk wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian–Seljuk_wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:11th-century_conflicts",
+        "http://dbpedia.org/resource/Category:12th-century_conflicts",
+        "http://dbpedia.org/resource/Category:13th-century_conflicts",
+        "http://dbpedia.org/resource/Category:Seljuk_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Kingdom_of_Georgia"
+      ]
+    },
+    {
+      "score": [
+        "1358.3844"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_National_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "Academy of Sciences of <B>Georgia</B>",
+        "<B>Georgian</B> Academy of Science",
+        "<B>Georgian</B> Academy of Sciences",
+        "<B>Georgian</B> National Academy Of Sciences",
+        "<B>Georgian</B> SSR Academy of Sciences",
+        "<B>Georgian</B> academy of sciences"
+      ],
+      "comment": [
+        " <B>Georgia</B>. It was named <B>Georgian</B> SSR Academy of Sciences until November 1990. The Academy coordinates"
+      ],
+      "label": [
+        "<B>Georgian</B> National Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_National_Academy_of_Sciences"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1941_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Education_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:National_academies_of_arts_and_humanities",
+        "http://dbpedia.org/resource/Category:National_academies_of_sciences",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1941"
+      ]
+    },
+    {
+      "score": [
+        "1358.356"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Room"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Room (Portland, Oregon)",
+        "<B>Georgian</B> Room (restaurant)",
+        "The <B>Georgian</B> Room",
+        "The <B>Georgian</B> Room (Portland, Oregon)",
+        "The <B>Georgian</B> Room (restaurant)"
+      ],
+      "label": [
+        "<B>Georgian</B> Room"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Room"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Defunct_restaurants_in_Portland,_Oregon",
+        "http://dbpedia.org/resource/Category:Meier_&_Frank",
+        "http://dbpedia.org/resource/Category:Southwest_Portland,_Oregon"
+      ]
+    },
+    {
+      "score": [
+        "1349.7931"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Byzantine–Georgian_wars"
+      ],
+      "redirectlabel": [
+        "Byzantine-<B>Georgian</B> wars",
+        "<B>Georgian</B>-Byzantine wars",
+        "<B>Georgian</B> civil war of 1033-1058",
+        "<B>Georgian</B> civil war of 1033–1058",
+        "War with Byzantium"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Byzantine–<B>Georgian</B> wars (<B>Georgian</B>: ბიზანტიურ-ქართული ომები) were a series of conflicts fought"
+      ],
+      "label": [
+        "Byzantine–<B>Georgian</B> wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Byzantine–Georgian_wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:11th-century_conflicts",
+        "http://dbpedia.org/resource/Category:11th_century_in_the_Byzantine_Empire",
+        "http://dbpedia.org/resource/Category:11th_century_in_the_Kingdom_of_Georgia",
+        "http://dbpedia.org/resource/Category:Byzantine–Georgian_wars"
+      ]
+    },
+    {
+      "score": [
+        "1326.9772"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Meaford,_Ontario"
+      ],
+      "redirectlabel": [
+        "Annan, Ontario",
+        "Bognor, Ontario",
+        "Centreville, Grey County, Ontario",
+        "<B>Georgian</B> Bay Secondary School",
+        "<B>Georgian</B> Highlands, Ontario",
+        "<B>Georgian</B> Highlands",
+        "Meaford, Canada",
+        "Rockford, Ontario",
+        "St. Vincent Township, Ontario",
+        "Woodford, Ontario"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " sub-basin of <B>Georgian</B> Bay and Owen Sound Bay, in southern Ontario. The municipality's seal and"
+      ],
+      "label": [
+        "Meaford, Ontario"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Meaford,_Ontario"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lower-tier_municipalities_in_Ontario",
+        "http://dbpedia.org/resource/Category:Municipalities_in_Grey_County"
+      ]
+    },
+    {
+      "score": [
+        "1318.3103"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia–Russia_relations"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B>-Russia relations",
+        "<B>Georgia</B> (country)-Russia relations",
+        "<B>Georgia</B> (country)–Russia relations",
+        "<B>Georgia</B> - Russia relations",
+        "<B>Georgia</B> Russia relations",
+        "<B>Georgia</B> – Russia relations",
+        "<B>Georgian</B>-Russian relations",
+        "<B>Georgian</B>–Russian relations",
+        "Russia-<B>Georgia</B> relations",
+        "Russia - <B>Georgia</B> relations",
+        "Russia <B>Georgia</B> relations",
+        "Russia – <B>Georgia</B> relations",
+        "Russian-<B>Georgian</B> relations",
+        "Russian–<B>Georgian</B> relations",
+        "Russia–<B>Georgia</B> relations",
+        "Russo-<B>Georgian</B> relations"
+      ],
+      "comment": [
+        " <B>Georgian</B> monarchy viewed as a replacement for its long-lost Orthodox ally, the Eastern Roman Empire."
+      ],
+      "label": [
+        "<B>Georgia</B>–Russia relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia–Russia_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Russia",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Russia_relations",
+        "http://dbpedia.org/resource/Category:Relations_of_colonizer_and_former_colony"
+      ]
+    },
+    {
+      "score": [
+        "1317.8131"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sukhishvili_Georgian_National_Ballet"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> National Ballet",
+        "<B>Georgian</B> National Ballet \"Sukhishvili\"",
+        "<B>Georgian</B> State Dance Company",
+        "Sukhishvilebi - <B>Georgian</B> National Ballet",
+        "Sukhishvili National Ballet"
+      ],
+      "comment": [
+        "The <B>Georgian</B> National Ballet (<B>Georgian</B>: ქართული ეროვნული ბალეტი, translit.: kartuli erovnuli"
+      ],
+      "label": [
+        "Sukhishvili <B>Georgian</B> National Ballet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sukhishvili_Georgian_National_Ballet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dance_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Folk_dance_companies"
+      ]
+    },
+    {
+      "score": [
+        "1316.7942"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian–Polish_alliance"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B>-Polish Alliance",
+        "<B>Georgian</B>-Polish alliance",
+        "<B>Georgian</B>–Polish Alliance",
+        "Polish-<B>Georgian</B> alliance",
+        "Polish–<B>Georgian</B> alliance"
+      ],
+      "label": [
+        "<B>Georgian</B>–Polish alliance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian–Polish_alliance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1920_in_Poland",
+        "http://dbpedia.org/resource/Category:1920_in_international_relations",
+        "http://dbpedia.org/resource/Category:1921_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1921_in_Poland",
+        "http://dbpedia.org/resource/Category:20th-century_military_alliances",
+        "http://dbpedia.org/resource/Category:20th_century_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Poland_relations",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_Poland"
+      ]
+    },
+    {
+      "score": [
+        "1310.591"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian–Ossetian_conflict_(1918–1920)"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B>-Ossetian conflict (1918-1920)",
+        "<B>Georgian</B>-Ossetian conflict (1918-20)",
+        "<B>Georgian</B>-Ossetian conflict (1918–1920)",
+        "<B>Georgian</B>–Ossetian conflict (1918-1920)",
+        "<B>Georgian</B>–Ossetian conflict (1918–20)",
+        "Ossetian genocide"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " of <B>Georgia</B> which claimed several thousand lives and left painful memories among the <B>Georgian</B> and Ossetian communities of the region."
+      ],
+      "label": [
+        "<B>Georgian</B>–Ossetian conflict (1918–1920)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian–Ossetian_conflict_(1918–1920)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Conflicts_in_1918",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1919",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1920",
+        "http://dbpedia.org/resource/Category:Georgian–Ossetian_conflict",
+        "http://dbpedia.org/resource/Category:History_of_South_Ossetia",
+        "http://dbpedia.org/resource/Category:Russian_Civil_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Russia"
+      ]
+    },
+    {
+      "score": [
+        "1288.281"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_maneti"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> rouble",
+        "<B>Georgian</B> ruble",
+        "Maneti"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The maneti (მანეთი) was the currency of the Democratic Republic of <B>Georgia</B> and the <B>Georgian</B> Soviet"
+      ],
+      "label": [
+        "<B>Georgian</B> maneti"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_maneti"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1923_disestablishments",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "1287.0424"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Georgian_mutiny"
+      ],
+      "redirectlabel": [
+        "2009 <B>Georgian</B> Mutiny",
+        "2009 <B>Georgian</B> attempted mutiny",
+        "2009 <B>Georgian</B> troop coup",
+        "2009 <B>Georgian</B> troop mutiny",
+        "Mukhrovani Mutiny"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2009 <B>Georgian</B> mutiny was a mutiny by a <B>Georgian</B> Army tank battalion based in Mukhrovani"
+      ],
+      "label": [
+        "2009 <B>Georgian</B> mutiny"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Georgian_mutiny"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2009",
+        "http://dbpedia.org/resource/Category:Military_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Mutinies"
+      ]
+    },
+    {
+      "score": [
+        "1285.5334"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Georgian_regions_by_Human_Development_Index"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> regions by HDI",
+        "<B>Georgian</B> regions by Human Development Index",
+        "HDI of <B>Georgian</B> regions",
+        "HDI of regions of <B>Georgia</B>",
+        "Human Development Index of <B>Georgian</B> regions",
+        "Human Development Index of regions of <B>Georgia</B>",
+        "List of <B>Georgian</B> regions by HDI",
+        "List of regions of <B>Georgia</B> by HDI",
+        "List of regions of <B>Georgia</B> by Human Development Index",
+        "Regions of <B>Georgia</B> by HDI",
+        "Regions of <B>Georgia</B> by Human Development Index"
+      ],
+      "comment": [
+        "This is a list of <B>Georgian</B> administrative divisions (mkhare) by Human Development Index as of 2017"
+      ],
+      "label": [
+        "List of <B>Georgian</B> regions by Human Development Index"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Georgian_regions_by_Human_Development_Index"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Georgia_(country)_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions",
+        "http://dbpedia.org/resource/Category:Regions_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1283.4374"
+      ],
+      "refCount": [
+        "558"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands"
+      ],
+      "redirectlabel": [
+        "Bibliography of South <B>Georgia</B> and the South Sandwich Islands",
+        "COVID-19 pandemic in South <B>Georgia</B> & S. Sandwich Isl.",
+        "COVID-19 vaccination in South <B>Georgia</B> & S. Sandwich Isl.",
+        "COVID-19 vaccination in South <B>Georgia</B> and the South Sandwich Islands",
+        "Climate of South <B>Georgia</B> and the South Sandwich Islands",
+        "Communications in South <B>Georgia</B> and the South Sandwich Islands",
+        "Demographics of South <B>Georgia</B> and the South Sandwich Islands",
+        "Economy of South <B>Georgia</B> and the South Sandwich Islands",
+        "Elections in South <B>Georgia</B> and the South Sandwich Islands",
+        "Geography of South <B>Georgia</B> and the South Sandwich Islands",
+        "Government of South <B>Georgia</B> and the South Sandwich Islands",
+        "ISO 3166-1:GS",
+        "Islas <B>Georgias</B> del Sur y Islas Sandwich del Sur",
+        "Isle of <B>Georgia</B>",
+        "Politics of South <B>Georgia</B> and the South Sandwich Islands",
+        "S. G. S. S. I.",
+        "SG&SSI",
+        "SGSSI",
+        "S <B>Georgia</B> and Sandwich Isls",
+        "South <B>Georgia</B>, Falklands",
+        "South <B>Georgia</B> & South Sandwich Islands",
+        "South <B>Georgia</B> & the South Sandwich Islands",
+        "South <B>Georgia</B> And the South Sandwich Islands",
+        "South <B>Georgia</B> Group",
+        "South <B>Georgia</B> Islands",
+        "South <B>Georgia</B> and Sandwich Islands",
+        "South <B>Georgia</B> and South Sandwich Islands",
+        "South <B>Georgia</B> and The South Sandwich Islands",
+        "South <B>Georgia</B> and the South Sandwhich Islands",
+        "South <B>Georgia</B> and the South Sandwich Islands/Communications",
+        "South <B>Georgia</B> and the South Sandwich Islands/Economy",
+        "South <B>Georgia</B> and the South Sandwich Islands/Geography",
+        "South <B>Georgia</B> and the South Sandwich Islands/Government",
+        "South <B>Georgia</B> and the South Sandwich Islands/People",
+        "South <B>Georgia</B> and the South Sandwich Islands/Transnational issues",
+        "South <B>Georgia</B> and the South Sandwich Islands/Transportation",
+        "South <B>Georgia</B> and the South Sandwich Isles",
+        "South <B>Georgia</B> and the South Sandwich islands",
+        "South Sandwich Islands",
+        "South Sandwich islands",
+        "Telecommunications in South <B>Georgia</B> and the South Sandwich Islands",
+        "Tourism in South <B>Georgia</B> and the South Sandwich Islands",
+        "Tourism in the South <B>Georgia</B> and South Sandwich Islands"
+      ],
+      "comment": [
+        "South <B>Georgia</B> and the South Sandwich Islands (SGSSI) is a British Overseas Territory in the"
+      ],
+      "label": [
+        "South <B>Georgia</B> and the South Sandwich Islands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_establishments_in_British_Overseas_Territories",
+        "http://dbpedia.org/resource/Category:Antarctic_region",
+        "http://dbpedia.org/resource/Category:British_Overseas_Territories",
+        "http://dbpedia.org/resource/Category:Dependent_territories_in_South_America",
+        "http://dbpedia.org/resource/Category:Disputed_islands",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Important_Bird_Areas_of_Antarctica",
+        "http://dbpedia.org/resource/Category:Important_Bird_Areas_of_subantarctic_islands",
+        "http://dbpedia.org/resource/Category:Important_Bird_Areas_of_the_British_Overseas_Territories",
+        "http://dbpedia.org/resource/Category:Islands_of_the_South_Atlantic_Ocean",
+        "http://dbpedia.org/resource/Category:Lists_of_coordinates",
+        "http://dbpedia.org/resource/Category:Seal_hunting",
+        "http://dbpedia.org/resource/Category:South_Georgia_and_the_South_Sandwich_Islands",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1985",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Argentina",
+        "http://dbpedia.org/resource/Category:Volcanic_arc_islands"
+      ]
+    },
+    {
+      "score": [
+        "1278.8326"
+      ],
+      "refCount": [
+        "372"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Athens,_Georgia"
+      ],
+      "redirectlabel": [
+        "Athens, GA",
+        "Athens, GA (U.S. state)",
+        "Athens, Ga.",
+        "Athens, <B>Georgia</B> (U.S. state)",
+        "Athens, <B>Georgia</B> chronology",
+        "Athens, ga",
+        "Athens-Clarke County, <B>Georgia</B>",
+        "Athens-Clarke County (County), Clarke County, GA",
+        "Athens-Clarke County (County), Clarke County, <B>Georgia</B>",
+        "Athens-Clarke County (County), GA",
+        "Athens-Clarke County (County), <B>Georgia</B>",
+        "Athens-Clarke County (balance), Clarke County, GA",
+        "Athens-Clarke County (balance), Clarke County, <B>Georgia</B>",
+        "Athens-Clarke County (balance), GA",
+        "Athens-Clarke County (balance), <B>Georgia</B>",
+        "Athens-Clarke County Police Department",
+        "Athens (GA)",
+        "Athens County, <B>Georgia</B>",
+        "Athens GA",
+        "Athens <B>georgia</B>",
+        "History of Athens, <B>Georgia</B>",
+        "List of people from Athens, <B>Georgia</B>",
+        "Timeline of Athens, <B>Georgia</B>"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        ". state of <B>Georgia</B>. Athens lies about 70 mi (113 km) northeast of downtown Atlanta, a global city"
+      ],
+      "label": [
+        "Athens, <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Athens,_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1800s_establishments_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:1806_establishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Athens_–_Clarke_County_metropolitan_area",
+        "http://dbpedia.org/resource/Category:Census_balances_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Cities_in_Clarke_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Cities_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Consolidated_city-counties",
+        "http://dbpedia.org/resource/Category:County_seats_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1806"
+      ]
+    },
+    {
+      "score": [
+        "1264.6969"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Air_Georgian"
+      ],
+      "redirectlabel": [
+        "Air <B>Georgian</B> Limited",
+        "Air <B>Georgian</B> Ltd."
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "Air <B>Georgian</B> Limited is a privately owned airline based at Toronto Pearson International Airport in"
+      ],
+      "label": [
+        "Air <B>Georgian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Air_Georgian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_Ontario",
+        "http://dbpedia.org/resource/Category:2020_disestablishments_in_Ontario",
+        "http://dbpedia.org/resource/Category:Air_Canada",
+        "http://dbpedia.org/resource/Category:Air_Transport_Association_of_Canada",
+        "http://dbpedia.org/resource/Category:Airlines_disestablished_in_2020",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1994",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Mississauga",
+        "http://dbpedia.org/resource/Category:Defunct_airlines_of_Canada",
+        "http://dbpedia.org/resource/Category:Regional_airlines_of_Ontario"
+      ]
+    },
+    {
+      "score": [
+        "1263.9001"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Georgian_princes_(mtavars)"
+      ],
+      "redirectlabel": [
+        "List of <B>Georgian</B> princes",
+        "List of Princes of Abkhazia",
+        "List of Princes of Megrelia",
+        "List of Princes of Mingrelia",
+        "List of Princes of Samargalo",
+        "List of Princes of Samegrelo",
+        "List of monarchs of Abkhazia",
+        "List of monarchs of Guria",
+        "List of monarchs of Megrelia",
+        "List of monarchs of Mingrelia",
+        "List of monarchs of Svaneti",
+        "Lists of <B>Georgian</B> princes",
+        "Prince of Megrelia",
+        "Prince of Mingrelia",
+        "Prince of Samargalo",
+        "Prince of Samegrelo",
+        "Princes of Megrelia",
+        "Princes of Mingrelia",
+        "Princes of Samargalo",
+        "Princes of Samegrelo"
+      ],
+      "label": [
+        "List of <B>Georgian</B> princes (mtavars)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Georgian_princes_(mtavars)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Early_Modern_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Lists_of_Georgian_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs",
+        "http://dbpedia.org/resource/Category:Medieval_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1260.6213"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/German_involvement_in_Georgian–Abkhaz_conflict"
+      ],
+      "redirectlabel": [
+        "Abkhazia-Germany relations",
+        "Abkhazia - Germany relations",
+        "Abkhazia Germany relations",
+        "Abkhazia – Germany relations",
+        "Abkhazia–Germany relations",
+        "German involvement in Abkhazia",
+        "German involvement in <B>Georgian</B>-Abkhaz conflict",
+        "German involvement in <B>Georgian</B>-Abkhazian conflict",
+        "German involvement in <B>Georgian</B>–Abkhazian conflict",
+        "Germany-Abkhazia relations",
+        "Germany - Abkhazia relations",
+        "Germany Abkhazia relations",
+        "Germany – Abkhazia relations",
+        "Germany–Abkhazia relations"
+      ],
+      "comment": [
+        " involved in diplomatic and peacekeeping efforts to resolve the dispute between the Republic of Abkhazia and <B>Georgia</B>, Germany's strategic ally."
+      ],
+      "label": [
+        "German involvement in <B>Georgian</B>–Abkhaz conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/German_involvement_in_Georgian–Abkhaz_conflict"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Abkhaz–Georgian_conflict",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Germany_relations",
+        "http://dbpedia.org/resource/Category:History_of_Abkhazia"
+      ]
+    },
+    {
+      "score": [
+        "1254.6327"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Erovnuli_Liga_2"
+      ],
+      "redirectlabel": [
+        "Crystalbet Erovnuli Liga 2",
+        "<B>Georgian</B> First Division",
+        "<B>Georgian</B> first league",
+        "Pirveli Liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Erovnuli Liga 2 (<B>Georgian</B>: ეროვნული ლიგა 2; lit. National League 2) was organized in"
+      ],
+      "label": [
+        "Erovnuli Liga 2"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Erovnuli_Liga_2"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Erovnuli_Liga_2",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1246.5571"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Socialist-Federalist_Revolutionary_Party"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Socialist-Federalists",
+        "<B>Georgian</B> Socialist Federalist Revolutionary Party",
+        "Party of <B>Georgian</B> Social-Federalists",
+        "Social-Federalist Party of <B>Georgia</B>",
+        "Socialist-Federalist Party (<B>Georgia</B>)",
+        "Socialist Federalist Party of <B>Georgia</B>"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Socialist-Federalist Revolutionary Party was a bourgeois-nationalist party in <B>Georgia</B>"
+      ],
+      "label": [
+        "<B>Georgian</B> Socialist-Federalist Revolutionary Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Socialist-Federalist_Revolutionary_Party"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1904_establishments_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Federalist_parties",
+        "http://dbpedia.org/resource/Category:Georgian_nationalism",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1904",
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities_in_Imperial_Russia",
+        "http://dbpedia.org/resource/Category:Political_parties_of_the_Russian_Revolution",
+        "http://dbpedia.org/resource/Category:Pro-independence_parties_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "1236.6483"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Mișu"
+      ],
+      "redirectlabel": [
+        "Mișu <B>Georgian</B>"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Ionel <B>Georgian</B> Mișu (born 24 July 2001) is a Romanian professional footballer who plays as a"
+      ],
+      "label": [
+        "<B>Georgian</B> Mișu"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Mișu"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_births",
+        "http://dbpedia.org/resource/Category:Association_football_goalkeepers",
+        "http://dbpedia.org/resource/Category:CS_Concordia_Chiajna_players",
+        "http://dbpedia.org/resource/Category:Liga_II_players",
+        "http://dbpedia.org/resource/Category:Liga_I_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:People_from_Drobeta-Turnu_Severin",
+        "http://dbpedia.org/resource/Category:Romanian_footballers"
+      ]
+    },
+    {
+      "score": [
+        "1230.4608"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Social_Democratic_Party_of_Georgia"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Menshevik Party",
+        "<B>Georgian</B> Mensheviks",
+        "<B>Georgian</B> Social Democratic (Menshevik) Party",
+        "<B>Georgian</B> Social Democratic Labour Party",
+        "<B>Georgian</B> Social Democratic Party",
+        "Gruzmeks",
+        "Social Democratic Labour Party of <B>Georgia</B>"
+      ],
+      "comment": [
+        "The Social Democratic Party of <B>Georgia</B> (<B>Georgian</B>: საქართველოს სოციალ-დემოკრატიული პარტია"
+      ],
+      "label": [
+        "Social Democratic Party of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Social_Democratic_Party_of_Georgia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890s_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1920s_disestablishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_Georgia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Labour_and_Socialist_International",
+        "http://dbpedia.org/resource/Category:Mensheviks",
+        "http://dbpedia.org/resource/Category:Political_parties_of_the_Russian_Revolution",
+        "http://dbpedia.org/resource/Category:Pro-independence_parties_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Russian_Social_Democratic_Labour_Party",
+        "http://dbpedia.org/resource/Category:Social_Democratic_Party_of_Georgia_politicians",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1227.3973"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Georgian_referendum"
+      ],
+      "redirectlabel": [
+        "2008 <B>Georgian</B> NATO membership referendum",
+        "2008 <B>Georgian</B> legislative election date referendum",
+        "<B>Georgian</B> NATO membership referendum, 2008",
+        "<B>Georgian</B> legislative election date referendum, 2008",
+        "<B>Georgian</B> referendum, 2008"
+      ],
+      "comment": [
+        "A double referendum was held in <B>Georgia</B> on 5 January 2008 alongside presidential elections. One"
+      ],
+      "label": [
+        "2008 <B>Georgian</B> referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Georgian_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:2008_referendums",
+        "http://dbpedia.org/resource/Category:NATO_membership_referendums",
+        "http://dbpedia.org/resource/Category:Referendums_in_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1214.962"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "label": [
+        "<B>Georgian</B> Legion"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Legion"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Legion"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Legion (disambiguation)",
+        "Georgische Legion",
+        "The <B>Georgian</B> Legion",
+        "The <B>Georgian</B> Legion (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "1206.8877"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Erovnuli_Liga"
+      ],
+      "redirectlabel": [
+        "Crystalbet Erovnuli Liga",
+        "<B>Georgian</B> Premier League,",
+        "<B>Georgian</B> Premier League",
+        "<B>Georgian</B> highest football division",
+        "Umaghlesi Liga",
+        "Umaglesi Liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Georgia</B> and <B>Georgian</B> Football Federation. From 1927 to 1989, the competition was held as a regional"
+      ],
+      "label": [
+        "Erovnuli Liga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Erovnuli_Liga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Erovnuli_Liga",
+        "http://dbpedia.org/resource/Category:Football_competitions_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1990",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1201.203"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Legion_(1941–1945)"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Legion (1941-1945)",
+        "<B>Georgian</B> Legion (1941-45)",
+        "<B>Georgian</B> Legion (1941–45)",
+        "Georgische Legion (1941-45)",
+        "Georgische Legion (1941–45)",
+        "The <B>Georgian</B> Legion (1941-1945)"
+      ],
+      "label": [
+        "<B>Georgian</B> Legion (1941–1945)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Legion_(1941–1945)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Collaborators_with_Nazi_Germany_from_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Foreign_volunteer_units_of_the_Wehrmacht",
+        "http://dbpedia.org/resource/Category:Georgian_Soviet_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Military_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1941",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1200.8289"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2020_Georgian_protests"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Georgian</B> protests",
+        "2019-20 <B>Georgian</B> protests",
+        "2019 <B>Georgian</B> protests",
+        "2019–20 <B>Georgian</B> protests",
+        "Protest in <B>Georgia</B> (country) (2019)"
+      ],
+      "label": [
+        "2019–2020 <B>Georgian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2020_Georgian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Tbilisi",
+        "http://dbpedia.org/resource/Category:2019_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Anti-Russian_sentiment",
+        "http://dbpedia.org/resource/Category:History_of_Tbilisi",
+        "http://dbpedia.org/resource/Category:Protests_in_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1186.8451"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Defence_Forces_of_Georgia"
+      ],
+      "redirectlabel": [
+        "Armed Forces of <B>Georgia</B>",
+        "Army of <B>Georgia</B> (country)",
+        "Defense Forces of <B>Georgia</B>",
+        "<B>Georgia</B>/Military",
+        "<B>Georgian</B> Armed Forces",
+        "<B>Georgian</B> Army",
+        "<B>Georgian</B> Defense Forces",
+        "<B>Georgian</B> armed forces",
+        "<B>Georgian</B> army",
+        "<B>Georgian</B> military",
+        "Military of Adjara",
+        "Military of <B>Georgia</B>",
+        "Military of <B>Georgia</B> (country)"
+      ],
+      "label": [
+        "Defence Forces of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Defence_Forces_of_Georgia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1186.4409"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgia–Greece_relations"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B>-Greece relations",
+        "<B>Georgia</B> (country)-Greece relations",
+        "<B>Georgia</B> (country)–Greece relations",
+        "<B>Georgian</B>-Greece relations",
+        "<B>Georgian</B>-Greek relations",
+        "<B>Georgians</B> in Greece",
+        "<B>Georgian</B>–Greece relations",
+        "<B>Georgian</B>–Greek relations",
+        "<B>Georgian</B>—Greek relations",
+        "Greco-<B>Georgian</B> relations"
+      ],
+      "comment": [
+        "<B>Georgian</B>-Greek relations are foreign relations between <B>Georgia</B> and Greece. Both countries"
+      ],
+      "label": [
+        "<B>Georgia</B>–Greece relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgia–Greece_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Greece",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Greece_relations"
+      ]
+    },
+    {
+      "score": [
+        "1180.7959"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Georgian_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "2003 <B>Georgia</B> legislative election",
+        "2003 <B>Georgian</B> legislative election",
+        "<B>Georgia</B> legislative election, 2003",
+        "<B>Georgian</B> legislative election, 2003",
+        "<B>Georgian</B> parliamentary election, 2003"
+      ],
+      "comment": [
+        " referendum. According to statistics released by the <B>Georgian</B> Election Commission, the elections were won by"
+      ],
+      "label": [
+        "2003 <B>Georgian</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Georgian_parliamentary_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_elections_in_Europe",
+        "http://dbpedia.org/resource/Category:2003_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Annulled_elections",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Rose_Revolution"
+      ]
+    },
+    {
+      "score": [
+        "1174.6067"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1990_Georgian_Supreme_Soviet_election"
+      ],
+      "redirectlabel": [
+        "1990 <B>Georgian</B> legislative election",
+        "1990 <B>Georgian</B> parliamentary election",
+        "<B>Georgian</B> Supreme Soviet election, 1990",
+        "<B>Georgian</B> legislative election, 1990",
+        "<B>Georgian</B> parliamentary election, 1990"
+      ],
+      "comment": [
+        "Parliamentary elections were held in the <B>Georgian</B> SSR on 28 October 1990, with a second round on 11"
+      ],
+      "label": [
+        "1990 <B>Georgian</B> Supreme Soviet election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1990_Georgian_Supreme_Soviet_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_elections_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:1990_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:November_1990_events_in_Europe",
+        "http://dbpedia.org/resource/Category:October_1990_events_in_Europe",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1170.0288"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Poetry"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> poetry",
+        "<B>Georgian</B> poets"
+      ],
+      "comment": [
+        "<B>Georgian</B> Poetry refers to a series of anthologies showcasing the work of a school of English poetry"
+      ],
+      "label": [
+        "<B>Georgian</B> Poetry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Poetry"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_poetry_books",
+        "http://dbpedia.org/resource/Category:1915_poetry_books",
+        "http://dbpedia.org/resource/Category:1917_poetry_books",
+        "http://dbpedia.org/resource/Category:1919_poetry_books",
+        "http://dbpedia.org/resource/Category:1922_poetry_books",
+        "http://dbpedia.org/resource/Category:20th-century_British_literature",
+        "http://dbpedia.org/resource/Category:English_poetry_anthologies"
+      ]
+    },
+    {
+      "score": [
+        "1169.9825"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_monarchs_of_Georgia"
+      ],
+      "redirectlabel": [
+        "Colchian Kings",
+        "George of <B>Georgia</B>",
+        "<B>Georgia</B> Kings",
+        "<B>Georgian</B> Princes",
+        "<B>Georgian</B> queen",
+        "<B>Georgian</B> queens",
+        "Iberian Kings",
+        "Iberian kings",
+        "Kartvelian King",
+        "Kartvelian Kings",
+        "Kartvelian Queens",
+        "King of <B>Georgia</B>",
+        "King of Iberia",
+        "Kings of Caucasian Iberia",
+        "Kings of Colchis",
+        "Kings of <B>Georgia</B>",
+        "Kings of Iberia",
+        "List of Bagratid rulers",
+        "List of Bagrationi Kings",
+        "List of Bagrationi rulers of <B>Georgia</B>",
+        "List of <B>Georgian</B> monarchs of Bagrationi dynasty",
+        "List of Iberian monarchs",
+        "List of Kings of Caucasian Iberia",
+        "List of Kings of <B>Georgia</B>",
+        "List of Kings of Iberia",
+        "List of ancient <B>Georgian</B> monarchs",
+        "List of kings of Caucasian Iberia",
+        "List of kings of <B>Georgia</B>",
+        "List of kings of Iberia",
+        "List of monarchs of Caucasian Iberia",
+        "List of monarchs of Iberia",
+        "List of monarchs of Kingdom of Iberia",
+        "List of the Kings of <B>Georgia</B>",
+        "List of the kings of <B>Georgia</B>",
+        "Lists of monarchs in <B>Georgia</B>",
+        "Monarchs of <B>Georgia</B>",
+        "Queen of <B>Georgia</B>",
+        "Queen of Iberia"
+      ],
+      "comment": [
+        " Russian annexation in 1801–1810. For more comprehensive lists, and family trees, of <B>Georgian</B> monarchs and rulers see Lists of <B>Georgian</B> monarchs."
+      ],
+      "label": [
+        "List of monarchs of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_monarchs_of_Georgia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Kings_of_Georgia",
+        "http://dbpedia.org/resource/Category:Lists_of_Georgian_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "1168.2142"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Georgia_(country)"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> folk music",
+        "<B>Georgian</B> music",
+        "<B>Georgian</B> musical instruments",
+        "<B>Georgian</B> polyphonic singing",
+        "<B>Georgian</B> triad",
+        "<B>Georgian</B> vocal polyphony",
+        "Krimanchuli",
+        "Performers of <B>Georgian</B> traditional music",
+        "Traditional <B>Georgian</B> musical instruments",
+        "Traditional music of <B>Georgia</B> (country)"
+      ],
+      "comment": [
+        " Eastern monophony and late European harmonic languages. <B>Georgian</B> performers are well represented in"
+      ],
+      "label": [
+        "Music of <B>Georgia</B> (country)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Georgia_(country)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Music_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1161.2853"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Muskoka_(provincial_electoral_district)"
+      ],
+      "redirectlabel": [
+        "Muskoka-<B>Georgian</B> Bay",
+        "Muskoka and Parry Sound (provincial electoral district)",
+        "Muskoka–<B>Georgian</B> Bay",
+        "Muskoka—<B>Georgian</B> Bay",
+        "Muskoka—Ontario (provincial electoral district)"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " 1987 it changed again to Muskoka-<B>Georgian</B> Bay. It was eliminated by redistribution in 1999, and its"
+      ],
+      "label": [
+        "Muskoka (provincial electoral district)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Muskoka_(provincial_electoral_district)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Former_provincial_electoral_districts_of_Ontario"
+      ]
+    },
+    {
+      "score": [
+        "1156.68"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anthem_of_the_Georgian_Soviet_Socialist_Republic"
+      ],
+      "redirectlabel": [
+        "Anthem of <B>Georgian</B> SSR",
+        "Anthem of the <B>Georgian</B> SSR",
+        "Anthem of the <B>georgian</B> soviet socialist republic",
+        "Anthem of the <B>georgian</B> ssr"
+      ],
+      "comment": [
+        "The \"State Anthem of the <B>Georgian</B> SSR\" was the regional anthem of the <B>Georgian</B> SSR."
+      ],
+      "label": [
+        "Anthem of the <B>Georgian</B> Soviet Socialist Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anthem_of_the_Georgian_Soviet_Socialist_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anthems_of_the_Republics_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Georgian_Soviet_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Music_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Songs_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1153.4055"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Crown_Jewels"
+      ],
+      "redirectlabel": [
+        "Crown jewels of <B>Georgia</B>",
+        "<B>Georgian</B> Crown",
+        "<B>Georgian</B> Royal Crown",
+        "Iberian crown"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Crown Jewels were the regalia and vestments worn by the monarchs of <B>Georgia</B> during the"
+      ],
+      "label": [
+        "<B>Georgian</B> Crown Jewels"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Crown_Jewels"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bagrationi_dynasty",
+        "http://dbpedia.org/resource/Category:Crown_jewels",
+        "http://dbpedia.org/resource/Category:Kings_of_Georgia",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1136.6003"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/France–Georgia_relations"
+      ],
+      "redirectlabel": [
+        "France-<B>Georgia</B> (country) relations",
+        "France-<B>Georgia</B> relations",
+        "France - <B>Georgia</B> relations",
+        "France <B>Georgia</B> relations",
+        "France – <B>Georgia</B> relations",
+        "France–<B>Georgia</B> (country) relations",
+        "Franco-<B>Georgian</B> relations",
+        "Franco–<B>Georgian</B> relations",
+        "Franco—<B>Georgian</B> relations",
+        "French-<B>Georgian</B> relations",
+        "<B>Georgia</B>-France relations",
+        "<B>Georgia</B> - France relations",
+        "<B>Georgia</B> France relations",
+        "<B>Georgia</B> – France relations",
+        "<B>Georgia</B>–France relations"
+      ],
+      "comment": [
+        "French-<B>Georgian</B> relations are foreign relations between France and <B>Georgia</B>. Diplomatic relations"
+      ],
+      "label": [
+        "France–<B>Georgia</B> relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/France–Georgia_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_France",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:France–Georgia_(country)_relations"
+      ]
+    },
+    {
+      "score": [
+        "1119.7576"
+      ],
+      "refCount": [
+        "1129"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tbilisi"
+      ],
+      "redirectlabel": [
+        "5 Lines Radio",
+        "5linesradio",
+        "Capital of <B>Georgia</B> (country)",
+        "City of Tbilisi",
+        "Economy of Tbilisi",
+        "Mukhiani",
+        "Names of Tbilisi",
+        "Nightlife in Tblisi",
+        "T'Bilisi",
+        "T'bilisi",
+        "Tbilisi, GA",
+        "Tbilisi, <B>Georgia</B>",
+        "Tbilisi, Republic of <B>Georgia</B>",
+        "Tbilisi, USSR",
+        "Tbilisi/Tiflis",
+        "Tbilisi International Film Festival",
+        "Tbilissi",
+        "Tbilsi",
+        "Tbisili",
+        "Tblisi",
+        "Teflis",
+        "Tfilis",
+        "Thbilisi",
+        "Tibilisi",
+        "Tiblisi",
+        "Tifflis",
+        "Tiflis, <B>Georgia</B>",
+        "Tiflis",
+        "Tiflis Province, Ottoman Empire",
+        "Tourism in Tbilisi",
+        "Tp'ilisi",
+        "Tphilisiis",
+        "Tpilisi",
+        "Тбилиси",
+        "თბილისი"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Tbilisi (English:  tə-bih-LEE-see, tə-BIL-ih-see; <B>Georgian</B>: თბილისი [tʰbilisi] ()), in some"
+      ],
+      "label": [
+        "Tbilisi"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tbilisi"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:5th-century_establishments",
+        "http://dbpedia.org/resource/Category:Archaeological_sites_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Capitals_in_Asia",
+        "http://dbpedia.org/resource/Category:Capitals_in_Europe",
+        "http://dbpedia.org/resource/Category:Populated_places_along_the_Silk_Road",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_the_5th_century",
+        "http://dbpedia.org/resource/Category:Regions_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Self-governing_cities_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Tbilisi",
+        "http://dbpedia.org/resource/Category:Tiflis_Governorate"
+      ]
+    },
+    {
+      "score": [
+        "1093.7438"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Special_Operations_Forces"
+      ],
+      "redirectlabel": [
+        "GSOF - <B>Georgian</B> Special Operations Forces",
+        "<B>Georgian</B> Special Forces",
+        "Special Forces Brigade",
+        "Special Forces Brigade (<B>Georgia</B>)",
+        "Special Forces Brigade of <B>Georgia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Special Operations Forces (GSOF) (<B>Georgian</B>: სპეციალური ოპერაციების ძალები) are the"
+      ],
+      "label": [
+        "<B>Georgian</B> Special Operations Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Special_Operations_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Counterterrorist_organizations",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1991",
+        "http://dbpedia.org/resource/Category:Special_forces_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Special_forces_units_and_formations"
+      ]
+    },
+    {
+      "score": [
+        "1083.114"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2004_Georgian_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "2004 <B>Georgian</B> legislative election",
+        "<B>Georgia</B> legislative election, 2004",
+        "<B>Georgian</B> legislative election, 2004",
+        "<B>Georgian</B> parliamentary election, 2004"
+      ],
+      "comment": [
+        "Legislative elections were held in the <B>Georgia</B> on 28 March 2004. The elections followed the"
+      ],
+      "label": [
+        "2004 <B>Georgian</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2004_Georgian_parliamentary_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_elections_in_Europe",
+        "http://dbpedia.org/resource/Category:2004_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Parliamentary_elections_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Rose_Revolution"
+      ]
+    },
+    {
+      "score": [
+        "1080.6547"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_art"
+      ],
+      "redirectlabel": [
+        "Art in <B>Georgia</B>",
+        "Art in <B>Georgia</B> (country)",
+        "Art of <B>Georgia</B> (country)",
+        "<B>Georgian</B> Art"
+      ],
+      "comment": [
+        "<B>Georgian</B> art (<B>Georgian</B>: ქართული ხელოვნება) has evolved for millennia. With roots in rich archaic"
+      ],
+      "label": [
+        "<B>Georgian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Art_of_Georgia_(country)"
+      ]
+    },
+    {
+      "score": [
+        "1064.9578"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Coast_Guard_of_Georgia"
+      ],
+      "redirectlabel": [
+        "<B>Georgia</B> Navy",
+        "<B>Georgian</B> Coast Guard",
+        "<B>Georgian</B> Naval Forces",
+        "<B>Georgian</B> Navy",
+        "<B>Georgian</B> navy",
+        "Navy of <B>Georgia</B>",
+        "Navy of <B>Georgia</B> (country)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        ") coastline of <B>Georgia</B>, as well as the <B>Georgian</B> territorial waters. The primary missions of the service are"
+      ],
+      "label": [
+        "Coast Guard of <B>Georgia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Coast_Guard_of_Georgia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Coast_guards",
+        "http://dbpedia.org/resource/Category:Military_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1993"
+      ]
+    },
+    {
+      "score": [
+        "1059.0492"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bagrationi_dynasty"
+      ],
+      "redirectlabel": [
+        "Bagratid dynasty of <B>Georgia</B>",
+        "Bagration dynasty",
+        "Bagrationi",
+        "Bagrationi Dynasty",
+        "Bagrationi dinasty",
+        "Bagrations",
+        "<B>Georgia</B> Royal Family",
+        "<B>Georgia</B> royal family",
+        "<B>Georgian</B> Bagratids",
+        "<B>Georgian</B> Royal Dynasty",
+        "<B>Georgian</B> Royal Family",
+        "<B>Georgian</B> royal family",
+        "Head of the Royal House of <B>Georgia</B>",
+        "House of Bagrationi",
+        "Origin of the Bagratid dynasties",
+        "Royal House of <B>Georgia</B>",
+        "The Royal House of <B>Georgia</B>",
+        "ბაგრატიონი"
+      ],
+      "comment": [
+        "The Bagrationi dynasty (; <B>Georgian</B>: ბაგრატიონი, bagrat’ioni [ bɑɡrɑtʼiɔni]) is a royal dynasty"
+      ],
+      "label": [
+        "Bagrationi dynasty"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bagrationi_dynasty"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bagrationi_dynasty",
+        "http://dbpedia.org/resource/Category:Davidic_line"
+      ]
+    },
+    {
+      "score": [
+        "1054.6074"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Georgian_Terrace_Hotel"
+      ],
+      "redirectlabel": [
+        "<B>Georgian</B> Terrace (Atlanta)",
+        "<B>Georgian</B> Terrace Apartments"
+      ],
+      "typeName": [
+        "Building",
+        "Hotel",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Georgian</B> Terrace Hotel in Midtown Atlanta, part of the Fox Theatre Historic District, was"
+      ],
+      "label": [
+        "<B>Georgian</B> Terrace Hotel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Georgian_Terrace_Hotel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Hotel",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1911_establishments_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Historic_Hotels_of_America",
+        "http://dbpedia.org/resource/Category:Historic_district_contributing_properties_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Hotel_buildings_completed_in_1911",
+        "http://dbpedia.org/resource/Category:Skyscraper_hotels_in_Atlanta",
+        "http://dbpedia.org/resource/Category:William_Lee_Stoddart_buildings"
+      ]
+    }
+  ]
+}

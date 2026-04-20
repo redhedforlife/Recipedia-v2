@@ -1,0 +1,4482 @@
+{
+  "docs": [
+    {
+      "score": [
+        "24196.799"
+      ],
+      "refCount": [
+        "7940"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesia"
+      ],
+      "redirectlabel": [
+        "Biodiversity in <B>Indonesia</B>",
+        "Conservation in <B>Indonesia</B>",
+        "Etymology of <B>Indonesia</B>",
+        "<B>INDONESIA</B>",
+        "ISO 3166-1:ID",
+        "Idnonesia",
+        "<B>Indnonesia</B>",
+        "<B>Indoneshia</B>",
+        "<B>Indonesia</B>, Republic of",
+        "<B>Indonesian</B> Empire",
+        "<B>Indonesian</B> Republic",
+        "<B>Indonesie</B>",
+        "<B>Indonisia</B>",
+        "<B>Indonnesia</B>",
+        "Indonésie",
+        "Republic Of <B>Indonesia</B>",
+        "Republic of <B>Indonesia</B>",
+        "Republik <B>Indonesia</B>",
+        "The world's most populous Muslim nation",
+        "Unitary State of Republic of <B>Indonesia</B>",
+        "Unitary State of the Republic of <B>Indonesia</B>",
+        "Unitary state of republic of <B>indonesia</B>",
+        "Unitary state of the republic of <B>indonesia</B>",
+        "Wildlife of <B>Indonesia</B>",
+        "Yinni"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Indonesia</B> ( () IN-də-NEE-zhə), officially the Republic of <B>Indonesia</B> (<B>Indonesian</B>: Republik <B>Indonesia</B>"
+      ],
+      "label": [
+        "<B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Countries_in_Melanesia",
+        "http://dbpedia.org/resource/Category:Developing_8_Countries_member_states",
+        "http://dbpedia.org/resource/Category:E7_nations",
+        "http://dbpedia.org/resource/Category:Former_OPEC_member_states",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:G20_nations",
+        "http://dbpedia.org/resource/Category:Indonesia",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Malay-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Member_states_of_ASEAN",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Newly_industrializing_countries",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1945",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "16790.627"
+      ],
+      "refCount": [
+        "499"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_language"
+      ],
+      "redirectlabel": [
+        "B. <B>Indonesia</B>",
+        "Bahasa <B>Indonesia</B>",
+        "Bahasa <B>Indonesia</B> language",
+        "Bahasa <B>Indonesian</B>",
+        "Basa <B>Indonesia</B>",
+        "Basaha <B>Indonesian</B>",
+        "Bhasa <B>Indonesia</B>",
+        "History of the <B>Indonesian</B> language",
+        "ISO 639:id",
+        "ISO 639:in",
+        "ISO 639:ind",
+        "<B>Indonesia</B> language",
+        "<B>Indonesian</B>-language",
+        "<B>Indonesian</B> (language)",
+        "<B>Indonesian</B> Language",
+        "<B>Indonesian</B> Malay",
+        "<B>Indonesian</B> affixes"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Indonesian</B> (bahasa <B>Indonesia</B> [baˈha.sa in.doˈne.sja]) is the official language of <B>Indonesia</B>. It is"
+      ],
+      "label": [
+        "<B>Indonesian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Indonesian_language",
+        "http://dbpedia.org/resource/Category:Languages_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Languages_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Malayic_languages",
+        "http://dbpedia.org/resource/Category:Standard_languages",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages"
+      ]
+    },
+    {
+      "score": [
+        "11330.5205"
+      ],
+      "refCount": [
+        "821"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Time_in_Indonesia"
+      ],
+      "redirectlabel": [
+        "Asia/Jakarta",
+        "Asia/Jayapura",
+        "Asia/Makassar",
+        "Asia/Pontianak",
+        "Central <B>Indonesia</B> Time",
+        "Central <B>Indonesian</B> Time",
+        "Eastern <B>Indonesia</B> Time",
+        "Eastern <B>Indonesian</B> Time",
+        "<B>Indonesia</B> Central Standard Time",
+        "<B>Indonesia</B> Standard Time",
+        "<B>Indonesian</B> Central Standard Time",
+        "<B>Indonesian</B> Eastern Standard Time",
+        "<B>Indonesian</B> Standard Time",
+        "<B>Indonesian</B> Western Standard Time",
+        "Waktu <B>Indonesia</B> Barat",
+        "Waktu <B>Indonesia</B> Tengah",
+        "Waktu <B>Indonesia</B> Timur",
+        "Western <B>Indonesia</B> Time",
+        "Western <B>Indonesian</B> Time"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> archipelago geographically stretches across four time zones from UTC+06:00 in Aceh"
+      ],
+      "label": [
+        "Time in <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Time_in_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Time_in_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "7992.7812"
+      ],
+      "refCount": [
+        "73278"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Village"
+      ],
+      "redirectlabel": [
+        "Administrative Village",
+        "Administrative village",
+        "Kampungs",
+        "Kompong",
+        "List of Sub-Districts of <B>Indonesia</B>",
+        "Ortsteil",
+        "Ortsteile",
+        "Selo (Ukraine)",
+        "Sub-districts of <B>Indonesia</B>",
+        "Village Center",
+        "Villages",
+        "Villiage",
+        "Ấp"
+      ],
+      "comment": [
+        "A village is a clustered human settlement or community, larger than a hamlet but smaller than a town (although the word is often used to describe both hamlets and smaller towns), with a population ranging from a few hundred to a few thousand. Though villages are often located in rural areas, the term urban village is also applied to certain urban neighborhoods. Villages are normally permanent, with fixed dwellings; however, transient villages can occur. Further, the dwellings of a village are fairly close to one another, not scattered broadly over the landscape, as a dispersed settlement."
+      ],
+      "label": [
+        "Village"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Village"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Rural_geography",
+        "http://dbpedia.org/resource/Category:Types_of_populated_places",
+        "http://dbpedia.org/resource/Category:Urban_geography",
+        "http://dbpedia.org/resource/Category:Villages"
+      ]
+    },
+    {
+      "score": [
+        "7989.067"
+      ],
+      "refCount": [
+        "683"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesia_national_football_team"
+      ],
+      "redirectlabel": [
+        "Dutch East Indies national football team",
+        "History of the <B>Indonesia</B> national football team",
+        "<B>Indonesia</B> national soccer team",
+        "<B>Indonesian</B> national football team",
+        "<B>Indonesian</B> national soccer team",
+        "Timnas",
+        "Timnas <B>Indonesia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Indonesia</B> national football team (<B>Indonesian</B>: Tim Nasional Sepak Bola <B>Indonesia</B>) represents"
+      ],
+      "label": [
+        "<B>Indonesia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Indonesia_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "7532.587"
+      ],
+      "refCount": [
+        "114"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_National_Revolution"
+      ],
+      "redirectlabel": [
+        "17 August 1945 revolution",
+        "Allied occupation of <B>Indonesia</B>",
+        "<B>Indonesian</B> National Struggle",
+        "<B>Indonesian</B> Revolution",
+        "<B>Indonesian</B> Revolutionary War",
+        "<B>Indonesian</B> War of Independence",
+        "<B>Indonesian</B> independence war",
+        "<B>Indonesian</B> national Revolution",
+        "<B>Indonesian</B> national revolution",
+        "<B>Indonesian</B> revolution",
+        "<B>Indonesian</B> war of independence",
+        "Melano Supriata"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> National Revolution, or <B>Indonesian</B> War of Independence (<B>Indonesian</B>: Perang"
+      ],
+      "label": [
+        "<B>Indonesian</B> National Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_National_Revolution"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1946_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1947_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1948_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1949_in_Indonesia",
+        "http://dbpedia.org/resource/Category:20th-century_conflicts",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_II_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:Indonesian_National_Revolution",
+        "http://dbpedia.org/resource/Category:Indonesia–Netherlands_relations",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Separatism_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Separatism_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_British_India",
+        "http://dbpedia.org/resource/Category:Wars_involving_Indonesia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "7367.7734"
+      ],
+      "refCount": [
+        "110"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Army"
+      ],
+      "redirectlabel": [
+        "Army of <B>Indonesia</B>",
+        "<B>Indonesian</B> Army Aviation",
+        "<B>Indonesian</B> Army Aviation Service",
+        "<B>Indonesian</B> National Army",
+        "TNI-AD",
+        "Tentara Nasional <B>Indonesia</B>-Angkatan Darat"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Army (<B>Indonesian</B>: Tentara Nasional <B>Indonesia</B>-Angkatan Darat (TNI-AD), literally"
+      ],
+      "label": [
+        "<B>Indonesian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_Army",
+        "http://dbpedia.org/resource/Category:Military_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "5440.698"
+      ],
+      "refCount": [
+        "137"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> government",
+        "<B>Indonesian</B> Government",
+        "<B>Indonesian</B> government"
+      ],
+      "comment": [
+        "The term Government of <B>Indonesia</B> (<B>Indonesian</B>: Pemerintah <B>Indonesia</B>) can have a number of different"
+      ],
+      "label": [
+        "Government of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Politics_of_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "4849.434"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Indonesian_surname"
+      ],
+      "redirectlabel": [
+        "Boedihardjo",
+        "Budiman",
+        "Chandra (Chinese <B>Indonesian</B> surname)",
+        "Chandrawinata",
+        "Chinese-<B>Indonesian</B> name",
+        "Chinese <B>Indonesian</B> name",
+        "Chinese <B>Indonesian</B> names",
+        "Chinese <B>Indonesian</B> surnames",
+        "Chrislie",
+        "Danajaya",
+        "Darwis",
+        "Dedyana",
+        "Gozali",
+        "Gunarto",
+        "Halim (Chinese <B>Indonesian</B> surname)",
+        "Handayan",
+        "Hertansia",
+        "<B>Indonesian</B>-sounding name adopted by <B>Indonesian</B> Chinese",
+        "<B>Indonesian</B>-sounding names adopted by Chinese <B>Indonesians</B>",
+        "<B>Indonesian</B>-sounding names adopted by <B>Indonesian</B>-Chinese",
+        "Jhanie",
+        "Joetama",
+        "Kwik (surname)",
+        "Laya (surname)",
+        "Lie (Chinese surname)",
+        "Liem",
+        "Liong",
+        "List of Chinese <B>Indonesian</B> names",
+        "Mahardhika",
+        "Mananta",
+        "Muljoto",
+        "Murjadi",
+        "Neonardi",
+        "Ongzalima",
+        "Pangestu",
+        "Riady",
+        "Rolimpandoei",
+        "Saputri",
+        "Saputro",
+        "Soesastro",
+        "Sunardi",
+        "Susanto",
+        "Sutardja",
+        "Suwandi",
+        "Tanoto",
+        "Tanumihardja",
+        "Tanuwijaya",
+        "Tenggara (surname)",
+        "Tjawinoto",
+        "Tjen",
+        "Tjhin",
+        "Tjioe",
+        "Wanandi",
+        "Widjaya",
+        "Wiputra",
+        "Wiputri",
+        "Wusman",
+        "Yaputri",
+        "Yaputro",
+        "Yaury",
+        "張 (Tjong)"
+      ],
+      "comment": [
+        " social and political pressure during the New Order era, most Chinese <B>Indonesians</B> have adopted names that better match the local language."
+      ],
+      "label": [
+        "Chinese <B>Indonesian</B> surname"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Indonesian_surname"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chinese-language_surnames",
+        "http://dbpedia.org/resource/Category:Chinese_Indonesian_culture",
+        "http://dbpedia.org/resource/Category:Indonesian_names"
+      ]
+    },
+    {
+      "score": [
+        "4693.6763"
+      ],
+      "refCount": [
+        "159"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesia–Malaysia_confrontation"
+      ],
+      "redirectlabel": [
+        "Borneo Confrontation",
+        "<B>Indonesia</B>-Malaysia Confrontation",
+        "<B>Indonesia</B>-Malaysia confrontation",
+        "<B>Indonesian</B>-Malaysian Confrontation",
+        "<B>Indonesian</B> Confrontation",
+        "<B>Indonesian</B> confrontation",
+        "<B>Indonesia</B>–Malaysia Confrontation",
+        "Konfrontasi",
+        "Malaysia-<B>Indonesia</B> Confrontation",
+        "Malaysia-<B>Indonesia</B> confrontation",
+        "Malaysia–<B>Indonesia</B> confrontation"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Indonesia</B>–Malaysia confrontation or Borneo confrontation (also known by its <B>Indonesian</B>/Malay"
+      ],
+      "label": [
+        "<B>Indonesia</B>–Malaysia confrontation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesia–Malaysia_confrontation"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_conflicts",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Guided_Democracy_in_Indonesia",
+        "http://dbpedia.org/resource/Category:History_of_Borneo",
+        "http://dbpedia.org/resource/Category:History_of_the_Royal_Marines",
+        "http://dbpedia.org/resource/Category:Indonesia–Malaysia_confrontation",
+        "http://dbpedia.org/resource/Category:Military_history_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Singapore",
+        "http://dbpedia.org/resource/Category:Protests_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Sukarno",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Indonesia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Malaysia",
+        "http://dbpedia.org/resource/Category:Wars_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "4221.404"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Navy"
+      ],
+      "redirectlabel": [
+        "History of the <B>Indonesian</B> Navy",
+        "<B>Indonesian</B> National Navy",
+        "<B>Indonesian</B> Naval Aviation",
+        "<B>Indonesian</B> Naval Aviation Service",
+        "<B>Indonesian</B> Navy Naval Aviation",
+        "<B>Indonesian</B> navy",
+        "Integrated Maritime Surveillance Systems",
+        "KRI (<B>Indonesia</B>)",
+        "Kapal Perang Republik <B>Indonesia</B>",
+        "Navy of <B>Indonesia</B>",
+        "TNI-AL",
+        "TNI–AL",
+        "Tentara Nasional <B>Indonesia</B>-Angkatan Laut"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Navy (<B>Indonesian</B>: Tentara Nasional <B>Indonesia</B>-Angkatan Laut (TNI-AL), literally"
+      ],
+      "label": [
+        "<B>Indonesian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_Navy",
+        "http://dbpedia.org/resource/Category:Military_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "4199.552"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_National_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Angkatan Bersenjata Republik <B>Indonesia</B>",
+        "Armed Forces of <B>Indonesia</B>",
+        "History of the <B>Indonesian</B> National Armed Forces",
+        "<B>Indonesia</B>/Military",
+        "<B>Indonesia</B> Armed Forces",
+        "<B>Indonesian</B> Armed Forces",
+        "<B>Indonesian</B> Military",
+        "<B>Indonesian</B> National Defence Forces",
+        "<B>Indonesian</B> National Defense Forces",
+        "<B>Indonesian</B> National Military",
+        "<B>Indonesian</B> TNI",
+        "<B>Indonesian</B> army",
+        "<B>Indonesian</B> military",
+        "<B>Indonesian</B> soldiers",
+        "<B>Indonesian</B> troops",
+        "KOMCAD",
+        "Komponen Cadangan",
+        "Military, <B>Indonesia</B>",
+        "Military of <B>Indonesia</B>",
+        "Military of Jakarta",
+        "Saptamarga",
+        "Tentara Keamanan Rakyat",
+        "Tentara Nasional <B>Indonesia</B>",
+        "Tentara Nasional <B>Indonesia</B> Angkatan Laut"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> National Armed Forces (<B>Indonesian</B>: Tentara Nasional <B>Indonesia</B>, literally \"<B>Indonesian</B>"
+      ],
+      "label": [
+        "<B>Indonesian</B> National Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_National_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "4169.7437"
+      ],
+      "refCount": [
+        "1169"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malayo-Polynesian_languages"
+      ],
+      "redirectlabel": [
+        "ISO 639:poz",
+        "Indo-Melanesian",
+        "Indo-Melanesian languages",
+        "Malayo-Polynesian",
+        "Malayo-Polynesian family",
+        "Malayo-Polynesian language",
+        "Malayo-Polynesian languages language",
+        "Malayo Polynesian",
+        "Nuclear MP",
+        "Nuclear Malayo-Polynesian",
+        "Nuclear Malayo-Polynesian languages",
+        "Nuclear Nusantaran languages",
+        "Nusantaran languages",
+        "Western <B>Indonesian</B> languages"
+      ],
+      "comment": [
+        "The Malayo-Polynesian languages are a subgroup of the Austronesian languages, with approximately 385.5 million speakers. The Malayo-Polynesian languages are spoken by the Austronesian peoples of the island nations of Southeast Asia and the Pacific Ocean, with a smaller number in continental Asia, going well into the Malay peninsula. Cambodia, Vietnam and the Chinese island Hainan serve as the northwest geographic outlier. The northernmost geographical outlier does not pass beyond the north of Pattani, which is located in southern Thailand. Malagasy is spoken in the island of Madagascar located off the eastern coast of Africa in the Indian Ocean. Part of the language family shows a strong influence of Sanskrit and Arabic as the western part of the region has been a stronghold of Hinduism, B"
+      ],
+      "label": [
+        "Malayo-Polynesian languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malayo-Polynesian_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Languages_of_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Malayo-Polynesian_languages",
+        "http://dbpedia.org/resource/Category:Oceanian_culture"
+      ]
+    },
+    {
+      "score": [
+        "4157.8574"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_cuisine"
+      ],
+      "redirectlabel": [
+        "Basa gede",
+        "Basa rajang",
+        "Cuisine - <B>Indonesia</B>",
+        "Cuisine of <B>Indonesia</B>",
+        "Cuisine of <B>indonesia</B>",
+        "Food of <B>indonesia</B>",
+        "Foreign influences on <B>Indonesian</B> cuisine",
+        "History of <B>Indonesian</B> cuisine",
+        "<B>Indonesia</B> food",
+        "<B>Indonesian</B> Cuisine",
+        "<B>Indonesian</B> food",
+        "<B>Indonesian</B> national dishes",
+        "<B>Indonesian</B> regional dishes",
+        "<B>Indonesian</B> snack",
+        "<B>Indonesian</B> spices",
+        "Masakan ala <B>indonesia</B>",
+        "Sumatran dish",
+        "Vegetarianism in <B>Indonesia</B>"
+      ],
+      "comment": [
+        "<B>Indonesian</B> cuisine is a collection of various regional culinary traditions that formed the"
+      ],
+      "label": [
+        "<B>Indonesian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_cuisine",
+        "http://dbpedia.org/resource/Category:Indonesian_culture",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "4037.0713"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_numismatic_charm"
+      ],
+      "redirectlabel": [
+        "Balinese magic coin",
+        "Balinese magic coins",
+        "Balinese temple coin",
+        "Balinese temple coins",
+        "Gobog Wayang",
+        "<B>Indonesian</B> Numismatic Charm",
+        "<B>Indonesian</B> Numismatic Charms",
+        "<B>Indonesian</B> amulet",
+        "<B>Indonesian</B> amulets",
+        "<B>Indonesian</B> charm",
+        "<B>Indonesian</B> charms",
+        "<B>Indonesian</B> coin charm",
+        "<B>Indonesian</B> coin charms",
+        "<B>Indonesian</B> magic coin",
+        "<B>Indonesian</B> magic coins",
+        "<B>Indonesian</B> numismatic charms",
+        "<B>Indonesian</B> talisman",
+        "<B>Indonesian</B> talismans",
+        "<B>Indonesian</B> temple coin",
+        "<B>Indonesian</B> temple coins",
+        "Javanese magic coin",
+        "Javanese magic coins",
+        "Javanese temple coin",
+        "Javanese temple coins",
+        "Magic coin",
+        "Magic coins",
+        "Nusantaran Numismatic Charm",
+        "Nusantaran Numismatic Charms",
+        "Nusantaran amulet",
+        "Nusantaran amulets",
+        "Nusantaran charm",
+        "Nusantaran charms",
+        "Nusantaran coin charm",
+        "Nusantaran coin charms",
+        "Nusantaran numismatic charm",
+        "Nusantaran talisman",
+        "Nusantaran talismans",
+        "Uang Gobog Wayang"
+      ],
+      "comment": [
+        "<B>Indonesian</B> numismatic charms (<B>Indonesian</B>: Uang Gobog, Uang Gobog Wayang, Koin Gobog, Gobog Wayang"
+      ],
+      "label": [
+        "<B>Indonesian</B> numismatic charm"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_numismatic_charm"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_numismatic_charms",
+        "http://dbpedia.org/resource/Category:Indonesian_culture"
+      ]
+    },
+    {
+      "score": [
+        "3761.9875"
+      ],
+      "refCount": [
+        "75"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesians"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> people",
+        "People of <B>Indonesia</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Indonesians</B> (<B>Indonesian</B>: orang <B>Indonesia</B>) are citizens or people of <B>Indonesia</B>, regardless of their"
+      ],
+      "label": [
+        "<B>Indonesians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_people"
+      ]
+    },
+    {
+      "score": [
+        "3597.3074"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_National_Party"
+      ],
+      "redirectlabel": [
+        "Chairman of <B>Indonesian</B> National Party",
+        "Chairman of the <B>Indonesian</B> National Party",
+        "<B>Indonesian</B> National Association",
+        "<B>Indonesian</B> National Party Marheanism",
+        "<B>Indonesian</B> Nationalist Party",
+        "National Party of <B>Indonesia</B>",
+        "Nationalist Party of <B>Indonesia</B>",
+        "Partai Nasional <B>Indonesia</B>",
+        "Perserikatan Nasional <B>Indonesia</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> National Party (<B>Indonesian</B>: Partai Nasional <B>Indonesia</B>, PNI) is the name used by"
+      ],
+      "label": [
+        "<B>Indonesian</B> National Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_National_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1927_establishments_in_the_Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:1931_disestablishments_in_the_Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:Defunct_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Defunct_socialist_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Indonesian_National_Awakening",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1931",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1927",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "3575.6907"
+      ],
+      "refCount": [
+        "79"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Deportivo_Indonesia"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> SAD Team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Deportivo <B>Indonesia</B> was an association football club consisting of <B>Indonesian</B> football players"
+      ],
+      "label": [
+        "Deportivo <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Deportivo_Indonesia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Association_football_clubs_disestablished_in_2013",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2007",
+        "http://dbpedia.org/resource/Category:Defunct_football_clubs_in_Uruguay",
+        "http://dbpedia.org/resource/Category:Football_academies_in_South_America",
+        "http://dbpedia.org/resource/Category:Indonesia_national_football_team",
+        "http://dbpedia.org/resource/Category:Indonesian_association_football_clubs_outside_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesia–Uruguay_relations"
+      ]
+    },
+    {
+      "score": [
+        "3456.646"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Democratic_Party_of_Struggle"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> Democracy Party-Struggle",
+        "<B>Indonesia</B> Democracy Party - Struggle",
+        "<B>Indonesian</B> Democratic Party-Struggle",
+        "<B>Indonesian</B> Democratic Party - Struggle",
+        "<B>Indonesian</B> Democratic Party Struggle",
+        "<B>Indonesian</B> Democratic Party – Struggle",
+        "PDI-P",
+        "PDI/P",
+        "PDI Perjuangan",
+        "Partai Demokrasi <B>Indonesia</B> Perjuangan",
+        "Partai Demokrasi <B>Indonesia</B> Perjuangan <B>Indonesian</B> Democratic Party-Struggle"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Democratic Party of Struggle (<B>Indonesian</B>: Partai Demokrasi <B>Indonesia</B> Perjuangan, PDI"
+      ],
+      "label": [
+        "<B>Indonesian</B> Democratic Party of Struggle"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Democratic_Party_of_Struggle"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Pancasila_political_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1998",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance"
+      ]
+    },
+    {
+      "score": [
+        "3447.2356"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Indonesia</B>",
+        "History of the <B>Indonesian</B> Air Force",
+        "<B>Indonesian</B> Air Forces",
+        "<B>Indonesian</B> Airforce",
+        "<B>Indonesian</B> National Air Force",
+        "Republic of <B>Indonesia</B> Air Force",
+        "TNI-AU",
+        "TNI AU",
+        "Tentara Nasional <B>Indonesia</B>-AU",
+        "Tentara Nasional <B>Indonesia</B>-Angkatan Udara",
+        "Tentara Nasional <B>Indonesia</B> - Angkatan Udara"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Air Force (<B>Indonesian</B>: Tentara Nasional <B>Indonesia</B>-Angkatan Udara (TNI-AU), literally"
+      ],
+      "label": [
+        "<B>Indonesian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1946"
+      ]
+    },
+    {
+      "score": [
+        "3443.748"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_mass_killings_of_1965–66"
+      ],
+      "redirectlabel": [
+        "1965-1966 <B>Indonesian</B> genocide",
+        "1965-1966 <B>Indonesian</B> mass killings",
+        "1965-66 <B>Indonesian</B> mass killings",
+        "1965-66 Mass Killing of <B>Indonesian</B> Communist",
+        "1965-66 Massacres in <B>Indonesia</B>",
+        "1965–1966 <B>Indonesian</B> genocide",
+        "1965–1966 <B>Indonesian</B> mass killings",
+        "1965–66 <B>Indonesian</B> mass killings",
+        "1965–66 Massacres in <B>Indonesia</B>",
+        "Foreign involvement in the <B>Indonesian</B> mass killings of 1965-1966",
+        "Foreign involvement in the <B>Indonesian</B> mass killings of 1965–1966",
+        "<B>Indonesia</B> mass killings of 1965-1966",
+        "<B>Indonesia</B> mass killings of 1965–1966",
+        "<B>Indonesian</B> Communist Purge",
+        "<B>Indonesian</B> Genocide",
+        "<B>Indonesian</B> Politicide",
+        "<B>Indonesian</B> Politicide of 1965-66",
+        "<B>Indonesian</B> Politicide of 1965–66",
+        "<B>Indonesian</B> crimes against humanity of 1965-1966",
+        "<B>Indonesian</B> genocide",
+        "<B>Indonesian</B> killings of 1965-1966",
+        "<B>Indonesian</B> killings of 1965-66",
+        "<B>Indonesian</B> killings of 1965",
+        "<B>Indonesian</B> killings of 1965–1966",
+        "<B>Indonesian</B> killings of 1965–66",
+        "<B>Indonesian</B> mass killings of 1965-1966",
+        "<B>Indonesian</B> mass killings of 1965-66",
+        "<B>Indonesian</B> mass killings of 1965–1966",
+        "<B>Indonesian</B> politicide",
+        "International reactions to the <B>Indonesian</B> mass killings of 1965-1966",
+        "International reactions to the <B>Indonesian</B> mass killings of 1965–1966",
+        "The <B>Indonesian</B> Politicide"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> mass killings of 1965–66 (<B>Indonesian</B> genocide, <B>Indonesian</B> Communist Purge"
+      ],
+      "label": [
+        "<B>Indonesian</B> mass killings of 1965–66"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_mass_killings_of_1965–66"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1965_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1966_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Anti-Chinese_sentiment_in_Asia",
+        "http://dbpedia.org/resource/Category:Anti-Chinese_sentiment_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Anti-communist_terrorism",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Communist_Party_of_Indonesia",
+        "http://dbpedia.org/resource/Category:History_of_Bali",
+        "http://dbpedia.org/resource/Category:History_of_Java",
+        "http://dbpedia.org/resource/Category:History_of_Sumatra",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian_mass_killings_of_1965–1966",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1966",
+        "http://dbpedia.org/resource/Category:Massacres_in_1965",
+        "http://dbpedia.org/resource/Category:Massacres_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Persecution_of_atheists",
+        "http://dbpedia.org/resource/Category:Political_and_cultural_purges",
+        "http://dbpedia.org/resource/Category:Politicides",
+        "http://dbpedia.org/resource/Category:Suharto",
+        "http://dbpedia.org/resource/Category:Transition_to_the_New_Order"
+      ]
+    },
+    {
+      "score": [
+        "3377.692"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Indonesians"
+      ],
+      "redirectlabel": [
+        "Cantonese <B>Indonesian</B>",
+        "Cantonese people in <B>Indonesia</B>",
+        "Chinese-<B>Indonesian</B>",
+        "Chinese <B>Indonesian</B>",
+        "Chinese <B>Indonesian</B> culture",
+        "Chinese <B>Indonesian</B> people",
+        "Chinese <B>Indonesians</B> from Jakarta",
+        "Chinese <B>Indonesians</B> in Bandung",
+        "Chinese <B>Indonesians</B> in Jakarta",
+        "Chinese <B>Indonesians</B> in Medan",
+        "Chinese <B>Indonesians</B> in Semarang",
+        "Chinese <B>Indonesians</B> in Surabaya",
+        "Chinese businessmen in <B>Indonesia</B>",
+        "Chinese businesswomen in <B>Indonesia</B>",
+        "Chinese citizens in <B>Indonesia</B>",
+        "Chinese community in <B>Indonesia</B>",
+        "Chinese diaspora in <B>Indonesia</B>",
+        "Chinese in <B>Indonesia</B>",
+        "Chinese nationals in <B>Indonesia</B>",
+        "Chinese people from <B>Indonesia</B>",
+        "Chinese people in Bandung",
+        "Chinese people in <B>Indonesia</B>",
+        "Chinese people in Jakarta",
+        "Chinese people in Surabaya",
+        "Chinese people living in <B>Indonesia</B>",
+        "Chinese settlements in <B>Indonesia</B>",
+        "Cina totok",
+        "Ethnic Chinese in <B>Indonesia</B>",
+        "Fujianese people in <B>Indonesia</B>",
+        "Hainanese people in <B>Indonesia</B>",
+        "Hakka <B>Indonesians</B>",
+        "Hakka people in <B>Indonesia</B>",
+        "Han Chinese in <B>Indonesia</B>",
+        "Han people in <B>Indonesia</B>",
+        "Hokkien <B>Indonesian</B>",
+        "Hokkien people in <B>Indonesia</B>",
+        "Hokkien people in Medan",
+        "Hoklo people in <B>Indonesia</B>",
+        "Hong Kong Chinese in <B>Indonesia</B>",
+        "Hong Kong people in <B>Indonesia</B>",
+        "Hong Kong people in Jakarta",
+        "Hong Kongers in <B>Indonesia</B>",
+        "Hui people in <B>Indonesia</B>",
+        "<B>Indonesian</B>-Chinese",
+        "<B>Indonesian</B>-born Chinese",
+        "<B>Indonesian</B> Chinese",
+        "<B>Indonesian</B> Chinese Association",
+        "<B>Indonesian</B> Chinese people",
+        "<B>Indonesian</B> people of Chinese ancestry",
+        "<B>Indonesian</B> people of Chinese descent",
+        "<B>Indonesian</B> people of Chinese heritage",
+        "<B>Indonesian</B> people of Chinese origin",
+        "<B>Indonesians</B> of Chinese ancestry",
+        "<B>Indonesians</B> of Chinese descent",
+        "<B>Indonesians</B> of Chinese heritage",
+        "<B>Indonesians</B> of Chinese origin",
+        "Macanese people in <B>Indonesia</B>",
+        "Mainland Chinese people in <B>Indonesia</B>",
+        "Mandarin <B>Indonesian</B>",
+        "Overseas Chinese <B>Indonesians</B>",
+        "Overseas Chinese in <B>Indonesia</B>",
+        "Overseas <B>Indonesian</B> Chinese",
+        "People's Republic of China nationals in <B>Indonesia</B>",
+        "Republic of China nationals in <B>Indonesia</B>",
+        "Shanghainese people in <B>Indonesia</B>",
+        "Taishanese people in <B>Indonesia</B>",
+        "Taiwanese <B>Indonesian</B>",
+        "Taiwanese <B>Indonesians</B>",
+        "Taiwanese citizens in <B>Indonesia</B>",
+        "Taiwanese people in <B>Indonesia</B>",
+        "Taiwanese people in Jakarta",
+        "Taiwanese people in Surabaya",
+        "Teng lang",
+        "The <B>Indonesian</B> Ethnic Chinese and the view of nationhood",
+        "Thong ngin",
+        "Tionghoa",
+        "Tionghoa <B>Indonesia</B>",
+        "Tong Nyin",
+        "Totok Chinese",
+        "Wu-speaking peoples in <B>Indonesia</B>",
+        "Yindunixiya Huaren",
+        "Yìndùníxīyà Huárén",
+        "印度尼西亚华人",
+        "印度尼西亞華人"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Chinese <B>Indonesians</B> (<B>Indonesian</B>: Orang <B>Indonesia</B> keturunan Tionghoa) or (in <B>Indonesia</B>) simply Orang"
+      ],
+      "label": [
+        "Chinese <B>Indonesians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Indonesians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chinese_Indonesian_culture",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Immigration_to_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian_people_of_Chinese_descent"
+      ]
+    },
+    {
+      "score": [
+        "3302.0095"
+      ],
+      "refCount": [
+        "316"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bhayangkara_F.C."
+      ],
+      "redirectlabel": [
+        "Bhayangkara F.C",
+        "Bhayangkara FC",
+        "Bhayangkara Solo F.C.",
+        "Bhayangkara Surabaya United",
+        "<B>Indonesian</B> National Police Football Team",
+        "PS Polri",
+        "Persebaya DU",
+        "Persebaya Surabaya DU"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Bhayangkara Football Club, is an <B>Indonesian</B> professional football club based in Jakarta, <B>Indonesia</B>. They currently compete in the Liga 1."
+      ],
+      "label": [
+        "Bhayangkara F.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bhayangkara_F.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2010",
+        "http://dbpedia.org/resource/Category:Bhayangkara_F.C.",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Central_Java",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "2933.0745"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_invasion_of_East_Timor"
+      ],
+      "redirectlabel": [
+        "1975 invasion of East Timor",
+        "East Timor History <B>Indonesian</B> Invasion",
+        "Foreign involvement in the <B>Indonesian</B> invasion of East Timor",
+        "<B>Indonesia</B> invasion of East Timor",
+        "<B>Indonesian</B> Invasion of East Timor",
+        "Invasion of East Timor",
+        "Operasi Seroja",
+        "Operation Seroja"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> invasion of East Timor, known in <B>Indonesia</B> as Operation Lotus (<B>Indonesian</B>: Operasi"
+      ],
+      "label": [
+        "<B>Indonesian</B> invasion of East Timor"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_invasion_of_East_Timor"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1975_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1975_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1975",
+        "http://dbpedia.org/resource/Category:Controversies_in_Indonesia",
+        "http://dbpedia.org/resource/Category:East_Timor–Indonesia_border",
+        "http://dbpedia.org/resource/Category:East_Timor–Indonesia_relations",
+        "http://dbpedia.org/resource/Category:Ford_administration_controversies",
+        "http://dbpedia.org/resource/Category:History_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Indonesian_occupation_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Invasions_by_Indonesia",
+        "http://dbpedia.org/resource/Category:Invasions_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Massacres_in_East_Timor",
+        "http://dbpedia.org/resource/Category:Massacres_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_history_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Military_history_of_Indonesia",
+        "http://dbpedia.org/resource/Category:New_Order_(Indonesia)",
+        "http://dbpedia.org/resource/Category:Protests_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Wars_involving_East_Timor",
+        "http://dbpedia.org/resource/Category:Wars_involving_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "2911.3677"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Native_Indonesians"
+      ],
+      "redirectlabel": [
+        "Aboriginal <B>Indonesian</B>",
+        "Aboriginal <B>Indonesians</B>",
+        "Bumiputera (<B>Indonesia</B>)",
+        "Genetic history of <B>Indonesia</B>",
+        "Genetic studies on Native <B>Indonesians</B>",
+        "Indigenous <B>Indonesian</B>",
+        "Indigenous <B>Indonesian</B> people",
+        "Indigenous <B>Indonesians</B>",
+        "Indigenous people of <B>Indonesia</B>",
+        "<B>Indonesian</B> Native",
+        "<B>Indonesian</B> Natives",
+        "<B>Indonesian</B> Pribumi",
+        "<B>Indonesian</B> aborigine",
+        "<B>Indonesian</B> aborigines",
+        "<B>Indonesian</B> origin",
+        "<B>Indonesian</B> peoples",
+        "Native-<B>Indonesian</B>",
+        "Native <B>Indonesian</B>",
+        "Native <B>Indonesian</B> people",
+        "Native <B>Indonesian</B> peoples",
+        "Pribumi",
+        "Pribumi (Native <B>Indonesians</B>)",
+        "Pribumi people",
+        "Pribumis"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Native <B>Indonesians</B>, also Pribumi (literally \"first on the soil\"), is a term used to distinguish"
+      ],
+      "label": [
+        "Native <B>Indonesians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Native_Indonesians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "2899.3806"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_National_Police"
+      ],
+      "redirectlabel": [
+        "Corruption in the <B>Indonesian</B> National Police",
+        "History of the <B>Indonesian</B> National Police",
+        "<B>Indonesian</B> Police",
+        "<B>Indonesian</B> police",
+        "National police of <B>Indonesia</B>",
+        "POLRI",
+        "Police corruption in <B>Indonesia</B>",
+        "Police of <B>Indonesia</B>",
+        "Polri"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> National Police (<B>Indonesian</B>: Kepolisian Negara Republik <B>Indonesia</B>, literally State"
+      ],
+      "label": [
+        "<B>Indonesian</B> National Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_National_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_enforcement_agencies_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Indonesia",
+        "http://dbpedia.org/resource/Category:National_Central_Bureaus_of_Interpol",
+        "http://dbpedia.org/resource/Category:National_police_forces"
+      ]
+    },
+    {
+      "score": [
+        "2860.1033"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_rupiah"
+      ],
+      "redirectlabel": [
+        "ISO 4217:IDR",
+        "<B>Indonesia</B> currency",
+        "<B>Indonesian</B> Currency",
+        "<B>Indonesian</B> Rupia",
+        "<B>Indonesian</B> Rupiah",
+        "<B>Indonesian</B> currency",
+        "<B>Indonesian</B> rupee",
+        "Rupiah",
+        "Rupiahs"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " ISO 4217 currency code for the <B>Indonesian</B> rupiah is IDR. The name \"rupiah\" is derived from the"
+      ],
+      "label": [
+        "<B>Indonesian</B> rupiah"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_rupiah"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1946",
+        "http://dbpedia.org/resource/Category:Currencies_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Indonesian_rupiah"
+      ]
+    },
+    {
+      "score": [
+        "2591.552"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Idol"
+      ],
+      "redirectlabel": [
+        "Adika Priatama",
+        "Delon Thamrin",
+        "<B>Indonesian</B> Idol: <B>Indonesia</B> All-Time Hits",
+        "<B>Indonesian</B> Idol: <B>Indonesian</B> All-Time Hits",
+        "<B>Indonesian</B> Idol (season 1)",
+        "Seri Cinta",
+        "Tribute To Tonny Koeswoyo",
+        "Tribute to Tonny Koeswoyo"
+      ],
+      "typeName": [
+        "TelevisionShow",
+        "Work"
+      ],
+      "comment": [
+        "<B>Indonesian</B> Idol is a reality television singing competition created by Simon Fuller and produced by"
+      ],
+      "label": [
+        "<B>Indonesian</B> Idol"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Idol"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/TelevisionShow",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_Indonesian_television_series_debuts",
+        "http://dbpedia.org/resource/Category:2014_Indonesian_television_series_endings",
+        "http://dbpedia.org/resource/Category:Indonesian-language_television_shows",
+        "http://dbpedia.org/resource/Category:Indonesian_Idol",
+        "http://dbpedia.org/resource/Category:Indonesian_reality_television_series",
+        "http://dbpedia.org/resource/Category:Indonesian_television_series_based_on_British_television_series",
+        "http://dbpedia.org/resource/Category:RCTI_original_programming",
+        "http://dbpedia.org/resource/Category:Television_series_by_Fremantle_(company)"
+      ]
+    },
+    {
+      "score": [
+        "2428.3267"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Basketball_League"
+      ],
+      "redirectlabel": [
+        "Bumi Borneo",
+        "Dewa United",
+        "Evos Thunder",
+        "IBL Draft",
+        "IBL <B>Indonesia</B>",
+        "NBL <B>Indonesia</B>",
+        "National Basketball League (<B>Indonesia</B>)",
+        "RANS PIK",
+        "Tangerang Hawks"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Indonesian</B> Basketball League (<B>Indonesian</B>: Liga Bola Basket <B>Indonesia</B>) is the preeminent men's"
+      ],
+      "label": [
+        "<B>Indonesian</B> Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Basketball_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Indonesia",
+        "http://dbpedia.org/resource/Category:National_Basketball_League_(Indonesia)",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2003",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "2409.8555"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Indonesia</B>",
+        "<B>Indonesian</B> functional art",
+        "<B>Indonesian</B> pottery",
+        "<B>Indonesian</B> sculpture",
+        "<B>Indonesian</B> textile art",
+        "<B>Indonesian</B> wood carving",
+        "Performing arts in <B>Indonesia</B>",
+        "Performing arts of <B>Indonesia</B>",
+        "Visual art of <B>Indonesia</B>"
+      ],
+      "comment": [
+        "It is quite difficult to define <B>Indonesian</B> art, since the country is immensely diverse. The"
+      ],
+      "label": [
+        "<B>Indonesian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Indonesian_art",
+        "http://dbpedia.org/resource/Category:Indonesian_culture"
+      ]
+    },
+    {
+      "score": [
+        "2341.065"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "label": [
+        "Filipino <B>Indonesian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Indonesian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Indonesian"
+      ],
+      "redirectlabel": [
+        "Filipino-<B>Indonesian</B>",
+        "Filipino-<B>Indonesians</B>",
+        "Filipino <B>Indonesian</B> (disambiguation)",
+        "Filipino <B>Indonesians</B>",
+        "<B>Indonesian</B>-Filipino",
+        "<B>Indonesian</B>-Filipinos",
+        "<B>Indonesian</B> Filipino",
+        "<B>Indonesian</B> Filipinos"
+      ]
+    },
+    {
+      "score": [
+        "2338.2903"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Democratic_Party"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> Democracy Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Democratic Party (PDI) was one of the two state-approved parties during the New Order era of the late 20th-century in <B>Indonesia</B>."
+      ],
+      "label": [
+        "<B>Indonesian</B> Democratic Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Democratic_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:2003_disestablishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Defunct_socialist_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Indonesian_Democratic_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2003",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1973",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "2335.1885"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Americans"
+      ],
+      "redirectlabel": [
+        "Chinese-<B>Indonesian</B> Americans",
+        "Chinese <B>Indonesians</B> in the United States",
+        "History of <B>Indonesian</B> Americans",
+        "<B>Indonesian</B>-American",
+        "<B>Indonesian</B> American",
+        "List of <B>Indonesian</B> American athletes",
+        "List of <B>Indonesian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Indonesian</B> Americans (<B>Indonesian</B>: Orang Amerika <B>Indonesia</B>) are migrants from the multiethnic"
+      ],
+      "label": [
+        "<B>Indonesian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Indonesian_descent",
+        "http://dbpedia.org/resource/Category:Asian-American_society",
+        "http://dbpedia.org/resource/Category:Indonesian_American",
+        "http://dbpedia.org/resource/Category:Indonesian_diaspora",
+        "http://dbpedia.org/resource/Category:Indonesian_emigrants_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_American"
+      ]
+    },
+    {
+      "score": [
+        "2316.211"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liga_1_(Indonesia)"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> Football League",
+        "<B>Indonesia</B> Super League",
+        "<B>Indonesia</B> super league",
+        "<B>Indonesian</B> Super League",
+        "Liga Satu (<B>Indonesia</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " Liga <B>Indonesia</B> Baru (English: New <B>Indonesian</B> League, LLC), Liga 1 is contested by 18 clubs and operates"
+      ],
+      "label": [
+        "Liga 1 (<B>Indonesia</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liga_1_(Indonesia)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:2017_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Liga_1_(Indonesia)",
+        "http://dbpedia.org/resource/Category:Liga_Indonesia",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2008",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2017",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2307.0273"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Proclamation_of_Indonesian_Independence"
+      ],
+      "redirectlabel": [
+        "Independence of <B>Indonesia</B>",
+        "<B>Indonesia's</B> independence",
+        "<B>Indonesia</B> declared itself independent",
+        "<B>Indonesian</B> Declaration of Independence",
+        "<B>Indonesian</B> Independence",
+        "<B>Indonesian</B> Independence Day",
+        "<B>Indonesian</B> Proclamation of Independence",
+        "<B>Indonesian</B> independence",
+        "Proclamation of <B>Indonesia's</B> Independence",
+        "Proclamation of <B>Indonesian</B> independence",
+        "Proklamasi"
+      ],
+      "comment": [
+        "The Proclamation of <B>Indonesian</B> Independence (<B>Indonesian</B>: Proklamasi Kemerdekaan <B>Indonesia</B>, or"
+      ],
+      "label": [
+        "Proclamation of <B>Indonesian</B> Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Proclamation_of_Indonesian_Independence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_documents",
+        "http://dbpedia.org/resource/Category:1945_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1945_in_international_relations",
+        "http://dbpedia.org/resource/Category:1945_in_law",
+        "http://dbpedia.org/resource/Category:August_1945_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Declarations_of_independence",
+        "http://dbpedia.org/resource/Category:Indonesian_National_Revolution",
+        "http://dbpedia.org/resource/Category:National_liberation_movements",
+        "http://dbpedia.org/resource/Category:Proclamations",
+        "http://dbpedia.org/resource/Category:Separatism_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Separatism_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Sukarno"
+      ]
+    },
+    {
+      "score": [
+        "2293.1707"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_National_Awakening"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> national awakening",
+        "<B>Indonesian</B> National Revival",
+        "<B>Indonesian</B> independence movement",
+        "<B>Indonesian</B> national awakening",
+        "<B>Indonesian</B> national revivial",
+        "National Awakening Day"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> National Awakening (<B>Indonesian</B>: Kebangkitan Nasional <B>Indonesia</B>) is a term for the"
+      ],
+      "label": [
+        "<B>Indonesian</B> National Awakening"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_National_Awakening"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:Indonesian_National_Awakening",
+        "http://dbpedia.org/resource/Category:National_revivals"
+      ]
+    },
+    {
+      "score": [
+        "2281.4368"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Military_Academy"
+      ],
+      "redirectlabel": [
+        "Canka Lokananta and Regimental Band of the <B>Indonesian</B> Military Academy",
+        "Military Academy (<B>Indonesia</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The Military Academy (<B>Indonesian</B>: Akademi Militer or Akmil) is a military academy of the <B>Indonesian</B>"
+      ],
+      "label": [
+        "<B>Indonesian</B> Military Academy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Military_Academy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1945",
+        "http://dbpedia.org/resource/Category:Indonesian_Army",
+        "http://dbpedia.org/resource/Category:Magelang",
+        "http://dbpedia.org/resource/Category:Military_academies",
+        "http://dbpedia.org/resource/Category:Military_education_and_training_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "2241.3374"
+      ],
+      "refCount": [
+        "183"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Papua_(province)"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of Papua (province)",
+        "Central Irian Jaya",
+        "Culture of Papua (province)",
+        "Healthcare in Papua (province)",
+        "ID-PA",
+        "<B>Indonesia</B> (Papua)",
+        "Papua, <B>Indonesia</B>",
+        "Papua (<B>Indonesia</B>)",
+        "Papua (<B>Indonesian</B> province)",
+        "Papua Province, <B>Indonesia</B>",
+        "Papua Province",
+        "Papua province",
+        "Tabi Saireri"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Papua is the largest and easternmost province of <B>Indonesia</B>, comprising most of Western New Guinea"
+      ],
+      "label": [
+        "Papua (province)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Papua_(province)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Arafura_Sea",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Autonomous_provinces",
+        "http://dbpedia.org/resource/Category:Ethnic_conflicts_in_Indonesia",
+        "http://dbpedia.org/resource/Category:New_Guinea",
+        "http://dbpedia.org/resource/Category:Papua_(province)",
+        "http://dbpedia.org/resource/Category:Provinces_of_Indonesia",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1963",
+        "http://dbpedia.org/resource/Category:Western_New_Guinea"
+      ]
+    },
+    {
+      "score": [
+        "2221.9382"
+      ],
+      "refCount": [
+        "225"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sukarno"
+      ],
+      "redirectlabel": [
+        "Achmad Soekarno",
+        "Achmad Sukarno",
+        "Achmed Sukarno",
+        "Ahmed Sukarno",
+        "Association of Political Organisations of the <B>Indonesian</B> People",
+        "Bung Karno",
+        "Guntur Soekarnoputra",
+        "Heldy Djafar",
+        "Ir. Soekarno",
+        "Ir. Sukarno",
+        "Kusnasosro",
+        "Kusno Sosrodihardjo",
+        "PPPKI",
+        "Pak Karno",
+        "Pemufakatan Perhimpunan-Perhimpunan Politik Kebangsaan <B>Indonesia</B>",
+        "Pemufakatan Perhimpunan-perhimpunan Politik Kebangsaan <B>Indonesia</B>",
+        "Soekarno"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Indonesian</B> politician who was the first president of <B>Indonesia</B>, serving from 1945 to 1967. Sukarno was the"
+      ],
+      "label": [
+        "Sukarno"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sukarno"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1901_births",
+        "http://dbpedia.org/resource/Category:1970_deaths",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Balinese_people",
+        "http://dbpedia.org/resource/Category:Bandung_Institute_of_Technology_alumni",
+        "http://dbpedia.org/resource/Category:Collars_of_the_Order_of_the_White_Lion",
+        "http://dbpedia.org/resource/Category:Deaths_from_kidney_failure",
+        "http://dbpedia.org/resource/Category:Dutch_political_prisoners",
+        "http://dbpedia.org/resource/Category:Grand_Crosses_Special_Class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany",
+        "http://dbpedia.org/resource/Category:Heads_of_government_who_were_later_imprisoned",
+        "http://dbpedia.org/resource/Category:Indonesian_Muslims",
+        "http://dbpedia.org/resource/Category:Indonesian_National_Awakening",
+        "http://dbpedia.org/resource/Category:Indonesian_collaborators_with_Imperial_Japan",
+        "http://dbpedia.org/resource/Category:Indonesian_independence_activists",
+        "http://dbpedia.org/resource/Category:Indonesian_nationalists",
+        "http://dbpedia.org/resource/Category:Indonesian_revolutionaries",
+        "http://dbpedia.org/resource/Category:Indonesian_socialists",
+        "http://dbpedia.org/resource/Category:Javanese_people",
+        "http://dbpedia.org/resource/Category:Leaders_ousted_by_a_coup",
+        "http://dbpedia.org/resource/Category:Lenin_Peace_Prize_recipients",
+        "http://dbpedia.org/resource/Category:Members_of_the_Central_Advisory_Council",
+        "http://dbpedia.org/resource/Category:Muslim_socialists",
+        "http://dbpedia.org/resource/Category:National_Heroes_of_Indonesia",
+        "http://dbpedia.org/resource/Category:People_from_Blitar",
+        "http://dbpedia.org/resource/Category:People_from_Surabaya",
+        "http://dbpedia.org/resource/Category:People_of_the_Indonesian_National_Revolution",
+        "http://dbpedia.org/resource/Category:Politicians_from_East_Java",
+        "http://dbpedia.org/resource/Category:Presidents_for_life",
+        "http://dbpedia.org/resource/Category:Presidents_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Companions_of_O._R._Tambo",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Sacred_Treasure,_4th_class",
+        "http://dbpedia.org/resource/Category:Socialist_rulers",
+        "http://dbpedia.org/resource/Category:Sukarno",
+        "http://dbpedia.org/resource/Category:Sukarno_family"
+      ]
+    },
+    {
+      "score": [
+        "2216.0432"
+      ],
+      "refCount": [
+        "220"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Snack"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> snacks",
+        "List of Malaysian snacks",
+        "Malaysian snacks",
+        "Midnight snack",
+        "Pogle bait",
+        "Power snack",
+        "Snack food",
+        "Snack foods",
+        "Snack mixes",
+        "Snack product",
+        "Snackfood",
+        "Snacks",
+        "Taiwanese snacks",
+        "US snacks"
+      ],
+      "comment": [
+        "A snack is a small service of food and generally eaten between meals. Snacks come in a variety of forms including packaged snack foods and other processed foods, as well as items made from fresh ingredients at home. Beverages, such as coffee, are not generally considered snacks although they may be consumed along with or in lieu of snack foods. A snack eaten shortly before going to bed or during the night may be called a \"bedtime snack\", \"late night snack\", or \"(mid)night snack\"."
+      ],
+      "label": [
+        "Snack"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Snack"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Convenience_foods",
+        "http://dbpedia.org/resource/Category:Meals",
+        "http://dbpedia.org/resource/Category:Snack_foods"
+      ]
+    },
+    {
+      "score": [
+        "2194.581"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liga_Indonesia_First_Division"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> First Division",
+        "<B>Indonesian</B> League First Division"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "Liga <B>Indonesia</B> First Division (<B>Indonesian</B>: Divisi Satu Liga <B>Indonesia</B>) was the third level football"
+      ],
+      "label": [
+        "Liga <B>Indonesia</B> First Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liga_Indonesia_First_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Defunct_football_leagues_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Liga_Indonesia_First_Division",
+        "http://dbpedia.org/resource/Category:Sports_leagues_disestablished_in_2015",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1995"
+      ]
+    },
+    {
+      "score": [
+        "2144.4536"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "label": [
+        "<B>Indonesian</B> Japanese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Japanese"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Japanese"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B>-Japanese",
+        "<B>Indonesian</B> Japanese (disambiguation)",
+        "Japanese-<B>Indonesian</B>",
+        "Japanese-<B>Indonesians</B>",
+        "Japanese <B>Indonesian</B>",
+        "Japanese <B>Indonesians</B>",
+        "Japanesian"
+      ]
+    },
+    {
+      "score": [
+        "2136.3413"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadians of <B>Indonesian</B> descent",
+        "Canadians of <B>Indonesian</B> origin",
+        "Chinese <B>Indonesians</B> in Canada",
+        "<B>Indonesian</B>-Canadian",
+        "<B>Indonesian</B>-Canadians",
+        "<B>Indonesian</B> Canadian",
+        "<B>Indonesians</B> in Canada"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Indonesian</B> Canadians are Canadian citizens of <B>Indonesian</B> descent or <B>Indonesia</B>-born people who"
+      ],
+      "label": [
+        "<B>Indonesian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Indonesian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Indonesian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2121.746"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Australians"
+      ],
+      "redirectlabel": [
+        "Chinese <B>Indonesians</B> in Australia",
+        "Chinese <B>Indonesians</B> in Melbourne",
+        "<B>Indonesian</B>-Australian",
+        "<B>Indonesian</B>-Australians",
+        "<B>Indonesian</B> Australian",
+        "<B>Indonesian</B> immigration to Australia",
+        "List of <B>Indonesian</B> Australians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Indonesian</B> Australians are Australian citizens and residents of <B>Indonesian</B> origin. In the 2011"
+      ],
+      "label": [
+        "<B>Indonesian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Australian",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Indonesian_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Australia",
+        "http://dbpedia.org/resource/Category:Indonesian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2115.819"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_occupation_of_East_Timor"
+      ],
+      "redirectlabel": [
+        "East Timor under <B>Indonesian</B> rule",
+        "Fence of Legs",
+        "<B>Indonesian</B>-occupied East Timor",
+        "<B>Indonesian</B> Occupation of East Timor",
+        "<B>Indonesian</B> occupation of East Timor (1975-1999)",
+        "International response to the <B>Indonesian</B> occupation of East Timor",
+        "Occupied East Timor",
+        "Operasi Keamanan"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> occupation of East Timor began in December 1975 and lasted until October 1999. After"
+      ],
+      "label": [
+        "<B>Indonesian</B> occupation of East Timor"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_occupation_of_East_Timor"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1970s_in_Portuguese_Timor",
+        "http://dbpedia.org/resource/Category:1975_establishments_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1975_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1975_establishments_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:1975_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1975_in_Portuguese_Timor",
+        "http://dbpedia.org/resource/Category:1980s_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1990s_disestablishments_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1990s_in_East_Timor",
+        "http://dbpedia.org/resource/Category:1999_disestablishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1999_disestablishments_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:1999_in_East_Timor",
+        "http://dbpedia.org/resource/Category:History_of_East_Timor",
+        "http://dbpedia.org/resource/Category:History_of_Timor",
+        "http://dbpedia.org/resource/Category:Indonesian_occupation_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Invasions_by_Indonesia",
+        "http://dbpedia.org/resource/Category:Invasions_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Military_history_of_East_Timor",
+        "http://dbpedia.org/resource/Category:Military_history_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_occupation",
+        "http://dbpedia.org/resource/Category:New_Order_(Indonesia)",
+        "http://dbpedia.org/resource/Category:Politicides",
+        "http://dbpedia.org/resource/Category:Portuguese_Timor",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Suharto",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_East_Timor",
+        "http://dbpedia.org/resource/Category:Wars_involving_Indonesia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Libya",
+        "http://dbpedia.org/resource/Category:Wars_involving_Portugal",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_People's_Republic_of_China",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2078.6946"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kalimantan"
+      ],
+      "redirectlabel": [
+        "Dutch Borneo",
+        "Ethnic groups in Kalimantan",
+        "ID-KA",
+        "<B>Indonesian</B> Borneo"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        ". The non-<B>Indonesian</B> parts of Borneo are Brunei and East Malaysia. In <B>Indonesia</B>, \"Kalimantan\" refers"
+      ],
+      "label": [
+        "Kalimantan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kalimantan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Borneo",
+        "http://dbpedia.org/resource/Category:Greater_Sunda_Islands",
+        "http://dbpedia.org/resource/Category:Islands_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Kalimantan",
+        "http://dbpedia.org/resource/Category:Maritime_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2013.4835"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Institute_of_Sciences"
+      ],
+      "redirectlabel": [
+        "10.14203",
+        "<B>Indonesian</B> Institute for Sciences",
+        "<B>Indonesian</B> Science Institute",
+        "<B>Indonesian</B> Sciences Institute",
+        "Institute for Science of <B>Indonesia</B>",
+        "Institute for Sciences of <B>Indonesia</B>",
+        "Institute of Science of <B>Indonesia</B>",
+        "Institute of Sciences of <B>Indonesia</B>",
+        "LIPI",
+        "Lembaga Ilmu Pengetahuan <B>Indonesia</B>",
+        "Science Institute of <B>Indonesia</B>",
+        "Sciences Institute of <B>Indonesia</B>"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Institute of Sciences (<B>Indonesian</B>: Lembaga Ilmu Pengetahuan <B>Indonesia</B>, or LIPI) is"
+      ],
+      "label": [
+        "<B>Indonesian</B> Institute of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Institute_of_Sciences"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:2021_disestablishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian_Institute_of_Sciences",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "2004.2189"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ministry_of_Transportation_(Indonesia)"
+      ],
+      "redirectlabel": [
+        "Department of Transportation, <B>Indonesia</B>",
+        "Department of Transportation (<B>Indonesia</B>)",
+        "<B>Indonesian</B> Department of Transport",
+        "<B>Indonesian</B> Minister of Transportation",
+        "<B>Indonesian</B> Transport Ministry",
+        "Kementerian Perhubungan <B>Indonesia</B>",
+        "Kementerian Perhubungan Republik <B>Indonesia</B>",
+        "Minister of Transportation (<B>Indonesia</B>)",
+        "Minister of Transportation of <B>Indonesia</B>",
+        "Ministry of Transport (<B>Indonesia</B>)",
+        "Ministry of Transportation, <B>Indonesia</B>",
+        "Ministry of Transportation Republic of <B>Indonesia</B>",
+        "Transport Ministry (<B>Indonesia</B>)",
+        "Transportation Ministry (<B>Indonesia</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "The Ministry of Transportation (<B>Indonesian</B>: Kementerian Perhubungan), formerly Department of"
+      ],
+      "label": [
+        "Ministry of Transportation (<B>Indonesia</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ministry_of_Transportation_(Indonesia)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_ministries_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Transport_ministries",
+        "http://dbpedia.org/resource/Category:Transport_organizations_based_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1981.3236"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kereta_Api_Indonesia"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> Railway Company",
+        "<B>Indonesian</B> Railways",
+        "PT KAI",
+        "PT Kereta Api",
+        "PT Kereta Api (Persero)",
+        "PT Kereta Api <B>Indonesia</B>"
+      ],
+      "label": [
+        "Kereta Api <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kereta_Api_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:3_ft_6_in_gauge_railways_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Bandung",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Government-owned_railway_companies",
+        "http://dbpedia.org/resource/Category:Public_transport_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Railway_companies_established_in_1945",
+        "http://dbpedia.org/resource/Category:Railway_companies_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Standard_gauge_railways_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1948.8579"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Enhanced_Spelling_of_the_Indonesian_Language"
+      ],
+      "redirectlabel": [
+        "EYD",
+        "Ejaan Yang Disempurnakan",
+        "Ejaan yang Disempurnakan",
+        "Enhanced <B>Indonesian</B> Spelling System",
+        "Enhanced Spelling System",
+        "Eyd",
+        "<B>Indonesian</B> Perfected Spelling System",
+        "<B>Indonesian</B> Spelling System",
+        "<B>Indonesian</B> orthography",
+        "<B>Indonesian</B> spelling",
+        "Perfected Spelling",
+        "Perfected Spelling System"
+      ],
+      "label": [
+        "Enhanced Spelling of the <B>Indonesian</B> Language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Enhanced_Spelling_of_the_Indonesian_Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_language",
+        "http://dbpedia.org/resource/Category:Spelling_reform"
+      ]
+    },
+    {
+      "score": [
+        "1940.584"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Christian_Party"
+      ],
+      "redirectlabel": [
+        "Chairman of the <B>Indonesian</B> Christian Party",
+        "Parkindo"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "Parkindo (<B>Indonesian</B>: Partai Kristen <B>Indonesia</B>, <B>Indonesian</B> Christian Party) was a political party"
+      ],
+      "label": [
+        "<B>Indonesian</B> Christian Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Christian_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1973_disestablishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Christian_political_parties",
+        "http://dbpedia.org/resource/Category:Christianity_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian_Christian_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1973",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "1938.4698"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Maluku_(province)"
+      ],
+      "redirectlabel": [
+        "Maluku (<B>Indonesian</B> province)",
+        "Maluku Province",
+        "Maluku province",
+        "South Moluccas Region"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Maluku is a province of <B>Indonesia</B>. It comprises the central and southern regions of the Maluku"
+      ],
+      "label": [
+        "Maluku (province)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Maluku_(province)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Maluku_(province)",
+        "http://dbpedia.org/resource/Category:Maluku_Islands",
+        "http://dbpedia.org/resource/Category:Provinces_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1928.938"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Marine_Corps"
+      ],
+      "redirectlabel": [
+        "History of the <B>Indonesian</B> Marine Corps",
+        "<B>Indonesian</B> Marines",
+        "Kormar",
+        "Korps Marinir",
+        "Marinir",
+        "Republic of <B>Indonesia</B> Marine Corps"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Marine Corps (<B>Indonesian</B>: Korps Marinir) previously known as KKO (Korps Komando"
+      ],
+      "label": [
+        "<B>Indonesian</B> Marine Corps"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Marine_Corps"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_Navy",
+        "http://dbpedia.org/resource/Category:Marines",
+        "http://dbpedia.org/resource/Category:Military_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "1928.6143"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019_Indonesian_general_election"
+      ],
+      "redirectlabel": [
+        "2019 <B>Indonesia</B> general election",
+        "2019 <B>Indonesian</B> election",
+        "2019 <B>Indonesian</B> legislative election",
+        "2019 <B>Indonesian</B> presidential election",
+        "<B>Indonesian</B> general election, 2019",
+        "<B>Indonesian</B> legislative election, 2019",
+        "<B>Indonesian</B> presidential election, 2019"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Indonesia</B> on 17 April 2019. For the first time in the country's"
+      ],
+      "label": [
+        "2019 <B>Indonesian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019_Indonesian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2019_elections_in_Indonesia",
+        "http://dbpedia.org/resource/Category:April_2019_events_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1880.7131"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Indonesian_dishes"
+      ],
+      "redirectlabel": [
+        "List of <B>Indonesian</B> breads",
+        "List of <B>Indonesian</B> cuisine",
+        "List of <B>Indonesian</B> rice dishes and porridges",
+        "List of <B>Indonesian</B> salads"
+      ],
+      "comment": [
+        "This is a list of selected dishes found in <B>Indonesian</B> cuisine."
+      ],
+      "label": [
+        "List of <B>Indonesian</B> dishes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Indonesian_dishes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_cuisine-related_lists",
+        "http://dbpedia.org/resource/Category:Indonesian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1835.3322"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/RCTI"
+      ],
+      "redirectlabel": [
+        "RCTI (<B>Indonesian</B> TV Channel)",
+        "RCTI Banda Aceh",
+        "RCTI Jawa Barat",
+        "RCTI Jawa Tengah",
+        "RCTI Jawa Timur",
+        "RCTI Medan",
+        "RCTI Sumatera Utara",
+        "Rajawali Citra Televisi <B>Indonesia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "TelevisionStation",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "RCTI (Rajawali Citra Televisi <B>Indonesia</B>) is an <B>Indonesian</B> free-to-air television network based in"
+      ],
+      "label": [
+        "RCTI"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/RCTI"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TelevisionStation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Jakarta",
+        "http://dbpedia.org/resource/Category:Media_Nusantara_Citra",
+        "http://dbpedia.org/resource/Category:RCTI",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1989",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1833.7991"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Regency_(Indonesia)"
+      ],
+      "redirectlabel": [
+        "Bupati",
+        "<B>Indonesian</B> regency",
+        "Kabupaten",
+        "Kabupaten of <B>Indonesia</B>",
+        "Regencies of <B>Indonesia</B>",
+        "Regency (country subdivision)",
+        "Regentschap"
+      ],
+      "comment": [
+        "A regency (<B>Indonesian</B>: kabupaten) is a second-level administrative division of <B>Indonesia</B>, directly"
+      ],
+      "label": [
+        "Regency (<B>Indonesia</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Regency_(Indonesia)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Regencies_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1832.4098"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Indonesian_cuisine"
+      ],
+      "redirectlabel": [
+        "Chinese <B>Indonesian</B> Cuisine",
+        "Chinese <B>Indonesian</B> desserts and sweets",
+        "Chinese <B>Indonesian</B> dish",
+        "<B>Indonesian</B> Chinese cuisine"
+      ],
+      "comment": [
+        " of Chinese with local <B>Indonesian</B> style. Chinese <B>Indonesians</B> brought their legacy of Chinese cuisine"
+      ],
+      "label": [
+        "Chinese <B>Indonesian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Indonesian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chinese_Indonesian_culture",
+        "http://dbpedia.org/resource/Category:Chinese_cuisine",
+        "http://dbpedia.org/resource/Category:Indonesian_Chinese_cuisine",
+        "http://dbpedia.org/resource/Category:Indonesian_cuisine-related_lists",
+        "http://dbpedia.org/resource/Category:Indonesian_cuisine",
+        "http://dbpedia.org/resource/Category:Indonesian_fusion_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1826.7347"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Comparison_of_Indonesian_and_Standard_Malay"
+      ],
+      "redirectlabel": [
+        "Comparison of <B>Indonesian</B> and Malaysian",
+        "Comparison of Malaysian and <B>Indonesian</B>",
+        "Comparison of Standard Malay and <B>Indonesian</B>",
+        "Differences between <B>Indonesian</B> and Malay",
+        "Differences between Malay and <B>Indonesian</B>",
+        "Differences between Malaysian and <B>Indonesian</B>",
+        "Differences between malay and <B>indonesian</B>",
+        "<B>Indonesian</B> vs Malay",
+        "Malay vs <B>Indonesian</B>"
+      ],
+      "label": [
+        "Comparison of <B>Indonesian</B> and Standard Malay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Comparison_of_Indonesian_and_Standard_Malay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:False_friends",
+        "http://dbpedia.org/resource/Category:Indonesian_language",
+        "http://dbpedia.org/resource/Category:Indonesia–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Language_comparison",
+        "http://dbpedia.org/resource/Category:Malay_language"
+      ]
+    },
+    {
+      "score": [
+        "1816.7247"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Persikabo_1973"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> Armed Forces Football Team",
+        "<B>Indonesian</B> Army Football Team",
+        "PS-TIRA",
+        "PS TIRA",
+        "PS TNI",
+        "TIRA-Persikabo",
+        "Ultras Persikabo Curva Sud"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "label": [
+        "Persikabo 1973"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Persikabo_1973"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2015",
+        "http://dbpedia.org/resource/Category:Bogor_Regency",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_West_Java",
+        "http://dbpedia.org/resource/Category:Military_association_football_clubs_in_Indonesia",
+        "http://dbpedia.org/resource/Category:PS_TIRA",
+        "http://dbpedia.org/resource/Category:TIRA-Persikabo"
+      ]
+    },
+    {
+      "score": [
+        "1807.6187"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_names"
+      ],
+      "redirectlabel": [
+        "Bapak",
+        "<B>Indonesian</B> Name",
+        "<B>Indonesian</B> name",
+        "Names in <B>Indonesia</B>"
+      ],
+      "comment": [
+        " 17,000 islands in the <B>Indonesian</B> archipelago. The world's fourth most populous nation, <B>Indonesia</B> is home"
+      ],
+      "label": [
+        "<B>Indonesian</B> names"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_names"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_names",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1781.2029"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Film_Festival"
+      ],
+      "redirectlabel": [
+        "Citra Award",
+        "Citra Awards",
+        "Festival Film <B>Indonesia</B>",
+        "<B>Indonesian</B> film festival",
+        "Piala Citra"
+      ],
+      "typeName": [
+        "Award"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Film Festival (<B>Indonesian</B>: Festival Film <B>Indonesia</B>, 'FFI') is an annual awards"
+      ],
+      "label": [
+        "<B>Indonesian</B> Film Festival"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Film_Festival"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Award"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Annual_events_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Citra_Awards",
+        "http://dbpedia.org/resource/Category:Film_festivals_established_in_1955",
+        "http://dbpedia.org/resource/Category:Film_festivals_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1769.7173"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B>/Government",
+        "<B>Indonesian</B> Govenment",
+        "<B>Indonesian</B> Politics",
+        "<B>Indonesian</B> politics",
+        "Political history of <B>Indonesia</B>",
+        "Politics of <B>indonesia</B>"
+      ],
+      "comment": [
+        "The politics of <B>Indonesia</B> take place in the framework of a presidential representative democratic"
+      ],
+      "label": [
+        "Politics of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Politics_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Politics_of_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1708.783"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_literature"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> poetry",
+        "Literature of <B>Indonesia</B>"
+      ],
+      "comment": [
+        "<B>Indonesian</B> literature, is a term grouping various genres of South-East Asian literature. <B>Indonesian</B>"
+      ],
+      "label": [
+        "<B>Indonesian</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_literature"
+      ]
+    },
+    {
+      "score": [
+        "1703.7335"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> (disambiguation)"
+      ],
+      "label": [
+        "<B>Indonesian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1675.828"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Ulema_Council"
+      ],
+      "redirectlabel": [
+        "Council of <B>Indonesian</B> Clerics",
+        "<B>Indonesian</B> Council of Ulama",
+        "<B>Indonesian</B> Council of Ulamas",
+        "<B>Indonesian</B> Council of Ulema",
+        "Majelis Ulama <B>Indonesia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Indonesian</B> Ulema Council (<B>Indonesian</B>: Majelis Ulama <B>Indonesia</B> - MUI) is <B>Indonesia's</B> top Muslim"
+      ],
+      "label": [
+        "<B>Indonesian</B> Ulema Council"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Ulema_Council"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islamic_organizations_based_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1666.1694"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Garuda_Indonesia"
+      ],
+      "redirectlabel": [
+        "Cargo Garuda <B>Indonesia</B>",
+        "GA fleet",
+        "Garuda-indonesia.com",
+        "Garuda Airline",
+        "Garuda Airlines",
+        "Garuda <B>Indonesia</B> Airline",
+        "Garuda <B>Indonesia</B> Airways",
+        "Garuda <B>Indonesia</B> fleet",
+        "Garuda <B>Indonesian</B> Airlines",
+        "Garuda <B>Indonesian</B> Airways",
+        "Garuda <B>Indonesian</B> Airways PT",
+        "<B>Indonesia</B> Airlines",
+        "<B>Indonesian</B> Airways",
+        "<B>Indonesian</B> airways",
+        "PT. Garuda <B>Indonesia</B>",
+        "PT Garuda <B>Indonesia</B>"
+      ],
+      "comment": [
+        " Skytrax. The air carrier was previously known as Garuda <B>Indonesian</B> Airways."
+      ],
+      "label": [
+        "Garuda <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Garuda_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_initial_public_offerings",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1949",
+        "http://dbpedia.org/resource/Category:Airlines_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Association_of_Asia_Pacific_Airlines",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Tangerang",
+        "http://dbpedia.org/resource/Category:Companies_listed_on_the_Indonesia_Stock_Exchange",
+        "http://dbpedia.org/resource/Category:Former_seaplane_operators",
+        "http://dbpedia.org/resource/Category:Garuda_Indonesia",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian_brands",
+        "http://dbpedia.org/resource/Category:Indonesian_companies_established_in_1947",
+        "http://dbpedia.org/resource/Category:SkyTeam"
+      ]
+    },
+    {
+      "score": [
+        "1659.6156"
+      ],
+      "refCount": [
+        "392"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malay_language"
+      ],
+      "redirectlabel": [
+        "Bahasa Melayu",
+        "Basa Melayu",
+        "Bhasa Melayu",
+        "Binjai Malay",
+        "Colloquial Malay",
+        "Colloquial Malay language",
+        "Deli Malay",
+        "ISO 639:may",
+        "ISO 639:mly",
+        "ISO 639:ms",
+        "ISO 639:msa",
+        "ISO 639:zlm",
+        "Individual language Malay",
+        "Johor Malay",
+        "Kotawaringin Malay",
+        "Malay-<B>Indonesian</B>",
+        "Malay-language",
+        "Malay (individual language)",
+        "Malay (language)",
+        "Malay (macrolanguage)",
+        "Malay (macrolanguage) language",
+        "Malay Language",
+        "Malay Languages",
+        "Malay dialects",
+        "Malay language (generic)",
+        "Singapore Malay",
+        "Tamiang Malay",
+        "بهاس ملايو",
+        "馬來語",
+        "马来语"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Malay (; Malay: Bahasa Melayu, بهاس ملايو‎) is an Austronesian language spoken in Brunei, <B>Indonesia</B>"
+      ],
+      "label": [
+        "Malay language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malay_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_7th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Aceh",
+        "http://dbpedia.org/resource/Category:Languages_of_Brunei",
+        "http://dbpedia.org/resource/Category:Languages_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Languages_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Languages_of_Sumatra",
+        "http://dbpedia.org/resource/Category:Languages_of_Thailand",
+        "http://dbpedia.org/resource/Category:Malay_language",
+        "http://dbpedia.org/resource/Category:Malay_languages_in_Singapore"
+      ]
+    },
+    {
+      "score": [
+        "1655.022"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_slang"
+      ],
+      "redirectlabel": [
+        "Bahasa gaul",
+        "Bahasa prokem",
+        "<B>Indonesian</B> Slang Language",
+        "<B>Indonesian</B> slang language",
+        "Prokem"
+      ],
+      "comment": [
+        "<B>Indonesian</B> slang (bahasa gaul or bahasa prokém) is a term that subsumes various vernacular and non"
+      ],
+      "label": [
+        "<B>Indonesian</B> slang"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_slang"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_language",
+        "http://dbpedia.org/resource/Category:Slang_by_language"
+      ]
+    },
+    {
+      "score": [
+        "1645.7009"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Presidential_Aircraft"
+      ],
+      "redirectlabel": [
+        "Air <B>Indonesia</B> One",
+        "<B>Indonesia</B> Air Force One",
+        "<B>Indonesia</B> One",
+        "<B>Indonesian</B> Air Force One",
+        "<B>Indonesian</B> presidential aircraft",
+        "RI-001"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Presidential Aircraft (<B>Indonesian</B>: Pesawat Kepresidenan <B>Indonesia</B>), also known as"
+      ],
+      "label": [
+        "<B>Indonesian</B> Presidential Aircraft"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Presidential_Aircraft"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Boeing_737",
+        "http://dbpedia.org/resource/Category:Call_signs",
+        "http://dbpedia.org/resource/Category:Individual_aircraft",
+        "http://dbpedia.org/resource/Category:Indonesian_Air_Force",
+        "http://dbpedia.org/resource/Category:Presidential_aircraft",
+        "http://dbpedia.org/resource/Category:Presidents_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1643.029"
+      ],
+      "refCount": [
+        "517"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesia_national_under-23_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> U-22",
+        "<B>Indonesia</B> U-23",
+        "<B>Indonesia</B> U-23 Team",
+        "<B>Indonesia</B> national under-22 football team",
+        "Timnas U-23"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Indonesia</B> national under-23 football team, also known as <B>Indonesia</B> Sub-23 or Garuda Muda, is"
+      ],
+      "label": [
+        "<B>Indonesia</B> national under-23 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesia_national_under-23_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_under-23_association_football_teams",
+        "http://dbpedia.org/resource/Category:Indonesia_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "1620.4279"
+      ],
+      "refCount": [
+        "88"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Riau"
+      ],
+      "redirectlabel": [
+        "Culture of Riau",
+        "Ethnic groups in Riau",
+        "History of Riau",
+        "ID-RI",
+        "Riau (province)",
+        "Riau <B>Indonesian</B>",
+        "Riau Province",
+        "Riouw",
+        "Tourism in Riau"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Riau (Jawi: رياو‎), is a province of <B>Indonesia</B>. It is located in the central eastern coast of"
+      ],
+      "label": [
+        "Riau"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Riau"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Provinces_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Riau",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1957",
+        "http://dbpedia.org/resource/Category:Strait_of_Malacca"
+      ]
+    },
+    {
+      "score": [
+        "1614.0782"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Indonesian_cities_by_population"
+      ],
+      "redirectlabel": [
+        "Biggest cities in <B>Indonesia</B>",
+        "Largest <B>Indonesian</B> cities by population",
+        "Largest cities in <B>Indonesia</B>",
+        "List of <B>Indonesian</B> cities",
+        "List of cities, towns and villages in <B>Indonesia</B>",
+        "List of cities and towns in <B>Indonesia</B>",
+        "List of cities in <B>Indonesia</B>",
+        "List of cities in <B>Indonesia</B> by population",
+        "List of cities of <B>Indonesia</B>",
+        "List of towns in <B>Indonesia</B>",
+        "Lists of <B>Indonesian</B> cities"
+      ],
+      "comment": [
+        "Below is a list of <B>Indonesia's</B> cities with their rank and population. All figures are estimates for"
+      ],
+      "label": [
+        "List of <B>Indonesian</B> cities by population"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Indonesian_cities_by_population"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesia_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_population",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1580.4679"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_loanwords_in_Indonesian"
+      ],
+      "redirectlabel": [
+        "Arabic loanwords in <B>Indonesian</B>",
+        "Japanese loanwords in <B>Indonesian</B>",
+        "List of <B>Indonesian</B> words of Arabic origin",
+        "List of borrowed words in <B>Indonesian</B>",
+        "List of loan words in <B>Indonesian</B>",
+        "Loan words in <B>Indonesian</B>"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> language has absorbed many loanwords from other languages, Sanskrit, Chinese"
+      ],
+      "label": [
+        "List of loanwords in <B>Indonesian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_loanwords_in_Indonesian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dutch_language_lists",
+        "http://dbpedia.org/resource/Category:Indonesia_culture-related_lists",
+        "http://dbpedia.org/resource/Category:Indonesian_words_and_phrases",
+        "http://dbpedia.org/resource/Category:Lists_of_loanwords",
+        "http://dbpedia.org/resource/Category:Loanwords_in_Indonesian",
+        "http://dbpedia.org/resource/Category:Portuguese_language_lists"
+      ]
+    },
+    {
+      "score": [
+        "1578.5286"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Sign_Language"
+      ],
+      "redirectlabel": [
+        "BISINDO",
+        "ISO 639:inl",
+        "<B>Indonesian</B> sign language",
+        "<B>Indonesian</B> sign languages",
+        "Jakarta Sign Language",
+        "Jakartan Sign Language",
+        "Yogyakarta Sign Language"
+      ],
+      "label": [
+        "<B>Indonesian</B> Sign Language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Sign_Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_Sign_Language_family",
+        "http://dbpedia.org/resource/Category:Languages_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Sign_languages_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1573.5273"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/RTV_(Indonesian_TV_network)"
+      ],
+      "redirectlabel": [
+        "B-Channel",
+        "B Channel",
+        "RTV (<B>Indonesia</B>)",
+        "RTV (<B>Indonesian</B> TV channel)",
+        "RTV Aceh",
+        "RTV Bandung",
+        "RTV Lampung",
+        "RTV Medan",
+        "Rajawali Televisi",
+        "TVN (<B>Indonesia</B>)",
+        "TVN <B>Indonesia</B>"
+      ],
+      "label": [
+        "RTV (<B>Indonesian</B> TV network)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/RTV_(Indonesian_TV_network)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Children's_television_networks",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Jakarta",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_2009",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1559.0886"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Culture_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "Clothing in <B>Indonesia</B>",
+        "Culture of <B>indonesia</B>",
+        "Fashion in <B>Indonesia</B>",
+        "<B>Indonesia</B> culture",
+        "<B>Indonesian</B> Culture",
+        "<B>Indonesian</B> culture",
+        "<B>Indonesian</B> drama",
+        "<B>Indonesian</B> society",
+        "Traditional <B>Indonesian</B> games"
+      ],
+      "comment": [
+        "The culture of <B>indonesia</B> has been shaped by long interaction between original indigenous customs"
+      ],
+      "label": [
+        "Culture of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Culture_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_culture"
+      ]
+    },
+    {
+      "score": [
+        "1548.1978"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Indonesian_musicians_and_musical_groups"
+      ],
+      "redirectlabel": [
+        "List of <B>Indonesian</B> Boy & Girl Groups",
+        "List of <B>Indonesian</B> bands and artists",
+        "List of <B>Indonesian</B> boy bands and girl groups",
+        "List of <B>Indonesian</B> music group",
+        "List of <B>Indonesian</B> musical groups",
+        "List of <B>Indonesian</B> musicians",
+        "List of musicians in <B>Indonesia</B>"
+      ],
+      "comment": [
+        "This is a list of <B>Indonesian</B> musicians and musical groups from various genres."
+      ],
+      "label": [
+        "List of <B>Indonesian</B> musicians and musical groups"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Indonesian_musicians_and_musical_groups"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_musical_groups",
+        "http://dbpedia.org/resource/Category:Lists_of_musicians_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1544.7885"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Western_New_Guinea"
+      ],
+      "redirectlabel": [
+        "Demographics of Western New Guinea",
+        "Ecology of Western New Guinea",
+        "Ethnic groups in Western New Guinea",
+        "ID-IJ",
+        "<B>Indonesian</B> New Guinea",
+        "<B>Indonesian</B> Papua",
+        "Iranian Jaya",
+        "Irian Barat",
+        "Irian Java",
+        "Irian Jaya",
+        "Irian Jaya (region)",
+        "Papua (<B>Indonesian</B> region)",
+        "West Irian",
+        "West New Guinea",
+        "West Papua (region)"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "Western New Guinea, also known as Papua (ISO code: ID-PP), is the <B>Indonesian</B> part of the island of"
+      ],
+      "label": [
+        "Western New Guinea"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Western_New_Guinea"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1660_establishments_in_the_Dutch_Empire",
+        "http://dbpedia.org/resource/Category:1824_establishments_in_the_Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:1969_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Islands_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Unrepresented_Nations_and_Peoples_Organization",
+        "http://dbpedia.org/resource/Category:New_Guinea",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1969",
+        "http://dbpedia.org/resource/Category:Western_New_Guinea"
+      ]
+    },
+    {
+      "score": [
+        "1538.5417"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "Cinema of <B>indonesia</B>",
+        "History of cinema in <B>Indonesia</B>",
+        "<B>Indonesian</B> cinema",
+        "<B>Indonesian</B> film"
+      ],
+      "comment": [
+        "Cinema of <B>Indonesia</B> has a long history dated back to 1900. Until the 1920s, cinema in <B>Indonesia</B>"
+      ],
+      "label": [
+        "Cinema of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1533.1749"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_islands_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "Indian Archipelago",
+        "Indian archipelago",
+        "<B>Indonesia</B>/Islands",
+        "<B>Indonesian</B> Archipelago",
+        "<B>Indonesian</B> archipelago",
+        "<B>Indonesian</B> island",
+        "<B>Indonesian</B> islands",
+        "Island of <B>Indonesia</B>",
+        "Islands of <B>Indonesia</B>",
+        "List of islands in <B>Indonesia</B>",
+        "Malayo-<B>Indonesian</B> islands"
+      ],
+      "comment": [
+        "The islands of <B>Indonesia</B>, also known as the <B>Indonesian</B> Archipelago, may refer either to the islands"
+      ],
+      "label": [
+        "List of islands of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_islands_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islands_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Lists_of_islands_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_islands_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Lists_of_landforms_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1519.596"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Indonesian_census"
+      ],
+      "redirectlabel": [
+        "2010 <B>Indonesia</B> census",
+        "<B>Indonesia</B> 2010 Census",
+        "<B>Indonesia</B> 2010 census",
+        "<B>Indonesian</B> 2010 census",
+        "<B>Indonesian</B> population census, 2010"
+      ],
+      "label": [
+        "2010 <B>Indonesian</B> census"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Indonesian_census"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_censuses",
+        "http://dbpedia.org/resource/Category:2010_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Censuses_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Government_of_Indonesia",
+        "http://dbpedia.org/resource/Category:May_2010_events_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1506.6625"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_speckled_catshark"
+      ],
+      "redirectlabel": [
+        "Halaelurus maculosus",
+        "<B>Indonesian</B> Speckled Catshark",
+        "<B>Indonesian</B> Speckled catshark",
+        "<B>Indonesian</B> speckled Catshark"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> speckled catshark (Halaelurus maculosus), is a species of catshark in the genus"
+      ],
+      "label": [
+        "<B>Indonesian</B> speckled catshark"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_speckled_catshark"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fish_described_in_2007",
+        "http://dbpedia.org/resource/Category:Halaelurus"
+      ]
+    },
+    {
+      "score": [
+        "1501.6306"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Throughflow"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> Current",
+        "<B>Indonesian</B> Through-flow",
+        "<B>Indonesian</B> throughflow"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> throughflow (ITF) is an ocean current with importance for global climate since it"
+      ],
+      "label": [
+        "<B>Indonesian</B> Throughflow"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Throughflow"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currents_of_the_Indian_Ocean",
+        "http://dbpedia.org/resource/Category:Currents_of_the_Pacific_Ocean",
+        "http://dbpedia.org/resource/Category:Geography_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1497.9044"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "Contemporary music of <B>Indonesia</B>",
+        "<B>Indonesian</B> Music",
+        "<B>Indonesian</B> folk music",
+        "<B>Indonesian</B> music",
+        "Javanese music",
+        "Leo Kristi",
+        "Music of <B>indonesia</B>",
+        "Nusantara music",
+        "Qasidah modern",
+        "Traditional <B>Indonesian</B> musical instruments"
+      ],
+      "comment": [
+        " thousands of <B>Indonesian</B> islands having its own cultural and artistic history and character. This"
+      ],
+      "label": [
+        "Music of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_music"
+      ]
+    },
+    {
+      "score": [
+        "1492.5865"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Languages_of_Indonesia"
+      ],
+      "redirectlabel": [
+        "Indigenous languages of <B>Indonesia</B>",
+        "<B>Indonesian</B> English",
+        "Language policy in <B>Indonesia</B>",
+        "Languages in <B>Indonesia</B>",
+        "List of languages of <B>Indonesia</B>",
+        "Native <B>Indonesian</B> languages",
+        "Sign languages of <B>Indonesia</B>"
+      ],
+      "comment": [
+        " <B>Indonesia</B>. The official language is <B>Indonesian</B> (locally known as bahasa <B>Indonesia</B>), a standardised form"
+      ],
+      "label": [
+        "Languages of <B>Indonesia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Languages_of_Indonesia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesia_culture-related_lists",
+        "http://dbpedia.org/resource/Category:Languages_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Lists_of_languages_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1472.319"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–12_Indonesian_Premier_Division"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Indonesian</B> Premier Division",
+        "2011-12 Liga <B>Indonesia</B> Premier Division",
+        "2011-12 Liga <B>Indonesia</B> Premier Division (LI)",
+        "2011-12 Liga <B>Indonesia</B> Premier Division (LPIS)",
+        "2011-12 Liga <B>Indonesia</B> Premier Division Group 1",
+        "2011-12 Liga <B>Indonesia</B> Premier Division Group 2",
+        "2011-12 liga <B>Indonesia</B> Premier Division Group 1",
+        "2011-12 liga <B>Indonesia</B> Premier Division Group 2",
+        "2011-12 liga <B>Indonesia</B> Premier Division Group 3",
+        "2011-12 liga <B>Indonesia</B> Premier Division Second Round",
+        "2011–12 Liga <B>Indonesia</B> Premier Division (LI)",
+        "2011–12 Liga <B>Indonesia</B> Premier Division (LPIS)",
+        "2011–12 Liga <B>Indonesia</B> Premier Division Group 1",
+        "2011–12 Liga <B>Indonesia</B> Premier Division Group 2",
+        "2011–12 liga <B>Indonesia</B> Premier Division Group 1",
+        "2011–12 liga <B>Indonesia</B> Premier Division Group 2",
+        "2011–12 liga <B>Indonesia</B> Premier Division Group 3",
+        "2011–12 liga <B>Indonesia</B> Premier Division Second Round"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2011–12 Liga <B>Indonesia</B> Premier Division season is the seventeenth edition of <B>Indonesian</B> Premier"
+      ],
+      "label": [
+        "2011–12 <B>Indonesian</B> Premier Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–12_Indonesian_Premier_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011–12_Liga_Indonesia_Premier_Division",
+        "http://dbpedia.org/resource/Category:2011–12_in_Asian_second_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2011–12_in_Indonesian_football_leagues",
+        "http://dbpedia.org/resource/Category:Indonesian_Premier_Division_seasons",
+        "http://dbpedia.org/resource/Category:Second_tier_Indonesian_football_league_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1472.0903"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/NET_(Indonesian_TV_network)"
+      ],
+      "redirectlabel": [
+        "List Of NET. Shows",
+        "NET.",
+        "NET (<B>Indonesian</B> TV channel)",
+        "Net.",
+        "Net (<B>Indonesian</B> TV channel)",
+        "Net Mediatama"
+      ],
+      "typeName": [
+        "Organisation",
+        "BroadcastNetwork",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "NET (News and Entertainment Television) or NET. is an <B>Indonesian</B> free-to-air televisionchannel that"
+      ],
+      "label": [
+        "NET (<B>Indonesian</B> TV network)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/NET_(Indonesian_TV_network)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BroadcastNetwork",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mass_media_in_Jakarta",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_2013",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1458.9081"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab_Indonesians"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Indonesian</B>",
+        "Arab-<B>Indonesians</B>",
+        "Arab <B>Indonesian</B>",
+        "Arab <B>Indonesian</B> music",
+        "Arabs in <B>Indonesia</B>",
+        "History of the Arabs in <B>Indonesia</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " known as Jama'ah, are <B>Indonesian</B> citizens primarily of mixed Arab — mainly Hadhrami — and"
+      ],
+      "label": [
+        "Arab <B>Indonesians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab_Indonesians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_diaspora_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Hadhrami_people",
+        "http://dbpedia.org/resource/Category:Immigration_to_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian_people_of_Arab_descent",
+        "http://dbpedia.org/resource/Category:Indonesian_people_of_Yemeni_descent",
+        "http://dbpedia.org/resource/Category:Lists_of_Indonesian_people"
+      ]
+    },
+    {
+      "score": [
+        "1452.023"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Indonesian_monarchies"
+      ],
+      "redirectlabel": [
+        "<B>Indonesian</B> Monarchies",
+        "<B>Indonesian</B> monarchies",
+        "List of monarchies in <B>Indonesia</B>",
+        "List of monarchies in Nusantara",
+        "List of monarchies of Nusantara"
+      ],
+      "comment": [
+        "This is a list of monarchies, past and present, in <B>Indonesia</B>."
+      ],
+      "label": [
+        "List of <B>Indonesian</B> monarchies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Indonesian_monarchies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesia_history-related_lists",
+        "http://dbpedia.org/resource/Category:Indonesian_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchies",
+        "http://dbpedia.org/resource/Category:Precolonial_states_of_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1433.3104"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_passport"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> passport",
+        "<B>Indonesian</B> Passport"
+      ],
+      "comment": [
+        "<B>Indonesian</B> passport is a travel document issued by the Government of <B>Indonesia</B> to <B>Indonesian</B>"
+      ],
+      "label": [
+        "<B>Indonesian</B> passport"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_passport"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Law_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Passports_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1429.6533"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Wikipedia"
+      ],
+      "redirectlabel": [
+        "Id.wikipedia.org",
+        "Idwiki",
+        "<B>Indonesian</B> wikipedia",
+        "Wikipedia bahasa <B>Indonesia</B>, ensiklopedia bebas"
+      ],
+      "typeName": [
+        "Website",
+        "Work"
+      ],
+      "comment": [
+        "The <B>Indonesian</B> Wikipedia (<B>Indonesian</B>: Wikipedia bahasa <B>Indonesia</B>) is the edition of Wikipedia in"
+      ],
+      "label": [
+        "<B>Indonesian</B> Wikipedia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Wikipedia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Website",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian-language_encyclopedias",
+        "http://dbpedia.org/resource/Category:Indonesian_encyclopedias",
+        "http://dbpedia.org/resource/Category:Internet_properties_established_in_2003",
+        "http://dbpedia.org/resource/Category:Wikipedias_by_language"
+      ]
+    },
+    {
+      "score": [
+        "1424.4288"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1997_Indonesian_legislative_election"
+      ],
+      "redirectlabel": [
+        "1997 <B>Indonesian</B> elections",
+        "1998 <B>Indonesian</B> presidential election",
+        "<B>Indonesian</B> legislative election, 1997",
+        "<B>Indonesian</B> presidential election, 1998"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Legislative elections were held in <B>Indonesia</B> on 29 May 1997. There were actually three elections in"
+      ],
+      "label": [
+        "1997 <B>Indonesian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1997_Indonesian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1997_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Indonesia",
+        "http://dbpedia.org/resource/Category:New_Order_(Indonesia)",
+        "http://dbpedia.org/resource/Category:People's_Consultative_Assembly"
+      ]
+    },
+    {
+      "score": [
+        "1423.2449"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_painting"
+      ],
+      "redirectlabel": [
+        "Modern <B>Indonesian</B> painting",
+        "Painting in <B>Indonesia</B>",
+        "Prehistoric <B>Indonesian</B> painting"
+      ],
+      "label": [
+        "<B>Indonesian</B> painting"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_painting"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_culture"
+      ]
+    },
+    {
+      "score": [
+        "1421.2573"
+      ],
+      "refCount": [
+        "184"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Aceh"
+      ],
+      "redirectlabel": [
+        "ACEH",
+        "Aceh, <B>Indonesia</B>",
+        "Aceh 2005 earthquake",
+        "Aceh Darussalam",
+        "Aceh Province",
+        "Aceh Rebellion",
+        "Aceh Tourism",
+        "Ache Province",
+        "Acheen",
+        "Acheh",
+        "Achinese Rebellion",
+        "Achinese rebellion",
+        "Acèh",
+        "Atjeh",
+        "Daerah Istimewa Aceh",
+        "History of Aceh",
+        "Human rights violations in Aceh",
+        "ID-AC",
+        "<B>Indonesian</B> Colonial War in Aceh",
+        "Nanggroe Aceh Darussalam",
+        "Nanggroee Aceh Darussalam",
+        "Nanggröe Aceh Darussalam",
+        "Pre-Islamic Aceh",
+        "Prehistory of Aceh",
+        "Special Administrative Region of Aceh",
+        "Special Region of Nanggroe Aceh Darussalam"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " religiously conservative territory and the only <B>Indonesian</B> province practicing Sharia law officially"
+      ],
+      "label": [
+        "Aceh"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Aceh"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Aceh",
+        "http://dbpedia.org/resource/Category:Andaman_Sea",
+        "http://dbpedia.org/resource/Category:Autonomous_provinces",
+        "http://dbpedia.org/resource/Category:Maritime_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Provinces_of_Indonesia",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1956"
+      ]
+    },
+    {
+      "score": [
+        "1420.9918"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesian_Movie_Actors_Awards"
+      ],
+      "redirectlabel": [
+        "<B>Indonesia</B> Movie Actor Awards",
+        "<B>Indonesian</B> Movie Actor Awards",
+        "<B>Indonesian</B> Movie Award",
+        "<B>Indonesian</B> Movie Awards"
+      ],
+      "label": [
+        "<B>Indonesian</B> Movie Actors Awards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesian_Movie_Actors_Awards"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Annual_events_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Awards_established_in_2007",
+        "http://dbpedia.org/resource/Category:Indonesian_Movie_Actor_Awards",
+        "http://dbpedia.org/resource/Category:Indonesian_film_awards",
+        "http://dbpedia.org/resource/Category:RCTI_original_programming",
+        "http://dbpedia.org/resource/Category:Recurring_events_established_in_2007"
+      ]
+    },
+    {
+      "score": [
+        "1396.8168"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Legislation_on_Chinese_Indonesians"
+      ],
+      "redirectlabel": [
+        "127/U/Kep/12/1966",
+        "Anti-Chinese legislation in <B>Indonesia</B>",
+        "Chinese Problem",
+        "Discriminatory law against <B>Indonesian</B> Chinese",
+        "<B>Indonesian</B> law concerning Chinese-<B>Indonesian</B>",
+        "<B>Indonesian</B> laws affecting Chinese <B>Indonesians</B>",
+        "<B>Indonesian</B> laws concerning Chinese-<B>Indonesians</B>",
+        "PP 10/1959",
+        "Presidential Instruction 14",
+        "Regulation of Chinese <B>Indonesians</B>"
+      ],
+      "comment": [
+        "<B>Indonesian</B> law affecting Chinese-<B>Indonesians</B> were conducted through a series of laws, directives"
+      ],
+      "label": [
+        "Legislation on Chinese <B>Indonesians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Legislation_on_Chinese_Indonesians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Chinese_legislation",
+        "http://dbpedia.org/resource/Category:Anti-Chinese_sentiment_in_Indonesia",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora",
+        "http://dbpedia.org/resource/Category:Cultural_assimilation",
+        "http://dbpedia.org/resource/Category:Indonesian_people_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:Law_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Linguistic_discrimination"
+      ]
+    },
+    {
+      "score": [
+        "1390.2311"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Portuguese_Empire_in_the_Indonesian_Archipelago"
+      ],
+      "redirectlabel": [
+        "Portuguese Empire in the <B>Indonesian</B> archipelago",
+        "Portuguese Insulindia",
+        "Portuguese colonialism in <B>Indonesia</B>",
+        "Portuguese colonialism in <B>Indonesian</B> history",
+        "Portuguese colonialism in Nusantara",
+        "Portuguese colonialism in the East Indies",
+        "Portuguese colonization in <B>Indonesia</B>",
+        "The Portuguese in <B>Indonesia</B>",
+        "The Portuguese in <B>Indonesia</B> (1512-1850)",
+        "The Portuguese in <B>Indonesia</B> (1512 to 1850)",
+        "The Portuguese in <B>Indonesia</B> (1512–1850)"
+      ],
+      "label": [
+        "Portuguese Empire in the <B>Indonesian</B> Archipelago"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Portuguese_Empire_in_the_Indonesian_Archipelago"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1522_establishments_in_the_Portuguese_Empire",
+        "http://dbpedia.org/resource/Category:Portuguese_colonialism_in_Indonesia"
+      ]
+    },
+    {
+      "score": [
+        "1383.0349"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/SOS_(Indonesian_group)"
+      ],
+      "redirectlabel": [
+        "S.O.S (<B>Indonesian</B> girl group)",
+        "S.O.S (band)",
+        "S.O.S (musical group)",
+        "SOS (<B>Indonesian</B> band)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "S.O.S (abbreviation of Sensation of Stage) is an <B>Indonesian</B> girl group whose members composed of"
+      ],
+      "label": [
+        "SOS (<B>Indonesian</B> group)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/SOS_(Indonesian_group)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_establishments_in_Indonesia",
+        "http://dbpedia.org/resource/Category:English-language_singers_from_Indonesia",
+        "http://dbpedia.org/resource/Category:Indonesian-language_singers",
+        "http://dbpedia.org/resource/Category:Indonesian_girl_groups",
+        "http://dbpedia.org/resource/Category:K-pop_music_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_2012"
+      ]
+    },
+    {
+      "score": [
+        "1379.5365"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Indonesian_National_Revolution"
+      ],
+      "redirectlabel": [
+        "Nasionalisme <B>indonesia</B>",
+        "Timeline of the <B>Indonesian</B> National Revolution (1945-1950)",
+        "Timeline of the <B>Indonesian</B> National Revolution (1945–1950)"
+      ],
+      "comment": [
+        "This is the Timeline of <B>Indonesian</B> National Revolution (1945–1950)"
+      ],
+      "label": [
+        "Timeline of the <B>Indonesian</B> National Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Indonesian_National_Revolution"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indonesian_National_Revolution",
+        "http://dbpedia.org/resource/Category:Timelines_of_military_conflicts_since_1945"
+      ]
+    }
+  ]
+}

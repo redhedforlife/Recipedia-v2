@@ -1,0 +1,4121 @@
+{
+  "docs": [
+    {
+      "score": [
+        "7288.103"
+      ],
+      "refCount": [
+        "1324"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>CAMBODIA</B>",
+        "Cambodge",
+        "<B>Cambodian</B> Kingdom",
+        "<B>Cambodja</B>",
+        "<B>Cambonia</B>",
+        "<B>Camodia</B>",
+        "Campuchea",
+        "Campuchia",
+        "Conservation in <B>Cambodia</B>",
+        "Environment of <B>Cambodia</B>",
+        "Environmental issues in <B>Cambodia</B>",
+        "Etymology of <B>Cambodia</B>",
+        "Global warming in <B>Cambodia</B>",
+        "ISO 3166-1:KH",
+        "Kambodia",
+        "Kampuchea",
+        "Kingdom of <B>Cambodia</B>",
+        "Kingdom of <B>Cambodia</B> (1993-present)",
+        "Kingdom of Kampuchea",
+        "Kingdom of Kâmpŭchea",
+        "Kâmpuchea",
+        "Kâmpŭchea",
+        "Political culture of <B>Cambodia</B>",
+        "Preah Reach Ana Pak",
+        "Preah Reach Ana Pak Kampuchea",
+        "Preah Reacheanachakr Kampuchea",
+        "Preahreacheanachakr Kampuchea",
+        "Preăh Réachéa Nachâk Kâmpŭchea",
+        "Preăh Réachéanachâk Kâmpŭchéa",
+        "Preăh Réachéanachâkr Kâmpŭchea",
+        "Second Kingdom of <B>Cambodia</B>",
+        "Srok khmer",
+        "កម្ពុជា",
+        "ព្រះរាជាណាចក្រកម្ពុជា"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Cambodia</B> ( (); also Kampuchea ; Khmer: កម្ពុជា  [kam.pu.ciə]; French: Cambodge), officially the"
+      ],
+      "label": [
+        "<B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1953_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1993_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:802_establishments",
+        "http://dbpedia.org/resource/Category:Cambodia",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Former_French_colonies",
+        "http://dbpedia.org/resource/Category:French-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Kingdoms",
+        "http://dbpedia.org/resource/Category:Least_developed_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_ASEAN",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_internationale_de_la_Francophonie",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1953",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1993",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_the_800s"
+      ]
+    },
+    {
+      "score": [
+        "5397.903"
+      ],
+      "refCount": [
+        "81"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B> Civil War",
+        "<B>Cambodia</B> civil war",
+        "<B>Cambodian</B> civil war",
+        "Civil War in <B>Cambodia</B>",
+        "Fall of Nom Pen",
+        "Fall of Pnom-Penh",
+        "Kampuchean Civil War",
+        "Use of children in the <B>Cambodian</B> Civil War",
+        "War crimes in the <B>Cambodian</B> Civil War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> Civil War (Khmer: សង្គ្រាមស៊ីវិលកម្ពុជា) was a civil war in <B>Cambodia</B> fought between"
+      ],
+      "label": [
+        "<B>Cambodian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1967_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1970s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1975_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Cambodian_Civil_War",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Communist_revolutions",
+        "http://dbpedia.org/resource/Category:Military_history_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Revolution-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Vietnam_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Vietnam"
+      ]
+    },
+    {
+      "score": [
+        "5297.9365"
+      ],
+      "refCount": [
+        "107"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_People's_Party"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> People's Revolutionary Party",
+        "<B>Cambodian</B> People’s Party",
+        "Central Committee of the Kampuchean People's Revolutionary Party",
+        "General Secretary of the Kampuchean People's Revolutionary Party",
+        "Kampuchean People's Revolutionary Party",
+        "Khmer People's Revolutionary Party",
+        "PRPK",
+        "People's Revolutionary Party of Kampuchea",
+        "គណបក្សប្រជាជនកម្ពុជា"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> People's Party (CPP; Khmer: គណបក្សប្រជាជនកម្ពុជា, Kanakpak Pracheachon Kâmpuchéa"
+      ],
+      "label": [
+        "<B>Cambodian</B> People's Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_People's_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Formerly_ruling_communist_parties",
+        "http://dbpedia.org/resource/Category:Hun_Sen",
+        "http://dbpedia.org/resource/Category:National_conservative_parties",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Organizations_of_the_Third_Indochina_War",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:People's_Republic_of_Kampuchea",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1951",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "5037.0684"
+      ],
+      "refCount": [
+        "197"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodia_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> football team",
+        "<B>Cambodian</B> national football team",
+        "History of the <B>Cambodia</B> national football team",
+        "Khmer Republic national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Cambodia</B> national football team (Khmer: ក្រុមបាល់ទាត់ជម្រើសជាតិកម្ពុជា), nicknamed the Angkor"
+      ],
+      "label": [
+        "<B>Cambodia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Cambodia_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "4433.3574"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_cuisine"
+      ],
+      "redirectlabel": [
+        "American <B>Cambodian</B> cuisine",
+        "<B>Cambodian</B> American cuisine",
+        "<B>Cambodian</B> beverages",
+        "<B>Cambodian</B> curry",
+        "<B>Cambodian</B> dumplings",
+        "<B>Cambodian</B> food",
+        "<B>Cambodian</B> noodle soups",
+        "<B>Cambodian</B> noodles",
+        "<B>Cambodian</B> pastries",
+        "<B>Cambodian</B> salad",
+        "<B>Cambodian</B> salads",
+        "<B>Cambodian</B> stir-fry",
+        "Chinese <B>Cambodian</B> cuisine",
+        "Cuisine of <B>Cambodia</B>",
+        "Cuisine of Kampuchea",
+        "Cuisine of Kâmpŭchea",
+        "Food of <B>Cambodia</B>",
+        "History of <B>Cambodian</B> cuisine",
+        "Kari sach moan",
+        "Khmer cuisine",
+        "Khmer food",
+        "Khmer foods",
+        "Khmerfood",
+        "New <B>Cambodian</B> cuisine",
+        "Samlar kari",
+        "Samlars"
+      ],
+      "comment": [
+        "<B>Cambodian</B> cuisine or Khmer cuisine (Khmer: សិល្បៈខាងធ្វើម្ហូបខ្មែរ), is the traditional cuisine of the people of <B>Cambodia</B>."
+      ],
+      "label": [
+        "<B>Cambodian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_cuisine",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "3985.3337"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian–Vietnamese_War"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B>-Vietnamese War",
+        "<B>Cambodian</B>-Vietnamese war",
+        "<B>Cambodian</B> Vietnamese War",
+        "Chiến dịch phản công biên giới Tây - Nam Việt Nam",
+        "Environmental impacts of the <B>Cambodian</B>-Vietnamese War",
+        "Environmental impacts of the <B>Cambodian</B>–Vietnamese War",
+        "Khmer Rouge-Vietnamese War",
+        "Khmer Rouge insurgency",
+        "Khmer Rouge–Vietnamese War",
+        "Vietnam-<B>Cambodia</B> War",
+        "Vietnamese-<B>Cambodian</B> War",
+        "Vietnamese Invasion of <B>Cambodia</B>",
+        "Vietnamese invasion of <B>Cambodia</B>",
+        "Vietnamese invasion of Kampuchea"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Phản công Biên giới Tây-Nam), and by <B>Cambodian</B> nationalists as Vietnamese invasion of <B>Cambodia</B>"
+      ],
+      "label": [
+        "<B>Cambodian</B>–Vietnamese War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian–Vietnamese_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1970s_in_Vietnam",
+        "http://dbpedia.org/resource/Category:1977_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1978_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1978_in_Vietnam",
+        "http://dbpedia.org/resource/Category:1979_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1979_in_Vietnam",
+        "http://dbpedia.org/resource/Category:1980s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1980s_in_Vietnam",
+        "http://dbpedia.org/resource/Category:1990s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1990s_in_Vietnam",
+        "http://dbpedia.org/resource/Category:1991_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Vietnam",
+        "http://dbpedia.org/resource/Category:Cambodia–Vietnam_relations",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1979",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1980",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1981",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1982",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1983",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1984",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1985",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1986",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1987",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1988",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1989",
+        "http://dbpedia.org/resource/Category:Democratic_Kampuchea",
+        "http://dbpedia.org/resource/Category:Indochina_Wars",
+        "http://dbpedia.org/resource/Category:Invasions_by_Vietnam",
+        "http://dbpedia.org/resource/Category:Invasions_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Khmer_Rouge",
+        "http://dbpedia.org/resource/Category:Military_history_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Vietnam",
+        "http://dbpedia.org/resource/Category:People's_Republic_of_Kampuchea",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Sino-Vietnamese_War",
+        "http://dbpedia.org/resource/Category:Third_Indochina_War",
+        "http://dbpedia.org/resource/Category:Vietnam_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Vietnam"
+      ]
+    },
+    {
+      "score": [
+        "3866.183"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian–Thai_border_dispute"
+      ],
+      "redirectlabel": [
+        "2008 <B>Cambodian</B>-Thai stand-off",
+        "2008 <B>Cambodian</B>–Thai stand-off",
+        "<B>Cambodian</B>-Thai border dispute",
+        "<B>Cambodian</B>-Thai border stand-off",
+        "<B>Cambodian</B>–Thai border stand-off",
+        "<B>Cambodian</B>–Thai border stand–off",
+        "Thai-<B>Cambodian</B> border dispute",
+        "Thai–<B>Cambodian</B> border dispute"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B>–Thai border dispute began in June 2008 as the latest round of a century-long dispute"
+      ],
+      "label": [
+        "<B>Cambodian</B>–Thai border dispute"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian–Thai_border_dispute"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_in_Cambodia",
+        "http://dbpedia.org/resource/Category:2008_in_Thailand",
+        "http://dbpedia.org/resource/Category:Cambodia–Thailand_border",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2008",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2009",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2010",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2011",
+        "http://dbpedia.org/resource/Category:Controversies_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Controversies_in_Thailand",
+        "http://dbpedia.org/resource/Category:Dângrêk_Mountains",
+        "http://dbpedia.org/resource/Category:Former_disputed_land_areas",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Thailand"
+      ]
+    },
+    {
+      "score": [
+        "3331.9343"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Cambodian_Army"
+      ],
+      "redirectlabel": [
+        "Army of <B>Cambodia</B>",
+        "<B>Cambodia</B> Army",
+        "<B>Cambodian</B> Army",
+        "<B>Cambodian</B> army",
+        "Royal <B>Cambodian</B> Special Forces"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Cambodian</B> Army (Khmer: កងទ័ពជើងគោក, Kangtorp Cheung Kork) is a part of the Royal"
+      ],
+      "label": [
+        "Royal <B>Cambodian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Cambodian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armies_by_country",
+        "http://dbpedia.org/resource/Category:Military_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1953"
+      ]
+    },
+    {
+      "score": [
+        "3136.3372"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Cambodia</B>",
+        "Arts and crafts of <B>Cambodia</B>",
+        "Blacksmiths of <B>Cambodia</B>",
+        "<B>Cambodian</B> contemporary art",
+        "<B>Cambodian</B> lacquerware",
+        "<B>Cambodian</B> modern art",
+        "<B>Cambodian</B> murals",
+        "<B>Cambodian</B> pottery",
+        "<B>Cambodian</B> stone carving",
+        "<B>Cambodian</B> textiles",
+        "<B>Cambodian</B> visual arts",
+        "Khmer art",
+        "Silk weaving in <B>Cambodia</B>",
+        "Visual arts of <B>Cambodia</B>"
+      ],
+      "comment": [
+        "The history of <B>Cambodian</B> art stretches back centuries to ancient times, but the most famous period"
+      ],
+      "label": [
+        "<B>Cambodian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Cambodian_art",
+        "http://dbpedia.org/resource/Category:Cambodian_culture"
+      ]
+    },
+    {
+      "score": [
+        "2807.5957"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B>-American",
+        "<B>Cambodian</B>-Americans",
+        "<B>Cambodian</B> American",
+        "<B>Cambodian</B> Americans in Los Angeles",
+        "<B>Cambodian</B> Association of Illinois",
+        "<B>Cambodian</B> association of illinois",
+        "<B>Cambodian</B> refugees in the United States",
+        "Kampuchean American",
+        "Kampuchean Americans",
+        "Khmer American",
+        "Khmer Americans",
+        "Khmerican"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Cambodian</B> Americans or Khmer Americans (Khmer: ជនជាតិខ្មែរអាមេរិកាំង) are Americans of <B>Cambodian</B>"
+      ],
+      "label": [
+        "<B>Cambodian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Cambodian_descent",
+        "http://dbpedia.org/resource/Category:Asian-American_society",
+        "http://dbpedia.org/resource/Category:Cambodian_American",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_American"
+      ]
+    },
+    {
+      "score": [
+        "2729.371"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_riel"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Reil",
+        "<B>Cambodian</B> Riel",
+        "<B>Cambodian</B> kak",
+        "ISO 4217:KHR",
+        "Khmer riel",
+        "Riel (currency)",
+        "៛"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The riel (; Khmer: រៀល; sign: ៛; code: KHR) is the currency of <B>Cambodia</B>. There have been two"
+      ],
+      "label": [
+        "<B>Cambodian</B> riel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_riel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Circulating_currencies",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1953",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1980",
+        "http://dbpedia.org/resource/Category:Currencies_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Economy_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "2652.528"
+      ],
+      "refCount": [
+        "86"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Khmer_language"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Language",
+        "<B>Cambodian</B> language",
+        "<B>Cambodian</B> phonology",
+        "Central Khmer",
+        "Central Khmer language",
+        "History of the Khmer language",
+        "ISO 639:khm",
+        "ISO 639:km",
+        "Khmer (language)",
+        "Khmer Language",
+        "Khmer dialects",
+        "Khmer phonology",
+        "Km (language)",
+        "ភាសាខ្មែរ"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "]) is the language of the Khmer people and the official language of <B>Cambodia</B>. With approximately 16"
+      ],
+      "label": [
+        "Khmer language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Khmer_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Analytic_languages",
+        "http://dbpedia.org/resource/Category:Isolating_languages",
+        "http://dbpedia.org/resource/Category:Khmer_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_9th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Languages_of_Thailand",
+        "http://dbpedia.org/resource/Category:Languages_of_Vietnam",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages"
+      ]
+    },
+    {
+      "score": [
+        "2417.3481"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_campaign"
+      ],
+      "redirectlabel": [
+        "American Invasion of <B>Cambodia</B>",
+        "<B>Cambodia</B> campaign",
+        "<B>Cambodian</B> Campaign",
+        "<B>Cambodian</B> Incursion",
+        "Escape of the Provisional Revolutionary Government",
+        "The <B>Cambodian</B> Campaign",
+        "The <B>Cambodian</B> Incursion",
+        "U.S. invasion of <B>Cambodia</B>",
+        "U. S. invasion of <B>Cambodia</B>",
+        "US invasion of <B>Cambodia</B>",
+        "United States invasion of <B>Cambodia</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> campaign (also known as the <B>Cambodian</B> incursion and the <B>Cambodian</B> invasion) was a"
+      ],
+      "label": [
+        "<B>Cambodian</B> campaign"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_campaign"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_in_Cambodia",
+        "http://dbpedia.org/resource/Category:April_1970_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_the_Vietnam_War_in_1970",
+        "http://dbpedia.org/resource/Category:Cambodia–United_States_relations",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1970",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_States",
+        "http://dbpedia.org/resource/Category:Invasions_of_Cambodia",
+        "http://dbpedia.org/resource/Category:July_1970_events_in_Asia",
+        "http://dbpedia.org/resource/Category:June_1970_events_in_Asia",
+        "http://dbpedia.org/resource/Category:May_1970_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2196.7366"
+      ],
+      "refCount": [
+        "83"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Defense_Ministry_FC"
+      ],
+      "redirectlabel": [
+        "2019-National Defense Ministry FC",
+        "National Defense Ministry",
+        "Royal <B>Cambodian</B> Armed Forces FC",
+        "Tiffy Army FC"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Royal <B>Cambodian</B> Armed Forces FA, (ក្លឹបបាល់ទាត់ ក្រសួងការពារជាតិ) is a football club in Phnom Penh"
+      ],
+      "label": [
+        "National Defense Ministry FC"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Defense_Ministry_FC"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_association_football_clubs"
+      ]
+    },
+    {
+      "score": [
+        "2154.525"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Cambodian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B>/Military",
+        "<B>Cambodian</B> Armed Forces",
+        "<B>Cambodian</B> Military",
+        "Forces Armées Royales Cambodgiennes",
+        "Forces armées royales cambodgiennes",
+        "Forces armées royales khmères",
+        "Military of <B>Cambodia</B>",
+        "Royal Khmer Armed Forces"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Cambodian</B> Armed Forces (Khmer: កងយុទ្ធពលខេមរភូមិន្ទ, translit. KangYuthipol Khemarak"
+      ],
+      "label": [
+        "Royal <B>Cambodian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Cambodian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_Cold_War"
+      ]
+    },
+    {
+      "score": [
+        "1906.2114"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_rebellion_(1811–1812)"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Rebellion (1811-12)",
+        "<B>Cambodian</B> Rebellion (1811-1812)",
+        "<B>Cambodian</B> Rebellion (1811–12)",
+        "<B>Cambodian</B> Rebellion (1811–1812)",
+        "<B>Cambodian</B> rebellion (1811-12)",
+        "<B>Cambodian</B> rebellion (1811-1812)",
+        "<B>Cambodian</B> rebellion (1811–12)"
+      ],
+      "label": [
+        "<B>Cambodian</B> rebellion (1811–1812)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_rebellion_(1811–1812)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1810s_in_Siam",
+        "http://dbpedia.org/resource/Category:1811_in_Asia",
+        "http://dbpedia.org/resource/Category:1811_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1811_in_Siam",
+        "http://dbpedia.org/resource/Category:1811_in_Vietnam",
+        "http://dbpedia.org/resource/Category:1812_in_Asia",
+        "http://dbpedia.org/resource/Category:1812_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1812_in_Siam",
+        "http://dbpedia.org/resource/Category:1812_in_Vietnam",
+        "http://dbpedia.org/resource/Category:19th-century_rebellions",
+        "http://dbpedia.org/resource/Category:19th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:19th_century_in_Siam",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1811",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1812",
+        "http://dbpedia.org/resource/Category:Military_history_of_Nguyen_Vietnam",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Rattanakosin_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "1906.1707"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Khmer_Republic"
+      ],
+      "redirectlabel": [
+        "First <B>Cambodian</B> Republic"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " military-led republican government of <B>Cambodia</B> that was formally declared on 9 October 1970"
+      ],
+      "label": [
+        "Khmer Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Khmer_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1970s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1975_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Cambodian_Civil_War",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Cambodian_history",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Former_polities_of_the_Indochina_Wars",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:Khmer_Republic",
+        "http://dbpedia.org/resource/Category:Military_dictatorships",
+        "http://dbpedia.org/resource/Category:Republicanism_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Short-lived_governments_and_regimes",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1975",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1970"
+      ]
+    },
+    {
+      "score": [
+        "1857.9283"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "label": [
+        "<B>Cambodian</B> French (disambiguation)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_French_(disambiguation)"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_French_(disambiguation)"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B>-French",
+        "French-<B>Cambodian</B>",
+        "French-<B>Cambodians</B>",
+        "French <B>Cambodian</B>",
+        "French <B>Cambodians</B>"
+      ]
+    },
+    {
+      "score": [
+        "1839.9984"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_genocide"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Genocide",
+        "Dark ages of <B>cambodia</B>",
+        "Genocide & Crimes against humanity of the Khmer Rouge",
+        "Genocide in <B>Cambodia</B>",
+        "International support for the Khmer Rouge",
+        "Khmer Rouge Genocide",
+        "Khmer genocide",
+        "List of massacres in <B>Cambodia</B>"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> genocide (Khmer: ហាយនភាពខ្មែរ or ការប្រល័យពូជសាសន៍ខ្មែរ, French: Génocide <B>cambodgien</B>"
+      ],
+      "label": [
+        "<B>Cambodian</B> genocide"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_genocide"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1975_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1976_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1977_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1978_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1979_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th-century_famines",
+        "http://dbpedia.org/resource/Category:Anti-Chinese_violence_in_Asia",
+        "http://dbpedia.org/resource/Category:Anti-Vietnamese_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-intellectualism",
+        "http://dbpedia.org/resource/Category:Cambodian_genocide",
+        "http://dbpedia.org/resource/Category:Communist_terrorism",
+        "http://dbpedia.org/resource/Category:Cultural_genocide",
+        "http://dbpedia.org/resource/Category:Democratic_Kampuchea",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_in_Asia",
+        "http://dbpedia.org/resource/Category:Genocide_of_indigenous_peoples",
+        "http://dbpedia.org/resource/Category:Genocides_in_Asia",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Khmer_Rouge",
+        "http://dbpedia.org/resource/Category:Massacres_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Murder_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Persecution_of_Buddhists",
+        "http://dbpedia.org/resource/Category:Persecution_of_Christians",
+        "http://dbpedia.org/resource/Category:Persecution_of_Muslims",
+        "http://dbpedia.org/resource/Category:Persecution_of_intellectuals",
+        "http://dbpedia.org/resource/Category:Political_and_cultural_purges",
+        "http://dbpedia.org/resource/Category:Politicides",
+        "http://dbpedia.org/resource/Category:Religious_persecution_by_communists",
+        "http://dbpedia.org/resource/Category:War_crimes_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1789.9144"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013–2014_Cambodian_protests"
+      ],
+      "redirectlabel": [
+        "2013-14 <B>Cambodian</B> protests",
+        "2013-2014 <B>Cambodian</B> protests",
+        "2013 <B>Cambodian</B> protests",
+        "2013–14 <B>Cambodian</B> protests",
+        "<B>Cambodian</B> protests (2013-2014)",
+        "<B>Cambodian</B> protests (2013–2014)"
+      ],
+      "label": [
+        "2013–2014 <B>Cambodian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013–2014_Cambodian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_in_Cambodia",
+        "http://dbpedia.org/resource/Category:2013_protests",
+        "http://dbpedia.org/resource/Category:2014_in_Cambodia",
+        "http://dbpedia.org/resource/Category:2014_protests",
+        "http://dbpedia.org/resource/Category:Anti-Vietnamese_sentiment",
+        "http://dbpedia.org/resource/Category:Cambodian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Democracy_movements",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Political_movements_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Political_repression_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Protests_against_results_of_elections",
+        "http://dbpedia.org/resource/Category:Protests_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Shia_days_of_remembrance"
+      ]
+    },
+    {
+      "score": [
+        "1731.9489"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Democratic_Party_(Cambodia)"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Democratic Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "' International. It was the sole dominant party in <B>Cambodia</B> from 1946 until the creation of Sangkum in"
+      ],
+      "label": [
+        "Democratic Party (<B>Cambodia</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Democratic_Party_(Cambodia)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1957_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Cambodian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Independence_movements",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1957",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1946",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1720.9357"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Cambodian_provinces_by_Human_Development_Index"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> provinces by HDI",
+        "<B>Cambodian</B> provinces by Human Development Index",
+        "HDI of <B>Cambodian</B> provinces",
+        "HDI of provinces of <B>Cambodia</B>",
+        "Human Development Index of <B>Cambodian</B> provinces",
+        "Human Development Index of provinces of <B>Cambodia</B>",
+        "List of <B>Cambodian</B> provinces by HDI",
+        "List of provinces of <B>Cambodia</B> by HDI",
+        "List of provinces of <B>Cambodia</B> by Human Development Index",
+        "Provinces of <B>Cambodia</B> by HDI",
+        "Provinces of <B>Cambodia</B> by Human Development Index"
+      ],
+      "comment": [
+        "This is a list of <B>Cambodian</B> provinces (khaet) by Human Development Index as of 2017, including the"
+      ],
+      "label": [
+        "List of <B>Cambodian</B> provinces by Human Development Index"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Cambodian_provinces_by_Human_Development_Index"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodia_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Economy_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Provinces_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1713.8165"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Deportation_of_Cambodian_immigrants_from_the_United_States"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> American Repatriation",
+        "Deportation of <B>Cambodian</B>-Americans from the United States",
+        "Deportation of <B>Cambodian</B> Americans",
+        "Deportation of <B>Cambodian</B> Americans from the United States",
+        "Deportation of <B>Cambodian</B> refugees from the United States",
+        "Deportation of <B>Cambodians</B> from the United States",
+        "Deportation of <B>cambodian</B> americans",
+        "Khmer exiled American",
+        "Khmer exiled americans",
+        "Tuy Sobil"
+      ],
+      "label": [
+        "Deportation of <B>Cambodian</B> immigrants from the United States"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Deportation_of_Cambodian_immigrants_from_the_United_States"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian-American_issues",
+        "http://dbpedia.org/resource/Category:Cambodian_American",
+        "http://dbpedia.org/resource/Category:Cambodia–United_States_relations",
+        "http://dbpedia.org/resource/Category:Deportation_from_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1701.8414"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Traditional_Cambodian_musical_instruments"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> instruments",
+        "<B>Cambodian</B> musical instruments",
+        "Khmer instruments",
+        "Khmer musical instruments",
+        "Traditional <B>Cambodian</B> instruments",
+        "Traditional Khmer instruments"
+      ],
+      "comment": [
+        "Traditional <B>Cambodian</B> musical instruments are the musical instruments used in the traditional and"
+      ],
+      "label": [
+        "Traditional <B>Cambodian</B> musical instruments"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Traditional_Cambodian_musical_instruments"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_musical_instruments"
+      ]
+    },
+    {
+      "score": [
+        "1698.51"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Cambodian_films"
+      ],
+      "redirectlabel": [
+        "List of <B>Cambodian</B> films 1980-1999",
+        "List of <B>Cambodian</B> films 1980-99",
+        "List of <B>Cambodian</B> films 1980–1999",
+        "List of <B>Cambodian</B> films 1980–99",
+        "List of Khmer-language films",
+        "List of Khmer film",
+        "List of Khmer films",
+        "List of khmer film"
+      ],
+      "comment": [
+        " countries but still retain <B>Cambodian</B> links. For an alphabetical listing, see Category:Cambodian"
+      ],
+      "label": [
+        "List of <B>Cambodian</B> films"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Cambodian_films"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Cambodian_films"
+      ]
+    },
+    {
+      "score": [
+        "1692.0428"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Police_Commissary_FC"
+      ],
+      "redirectlabel": [
+        "2019-National Police Commissary FC",
+        "Military Police (<B>Cambodian</B> football club)",
+        "National Police Commissary F.C."
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " football club from Sihanoukville, <B>Cambodia</B>. They won the <B>Cambodian</B> League in 2000."
+      ],
+      "label": [
+        "National Police Commissary FC"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Police_Commissary_FC"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Police_association_football_clubs",
+        "http://dbpedia.org/resource/Category:Sport_in_Phnom_Penh"
+      ]
+    },
+    {
+      "score": [
+        "1682.351"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_genocide_denial"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> genocide deniers",
+        "Denial of <B>Cambodian</B> genocide",
+        "Denial of the Khmer Rouge Killing Fields"
+      ],
+      "comment": [
+        " positive development for the people of <B>Cambodia</B> who had been severely impacted by the Vietnam War and the <B>Cambodian</B> Civil War."
+      ],
+      "label": [
+        "<B>Cambodian</B> genocide denial"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_genocide_denial"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_genocide",
+        "http://dbpedia.org/resource/Category:Genocide_denial",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Khmer_Rouge"
+      ]
+    },
+    {
+      "score": [
+        "1682.0144"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Siamese–Cambodian_War_(1591–1594)"
+      ],
+      "redirectlabel": [
+        "Ayutthayan-<B>Cambodian</B> War (1591-1594)",
+        "Ayutthayan–<B>Cambodian</B> War (1591–1594)",
+        "Siamese-<B>Cambodian</B> War (1591-1594)",
+        "Siamese-<B>Cambodian</B> War (1591-94)",
+        "Siamese–<B>Cambodian</B> War (1591–94)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Siamese–<B>Cambodian</B> War (1591–1594), was a military conflict fought between the Kingdom of"
+      ],
+      "label": [
+        "Siamese–<B>Cambodian</B> War (1591–1594)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Siamese–Cambodian_War_(1591–1594)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1591_in_Asia",
+        "http://dbpedia.org/resource/Category:1593_in_Asia",
+        "http://dbpedia.org/resource/Category:1594_in_Asia",
+        "http://dbpedia.org/resource/Category:16th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1591",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1593",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1594",
+        "http://dbpedia.org/resource/Category:Invasions_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Ayutthaya_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "1660.7778"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_logsucker"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Logsucker",
+        "False Siamese Algae Eater",
+        "Garra cambodgiensis",
+        "Garra spinosa",
+        "Garra taeniata",
+        "Garra taeniatops",
+        "Stonelapping Minnow",
+        "Stonelapping minnow"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> logsucker (Garra cambodgiensis), also known as stonelapping minnow or false Siamese"
+      ],
+      "label": [
+        "<B>Cambodian</B> logsucker"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_logsucker"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fish_described_in_1883",
+        "http://dbpedia.org/resource/Category:Fish_of_Thailand",
+        "http://dbpedia.org/resource/Category:Garra",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Gilbert_Tirant"
+      ]
+    },
+    {
+      "score": [
+        "1658.048"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Khmer_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> nationalism",
+        "Khmerism"
+      ],
+      "comment": [
+        " <B>Cambodia</B>, which asserts that <B>Cambodians</B> are a nation and that promotes the cultural unity of the <B>Cambodian</B> race."
+      ],
+      "label": [
+        "Khmer nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Khmer_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_nationalism",
+        "http://dbpedia.org/resource/Category:Political_history_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1642.8495"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodia_National_Rescue_Party"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> National Rescue Party",
+        "National Salvation Party (<B>Cambodia</B>)",
+        "គណបក្ស សង្គ្រោះជាតិ"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cambodia</B> National Rescue Party, commonly abbreviated as CNRP, (Khmer: គណបក្សសង្គ្រោះជាតិ, Khmer"
+      ],
+      "label": [
+        "<B>Cambodia</B> National Rescue Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodia_National_Rescue_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:2017_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Banned_political_parties",
+        "http://dbpedia.org/resource/Category:Cambodian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2017",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2012",
+        "http://dbpedia.org/resource/Category:Populist_parties"
+      ]
+    },
+    {
+      "score": [
+        "1632.6002"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "2018 <B>Cambodia</B> general election",
+        "2018 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 2018",
+        "<B>Cambodian</B> parliamentary election, 2018",
+        "Next <B>Cambodian</B> general election"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on Sunday, 29 July 2018 to elect members of the sixth"
+      ],
+      "label": [
+        "2018 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2018_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:July_2018_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1622.0927"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Angkor_Tiger_FC"
+      ],
+      "redirectlabel": [
+        "2019 Angkor Tiger FC",
+        "Angkor Tiger AFC",
+        "<B>Cambodia</B> Tiger FC",
+        "<B>Cambodian</B> Tiger FC",
+        "TriAsia Phnom Penh FC",
+        "Tri Asia Phnom Penh FC"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Angkor Tiger Football Club is a football club in Siem Reap, <B>Cambodia</B>. It plays in the <B>Cambodian</B>"
+      ],
+      "label": [
+        "Angkor Tiger FC"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Angkor_Tiger_FC"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Angkor_Tiger_FC",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1543.3442"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "2013 <B>Cambodian</B> elections",
+        "2013 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 2013",
+        "<B>Cambodian</B> parliamentary election, 2013"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ". Polling precincts opened 7:00 a.m. and closed at 3:00 p.m. The <B>Cambodian</B> Minister of Information, Khieu"
+      ],
+      "label": [
+        "2013 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2013_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1516.606"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Khmer_people"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> people",
+        "<B>Cambodians</B>",
+        "Genetic history of <B>Cambodia</B>",
+        "Genetic studies on Khmer people",
+        "Kampuchean",
+        "Khmer (ethnic group)",
+        "Khmer People",
+        "Khmers",
+        "People of <B>Cambodia</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ":  [kʰmɛr]) are a Southeast Asian ethnic group native to <B>Cambodia</B>, accounting for over 97% of the"
+      ],
+      "label": [
+        "Khmer people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Khmer_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Khmer_people"
+      ]
+    },
+    {
+      "score": [
+        "1496.7465"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1993_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1993 <B>Cambodian</B> Constituent Assembly election",
+        "<B>Cambodian</B> Constituent Assembly election, 1993",
+        "<B>Cambodian</B> general election, 1993",
+        "<B>Cambodian</B> parliamentary election, 1993"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " remain the last elections won by a party other than the <B>Cambodian</B> People's Party, which began to dominate <B>Cambodian</B> politics from 1998."
+      ],
+      "label": [
+        "1993 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1993_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1993_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1495.0634"
+      ],
+      "refCount": [
+        "89"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Khmer_script"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> alphabet",
+        "<B>Cambodian</B> script",
+        "<B>Cambodian</B> writing",
+        "ISO 15924:Khmr",
+        "Khmer (script)",
+        "Khmer Script",
+        "Khmer alphabet",
+        "Khmer orthography",
+        "Khmer spelling",
+        "Khmr (script)",
+        "ក",
+        "ខ",
+        "គ",
+        "ឃ",
+        "ង",
+        "ច",
+        "ឆ",
+        "ជ",
+        "ឈ",
+        "ញ",
+        "ដ",
+        "ឋ",
+        "ឌ",
+        "ឍ",
+        "ណ",
+        "ត",
+        "ថ",
+        "ទ",
+        "ធ",
+        "ន",
+        "ប",
+        "ផ",
+        "ព",
+        "ភ",
+        "ម",
+        "យ",
+        "រ",
+        "ល",
+        "វ",
+        "ឝ",
+        "ឞ",
+        "ស",
+        "ហ",
+        "ឡ",
+        "អ",
+        "ឥ",
+        "ឦ",
+        "ឧ",
+        "ឩ",
+        "ឪ",
+        "ឫ",
+        "ឬ",
+        "ឭ",
+        "ឮ",
+        "ឯ",
+        "ឰ",
+        "ឱ",
+        "ឲ",
+        "ឳ",
+        "ា",
+        "ិ",
+        "ី",
+        "ឹ",
+        "ឺ",
+        "ុ",
+        "ូ",
+        "ួ",
+        "ើ",
+        "ឿ",
+        "ៀ",
+        "េ",
+        "ែ",
+        "ៃ",
+        "ោ",
+        "ៅ",
+        "ំ",
+        "ះ",
+        "ៈ",
+        "៉",
+        "៊",
+        "់",
+        "៌",
+        "៍",
+        "៎",
+        "៏",
+        "័",
+        "៑",
+        "្"
+      ],
+      "comment": [
+        " used to write the Khmer language (the official language of <B>Cambodia</B>). It is also used to write Pali in the Buddhist liturgy of <B>Cambodia</B> and Thailand."
+      ],
+      "label": [
+        "Khmer script"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Khmer_script"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Khmer_language",
+        "http://dbpedia.org/resource/Category:Khmer_script",
+        "http://dbpedia.org/resource/Category:Writing_systems_of_Asia",
+        "http://dbpedia.org/resource/Category:Writing_systems_without_word_boundaries"
+      ]
+    },
+    {
+      "score": [
+        "1491.4373"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1958_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1958 <B>Cambodian</B> legislative election",
+        "1958 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 1958",
+        "<B>Cambodian</B> parliamentary election, 1958"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 23 March 1958. The Sangkum party received all but 409 of"
+      ],
+      "label": [
+        "1958 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1958_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1958_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1958_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1463.4639"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "2003 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 2003",
+        "<B>Cambodian</B> parliamentary election, 2003",
+        "Chhan Saphan"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ". The elections were won by the ruling <B>Cambodian</B> People's Party, which won a majority of 73 seats in"
+      ],
+      "label": [
+        "2003 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2003_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Parliament_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1442.9271"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Killing_Fields"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Holocaust",
+        "<B>Cambodian</B> Killing Fields",
+        "<B>Cambodian</B> democide",
+        "<B>Cambodian</B> holocaust",
+        "Democratic Kampuchea and the <B>Cambodian</B> genocide",
+        "Genosuicide",
+        "Khmer Rouge Killing Fields",
+        "Killing Fields (<B>Cambodia</B>)",
+        "Super Great Leap Forward",
+        "The <B>Cambodian</B> genocide",
+        "The killing fields"
+      ],
+      "comment": [
+        " after the end of the <B>Cambodian</B> Civil War (1970–1975). The mass killings are widely regarded as part"
+      ],
+      "label": [
+        "Killing Fields"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Killing_Fields"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_genocide",
+        "http://dbpedia.org/resource/Category:Ethnic_persecution",
+        "http://dbpedia.org/resource/Category:Genocide_of_indigenous_peoples",
+        "http://dbpedia.org/resource/Category:Killing_Fields",
+        "http://dbpedia.org/resource/Category:Persecution_of_intellectuals",
+        "http://dbpedia.org/resource/Category:Religious_persecution_by_communists"
+      ]
+    },
+    {
+      "score": [
+        "1430.7461"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1970_Cambodian_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1970 <B>Cambodian</B> coup",
+        "<B>Cambodian</B> coup d'état",
+        "<B>Cambodian</B> coup of 1970",
+        "Royal Government of the National Union of <B>Cambodia</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "label": [
+        "1970 <B>Cambodian</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1970_Cambodian_coup_d'état"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1970s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1970",
+        "http://dbpedia.org/resource/Category:Khmer_Republic",
+        "http://dbpedia.org/resource/Category:Republicanism_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1429.5426"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Cambodians"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Chinese",
+        "<B>Cambodian</B> Hokkien",
+        "Chinese <B>Cambodian</B>",
+        "Chinese Khmer",
+        "Chinese in <B>Cambodia</B>",
+        "Chinese people in <B>Cambodia</B>",
+        "History of the Chinese in <B>Cambodia</B>",
+        "Sino-Khmer",
+        "ខែ្មរ ចិនហុកគៀន",
+        "柬埔寨华人",
+        "柬埔寨福建人",
+        "柬埔寨華人"
+      ],
+      "label": [
+        "Chinese <B>Cambodians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Cambodians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_people_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1415.0353"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Australian",
+        "Khmer Australian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Cambodian</B> Australians (Khmer: ជនជាតិខ្មែរអូស្ត្រាលី, romanized: choncheate khmer australi) are"
+      ],
+      "label": [
+        "<B>Cambodian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Australian",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Cambodian_descent",
+        "http://dbpedia.org/resource/Category:Australia–Cambodia_relations",
+        "http://dbpedia.org/resource/Category:Cambodian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1387.49"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1997_Cambodian_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1997 <B>Cambodian</B> Coup",
+        "1997 <B>Cambodian</B> coup",
+        "1997 armed clashes in <B>Cambodia</B>",
+        "1997 clashes in <B>Cambodia</B>"
+      ],
+      "label": [
+        "1997 <B>Cambodian</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1997_Cambodian_coup_d'état"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1997_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1997",
+        "http://dbpedia.org/resource/Category:Hun_Sen",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1997",
+        "http://dbpedia.org/resource/Category:Massacres_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Political_history_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1371.9508"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Vietnamese_Cambodians"
+      ],
+      "redirectlabel": [
+        "History of Vietnamese <B>Cambodians</B>",
+        "Vietnamese-<B>Cambodian</B>",
+        "Vietnamese <B>Cambodian</B>",
+        "Vietnamese people in <B>Cambodia</B>",
+        "Vietnamese–<B>Cambodian</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Vietnamese <B>Cambodians</B> refer to ethnic Vietnamese living in <B>Cambodia</B>. According to the news said in"
+      ],
+      "label": [
+        "Vietnamese <B>Cambodians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Vietnamese_Cambodians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_people_of_Vietnamese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Vietnamese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Vietnamese_diaspora_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1366.7196"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_jungle_girl"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> jungle woman",
+        "Ro Cham H'pnhieng",
+        "Ro Cham H'pnhleng",
+        "Ro Cham Phoeung",
+        "Rocham Phoeung",
+        "Rochom P'ngieng"
+      ],
+      "comment": [
+        "The so-called <B>Cambodian</B> jungle girl is a Vietnamese woman who emerged from the jungle in Ratanakiri"
+      ],
+      "label": [
+        "<B>Cambodian</B> jungle girl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_jungle_girl"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_births",
+        "http://dbpedia.org/resource/Category:Cambodian_women",
+        "http://dbpedia.org/resource/Category:Feral_children",
+        "http://dbpedia.org/resource/Category:Living_people"
+      ]
+    },
+    {
+      "score": [
+        "1351.5397"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "2008 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 2008",
+        "<B>Cambodian</B> parliamentary election, 2008"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 27 July 2008. The result was a victory for the ruling <B>Cambodian</B> People's Party, which won 90 of the 123 seats."
+      ],
+      "label": [
+        "2008 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2008_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Parliament_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1345.0162"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1998_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1998 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 1998",
+        "<B>Cambodian</B> parliamentary election, 1998"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 26 July 1998. The result was a victory for the <B>Cambodian</B>"
+      ],
+      "label": [
+        "1998 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1998_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1998_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1343.6105"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012_Cambodian_Senate_election"
+      ],
+      "redirectlabel": [
+        "2012 <B>Cambodian</B> Senate elections",
+        "<B>Cambodian</B> Senate election, 2012",
+        "<B>Cambodian</B> Senate elections, 2012"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Senate being contested. The result was a victory for the ruling <B>Cambodian</B> People's Party, which won 46 of"
+      ],
+      "label": [
+        "2012 <B>Cambodian</B> Senate election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012_Cambodian_Senate_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2012_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1335.8066"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_tailorbird"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Tailorbird",
+        "Orthotomus Chaktomuk",
+        "Orthotomus chaktomuk"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> tailorbird (Orthotomus chaktomuk) is a species of bird endemic to <B>Cambodia</B>, likely"
+      ],
+      "label": [
+        "<B>Cambodian</B> tailorbird"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_tailorbird"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_2013",
+        "http://dbpedia.org/resource/Category:Birds_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Orthotomus"
+      ]
+    },
+    {
+      "score": [
+        "1330.337"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Cambodian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Cambodia</B>",
+        "<B>Cambodia</B> Air Force",
+        "<B>Cambodian</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " Royal <B>Cambodian</B> Armed Forces which is charged with operating all military aircraft in <B>Cambodia</B>."
+      ],
+      "label": [
+        "Royal <B>Cambodian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Cambodian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Military_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1953"
+      ]
+    },
+    {
+      "score": [
+        "1321.0829"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1962_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1962 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 1962",
+        "<B>Cambodian</B> parliamentary election, 1962"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 10 June 1962. Sangkum was the only party to contest the election, and won all 77 seats."
+      ],
+      "label": [
+        "1962 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1962_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1962_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:One-party_elections"
+      ]
+    },
+    {
+      "score": [
+        "1320.1211"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1955_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1955 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 1955",
+        "<B>Cambodian</B> parliamentary election, 1955"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on June 9, 1955. The elections were held following the"
+      ],
+      "label": [
+        "1955 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1955_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1955_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Parliament_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1319.2781"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1976_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1976 <B>Cambodian</B> parliamentary election",
+        "<B>Cambodian</B> general election, 1976",
+        "<B>Cambodian</B> parliamentary election, 1976"
+      ],
+      "comment": [
+        " Prince of <B>Cambodia</B> Norodom Sihanouk. Voter turnout was reported to be 98.0%."
+      ],
+      "label": [
+        "1976 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1976_Cambodian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1976_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1976_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:One-party_elections"
+      ]
+    },
+    {
+      "score": [
+        "1289.5094"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> folk music",
+        "<B>Cambodian</B> music",
+        "Folk music of <B>Cambodia</B>",
+        "Khmer music",
+        "Music of Kampuchea",
+        "Music of Kâmpŭchea"
+      ],
+      "comment": [
+        " Indian and Chinese travelers. With the rapid Westernization of popular music, <B>Cambodian</B> music has"
+      ],
+      "label": [
+        "Music of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_music"
+      ]
+    },
+    {
+      "score": [
+        "1288.7605"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1946_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "1946 <B>Cambodian</B> Constituent Assembly election",
+        "<B>Cambodian</B> Constituent Assembly election, 1946",
+        "<B>Cambodian</B> general election, 1946"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 1 September 1946. The Democratic Party won 50 of the 67 seats, with voter turnout estimated to be 60%."
+      ],
+      "label": [
+        "1946 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1946_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1946_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1282.3245"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Women_in_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> female",
+        "<B>Cambodian</B> women",
+        "Female <B>Cambodian</B>",
+        "Female education in <B>Cambodia</B>",
+        "Khmer woman",
+        "Khmer women",
+        "Political status of women in <B>Cambodia</B>",
+        "Women's rights in <B>Cambodia</B>",
+        "Women of <B>Cambodia</B>"
+      ],
+      "comment": [
+        " refinement of <B>Cambodian</B> women is further described as being \"quiet in […] movements that one cannot hear"
+      ],
+      "label": [
+        "Women in <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Women_in_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_women",
+        "http://dbpedia.org/resource/Category:Women_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1251.2421"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian–Dutch_War"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B>-Dutch War",
+        "<B>Cambodian</B> Dutch War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B>–Dutch War from 1643–1644 was a conflict sparked by a coup which brought a new"
+      ],
+      "label": [
+        "<B>Cambodian</B>–Dutch War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian–Dutch_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1640s_in_the_Dutch_Republic",
+        "http://dbpedia.org/resource/Category:1643_in_Asia",
+        "http://dbpedia.org/resource/Category:1644_in_Asia",
+        "http://dbpedia.org/resource/Category:17th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Geopolitical_rivalry",
+        "http://dbpedia.org/resource/Category:Islam_and_violence",
+        "http://dbpedia.org/resource/Category:Military_history_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Dutch_East_India_Company",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Dutch_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1245.09"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Cambodian_inland_islands"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> inland islands",
+        "Inland islands of <B>Cambodia</B>",
+        "Inland islands of <B>Cambodian</B>"
+      ],
+      "comment": [
+        "The following is a list of inland islands of <B>Cambodia</B>. All islands mentioned are either situated in"
+      ],
+      "label": [
+        "List of <B>Cambodian</B> inland islands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Cambodian_inland_islands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islands_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Lists_of_islands_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_landforms_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1244.9652"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Monarchy_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> monarchy",
+        "Head of State of Kâmpŭchea",
+        "Khmer kings",
+        "Khmer monarch",
+        "Khmer monarchy",
+        "King of <B>Cambodia</B>",
+        "King of Kampuchea",
+        "King of Kâmpŭchea",
+        "Kings of <B>Cambodia</B>",
+        "Line of succession to the <B>Cambodian</B> Throne",
+        "Line of succession to the <B>Cambodian</B> throne",
+        "List of Khmer kings",
+        "List of Kings of <B>Cambodia</B>",
+        "List of Kings of Kampuchea",
+        "List of kings of <B>Cambodia</B>",
+        "List of kings of Kâmpŭchea",
+        "List of monarchs of <B>Cambodia</B>",
+        "List of rulers of <B>Cambodia</B>",
+        "List of rulers of Kampuchea",
+        "Royal succession in <B>Cambodia</B>",
+        "Ruler of Kampuchea",
+        "Succession to the throne of <B>Cambodia</B>",
+        "Succession to the throne of Kampuchea",
+        "Supreme Commander of the Royal <B>Cambodian</B> Armed Forces",
+        "Supreme Commander of the Royal Khmer Armed Forces"
+      ],
+      "comment": [
+        "The King of <B>Cambodia</B> (Khmer: ព្រះមហាក្សត្រនៃព្រះរាជាណាចក្រកម្ពុជា, French: Roi du Cambodge) is the"
+      ],
+      "label": [
+        "Monarchy of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Monarchy_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_monarchs",
+        "http://dbpedia.org/resource/Category:Cambodian_monarchy",
+        "http://dbpedia.org/resource/Category:Heads_of_state_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Lists_of_Cambodian_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "1240.1119"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_League_2"
+      ],
+      "redirectlabel": [
+        "<B>CAMBODIA</B> LEAGUE 2",
+        "<B>Cambodia</B> League 2",
+        "<B>Cambodian</B> Second League"
+      ],
+      "label": [
+        "<B>Cambodian</B> League 2"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_League_2"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_Second_League",
+        "http://dbpedia.org/resource/Category:Football_competitions_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1233.8376"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "2017 Metfone C-League",
+        "<B>Cambodian</B> League 2017"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "2017 <B>Cambodian</B> League or 2017 Metfone <B>Cambodian</B> League is the 33rd season of the <B>Cambodian</B> League"
+      ],
+      "label": [
+        "2017 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017_Cambodian_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2017_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1227.0076"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_striped_squirrel"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Striped Squirrel",
+        "Tamiops rodolphei",
+        "Tamiops rodolphii"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> striped squirrel (Tamiops rodolphii) is a species of rodent in the family Sciuridae"
+      ],
+      "label": [
+        "<B>Cambodian</B> striped squirrel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_striped_squirrel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1867",
+        "http://dbpedia.org/resource/Category:Rodents_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Rodents_of_Laos",
+        "http://dbpedia.org/resource/Category:Rodents_of_Thailand",
+        "http://dbpedia.org/resource/Category:Rodents_of_Vietnam",
+        "http://dbpedia.org/resource/Category:Tamiops",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1221.1456"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_laughingthrush"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Laughingthrush",
+        "Garrulax ferrarius"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> laughingthrush (Garrulax ferrarius) is a species of bird in the family Leiothrichidae"
+      ],
+      "label": [
+        "<B>Cambodian</B> laughingthrush"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_laughingthrush"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1930",
+        "http://dbpedia.org/resource/Category:Birds_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Garrulax",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Joseph_Harvey_Riley"
+      ]
+    },
+    {
+      "score": [
+        "1213.9966"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_name"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> names",
+        "Khmer name"
+      ],
+      "comment": [
+        "<B>Cambodian</B> names usually consist of two elements including a patronymic, which serves as a common"
+      ],
+      "label": [
+        "<B>Cambodian</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_culture",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1210.3401"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/French_protectorate_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B> Under French Colonial rule",
+        "<B>Cambodia</B> under French protection",
+        "<B>Cambodian</B> independence movement",
+        "Colonial <B>Cambodia</B>",
+        "Colonial Kampuchea",
+        "Colonial Kâmpŭchea",
+        "French <B>Cambodia</B>",
+        "French Protectorate of <B>Cambodia</B>",
+        "Protectorate of <B>Cambodia</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " protectorate was established in 1867 when the <B>Cambodian</B> King Norodom requested the establishment of a"
+      ],
+      "label": [
+        "French protectorate of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/French_protectorate_of_Cambodia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1863_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1863_establishments_in_France",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_France",
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1945_establishments_in_France",
+        "http://dbpedia.org/resource/Category:1953_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1953_disestablishments_in_France",
+        "http://dbpedia.org/resource/Category:19th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Cambodia–France_relations",
+        "http://dbpedia.org/resource/Category:Former_French_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Cambodian_history",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Former_polities_of_the_Indochina_Wars",
+        "http://dbpedia.org/resource/Category:Former_protectorates",
+        "http://dbpedia.org/resource/Category:French_protectorate_of_Cambodia",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1953",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1863"
+      ]
+    },
+    {
+      "score": [
+        "1192.4495"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Premier_League"
+      ],
+      "redirectlabel": [
+        "C-League",
+        "<B>Cambodian</B> League",
+        "Metfone C-League"
+      ],
+      "label": [
+        "<B>Cambodian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:C-League",
+        "http://dbpedia.org/resource/Category:Football_competitions_in_Cambodia",
+        "http://dbpedia.org/resource/Category:National_championships_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1982",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1184.0192"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Cinema",
+        "<B>Cambodian</B> cinema",
+        "Cambollywood",
+        "Cinema in <B>Cambodia</B>",
+        "Cinema of <B>cambodia</B>",
+        "History of cinema in <B>Cambodia</B>"
+      ],
+      "comment": [
+        " the Khmer Rouge regime, competition from video and television has meant that the <B>Cambodian</B> film industry is a small one."
+      ],
+      "label": [
+        "Cinema of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Communications_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1163.0867"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B>/Government",
+        "<B>Cambodian</B> government",
+        "<B>Cambodian</B> politics",
+        "Court system of <B>Cambodia</B>",
+        "Courts of <B>Cambodia</B>",
+        "Government of <B>Cambodia</B>",
+        "Government of <B>cambodia</B>",
+        "Judicial system of <B>Cambodia</B>",
+        "Politics of <B>cambodia</B>",
+        "Royal Government of <B>Cambodia</B>"
+      ],
+      "comment": [
+        "The politics of <B>Cambodia</B> are defined within the framework of a constitutional monarchy, in which"
+      ],
+      "label": [
+        "Politics of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Politics_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Politics_of_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1149.9076"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_rock_(1960s–1970s)"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> rock (1960s-1970s)",
+        "<B>Cambodian</B> rock (1960s-70)"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        ", <B>Cambodia</B>, in which musicians created a unique sound by combining traditional <B>Cambodian</B> music forms"
+      ],
+      "label": [
+        "<B>Cambodian</B> rock (1960s–1970s)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_rock_(1960s–1970s)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_music",
+        "http://dbpedia.org/resource/Category:Cambodian_music",
+        "http://dbpedia.org/resource/Category:Popular_music",
+        "http://dbpedia.org/resource/Category:Rock_and_roll",
+        "http://dbpedia.org/resource/Category:Rock_music_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1143.5592"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Culture_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "Architecture of <B>Cambodia</B>",
+        "<B>Cambodian</B> architecture",
+        "<B>Cambodian</B> culture",
+        "Cultural history of <B>Cambodia</B>",
+        "Culture of Kampuchea",
+        "Culture of Kâmpŭchea",
+        "Khmer culture",
+        "Nang Sbek",
+        "Performing arts of <B>Cambodia</B>"
+      ],
+      "comment": [
+        " nearly two millennia, <B>Cambodians</B> have developed a unique Khmer culture and belief system from the"
+      ],
+      "label": [
+        "Culture of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Culture_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_culture"
+      ]
+    },
+    {
+      "score": [
+        "1143.4667"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Cambodian_Senate_election"
+      ],
+      "redirectlabel": [
+        "2006 <B>Cambodian</B> Senate elections",
+        "<B>Cambodian</B> Senate election, 2006"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " <B>Cambodia</B>. The result was a victory for the <B>Cambodian</B> People's Party which won 45 seats. The Funcinpec Party"
+      ],
+      "label": [
+        "2006 <B>Cambodian</B> Senate election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Cambodian_Senate_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2006_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1130.784"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_units_of_measurement"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Units of Measurement",
+        "Cham am",
+        "Thneap"
+      ],
+      "comment": [
+        "A number of units of measurement were used in <B>Cambodia</B> to measure length, mass, capacity, etc"
+      ],
+      "label": [
+        "<B>Cambodian</B> units of measurement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_units_of_measurement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_culture",
+        "http://dbpedia.org/resource/Category:Units_of_measurement_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1126.6155"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> (disambiguation)"
+      ],
+      "label": [
+        "<B>Cambodian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1122.664"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1947_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> general election, 1947",
+        "<B>Cambodian</B> parliamentary election, 1947"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 21 December 1947. The Democratic Party won 44 of the 75 seats."
+      ],
+      "label": [
+        "1947 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1947_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1947_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1947_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1122.5015"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1966_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> general election, 1966",
+        "<B>Cambodian</B> parliamentary election, 1966"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 11 September 1966. Sangkum was the only party to contest the election, and won all 82 seats."
+      ],
+      "label": [
+        "1966 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1966_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1966_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1966_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:One-party_elections"
+      ]
+    },
+    {
+      "score": [
+        "1122.3484"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prime_Minister_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> People's Party-FUNCINPEC coalition agreement",
+        "<B>Cambodian</B> People's Party–FUNCINPEC coalition agreement",
+        "<B>Cambodian</B> prime minister",
+        "Deputy Prime Minister of <B>Cambodia</B>",
+        "Head of government of <B>Cambodia</B>",
+        "Hun Sen-Norodom Ranariddh Coalition",
+        "List of Prime Ministers of Kampuchea",
+        "Prime Minister of Kampuchea",
+        "Prime Minister of Kâmpŭchea",
+        "Prime minister of <B>Cambodia</B>",
+        "Prime minister of <B>cambodia</B>",
+        "Sen-Ranariddh Coalition"
+      ],
+      "comment": [
+        " minister is also the chairman of the Cabinet and leads the executive branch of the Royal <B>Cambodian</B>"
+      ],
+      "label": [
+        "Prime Minister of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prime_Minister_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Prime_Ministers_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1121.3654"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1981_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> general election, 1981",
+        "<B>Cambodian</B> parliamentary election, 1981"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Cambodia</B> on 1 May 1981 and marked the establishment of the new"
+      ],
+      "label": [
+        "1981 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1981_Cambodian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1981_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1981_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia",
+        "http://dbpedia.org/resource/Category:One-party_elections"
+      ]
+    },
+    {
+      "score": [
+        "1119.2048"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1972_Cambodian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> general election, 1972",
+        "<B>Cambodian</B> parliamentary election, 1972"
+      ],
+      "comment": [
+        "General elections were held in the Khmer Republic in September 1972, the first after the 1970 coup. Elections for the National Assembly took place on 3 September and were contested by the Social Republican Party and Pracheachon (although the latter only had 10 candidates), whilst they were boycotted by the Republican Party and the Democratic Party in protest at the new electoral law. The SRP won all 126 seats with 99.1% of valid votes. Elections for the Senate were held on 17 September, with the SRP winning all 32 seats."
+      ],
+      "label": [
+        "1972 <B>Cambodian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1972_Cambodian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1972_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1972_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1112.5225"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Cambodia"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B>-Greece relations",
+        "<B>Cambodia</B>-Iceland relations",
+        "<B>Cambodia</B>-Laos relations",
+        "<B>Cambodia</B>-South Korea relations",
+        "<B>Cambodia</B>/Transnational issues",
+        "<B>Cambodia</B> - South Korea relations",
+        "<B>Cambodia</B> – South Korea relations",
+        "<B>Cambodian</B>-Greek relations",
+        "<B>Cambodian</B>–Greek relations",
+        "<B>Cambodia</B>–Greece relations",
+        "<B>Cambodia</B>–Iceland relations",
+        "<B>Cambodia</B>–Laos relations",
+        "<B>Cambodia</B>–South Korea relations",
+        "Foreign relations of Kampuchea",
+        "Foreign relations of Kâmpŭchea",
+        "Foreign relations of <B>cambodia</B>"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> government has diplomatic relations with most countries, including the United States"
+      ],
+      "label": [
+        "Foreign relations of <B>Cambodia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Cambodia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1109.4468"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Children's_Fund"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Children’s Fund",
+        "Scott Neeson"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Cambodian</B> Children's Fund (CCF) is a non-profit organization, founded in 2004 by Scott Neeson to"
+      ],
+      "label": [
+        "<B>Cambodian</B> Children's Fund"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Children's_Fund"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Charities_based_in_California",
+        "http://dbpedia.org/resource/Category:Child-related_organisations_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Phnom_Penh"
+      ]
+    },
+    {
+      "score": [
+        "1083.2053"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Royal_Chronicles"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Chronicles",
+        "Le royaume du Cambodge"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> Royal Chronicles or <B>Cambodian</B> Chronicles (Rajabansavatar or Rapa Ksatr) are a"
+      ],
+      "label": [
+        "<B>Cambodian</B> Royal Chronicles"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Royal_Chronicles"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_chronicles",
+        "http://dbpedia.org/resource/Category:Cambodian_literature",
+        "http://dbpedia.org/resource/Category:Historiography_of_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1080.6129"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_National_Unity_Party"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> National Union Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> National Unity Party (Khmer: គណបក្សសាមគ្គីជាតិកម្ពុជា) was a political party set up"
+      ],
+      "label": [
+        "<B>Cambodian</B> National Unity Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_National_Unity_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1997_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Khmer_Rouge",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1997",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "1069.4207"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " language of Khmer, many <B>Cambodians</B> are known to also speak French and English. Buddhism, Catholicism and Christianity are common religions among <B>Cambodian</B>-Canadians."
+      ],
+      "label": [
+        "<B>Cambodian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Cambodian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada"
+      ]
+    },
+    {
+      "score": [
+        "1060.2219"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Center_for_Human_Rights"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Centre for Human Rights",
+        "<B>Cambodian</B> center for human rights"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> Center for Human Rights (CCHR, Khmer: មជ្ឈមណ្ឌលសិទ្ធិមនុស្សកម្ពុជា) is a non-partisan"
+      ],
+      "label": [
+        "<B>Cambodian</B> Center for Human Rights"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Center_for_Human_Rights"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cambodian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Human_rights_organisations_based_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1045.7428"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/People's_Republic_of_Kampuchea"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B> (1989-1992)",
+        "<B>Cambodia</B> (1989-92)",
+        "<B>Cambodia</B> (1989–1992)",
+        "<B>Cambodia</B> (1989–92)",
+        "<B>Cambodia</B> Under Vietnamese Occupation (1979-1989)",
+        "<B>Cambodia</B> under Vietnamese occupation (1979-1989)",
+        "<B>Cambodia</B> under Vietnamese occupation (1979–1989)",
+        "Cộng hòa Nhân dân Campuchia",
+        "Fourth <B>Cambodian</B> Republic",
+        "PRK/SOC",
+        "PR Kampuchea",
+        "People's Republic of <B>Cambodia</B>",
+        "State of <B>Cambodia</B> (1989-1992)",
+        "State of <B>Cambodia</B> (1989-1993)",
+        "State of <B>Cambodia</B> (1989-92)",
+        "State of <B>Cambodia</B> (1989–1992)",
+        "State of <B>Cambodia</B> (1989–1993)",
+        "State of <B>Cambodia</B> (1989–92)",
+        "Third <B>Cambodian</B> Republic",
+        "Vietnamese occupation of <B>Cambodia</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " Salvation Front, a group of <B>Cambodian</B> communists dissatisfied with the Khmer Rouge after the overthrow of"
+      ],
+      "label": [
+        "People's Republic of Kampuchea"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/People's_Republic_of_Kampuchea"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1980s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1990s_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Communism_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Communist_states",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Cambodian_history",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Military_occupation",
+        "http://dbpedia.org/resource/Category:Non-Aligned_Movement",
+        "http://dbpedia.org/resource/Category:People's_Republic_of_Kampuchea",
+        "http://dbpedia.org/resource/Category:Republicanism_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Sino-Vietnamese_War",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1992",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1979",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cambodia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Vietnam"
+      ]
+    },
+    {
+      "score": [
+        "1041.6522"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Cambodian_films_of_1973"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> film of 1973",
+        "<B>Cambodian</B> films of 1973"
+      ],
+      "comment": [
+        "A list of films produced in <B>Cambodia</B> in 1973. From the 38 films listed, 2 films exist today, 5 have been remade, and 31 have not yet been remade."
+      ],
+      "label": [
+        "List of <B>Cambodian</B> films of 1973"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Cambodian_films_of_1973"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Lists_of_1973_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Cambodian_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "1021.97656"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1972_Cambodian_constitutional_referendum"
+      ],
+      "redirectlabel": [
+        "<B>Cambbodian</B> constitutional referendum, 1972",
+        "<B>Cambodian</B> constitutional referendum, 1972"
+      ],
+      "comment": [
+        "A constitutional referendum was held in <B>Cambodia</B> on 30 April 1972. The changes were approved by 97.5% of voters."
+      ],
+      "label": [
+        "1972 <B>Cambodian</B> constitutional referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1972_Cambodian_constitutional_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1972_in_Cambodia",
+        "http://dbpedia.org/resource/Category:1972_referendums",
+        "http://dbpedia.org/resource/Category:Constitutional_referendums",
+        "http://dbpedia.org/resource/Category:Referendums_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "1011.81665"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodia–Thailand_border"
+      ],
+      "redirectlabel": [
+        "<B>Cambodia</B>-Thailand border",
+        "Thai-<B>Cambodian</B> border",
+        "Thailand-<B>Cambodia</B> border",
+        "Thailand–<B>Cambodia</B> border",
+        "Thai–<B>Cambodian</B> border"
+      ],
+      "label": [
+        "<B>Cambodia</B>–Thailand border"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodia–Thailand_border"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Borders_of_Cambodia",
+        "http://dbpedia.org/resource/Category:Borders_of_Thailand",
+        "http://dbpedia.org/resource/Category:Cambodia–Thailand_border",
+        "http://dbpedia.org/resource/Category:Cambodia–Thailand_relations",
+        "http://dbpedia.org/resource/Category:International_borders"
+      ]
+    },
+    {
+      "score": [
+        "991.04584"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Phnom_Penh_riots"
+      ],
+      "redirectlabel": [
+        "Anti-Thai <B>Cambodian</B> riots of 2003",
+        "Thailand and Angkor"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "In January 2003, a <B>Cambodian</B> newspaper article falsely alleged that a Thai actress Suvanant"
+      ],
+      "label": [
+        "2003 Phnom Penh riots"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Phnom_Penh_riots"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_in_Cambodia",
+        "http://dbpedia.org/resource/Category:2003_in_international_relations",
+        "http://dbpedia.org/resource/Category:2003_riots",
+        "http://dbpedia.org/resource/Category:21st_century_in_Phnom_Penh",
+        "http://dbpedia.org/resource/Category:Cambodia–Thailand_relations",
+        "http://dbpedia.org/resource/Category:Controversies_in_Thailand",
+        "http://dbpedia.org/resource/Category:History_of_Phnom_Penh",
+        "http://dbpedia.org/resource/Category:History_of_the_foreign_relations_of_Thailand",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "979.9163"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_League_for_the_Promotion_and_Defense_of_Human_Rights"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League for the Promotion and Defence of Human Rights (LICADHO)",
+        "<B>Cambodian</B> League for the Promotion and Defense of Human Rights (LICADHO)",
+        "LICADHO",
+        "Licadho"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cambodian</B> League for the Promotion and Defense of Human Rights (known by its French acronym"
+      ],
+      "label": [
+        "<B>Cambodian</B> League for the Promotion and Defense of Human Rights"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_League_for_the_Promotion_and_Defense_of_Human_Rights"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Human_rights_organisations_based_in_Cambodia"
+      ]
+    },
+    {
+      "score": [
+        "970.0528"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cambodian_Cultural_Village"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> Cultural village"
+      ],
+      "typeName": [
+        "Building",
+        "Museum",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "<B>Cambodian</B> Cultural Village (Khmer: ភូមិវប្បធម៌កម្ពុជា; CCV) is a theme park and museum in Siem Reap"
+      ],
+      "label": [
+        "<B>Cambodian</B> Cultural Village"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cambodian_Cultural_Village"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Museum",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_establishments_in_Cambodia",
+        "http://dbpedia.org/resource/Category:Amusement_parks_in_Cambodia",
+        "http://dbpedia.org/resource/Category:History_museums",
+        "http://dbpedia.org/resource/Category:Museums_established_in_2003",
+        "http://dbpedia.org/resource/Category:Museums_in_Siem_Reap",
+        "http://dbpedia.org/resource/Category:Wax_museums"
+      ]
+    },
+    {
+      "score": [
+        "969.7253"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 2009"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Cambodian</B> League for the 2009 season."
+      ],
+      "label": [
+        "2009 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Cambodian_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008–09_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2009_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:2009–10_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.7253"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 2007"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Cambodian</B> League for the 2007 season."
+      ],
+      "label": [
+        "2007 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Cambodian_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006–07_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2007_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:2007–08_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.4555"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 2006"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of the <B>Cambodian</B> League for the 2006 season."
+      ],
+      "label": [
+        "2006 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Cambodian_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005–06_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2006_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:2006–07_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.4555"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2000_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 2000"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of the <B>Cambodian</B> League for the 2000 season."
+      ],
+      "label": [
+        "2000 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2000_Cambodian_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2000_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:2000–01_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.4555"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1982_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 1982"
+      ],
+      "comment": [
+        "Statistics of the <B>Cambodian</B> League for the 1982 season."
+      ],
+      "label": [
+        "1982 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1982_Cambodian_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1981–82_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1982_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:1982–83_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.4555"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1985_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 1985"
+      ],
+      "comment": [
+        "Statistics of the <B>Cambodian</B> League for the 1985 season."
+      ],
+      "label": [
+        "1985 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1985_Cambodian_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1984–85_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1985_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:1985–86_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.4555"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1991_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 1991"
+      ],
+      "comment": [
+        "Statistics of the <B>Cambodian</B> League for the 1991 season."
+      ],
+      "label": [
+        "1991 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1991_Cambodian_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990–91_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1991_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:1991–92_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "969.4555"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1988_Cambodian_League"
+      ],
+      "redirectlabel": [
+        "<B>Cambodian</B> League 1988"
+      ],
+      "comment": [
+        "Statistics of the <B>Cambodian</B> League for the 1988 season."
+      ],
+      "label": [
+        "1988 <B>Cambodian</B> League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1988_Cambodian_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987–88_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1988_in_Cambodian_football",
+        "http://dbpedia.org/resource/Category:1988–89_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:C-League_seasons"
+      ]
+    }
+  ]
+}

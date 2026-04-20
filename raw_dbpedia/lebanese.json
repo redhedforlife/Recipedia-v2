@@ -1,0 +1,4315 @@
+{
+  "docs": [
+    {
+      "score": [
+        "10045.528"
+      ],
+      "refCount": [
+        "211"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> citizenship"
+      ],
+      "comment": [
+        "<B>Lebanese</B> nationality law governs the acquisition, transmission and loss of <B>Lebanese</B> citizenship"
+      ],
+      "label": [
+        "<B>Lebanese</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Human_rights_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Law_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Nationality_law",
+        "http://dbpedia.org/resource/Category:Politics_of_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "9412.13"
+      ],
+      "refCount": [
+        "225"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Civil_War"
+      ],
+      "redirectlabel": [
+        "AISHIYA, BATTLE OF",
+        "Al-Ḥarb al-Ahliyyah al-Libnāniyyah",
+        "Civil war in Lebanon",
+        "Civil war in the Lebanon",
+        "<B>Lebanese</B> Civil Jihad",
+        "<B>Lebanese</B> Civil War (1975-1977)",
+        "<B>Lebanese</B> Civil War (1975-1990)",
+        "<B>Lebanese</B> Civil War (1975–1977)",
+        "<B>Lebanese</B> Civil War (1977-1982)",
+        "<B>Lebanese</B> Civil War (1984-1989)",
+        "<B>Lebanese</B> Civil War (1984–1989)",
+        "<B>Lebanese</B> civil war",
+        "Lebanon Civil War",
+        "Two-year war",
+        "الحرب الأهلية اللبنانية"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Civil War (Arabic: الحرب الأهلية اللبنانية‎ – Al-Ḥarb al-Ahliyyah al-Libnāniyyah) was"
+      ],
+      "label": [
+        "<B>Lebanese</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_conflicts",
+        "http://dbpedia.org/resource/Category:1970s_in_Lebanon",
+        "http://dbpedia.org/resource/Category:1980s_conflicts",
+        "http://dbpedia.org/resource/Category:1980s_in_Lebanon",
+        "http://dbpedia.org/resource/Category:1990s_conflicts",
+        "http://dbpedia.org/resource/Category:1990s_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Amal_Movement",
+        "http://dbpedia.org/resource/Category:Armenian_Secret_Army_for_the_Liberation_of_Armenia",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Ethnicity-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Islamic_Revolutionary_Guard_Corps",
+        "http://dbpedia.org/resource/Category:Lebanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Lebanese_Front",
+        "http://dbpedia.org/resource/Category:Lebanese_National_Movement",
+        "http://dbpedia.org/resource/Category:Lebanese_National_Resistance_Front",
+        "http://dbpedia.org/resource/Category:Palestine_Liberation_Organization",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Shia–Sunni_sectarian_violence",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hezbollah",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel",
+        "http://dbpedia.org/resource/Category:Wars_involving_Lebanon",
+        "http://dbpedia.org/resource/Category:Wars_involving_Syria"
+      ]
+    },
+    {
+      "score": [
+        "9335.507"
+      ],
+      "refCount": [
+        "154"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_people"
+      ],
+      "redirectlabel": [
+        "Ethnic Groups in Lebanon",
+        "Genetic studies on <B>Lebanese</B> people",
+        "<B>Lebanese</B> Arab",
+        "<B>Lebanese</B> Arabs",
+        "<B>Lebanese</B> Identity",
+        "<B>Lebanese</B> person",
+        "<B>Lebaneses</B>",
+        "People of Lebanon",
+        "Population of Lebanon",
+        "The <B>Lebanese</B>",
+        "الشعب اللبناني"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> people (Arabic: الشعب اللبناني‎ / ALA-LC: ash-shaʻb al-Lubnānī, <B>Lebanese</B> Arabic"
+      ],
+      "label": [
+        "<B>Lebanese</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabs",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Lebanese_people",
+        "http://dbpedia.org/resource/Category:Semitic-speaking_peoples"
+      ]
+    },
+    {
+      "score": [
+        "7912.9277"
+      ],
+      "refCount": [
+        "128"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1933-34 <B>Lebanese</B> Premier League",
+        "1933–34 <B>Lebanese</B> Premier League",
+        "1934-35 <B>Lebanese</B> Premier League",
+        "1934–35 <B>Lebanese</B> Premier League",
+        "1935-36 <B>Lebanese</B> Premier League",
+        "1935–36 <B>Lebanese</B> Premier League",
+        "1936-37 <B>Lebanese</B> Football League",
+        "1936-37 <B>Lebanese</B> Premier League",
+        "1936–37 <B>Lebanese</B> Football League",
+        "1936–37 <B>Lebanese</B> Premier League",
+        "1937-38 <B>Lebanese</B> Premier League",
+        "1937–38 <B>Lebanese</B> Premier League",
+        "1938-39 <B>Lebanese</B> Premier League",
+        "1938–39 <B>Lebanese</B> Premier League",
+        "1940-41 <B>Lebanese</B> Premier League",
+        "1940–41 <B>Lebanese</B> Premier League",
+        "1941-42 <B>Lebanese</B> Premier League",
+        "1941–42 <B>Lebanese</B> Premier League",
+        "1942-43 <B>Lebanese</B> Premier League",
+        "1942–43 <B>Lebanese</B> Premier League",
+        "1943-44 <B>Lebanese</B> Premier League",
+        "1943–44 <B>Lebanese</B> Premier League",
+        "1944-45 <B>Lebanese</B> Premier League",
+        "1944–45 <B>Lebanese</B> Premier League",
+        "1945-46 <B>Lebanese</B> Premier League",
+        "1945–46 <B>Lebanese</B> Premier League",
+        "1946-47 <B>Lebanese</B> Premier League",
+        "1946–47 <B>Lebanese</B> Premier League",
+        "1947-48 <B>Lebanese</B> Premier League",
+        "1947–48 <B>Lebanese</B> Premier League",
+        "1948-49 <B>Lebanese</B> Premier League",
+        "1948–49 <B>Lebanese</B> Premier League",
+        "1950-51 <B>Lebanese</B> Premier League",
+        "1950–51 <B>Lebanese</B> Premier League",
+        "1953-54 <B>Lebanese</B> Premier League",
+        "1953–54 <B>Lebanese</B> Premier League",
+        "1954-55 <B>Lebanese</B> Premier League",
+        "1954–55 <B>Lebanese</B> Premier League",
+        "1955-56 <B>Lebanese</B> Premier League",
+        "1955–56 <B>Lebanese</B> Premier League",
+        "1956-57 <B>Lebanese</B> Premier League",
+        "1956–57 <B>Lebanese</B> Premier League",
+        "1960-61 <B>Lebanese</B> Premier League",
+        "1960–61 <B>Lebanese</B> Premier League",
+        "1962-63 <B>Lebanese</B> Premier League",
+        "1962–63 <B>Lebanese</B> Premier League",
+        "1964-65 <B>Lebanese</B> Premier League",
+        "1964–65 <B>Lebanese</B> Premier League",
+        "1966-67 <B>Lebanese</B> Premier League",
+        "1966–67 <B>Lebanese</B> Premier League",
+        "1968-69 <B>Lebanese</B> Premier League",
+        "1968–69 <B>Lebanese</B> Premier League",
+        "1969-70 <B>Lebanese</B> Premier League",
+        "1969–70 <B>Lebanese</B> Premier League",
+        "1972-73 <B>Lebanese</B> Premier League",
+        "1972–73 <B>Lebanese</B> Premier League",
+        "Alfa <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> First Division",
+        "<B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1933-34",
+        "<B>Lebanese</B> Premier League 1933–34",
+        "<B>Lebanese</B> Premier League 1934-35",
+        "<B>Lebanese</B> Premier League 1934–35",
+        "<B>Lebanese</B> Premier League 1935-36",
+        "<B>Lebanese</B> Premier League 1935–36",
+        "<B>Lebanese</B> Premier League 1936-37",
+        "<B>Lebanese</B> Premier League 1936–37",
+        "<B>Lebanese</B> Premier League 1937-38",
+        "<B>Lebanese</B> Premier League 1937–38",
+        "<B>Lebanese</B> Premier League 1938-39",
+        "<B>Lebanese</B> Premier League 1938–39",
+        "<B>Lebanese</B> Premier League 1940-41",
+        "<B>Lebanese</B> Premier League 1940–41",
+        "<B>Lebanese</B> Premier League 1941-42",
+        "<B>Lebanese</B> Premier League 1941–42",
+        "<B>Lebanese</B> Premier League 1942-43",
+        "<B>Lebanese</B> Premier League 1942–43",
+        "<B>Lebanese</B> Premier League 1943-44",
+        "<B>Lebanese</B> Premier League 1943–44",
+        "<B>Lebanese</B> Premier League 1944-45",
+        "<B>Lebanese</B> Premier League 1944–45",
+        "<B>Lebanese</B> Premier League 1945-46",
+        "<B>Lebanese</B> Premier League 1945–46",
+        "<B>Lebanese</B> Premier League 1946-47",
+        "<B>Lebanese</B> Premier League 1946–47",
+        "<B>Lebanese</B> Premier League 1947-48",
+        "<B>Lebanese</B> Premier League 1947–48",
+        "<B>Lebanese</B> Premier League 1948-49",
+        "<B>Lebanese</B> Premier League 1948–49",
+        "<B>Lebanese</B> Premier League 1950-51",
+        "<B>Lebanese</B> Premier League 1950–51",
+        "<B>Lebanese</B> Premier League 1953-54",
+        "<B>Lebanese</B> Premier League 1953–54",
+        "<B>Lebanese</B> Premier League 1954-55",
+        "<B>Lebanese</B> Premier League 1954–55",
+        "<B>Lebanese</B> Premier League 1955-56",
+        "<B>Lebanese</B> Premier League 1955–56",
+        "<B>Lebanese</B> Premier League 1956-57",
+        "<B>Lebanese</B> Premier League 1956–57",
+        "<B>Lebanese</B> Premier League 1960-61",
+        "<B>Lebanese</B> Premier League 1960–61",
+        "<B>Lebanese</B> Premier League 1962-63",
+        "<B>Lebanese</B> Premier League 1962–63",
+        "<B>Lebanese</B> Premier League 1964-65",
+        "<B>Lebanese</B> Premier League 1964–65",
+        "<B>Lebanese</B> Premier League 1966-67",
+        "<B>Lebanese</B> Premier League 1966–67",
+        "<B>Lebanese</B> Premier League 1968-69",
+        "<B>Lebanese</B> Premier League 1968–69",
+        "<B>Lebanese</B> Premier League 1969-70",
+        "<B>Lebanese</B> Premier League 1969–70",
+        "<B>Lebanese</B> Premier League 1972-73",
+        "<B>Lebanese</B> Premier League 1972–73",
+        "<B>Lebanese</B> Premier League 1974-75",
+        "<B>Lebanese</B> Premier League 1974–75",
+        "<B>Lebanese</B> Premier League 1987-88",
+        "<B>Lebanese</B> Premier League 1989-90",
+        "<B>Lebanese</B> Premier League 1990-91",
+        "<B>Lebanese</B> Premier League 1990–91",
+        "<B>Lebanese</B> Premier League 1991-92",
+        "<B>Lebanese</B> Premier League 1992-93",
+        "<B>Lebanese</B> Premier League 1992–93",
+        "<B>Lebanese</B> Premier League 1993-94",
+        "<B>Lebanese</B> Premier League 1994-95",
+        "<B>Lebanese</B> Premier League 1995-96",
+        "<B>Lebanese</B> Premier League 1996-97"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Premier League (Arabic: الدوري اللبناني لكرة القدم‎, lit. '<B>Lebanese</B> Football League"
+      ],
+      "label": [
+        "<B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1934_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1934",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "6764.08"
+      ],
+      "refCount": [
+        "450"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanon_national_football_team"
+      ],
+      "redirectlabel": [
+        "Greater Lebanon national football team",
+        "History of the Lebanon national football team",
+        "<B>Lebanese</B> football national team",
+        "<B>Lebanese</B> football selection",
+        "<B>Lebanese</B> football team",
+        "<B>Lebanese</B> national association football team",
+        "<B>Lebanese</B> national football team",
+        "<B>Lebanese</B> national soccer team",
+        "<B>Lebanese</B> national team",
+        "<B>Lebanese</B> soccer team",
+        "<B>Lebanese</B> team",
+        "Lebanon National Football Team",
+        "Lebanon football national team",
+        "Lebanon football selection",
+        "Lebanon football team",
+        "Lebanon men's national football team",
+        "Lebanon men's national soccer team",
+        "Lebanon national association football team",
+        "Lebanon national soccer team",
+        "Lebanon soccer team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Lebanon national football team, controlled by the <B>Lebanese</B> Football Association (LFA), has"
+      ],
+      "label": [
+        "Lebanon national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanon_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_teams_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanon_national_football_team",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1933"
+      ]
+    },
+    {
+      "score": [
+        "6719.908"
+      ],
+      "refCount": [
+        "2310"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanon"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of Lebanon",
+        "Administrative divisions of lebanon",
+        "Al-Jumhūrīyah al-Lubnānīyah",
+        "Al-Jumhūrīyyah al-Lubnānīyyah",
+        "Al Jumhuriyah al Lubnaniyah",
+        "Art in Lebanon",
+        "Environmental issues in Lebanon",
+        "Etymology of Lebanon",
+        "ISO 3166-1:LB",
+        "Infrastructure in Lebanon",
+        "Languages of Lebanon",
+        "<B>Lebanese</B> Republic",
+        "<B>Lebanese</B> literature",
+        "Lebannon",
+        "<B>Lebanone</B>",
+        "Lebnan",
+        "Lebnen",
+        "Liban",
+        "Libanese",
+        "Libanon",
+        "Libán",
+        "Literature of Lebanon",
+        "Lubnan",
+        "Lubnaniyah",
+        "Lubnān",
+        "Name of Lebanon",
+        "Republic of Lebanon",
+        "Republic of the Lebanon",
+        "Ryan Attiyeh",
+        "République libanaise",
+        "Science and technology in Lebanon",
+        "State of Lebanon",
+        "Subdivisions of Lebanon",
+        "The Lebanon",
+        "לבנאן",
+        "الجمهورية اللبنانية",
+        "لبنان"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Lebanon ( (); Arabic: لبنان‎, romanized: Lubnān, <B>Lebanese</B> Arabic pronunciation: [lɪbˈneːn"
+      ],
+      "label": [
+        "Lebanon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanon"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1943_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1943_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Arabic-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Eastern_Mediterranean",
+        "http://dbpedia.org/resource/Category:Lebanon",
+        "http://dbpedia.org/resource/Category:Levant",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Arab_League",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_internationale_de_la_Francophonie",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Near_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1943",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "4870.174"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Arabic"
+      ],
+      "redirectlabel": [
+        "Akl's alphabet",
+        "Latin alphabet for <B>Lebanese</B>",
+        "<B>Lebanese</B> Arabic dialect",
+        "<B>Lebanese</B> Arabic language",
+        "<B>Lebanese</B> Language",
+        "<B>Lebanese</B> arabic",
+        "<B>Lebanese</B> dialect",
+        "<B>Lebanese</B> language",
+        "Said Akl's alphabet"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Arabic (Arabic: اللَّهْجَةُ اللُّبْنَانِيَّة‎‎, al-lahjatu al-lubnāniyya, <B>Lebanese</B>: il"
+      ],
+      "label": [
+        "<B>Lebanese</B> Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Arabic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Lebanese_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "4115.5176"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Army of Lebanon",
+        "<B>Lebanese</B> Army",
+        "<B>Lebanese</B> Army Ranks",
+        "<B>Lebanese</B> Army ranks",
+        "<B>Lebanese</B> Ground Forces",
+        "<B>Lebanese</B> Military Personnel",
+        "<B>Lebanese</B> army",
+        "<B>Lebanese</B> military",
+        "Lebanon/Military",
+        "Military history of Lebanon",
+        "Military of Lebanon",
+        "القوات المسلحة اللبنانية"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Armed Forces (LAF) (Arabic: القوات المسلحة اللبنانية | Al-Quwwāt al-Musallaḥa al"
+      ],
+      "label": [
+        "<B>Lebanese</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "3895.7917"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_University"
+      ],
+      "redirectlabel": [
+        "Faculties of the <B>Lebanese</B> University",
+        "Faculty of Engineering, <B>Lebanese</B> University",
+        "Lebanon University",
+        "Université Libanaise",
+        "الجامعة اللبنانية كلية الاعلام و التوثيق"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The creation of the <B>Lebanese</B> University was an idea first mentioned in the speech of the former"
+      ],
+      "label": [
+        "<B>Lebanese</B> University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Art_schools_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Education_in_Beirut",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1951",
+        "http://dbpedia.org/resource/Category:Lebanese_University",
+        "http://dbpedia.org/resource/Category:Universities_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "3107.5945"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006–2008_Lebanese_protests"
+      ],
+      "redirectlabel": [
+        "2006-08 <B>Lebanese</B> political protests",
+        "2006-08 <B>Lebanese</B> protests",
+        "2006-2007 <B>Lebanese</B> anti-government revolt",
+        "2006-2007 <B>Lebanese</B> political protests",
+        "2006-2007 <B>Lebanese</B> revolt",
+        "2006-2008 <B>Lebanese</B> political protests",
+        "2006-2008 <B>Lebanese</B> protests",
+        "2006-present <B>Lebanese</B> political crisis",
+        "2006-present <B>Lebanese</B> revolt",
+        "2006 <B>Lebanese</B> Anti-Government Protest",
+        "2006 <B>lebanese</B> anti-government protests",
+        "2006–08 <B>Lebanese</B> political protests",
+        "2006–08 <B>Lebanese</B> protests",
+        "2006–2007 <B>Lebanese</B> anti-government revolt",
+        "2006–2007 <B>Lebanese</B> political protests",
+        "2006–2007 <B>Lebanese</B> revolt",
+        "2006–2008 <B>Lebanese</B> political protests",
+        "2006–present <B>Lebanese</B> political crisis",
+        "2006–present <B>Lebanese</B> revolt",
+        "2007 Lebanon crisis",
+        "2007 Lebanon revolt",
+        "National Unity Uprising",
+        "One and Unified Revolt"
+      ],
+      "label": [
+        "2006–2008 <B>Lebanese</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006–2008_Lebanese_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2006_protests",
+        "http://dbpedia.org/resource/Category:2007_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2007_protests",
+        "http://dbpedia.org/resource/Category:2008_protests",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2006",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2007",
+        "http://dbpedia.org/resource/Category:Hezbollah",
+        "http://dbpedia.org/resource/Category:March_8_Alliance",
+        "http://dbpedia.org/resource/Category:Protests_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2995.7712"
+      ],
+      "refCount": [
+        "93"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Basketball_League"
+      ],
+      "redirectlabel": [
+        "Atlas Ferzol",
+        "BC Bars Petropavl",
+        "BC Irtysh Pavlodar",
+        "BC Kazygurt Shymkent",
+        "BC Okzhetpes Kokshetau",
+        "Chabibeh",
+        "Dynamo Lebanon",
+        "Energy Sports Club",
+        "Leaders Club",
+        "Louaize SC",
+        "NSA (basketball)"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Basketball League or 'FLB League' or 'Alfa <B>Lebanese</B> Basketball League' (formerly known"
+      ],
+      "label": [
+        "<B>Lebanese</B> Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Basketball_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Lebanese_Basketball_League",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1992",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Women's_basketball_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2922.12"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadian of <B>Lebanese</B> origin",
+        "Canadians of <B>Lebanese</B> descent",
+        "History of <B>Lebanese</B> Canadians",
+        "<B>Lebanese</B>-Canadian",
+        "<B>Lebanese</B> Canadian",
+        "Lebano-Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Canadians are Canadians of <B>Lebanese</B> origin. According to the 2011 Census there were"
+      ],
+      "label": [
+        "<B>Lebanese</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_Canadian",
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Lebanese_Canadian",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:West_Asian_Canadians"
+      ]
+    },
+    {
+      "score": [
+        "2916.9194"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli–Lebanese_conflict"
+      ],
+      "redirectlabel": [
+        "Israel-Lebanon Confict",
+        "Israel-Lebanon Conflict",
+        "Israel-Lebanon confict",
+        "Israel-Lebanon conflict",
+        "Israel-Lebanon crisis",
+        "Israel Lebanon Conflict",
+        "Israel Lebanon conflict",
+        "Israeli-<B>Lebanese</B> Conflict",
+        "Israeli-<B>Lebanese</B> conflict",
+        "Israeli-lebanon conflict",
+        "Israeli incursions into Lebanon",
+        "Israeli overflights of <B>Lebanese</B> territory",
+        "Israeli violations of <B>Lebanese</B> airspace",
+        "Israeli violations of <B>Lebanese</B> sovereignity",
+        "Israeli violations of <B>Lebanese</B> sovereignty",
+        "Israeli violations of <B>Lebanese</B> territory",
+        "Israel–Lebanon conflict",
+        "Lebanon-Israel war",
+        "Lebanon-Israeli War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Israeli–<B>Lebanese</B> conflict, or the South Lebanon conflict, refers to a series of military"
+      ],
+      "label": [
+        "Israeli–<B>Lebanese</B> conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli–Lebanese_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Hezbollah–Israel_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Israeli–Lebanese_conflict",
+        "http://dbpedia.org/resource/Category:Israel–Lebanon_military_relations",
+        "http://dbpedia.org/resource/Category:Israel–Lebanon_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Israel",
+        "http://dbpedia.org/resource/Category:Military_history_of_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2759.6433"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Americans"
+      ],
+      "redirectlabel": [
+        "Demographics of <B>Lebanese</B> Americans",
+        "History of <B>Lebanese</B> Americans",
+        "<B>Lebanese</B>-American",
+        "<B>Lebanese</B>-Americans",
+        "<B>Lebanese</B> American",
+        "<B>Lebanese</B> immigrants in the United States"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Americans (Arabic: أمريكيون لبنانيون‎) are Americans of <B>Lebanese</B> descent. This includes"
+      ],
+      "label": [
+        "<B>Lebanese</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_American",
+        "http://dbpedia.org/resource/Category:Lebanese-American_history",
+        "http://dbpedia.org/resource/Category:Lebanese_American",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_emigrants_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American"
+      ]
+    },
+    {
+      "score": [
+        "2714.2708"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B>-Australian",
+        "<B>Lebanese</B> Australian",
+        "<B>Lebanese</B> born Australians",
+        "<B>Lebenese</B>-Australian",
+        "Lebs"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Australians refers to citizens or permanent residents of Australia of <B>Lebanese</B> ancestry"
+      ],
+      "label": [
+        "<B>Lebanese</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lebanese_Australian",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2707.5476"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Third_Division"
+      ],
+      "redirectlabel": [
+        "2021-22 <B>Lebanese</B> Third Division",
+        "2021–22 <B>Lebanese</B> Third Division"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Third Division (Arabic: الدوري اللبناني الدرجة الثالثة‎) is the third division of"
+      ],
+      "label": [
+        "<B>Lebanese</B> Third Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Third_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Third_Division",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1950"
+      ]
+    },
+    {
+      "score": [
+        "2678.5144"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_pound"
+      ],
+      "redirectlabel": [
+        "ISO 4217:LBP",
+        "<B>Lebanese</B> Lira",
+        "<B>Lebanese</B> Pound",
+        "<B>Lebanese</B> lira",
+        "<B>Lebanese</B> livre",
+        "<B>Lebanese</B> money",
+        "Lebanon Pounds",
+        "Lebanon pound",
+        "Lollar (Lebanon)",
+        "£L"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> pound (Arabic: ليرة لبنانية‎ lira libnaniyya; French: livre libanaise; sign: ل.ل"
+      ],
+      "label": [
+        "<B>Lebanese</B> pound"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_pound"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1924",
+        "http://dbpedia.org/resource/Category:Currencies_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Fixed_exchange_rate"
+      ]
+    },
+    {
+      "score": [
+        "2661.5205"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Women's_Football_League"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Football League (women's football)",
+        "<B>Lebanese</B> Women's Premier League",
+        "Lebanon Women's Football League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Women's Football League (Arabic: البطولة اللبنانية لكرة القدم للسيدات‎) is the only"
+      ],
+      "label": [
+        "<B>Lebanese</B> Women's Football League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Women's_Football_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Women's_Football_League",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2008",
+        "http://dbpedia.org/resource/Category:Top_level_women's_association_football_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Women's_football_leagues_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2508.1294"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of Lebanon",
+        "History of <B>Lebanese</B> cuisine",
+        "Laban emmo",
+        "<B>Lebanese</B> Cuisine",
+        "<B>Lebanese</B> Food",
+        "<B>Lebanese</B> cheese",
+        "<B>Lebanese</B> food"
+      ],
+      "comment": [
+        "<B>Lebanese</B> cuisine (Arabic: المطبخ اللبناني‎) is a Levantine style of cooking that includes an"
+      ],
+      "label": [
+        "<B>Lebanese</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_cuisine",
+        "http://dbpedia.org/resource/Category:Lebanese_cuisine",
+        "http://dbpedia.org/resource/Category:Levantine_cuisine",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2451.8718"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Shia_Muslims"
+      ],
+      "redirectlabel": [
+        "Alawite Community (Lebanon)",
+        "Alawites in Lebanon",
+        "History of Shia Islam in Lebanon",
+        "Ismailis in Lebanon",
+        "<B>Lebanese</B> Shi'a Muslims",
+        "<B>Lebanese</B> people (Shia Muslims)",
+        "Matawila",
+        "Matāwila",
+        "Metaoulis",
+        "Metawala",
+        "Metawali",
+        "Metawalis",
+        "Metawileh",
+        "Metouali",
+        "Metuali",
+        "Metualis",
+        "Metwallis",
+        "Mutawali",
+        "Mutawālī",
+        "Métu'alis",
+        "Métualis",
+        "Shi'a Islam in Lebanon",
+        "Shia Islam in Lebanon",
+        "Shia Muslims in Lebanon",
+        "Shiism in Lebanon",
+        "Twelver Shia Islam in Lebanon"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Shia Muslims (Arabic: المسلمون الشيعة اللبنانيين‎), historically known as Mutawila or"
+      ],
+      "label": [
+        "<B>Lebanese</B> Shia Muslims"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Shia_Muslims"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_Shia_Muslims",
+        "http://dbpedia.org/resource/Category:Shia_Islam_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2433.4353"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Al-Manar_Football_Festival"
+      ],
+      "redirectlabel": [
+        "Al-Manar Football Festival (1990s)",
+        "Al-Manar Football Festival (2000s)",
+        "Al-Manar Football Festival (2010s)",
+        "Al-Manar Sports Ethics Award",
+        "Al-Manar TV Football Festival",
+        "Al Manar Football Festival",
+        "Al Manar TV Football Festival",
+        "Best <B>Lebanese</B> Assistant Referee",
+        "Best <B>Lebanese</B> Referee",
+        "<B>Lebanese</B> Fair Play Award",
+        "<B>Lebanese</B> Football League Coach of the Season",
+        "<B>Lebanese</B> Football League Foreign Player Golden Ball",
+        "<B>Lebanese</B> Football League Goal of the Season",
+        "<B>Lebanese</B> Football League Golden Ball",
+        "<B>Lebanese</B> Football League Golden Boot",
+        "<B>Lebanese</B> Football League Team of the Season",
+        "<B>Lebanese</B> Football League Top Assist Provider",
+        "<B>Lebanese</B> Football League Young Player of the Season",
+        "<B>Lebanese</B> Foreign Player Golden Ball",
+        "<B>Lebanese</B> Futsal Player of the Season",
+        "<B>Lebanese</B> Golden Ball",
+        "<B>Lebanese</B> Premier League Best Coach",
+        "<B>Lebanese</B> Premier League Best Fans' Player",
+        "<B>Lebanese</B> Premier League Best Foreign Player",
+        "<B>Lebanese</B> Premier League Best Goal",
+        "<B>Lebanese</B> Premier League Best Goalkeeper",
+        "<B>Lebanese</B> Premier League Best Performance",
+        "<B>Lebanese</B> Premier League Best Player",
+        "<B>Lebanese</B> Premier League Best Referee",
+        "<B>Lebanese</B> Premier League Best Save",
+        "<B>Lebanese</B> Premier League Best Young Player",
+        "<B>Lebanese</B> Premier League Coach of the Season",
+        "<B>Lebanese</B> Premier League Fans' Best Player",
+        "<B>Lebanese</B> Premier League Goal of the Season",
+        "<B>Lebanese</B> Premier League Goal of the Year",
+        "<B>Lebanese</B> Premier League Golden Ball",
+        "<B>Lebanese</B> Premier League Golden Boot",
+        "<B>Lebanese</B> Premier League Most Appearances",
+        "<B>Lebanese</B> Premier League Player of the Week",
+        "<B>Lebanese</B> Premier League Team of the Season",
+        "<B>Lebanese</B> Premier League Team of the Year",
+        "<B>Lebanese</B> Premier League most appearances",
+        "<B>Lebanese</B> Premier League top assist provider",
+        "<B>Lebanese</B> Young Player of the Year"
+      ],
+      "typeName": [
+        "Award"
+      ],
+      "comment": [
+        " have performed the best over the previous <B>Lebanese</B> Premier League season. Starting from the 2017–18"
+      ],
+      "label": [
+        "Al-Manar Football Festival"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Al-Manar_Football_Festival"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Award"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Al-Manar_Football_Festival",
+        "http://dbpedia.org/resource/Category:Annual_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1997",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:Lebanese_football_trophies_and_awards"
+      ]
+    },
+    {
+      "score": [
+        "2302.4058"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Forces Party",
+        "List of <B>Lebanese</B> Forces Deputies in the <B>Lebanese</B> Parliament",
+        "Ouwet"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Forces (Arabic: القوات اللبنانية‎ al-Quwwāt al-Libnānīyah) is a <B>Lebanese</B> Christian"
+      ],
+      "label": [
+        "<B>Lebanese</B> Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1976_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Christian_political_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Factions_in_the_Lebanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Lebanese_Front",
+        "http://dbpedia.org/resource/Category:Lebanese_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:March_14_Alliance",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1976",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2277.1924"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_diaspora"
+      ],
+      "redirectlabel": [
+        "Emigration from Lebanon",
+        "History of the <B>Lebanese</B> diaspora"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> diaspora refers to <B>Lebanese</B> migrants and their descendants who, whether by choice or"
+      ],
+      "label": [
+        "<B>Lebanese</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_diaspora"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2266.7815"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Broadcasting_Corporation_International"
+      ],
+      "redirectlabel": [
+        "LBCGroup",
+        "LBCI",
+        "LBC (Lebanon)",
+        "LBC America",
+        "LBC Australia",
+        "LBC Europe",
+        "LBC I",
+        "LBC Local",
+        "LBC Maghreb",
+        "LBC Sat",
+        "LBC TV",
+        "Lbcgroup.tv",
+        "Lbcgroup",
+        "<B>Lebanese</B> Broadcasting Corporation",
+        "<B>Lebanese</B> broadcasting corporation"
+      ],
+      "typeName": [
+        "Organisation",
+        "BroadcastNetwork",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Broadcasting Corporation International (Arabic: المؤسسة اللبنانية للإرسال"
+      ],
+      "label": [
+        "<B>Lebanese</B> Broadcasting Corporation International"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Broadcasting_Corporation_International"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BroadcastNetwork",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Arabic-language_television_stations",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1985",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Television_stations_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2262.3384"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–2016_Lebanese_presidential_election"
+      ],
+      "redirectlabel": [
+        "2014-2016 <B>Lebanese</B> presidential election",
+        "2014 <B>Lebanese</B> presidential election",
+        "2016 <B>Lebanese</B> presidential election",
+        "<B>Lebanese</B> presidential crisis",
+        "<B>Lebanese</B> presidential election, 2014-2015",
+        "<B>Lebanese</B> presidential election, 2014-2016",
+        "<B>Lebanese</B> presidential election, 2014",
+        "<B>Lebanese</B> presidential election, 2014–2015",
+        "<B>Lebanese</B> presidential election, 2014–2016",
+        "<B>Lebanese</B> presidential election deadlock, 2014-2015",
+        "<B>Lebanese</B> presidential election deadlock, 2014-Present",
+        "<B>Lebanese</B> presidential election deadlock, 2014–2015"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "A series of rounds in the <B>Lebanese</B> presidential election were held from 23 April 2014 until 31"
+      ],
+      "label": [
+        "2014–2016 <B>Lebanese</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–2016_Lebanese_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2014_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2015_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2015_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2016_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2016_in_Lebanon",
+        "http://dbpedia.org/resource/Category:April_2014_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Michel_Aoun",
+        "http://dbpedia.org/resource/Category:October_2016_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2230.7827"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Lebanese_people_in_the_Caribbean"
+      ],
+      "redirectlabel": [
+        "List of <B>Lebanese</B> people (Curaçao)",
+        "List of <B>Lebanese</B> people (Dominican Republic)",
+        "List of <B>Lebanese</B> people (Haiti)",
+        "List of <B>Lebanese</B> people (Jamaica)",
+        "List of <B>Lebanese</B> people (Netherlands Antilles)",
+        "List of <B>Lebanese</B> people (Puerto Rico)",
+        "List of <B>Lebanese</B> people in Curacao",
+        "List of <B>Lebanese</B> people in Curaçao",
+        "List of <B>Lebanese</B> people in Haiti",
+        "List of <B>Lebanese</B> people in Jamaica",
+        "List of <B>Lebanese</B> people in Puerto Rico",
+        "List of <B>Lebanese</B> people in the Dominican Republic",
+        "List of <B>Lebanese</B> people in the Republic of Haiti",
+        "List of <B>Lebanese</B> people in the West Indies"
+      ],
+      "comment": [
+        "The following is a list of people of <B>Lebanese</B> descent living in the Caribbean."
+      ],
+      "label": [
+        "List of <B>Lebanese</B> people in the Caribbean"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Lebanese_people_in_the_Caribbean"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lebanese_Caribbean",
+        "http://dbpedia.org/resource/Category:Lists_of_people_by_ethnicity",
+        "http://dbpedia.org/resource/Category:Lists_of_people_of_Lebanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "2177.8755"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018_Lebanese_general_election"
+      ],
+      "redirectlabel": [
+        "2013 <B>Lebanese</B> general election",
+        "2013 <B>Lebanese</B> parliamentary elections",
+        "2014 <B>Lebanese</B> general election",
+        "2017 <B>Lebanese</B> general election",
+        "<B>Lebanese</B> general election, 2013",
+        "<B>Lebanese</B> general election, 2014",
+        "<B>Lebanese</B> general election, 2017",
+        "<B>Lebanese</B> general election, 2018",
+        "<B>Lebanese</B> parliamentary election, 2013",
+        "<B>Lebanese</B> parliamentary elections, 2013"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in Lebanon on 6 May 2018. Although originally scheduled for 2013, the election was postponed three times in 2013, 2014 and 2017 under various pretexts, including the security situation, the failure of the Parliament to elect a new President, and the technical requirements of holding an election. A new electoral law adopted in 2017 provides a proportional representation system for the first time."
+      ],
+      "label": [
+        "2018 <B>Lebanese</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018_Lebanese_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2018_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Lebanon",
+        "http://dbpedia.org/resource/Category:May_2018_events_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2164.0767"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Lebanese</B> Football League",
+        "1999-00 <B>Lebanese</B> Premier League",
+        "1999-2000 <B>Lebanese</B> Football League",
+        "1999-2000 <B>Lebanese</B> Premier League",
+        "1999–00 <B>Lebanese</B> Football League",
+        "1999–00 <B>Lebanese</B> Premier League",
+        "1999–2000 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1999-00",
+        "<B>Lebanese</B> Premier League 1999-2000",
+        "<B>Lebanese</B> Premier League 1999–00",
+        "<B>Lebanese</B> Premier League 1999–2000"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1999–2000 season."
+      ],
+      "label": [
+        "1999–2000 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:1999–2000_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1999–2000_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2140.8926"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Lebanese_people"
+      ],
+      "redirectlabel": [
+        "Famous <B>Lebanese</B>",
+        "List of <B>Lebanese</B>-descent people",
+        "List of <B>Lebanese</B> journalists",
+        "List of <B>Lebanese</B> or <B>Lebanese</B>-descent people",
+        "List of <B>Lebanese</B> politicians",
+        "List of <B>Lebanese</B> scientists",
+        "List of <B>Lebanese</B> sports personalities"
+      ],
+      "comment": [
+        "This is a list of notable individuals born and residing mainly in Lebanon. <B>Lebanese</B> expatriates"
+      ],
+      "label": [
+        "List of <B>Lebanese</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Lebanese_people"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Lebanese_people"
+      ]
+    },
+    {
+      "score": [
+        "2100.1946"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Greek_Orthodox_Christians"
+      ],
+      "redirectlabel": [
+        "Eastern Orthodox Christianity in Lebanon",
+        "Eastern Orthodox Christians in Lebanon",
+        "Eastern Orthodoxy in Lebanon",
+        "Greek Orthodox Christianity in Lebanon",
+        "Greek Orthodox Christians in Lebanon",
+        "<B>Lebanese</B> Eastern Orthodox Christians",
+        "<B>Lebanese</B> Melkite Orthodox Christians",
+        "<B>Lebanese</B> people (Eastern Orthodox Christians)",
+        "<B>Lebanese</B> people (Greek Orthodox Christians)",
+        "<B>Lebanese</B> people (Melkite Orthodox Christians)",
+        "Melkite Orthodox Christianity in Lebanon",
+        "Melkite Orthodox Christians in Lebanon"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Greek Orthodox Christians (Arabic: المسيحية الأرثوذكسية الرومية في لبنان) refers to"
+      ],
+      "label": [
+        "<B>Lebanese</B> Greek Orthodox Christians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Greek_Orthodox_Christians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_Orthodoxy_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "2060.0986"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Lebanese_general_election"
+      ],
+      "redirectlabel": [
+        "2009 <B>Lebanese</B> elections",
+        "2009 <B>Lebanese</B> general elections",
+        "2009 <B>Lebanese</B> parliamentary election",
+        "2009 elections in Lebanon",
+        "<B>Lebanese</B> General Elections 2009",
+        "<B>Lebanese</B> elections, 2009",
+        "<B>Lebanese</B> elections 2009",
+        "<B>Lebanese</B> general election, 2009",
+        "<B>Lebanese</B> parliamentary election, 2009"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Parliamentary elections were held in Lebanon on 7 June 2009 to elect all 128 members of the Parliament of Lebanon."
+      ],
+      "label": [
+        "2009 <B>Lebanese</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Lebanese_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2009_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Elections_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Michel_Aoun"
+      ]
+    },
+    {
+      "score": [
+        "2039.214"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Paraguayans"
+      ],
+      "redirectlabel": [
+        "Immigrants <B>Lebanese</B> in Paraguay",
+        "<B>Lebanese</B>-Paraguayan",
+        "<B>Lebanese</B>-Paraguayans",
+        "<B>Lebanese</B> Paraguayan",
+        "<B>Lebanese</B> immigration to Paraguay",
+        "<B>Lebanese</B> migration to Paraguay"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The arrival of immigrants of <B>Lebanese</B> origin to Paraguay consisted of a large number of people who"
+      ],
+      "label": [
+        "<B>Lebanese</B> Paraguayans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Paraguayans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Paraguayan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Paraguay",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_South_America",
+        "http://dbpedia.org/resource/Category:Paraguayan_people_of_Lebanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "1915.5714"
+      ],
+      "refCount": [
+        "115"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Safa_SC"
+      ],
+      "redirectlabel": [
+        "Al-Safa' SC",
+        "Al-Safa' SC (Women)",
+        "Safa (<B>Lebanese</B> football club)",
+        "Safa (football club)",
+        "Safa Beirut",
+        "Safa Beirut SC",
+        "Safa Beyrouth",
+        "Safa Sporting Club"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Safa Sporting Club (Arabic: نادي الصفاء الرياضي‎, lit. 'Purity Sporting Club') is a <B>Lebanese</B>"
+      ],
+      "label": [
+        "Safa SC"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Safa_SC"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1939_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1939",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Safa_SC"
+      ]
+    },
+    {
+      "score": [
+        "1865.4221"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Maronite_Christians"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Maronite Christian",
+        "<B>Lebanese</B> Maronites",
+        "<B>Lebanese</B> people (Maronite Christians)",
+        "Maronite Christian",
+        "Maronite Christianity in Lebanon",
+        "Maronite Christians",
+        "Maronite Christians in Lebanon",
+        "Maronites in Lebanon",
+        "Syriac Maronite Church in Lebanon"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Maronite Christians (Arabic: المسيحية المارونية في لبنان‎, Classical Syriac: ܡܫܝܚܝ̈ܐ"
+      ],
+      "label": [
+        "<B>Lebanese</B> Maronite Christians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Maronite_Christians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_Maronites"
+      ]
+    },
+    {
+      "score": [
+        "1829.5687"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Lebanese_people_in_Africa"
+      ],
+      "redirectlabel": [
+        "List of <B>Lebanese</B> people (Ghana)",
+        "List of <B>Lebanese</B> people (Liberia)",
+        "List of <B>Lebanese</B> people (Sierra Leone)",
+        "List of <B>Lebanese</B> people (South Africa)",
+        "List of <B>Lebanese</B> people in Ghana",
+        "List of <B>Lebanese</B> people in Liberia",
+        "List of <B>Lebanese</B> people in Nigeria",
+        "List of <B>Lebanese</B> people in Sierra Leone",
+        "List of <B>Lebanese</B> people in South Africa"
+      ],
+      "comment": [
+        " <B>Lebanese</B> ancestry or people of dual <B>Lebanese</B> and local nationality born and/or residing in Africa.(This list is incomplete; you can help by expanding it.)\n"
+      ],
+      "label": [
+        "List of <B>Lebanese</B> people in Africa"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Lebanese_people_in_Africa"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lists_of_people_by_ethnicity",
+        "http://dbpedia.org/resource/Category:Lists_of_people_of_Lebanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "1829.3065"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Football_Association"
+      ],
+      "redirectlabel": [
+        "FLFA",
+        "Federation Libanaise de Football",
+        "Federation Libanaise de Football Association",
+        "Federation libanaise de football",
+        "Fédération Libanaise de Football Association",
+        "<B>Lebanese</B> FA",
+        "<B>Lebanese</B> Football Federation",
+        "Lebanon F.A",
+        "Lebanon FA",
+        "Lebanon Football Association",
+        "Lebanon fa",
+        "Lebanon football federation"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Football Association (LFA) (Arabic: الاتحاد اللبناني لكرة القدم‎; French: Fédération"
+      ],
+      "label": [
+        "<B>Lebanese</B> Football Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Football_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Asian_Football_Confederation_member_associations",
+        "http://dbpedia.org/resource/Category:Football_governing_bodies_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Futsal_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Football_Association",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1933"
+      ]
+    },
+    {
+      "score": [
+        "1763.7319"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_wine"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> wines",
+        "Lebanon (wine)",
+        "Lebanon wine",
+        "Lebanon wines",
+        "Wine from Lebanon",
+        "Wines from Lebanon"
+      ],
+      "comment": [
+        "Lebanon is among the oldest sites of wine production in the world. The Israelite prophet Hosea (780–725 BC) is said to have urged his followers to return to God so that \"they will blossom as the vine, [and] their fragrance will be like the wine of Lebanon\". The Phoenicians of its coastal strip were instrumental in spreading wine and viticulture throughout the Mediterranean in ancient times. Despite the many conflicts of the region, the country has an annual production of about 6,000,000 cases of wine."
+      ],
+      "label": [
+        "<B>Lebanese</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_wine"
+      ]
+    },
+    {
+      "score": [
+        "1748.3646"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Muslim_Association"
+      ],
+      "redirectlabel": [
+        "LMA <B>Lebanese</B> Muslim Association",
+        "<B>Lebanese</B> Moslem Association",
+        "<B>Lebanese</B> Moslems Association",
+        "<B>Lebanese</B> Muslim Association (LMA)",
+        "<B>Lebanese</B> Muslims Association"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Muslim Association (LMA) is an Australian non-profit welfare Sunni Muslim organisation"
+      ],
+      "label": [
+        "<B>Lebanese</B> Muslim Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Muslim_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Arab-Australian_culture",
+        "http://dbpedia.org/resource/Category:Islamic_organisations_based_in_Australia",
+        "http://dbpedia.org/resource/Category:Islamic_organizations_established_in_1962",
+        "http://dbpedia.org/resource/Category:Non-profit_organisations_based_in_New_South_Wales",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Sydney"
+      ]
+    },
+    {
+      "score": [
+        "1720.6786"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Mexicans"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B>-Mexican",
+        "<B>Lebanese</B> Mexican",
+        "<B>Lebanese</B> immigration to Mexico"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Mexicans refers to Mexican citizens of <B>Lebanese</B> origin. Although <B>Lebanese</B> Mexicans made up"
+      ],
+      "label": [
+        "<B>Lebanese</B> Mexicans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Mexicans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Mexico",
+        "http://dbpedia.org/resource/Category:Lebanese_Mexican",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Mexican_people_of_Lebanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "1705.1436"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Navy"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> navy",
+        "Lebanon Navy",
+        "Navy of Lebanon"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Navy (Arabic: القوات البحرية اللبنانية‎ Al-qūwātu al-Baḥriyya al-Lubnāniyya"
+      ],
+      "label": [
+        "<B>Lebanese</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1950",
+        "http://dbpedia.org/resource/Category:Navies_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1684.4574"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Christianity_in_Lebanon"
+      ],
+      "redirectlabel": [
+        "Christian <B>Lebanese</B>",
+        "Christianity in lebanon",
+        "Eastern Orthodox Church in Lebanon",
+        "Greek Orthodox Church in Lebanon",
+        "History of Christianity in Lebanon",
+        "<B>Lebanese</B> Christian",
+        "<B>Lebanese</B> Christian Groups",
+        "<B>Lebanese</B> Christians",
+        "Maronite Church in Lebanon",
+        "Melkite Church in Lebanon",
+        "Oriental Orthodox Christianity in Lebanon",
+        "Oriental Orthodoxy in Lebanon",
+        "Protestant Church in Lebanon"
+      ],
+      "comment": [
+        " persisted in mountaintop strongholds. A 2015 study estimates some 2,500 <B>Lebanese</B> Christians have"
+      ],
+      "label": [
+        "Christianity in Lebanon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Christianity_in_Lebanon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christianity_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1660.1799"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–2016_Lebanese_protests"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Lebanese</B> protests",
+        "2015-2016 <B>Lebanese</B> protests",
+        "2015 <B>Lebanese</B> protests",
+        "2015–16 <B>Lebanese</B> protests",
+        "You Stink!",
+        "You Stink"
+      ],
+      "label": [
+        "2015–2016 <B>Lebanese</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–2016_Lebanese_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2015_protests",
+        "http://dbpedia.org/resource/Category:2016_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2016_protests",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_Arab_Spring",
+        "http://dbpedia.org/resource/Category:Protests_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1642.9506"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli–Lebanese_maritime_border_dispute"
+      ],
+      "redirectlabel": [
+        "2020 Israeli-<B>Lebanese</B> talks",
+        "Israeli-<B>Lebanese</B> Maritime boundary dispute",
+        "Israeli-<B>Lebanese</B> maritime border dispute",
+        "Israeli-<B>Lebanese</B> talks",
+        "Israeli–<B>Lebanese</B> Maritime boundary dispute",
+        "Israeli–<B>Lebanese</B> talks"
+      ],
+      "label": [
+        "Israeli–<B>Lebanese</B> maritime border dispute"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli–Lebanese_maritime_border_dispute"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab–Israeli_peace_process",
+        "http://dbpedia.org/resource/Category:Disputed_waters",
+        "http://dbpedia.org/resource/Category:Israel–Lebanon_border",
+        "http://dbpedia.org/resource/Category:Presidency_of_Donald_Trump",
+        "http://dbpedia.org/resource/Category:Presidency_of_Joe_Biden"
+      ]
+    },
+    {
+      "score": [
+        "1641.3103"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Brazilians"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Brazilian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Brazilians (Portuguese: Líbano-brasileiros), (Arabic: البرازيلي اللبناني) are Brazilians"
+      ],
+      "label": [
+        "<B>Lebanese</B> Brazilians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:Lebanese_Brazilian",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1640.4569"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Argentines"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Argentine"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Argentine refers to Argentine citizens of <B>Lebanese</B> descent or Lebanon-born people who"
+      ],
+      "label": [
+        "<B>Lebanese</B> Argentines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Argentines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lebanese_Argentine",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1636.2036"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_people_in_the_United_Kingdom"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Lebanese</B>",
+        "<B>Lebanese</B> British",
+        "<B>Lebanese</B> in the United Kingdom",
+        "<B>Lebanese</B> people in the Untied Kingdom"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> people in the United Kingdom include people originating from Lebanon who have migrated to the United Kingdom and their descendants."
+      ],
+      "label": [
+        "<B>Lebanese</B> people in the United Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_people_in_the_United_Kingdom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabs_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:British_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_Kingdom_by_country_of_origin",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1633.4128"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1994–95_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1994-95 <B>Lebanese</B> Football League",
+        "1994-95 <B>Lebanese</B> League League",
+        "1994-95 <B>Lebanese</B> Premier League",
+        "1994–95 <B>Lebanese</B> Football League",
+        "1994–95 <B>Lebanese</B> League League",
+        "<B>Lebanese</B> Premier League 1994–95"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1994/1995 season."
+      ],
+      "label": [
+        "1994–95 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1994–95_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994–95_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1994–95_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1625.1056"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007–08_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2007-08 <B>Lebanese</B> Football League",
+        "2007-08 <B>Lebanese</B> Premier League",
+        "2007–08 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2007-08",
+        "<B>Lebanese</B> Premier League 2007/08",
+        "<B>Lebanese</B> Premier League 2007–08"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Premier League 2007/08 season is the 48th season in the <B>Lebanese</B> Premier League. The"
+      ],
+      "label": [
+        "2007–08 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007–08_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007–08_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2007–08_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2007–08_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1622.0135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_people_in_France"
+      ],
+      "redirectlabel": [
+        "History of the <B>Lebanese</B> in France",
+        "<B>Lebanese</B>-French",
+        "<B>Lebanese</B> in France"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> people in France include migrants from Lebanon to France, as well as their descendants."
+      ],
+      "label": [
+        "<B>Lebanese</B> people in France"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_people_in_France"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabs_in_France",
+        "http://dbpedia.org/resource/Category:French_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_France_by_country_of_origin",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_France"
+      ]
+    },
+    {
+      "score": [
+        "1597.176"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of Lebanon",
+        "<B>Lebanese</B> Air Forces",
+        "Lebanon Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Air Force (LAF) (Arabic: القوات الجوية اللبنانية‎, Al Quwwat al-Jawwiya al-Lubnaniyya"
+      ],
+      "label": [
+        "<B>Lebanese</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Military_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1949"
+      ]
+    },
+    {
+      "score": [
+        "1579.5996"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_members_of_the_2009–2017_Lebanese_Parliament"
+      ],
+      "redirectlabel": [
+        "List of members of the 2009-17 <B>Lebanese</B> Parliament",
+        "List of members of the 2009-2017 <B>Lebanese</B> Parliament",
+        "List of members of the 2009–17 <B>Lebanese</B> Parliament",
+        "List of members of the twenty-second Parliament of Lebanon",
+        "Members of the 2009-13 <B>Lebanese</B> Parliament",
+        "Members of the 2009-17 <B>Lebanese</B> Parliament",
+        "Members of the 2009-2013 <B>Lebanese</B> Parliament",
+        "Members of the 2009–13 <B>Lebanese</B> Parliament",
+        "Members of the 2009–17 <B>Lebanese</B> Parliament",
+        "Members of the 2009–2013 <B>Lebanese</B> Parliament"
+      ],
+      "label": [
+        "List of members of the 2009–2017 <B>Lebanese</B> Parliament"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_members_of_the_2009–2017_Lebanese_Parliament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2010_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2011_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2012_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2013_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lists_of_members_of_the_Parliament_of_Lebanon_by_term"
+      ]
+    },
+    {
+      "score": [
+        "1573.5955"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Lebanon"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Music",
+        "<B>Lebanese</B> music"
+      ],
+      "comment": [
+        "The music of Lebanon has a long history. Beirut, the capital city of Lebanon, has long been known, especially in a period immediately following World War II, for its art and intellectualism. Several singers emerged in this period, among the most famous Fairuz, Sabah, Wadih El Safi, Nasri Shamseddine, Melhem Barakat, , Majida El Roumi, Ahmad Kaabour, Marcel Khalife, (activist folk singer and oud player), and Ziad Rahbany, who—in addition to being an engaged singer-songwriter and music composer—was also a popular playwright. Lydia Canaan was hailed by the media as the first rock star of the Middle East."
+      ],
+      "label": [
+        "Music of Lebanon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Lebanon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_music"
+      ]
+    },
+    {
+      "score": [
+        "1567.1848"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese"
+      ],
+      "redirectlabel": [
+        "Labanese",
+        "<B>Lebanese</B> (disambiguation)",
+        "<B>Lebonese</B>"
+      ],
+      "label": [
+        "<B>Lebanese</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1532.3782"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_football_league_system"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Fifth Division",
+        "<B>Lebanese</B> Fourth Division",
+        "<B>Lebanese</B> Governorates Division",
+        "<B>Lebanese</B> football pyramid"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> football league system, also known as the <B>Lebanese</B> football pyramid, is a series of"
+      ],
+      "label": [
+        "<B>Lebanese</B> football league system"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_football_league_system"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_league_systems_in_Asia",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1527.8348"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2005_Lebanese_general_election"
+      ],
+      "redirectlabel": [
+        "2005 <B>Lebanese</B> general elections",
+        "2005 Lebanon parliamentary election",
+        "<B>Lebanese</B> general election, 2005",
+        "<B>Lebanese</B> legislative election, 2005"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2005 <B>Lebanese</B> general elections were held in May and June 2005 to elect the 128 members of the"
+      ],
+      "label": [
+        "2005 <B>Lebanese</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2005_Lebanese_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2005_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1526.3877"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Futsal_League"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Futsal Championship",
+        "Lebanon Futsal Championship",
+        "Lebanon Futsal League",
+        "Lebanon futsal league"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Futsal League (Arabic: دوري كرة القدم الخماسية اللبناني‎) is the top league of futsal"
+      ],
+      "label": [
+        "<B>Lebanese</B> Futsal League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Futsal_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Futsal_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2007",
+        "http://dbpedia.org/resource/Category:Top_level_futsal_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1508.676"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006–07_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2006-07 <B>Lebanese</B> Football League",
+        "2006-07 <B>Lebanese</B> Premier League",
+        "2006–07 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2006-07",
+        "<B>Lebanese</B> Premier League 2006–07"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Premier League 2006/07 season was the 47th season in the <B>Lebanese</B> Premier League. Al"
+      ],
+      "label": [
+        "2006–07 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006–07_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006–07_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2006–07_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2006–07_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.7135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2002–03_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2002-03 <B>Lebanese</B> Football League",
+        "2002-03 <B>Lebanese</B> Premier League",
+        "2002–03 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2002-03",
+        "<B>Lebanese</B> Premier League 2002–03"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 2002/2003 season."
+      ],
+      "label": [
+        "2002–03 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2002–03_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002–03_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2002–03_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2002–03_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.7135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003–04_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2003-04 <B>Lebanese</B> Football League",
+        "2003-04 <B>Lebanese</B> Premier League",
+        "2003–04 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2003-04",
+        "<B>Lebanese</B> Premier League 2003–04"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 2003/2004 season."
+      ],
+      "label": [
+        "2003–04 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003–04_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003–04_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2003–04_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2003–04_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.7135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1997–98_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1997-98 <B>Lebanese</B> Football League",
+        "1997-98 <B>Lebanese</B> Premier League",
+        "1997–98 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1997-98",
+        "<B>Lebanese</B> Premier League 1997–98"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1997/1998 season."
+      ],
+      "label": [
+        "1997–98 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1997–98_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997–98_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:1997–98_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1997–98_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.7135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1998–99_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1998-99 <B>Lebanese</B> Football League",
+        "1998-99 <B>Lebanese</B> Premier League",
+        "1998–99 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1998-99",
+        "<B>Lebanese</B> Premier League 1998–99"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1998/1999 season."
+      ],
+      "label": [
+        "1998–99 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1998–99_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998–99_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:1998–99_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1998–99_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.7135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001–02_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2001-02 <B>Lebanese</B> Football League",
+        "2001-02 <B>Lebanese</B> Premier League",
+        "2001–02 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2001-02",
+        "<B>Lebanese</B> Premier League 2001–02"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 2001/2002 season."
+      ],
+      "label": [
+        "2001–02 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001–02_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001–02_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2001–02_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2001–02_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.7135"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2000–01_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2000-01 <B>Lebanese</B> Football League",
+        "2000-01 <B>Lebanese</B> Premier League",
+        "2000–01 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2000-01",
+        "<B>Lebanese</B> Premier League 2000–01"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 2000/2001 season."
+      ],
+      "label": [
+        "2000–01 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2000–01_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000–01_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2000–01_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2000–01_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1506.1478"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_people_in_Greece"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Greek",
+        "<B>Lebanese</B> in Greece",
+        "<B>Lebanese</B> in Greece and Cyprus"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> people in Greece include immigrants and descendants of immigrants from Lebanon, numbering"
+      ],
+      "label": [
+        "<B>Lebanese</B> people in Greece"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_people_in_Greece"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1502.5894"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Ecuadorians"
+      ],
+      "redirectlabel": [
+        "Ecuadorian of <B>Lebanese</B> origin",
+        "<B>Lebanese</B> Ecuadorian",
+        "<B>Lebanese</B> people in Ecuador"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Ecuadorians are Ecuadorians who are descended from migrants from Lebanon. There are"
+      ],
+      "label": [
+        "<B>Lebanese</B> Ecuadorians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Ecuadorians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ecuadorian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Ecuador",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1499.0226"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008–09_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Lebanese</B> Football League",
+        "2008-09 <B>Lebanese</B> Premier League",
+        "2008–09 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2008-09",
+        "<B>Lebanese</B> Premier League 2008–09"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2008–09 <B>Lebanese</B> Premier League is the 49th season of Lebanon's football league. The league"
+      ],
+      "label": [
+        "2008–09 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008–09_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008–09_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2008–09_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2008–09_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1496.3193"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2005–06_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2005-06 <B>Lebanese</B> Football League",
+        "2005-06 <B>Lebanese</B> Premier League",
+        "2005–06 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2005-06",
+        "<B>Lebanese</B> Premier League 2005–06"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2005–06 Season of the <B>Lebanese</B> Premier League was the 46th season of Top-Flight League"
+      ],
+      "label": [
+        "2005–06 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2005–06_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005–06_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2005–06_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2005–06_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1495.3468"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/17_October_Revolution"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Lebanese</B> protests",
+        "2019-2021 <B>Lebanese</B> protests",
+        "2019-20 <B>Lebanese</B> protests",
+        "2019 <B>Lebanese</B> protests",
+        "2019–2020 <B>Lebanese</B> protests",
+        "2019–2021 <B>Lebanese</B> protests",
+        "2019–20 <B>Lebanese</B> protests",
+        "2020 <B>Lebanese</B> protests",
+        "Beirut explosion protests",
+        "<B>Lebanese</B> October Revolution",
+        "<B>Lebanese</B> protests (2019-2020)",
+        "<B>Lebanese</B> protests (2019–2020)",
+        "October 17 Revolution",
+        "October 17 revolution"
+      ],
+      "label": [
+        "17 October Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/17_October_Revolution"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Beirut",
+        "http://dbpedia.org/resource/Category:2018–2022_Arab_protests",
+        "http://dbpedia.org/resource/Category:2019_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Lebanon",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:December_2019_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Intifadas",
+        "http://dbpedia.org/resource/Category:January_2020_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Michel_Aoun",
+        "http://dbpedia.org/resource/Category:November_2019_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:October_2019_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Politics_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Protests_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1495.2942"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Jamaicans"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Jamaican",
+        "<B>Lebanese</B> immigration to Jamaica"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Jamaicans refers to Jamaican citizens of <B>Lebanese</B> or partial <B>lebanese</B> origin or descent"
+      ],
+      "label": [
+        "<B>Lebanese</B> Jamaicans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Jamaicans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_diaspora_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Jamaica",
+        "http://dbpedia.org/resource/Category:Jamaican_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lebanese_Caribbean",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1489.0094"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2004–05_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2004-05 <B>Lebanese</B> Football League",
+        "2004-05 <B>Lebanese</B> Premier League",
+        "2004–05 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 2004-05",
+        "<B>Lebanese</B> Premier League 2004–05"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2004-05 Season of the <B>Lebanese</B> Premier League was the 45th season of Top-Flight Professional"
+      ],
+      "label": [
+        "2004–05 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2004–05_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004–05_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2004–05_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2004–05_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1488.4751"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Southern_Lebanon"
+      ],
+      "redirectlabel": [
+        "Governorate of South Lebanon",
+        "Jnoub",
+        "Liban-Sud Governorate, Lebanon",
+        "South <B>Lebanese</B>",
+        "South Lebanon",
+        "Southern <B>Lebanese</B>"
+      ],
+      "comment": [
+        "Southern Lebanon (<B>Lebanese</B> Arabic: Jnoub, meaning \"south\") is the area of Lebanon comprising the"
+      ],
+      "label": [
+        "Southern Lebanon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Southern_Lebanon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_Lebanon_War",
+        "http://dbpedia.org/resource/Category:Geography_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Israeli–Lebanese_conflict",
+        "http://dbpedia.org/resource/Category:Regions_of_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1478.4333"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2020–21_in_Lebanese_football"
+      ],
+      "redirectlabel": [
+        "2020-21 in <B>Lebanese</B> football",
+        "2020 <B>Lebanese</B> Challenge Cup",
+        "2020 <B>Lebanese</B> Elite Cup",
+        "2020 <B>Lebanese</B> Elite and Challenge Cup",
+        "<B>Lebanese</B> Elite and Challenge Cup"
+      ],
+      "label": [
+        "2020–21 in <B>Lebanese</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2020–21_in_Lebanese_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_in_Lebanese_sport",
+        "http://dbpedia.org/resource/Category:2020_in_association_football",
+        "http://dbpedia.org/resource/Category:2020_sport-related_lists",
+        "http://dbpedia.org/resource/Category:2020–21_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:2021_in_Lebanese_sport",
+        "http://dbpedia.org/resource/Category:2021_in_association_football",
+        "http://dbpedia.org/resource/Category:2021_sport-related_lists",
+        "http://dbpedia.org/resource/Category:Seasons_in_Lebanese_football"
+      ]
+    },
+    {
+      "score": [
+        "1475.8206"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013–14_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "2013-14 <B>Lebanese</B> Football League",
+        "2013-14 <B>Lebanese</B> Premier League",
+        "2013-14 <B>Lebanese</B> Premier League table",
+        "2013–14 <B>Lebanese</B> Football League",
+        "2013–14 <B>Lebanese</B> Premier League table"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2013–14 <B>Lebanese</B> Premier League is the 54th season of top-tier football in Lebanon. A total of"
+      ],
+      "label": [
+        "2013–14 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013–14_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013–14_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:2013–14_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2013–14_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1438.0645"
+      ],
+      "refCount": [
+        "153"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Lebanon_War"
+      ],
+      "redirectlabel": [
+        "2006 Israel-Hezbollah Conflict in Lebanon",
+        "2006 Israel-Hezbollah War",
+        "2006 Israel-Hezbollah conflict",
+        "2006 Israel-Hezbollah war",
+        "2006 Israel-Lebanon-Hezbollah conflict",
+        "2006 Israel-Lebanon Conflict",
+        "2006 Israel-Lebanon Crisis",
+        "2006 Israel-Lebanon War",
+        "2006 Israel-Lebanon conflict",
+        "2006 Israel-Lebanon crisis",
+        "2006 Israel-Lebanon war",
+        "2006 Israel Lebanon Conflict",
+        "2006 Israel Lebanon crisis",
+        "2006 Israel War",
+        "2006 Israel crisis",
+        "2006 Israeli-Hizballah conflict",
+        "2006 Israeli-<B>Lebanese</B> War",
+        "2006 Israeli-<B>Lebanese</B> conflict",
+        "2006 Israeli-Lebanon War",
+        "2006 Israeli-Lebanon conflict",
+        "2006 Israel–Hezbollah War",
+        "2006 Israel–Lebanon War",
+        "2006 Israel–Lebanon conflict",
+        "2006 Israel–Lebanon crisis",
+        "2006 <B>Lebanese</B> War",
+        "2006 <B>Lebanese</B> war",
+        "2006 Lebanon-Israel War",
+        "2006 Lebanon-Israel conflict",
+        "2006 Lebanon-Israel crisis",
+        "2006 Lebanon-Israel war",
+        "2006 Lebanon Conflict",
+        "2006 Lebanon conflict",
+        "2006 Lebanon crisis",
+        "2006 Lebanon war",
+        "2006 Middle East Crisis",
+        "2006 Middle East conflict",
+        "2006 invasion of Lebanon",
+        "2006 israel-Lebanon War",
+        "2006 israel- Lebanon War",
+        "2006 israeli invasion of lebanon",
+        "2006 lebanon",
+        "2006 lebanon war",
+        "2006 war in Lebanon",
+        "34 day war",
+        "34 days war",
+        "Arab-israeli conflict 2006",
+        "Attacks affecting <B>Lebanese</B> industry in the 2006 Israel-Lebanon conflict",
+        "Attacks affecting <B>Lebanese</B> industry in the 2006 Lebanon war",
+        "David Markovich (Israeli military officer)",
+        "Environmental impact of the 2006 Lebanon War",
+        "Israel-Hezbollah war",
+        "Israel-Lebanon 2006 War",
+        "Israel-hezbollah war",
+        "Israel Lebanon conflict of 2006",
+        "Israel vs. Lebanon Wars 2006",
+        "July 2006 Israeli-Hezbollah clash",
+        "July War",
+        "July war",
+        "Just Reward",
+        "Lebanon-Israel conflict of 2006",
+        "Lebanon War of 2006",
+        "Lebanon war 2006",
+        "Media coverage of the 2006 Lebanon War",
+        "Northern Shield War",
+        "Operation Just Reward",
+        "Operation Just Rewards",
+        "Second Israeli war on Lebanon",
+        "Second Lebanon War",
+        "Tammuz War",
+        "The July War",
+        "The second Lebanon War",
+        "War of the North"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2006 Lebanon War, also called the 2006 Israel–Hezbollah War and known in Lebanon as the July War (Arabic: حرب تموز‎, Ḥarb Tammūz) and in Israel as the Second Lebanon War (Hebrew: מלחמת לבנון השנייה‎, Milhemet Levanon HaShniya), was a 34-day military conflict in Lebanon, Northern Israel and the Golan Heights. The principal parties were Hezbollah paramilitary forces and the Israel Defense Forces (IDF). The conflict started on 12 July 2006, and continued until a United Nations-brokered ceasefire went into effect in the morning on 14 August 2006, though it formally ended on 8 September 2006 when Israel lifted its naval blockade of Lebanon. Due to unprecedented Iranian military support to Hezbollah before and during the war, some consider it the first round of the Iran–Israel proxy conflict"
+      ],
+      "label": [
+        "2006 Lebanon War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Lebanon_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_Lebanon_War",
+        "http://dbpedia.org/resource/Category:2006_in_Israel",
+        "http://dbpedia.org/resource/Category:2006_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Aerial_operations_and_battles_involving_Israel",
+        "http://dbpedia.org/resource/Category:Articles_which_contain_graphical_timelines",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2006",
+        "http://dbpedia.org/resource/Category:Hezbollah–Israel_conflict",
+        "http://dbpedia.org/resource/Category:Invasions_by_Israel",
+        "http://dbpedia.org/resource/Category:Invasions_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:South_Lebanon_conflict_(1985–2000)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hezbollah",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1431.5618"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_National_Resistance_Front"
+      ],
+      "redirectlabel": [
+        "Jammoul",
+        "<B>Lebanese</B> National Resistance",
+        "<B>Lebanese</B> National Salvation Front"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> National Resistance Front – LNRF (Arabic: جبهة المقاومة الوطنية اللبنانية‎, romanized"
+      ],
+      "label": [
+        "<B>Lebanese</B> National Resistance Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_National_Resistance_Front"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Factions_in_the_Lebanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Israeli–Lebanese_conflict",
+        "http://dbpedia.org/resource/Category:Lebanese_National_Resistance_Front"
+      ]
+    },
+    {
+      "score": [
+        "1413.6323"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Lebanon"
+      ],
+      "redirectlabel": [
+        "History of the jews in lebanon",
+        "Jewish-<B>Lebanese</B>",
+        "Jews in Lebanon",
+        "Jews of Lebanon",
+        "Judaism in Lebanon",
+        "<B>Lebanese</B>-Jewish",
+        "<B>Lebanese</B> Jew",
+        "<B>Lebanese</B> Jews"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " much more importantly the <B>Lebanese</B> Civil War, the vast majority of <B>Lebanese</B> Jews now live in"
+      ],
+      "label": [
+        "History of the Jews in Lebanon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Lebanon"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Lebanon",
+        "http://dbpedia.org/resource/Category:History_of_Lebanon",
+        "http://dbpedia.org/resource/Category:History_of_Lebanon_by_topic",
+        "http://dbpedia.org/resource/Category:History_of_the_Jews_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Jewish_Lebanese_history",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_diaspora_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1411.9762"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_space_program"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Rocket Society",
+        "<B>Lebanese</B> Space Program",
+        "The <B>Lebanese</B> Rocket Society"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> space program was not initially an official government-sponsored effort. Rather, it"
+      ],
+      "label": [
+        "<B>Lebanese</B> space program"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_space_program"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Space_programs_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1390.1028"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Belgians"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> people in Belgium",
+        "List of <B>Lebanese</B> people (Belgium)",
+        "List of <B>Lebanese</B> people in Belgium"
+      ],
+      "label": [
+        "<B>Lebanese</B> Belgians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Belgians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Belgium",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_diaspora_in_Belgium",
+        "http://dbpedia.org/resource/Category:Muslim_communities_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1367.9797"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1991–92_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1991-92 <B>Lebanese</B> Football League",
+        "1991-92 <B>Lebanese</B> Premier League",
+        "1991–92 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1991–92"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1991/1992 season."
+      ],
+      "label": [
+        "1991–92 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1991–92_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991–92_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1991–92_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1367.9797"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1995–96_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1995-96 <B>Lebanese</B> Football League",
+        "1995-96 <B>Lebanese</B> Premier League",
+        "1995–96 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1995–96"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1995/1996 season."
+      ],
+      "label": [
+        "1995–96 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1995–96_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995–96_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1995–96_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1367.9797"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1993–94_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1993-94 <B>Lebanese</B> Football League",
+        "1993-94 <B>Lebanese</B> Premier League",
+        "1993–94 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1993–94"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1993/1994 season."
+      ],
+      "label": [
+        "1993–94 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1993–94_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993–94_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1993–94_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1367.9797"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1996–97_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1996-97 <B>Lebanese</B> Football League",
+        "1996-97 <B>Lebanese</B> Premier League",
+        "1996–97 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1996–97"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1996/1997 season."
+      ],
+      "label": [
+        "1996–97 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1996–97_Lebanese_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996–97_Lebanese_Premier_League",
+        "http://dbpedia.org/resource/Category:1996–97_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1996–97_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1365.1615"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1987–88_Lebanese_Premier_League"
+      ],
+      "redirectlabel": [
+        "1987-88 <B>Lebanese</B> Football League",
+        "1987-88 <B>Lebanese</B> Premier League",
+        "1987–88 <B>Lebanese</B> Football League",
+        "<B>Lebanese</B> Premier League 1987–88"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "Statistics of <B>Lebanese</B> Premier League in the 1987/1988 season. This is the final table recognised"
+      ],
+      "label": [
+        "1987–88 <B>Lebanese</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1987–88_Lebanese_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987–88_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1987–88_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1364.7498"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Lebanese_Women's_Football_League"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Lebanese</B> Women's Football League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "label": [
+        "2019–20 <B>Lebanese</B> Women's Football League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Lebanese_Women's_Football_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_domestic_women's_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2019–20_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_Women's_Football_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1360.5365"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_people_in_Senegal"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Senegalese",
+        "<B>Lebanese</B> community in Senegal",
+        "<B>Lebanese</B> in Senegal"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "There is a significant community of <B>Lebanese</B> people in Senegal."
+      ],
+      "label": [
+        "<B>Lebanese</B> people in Senegal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_people_in_Senegal"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_Africa",
+        "http://dbpedia.org/resource/Category:Senegalese_people_of_Lebanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "1349.8059"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Union_of_Lebanese_Democratic_Youth"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Democratic Youth Union",
+        "UJDL",
+        "ULDY"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "Union of <B>Lebanese</B> Democratic Youth (ULDY) (Arabic: اتحاد الشباب الديمقراطي اللبناني‎"
+      ],
+      "label": [
+        "Union of <B>Lebanese</B> Democratic Youth"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Union_of_Lebanese_Democratic_Youth"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Communism_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Communist_Party",
+        "http://dbpedia.org/resource/Category:Secularism_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Youth_organisations_based_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Youth_organizations_established_in_1970",
+        "http://dbpedia.org/resource/Category:Youth_wings_of_communist_parties"
+      ]
+    },
+    {
+      "score": [
+        "1346.4691"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Amar_(Lebanese_singer)"
+      ],
+      "redirectlabel": [
+        "Amany (<B>Lebanese</B> singer)",
+        "Kamar (<B>Lebanese</B> singer)",
+        "Singer Amar"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Amar Al Tahech (Arabic: قمر الطحش‎; born 27 May 1986) is a <B>Lebanese</B> singer and artist. After"
+      ],
+      "label": [
+        "Amar (<B>Lebanese</B> singer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Amar_(Lebanese_singer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1986_births",
+        "http://dbpedia.org/resource/Category:21st-century_Lebanese_women_singers",
+        "http://dbpedia.org/resource/Category:Lebanese_Muslims",
+        "http://dbpedia.org/resource/Category:Lebanese_pop_singers",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Singers_who_perform_in_Egyptian_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "1342.4062"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Forces_–_Executive_Command"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Forces - Executive Command",
+        "<B>Lebanese</B> Forces - Uprising",
+        "<B>Lebanese</B> Forces – Uprising"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Forces – Executive Command or LFEC (Arabic: القوات اللبنانية - القيادة التنفيذية | Al"
+      ],
+      "label": [
+        "<B>Lebanese</B> Forces – Executive Command"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Forces_–_Executive_Command"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Factions_in_the_Lebanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Israeli–Lebanese_conflict",
+        "http://dbpedia.org/resource/Category:Lebanese_National_Resistance_Front"
+      ]
+    },
+    {
+      "score": [
+        "1314.4069"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Option_Party"
+      ],
+      "redirectlabel": [
+        "Ahmed Kamel al-Asaad",
+        "<B>Lebanese</B> Option Gathering",
+        "<B>Lebanese</B> Option Group"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Option Party (LOP) (Arabic: حزب الإنتماء اللبناني , in English <B>Lebanese</B> Option, French"
+      ],
+      "label": [
+        "<B>Lebanese</B> Option Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Option_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Islamic_political_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2007",
+        "http://dbpedia.org/resource/Category:Secularism_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1308.7909"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_FA_Cup"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Cup",
+        "Lebanon Cup",
+        "List of <B>Lebanese</B> FA Cup finals"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> FA Cup (Arabic: كأس الاتحاد اللبناني‎) is a <B>Lebanese</B> football annual cup competition"
+      ],
+      "label": [
+        "<B>Lebanese</B> FA Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_FA_Cup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1938_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Football_cup_competitions_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_FA_Cup",
+        "http://dbpedia.org/resource/Category:National_association_football_cups",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1938"
+      ]
+    },
+    {
+      "score": [
+        "1295.2748"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Lebanese_presidential_election"
+      ],
+      "redirectlabel": [
+        "2007 <B>Lebanese</B> presidential election",
+        "<B>Lebanese</B> presidential election, 2007",
+        "<B>Lebanese</B> presidential election, 2008"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Sleiman, the Commander of the <B>Lebanese</B> Armed Forces, was elected as the consensus candidate after months"
+      ],
+      "label": [
+        "2008 <B>Lebanese</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Lebanese_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2008_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Michel_Aoun",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1293.6506"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Uruguayans"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Uruguayan",
+        "<B>Lebanese</B> immigration to Uruguay"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "There are about 53,000 to 70,000 <B>Lebanese</B> Uruguayans, or Uruguayans of <B>Lebanese</B> origin. The"
+      ],
+      "label": [
+        "<B>Lebanese</B> Uruguayans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Uruguayans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_Uruguayan",
+        "http://dbpedia.org/resource/Category:Immigration_to_Uruguay",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_South_America",
+        "http://dbpedia.org/resource/Category:Lebanese_immigration_to_Uruguay",
+        "http://dbpedia.org/resource/Category:Uruguayan_people_of_Lebanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "1292.3348"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Sunni_Muslims"
+      ],
+      "redirectlabel": [
+        "History of Sunni Islam in Lebanon",
+        "<B>Lebanese</B> people (Sunni Muslims)",
+        "Sunni Islam in Lebanon",
+        "Sunni Muslims in Lebanon",
+        "Sunnism in Lebanon"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Sunni Muslims (Arabic: المسلمون السنة اللبنانيين‎) refers to <B>Lebanese</B> people who are"
+      ],
+      "label": [
+        "<B>Lebanese</B> Sunni Muslims"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Sunni_Muslims"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lebanese_Sunni_Muslims",
+        "http://dbpedia.org/resource/Category:Sunni_Islam_in_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "1270.2854"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Colombians"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Colombian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Lebanese</B> Colombians are Colombians of <B>Lebanese</B> descent. Most of the <B>Lebanese</B> community's forebears"
+      ],
+      "label": [
+        "<B>Lebanese</B> Colombians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Colombians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_Colombian",
+        "http://dbpedia.org/resource/Category:Colombian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Colombia",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1262.513"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_Rugby_League_Federation"
+      ],
+      "redirectlabel": [
+        "LRLF",
+        "<B>Lebanese</B> Rugby League Comittee",
+        "<B>Lebanese</B> Rugby League Committee"
+      ],
+      "comment": [
+        "The <B>Lebanese</B> Rugby League Federation (LRLF) is the governing body for rugby league football in"
+      ],
+      "label": [
+        "<B>Lebanese</B> Rugby League Federation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_Rugby_League_Federation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Rugby_league_governing_bodies",
+        "http://dbpedia.org/resource/Category:Rugby_league_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_2003"
+      ]
+    },
+    {
+      "score": [
+        "1258.2798"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanese_people_in_Ivory_Coast"
+      ],
+      "redirectlabel": [
+        "<B>Lebanese</B> Ivorian",
+        "<B>Lebanese</B> people in Cote d'Ivoire",
+        "<B>Lebanese</B> people in Côte d'Ivoire"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "There is a large population of <B>Lebanese</B> people in Côte d'Ivoire, whose numbers are variously"
+      ],
+      "label": [
+        "<B>Lebanese</B> people in Ivory Coast"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanese_people_in_Ivory_Coast"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ivorian_people_of_Lebanese_descent",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Lebanese_diaspora_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1256.791"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Parliament_of_Lebanon"
+      ],
+      "redirectlabel": [
+        "Assemblée Nationale (Liban)",
+        "Beirut Parliament Building",
+        "<B>Lebanese</B> Chamber of Deputies",
+        "<B>Lebanese</B> Parliament",
+        "<B>Lebanese</B> Parliament Building",
+        "<B>Lebanese</B> parliament",
+        "Lebanon's parliament",
+        "Lebanon parliament",
+        "Member of the <B>Lebanese</B> Parliament",
+        "National Assembly of Lebanon",
+        "Parliament of lebanon"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The Parliament of Lebanon (Arabic: مجلس النواب‎ Majlis an-Nuwwab; French: Chambre des députés) is the national parliament of Lebanon. There are 128 members elected to a four-year term in multi-member constituencies, apportioned among Lebanon's diverse Christian and Muslim denominations but with half of the seats reserved for Christians per Constitutional Article 24. Lebanon has universal adult suffrage. Its major functions are to elect the President of the republic, to approve the government (although appointed by the President, the Prime Minister, along with the Cabinet, must retain the confidence of a majority in the Parliament), and to approve laws and expenditure."
+      ],
+      "label": [
+        "Parliament of Lebanon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Parliament_of_Lebanon"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Beirut",
+        "http://dbpedia.org/resource/Category:Government_buildings_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Government_of_Lebanon",
+        "http://dbpedia.org/resource/Category:National_legislatures",
+        "http://dbpedia.org/resource/Category:Parliaments_by_country",
+        "http://dbpedia.org/resource/Category:Political_organisations_based_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Politics_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Unicameral_legislatures"
+      ]
+    },
+    {
+      "score": [
+        "1232.1123"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1996_Israeli–Lebanese_Ceasefire_Understanding"
+      ],
+      "redirectlabel": [
+        "1996 Israeli-<B>Lebanese</B> Ceasefire Understanding",
+        "Israeli-<B>Lebanese</B> Ceasefire Understanding",
+        "Israeli–<B>Lebanese</B> Ceasefire Understanding"
+      ],
+      "comment": [
+        "The Israeli–<B>Lebanese</B> Ceasefire Understanding (also known as The Grapes of Wrath Understandings and"
+      ],
+      "label": [
+        "1996 Israeli–<B>Lebanese</B> Ceasefire Understanding"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1996_Israeli–Lebanese_Ceasefire_Understanding"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_in_Israel",
+        "http://dbpedia.org/resource/Category:1996_in_Lebanon",
+        "http://dbpedia.org/resource/Category:South_Lebanon_conflict_(1985–2000)"
+      ]
+    },
+    {
+      "score": [
+        "1232.0406"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lebanon–Syria_relations"
+      ],
+      "redirectlabel": [
+        "History of Lebanon-Syria relations",
+        "History of Lebanon–Syria relations",
+        "<B>Lebanese</B>-Syrian relations",
+        "<B>Lebanese</B>/Syrian relations",
+        "Lebanon-Syria relations",
+        "Lebanon - Syria relations",
+        "Lebanon Syria relations",
+        "Lebanon syria relations",
+        "Lebanon – Syria relations",
+        "Syria-Lebanon relations",
+        "Syria - Lebanon relations",
+        "Syria Lebanon relations",
+        "Syria – Lebanon relations",
+        "Syrian-<B>Lebanese</B> relations",
+        "Syrian/<B>Lebanese</B> relations",
+        "Syrian - <B>Lebanese</B> relations",
+        "Syria–Lebanon relations"
+      ],
+      "comment": [
+        " Syrian occupation of Lebanon, accusations of Syrian intervention within <B>Lebanese</B> politics before and"
+      ],
+      "label": [
+        "Lebanon–Syria relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lebanon–Syria_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Syria",
+        "http://dbpedia.org/resource/Category:Lebanon–Syria_relations"
+      ]
+    },
+    {
+      "score": [
+        "1231.8187"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008–09_Lebanese_FA_Cup"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Lebanese</B> FA Cup",
+        "2009 <B>Lebanese</B> FA Cup",
+        "<B>Lebanese</B> FA Cup 2009"
+      ],
+      "comment": [
+        "The 2009 version of the <B>Lebanese</B> FA Cup is the 37th edition to be played. It is the premier"
+      ],
+      "label": [
+        "2008–09 <B>Lebanese</B> FA Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008–09_Lebanese_FA_Cup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008–09_domestic_association_football_cups",
+        "http://dbpedia.org/resource/Category:2008–09_in_Lebanese_football",
+        "http://dbpedia.org/resource/Category:Lebanese_FA_Cup_seasons"
+      ]
+    }
+  ]
+}

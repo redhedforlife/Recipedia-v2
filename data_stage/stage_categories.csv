@@ -1,0 +1,211 @@
+id,name,normalized_name,category_kind,parent_category_id,wikipedia_title
+cat-sandwiches-116c3e15,Sandwiches,sandwiches,structural-parent,,List of sandwiches
+cat-open-face-sandwiches-7a9a9464,Open-face sandwiches,open face sandwiches,structural-child,cat-sandwiches-116c3e15,List of sandwiches
+cat-closed-sandwiches-f0867929,Closed sandwiches,closed sandwiches,structural-child,cat-sandwiches-116c3e15,List of sandwiches
+cat-grilled-sandwiches-d00ea686,Grilled sandwiches,grilled sandwiches,structural-child,cat-sandwiches-116c3e15,List of sandwiches
+cat-fried-sandwiches-cef754ca,Fried sandwiches,fried sandwiches,structural-child,cat-sandwiches-116c3e15,List of sandwiches
+cat-submarine-sandwiches-a0a874bf,Submarine sandwiches,submarine sandwiches,structural-child,cat-sandwiches-116c3e15,List of sandwiches
+cat-breakfast-sandwiches-00986607,Breakfast sandwiches,breakfast sandwiches,structural-child,cat-sandwiches-116c3e15,List of sandwiches
+cat-burgers-09c6dfae,Burgers,burgers,structural-parent,,List of hamburgers
+cat-beef-burgers-9c58e17d,Beef burgers,beef burgers,structural-child,cat-burgers-09c6dfae,List of hamburgers
+cat-chicken-burgers-2f0f46d4,Chicken burgers,chicken burgers,structural-child,cat-burgers-09c6dfae,List of hamburgers
+cat-fish-burgers-5739b076,Fish burgers,fish burgers,structural-child,cat-burgers-09c6dfae,List of hamburgers
+cat-vegetable-burgers-92d6cead,Vegetable burgers,vegetable burgers,structural-child,cat-burgers-09c6dfae,List of hamburgers
+cat-stuffed-burgers-566fb9b6,Stuffed burgers,stuffed burgers,structural-child,cat-burgers-09c6dfae,List of hamburgers
+cat-slider-burgers-696b8b8d,Slider burgers,slider burgers,structural-child,cat-burgers-09c6dfae,List of hamburgers
+cat-wraps-and-rolls-dd6f3471,Wraps and rolls,wraps and rolls,structural-parent,,Lists of prepared foods
+cat-flatbread-wraps-35cf84cc,Flatbread wraps,flatbread wraps,structural-child,cat-wraps-and-rolls-dd6f3471,Lists of prepared foods
+cat-burritos-2a9b6eae,Burritos,burritos,structural-child,cat-wraps-and-rolls-dd6f3471,Lists of prepared foods
+cat-spring-rolls-f29d4f63,Spring rolls,spring rolls,structural-child,cat-wraps-and-rolls-dd6f3471,Lists of prepared foods
+cat-egg-rolls-7041b24e,Egg rolls,egg rolls,structural-child,cat-wraps-and-rolls-dd6f3471,Lists of prepared foods
+cat-lettuce-wraps-76fde57a,Lettuce wraps,lettuce wraps,structural-child,cat-wraps-and-rolls-dd6f3471,Lists of prepared foods
+cat-stuffed-rolls-d5e020bf,Stuffed rolls,stuffed rolls,structural-child,cat-wraps-and-rolls-dd6f3471,Lists of prepared foods
+cat-flatbreads-and-pizzas-f0961fe2,Flatbreads and pizzas,flatbreads and pizzas,structural-parent,,Lists of prepared foods
+cat-leavened-flatbreads-19afc10d,Leavened flatbreads,leavened flatbreads,structural-child,cat-flatbreads-and-pizzas-f0961fe2,Lists of prepared foods
+cat-unleavened-flatbreads-dd91c50f,Unleavened flatbreads,unleavened flatbreads,structural-child,cat-flatbreads-and-pizzas-f0961fe2,Lists of prepared foods
+cat-topped-flatbreads-b5ebb428,Topped flatbreads,topped flatbreads,structural-child,cat-flatbreads-and-pizzas-f0961fe2,Lists of prepared foods
+cat-stuffed-flatbreads-82b7a421,Stuffed flatbreads,stuffed flatbreads,structural-child,cat-flatbreads-and-pizzas-f0961fe2,Lists of prepared foods
+cat-regional-pizzas-1055a265,Regional pizzas,regional pizzas,structural-child,cat-flatbreads-and-pizzas-f0961fe2,Lists of prepared foods
+cat-griddled-flatbreads-91db0373,Griddled flatbreads,griddled flatbreads,structural-child,cat-flatbreads-and-pizzas-f0961fe2,Lists of prepared foods
+cat-breads-and-loaves-c2814f9c,Breads and loaves,breads and loaves,structural-parent,,Lists of prepared foods
+cat-yeast-breads-705c22ef,Yeast breads,yeast breads,structural-child,cat-breads-and-loaves-c2814f9c,Lists of prepared foods
+cat-quick-breads-5920cbdf,Quick breads,quick breads,structural-child,cat-breads-and-loaves-c2814f9c,Lists of prepared foods
+cat-steamed-breads-0365d897,Steamed breads,steamed breads,structural-child,cat-breads-and-loaves-c2814f9c,Lists of prepared foods
+cat-braided-breads-e82e4c4d,Braided breads,braided breads,structural-child,cat-breads-and-loaves-c2814f9c,Lists of prepared foods
+cat-sweet-loaves-db04c140,Sweet loaves,sweet loaves,structural-child,cat-breads-and-loaves-c2814f9c,Lists of prepared foods
+cat-savory-loaves-a1929d59,Savory loaves,savory loaves,structural-child,cat-breads-and-loaves-c2814f9c,Lists of prepared foods
+cat-dumplings-and-buns-9a441702,Dumplings and buns,dumplings and buns,structural-parent,,Lists of prepared foods
+cat-boiled-dumplings-dc6fa4eb,Boiled dumplings,boiled dumplings,structural-child,cat-dumplings-and-buns-9a441702,Lists of prepared foods
+cat-steamed-dumplings-0f45907b,Steamed dumplings,steamed dumplings,structural-child,cat-dumplings-and-buns-9a441702,Lists of prepared foods
+cat-pan-fried-dumplings-9ee10f54,Pan-fried dumplings,pan fried dumplings,structural-child,cat-dumplings-and-buns-9a441702,Lists of prepared foods
+cat-stuffed-buns-669232a0,Stuffed buns,stuffed buns,structural-child,cat-dumplings-and-buns-9a441702,Lists of prepared foods
+cat-soup-dumplings-f47fa595,Soup dumplings,soup dumplings,structural-child,cat-dumplings-and-buns-9a441702,Lists of prepared foods
+cat-dumpling-soups-bd716600,Dumpling soups,dumpling soups,structural-child,cat-dumplings-and-buns-9a441702,Lists of prepared foods
+cat-noodle-dishes-f57723d0,Noodle dishes,noodle dishes,structural-parent,,List of noodle dishes
+cat-stir-fried-noodles-b9457661,Stir-fried noodles,stir fried noodles,structural-child,cat-noodle-dishes-f57723d0,List of noodle dishes
+cat-noodle-soups-26b8bb24,Noodle soups,noodle soups,structural-child,cat-noodle-dishes-f57723d0,List of noodle dishes
+cat-cold-noodles-c249f52e,Cold noodles,cold noodles,structural-child,cat-noodle-dishes-f57723d0,List of noodle dishes
+cat-sauced-noodles-cbd00b65,Sauced noodles,sauced noodles,structural-child,cat-noodle-dishes-f57723d0,List of noodle dishes
+cat-baked-noodles-ab0afe2b,Baked noodles,baked noodles,structural-child,cat-noodle-dishes-f57723d0,List of noodle dishes
+cat-hand-pulled-noodles-2cc85ebf,Hand-pulled noodles,hand pulled noodles,structural-child,cat-noodle-dishes-f57723d0,List of noodle dishes
+cat-pasta-dishes-18ec3e4d,Pasta dishes,pasta dishes,structural-parent,,List of pasta dishes
+cat-long-pasta-dishes-49a739b5,Long pasta dishes,long pasta dishes,structural-child,cat-pasta-dishes-18ec3e4d,List of pasta dishes
+cat-stuffed-pasta-dishes-0bad391f,Stuffed pasta dishes,stuffed pasta dishes,structural-child,cat-pasta-dishes-18ec3e4d,List of pasta dishes
+cat-baked-pasta-dishes-ba222166,Baked pasta dishes,baked pasta dishes,structural-child,cat-pasta-dishes-18ec3e4d,List of pasta dishes
+cat-pasta-salads-b1b6f65c,Pasta salads,pasta salads,structural-child,cat-pasta-dishes-18ec3e4d,List of pasta dishes
+cat-creamy-pasta-dishes-c2439e9b,Creamy pasta dishes,creamy pasta dishes,structural-child,cat-pasta-dishes-18ec3e4d,List of pasta dishes
+cat-tomato-pasta-dishes-869153d6,Tomato pasta dishes,tomato pasta dishes,structural-child,cat-pasta-dishes-18ec3e4d,List of pasta dishes
+cat-rice-dishes-e5a0eea5,Rice dishes,rice dishes,structural-parent,,List of rice dishes
+cat-pilafs-1960ba39,Pilafs,pilafs,structural-child,cat-rice-dishes-e5a0eea5,List of rice dishes
+cat-fried-rice-dishes-7eac5b51,Fried rice dishes,fried rice dishes,structural-child,cat-rice-dishes-e5a0eea5,List of rice dishes
+cat-risotto-like-dishes-23c93721,Risotto-like dishes,risotto like dishes,structural-child,cat-rice-dishes-e5a0eea5,List of rice dishes
+cat-rice-porridges-7edf0bf5,Rice porridges,rice porridges,structural-child,cat-rice-dishes-e5a0eea5,List of rice dishes
+cat-rice-casseroles-b0e0d35d,Rice casseroles,rice casseroles,structural-child,cat-rice-dishes-e5a0eea5,List of rice dishes
+cat-stuffed-rice-dishes-89b90366,Stuffed rice dishes,stuffed rice dishes,structural-child,cat-rice-dishes-e5a0eea5,List of rice dishes
+cat-soups-58c2caa7,Soups,soups,structural-parent,,List of soups
+cat-clear-soups-4a22af84,Clear soups,clear soups,structural-child,cat-soups-58c2caa7,List of soups
+cat-pureed-soups-563e018c,Pureed soups,pureed soups,structural-child,cat-soups-58c2caa7,List of soups
+cat-bean-soups-b54d6ea8,Bean soups,bean soups,structural-child,cat-soups-58c2caa7,List of soups
+cat-noodle-soups-587abe8a,Noodle soups,noodle soups,structural-child,cat-soups-58c2caa7,List of soups
+cat-chilled-soups-8fa0ec30,Chilled soups,chilled soups,structural-child,cat-soups-58c2caa7,List of soups
+cat-seafood-soups-169e1879,Seafood soups,seafood soups,structural-child,cat-soups-58c2caa7,List of soups
+cat-stews-ce00fa93,Stews,stews,structural-parent,,List of stews
+cat-meat-stews-77be457d,Meat stews,meat stews,structural-child,cat-stews-ce00fa93,List of stews
+cat-vegetable-stews-0ef53083,Vegetable stews,vegetable stews,structural-child,cat-stews-ce00fa93,List of stews
+cat-bean-stews-870649b6,Bean stews,bean stews,structural-child,cat-stews-ce00fa93,List of stews
+cat-seafood-stews-ee5170eb,Seafood stews,seafood stews,structural-child,cat-stews-ce00fa93,List of stews
+cat-chile-stews-c3ddf724,Chile stews,chile stews,structural-child,cat-stews-ce00fa93,List of stews
+cat-slow-braises-c6132510,Slow braises,slow braises,structural-child,cat-stews-ce00fa93,List of stews
+cat-curries-c13d2ace,Curries,curries,structural-parent,,Lists of prepared foods
+cat-coconut-curries-ce68a9d5,Coconut curries,coconut curries,structural-child,cat-curries-c13d2ace,Lists of prepared foods
+cat-dry-curries-4c9dc499,Dry curries,dry curries,structural-child,cat-curries-c13d2ace,Lists of prepared foods
+cat-lentil-curries-2c94f0bb,Lentil curries,lentil curries,structural-child,cat-curries-c13d2ace,Lists of prepared foods
+cat-meat-curries-d7145184,Meat curries,meat curries,structural-child,cat-curries-c13d2ace,Lists of prepared foods
+cat-fish-curries-3658a923,Fish curries,fish curries,structural-child,cat-curries-c13d2ace,Lists of prepared foods
+cat-curry-noodle-dishes-a072c0a3,Curry noodle dishes,curry noodle dishes,structural-child,cat-curries-c13d2ace,Lists of prepared foods
+cat-salads-aa3e870c,Salads,salads,structural-parent,,Lists of prepared foods
+cat-green-salads-2c2b68fc,Green salads,green salads,structural-child,cat-salads-aa3e870c,Lists of prepared foods
+cat-grain-salads-5e8d3cb9,Grain salads,grain salads,structural-child,cat-salads-aa3e870c,Lists of prepared foods
+cat-noodle-salads-313293d4,Noodle salads,noodle salads,structural-child,cat-salads-aa3e870c,Lists of prepared foods
+cat-potato-salads-9586e4f8,Potato salads,potato salads,structural-child,cat-salads-aa3e870c,Lists of prepared foods
+cat-bread-salads-09b18fd5,Bread salads,bread salads,structural-child,cat-salads-aa3e870c,Lists of prepared foods
+cat-composed-salads-b4b1dc8d,Composed salads,composed salads,structural-child,cat-salads-aa3e870c,Lists of prepared foods
+cat-dips-and-spreads-3b58ecf2,Dips and spreads,dips and spreads,structural-parent,,Lists of prepared foods
+cat-bean-dips-978ae030,Bean dips,bean dips,structural-child,cat-dips-and-spreads-3b58ecf2,Lists of prepared foods
+cat-yogurt-dips-da7a5bf9,Yogurt dips,yogurt dips,structural-child,cat-dips-and-spreads-3b58ecf2,Lists of prepared foods
+cat-chile-dips-08c9f714,Chile dips,chile dips,structural-child,cat-dips-and-spreads-3b58ecf2,Lists of prepared foods
+cat-nut-spreads-4f32ca4d,Nut spreads,nut spreads,structural-child,cat-dips-and-spreads-3b58ecf2,Lists of prepared foods
+cat-fish-spreads-aec4e03d,Fish spreads,fish spreads,structural-child,cat-dips-and-spreads-3b58ecf2,Lists of prepared foods
+cat-herb-spreads-50d24332,Herb spreads,herb spreads,structural-child,cat-dips-and-spreads-3b58ecf2,Lists of prepared foods
+cat-sauces-and-condiments-10f97308,Sauces and condiments,sauces and condiments,structural-parent,,Lists of prepared foods
+cat-emulsified-sauces-3861a9e3,Emulsified sauces,emulsified sauces,structural-child,cat-sauces-and-condiments-10f97308,Lists of prepared foods
+cat-tomato-sauces-3c57c114,Tomato sauces,tomato sauces,structural-child,cat-sauces-and-condiments-10f97308,Lists of prepared foods
+cat-chile-sauces-04f0f00c,Chile sauces,chile sauces,structural-child,cat-sauces-and-condiments-10f97308,Lists of prepared foods
+cat-pickles-07c0ac82,Pickles,pickles,structural-child,cat-sauces-and-condiments-10f97308,Lists of prepared foods
+cat-relishes-ce0843b3,Relishes,relishes,structural-child,cat-sauces-and-condiments-10f97308,Lists of prepared foods
+cat-chutneys-f6eca7ef,Chutneys,chutneys,structural-child,cat-sauces-and-condiments-10f97308,Lists of prepared foods
+cat-skewers-and-grilled-dishes-08780632,Skewers and grilled dishes,skewers and grilled dishes,structural-parent,,Lists of prepared foods
+cat-kebabs-3ded5c42,Kebabs,kebabs,structural-child,cat-skewers-and-grilled-dishes-08780632,Lists of prepared foods
+cat-satay-84232c50,Satay,satay,structural-child,cat-skewers-and-grilled-dishes-08780632,Lists of prepared foods
+cat-barbecue-skewers-1ac68e03,Barbecue skewers,barbecue skewers,structural-child,cat-skewers-and-grilled-dishes-08780632,Lists of prepared foods
+cat-whole-grilled-fish-e8a2251b,Whole grilled fish,whole grilled fish,structural-child,cat-skewers-and-grilled-dishes-08780632,Lists of prepared foods
+cat-grilled-meats-92e738d2,Grilled meats,grilled meats,structural-child,cat-skewers-and-grilled-dishes-08780632,Lists of prepared foods
+cat-grilled-vegetables-ecfc509c,Grilled vegetables,grilled vegetables,structural-child,cat-skewers-and-grilled-dishes-08780632,Lists of prepared foods
+cat-braises-and-roasts-6028fcc9,Braises and roasts,braises and roasts,structural-parent,,Lists of prepared foods
+cat-pot-roasts-cc68416e,Pot roasts,pot roasts,structural-child,cat-braises-and-roasts-6028fcc9,Lists of prepared foods
+cat-oven-roasts-52251389,Oven roasts,oven roasts,structural-child,cat-braises-and-roasts-6028fcc9,Lists of prepared foods
+cat-wine-braises-2e203542,Wine braises,wine braises,structural-child,cat-braises-and-roasts-6028fcc9,Lists of prepared foods
+cat-tagines-4f0a8e9b,Tagines,tagines,structural-child,cat-braises-and-roasts-6028fcc9,Lists of prepared foods
+cat-confits-deb60810,Confits,confits,structural-child,cat-braises-and-roasts-6028fcc9,Lists of prepared foods
+cat-glazed-roasts-fb9a4083,Glazed roasts,glazed roasts,structural-child,cat-braises-and-roasts-6028fcc9,Lists of prepared foods
+cat-fried-dishes-and-fritters-31bc2558,Fried dishes and fritters,fried dishes and fritters,structural-parent,,Lists of prepared foods
+cat-tempura-1d796857,Tempura,tempura,structural-child,cat-fried-dishes-and-fritters-31bc2558,Lists of prepared foods
+cat-cutlets-dbb78ed5,Cutlets,cutlets,structural-child,cat-fried-dishes-and-fritters-31bc2558,Lists of prepared foods
+cat-croquettes-cd265a20,Croquettes,croquettes,structural-child,cat-fried-dishes-and-fritters-31bc2558,Lists of prepared foods
+cat-fritters-513bb060,Fritters,fritters,structural-child,cat-fried-dishes-and-fritters-31bc2558,Lists of prepared foods
+cat-fried-chicken-dishes-50e30132,Fried chicken dishes,fried chicken dishes,structural-child,cat-fried-dishes-and-fritters-31bc2558,Lists of prepared foods
+cat-fried-seafood-dishes-ddb6ed34,Fried seafood dishes,fried seafood dishes,structural-child,cat-fried-dishes-and-fritters-31bc2558,Lists of prepared foods
+cat-casseroles-and-bakes-43c0edef,Casseroles and bakes,casseroles and bakes,structural-parent,,Lists of prepared foods
+cat-gratins-f1293ece,Gratins,gratins,structural-child,cat-casseroles-and-bakes-43c0edef,Lists of prepared foods
+cat-layered-casseroles-1159adbd,Layered casseroles,layered casseroles,structural-child,cat-casseroles-and-bakes-43c0edef,Lists of prepared foods
+cat-stuffed-bakes-9feefdc3,Stuffed bakes,stuffed bakes,structural-child,cat-casseroles-and-bakes-43c0edef,Lists of prepared foods
+cat-savory-pies-73fcd89e,Savory pies,savory pies,structural-child,cat-casseroles-and-bakes-43c0edef,Lists of prepared foods
+cat-hotdish-85cae52a,Hotdish,hotdish,structural-child,cat-casseroles-and-bakes-43c0edef,Lists of prepared foods
+cat-breakfast-bakes-32de95fa,Breakfast bakes,breakfast bakes,structural-child,cat-casseroles-and-bakes-43c0edef,Lists of prepared foods
+cat-egg-dishes-91225177,Egg dishes,egg dishes,structural-parent,,Lists of prepared foods
+cat-omelets-962fec79,Omelets,omelets,structural-child,cat-egg-dishes-91225177,Lists of prepared foods
+cat-scrambled-egg-dishes-5ab5acf6,Scrambled egg dishes,scrambled egg dishes,structural-child,cat-egg-dishes-91225177,Lists of prepared foods
+cat-egg-curries-472850b7,Egg curries,egg curries,structural-child,cat-egg-dishes-91225177,Lists of prepared foods
+cat-custardy-egg-dishes-d4a51757,Custardy egg dishes,custardy egg dishes,structural-child,cat-egg-dishes-91225177,Lists of prepared foods
+cat-filled-omelets-f822ae82,Filled omelets,filled omelets,structural-child,cat-egg-dishes-91225177,Lists of prepared foods
+cat-egg-drop-dishes-401e621c,Egg drop dishes,egg drop dishes,structural-child,cat-egg-dishes-91225177,Lists of prepared foods
+cat-breakfast-dishes-7ff5de50,Breakfast dishes,breakfast dishes,structural-parent,,Lists of prepared foods
+cat-porridge-breakfasts-2c42c470,Porridge breakfasts,porridge breakfasts,structural-child,cat-breakfast-dishes-7ff5de50,Lists of prepared foods
+cat-griddle-breakfasts-5f375fbb,Griddle breakfasts,griddle breakfasts,structural-child,cat-breakfast-dishes-7ff5de50,Lists of prepared foods
+cat-stuffed-breakfasts-c4f3838c,Stuffed breakfasts,stuffed breakfasts,structural-child,cat-breakfast-dishes-7ff5de50,Lists of prepared foods
+cat-breakfast-sandwiches-81ce5a99,Breakfast sandwiches,breakfast sandwiches,structural-child,cat-breakfast-dishes-7ff5de50,Lists of prepared foods
+cat-fried-breakfasts-67120b2e,Fried breakfasts,fried breakfasts,structural-child,cat-breakfast-dishes-7ff5de50,Lists of prepared foods
+cat-sweet-breakfasts-1fe3d43e,Sweet breakfasts,sweet breakfasts,structural-child,cat-breakfast-dishes-7ff5de50,Lists of prepared foods
+cat-pancakes-and-crepes-283edd96,Pancakes and crepes,pancakes and crepes,structural-parent,,Lists of prepared foods
+cat-savory-pancakes-3cff6872,Savory pancakes,savory pancakes,structural-child,cat-pancakes-and-crepes-283edd96,Lists of prepared foods
+cat-sweet-pancakes-b7570aa8,Sweet pancakes,sweet pancakes,structural-child,cat-pancakes-and-crepes-283edd96,Lists of prepared foods
+cat-filled-crepes-1345fc0c,Filled crepes,filled crepes,structural-child,cat-pancakes-and-crepes-283edd96,Lists of prepared foods
+cat-fermented-pancakes-af66f50e,Fermented pancakes,fermented pancakes,structural-child,cat-pancakes-and-crepes-283edd96,Lists of prepared foods
+cat-stuffed-pancakes-3122f30c,Stuffed pancakes,stuffed pancakes,structural-child,cat-pancakes-and-crepes-283edd96,Lists of prepared foods
+cat-fritter-pancakes-fa0d09d3,Fritter pancakes,fritter pancakes,structural-child,cat-pancakes-and-crepes-283edd96,Lists of prepared foods
+cat-pies-and-pastries-eefde59e,Pies and pastries,pies and pastries,structural-parent,,Lists of prepared foods
+cat-savory-pies-f1aa4fd1,Savory pies,savory pies,structural-child,cat-pies-and-pastries-eefde59e,Lists of prepared foods
+cat-sweet-pies-2aa01ca5,Sweet pies,sweet pies,structural-child,cat-pies-and-pastries-eefde59e,Lists of prepared foods
+cat-tarts-2d595b74,Tarts,tarts,structural-child,cat-pies-and-pastries-eefde59e,Lists of prepared foods
+cat-turnovers-4b902f9e,Turnovers,turnovers,structural-child,cat-pies-and-pastries-eefde59e,Lists of prepared foods
+cat-hand-pies-513c3b31,Hand pies,hand pies,structural-child,cat-pies-and-pastries-eefde59e,Lists of prepared foods
+cat-layered-pastries-e93ff7ae,Layered pastries,layered pastries,structural-child,cat-pies-and-pastries-eefde59e,Lists of prepared foods
+cat-cakes-and-gateaux-d8e29f50,Cakes and gateaux,cakes and gateaux,structural-parent,,Lists of prepared foods
+cat-sponge-cakes-7f58c4bf,Sponge cakes,sponge cakes,structural-child,cat-cakes-and-gateaux-d8e29f50,Lists of prepared foods
+cat-butter-cakes-6e428da1,Butter cakes,butter cakes,structural-child,cat-cakes-and-gateaux-d8e29f50,Lists of prepared foods
+cat-cheesecakes-c5789d7e,Cheesecakes,cheesecakes,structural-child,cat-cakes-and-gateaux-d8e29f50,Lists of prepared foods
+cat-steamed-cakes-195291e7,Steamed cakes,steamed cakes,structural-child,cat-cakes-and-gateaux-d8e29f50,Lists of prepared foods
+cat-flourless-cakes-2a6013f8,Flourless cakes,flourless cakes,structural-child,cat-cakes-and-gateaux-d8e29f50,Lists of prepared foods
+cat-snack-cakes-aff0db7d,Snack cakes,snack cakes,structural-child,cat-cakes-and-gateaux-d8e29f50,Lists of prepared foods
+cat-cookies-and-biscuits-55578132,Cookies and biscuits,cookies and biscuits,structural-parent,,Lists of prepared foods
+cat-drop-cookies-260c1826,Drop cookies,drop cookies,structural-child,cat-cookies-and-biscuits-55578132,Lists of prepared foods
+cat-rolled-cookies-d78cdba9,Rolled cookies,rolled cookies,structural-child,cat-cookies-and-biscuits-55578132,Lists of prepared foods
+cat-sandwich-cookies-612c5efb,Sandwich cookies,sandwich cookies,structural-child,cat-cookies-and-biscuits-55578132,Lists of prepared foods
+cat-shortbread-f41b0a62,Shortbread,shortbread,structural-child,cat-cookies-and-biscuits-55578132,Lists of prepared foods
+cat-crackers-8c593b91,Crackers,crackers,structural-child,cat-cookies-and-biscuits-55578132,Lists of prepared foods
+cat-tea-biscuits-36fb8ab5,Tea biscuits,tea biscuits,structural-child,cat-cookies-and-biscuits-55578132,Lists of prepared foods
+cat-puddings-and-custards-1664b0f1,Puddings and custards,puddings and custards,structural-parent,,Lists of prepared foods
+cat-baked-puddings-a541cf43,Baked puddings,baked puddings,structural-child,cat-puddings-and-custards-1664b0f1,Lists of prepared foods
+cat-stovetop-puddings-e4ae2c83,Stovetop puddings,stovetop puddings,structural-child,cat-puddings-and-custards-1664b0f1,Lists of prepared foods
+cat-custards-1cf2f976,Custards,custards,structural-child,cat-puddings-and-custards-1664b0f1,Lists of prepared foods
+cat-jellies-5f6965b9,Jellies,jellies,structural-child,cat-puddings-and-custards-1664b0f1,Lists of prepared foods
+cat-rice-puddings-6324bef9,Rice puddings,rice puddings,structural-child,cat-puddings-and-custards-1664b0f1,Lists of prepared foods
+cat-bread-puddings-62816464,Bread puddings,bread puddings,structural-child,cat-puddings-and-custards-1664b0f1,Lists of prepared foods
+cat-confections-and-sweets-33dd665f,Confections and sweets,confections and sweets,structural-parent,,Lists of prepared foods
+cat-candies-d2f8c377,Candies,candies,structural-child,cat-confections-and-sweets-33dd665f,Lists of prepared foods
+cat-nougats-d264dbad,Nougats,nougats,structural-child,cat-confections-and-sweets-33dd665f,Lists of prepared foods
+cat-fudge-6d222744,Fudge,fudge,structural-child,cat-confections-and-sweets-33dd665f,Lists of prepared foods
+cat-halva-like-sweets-9ab46694,Halva-like sweets,halva like sweets,structural-child,cat-confections-and-sweets-33dd665f,Lists of prepared foods
+cat-syrup-sweets-526f8388,Syrup sweets,syrup sweets,structural-child,cat-confections-and-sweets-33dd665f,Lists of prepared foods
+cat-chocolate-sweets-d19d61a1,Chocolate sweets,chocolate sweets,structural-child,cat-confections-and-sweets-33dd665f,Lists of prepared foods
+cat-snacks-and-street-food-7e6d6760,Snacks and street food,snacks and street food,structural-parent,,Lists of prepared foods
+cat-fritter-snacks-3d8eb75c,Fritter snacks,fritter snacks,structural-child,cat-snacks-and-street-food-7e6d6760,Lists of prepared foods
+cat-stuffed-snacks-9bc29f85,Stuffed snacks,stuffed snacks,structural-child,cat-snacks-and-street-food-7e6d6760,Lists of prepared foods
+cat-roasted-snacks-e92f1304,Roasted snacks,roasted snacks,structural-child,cat-snacks-and-street-food-7e6d6760,Lists of prepared foods
+cat-skewered-snacks-ce07345f,Skewered snacks,skewered snacks,structural-child,cat-snacks-and-street-food-7e6d6760,Lists of prepared foods
+cat-chip-snacks-7c92d826,Chip snacks,chip snacks,structural-child,cat-snacks-and-street-food-7e6d6760,Lists of prepared foods
+cat-savory-pastries-8fdaf988,Savory pastries,savory pastries,structural-child,cat-snacks-and-street-food-7e6d6760,Lists of prepared foods
+cat-seafood-dishes-67642233,Seafood dishes,seafood dishes,structural-parent,,Category:Prepared foods by main ingredient
+cat-shellfish-dishes-31d1f1b0,Shellfish dishes,shellfish dishes,structural-child,cat-seafood-dishes-67642233,Category:Prepared foods by main ingredient
+cat-fish-curries-3c38ecdf,Fish curries,fish curries,structural-child,cat-seafood-dishes-67642233,Category:Prepared foods by main ingredient
+cat-grilled-fish-dishes-85e1a886,Grilled fish dishes,grilled fish dishes,structural-child,cat-seafood-dishes-67642233,Category:Prepared foods by main ingredient
+cat-raw-seafood-dishes-37e54e14,Raw seafood dishes,raw seafood dishes,structural-child,cat-seafood-dishes-67642233,Category:Prepared foods by main ingredient
+cat-seafood-rice-dishes-9f04acfa,Seafood rice dishes,seafood rice dishes,structural-child,cat-seafood-dishes-67642233,Category:Prepared foods by main ingredient
+cat-preserved-seafood-dishes-e1e2607f,Preserved seafood dishes,preserved seafood dishes,structural-child,cat-seafood-dishes-67642233,Category:Prepared foods by main ingredient
+cat-vegetable-and-legume-mains-b836795b,Vegetable and legume mains,vegetable and legume mains,structural-parent,,Category:Lists of foods by ingredient
+cat-stuffed-vegetables-00e0eca1,Stuffed vegetables,stuffed vegetables,structural-child,cat-vegetable-and-legume-mains-b836795b,Category:Lists of foods by ingredient
+cat-bean-patties-8cb439b0,Bean patties,bean patties,structural-child,cat-vegetable-and-legume-mains-b836795b,Category:Lists of foods by ingredient
+cat-braised-greens-505f6e2b,Braised greens,braised greens,structural-child,cat-vegetable-and-legume-mains-b836795b,Category:Lists of foods by ingredient
+cat-tofu-dishes-b91c0da0,Tofu dishes,tofu dishes,structural-child,cat-vegetable-and-legume-mains-b836795b,Category:Lists of foods by ingredient
+cat-chickpea-mains-94f3cb90,Chickpea mains,chickpea mains,structural-child,cat-vegetable-and-legume-mains-b836795b,Category:Lists of foods by ingredient
+cat-lentil-mains-a86b59e7,Lentil mains,lentil mains,structural-child,cat-vegetable-and-legume-mains-b836795b,Category:Lists of foods by ingredient

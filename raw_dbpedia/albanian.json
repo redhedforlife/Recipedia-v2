@@ -1,0 +1,4321 @@
+{
+  "docs": [
+    {
+      "score": [
+        "12932.795"
+      ],
+      "refCount": [
+        "2660"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albania"
+      ],
+      "redirectlabel": [
+        "<B>AlbaniA</B>",
+        "<B>Albania</B> (Balkans)",
+        "<B>Albania</B> demographics",
+        "<B>Albanian</B> state",
+        "<B>Albanie</B>",
+        "<B>Albanija</B>",
+        "<B>Albenia</B>",
+        "Arbania",
+        "Biodiversity in <B>Albania</B>",
+        "Ethnic minorities in <B>Albania</B>",
+        "Etymology of <B>Albania</B>",
+        "Fourth Republic of <B>Albania</B>",
+        "ISO 3166-1:AL",
+        "Republic of <B>Albania</B>",
+        "Republika e Shqipërisë",
+        "Shqiperi",
+        "Shqiperia",
+        "Shqipni",
+        "Shqipnia",
+        "Shqipëri",
+        "Shqipëria",
+        "Shquiperia",
+        "Αλβανία"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Albania</B> ( () a(w)l-BAY-nee-ə; <B>Albanian</B>: Shqipëri or Shqipëria; Gheg <B>Albanian</B>: Shqipni or Shqipnia"
+      ],
+      "label": [
+        "<B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania",
+        "http://dbpedia.org/resource/Category:Albanian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Balkan_countries",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_internationale_de_la_Francophonie",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Southeastern_European_countries",
+        "http://dbpedia.org/resource/Category:Southern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1912"
+      ]
+    },
+    {
+      "score": [
+        "12276.434"
+      ],
+      "refCount": [
+        "301"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_language"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B>-language",
+        "<B>Albanian</B> (language)",
+        "<B>Albanian</B> Language",
+        "<B>Albanian</B> grammar",
+        "<B>Albanian</B> langage",
+        "<B>Albanian</B> phonology",
+        "<B>Albaniana</B> language",
+        "Arbanian language",
+        "Gjuha shqipe",
+        "History of the <B>Albanian</B> language",
+        "ISO 639:alb",
+        "ISO 639:sq",
+        "ISO 639:sqi",
+        "ISO 639:sqj",
+        "List of <B>Albanian</B> languages",
+        "List of Tosk languages",
+        "Loanwords in <B>Albanian</B>",
+        "Old <B>Albanian</B>",
+        "Pre-Indo-European substratum in <B>Albanian</B>",
+        "SQI",
+        "Shqip",
+        "Standard <B>Albanian</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " by the <B>Albanians</B> in the Balkans and the <B>Albanian</B> diaspora in the Americas, Europe and Oceania. With"
+      ],
+      "label": [
+        "<B>Albanian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_language",
+        "http://dbpedia.org/resource/Category:Illyrian_languages",
+        "http://dbpedia.org/resource/Category:Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_15th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Albania",
+        "http://dbpedia.org/resource/Category:Languages_of_Greece",
+        "http://dbpedia.org/resource/Category:Languages_of_Italy",
+        "http://dbpedia.org/resource/Category:Languages_of_Kosovo",
+        "http://dbpedia.org/resource/Category:Languages_of_Montenegro",
+        "http://dbpedia.org/resource/Category:Languages_of_North_Macedonia",
+        "http://dbpedia.org/resource/Category:Languages_of_Romania",
+        "http://dbpedia.org/resource/Category:Languages_of_Serbia",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages"
+      ]
+    },
+    {
+      "score": [
+        "8995.607"
+      ],
+      "refCount": [
+        "738"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albania_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B> National Football Team",
+        "<B>Albania</B> football team",
+        "<B>Albania</B> national football team results",
+        "<B>Albania</B> national football team season 2008",
+        "<B>Albanian</B> National Football team",
+        "<B>Albanian</B> football team",
+        "<B>Albanian</B> national football team",
+        "Football team of <B>albania</B>",
+        "Red and Blacks"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Albania</B> national football team (<B>Albanian</B>: Kombëtarja e futbollit të Shqipërisë) is the men's"
+      ],
+      "label": [
+        "<B>Albania</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albania_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albania_national_football_teams",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "7109.402"
+      ],
+      "refCount": [
+        "255"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanians"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> people",
+        "<B>Albanians</B> (ethnic group)",
+        "Arbanenses",
+        "Arbanians",
+        "Ethnic <B>Albanian</B>",
+        "Ethnic <B>Albanians</B>",
+        "History of the <B>Albanian</B> People",
+        "History of the <B>Albanians</B>",
+        "People of <B>Albania</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Albanians</B> (; <B>Albanian</B>: Shqiptarët, pronounced [ʃcipˈta:ɾət]) are an ethnic group native to the"
+      ],
+      "label": [
+        "<B>Albanians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_divided_by_international_borders",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Albania",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Croatia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Greece",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Italy",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Kosovo",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Montenegro",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_North_Macedonia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Serbia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Turkey",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:History_of_the_Albanians",
+        "http://dbpedia.org/resource/Category:Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Modern_Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Muslim_communities_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "4173.2373"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Australians"
+      ],
+      "redirectlabel": [
+        "Adelaide <B>Albanians</B>",
+        "<B>Albanian</B>-Australian Internment",
+        "<B>Albanian</B>-Australian internment",
+        "<B>Albanian</B> Australian",
+        "<B>Albanian</B> Australian Internment",
+        "<B>Albanian</B> Australian internment",
+        "<B>Albanian</B> australian internment",
+        "<B>Albanian</B> community of Adelaide",
+        "<B>Albanian</B> community of Brisbane",
+        "<B>Albanian</B> community of Cairns",
+        "<B>Albanian</B> community of Dandenong",
+        "<B>Albanian</B> community of Mareeba",
+        "<B>Albanian</B> community of Melbourne",
+        "<B>Albanian</B> community of Moora",
+        "<B>Albanian</B> community of Northam",
+        "<B>Albanian</B> community of Perth",
+        "<B>Albanian</B> community of Shepparton",
+        "<B>Albanian</B> community of Sydney",
+        "<B>Albanian</B> community of Wollongong",
+        "<B>Albanian</B> community of York",
+        "<B>Albanians</B> in Australia",
+        "<B>Albanians</B> interned in Australian camps",
+        "Dandenong <B>Albanians</B>",
+        "Internment of <B>Albanian</B> Australians",
+        "Internment of <B>Albanians</B> in Australia",
+        "Kosovar Australian",
+        "Kosovar Australians",
+        "Mareeba <B>Albanians</B>",
+        "Melbourne <B>Albanians</B>",
+        "Perth <B>Albanians</B>",
+        "Shepparton <B>Albanians</B>",
+        "Wollongong <B>Albanians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " the 2006 Australian census 2,014 <B>Albanians</B> were born in Australia while 11,315 claimed <B>Albanian</B>"
+      ],
+      "label": [
+        "<B>Albanian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Albanian_descent",
+        "http://dbpedia.org/resource/Category:European_Australian"
+      ]
+    },
+    {
+      "score": [
+        "4097.5825"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Civil_War"
+      ],
+      "redirectlabel": [
+        "1997 <B>Albanian</B> Civil War",
+        "1997 <B>Albanian</B> Rebellion",
+        "1997 <B>Albanian</B> unrest",
+        "1997 Pyramid crisis",
+        "1997 in <B>Albania</B>",
+        "1997 rebellion",
+        "1997 rebellion in <B>Albania</B>",
+        "1997 riots",
+        "1997 unrest in <B>Albania</B>",
+        "<B>Albanian</B> Anarchy of 1997",
+        "<B>Albanian</B> Civil Unrest of 1997",
+        "<B>Albanian</B> Civil War (1997)",
+        "<B>Albanian</B> Pyramid Crisis",
+        "<B>Albanian</B> Rebellion of 1997",
+        "<B>Albanian</B> Unrest of 1997",
+        "<B>Albanian</B> civil war (1997)",
+        "<B>Albanian</B> civil war of 1997",
+        "<B>Albanian</B> insurrection",
+        "<B>Albanian</B> rebellion",
+        "<B>Albanian</B> rebellion of 1997",
+        "<B>Albanian</B> revolt of 1997",
+        "<B>Albanian</B> unrest",
+        "<B>Albanian</B> unrest of 1997",
+        "Anarchy in <B>Albania</B>",
+        "Causes of the <B>Albanian</B> Civil War",
+        "Committee of Public Salvation",
+        "Krrabë stealing",
+        "Literature on the events of 1997",
+        "Lottery Uprising",
+        "Massacre of 28 February 1997",
+        "Massacre of Cerrik",
+        "Massacre of Cërrik",
+        "Media in the <B>Albanian</B> Civil War",
+        "Opening of the depots",
+        "Pyramid Crisis",
+        "Rebelimi i vitit 1997",
+        "Role of media in 1997",
+        "Role of the media in <B>Albanian</B> Civil War",
+        "Role of the media in the 1997 rebellion in <B>Albania</B>",
+        "Role of the media in the <B>Albanian</B> Civil War",
+        "Salvation Committees",
+        "Stealing of Krraba State Treasury",
+        "Tragedy of Qafe Shtama",
+        "Tragedy of Qafë Shtama"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Civil Unrest of 1997, also known as the <B>Albanian</B> rebellion, <B>Albanian</B> unrest or the"
+      ],
+      "label": [
+        "<B>Albanian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_in_Albania",
+        "http://dbpedia.org/resource/Category:20th-century_rebellions",
+        "http://dbpedia.org/resource/Category:Albanian_Civil_War",
+        "http://dbpedia.org/resource/Category:Attacks_on_police_stations_in_the_1990s",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1997",
+        "http://dbpedia.org/resource/Category:Looting_in_Europe",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1997",
+        "http://dbpedia.org/resource/Category:Massacres_in_Albania",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Albania",
+        "http://dbpedia.org/resource/Category:Organized_crime_conflicts_in_Albania",
+        "http://dbpedia.org/resource/Category:Political_controversies_in_Albania",
+        "http://dbpedia.org/resource/Category:Pyramid_and_Ponzi_schemes",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Albania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Albania"
+      ]
+    },
+    {
+      "score": [
+        "3897.5813"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Irredentism",
+        "<B>Albanian</B> Nationalism",
+        "<B>Albanian</B> Ultranationalists",
+        "<B>Albanian</B> hardcore nationalism",
+        "<B>Albanian</B> nationalist",
+        "<B>Albanian</B> nationalist claims",
+        "<B>Albanian</B> nationalistic ideology",
+        "<B>Albanian</B> nationalists",
+        "<B>Albanian</B> revisionism",
+        "<B>Albanianism</B>",
+        "Nationalism among <B>Albanians</B>",
+        "Pan-<B>Albanian</B>",
+        "Pan-<B>Albanian</B> movement",
+        "PanAlbanism"
+      ],
+      "comment": [
+        ": Rilindja). <B>Albanian</B> nationalism is also associated with similar concepts, such as <B>Albanianism</B>"
+      ],
+      "label": [
+        "<B>Albanian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:19th-century_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian_irredentism",
+        "http://dbpedia.org/resource/Category:Albanian_nationalism",
+        "http://dbpedia.org/resource/Category:Albanian_separatism",
+        "http://dbpedia.org/resource/Category:History_of_Kosovo",
+        "http://dbpedia.org/resource/Category:Nationalism_and_archaeology",
+        "http://dbpedia.org/resource/Category:Nationalism_by_country",
+        "http://dbpedia.org/resource/Category:Nationalist_movements_in_Europe",
+        "http://dbpedia.org/resource/Category:Political_history_of_Albania",
+        "http://dbpedia.org/resource/Category:Political_movements_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "3738.9238"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Gheg_Albanian"
+      ],
+      "redirectlabel": [
+        "Central Gheg",
+        "Eastern Gheg",
+        "Eastern Gheg <B>Albanian</B> dialect",
+        "Eastern Gheg Dialect",
+        "Geg",
+        "Geg <B>Albanian</B>",
+        "Geg <B>Albanian</B> language",
+        "Geg <B>Albanians</B>",
+        "Geg language",
+        "Gegh <B>Albanian</B> language",
+        "Gheg",
+        "Gheg <B>Albanian</B> language",
+        "Gheg <B>Albanians</B>",
+        "Gheg language",
+        "ISO 639:aln",
+        "Kosovan dialect",
+        "Kosovan dialect of <B>Albanian</B>",
+        "Kosovan diealect of <B>Albanian</B>",
+        "Kosovar dialect",
+        "Northeastern Gheg",
+        "Northern Gheg",
+        "Northwestern Gheg",
+        "Preshevan <B>Albanian</B>",
+        "Southern Geg",
+        "Southern Gheg",
+        "Western Gheg"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Gheg <B>Albanian</B> (also spelled Geg <B>Albanian</B>; Gheg <B>Albanian</B>: gegnisht, Standard <B>Albanian</B>: gegë or"
+      ],
+      "label": [
+        "Gheg <B>Albanian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Gheg_Albanian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_dialects"
+      ]
+    },
+    {
+      "score": [
+        "3616.5715"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_National_Awakening"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> National Renaissance",
+        "<B>Albanian</B> National Revival",
+        "<B>Albanian</B> Renaissance",
+        "<B>Albanian</B> independence",
+        "<B>Albanian</B> national awakening",
+        "<B>Albanian</B> national revival",
+        "<B>Albanian</B> nationalism and independence",
+        "Battle of Vranje 1911",
+        "National Renaissance of <B>Albania</B>",
+        "National awakening and the birth of <B>Albania</B>",
+        "National awakening of <B>Albania</B>",
+        "Rilindas",
+        "Rilindja",
+        "Rilindja Kombetare",
+        "Rilindja Kombëtare"
+      ],
+      "comment": [
+        "The <B>Albanian</B> National Awakening (<B>Albanian</B>: Rilindja or Rilindja Kombëtare), commonly known as the"
+      ],
+      "label": [
+        "<B>Albanian</B> National Awakening"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_National_Awakening"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_National_Awakening",
+        "http://dbpedia.org/resource/Category:Albanian_nationalism",
+        "http://dbpedia.org/resource/Category:History_of_Kosovo"
+      ]
+    },
+    {
+      "score": [
+        "3088.898"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Albanian_Army"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Royal Army",
+        "History of the Royal <B>Albanian</B> Army",
+        "Royal <B>Albanian</B>-Infantry",
+        "Royal <B>Albanian</B> Artillery",
+        "Royal <B>Albanian</B> Border Guard",
+        "Royal <B>Albanian</B> Engineers",
+        "Royal <B>Albanian</B> Guard",
+        "Royal <B>Albanian</B> Infantry",
+        "Royal <B>Albanian</B> Staff",
+        "Royal Army of <B>Albania</B>",
+        "Ushtria Mbretërore e Shqipëria"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Albanian</B> Army (<B>Albanian</B>: Ushtria Mbretërore Shqiptare) was the army of <B>Albanian</B> Kingdom"
+      ],
+      "label": [
+        "Royal <B>Albanian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Albanian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Royal_Albanian_Army"
+      ]
+    },
+    {
+      "score": [
+        "3053.974"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_lek"
+      ],
+      "redirectlabel": [
+        "1000 Leke",
+        "1000 Lekë",
+        "100 Leke (Banknote)",
+        "100 Lekë (Banknote)",
+        "2000 Leke",
+        "2000 Lekë",
+        "200 Leke",
+        "200 Lekë",
+        "5000 Leke",
+        "5000 Lekë",
+        "500 Leke",
+        "500 Lekë",
+        "<B>Albanian</B> Lek",
+        "<B>Albanian</B> qindarkë",
+        "Coins of the <B>Albanian</B> lek",
+        "ISO 4217:ALK",
+        "ISO 4217:ALL",
+        "Lek (currency)",
+        "Lek shqiptar",
+        "Leku",
+        "Lekë",
+        "Lëk",
+        "Qindar",
+        "Qindarka",
+        "Qindarka sign",
+        "Qindarke",
+        "Qindarkë",
+        "Qindars",
+        "Qintar",
+        "Qintars"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The lek (<B>Albanian</B>: Leku Shqiptar; plural lekë) (sign: L; code: ALL) is the official currency of"
+      ],
+      "label": [
+        "<B>Albanian</B> lek"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_lek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1926",
+        "http://dbpedia.org/resource/Category:Currencies_of_Albania",
+        "http://dbpedia.org/resource/Category:Financial_system_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "2962.3792"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Basketball_League"
+      ],
+      "redirectlabel": [
+        "A1 basketball league (<B>Albania</B>)",
+        "<B>Albanian</B> A-1 League",
+        "<B>Albanian</B> A1 Basketball League"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Basketball League is the men's professional basketball league in <B>Albania</B>. It was"
+      ],
+      "label": [
+        "<B>Albanian</B> Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Basketball_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian_Basketball_League",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Albania",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1946"
+      ]
+    },
+    {
+      "score": [
+        "2940.1682"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_diaspora"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Diaspora",
+        "<B>Albanian</B> diaspora by country",
+        "<B>Albanian</B> migration",
+        "<B>Albanians</B> in Ireland",
+        "<B>Albanians</B> in Kazakhstan",
+        "<B>Albanians</B> in Luxembourg",
+        "<B>Albanians</B> in Moldova",
+        "<B>Albanians</B> in Poland",
+        "<B>Albanians</B> in Russia",
+        "<B>Albanians</B> in Slovakia",
+        "<B>Albanians</B> in the Czech Republic",
+        "Emigration from <B>Albania</B>",
+        "History of the <B>Albanian</B> diaspora",
+        "Shaci"
+      ],
+      "comment": [
+        "The <B>Albanian</B> diaspora (<B>Albanian</B>: Mërgata Shqiptare or Diaspora Shqiptare) are the ethnic <B>Albanians</B>"
+      ],
+      "label": [
+        "<B>Albanian</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2907.696"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Declaration_of_Independence"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Proclamation of Independence",
+        "<B>Albanian</B> declaration of independence",
+        "<B>Albanian</B> independent day",
+        "Declaration of independence <B>albania</B>",
+        "Declaration of independence of <B>Albania</B>",
+        "Dervish bej Ipeku",
+        "Zenel bej Begolli"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Declaration of Independence (<B>Albanian</B>: Shpallja e Pavarësisë) was the declaration of"
+      ],
+      "label": [
+        "<B>Albanian</B> Declaration of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Declaration_of_Independence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_documents",
+        "http://dbpedia.org/resource/Category:1912_in_Albania",
+        "http://dbpedia.org/resource/Category:1912_in_international_relations",
+        "http://dbpedia.org/resource/Category:Albanian_Declaration_of_Independence",
+        "http://dbpedia.org/resource/Category:Albanian_Question",
+        "http://dbpedia.org/resource/Category:Declarations_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "2609.1467"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Party_of_Labour_of_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Communist Party",
+        "<B>Albanian</B> Labor Party",
+        "<B>Albanian</B> Labour Party",
+        "<B>Albanian</B> Party of Labor",
+        "<B>Albanian</B> Party of Labour",
+        "<B>Albanian</B> Workers' Party",
+        "<B>Albanian</B> labour party",
+        "Communist party of <B>Albania</B>",
+        "First Secretary of the Party of Labour of <B>Albania</B>",
+        "Labor Party of <B>Albania</B>",
+        "Labour Party of <B>Albania</B>",
+        "P.P.S.H.",
+        "Partia e Punes e Shqiperise",
+        "Partia e Punës e Shqipërisë",
+        "Party of Communists of <B>Albania</B>",
+        "Party of Labor of <B>Albania</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Party of Labour of <B>Albania</B> (PLA) (<B>Albanian</B>: Partia e Punës e Shqipërisë, PPSH), sometimes"
+      ],
+      "label": [
+        "Party of Labour of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Party_of_Labour_of_Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1941_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:1991_disestablishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Anti-revisionist_organizations",
+        "http://dbpedia.org/resource/Category:Comintern_sections",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Albania",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Albania",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Formerly_ruling_communist_parties",
+        "http://dbpedia.org/resource/Category:Hoxhaist_parties",
+        "http://dbpedia.org/resource/Category:Labour_Party_of_Albania",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:People's_Socialist_Republic_of_Albania",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1991",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1941",
+        "http://dbpedia.org/resource/Category:Stalinist_parties"
+      ]
+    },
+    {
+      "score": [
+        "2512.796"
+      ],
+      "refCount": [
+        "84"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B> (1991-1992)",
+        "<B>Albania</B> (1991–1992)",
+        "<B>Albanian</B> Communists",
+        "<B>Albanian</B> People's Republic",
+        "<B>Albanian</B> communism",
+        "<B>Albanian</B> communist regime",
+        "<B>Albanian</B> communists",
+        "Communism in <B>Albania</B>",
+        "Communist <B>Albania</B>",
+        "Communist and post-Communist <B>Albania</B>",
+        "History of <B>Albania</B> (1945-1989)",
+        "History of Communist <B>Albania</B>",
+        "History of People's Republic of <B>Albania</B>",
+        "History of communist <B>albania</B>",
+        "History of the People's Socialist Republic of <B>Albania</B>",
+        "Hoxhaist <B>Albania</B>",
+        "PSR <B>Albania</B>",
+        "People's Rep. of <B>Albania</B>",
+        "People's Republic of <B>Albania</B>",
+        "People's Republic of <B>Albania</B> (Republika Popullore e Shqipërisë)",
+        "People's Republic of <B>Albania</B> (Shqipëria)",
+        "People's Republic of <B>Albania</B> - RPSH",
+        "Peoples Republic of <B>Albania</B>",
+        "Provisional Democratic Government of <B>Albania</B>",
+        "Red <B>Albania</B>",
+        "Republic of <B>Albania</B> (1991-1992)",
+        "Republic of <B>Albania</B> (1991–1992)",
+        "Socialist <B>Albania</B>",
+        "Socialist People's Republic of <B>Albania</B>",
+        "Socialist People’s Republic of <B>Albania</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Albania</B> ( (), a(w)l-BAY-nee-ə; <B>Albanian</B>: Shqipëri/Shqipëria; Gheg <B>Albanian</B>: Shqipni/Shqipnia"
+      ],
+      "label": [
+        "People's Socialist Republic of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Albania",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:20th_century_in_Albania",
+        "http://dbpedia.org/resource/Category:Atheist_states",
+        "http://dbpedia.org/resource/Category:Communism_in_Albania",
+        "http://dbpedia.org/resource/Category:Communist_states",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Hoxhaism",
+        "http://dbpedia.org/resource/Category:Isolationism",
+        "http://dbpedia.org/resource/Category:People's_Socialist_Republic_of_Albania",
+        "http://dbpedia.org/resource/Category:Soviet_satellite_states",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1992",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1946",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "2491.707"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Fascist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Nazi Party",
+        "<B>Albanian</B> fascism",
+        "<B>Albanian</B> fascists",
+        "Guard of Great <B>Albania</B>",
+        "PFSh",
+        "Partia Fashiste e Shqiperise",
+        "Partia Fashiste e Shqipërisë"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Fascist Party (<B>Albanian</B>: Partia Fashiste e Shqipërisë, or PFSh) was a Fascist"
+      ],
+      "label": [
+        "<B>Albanian</B> Fascist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Fascist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1939_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:1943_disestablishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Albania",
+        "http://dbpedia.org/resource/Category:Far-right_political_parties",
+        "http://dbpedia.org/resource/Category:Fascist_parties",
+        "http://dbpedia.org/resource/Category:Italian_Fascism",
+        "http://dbpedia.org/resource/Category:Italian_protectorate_of_Albania_(1939–1943)",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1943",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1939",
+        "http://dbpedia.org/resource/Category:Politics_of_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2472.3557"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kosovo_Albanians"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Kosovar",
+        "<B>Albanian</B> Kosovars",
+        "<B>Albanians</B> in Kosmet",
+        "<B>Albanians</B> in Kosovo",
+        "<B>Albanians</B> in Kosovo & Metohia",
+        "<B>Albanians</B> in Kosovo & Metohija",
+        "<B>Albanians</B> in Kosovo and Metohia",
+        "<B>Albanians</B> in Kosovo and Metohija",
+        "<B>Albanians</B> in kosovo",
+        "<B>Albanians</B> of Kosmet",
+        "<B>Albanians</B> of Kosovo",
+        "<B>Albanians</B> of Kosovo & Metohia",
+        "<B>Albanians</B> of Kosovo & Metohija",
+        "<B>Albanians</B> of Kosovo and Metohia",
+        "<B>Albanians</B> of Kosovo and Metohija",
+        "Kosmet <B>Albanian</B>",
+        "Kosmet <B>Albanians</B>",
+        "Kosmetian <B>Albanian</B>",
+        "Kosmetian <B>Albanians</B>",
+        "Kosova <B>Albanian</B>",
+        "Kosovan <B>Albanian</B>",
+        "Kosovan <B>Albanians</B>",
+        "Kosovar-<B>Albanian</B>",
+        "Kosovar <B>Albanian</B>",
+        "Kosovar <B>Albanians</B>",
+        "Kosovo-<B>Albanian</B>",
+        "Kosovo-<B>Albanians</B>",
+        "Kosovo <B>Albanian</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Albanians</B> (<B>Albanian</B>: Shqiptarët, pronounced [ʃcipˈta:ɾət]), also commonly called Kosovars"
+      ],
+      "label": [
+        "Kosovo <B>Albanians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kosovo_Albanians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Kosovo",
+        "http://dbpedia.org/resource/Category:Kosovan_people_of_Albanian_descent",
+        "http://dbpedia.org/resource/Category:Kosovo_Albanians"
+      ]
+    },
+    {
+      "score": [
+        "2430.6758"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Mosque,_Carlton_North"
+      ],
+      "redirectlabel": [
+        "AAIS Mosque",
+        "<B>Albanian</B> Australian Islamic Society",
+        "<B>Albanian</B> Australian Islamic Society (AAIS)",
+        "<B>Albanian</B> Australian Islamic Society Mosque",
+        "<B>Albanian</B> Carlton Mosque",
+        "<B>Albanian</B> Mosque, Carlton",
+        "<B>Albanian</B> Mosque (Carlton North)",
+        "<B>Albanian</B> Mosque in Carlton",
+        "<B>Albanian</B> Mosque in Carlton North",
+        "Carlton <B>Albanian</B> Mosque",
+        "Carlton Mosque",
+        "Carlton North Mosque",
+        "Shoqata Islamike Shqiptare Australiane",
+        "Shoqata Islamike Shqiptare në Carlton",
+        "Shoqata Islamike Shqiptare në Karlton",
+        "Shoqeria Islamike Shqiptare Australiane",
+        "Shoqeria Islamike Shqiptare Australiane (AAIS)",
+        "Shoqëria Islamike Shqiptare Australiane",
+        "Shoqëria Islamike Shqiptare Australiane (AAIS)"
+      ],
+      "label": [
+        "<B>Albanian</B> Mosque, Carlton North"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Mosque,_Carlton_North"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1969_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Albanian_diaspora",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_the_City_of_Yarra",
+        "http://dbpedia.org/resource/Category:Heritage-listed_buildings_in_Melbourne",
+        "http://dbpedia.org/resource/Category:Mosques_completed_in_1969",
+        "http://dbpedia.org/resource/Category:Mosques_in_Melbourne"
+      ]
+    },
+    {
+      "score": [
+        "2415.483"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Albanan</B>-American",
+        "<B>Albanian</B>-American",
+        "<B>Albanian</B>-Americans",
+        "<B>Albanian</B> American",
+        "<B>Albanians</B> in New York City",
+        "<B>Albanians</B> in the United States",
+        "Demographics of <B>Albanian</B> Americans",
+        "History of <B>Albanian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " <B>Albanian</B> population in the Balkans among others to <B>Albania</B>, Italy, Kosovo, North Macedonia and"
+      ],
+      "label": [
+        "<B>Albanian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:American_people_of_Albanian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_United_States",
+        "http://dbpedia.org/resource/Category:European-American_society"
+      ]
+    },
+    {
+      "score": [
+        "2384.5388"
+      ],
+      "refCount": [
+        "112"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Democratic_Party_of_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Democratic Party",
+        "Democratic Party (<B>Albania</B>)",
+        "Democratic party of <B>Albania</B>",
+        "Democratic party of <B>albania</B>",
+        "PDSH",
+        "Partia Demokratike",
+        "Partia Demokratike (Shqipëri)",
+        "Partia Demokratike e Shqiperise",
+        "Partia Demokratike e Shqipërisë"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Democratic Party of <B>Albania</B> (<B>Albanian</B>: Partia Demokratike e Shqipërisë, PD or PDSh) is a"
+      ],
+      "label": [
+        "Democratic Party of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Democratic_Party_of_Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Albania",
+        "http://dbpedia.org/resource/Category:Democratic_Party_of_Albania",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "2373.6814"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_art"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Albanian</B> art",
+        "Art in <B>Albania</B>",
+        "Art of <B>Albania</B>",
+        "Arti në Shqipëri",
+        "Arts of <B>Albania</B>",
+        "History of <B>Albanian</B> art",
+        "Medieval <B>Albanian</B> art",
+        "Modern <B>Albanian</B> Art",
+        "Modern <B>Albanian</B> art",
+        "Prehistoric <B>Albanian</B> art"
+      ],
+      "comment": [
+        "The <B>Albanian</B> art (<B>Albanian</B> pronunciation: [aˈr:ti ʃcipˈta:rɛ] — <B>Albanian</B>: Arti Shqiptarë) refers to"
+      ],
+      "label": [
+        "<B>Albanian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_art",
+        "http://dbpedia.org/resource/Category:European_art"
+      ]
+    },
+    {
+      "score": [
+        "2297.2502"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_alphabet"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Alphabet",
+        "<B>Albanian</B> Arab alphabet",
+        "<B>Albanian</B> Arabic alphabet",
+        "<B>Albanian</B> Cyrillic alphabet",
+        "<B>Albanian</B> Greek alphabet",
+        "<B>Albanian</B> Latin alphabet",
+        "<B>Albanian</B> orthography",
+        "Arvanitic alphabet",
+        "Arvanitika alphabet"
+      ],
+      "comment": [
+        "The <B>Albanian</B> alphabet (<B>Albanian</B>: alfabeti shqip) is a variant of the Latin alphabet used to write"
+      ],
+      "label": [
+        "<B>Albanian</B> alphabet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_alphabet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_scripts",
+        "http://dbpedia.org/resource/Category:Latin_alphabets"
+      ]
+    },
+    {
+      "score": [
+        "2284.8398"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tosk_Albanian"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> (Tosk) language",
+        "ISO 639:als",
+        "Northern Tosk <B>Albanian</B>",
+        "Northern Tosk <B>Albanian</B> language",
+        "Tosk",
+        "Tosk <B>Albanian</B> language",
+        "Tosk <B>Albanians</B>",
+        "Tosk language",
+        "Toske"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Tosk <B>Albanian</B> (<B>Albanian</B>: toskë or toskërisht) is the southern group of varieties of the <B>Albanian</B>"
+      ],
+      "label": [
+        "Tosk <B>Albanian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tosk_Albanian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_dialects"
+      ]
+    },
+    {
+      "score": [
+        "2283.9219"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_mafia"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Mafia",
+        "<B>Albanian</B> Organized Crime",
+        "<B>Albanian</B> maffia",
+        "<B>Albanian</B> mafia in Australia",
+        "<B>Albanian</B> mob",
+        "<B>Albaniannn</B>"
+      ],
+      "comment": [
+        " used for criminal organizations based in <B>Albania</B> or composed of ethnic <B>Albanians</B>. <B>Albanian</B> organized"
+      ],
+      "label": [
+        "<B>Albanian</B> mafia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_mafia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_Mafia",
+        "http://dbpedia.org/resource/Category:European-Australian_culture",
+        "http://dbpedia.org/resource/Category:Gangs_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Gangs_in_Toronto",
+        "http://dbpedia.org/resource/Category:Mafia",
+        "http://dbpedia.org/resource/Category:Organised_crime_gangs_of_London",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Australia",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Belgium",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Denmark",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_England",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Germany",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Ireland",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Israel",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Italy",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_North_Macedonia",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Norway",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Scotland",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Spain",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_Wales",
+        "http://dbpedia.org/resource/Category:Organised_crime_groups_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Organized_crime_by_ethnic_or_national_origin",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Albania",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_China",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Finland",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_France",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Greece",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Honduras",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Kosovo",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Montenegro",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Serbia",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Slovakia",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Sweden",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_Switzerland",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Organized_crime_groups_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Transnational_organized_crime"
+      ]
+    },
+    {
+      "score": [
+        "2281.0503"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Naval_Force"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Naval Brigade",
+        "<B>Albanian</B> Naval Defense Forces",
+        "<B>Albanian</B> Naval Forces",
+        "<B>Albanian</B> Naval Forces Command",
+        "<B>Albanian</B> Navy",
+        "<B>Albanian</B> Navy Brigade",
+        "<B>Albanian</B> navy",
+        "Coastal Defense Command of the <B>Albanian</B> Army",
+        "Navy of <B>Albania</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Naval Force (<B>Albanian</B>: Forca Detare të Republikës së Shqipërisë) is the naval branch"
+      ],
+      "label": [
+        "<B>Albanian</B> Naval Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Naval_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Albania",
+        "http://dbpedia.org/resource/Category:Navies_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2222.477"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Land_Force"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Army",
+        "<B>Albanian</B> Land Forces.",
+        "<B>Albanian</B> Land Forces",
+        "<B>Albanian</B> Land Forces Command",
+        "<B>Albanian</B> army",
+        "Army of <B>Albania</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Land Force (<B>Albanian</B>: Forca Tokësore të Republikës së Shqipërisë) is a branch of the <B>Albanian</B> Armed Forces."
+      ],
+      "label": [
+        "<B>Albanian</B> Land Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Land_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_2000",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "2170.1511"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Mosque,_Dandenong"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Dandenong Mosque",
+        "<B>Albanian</B> Islamic Centre Mosque",
+        "<B>Albanian</B> Islamic Society of Dandenong",
+        "<B>Albanian</B> Mosque (Dandenong)",
+        "<B>Albanian</B> Sakie Islamic Centre",
+        "<B>Albanian</B> Sakie Islamic Society of Dandenong",
+        "Dandenong <B>Albanian</B> Mosque",
+        "Xhami Shqiptare Dandenong",
+        "Xhamia Shqiptare Dandenong",
+        "Xhamia Shqiptare Dandenong Këshavë",
+        "Xhamija Shqiptare Dandenong",
+        "Xhamija Shqiptare Dandenong Këshavë"
+      ],
+      "label": [
+        "<B>Albanian</B> Mosque, Dandenong"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Mosque,_Dandenong"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Albanian_diaspora",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_the_City_of_Greater_Dandenong",
+        "http://dbpedia.org/resource/Category:Dandenong,_Victoria",
+        "http://dbpedia.org/resource/Category:Mosques_completed_in_1968",
+        "http://dbpedia.org/resource/Category:Mosques_in_Melbourne"
+      ]
+    },
+    {
+      "score": [
+        "2151.4348"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italo-Albanian_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "Italian Byzantine-Catholic Church",
+        "Italo-Albanese",
+        "Italo-Albanese Church",
+        "Italo-Albanese rite",
+        "Italo-<B>Albanian</B> Catholicism",
+        "Italo-<B>Albanian</B> Church",
+        "Italo-<B>Albanian</B> Greek Catholic Church",
+        "Italo-Greek Catholic",
+        "Italo-Greek Catholic Church",
+        "Italo-Greeks",
+        "Territorial Abbey of Santa Maria of Grottaferrata"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Diocese",
+        "Location",
+        "Region",
+        "ClericalAdministrativeRegion"
+      ],
+      "comment": [
+        "The Italo-<B>Albanian</B> Catholic Church (Italian: Chiesa cattolica Italo-Albanese; <B>Albanian</B>: Kisha"
+      ],
+      "label": [
+        "Italo-<B>Albanian</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italo-Albanian_Catholic_Church"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Diocese",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region",
+        "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italo-Albanian_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "2131.1262"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_tribes"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> clans",
+        "<B>Albanian</B> tribe",
+        "List of <B>Albanian</B> clans",
+        "List of <B>Albanian</B> tribes",
+        "List of clans of <B>Albania</B>",
+        "List of tribes in <B>Albania</B>",
+        "List of tribes of <B>Albania</B>",
+        "Northern <B>Albanian</B> tribes",
+        "Tribes of <B>Albania</B>"
+      ],
+      "label": [
+        "<B>Albanian</B> tribes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_tribes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_ethnographic_regions",
+        "http://dbpedia.org/resource/Category:Lists_of_modern_Indo-European_tribes_and_clans",
+        "http://dbpedia.org/resource/Category:Tribes_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "2104.8909"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Turco-Albanian"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Muslim",
+        "<B>Albanian</B> Muslims",
+        "<B>Albanian</B> muslim",
+        "Muslim <B>Albanian</B>",
+        "Turco-<B>Albanians</B>",
+        "Turk-<B>Albanians</B>",
+        "Turkoalbanians"
+      ],
+      "label": [
+        "Turco-<B>Albanian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Turco-Albanian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Albanian_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-Turkish_sentiment",
+        "http://dbpedia.org/resource/Category:Ethnic_and_religious_slurs",
+        "http://dbpedia.org/resource/Category:Islam-related_slurs",
+        "http://dbpedia.org/resource/Category:Islam_in_Albania",
+        "http://dbpedia.org/resource/Category:Islam_in_Greece",
+        "http://dbpedia.org/resource/Category:Islam_in_Kosovo",
+        "http://dbpedia.org/resource/Category:Islam_in_Montenegro",
+        "http://dbpedia.org/resource/Category:Islam_in_North_Macedonia",
+        "http://dbpedia.org/resource/Category:Islam_in_Serbia",
+        "http://dbpedia.org/resource/Category:Ottoman_Albania",
+        "http://dbpedia.org/resource/Category:Ottoman_Greece",
+        "http://dbpedia.org/resource/Category:Ottoman_period_in_the_history_of_Kosovo",
+        "http://dbpedia.org/resource/Category:Ottoman_period_in_the_history_of_North_Macedonia"
+      ]
+    },
+    {
+      "score": [
+        "2056.217"
+      ],
+      "refCount": [
+        "632"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kosovo"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> occupied Serbia",
+        "Communications in Kosovo",
+        "Cosovo",
+        "Cossovo",
+        "Culture of KV",
+        "Etymology of Kosovo",
+        "Independent Kosovo",
+        "Independent Republic of Kosovo",
+        "Infrastructure in Kosovo",
+        "KOSOVO",
+        "Kocobo",
+        "Kosavo",
+        "Kosova State",
+        "Kosove",
+        "Kosovo*",
+        "Kosovo/Kosova",
+        "Kosovo (geopolitical region)",
+        "Kosovo (historical region)",
+        "Kosovo (region)",
+        "Kosovo Basin",
+        "Kosovo State",
+        "Kosovo Valley",
+        "Kosovo basin",
+        "Kosovo proper",
+        "Kosovo region",
+        "Kosovska kotlina",
+        "Kosovë",
+        "Kossova",
+        "Kosvo",
+        "Minorities in Kosovo",
+        "NATO Occupied Serbia",
+        "Republic of Kosovo",
+        "Republic of Kosovo (2008)",
+        "Republika Kosovo",
+        "Republika e Kosoves",
+        "Republika e Kosovës",
+        "Rrafshi i Kosoves",
+        "Rrafshi i Kosovës",
+        "Second Republic of Kosovo",
+        "State of Kosova",
+        "The Kosovo",
+        "The Kossovo",
+        "The Republic of Kosovo",
+        "Косово",
+        "Република Косово"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Kosovo (; <B>Albanian</B>: Kosova pronounced [kɔˈsɔva] or Kosovë pronounced [kɔˈsɔvə]; Serbian Cyrillic"
+      ],
+      "label": [
+        "Kosovo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kosovo"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_establishments_in_Kosovo",
+        "http://dbpedia.org/resource/Category:Albanian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Balkan_countries",
+        "http://dbpedia.org/resource/Category:Bosnian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Disputed_territories_in_Europe",
+        "http://dbpedia.org/resource/Category:Kosovo",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Serbian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Southeastern_European_countries",
+        "http://dbpedia.org/resource/Category:Southern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_2008",
+        "http://dbpedia.org/resource/Category:States_with_limited_recognition",
+        "http://dbpedia.org/resource/Category:Turkish-speaking_countries_and_territories"
+      ]
+    },
+    {
+      "score": [
+        "2005.9869"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Albanian_films"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> films: 1990 -",
+        "<B>Albanian</B> films: Pre 1960",
+        "<B>Albanian</B> films of the 1960s",
+        "<B>Albanian</B> films of the 1970s",
+        "<B>Albanian</B> films of the 1980s",
+        "List of <B>Albanian</B> films: 1960s",
+        "List of <B>Albanian</B> films: 1970s",
+        "List of <B>Albanian</B> films: 1980s",
+        "List of <B>Albanian</B> films: 1990 -",
+        "List of <B>Albanian</B> films: Pre 1960"
+      ],
+      "comment": [
+        "This is a list of films produced in <B>Albania</B> by the decade."
+      ],
+      "label": [
+        "List of <B>Albanian</B> films"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Albanian_films"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Albanian_films"
+      ]
+    },
+    {
+      "score": [
+        "1973.7698"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_nobility"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> noble family",
+        "<B>Albanian</B> nobleman",
+        "<B>Albanian</B> noblewoman",
+        "Nobility from <B>Albania</B>",
+        "The <B>Albanian</B> nobility"
+      ],
+      "comment": [
+        "The <B>Albanian</B> nobility was an elite hereditary ruling class in <B>Albania</B>, parts of the western Balkans"
+      ],
+      "label": [
+        "<B>Albanian</B> nobility"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_nobility"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_nobility"
+      ]
+    },
+    {
+      "score": [
+        "1960.0426"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian–Venetian_War"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B>-Venetian War",
+        "<B>Albanian</B>-Venetian War (1447-1448)",
+        "<B>Albanian</B>-Venetian War (1447-48)",
+        "<B>Albanian</B>-Venetian War (1447–1448)",
+        "<B>Albanian</B>-Venetian War of 1447-1448",
+        "<B>Albanian</B>–Venetian War (1447–1448)",
+        "<B>Albanian</B>–Venetian War (1447–48)",
+        "Battle of the Drin",
+        "Battle of the drin"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Albanian</B>–Venetian War of 1447–48 was waged between Venetian and Ottoman forces against the"
+      ],
+      "label": [
+        "<B>Albanian</B>–Venetian War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian–Venetian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1447_in_Europe",
+        "http://dbpedia.org/resource/Category:1447_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:1448_in_Europe",
+        "http://dbpedia.org/resource/Category:1448_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1447",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1448",
+        "http://dbpedia.org/resource/Category:Venetian_period_in_the_history_of_Albania",
+        "http://dbpedia.org/resource/Category:Warfare_by_Skanderbeg",
+        "http://dbpedia.org/resource/Category:Wars_involving_Albania",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Republic_of_Venice"
+      ]
+    },
+    {
+      "score": [
+        "1944.7084"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> drinks",
+        "<B>Albanian</B> food",
+        "Baked Lamb and Yogurt",
+        "Baked lamb and yogurt",
+        "Beer in <B>Albania</B>",
+        "Cuisine of <B>Albania</B>",
+        "Fergese of Tirana with Peppers",
+        "Fergese of Tirana with Veal",
+        "Fërgesë of Tirana with Peppers",
+        "Fërgesë of Tirana with Veal",
+        "Pite (food)"
+      ],
+      "comment": [
+        "The <B>Albanian</B> cuisine (<B>Albanian</B> pronunciation: [kuˈʒi:na ʃcipˈta:rɛ] — <B>Albanian</B>: Kuzhina Shqiptare"
+      ],
+      "label": [
+        "<B>Albanian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_cuisine",
+        "http://dbpedia.org/resource/Category:Albanian_culture",
+        "http://dbpedia.org/resource/Category:Balkan_cuisine",
+        "http://dbpedia.org/resource/Category:European_cuisine",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1938.2327"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sino-Albanian_split"
+      ],
+      "redirectlabel": [
+        "Sino-<B>Albania</B> split",
+        "Sino-<B>Albanian</B> Split",
+        "Sino-<B>Albanian</B> rift",
+        "Sino-<B>Albanian</B> rupture",
+        "Sino–<B>Albanian</B> split",
+        "Zhōng-Ā pòliè",
+        "中阿破裂"
+      ],
+      "comment": [
+        "The Sino-<B>Albanian</B> split was the gradual worsening of relations between the People's Socialist"
+      ],
+      "label": [
+        "Sino-<B>Albanian</B> split"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sino-Albanian_split"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania–China_relations",
+        "http://dbpedia.org/resource/Category:Anti-revisionism",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Albania",
+        "http://dbpedia.org/resource/Category:Enver_Hoxha",
+        "http://dbpedia.org/resource/Category:Ideological_rivalry",
+        "http://dbpedia.org/resource/Category:People's_Socialist_Republic_of_Albania",
+        "http://dbpedia.org/resource/Category:Political_schisms"
+      ]
+    },
+    {
+      "score": [
+        "1935.4193"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_national_clothing"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Traditional Clothing",
+        "<B>Albanian</B> dress",
+        "<B>Albanian</B> folk costume",
+        "<B>Albanian</B> traditional clothing",
+        "National costume of <B>Albania</B>",
+        "Traditional <B>Albanian</B> clothing",
+        "Traditional clothing of <B>Albania</B>"
+      ],
+      "comment": [
+        "The traditional clothing of <B>Albania</B> (<B>Albanian</B>: Veshjet Tradicionale Shqiptare; Veshjet Kombëtare"
+      ],
+      "label": [
+        "<B>Albanian</B> national clothing"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_national_clothing"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_clothing",
+        "http://dbpedia.org/resource/Category:Albanian_culture",
+        "http://dbpedia.org/resource/Category:Albanian_traditions",
+        "http://dbpedia.org/resource/Category:Folk_costumes"
+      ]
+    },
+    {
+      "score": [
+        "1930.2299"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian–Soviet_split"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B>-Soviet rift",
+        "<B>Albanian</B>-Soviet split",
+        "Soviet-<B>Albania</B> split",
+        "Soviet-<B>Albanian</B> Split",
+        "Soviet-<B>Albanian</B> rift",
+        "Soviet-<B>Albanian</B> split",
+        "Soviet–<B>Albanian</B> split"
+      ],
+      "label": [
+        "<B>Albanian</B>–Soviet split"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian–Soviet_split"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Anti-revisionism",
+        "http://dbpedia.org/resource/Category:Battles_involving_Albania",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Albania",
+        "http://dbpedia.org/resource/Category:Enver_Hoxha",
+        "http://dbpedia.org/resource/Category:Ideological_rivalry",
+        "http://dbpedia.org/resource/Category:Nikita_Khrushchev",
+        "http://dbpedia.org/resource/Category:People's_Socialist_Republic_of_Albania",
+        "http://dbpedia.org/resource/Category:Political_schisms"
+      ]
+    },
+    {
+      "score": [
+        "1907.5284"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Orthodox_Church"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B> Church Orthodox",
+        "<B>Albania</B> Orthodox Church",
+        "<B>Albanian</B> Orthodox",
+        "<B>Albanian</B> Orthodox church",
+        "Eparchies of the <B>Albanian</B> Orthodox Church",
+        "Kisha Orthodhokse Autoqefale e Shqipërisë",
+        "Orthodoks in <B>Albania</B>",
+        "Orthodox <B>Albanians</B>",
+        "Orthodox Autocephalous Church of <B>Albania</B>",
+        "Orthodox Church of <B>Albania</B>"
+      ],
+      "label": [
+        "<B>Albanian</B> Orthodox Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Orthodox_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_Orthodox_Church",
+        "http://dbpedia.org/resource/Category:Eastern_Orthodoxy_in_Albania",
+        "http://dbpedia.org/resource/Category:Eastern_Orthodoxy_in_Europe",
+        "http://dbpedia.org/resource/Category:Members_of_the_World_Council_of_Churches"
+      ]
+    },
+    {
+      "score": [
+        "1894.0137"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albania–Russia_relations"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B>-Russia relations",
+        "<B>Albania</B>-Soviet Union relations",
+        "<B>Albania</B> - Russia relations",
+        "<B>Albania</B> - Soviet Union relations",
+        "<B>Albania</B> Russia relations",
+        "<B>Albania</B> Soviet Union relations",
+        "<B>Albania</B> – Russia relations",
+        "<B>Albania</B> – Soviet Union relations",
+        "<B>Albanian</B>-Russian relations",
+        "<B>Albanian</B>-Soviet relations",
+        "<B>Albanian</B>–Russian relations",
+        "<B>Albanian</B>–Soviet relations",
+        "<B>Albania</B>–Soviet Union relations",
+        "Russia-<B>Albania</B> relations",
+        "Russia - <B>Albania</B> relations",
+        "Russia <B>Albania</B> relations",
+        "Russia – <B>Albania</B> relations",
+        "Russian-<B>Albanian</B> Relations",
+        "Russia–<B>Albania</B> relations",
+        "Russo-<B>Albanian</B> relations",
+        "Soviet-<B>Albanian</B> Relations",
+        "Soviet-<B>Albanian</B> relations",
+        "Soviet Union-<B>Albania</B> relations",
+        "Soviet Union - <B>Albania</B> relations",
+        "Soviet Union <B>Albania</B> relations",
+        "Soviet Union – <B>Albania</B> relations",
+        "Soviet Union–<B>Albania</B> relations"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Albanian</B>–Russian relations are foreign relations between the Republic of <B>Albania</B> and the Russian"
+      ],
+      "label": [
+        "<B>Albania</B>–Russia relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albania–Russia_relations"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania–Russia_relations",
+        "http://dbpedia.org/resource/Category:Albania–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Albania",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Russia",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "1890.6172"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caucasian_Albanian_script"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> alphabet (Caucasian)",
+        "Caucasian <B>Albania</B> alphabet",
+        "Caucasian <B>Albanian</B> (script)",
+        "Caucasian <B>Albanian</B> alphabet",
+        "Caucasian <B>albanian</B> alphabet",
+        "ISO 15924:Aghb",
+        "Old Udi alphabet",
+        "Old Udi script"
+      ],
+      "comment": [
+        "The Caucasian <B>Albanian</B> script was an alphabetic writing system used by the Caucasian <B>Albanians</B>, one"
+      ],
+      "label": [
+        "Caucasian <B>Albanian</B> script"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caucasian_Albanian_script"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Alphabets",
+        "http://dbpedia.org/resource/Category:Obsolete_writing_systems",
+        "http://dbpedia.org/resource/Category:Udi_language"
+      ]
+    },
+    {
+      "score": [
+        "1882.5824"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_folk_beliefs"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Mythology",
+        "<B>Albanian</B> folklore",
+        "<B>Albanian</B> legend",
+        "<B>Albanian</B> mythology",
+        "Folklore of <B>Albania</B>",
+        "Mythology of <B>Albania</B>"
+      ],
+      "comment": [
+        "<B>Albanian</B> folk beliefs (<B>Albanian</B>: Besimet popullore shqiptare) comprise the beliefs expressed in the"
+      ],
+      "label": [
+        "<B>Albanian</B> folk beliefs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_folk_beliefs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_culture",
+        "http://dbpedia.org/resource/Category:Albanian_folklore",
+        "http://dbpedia.org/resource/Category:Albanian_mythology",
+        "http://dbpedia.org/resource/Category:Greek_mythology_of_Thrace",
+        "http://dbpedia.org/resource/Category:Indo-European_mythology",
+        "http://dbpedia.org/resource/Category:Paleo-Balkan_mythology"
+      ]
+    },
+    {
+      "score": [
+        "1858.5043"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Mosque,_Shepparton"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Mosque (Shepparton)",
+        "<B>Albanian</B> Mosque in Shepparton",
+        "<B>Albanian</B> Shepparton Mosque",
+        "Shepparton <B>Albanian</B> Harvest Festival",
+        "Shepparton <B>Albanian</B> Moslem Society",
+        "Shepparton <B>Albanian</B> Moslem Society Mosque",
+        "Shepparton <B>Albanian</B> Mosque"
+      ],
+      "label": [
+        "<B>Albanian</B> Mosque, Shepparton"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Mosque,_Shepparton"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Mosques_completed_in_1960",
+        "http://dbpedia.org/resource/Category:Shepparton"
+      ]
+    },
+    {
+      "score": [
+        "1846.0337"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Albanian</B> Superliga",
+        "1999-2000 <B>Albanian</B> National Championship",
+        "1999-2000 <B>Albanian</B> Superliga",
+        "1999–00 <B>Albanian</B> Superliga",
+        "1999–2000 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1999-2000",
+        "<B>Albanian</B> Superliga 1999–2000",
+        "Kategoria superiore 1999-00",
+        "Kategoria superiore 1999-2000",
+        "Kategoria superiore 1999–2000"
+      ],
+      "label": [
+        "1999–2000 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1999–2000_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1838.5637"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Counties_of_Albania"
+      ],
+      "redirectlabel": [
+        "Administrative regions of <B>Albania</B>",
+        "<B>Albanian</B> counties",
+        "<B>Albanian</B> county",
+        "<B>Albanian</B> prefecture",
+        "<B>Albanian</B> prefectures",
+        "Counties in <B>Albania</B>",
+        "Counties of <B>albania</B>",
+        "County in <B>Albania</B>",
+        "County of <B>Albania</B>",
+        "List of <B>Albanian</B> counties",
+        "List of <B>Albanian</B> prefectures",
+        "List of counties in <B>Albania</B>",
+        "List of counties of <B>Albania</B>",
+        "List of prefectures in <B>Albania</B>",
+        "List of prefectures of <B>Albania</B>",
+        "Local government in <B>Albania</B>",
+        "Prefecture in <B>Albania</B>",
+        "Prefecture of <B>Albania</B>",
+        "Prefectures in <B>Albania</B>",
+        "Qark",
+        "Qarku"
+      ],
+      "comment": [
+        "The Counties of <B>Albania</B> (<B>Albanian</B>: qark or qarqe, pronounced [caɾk] or [carcɛ]) are first-level"
+      ],
+      "label": [
+        "Counties of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Counties_of_Albania"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:Counties_of_Albania",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1828.6571"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B>/Government",
+        "AlbaniaGovernment",
+        "<B>Albania</B> government",
+        "<B>Albanian</B> Governement",
+        "<B>Albanian</B> Government",
+        "<B>Albanian</B> governement",
+        "<B>Albanian</B> government",
+        "<B>Albanian</B> law",
+        "<B>Albanian</B> politics",
+        "Conservatism in <B>Albania</B>",
+        "Government of <B>Albania</B>",
+        "Government of <B>albania</B>",
+        "Kuvend",
+        "Law in <B>Albania</B>",
+        "Law of the <B>Albanian</B> Republic",
+        "Law of the Republic of <B>Albania</B>",
+        "Minister (<B>Albania</B>)",
+        "Politics of <B>albania</B>"
+      ],
+      "comment": [
+        "<B>Albania</B> is a unitary parliamentary constitutional republic, where the President of <B>Albania</B> is the"
+      ],
+      "label": [
+        "Politics of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Albania"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Politics_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1815.026"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_name"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> family name",
+        "<B>Albanian</B> given name",
+        "<B>Albanian</B> names",
+        "<B>Albanian</B> surname"
+      ],
+      "comment": [
+        "<B>Albanian</B> names are names used in, or originating in, <B>Albania</B>, Kosovo, North Macedonia and the"
+      ],
+      "label": [
+        "<B>Albanian</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_culture",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1814.8397"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Police"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> State Police",
+        "<B>Albanian</B> police",
+        "History of the <B>Albanian</B> Police",
+        "Policia e Shtetit"
+      ],
+      "comment": [
+        "The <B>Albanian</B> State Police (<B>Albanian</B>: Policia e Shtetit) is the national police and law enforcement"
+      ],
+      "label": [
+        "<B>Albanian</B> Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Albania",
+        "http://dbpedia.org/resource/Category:National_Central_Bureaus_of_Interpol",
+        "http://dbpedia.org/resource/Category:National_police_forces"
+      ]
+    },
+    {
+      "score": [
+        "1798.4719"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Futsal_Championship"
+      ],
+      "redirectlabel": [
+        "2022 <B>Albanian</B> Futsal Championship",
+        "<B>Albania</B> Futsal League",
+        "<B>Albanian</B> Futsal Premier League",
+        "Kampionati Mini-Futbollit"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "label": [
+        "<B>Albanian</B> Futsal Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Futsal_Championship"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian_Futsal_Championship",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Albania",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2003",
+        "http://dbpedia.org/resource/Category:Top_level_futsal_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1795.8948"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_literature"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Literature",
+        "<B>Albanian</B> poetry",
+        "Literature of <B>Albania</B>"
+      ],
+      "comment": [
+        " written in the <B>Albanian</B> language. It may also refer to literature written by <B>Albanians</B> in <B>Albania</B>"
+      ],
+      "label": [
+        "<B>Albanian</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_literature",
+        "http://dbpedia.org/resource/Category:European_literature"
+      ]
+    },
+    {
+      "score": [
+        "1766.0657"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arbëresh_language"
+      ],
+      "redirectlabel": [
+        "Arberesh",
+        "Arberesh <B>Albanian</B>",
+        "Arberesh dialect",
+        "Arberesh language",
+        "Arbereshe <B>Albanian</B>",
+        "Arbereshe <B>Albanian</B> dialect",
+        "Arbereshe <B>Albanian</B> language",
+        "Arbereshe dialect",
+        "Arbereshe language",
+        "Arberishte",
+        "Arberishtja",
+        "Arbëresh",
+        "Arbëresh alphabet",
+        "Arbëresh dialect",
+        "Arbëreshe language",
+        "Arbëreshë <B>Albanian</B>",
+        "Arbëreshë <B>Albanian</B> dialect",
+        "Arbëreshë <B>Albanian</B> language",
+        "Arbëreshë dialect",
+        "Arbëreshë language",
+        "Arbërishtja",
+        "Arbëríshte",
+        "ISO 639:aae",
+        "Italo-<B>Albanian</B> language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Arbëresh (also known as Arbërisht, Arbërishtja or T'arbrisht) is the <B>Albanian</B> speech spoken by the"
+      ],
+      "label": [
+        "Arbëresh language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arbëresh_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_dialects",
+        "http://dbpedia.org/resource/Category:Arbëreshë_culture",
+        "http://dbpedia.org/resource/Category:Endangered_Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Endangered_diaspora_languages",
+        "http://dbpedia.org/resource/Category:False_friends",
+        "http://dbpedia.org/resource/Category:Languages_of_Abruzzo",
+        "http://dbpedia.org/resource/Category:Languages_of_Calabria",
+        "http://dbpedia.org/resource/Category:Languages_of_Campania",
+        "http://dbpedia.org/resource/Category:Languages_of_Molise",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily"
+      ]
+    },
+    {
+      "score": [
+        "1748.0615"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Kingdom_(1928–1939)"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Kingdom (1928-1939)",
+        "<B>Albanian</B> Kingdom (1928-39)",
+        "<B>Albanian</B> Kingdom (1928–39)",
+        "Kingdom of <B>Albania</B> (1928-1939)",
+        "Kingdom of <B>Albania</B> (1928-39)",
+        "Kingdom of <B>Albania</B> (1928–1939)",
+        "Kingdom of <B>Albania</B> (1928–39)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of <B>Albania</B> (Gheg <B>Albanian</B>: Mbretnija Shqiptare, Standard <B>Albanian</B>: Mbretëria Shqiptare"
+      ],
+      "label": [
+        "<B>Albanian</B> Kingdom (1928–1939)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Kingdom_(1928–1939)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_Kingdom_(1928–1939)",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Former_monarchies",
+        "http://dbpedia.org/resource/Category:Former_protectorates",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1939",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1928"
+      ]
+    },
+    {
+      "score": [
+        "1700.2888"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Vilayet"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> vilayet",
+        "Four Vilayets",
+        "The <B>Albanian</B> Vilayet",
+        "Vilayet of <B>Albania</B>"
+      ],
+      "comment": [
+        " of the First Balkan War. Plans for an <B>Albanian</B> Vilayet were lost with the Partition of <B>Albania</B>."
+      ],
+      "label": [
+        "<B>Albanian</B> Vilayet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Vilayet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Albanian_Question",
+        "http://dbpedia.org/resource/Category:Janina_vilayet",
+        "http://dbpedia.org/resource/Category:Kosovo_vilayet",
+        "http://dbpedia.org/resource/Category:Manastir_vilayet",
+        "http://dbpedia.org/resource/Category:Proposed_political_divisions",
+        "http://dbpedia.org/resource/Category:Scutari_vilayet"
+      ]
+    },
+    {
+      "score": [
+        "1692.9609"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Football_Association"
+      ],
+      "redirectlabel": [
+        "FSFH",
+        "FSHF",
+        "Football Association of <B>Albania</B>",
+        "Football association of <B>albania</B>",
+        "The Football Association of <B>Albanian</B>"
+      ],
+      "comment": [
+        " Division, the <B>Albanian</B> Cup and Supercup. <B>Albania</B> women's national football team, <B>Albanian</B> women's"
+      ],
+      "label": [
+        "<B>Albanian</B> Football Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Football_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Football_in_Albania",
+        "http://dbpedia.org/resource/Category:Futsal_in_Albania",
+        "http://dbpedia.org/resource/Category:Sport_in_Tirana",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Albania",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1930",
+        "http://dbpedia.org/resource/Category:UEFA_member_associations"
+      ]
+    },
+    {
+      "score": [
+        "1678.7482"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arbëreshë_people"
+      ],
+      "redirectlabel": [
+        "Abëresh",
+        "Abërëshe",
+        "Arbaresh",
+        "Arbereshe people",
+        "Arbresch",
+        "Arbreshe",
+        "Arbrëshë",
+        "Arbëreshe",
+        "Arbëreshi",
+        "Arbëreshë-<B>Albanian</B>",
+        "Italian/<B>Albanian</B> people",
+        "Italo-<B>Albanian</B>",
+        "Italo-<B>Albanians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " known as <B>Albanians</B> of Italy or Italo-<B>Albanians</B>, are an <B>Albanian</B> ethnolinguistic group in Southern"
+      ],
+      "label": [
+        "Arbëreshë people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arbëreshë_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arbëreshë_people"
+      ]
+    },
+    {
+      "score": [
+        "1673.2351"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Orthodox_Archbishopric_of_Tirana-Durrës"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Orthodox Archbishopric of Tirana and Durrës",
+        "<B>Albanian</B> Orthodox Archbishopric of Tiranë-Durrës",
+        "<B>Albanian</B> Orthodox Archbishopric of Tiranë and Durrës",
+        "<B>Albanian</B> Orthodox Archdiocese of Tirana-Durrës",
+        "<B>Albanian</B> Orthodox Archdiocese of Tirana and Durrës",
+        "<B>Albanian</B> Orthodox Archdiocese of Tiranë-Durrës",
+        "<B>Albanian</B> Orthodox Archdiocese of Tiranë and Durrës",
+        "<B>Albanian</B> Orthodox Archeparchy of Tirana-Durrës",
+        "<B>Albanian</B> Orthodox Archeparchy of Tirana and Durrës"
+      ],
+      "label": [
+        "<B>Albanian</B> Orthodox Archbishopric of Tirana-Durrës"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Orthodox_Archbishopric_of_Tirana-Durrës"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_Orthodox_Church",
+        "http://dbpedia.org/resource/Category:Durrës",
+        "http://dbpedia.org/resource/Category:Religion_in_Tirana"
+      ]
+    },
+    {
+      "score": [
+        "1657.6699"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_revolts_of_1833–1839"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Revolts of 1833-1839",
+        "<B>Albanian</B> Revolts of 1833-39",
+        "<B>Albanian</B> Revolts of 1833–1839",
+        "<B>Albanian</B> Revolts of 1833–39",
+        "<B>Albanian</B> revolts of 1833-1839",
+        "<B>Albanian</B> revolts of 1833-39",
+        "<B>Albanian</B> revolts of 1833–39"
+      ],
+      "comment": [
+        "The <B>Albanian</B> revolts of 1833–1839 took place in <B>Albania</B> as a reaction against the new centralizing policy of Ottoman administration."
+      ],
+      "label": [
+        "<B>Albanian</B> revolts of 1833–1839"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_revolts_of_1833–1839"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1830s_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:19th-century_rebellions",
+        "http://dbpedia.org/resource/Category:19th_century_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian_rebellions_against_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "1652.924"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_revolt_of_1432–1436"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Revolt of 1432-1436",
+        "<B>Albanian</B> Revolt of 1432-36",
+        "<B>Albanian</B> Revolt of 1432–1436",
+        "<B>Albanian</B> Revolt of 1432–36",
+        "<B>Albanian</B> revolt of 1432-1436",
+        "<B>Albanian</B> revolt of 1432-36",
+        "<B>Albanian</B> revolt of 1432–36"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> revolt of 1432–1436 was a series of conflicts between <B>Albanian</B> rebels and the Ottoman"
+      ],
+      "label": [
+        "<B>Albanian</B> revolt of 1432–1436"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_revolt_of_1432–1436"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1430s_conflicts",
+        "http://dbpedia.org/resource/Category:1430s_in_Europe",
+        "http://dbpedia.org/resource/Category:1430s_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:1432_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:15th-century_rebellions",
+        "http://dbpedia.org/resource/Category:Albanian_rebellions_against_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Battles_involving_Albania",
+        "http://dbpedia.org/resource/Category:Medieval_Albania",
+        "http://dbpedia.org/resource/Category:Military_campaigns_involving_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "1646.1177"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "Albanese Catholic Church",
+        "<B>Albanian</B> Byzantine Catholic Church",
+        "<B>Albanian</B> Byzantine Catholicism",
+        "<B>Albanian</B> Catholic Byzantine Church",
+        "<B>Albanian</B> Greco-Catholic Church",
+        "<B>Albanian</B> Greek-Catholic Church"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Greek Catholic Church, also known as the <B>Albanian</B> Byzantine Catholic Church, is an"
+      ],
+      "label": [
+        "<B>Albanian</B> Greek Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Greek_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_Greek_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Catholicism_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1636.82"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_dialects"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> dialect",
+        "<B>Albanian</B> language dialects",
+        "<B>Albanian</B> languages"
+      ],
+      "comment": [
+        "The <B>Albanian</B> language is composed of many dialects, divided into two major groups: Gheg and"
+      ],
+      "label": [
+        "<B>Albanian</B> dialects"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_dialects"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_dialects",
+        "http://dbpedia.org/resource/Category:Dialects_by_language",
+        "http://dbpedia.org/resource/Category:Languages_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1611.3103"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Albanian_monarchs"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> monarchy",
+        "Kings of <B>Albania</B>",
+        "List of <B>Albanian</B> Monarchs",
+        "List of Kings of <B>Albania</B>",
+        "List of Monarchs of <B>Albania</B>",
+        "List of Princes of <B>Albania</B>",
+        "Monarchs of <B>Albania</B>",
+        "Prince of <B>Albania</B>",
+        "Princes of <B>Albania</B>"
+      ],
+      "comment": [
+        "This article includes a list of <B>Albanian</B> monarchs. <B>Albania</B> was first established by the Progon"
+      ],
+      "label": [
+        "List of <B>Albanian</B> monarchs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Albanian_monarchs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs",
+        "http://dbpedia.org/resource/Category:Lists_of_princes"
+      ]
+    },
+    {
+      "score": [
+        "1605.768"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_epic_poetry"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Epic Poetry",
+        "<B>Albanian</B> Epic Verse, Poetry, and Song",
+        "<B>Albanian</B> epic folklore",
+        "<B>Albanian</B> epic verse",
+        "<B>Albanian</B> folk poetry"
+      ],
+      "label": [
+        "<B>Albanian</B> epic poetry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_epic_poetry"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albanian_folklore",
+        "http://dbpedia.org/resource/Category:Albanian_literature",
+        "http://dbpedia.org/resource/Category:Albanian_poetry",
+        "http://dbpedia.org/resource/Category:Epic_poetry",
+        "http://dbpedia.org/resource/Category:Folk_poetry",
+        "http://dbpedia.org/resource/Category:Poetry_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1583.4069"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Muhaxhir_(Albanians)"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Muhajir",
+        "<B>Albanian</B> muhajirs",
+        "<B>Albanian</B> mujahirs",
+        "Muhajir (<B>Albania</B>)",
+        "Muhajir (<B>Albanians</B>)",
+        "Muhajir <B>Albania</B>",
+        "Muhajirs (<B>Albanians</B>)",
+        "Muhaxher",
+        "Muhaxhire",
+        "Muhaxhirë"
+      ],
+      "comment": [
+        " Ottoman <B>Albanian</B> communities that left their homes as refugees or were transferred, from Greece, Serbia"
+      ],
+      "label": [
+        "Muhaxhir (<B>Albanians</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Muhaxhir_(Albanians)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Historical_migrations",
+        "http://dbpedia.org/resource/Category:History_of_Kosovo",
+        "http://dbpedia.org/resource/Category:History_of_modern_Greece",
+        "http://dbpedia.org/resource/Category:History_of_the_Albanians",
+        "http://dbpedia.org/resource/Category:Social_history_of_Albania",
+        "http://dbpedia.org/resource/Category:Social_history_of_Montenegro",
+        "http://dbpedia.org/resource/Category:Yugoslav_Serbia"
+      ]
+    },
+    {
+      "score": [
+        "1574.6102"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Constitution_of_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Constitution",
+        "Constitution of <B>albania</B>",
+        "Constitution of the Republic of <B>Albania</B>",
+        "Fundamental Statute of the Kingdom of <B>Albania</B>",
+        "List of constitutions of <B>Albania</B>",
+        "Part Eleven of the <B>Albanian</B> Constitution",
+        "Part Fifteen of the <B>Albanian</B> Constitution",
+        "Part Fourteen of the <B>Albanian</B> Constitution",
+        "Part Seventeen of the <B>Albanian</B> Constitution",
+        "Part Sixteen of the <B>Albanian</B> Constitution",
+        "Part Ten of the <B>Albanian</B> Constitution",
+        "Part Thirteen of the <B>Albanian</B> Constitution",
+        "Part Twelve of the <B>Albanian</B> Constitution",
+        "Statute of the Kingdom of <B>Albania</B>"
+      ],
+      "comment": [
+        "It is the fundamental law of the Republic of <B>Albania</B>. The present Constitution of <B>Albania</B> (<B>Albanian</B>"
+      ],
+      "label": [
+        "Constitution of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Constitution_of_Albania"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_documents",
+        "http://dbpedia.org/resource/Category:1998_in_Albania",
+        "http://dbpedia.org/resource/Category:1998_in_law",
+        "http://dbpedia.org/resource/Category:1998_in_politics",
+        "http://dbpedia.org/resource/Category:Constitution_of_Albania",
+        "http://dbpedia.org/resource/Category:November_1998_events_in_Europe",
+        "http://dbpedia.org/resource/Category:Politics_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1567.6674"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_populated_places_in_Kosovo_by_Albanian_name"
+      ],
+      "redirectlabel": [
+        "List of populated places in kosovo by <B>albanian</B> name",
+        "List of settlements in Kosovo by <B>Albanian</B> name",
+        "Places in Kosovo by <B>Albanian</B> name",
+        "Places of Kosovo by <B>Albanian</B> name",
+        "Populated places in Kosovo by <B>Albanian</B> name",
+        "Populated places of Kosovo by <B>Albanian</B> name",
+        "Settlements Kosovo by <B>Albanian</B> name",
+        "Settlements in Kosovo by <B>Albanian</B> name",
+        "Settlements of Kosovo by <B>Albanian</B> name"
+      ],
+      "comment": [
+        "<B>Albanian</B> name, Serbian name."
+      ],
+      "label": [
+        "List of populated places in Kosovo by <B>Albanian</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_populated_places_in_Kosovo_by_Albanian_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Kosovo_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_populated_places_by_country",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Kosovo"
+      ]
+    },
+    {
+      "score": [
+        "1563.5298"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_University"
+      ],
+      "redirectlabel": [
+        "10.55312",
+        "<B>Albanian</B> University (Berat)",
+        "<B>Albanian</B> University in Berat",
+        "University of Berat"
+      ],
+      "label": [
+        "<B>Albanian</B> University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_University"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_2004",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1557.3285"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_protectorate_of_Albania_(1939–1943)"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B> under Italy",
+        "<B>Albania</B> under italy",
+        "<B>Albanian</B> Kingdom (1939-1943)",
+        "<B>Albanian</B> Kingdom (1939-43)",
+        "<B>Albanian</B> Kingdom (1939–1943)",
+        "<B>Albanian</B> Kingdom (1939–43)",
+        "<B>Albanian</B> under Italy",
+        "Fascist-occupied <B>Albania</B>",
+        "Fascist <B>Albania</B>",
+        "Fascist <B>albania</B>",
+        "Italian-occupied <B>Albania</B>",
+        "Italian <B>Albania</B>",
+        "Italian <B>albania</B>",
+        "Italian occupation of <B>Albania</B>",
+        "Italian protectorate of <B>Albania</B> (1939-1943)",
+        "Regno albanese"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " assimilating <B>Albanians</B> as Italians and colonizing <B>Albania</B> with Italian settlers from the Italian Peninsula to transform it gradually into an Italian land."
+      ],
+      "label": [
+        "Italian protectorate of <B>Albania</B> (1939–1943)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_protectorate_of_Albania_(1939–1943)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1939_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:1939_establishments_in_the_Italian_Empire",
+        "http://dbpedia.org/resource/Category:1943_disestablishments_in_Albania",
+        "http://dbpedia.org/resource/Category:1943_disestablishments_in_the_Italian_Empire",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Client_states_of_Fascist_Italy",
+        "http://dbpedia.org/resource/Category:Collaboration_with_the_Axis_Powers",
+        "http://dbpedia.org/resource/Category:Former_Italian-speaking_countries",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Former_protectorates",
+        "http://dbpedia.org/resource/Category:Italian_protectorate_of_Albania_(1939–1943)",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1943",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1939",
+        "http://dbpedia.org/resource/Category:Totalitarian_states",
+        "http://dbpedia.org/resource/Category:World_War_II_occupied_territories"
+      ]
+    },
+    {
+      "score": [
+        "1547.7499"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2002–03_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "2002-03 <B>Albanian</B> National Championship",
+        "2002-03 <B>Albanian</B> Superliga",
+        "2002-03 Kategoria Superiore",
+        "2002–03 <B>Albanian</B> Superliga",
+        "2002–03 Kategoria Superiore",
+        "<B>Albanian</B> Superliga 2002-03",
+        "KF Tirana season 2002-03",
+        "KF Tirana season 2002–03",
+        "Kategoria superiore 2002-03"
+      ],
+      "label": [
+        "2002–03 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2002–03_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002–03_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:2002–03_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1543.948"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Albania</B>",
+        "<B>Albania</B> Air Force",
+        "<B>Albanian</B> Air Brigade",
+        "<B>Albanian</B> Air Forces Command"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "] Republic of <B>Albania</B>) is the national air force of <B>Albania</B>. It is one of the branches of the <B>Albanian</B> military."
+      ],
+      "label": [
+        "<B>Albanian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Aviation_in_Albania",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1543.0302"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Military_ranks_of_the_Albanian_Kingdom"
+      ],
+      "redirectlabel": [
+        "Ranks of the Royal <B>Albanian</B> Army (1929-1936)",
+        "Ranks of the Royal <B>Albanian</B> Army (1929 - 1936)",
+        "Ranks of the Royal <B>Albanian</B> Army (1929 – 1936)",
+        "Ranks of the Royal <B>Albanian</B> Army (1929–1936)",
+        "Ranks of the Royal <B>Albanian</B> Army (1936-1939)",
+        "Ranks of the Royal <B>Albanian</B> Army (1936 - 1939)",
+        "Ranks of the Royal <B>Albanian</B> Army (1936 – 1939)",
+        "Ranks of the Royal <B>Albanian</B> Army (1936–1939)"
+      ],
+      "comment": [
+        "The Military ranks of the <B>Albanian</B> Kingdom were the military ranks used by the Royal <B>Albanian</B> Army"
+      ],
+      "label": [
+        "Military ranks of the <B>Albanian</B> Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Military_ranks_of_the_Albanian_Kingdom"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_ranks_by_country",
+        "http://dbpedia.org/resource/Category:Royal_Albanian_Army"
+      ]
+    },
+    {
+      "score": [
+        "1525.7733"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Liberation_Movement_(Albania)"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Liberation Front",
+        "<B>Albanian</B> National Liberation Army",
+        "<B>Albanian</B> National Liberation Front",
+        "<B>Albanian</B> Partisans",
+        "Conference of Peza",
+        "Conference of Pezë",
+        "LANC, <B>Albania</B>",
+        "LANÇ",
+        "LNÇ",
+        "Lëvizja Nacionale Çlirimtare",
+        "National Liberation Front (<B>Albania</B>)",
+        "National Liberation Front of <B>Albania</B>",
+        "People's Liberation Army of <B>Albania</B>"
+      ],
+      "comment": [
+        " 1944, the <B>Albanian</B> National Liberation Front was transformed into the government of <B>Albania</B> and its"
+      ],
+      "label": [
+        "National Liberation Movement (<B>Albania</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Liberation_Movement_(Albania)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1942_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian_Resistance",
+        "http://dbpedia.org/resource/Category:Albanian_militant_groups",
+        "http://dbpedia.org/resource/Category:Anti-fascism_in_Albania",
+        "http://dbpedia.org/resource/Category:Anti-revisionist_organizations",
+        "http://dbpedia.org/resource/Category:Defunct_communist_militant_groups",
+        "http://dbpedia.org/resource/Category:Military_history_of_Albania_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_organizations_established_in_1942",
+        "http://dbpedia.org/resource/Category:National_liberation_armies",
+        "http://dbpedia.org/resource/Category:National_liberation_movements",
+        "http://dbpedia.org/resource/Category:Paramilitary_organizations_based_in_Albania",
+        "http://dbpedia.org/resource/Category:Popular_fronts_of_communist_states",
+        "http://dbpedia.org/resource/Category:World_War_II_resistance_movements"
+      ]
+    },
+    {
+      "score": [
+        "1516.4731"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2021_Albanian_political_crisis"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Albanian</B> political crisis",
+        "2019-2021 <B>Albanian</B> political crisis",
+        "2019-20 <B>Albanian</B> political crisis",
+        "2019 <B>Albanian</B> political crisis",
+        "2019–2020 <B>Albanian</B> political crisis",
+        "2019–20 <B>Albanian</B> political crisis"
+      ],
+      "label": [
+        "2019–2021 <B>Albanian</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2021_Albanian_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_in_Albania",
+        "http://dbpedia.org/resource/Category:2019_in_Albanian_politics",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:February_2019_events_in_Europe",
+        "http://dbpedia.org/resource/Category:March_2019_events_in_Europe",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1511.6466"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Alb Army",
+        "<B>Albania</B>/Military",
+        "Armed Forces of <B>Albania</B>",
+        "Armed Forces of the Republic of <B>Albania</B>",
+        "Military history of <B>Albania</B>",
+        "Military of <B>Albania</B>",
+        "Ushtria popullore e Shqiperise"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Albanian</B> Armed Forces (<B>Albanian</B>: Forcat e Armatosura të Republikës së Shqipërisë (FARSH)) are"
+      ],
+      "label": [
+        "<B>Albanian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1511.468"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albania–Greece_relations"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B>-Greece relations",
+        "<B>Albania</B> - Greece relations",
+        "<B>Albania</B> Greece relations",
+        "<B>Albania</B> – Greece relations",
+        "<B>Albanian</B>-Greek relations",
+        "<B>Albanian</B> - Greek relations",
+        "<B>Albanian</B> – Greek relations",
+        "<B>Albanian</B>–Greek relations",
+        "Greece-<B>Albania</B> relations",
+        "Greece - <B>Albania</B> relations",
+        "Greece <B>Albania</B> relations",
+        "Greece – <B>Albania</B> relations",
+        "Greece–<B>Albania</B> relations",
+        "Greek-<B>Albanian</B> relations",
+        "History of <B>Albania</B>-Greece relations",
+        "History of <B>Albania</B>–Greece relations"
+      ],
+      "comment": [
+        "<B>Albanian</B>–Greek relations are the bilateral foreign relations between <B>Albania</B> and Greece. Due to the"
+      ],
+      "label": [
+        "<B>Albania</B>–Greece relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albania–Greece_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania–Greece_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Albania",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Greece"
+      ]
+    },
+    {
+      "score": [
+        "1506.6196"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001–02_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "2001-02 <B>Albanian</B> National Championship",
+        "2001-02 <B>Albanian</B> Superliga",
+        "2001–02 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 2001-02",
+        "KF Tirana season 2001-02",
+        "KF Tirana season 2001–02",
+        "Kategoria superiore 2001-02",
+        "Kategoria superiore 2001–02"
+      ],
+      "label": [
+        "2001–02 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001–02_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001–02_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:2001–02_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1497.3657"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Principality_of_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Principality",
+        "Princedom of <B>Albania</B>",
+        "Principality of <B>Albania</B> - Durres",
+        "Principality of <B>Albania</B> – Durres"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Principality of <B>Albania</B> (<B>Albanian</B>: Principata e Shqipërisë or Shteti Shqiptar) refers to the"
+      ],
+      "label": [
+        "Principality of <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Principality_of_Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1925_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:20th_century_in_Albania",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1925",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1914"
+      ]
+    },
+    {
+      "score": [
+        "1491.5198"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albanian_horse"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> (horse)",
+        "<B>Albanian</B> Horse",
+        "<B>Albanian</B> Myzeqea"
+      ],
+      "comment": [
+        "The <B>Albanian</B> (<B>Albanian</B>: Kali Shqiptar) is the only indigenous horse breed in <B>Albania</B>. It is a small"
+      ],
+      "label": [
+        "<B>Albanian</B> horse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albanian_horse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Horse_breeds",
+        "http://dbpedia.org/resource/Category:Horse_breeds_originating_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1469.0348"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/RTSH"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> Public Radio and Television",
+        "<B>Albanian</B> Radio-Television",
+        "<B>Albanian</B> Radio Television",
+        "<B>Albanian</B> Radio and Television",
+        "RTSH (broadcaster)",
+        "RTVSH",
+        "Radio 1 Tirana",
+        "Radio One Tirana",
+        "Radio Television <B>Albania</B>",
+        "Radio Televizioni Shqiptar",
+        "Radio Tirana",
+        "Radiodifuzioni Shqiptar",
+        "TVSH",
+        "Televizioni Publik Shqiptar",
+        "Televizioni Shqiptar"
+      ],
+      "label": [
+        "RTSH"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/RTSH"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1938_establishments_in_Albania",
+        "http://dbpedia.org/resource/Category:Albanian-language_television_stations",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc_mass_media",
+        "http://dbpedia.org/resource/Category:European_Broadcasting_Union_members",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1938",
+        "http://dbpedia.org/resource/Category:Publicly_funded_broadcasters",
+        "http://dbpedia.org/resource/Category:State_media",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1466.3757"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Albanian_dances"
+      ],
+      "redirectlabel": [
+        "<B>Albanian</B> dance",
+        "<B>Albanian</B> dances",
+        "Dance in <B>Albania</B>"
+      ],
+      "comment": [
+        "The following is an incomplete list of traditional dances in <B>Albanian</B> culture, because each region"
+      ],
+      "label": [
+        "List of <B>Albanian</B> dances"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Albanian_dances"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Albania-related_lists",
+        "http://dbpedia.org/resource/Category:Albanian_culture",
+        "http://dbpedia.org/resource/Category:Albanian_dances",
+        "http://dbpedia.org/resource/Category:Dance-related_lists"
+      ]
+    },
+    {
+      "score": [
+        "1464.5098"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/World_War_II_in_Albania"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B> during World War II",
+        "<B>Albania</B> in World War II",
+        "<B>Albanian</B> Resistance",
+        "<B>Albanian</B> Resistance of World War II",
+        "<B>Albanian</B> resistance",
+        "<B>Albanian</B> resistance during WWII",
+        "<B>Albanian</B> resistance during World War II",
+        "<B>Albanian</B> resistance in World War II",
+        "<B>Albanian</B> resistance movement",
+        "<B>Albanian</B> resistance of World War II",
+        "Foreign participation in the <B>Albanian</B> Resistance of WWII",
+        "Foreigners participation in <B>Albanian</B> Resistance of WWII",
+        "Military history of <B>Albania</B> during World War II",
+        "WW2 in <B>Albania</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "In <B>Albania</B>, World War II began with its invasion by Italy in April 1939. Fascist Italy set up"
+      ],
+      "label": [
+        "World War II in <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/World_War_II_in_Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930s_in_Albania",
+        "http://dbpedia.org/resource/Category:1940s_in_Albania",
+        "http://dbpedia.org/resource/Category:Albania_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Balkans_campaign_(World_War_II)",
+        "http://dbpedia.org/resource/Category:Civil_wars",
+        "http://dbpedia.org/resource/Category:Eastern_European_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Italian_protectorate_of_Albania_(1939–1943)",
+        "http://dbpedia.org/resource/Category:Military_history_of_Albania_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Wars_involving_Albania",
+        "http://dbpedia.org/resource/Category:World_War_II_resistance_movements"
+      ]
+    },
+    {
+      "score": [
+        "1461.5872"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/April_23,_1998_Albanian–Yugoslav_border_ambush"
+      ],
+      "redirectlabel": [
+        "1998 <B>Albanian</B>-Yugoslav border ambush",
+        "1998 <B>Albanian</B>–Yugoslav border ambush",
+        "<B>Albanian</B>-Yugoslav border ambush (April 1998)",
+        "<B>Albanian</B>–Yugoslav border ambush (April 1998)",
+        "April 23, 1998 <B>Albanian</B>-Yugoslav border ambush",
+        "April 23, 1998 <B>Albanian</B>-Yugoslav border clashes",
+        "April 23, 1998 <B>Albanian</B>–Yugoslav border clashes"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ". The fighters had been trying to smuggle weapons and supplies into Kosovo via northern <B>Albania</B>"
+      ],
+      "label": [
+        "April 23, 1998 <B>Albanian</B>–Yugoslav border ambush"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/April_23,_1998_Albanian–Yugoslav_border_ambush"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_in_Kosovo",
+        "http://dbpedia.org/resource/Category:1998_in_Yugoslavia",
+        "http://dbpedia.org/resource/Category:Albania–Serbia_border",
+        "http://dbpedia.org/resource/Category:April_1998_events_in_Europe",
+        "http://dbpedia.org/resource/Category:Battles_involving_FR_Yugoslavia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1998",
+        "http://dbpedia.org/resource/Category:Military_operations_of_the_Kosovo_War",
+        "http://dbpedia.org/resource/Category:Serbian–Albanian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "1460.417"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2000–01_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "2000-01 <B>Albanian</B> National Championship",
+        "2000-01 <B>Albanian</B> Superliga",
+        "2000–01 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 2000-01",
+        "KF Tirana season 2000-01",
+        "KF Tirana season 2000–01",
+        "Kategoria superiore 2000-01"
+      ],
+      "label": [
+        "2000–01 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2000–01_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000–01_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:2000–01_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1454.6105"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cham_Albanians"
+      ],
+      "redirectlabel": [
+        "<B>Albanians</B> in Thesprotia",
+        "Cham <B>Albanian</B>",
+        "Cham <B>albanian</B>",
+        "Graecochams",
+        "Jelim",
+        "Tsámidhes",
+        "Vallja çame",
+        "Çam <B>Albanians</B>",
+        "Çamë",
+        "Τσάμηδες"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Cham <B>Albanians</B>, or Chams (<B>Albanian</B>: Çamë; Greek: Τσάμηδες, Tsámidhes), are a sub-group of <B>Albanians</B>"
+      ],
+      "label": [
+        "Cham <B>Albanians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cham_Albanians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cham_Albanians",
+        "http://dbpedia.org/resource/Category:Muslim_communities_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1445.3011"
+      ],
+      "refCount": [
+        "846"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tirana"
+      ],
+      "redirectlabel": [
+        "Architecture of Tirana",
+        "Bibliography of Tirana",
+        "Capital city of <B>albania</B>",
+        "Capital of <B>Albania</B>",
+        "Cuisine of Tirana",
+        "History of Tirana",
+        "Honor Citizen of Tirana",
+        "Honor Civilian of Tirana",
+        "Honorary citizenship of Tirana",
+        "Municipality of Tirana",
+        "Tirana, <B>Albania</B>",
+        "Tirana mayor",
+        "Tirane",
+        "Tiranë, <B>Albania</B>",
+        "Tiranë",
+        "Tirona",
+        "Тирана"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " Lushnjë proclaimed it as <B>Albania's</B> capital, after the <B>Albanian</B> Declaration of Independence in 1912."
+      ],
+      "label": [
+        "Tirana"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tirana"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1614_establishments_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Capitals_in_Europe",
+        "http://dbpedia.org/resource/Category:Cities_in_Albania",
+        "http://dbpedia.org/resource/Category:Gegëri",
+        "http://dbpedia.org/resource/Category:Municipalities_in_Tirana_County",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1614",
+        "http://dbpedia.org/resource/Category:Tirana"
+      ]
+    },
+    {
+      "score": [
+        "1436.9509"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Albania_under_the_Ottoman_Empire"
+      ],
+      "redirectlabel": [
+        "<B>Albania</B> under Ottoman Empire",
+        "<B>Albanian</B> lands under Ottoman domination",
+        "Albanokratia",
+        "History of <B>Albania</B> during Ottoman administration",
+        "History of Ottoman <B>Albania</B>",
+        "History of ottoman <B>albania</B>",
+        "History of the <B>Albanian</B>-Turkish Wars",
+        "History of the <B>Albanian</B>-Turkish wars",
+        "History of the <B>Albanian</B>–Turkish wars",
+        "Ottoman <B>Albania</B>",
+        "Ottoman occupation of <B>Albania</B>",
+        "Ottoman period in the history of <B>Albania</B>",
+        "Taxation in <B>Albania</B> under the Ottoman Empire"
+      ],
+      "comment": [
+        " of the other <B>Albanian</B> noble Balsha II at the Battle of Savra. The Sanjak of <B>Albania</B> was established"
+      ],
+      "label": [
+        "<B>Albania</B> under the Ottoman Empire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Albania_under_the_Ottoman_Empire"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islam_in_Albania",
+        "http://dbpedia.org/resource/Category:Medieval_Albania",
+        "http://dbpedia.org/resource/Category:Ottoman_Albania"
+      ]
+    },
+    {
+      "score": [
+        "1435.4435"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Caucasian_Albania"
+      ],
+      "redirectlabel": [
+        "Aghbania",
+        "Aghuank",
+        "Aghvania",
+        "Aghvank",
+        "Agvania",
+        "<B>Albania</B> (Caucasus)",
+        "<B>Albanian</B> Caucasus",
+        "<B>Alwania</B>",
+        "Aran (Azerbaijan)",
+        "Arran (Azerbaijan)",
+        "Arran (Republic of Azerbaijan)",
+        "Arran (Transcaucasia)",
+        "Arranians",
+        "Arranis",
+        "Azerbaijan and Ancient Rome",
+        "Caucasian Aghbania",
+        "Caucasian <B>Albanian</B>",
+        "Caucasian <B>Albanians</B>",
+        "Caucasian Albans",
+        "Caucasic <B>Albania</B>",
+        "Caucasus <B>Albania</B>",
+        "Uties"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Caucasian <B>Albania</B> is a modern exonym for a former state located in ancient times in the Caucasus"
+      ],
+      "label": [
+        "Caucasian <B>Albania</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Caucasian_Albania"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:705_disestablishments",
+        "http://dbpedia.org/resource/Category:Caucasian_Albania",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Geographic_history_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:History_of_Dagestan",
+        "http://dbpedia.org/resource/Category:Roman_client_kingdoms"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1980–81_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1980-81 <B>Albanian</B> National Championship",
+        "1980-81 <B>Albanian</B> Superliga",
+        "1980–81 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1980-81",
+        "Kategoria superiore 1980-81",
+        "Kategoria superiore 1980–81"
+      ],
+      "label": [
+        "1980–81 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1980–81_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980–81_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1980–81_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1966–67_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1966-67 <B>Albanian</B> National Championship",
+        "1966-67 <B>Albanian</B> Superliga",
+        "1966–67 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1966-67",
+        "Kategoria superiore 1966-67",
+        "Kategoria superiore 1966–67"
+      ],
+      "label": [
+        "1966–67 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1966–67_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1966–67_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1966–67_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1970–71_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1970-71 <B>Albanian</B> National Championship",
+        "1970-71 <B>Albanian</B> Superliga",
+        "1970–71 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1970-71",
+        "Kategoria superiore 1970-71",
+        "Kategoria superiore 1970–71"
+      ],
+      "label": [
+        "1970–71 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1970–71_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970–71_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1970–71_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1978–79_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1978-79 <B>Albanian</B> National Championship",
+        "1978-79 <B>Albanian</B> Superliga",
+        "1978–79 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1978-79",
+        "Kategoria superiore 1978-79",
+        "Kategoria superiore 1978–79"
+      ],
+      "label": [
+        "1978–79 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1978–79_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1978–79_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1978–79_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1975–76_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1975-76 <B>Albanian</B> National Championship",
+        "1975-76 <B>Albanian</B> Superliga",
+        "1975–76 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1975-76",
+        "Kategoria superiore 1975-76",
+        "Kategoria superiore 1975–76"
+      ],
+      "label": [
+        "1975–76 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1975–76_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1975–76_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1975–76_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1979–80_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1979-80 <B>Albanian</B> National Championship",
+        "1979-80 <B>Albanian</B> Superliga",
+        "1979–80 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1979-80",
+        "Kategoria superiore 1979-80",
+        "Kategoria superiore 1979–80"
+      ],
+      "label": [
+        "1979–80 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1979–80_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979–80_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1979–80_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1976–77_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1976-77 <B>Albanian</B> National Championship",
+        "1976-77 <B>Albanian</B> Superliga",
+        "1976–77 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1976-77",
+        "Kategoria superiore 1976-77",
+        "Kategoria superiore 1976–77"
+      ],
+      "label": [
+        "1976–77 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1976–77_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1976–77_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1976–77_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1988–89_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1988-89 <B>Albanian</B> National Championship",
+        "1988-89 <B>Albanian</B> Superliga",
+        "1988–89 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1988-89",
+        "Kategoria superiore 1988-89",
+        "Kategoria superiore 1988–89"
+      ],
+      "label": [
+        "1988–89 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1988–89_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988–89_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1988–89_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1962–63_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1962-63 <B>Albanian</B> National Championship",
+        "1962-63 <B>Albanian</B> Superliga",
+        "1962–63 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1962-63",
+        "Kategoria superiore 1962-63",
+        "Kategoria superiore 1962–63"
+      ],
+      "label": [
+        "1962–63 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1962–63_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962–63_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1962–63_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1972–73_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1972-73 <B>Albanian</B> National Championship",
+        "1972-73 <B>Albanian</B> Superliga",
+        "1972–73 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1972-73",
+        "Kategoria superiore 1972-73",
+        "Kategoria superiore 1972–73"
+      ],
+      "label": [
+        "1972–73 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1972–73_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1972–73_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1972–73_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1963–64_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1963-64 <B>Albanian</B> National Championship",
+        "1963-64 <B>Albanian</B> Superliga",
+        "1963–64 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1963-64",
+        "Kategoria superiore 1963-64",
+        "Kategoria superiore 1963–64"
+      ],
+      "label": [
+        "1963–64 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1963–64_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963–64_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1963–64_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1985–86_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1985-86 <B>Albanian</B> National Championship",
+        "1985-86 <B>Albanian</B> Superliga",
+        "1985–86 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1985-86",
+        "Kategoria superiore 1985-86",
+        "Kategoria superiore 1985–86"
+      ],
+      "label": [
+        "1985–86 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1985–86_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985–86_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1985–86_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1430.3075"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1989–90_Albanian_National_Championship"
+      ],
+      "redirectlabel": [
+        "1989-90 <B>Albanian</B> National Championship",
+        "1989-90 <B>Albanian</B> Superliga",
+        "1989–90 <B>Albanian</B> Superliga",
+        "<B>Albanian</B> Superliga 1989-90",
+        "Kategoria superiore 1989-90",
+        "Kategoria superiore 1989–90"
+      ],
+      "label": [
+        "1989–90 <B>Albanian</B> National Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1989–90_Albanian_National_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989–90_in_Albanian_football",
+        "http://dbpedia.org/resource/Category:1989–90_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Kategoria_Superiore_seasons"
+      ]
+    }
+  ]
+}

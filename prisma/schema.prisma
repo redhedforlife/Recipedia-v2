@@ -1,0 +1,360 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String       @id @default(cuid())
+  name        String
+  email       String       @unique
+  createdAt   DateTime     @default(now()) @map("created_at")
+  recipes     Recipe[]
+  cookReports CookReport[]
+
+  @@map("users")
+}
+
+model Source {
+  id                   String   @id @default(cuid())
+  siteName             String   @map("site_name")
+  sourceUrl            String   @unique @map("source_url")
+  authorName           String   @map("author_name")
+  licenseNote          String   @map("license_note")
+  importedAt           DateTime @default(now()) @map("imported_at")
+  extractionMethod     String   @map("extraction_method")
+  extractionConfidence Float    @map("extraction_confidence")
+  recipes              Recipe[]
+
+  @@map("sources")
+}
+
+model Cuisine {
+  id             String              @id @default(cuid())
+  slug           String              @unique
+  displayName    String              @map("display_name")
+  description    String
+  regionGroup    String?             @map("region_group")
+  categories     Category[]
+  primaryFamilies RecipeFamily[]      @relation("PrimaryCuisine")
+  dishFamilies   CuisineDishFamily[]
+
+  @@map("cuisines")
+}
+
+model Category {
+  id               String         @id @default(cuid())
+  slug             String         @unique
+  displayName      String         @map("display_name")
+  description      String
+  cuisineId        String?        @map("cuisine_id")
+  parentCategoryId String?        @map("parent_category_id")
+  sortOrder        Int            @map("sort_order")
+  cuisine          Cuisine?       @relation(fields: [cuisineId], references: [id])
+  parentCategory   Category?      @relation("CategoryHierarchy", fields: [parentCategoryId], references: [id])
+  childCategories  Category[]     @relation("CategoryHierarchy")
+  dishFamilies     RecipeFamily[]
+
+  @@index([cuisineId])
+  @@index([parentCategoryId])
+  @@map("categories")
+}
+
+model CookingMethod {
+  id              String             @id @default(cuid())
+  slug            String             @unique
+  displayName     String             @map("display_name")
+  description     String
+  primaryFamilies RecipeFamily[]     @relation("PrimaryMethod")
+  dishFamilies    DishFamilyMethod[]
+
+  @@map("cooking_methods")
+}
+
+model DifficultyBand {
+  id          String         @id @default(cuid())
+  slug        String         @unique
+  displayName String         @map("display_name")
+  description String
+  sortOrder   Int            @map("sort_order")
+  families    RecipeFamily[]
+
+  @@map("difficulty_bands")
+}
+
+model RecipeFamily {
+  id                       String                         @id @default(cuid())
+  slug                     String                         @unique
+  displayName              String                         @map("display_name")
+  category                 String
+  categoryId               String?                        @map("category_id")
+  cuisine                  String?
+  description              String
+  cuisineId                String?                        @map("cuisine_id")
+  difficultyBandId         String?                        @map("difficulty_band_id")
+  primaryMethodId          String?                        @map("primary_method_id")
+  isCanonical              Boolean                        @default(false) @map("is_canonical")
+  graphCategory            Category?                      @relation(fields: [categoryId], references: [id])
+  primaryCuisine           Cuisine?                       @relation("PrimaryCuisine", fields: [cuisineId], references: [id])
+  difficultyBand           DifficultyBand?                @relation(fields: [difficultyBandId], references: [id])
+  primaryMethod            CookingMethod?                 @relation("PrimaryMethod", fields: [primaryMethodId], references: [id])
+  recipes                  Recipe[]
+  cuisineRelationships     CuisineDishFamily[]
+  ingredientRelationships  DishFamilyIngredient[]
+  techniqueRelationships   DishFamilyTechnique[]
+  methodRelationships      DishFamilyMethod[]
+  outgoingDishRelations    DishFamilyRelatedDishFamily[]  @relation("OutgoingDishFamilyRelations")
+  incomingDishRelations    DishFamilyRelatedDishFamily[]  @relation("IncomingDishFamilyRelations")
+
+  @@index([categoryId])
+  @@index([cuisineId])
+  @@index([difficultyBandId])
+  @@index([primaryMethodId])
+  @@map("recipe_families")
+}
+
+model Recipe {
+  id                 String               @id @default(cuid())
+  recipeFamilyId     String               @map("recipe_family_id")
+  sourceId           String?              @map("source_id")
+  parentRecipeId     String?              @map("parent_recipe_id")
+  createdByUserId    String?              @map("created_by_user_id")
+  slug               String               @unique
+  title              String
+  description        String
+  serves             String?
+  prepTimeMinutes    Int?                 @map("prep_time_minutes")
+  cookTimeMinutes    Int?                 @map("cook_time_minutes")
+  totalTimeMinutes   Int?                 @map("total_time_minutes")
+  imageUrl           String?              @map("image_url")
+  isSourceRecipe     Boolean              @default(false) @map("is_source_recipe")
+  isUserVariation    Boolean              @default(false) @map("is_user_variation")
+  createdAt          DateTime             @default(now()) @map("created_at")
+  updatedAt          DateTime             @updatedAt @map("updated_at")
+  family             RecipeFamily         @relation(fields: [recipeFamilyId], references: [id])
+  source             Source?              @relation(fields: [sourceId], references: [id])
+  parent             Recipe?              @relation("RecipeLineage", fields: [parentRecipeId], references: [id])
+  children           Recipe[]             @relation("RecipeLineage")
+  createdBy          User?                @relation(fields: [createdByUserId], references: [id])
+  ingredients        RecipeIngredient[]
+  steps              RecipeStep[]
+  techniques         RecipeTechnique[]
+  changes            RecipeChange[]       @relation("VariationChanges")
+  parentChanges      RecipeChange[]       @relation("ParentChanges")
+  cookReports        CookReport[]
+  outgoingRelations  RecipeRelationship[] @relation("OutgoingRecipeRelations")
+  incomingRelations  RecipeRelationship[] @relation("IncomingRecipeRelations")
+
+  @@index([recipeFamilyId])
+  @@index([parentRecipeId])
+  @@map("recipes")
+}
+
+model Ingredient {
+  id            String             @id @default(cuid())
+  canonicalName String             @unique @map("canonical_name")
+  displayName   String             @map("display_name")
+  category      String?
+  categoryId    String?            @map("category_id")
+  aliases       Json
+  categoryNode  IngredientCategory? @relation(fields: [categoryId], references: [id])
+  recipes       RecipeIngredient[]
+  dishFamilies  DishFamilyIngredient[]
+
+  @@index([categoryId])
+  @@map("ingredients")
+}
+
+model IngredientCategory {
+  id               String               @id @default(cuid())
+  slug             String               @unique
+  displayName      String               @map("display_name")
+  description      String
+  parentCategoryId String?              @map("parent_category_id")
+  sortOrder        Int                  @map("sort_order")
+  parentCategory   IngredientCategory?  @relation("IngredientCategoryHierarchy", fields: [parentCategoryId], references: [id])
+  childCategories  IngredientCategory[] @relation("IngredientCategoryHierarchy")
+  ingredients      Ingredient[]
+
+  @@index([parentCategoryId])
+  @@map("ingredient_categories")
+}
+
+model Technique {
+  id            String            @id @default(cuid())
+  canonicalName String            @unique @map("canonical_name")
+  displayName   String            @map("display_name")
+  description   String
+  techniqueGroup String?          @map("technique_group")
+  techniqueGroupId String?        @map("technique_group_id")
+  groupCategory TechniqueCategory? @relation(fields: [techniqueGroupId], references: [id])
+  recipes       RecipeTechnique[]
+  dishFamilies  DishFamilyTechnique[]
+
+  @@index([techniqueGroupId])
+  @@map("techniques")
+}
+
+model TechniqueCategory {
+  id               String              @id @default(cuid())
+  slug             String              @unique
+  displayName      String              @map("display_name")
+  description      String
+  parentCategoryId String?             @map("parent_category_id")
+  sortOrder        Int                 @map("sort_order")
+  parentCategory   TechniqueCategory?  @relation("TechniqueCategoryHierarchy", fields: [parentCategoryId], references: [id])
+  childCategories  TechniqueCategory[] @relation("TechniqueCategoryHierarchy")
+  techniques       Technique[]
+
+  @@index([parentCategoryId])
+  @@map("technique_categories")
+}
+
+model CuisineDishFamily {
+  cuisineId            String       @map("cuisine_id")
+  dishFamilyId         String       @map("dish_family_id")
+  relationshipStrength Float        @map("relationship_strength")
+  cuisine              Cuisine      @relation(fields: [cuisineId], references: [id], onDelete: Cascade)
+  dishFamily           RecipeFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+
+  @@id([cuisineId, dishFamilyId])
+  @@index([dishFamilyId])
+  @@map("cuisine_dish_families")
+}
+
+model DishFamilyIngredient {
+  dishFamilyId    String       @map("dish_family_id")
+  ingredientId    String       @map("ingredient_id")
+  importanceScore Float        @map("importance_score")
+  dishFamily      RecipeFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  ingredient      Ingredient   @relation(fields: [ingredientId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, ingredientId])
+  @@index([ingredientId])
+  @@map("dish_family_ingredients")
+}
+
+model DishFamilyTechnique {
+  dishFamilyId    String       @map("dish_family_id")
+  techniqueId     String       @map("technique_id")
+  importanceScore Float        @map("importance_score")
+  dishFamily      RecipeFamily @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  technique       Technique    @relation(fields: [techniqueId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, techniqueId])
+  @@index([techniqueId])
+  @@map("dish_family_techniques")
+}
+
+model DishFamilyMethod {
+  dishFamilyId    String        @map("dish_family_id")
+  cookingMethodId String        @map("cooking_method_id")
+  importanceScore Float         @map("importance_score")
+  dishFamily      RecipeFamily  @relation(fields: [dishFamilyId], references: [id], onDelete: Cascade)
+  cookingMethod   CookingMethod @relation(fields: [cookingMethodId], references: [id], onDelete: Cascade)
+
+  @@id([dishFamilyId, cookingMethodId])
+  @@index([cookingMethodId])
+  @@map("dish_family_methods")
+}
+
+model DishFamilyRelatedDishFamily {
+  fromDishFamilyId String       @map("from_dish_family_id")
+  toDishFamilyId   String       @map("to_dish_family_id")
+  relationshipType String       @map("relationship_type")
+  fromDishFamily   RecipeFamily @relation("OutgoingDishFamilyRelations", fields: [fromDishFamilyId], references: [id], onDelete: Cascade)
+  toDishFamily     RecipeFamily @relation("IncomingDishFamilyRelations", fields: [toDishFamilyId], references: [id], onDelete: Cascade)
+
+  @@id([fromDishFamilyId, toDishFamilyId, relationshipType])
+  @@index([toDishFamilyId])
+  @@map("dish_family_related_dish_families")
+}
+
+model RecipeIngredient {
+  id              String     @id @default(cuid())
+  recipeId        String     @map("recipe_id")
+  ingredientId    String     @map("ingredient_id")
+  rawText         String     @map("raw_text")
+  quantity        String?
+  unit            String?
+  preparationNote String?    @map("preparation_note")
+  sortOrder       Int        @map("sort_order")
+  recipe          Recipe     @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  ingredient      Ingredient @relation(fields: [ingredientId], references: [id])
+
+  @@index([recipeId])
+  @@index([ingredientId])
+  @@map("recipe_ingredients")
+}
+
+model RecipeStep {
+  id              String @id @default(cuid())
+  recipeId        String @map("recipe_id")
+  stepNumber      Int    @map("step_number")
+  instructionText String @map("instruction_text")
+  recipe          Recipe @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+
+  @@unique([recipeId, stepNumber])
+  @@map("recipe_steps")
+}
+
+model RecipeTechnique {
+  id          String    @id @default(cuid())
+  recipeId    String    @map("recipe_id")
+  techniqueId String    @map("technique_id")
+  recipe      Recipe    @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  technique   Technique @relation(fields: [techniqueId], references: [id])
+
+  @@unique([recipeId, techniqueId])
+  @@map("recipe_techniques")
+}
+
+model RecipeChange {
+  id             String @id @default(cuid())
+  recipeId       String @map("recipe_id")
+  parentRecipeId String @map("parent_recipe_id")
+  changeType     String @map("change_type")
+  fieldName      String @map("field_name")
+  beforeValue    String? @map("before_value")
+  afterValue     String? @map("after_value")
+  note           String?
+  recipe         Recipe @relation("VariationChanges", fields: [recipeId], references: [id], onDelete: Cascade)
+  parentRecipe   Recipe @relation("ParentChanges", fields: [parentRecipeId], references: [id], onDelete: Cascade)
+
+  @@index([recipeId])
+  @@index([parentRecipeId])
+  @@map("recipe_changes")
+}
+
+model CookReport {
+  id               String   @id @default(cuid())
+  recipeId         String   @map("recipe_id")
+  userId           String   @map("user_id")
+  madeIt           Boolean  @map("made_it")
+  rating           Int
+  wouldMakeAgain   Boolean  @map("would_make_again")
+  difficultyRating Int      @map("difficulty_rating")
+  notes            String
+  createdAt        DateTime @default(now()) @map("created_at")
+  recipe           Recipe   @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  user             User     @relation(fields: [userId], references: [id])
+
+  @@index([recipeId])
+  @@map("cook_reports")
+}
+
+model RecipeRelationship {
+  id               String @id @default(cuid())
+  fromRecipeId     String @map("from_recipe_id")
+  toRecipeId       String @map("to_recipe_id")
+  relationshipType String @map("relationship_type")
+  fromRecipe       Recipe @relation("OutgoingRecipeRelations", fields: [fromRecipeId], references: [id], onDelete: Cascade)
+  toRecipe         Recipe @relation("IncomingRecipeRelations", fields: [toRecipeId], references: [id], onDelete: Cascade)
+
+  @@index([fromRecipeId])
+  @@index([toRecipeId])
+  @@map("recipe_relationships")
+}

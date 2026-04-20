@@ -1,0 +1,7 @@
+id,slug,name,source_type,base_url,license,terms_url,extraction_method,priority_rank,is_active,created_at
+src-wikipedia-en,wikipedia-en,English Wikipedia,encyclopedia,https://en.wikipedia.org/,CC BY-SA 4.0,https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use,mediawiki-api-and-html,1,true,2026-04-16T19:12:47+00:00
+src-wikidata,wikidata,Wikidata Query Service,knowledge-graph,https://query.wikidata.org/,CC0 1.0,https://www.wikidata.org/wiki/Wikidata:Data_access,sparql,2,true,2026-04-16T19:12:47+00:00
+src-foodon,foodon,FoodOn,ontology,https://foodon.org/,CC BY 4.0,https://github.com/FoodOntology/foodon,owl-and-tsv,3,true,2026-04-16T19:12:47+00:00
+src-mealdb,the-meal-db,TheMealDB API,api,https://www.themealdb.com/api/json/v1/1/,TheMealDB API terms apply,https://www.themealdb.com/api.php,json-api,4,true,2026-04-16T19:12:47+00:00
+src-dbpedia,dbpedia,DBpedia,knowledge-graph,https://lookup.dbpedia.org/,CC BY-SA 3.0,https://www.dbpedia.org/resources/faq/,lookup-and-sparql,5,true,2026-04-16T19:12:47+00:00
+src-serious-eats,serious-eats,Serious Eats,curated-recipe-site,https://www.seriouseats.com/,Source attribution retained; recipe text not stored wholesale.,https://www.seriouseats.com/terms-of-use-7101496,recipe-scrapers-json-ld-bs4-playwright,6,true,2026-04-16T19:12:47+00:00

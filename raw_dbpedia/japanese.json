@@ -1,0 +1,5160 @@
+{
+  "docs": [
+    {
+      "score": [
+        "24049.74"
+      ],
+      "refCount": [
+        "1680"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_language"
+      ],
+      "redirectlabel": [
+        "Formal <B>Japanese</B>",
+        "History of the <B>Japanese</B> language",
+        "Hyōjungo",
+        "ISO 639:ja",
+        "ISO 639:jpn",
+        "<B>Japaneese</B> language",
+        "<B>Japanese</B>-language",
+        "<B>JapaneseLanguage</B>",
+        "<B>Japanese</B> (language)",
+        "<B>Japanese</B> Language",
+        "<B>Japanese</B> past tense",
+        "<B>Japanese</B> vocabulary",
+        "<B>Japanese</B> words",
+        "<B>Japanse</B> language",
+        "<B>Japanses</B> language",
+        "Kokugo",
+        "Kokugogaku",
+        "Modern <B>Japanese</B>",
+        "Modern Standard <B>Japanese</B>",
+        "Moon-speak",
+        "Nihon-go",
+        "Nihon go",
+        "Nihonggo",
+        "Nihongo",
+        "Nippongo",
+        "Nuclear <B>Japanese</B> language",
+        "Riwen",
+        "Standard <B>Japanese</B>",
+        "The <B>Japanese</B> language",
+        "The Language Of Japan",
+        "Yamato language",
+        "にほんご",
+        "日本語"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Japanese</B> (日本語, Nihongo [ɲihoŋɡo] ()) is an East Asian language spoken by about 128 million people"
+      ],
+      "label": [
+        "<B>Japanese</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Japanese_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_8th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Japan",
+        "http://dbpedia.org/resource/Category:Languages_of_Palau",
+        "http://dbpedia.org/resource/Category:Subject–object–verb_languages"
+      ]
+    },
+    {
+      "score": [
+        "21888.02"
+      ],
+      "refCount": [
+        "1217"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_people"
+      ],
+      "redirectlabel": [
+        "East Altaic people",
+        "<B>Japaese</B>",
+        "<B>Japanee</B>",
+        "<B>Japanese</B> (people)",
+        "<B>Japanese</B> People",
+        "<B>Japanese</B> genetics",
+        "<B>Japanese</B> men",
+        "<B>Japanese</B> person",
+        "<B>Japanise</B>",
+        "Nihonjin",
+        "Nihonzhin",
+        "Nippon minzoku",
+        "Nipponjin",
+        "Nise <B>Japanese</B>",
+        "People of Japan",
+        "The <B>Japanese</B>",
+        "The <B>Japanese</B> people",
+        "日本人"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Japanese</B> people (<B>Japanese</B>: 日本人, Hepburn: nihonjin) are an ethnic group that is native to the"
+      ],
+      "label": [
+        "<B>Japanese</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_people"
+      ]
+    },
+    {
+      "score": [
+        "13736.449"
+      ],
+      "refCount": [
+        "2008"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/J-pop"
+      ],
+      "redirectlabel": [
+        "Chaku-Uta",
+        "Chaku-uta",
+        "J-POP",
+        "J-Pop",
+        "JPop",
+        "J pop",
+        "<B>Japanese</B> Pop",
+        "<B>Japanese</B> pop",
+        "<B>Japanese</B> pop music",
+        "<B>Japanese</B> pops",
+        "<B>Japanese</B> popular music",
+        "Jpop",
+        "New Music (<B>Japanese</B> genre)",
+        "New music (<B>Japanese</B> genre)",
+        "ポップ"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "J-pop (<B>Japanese</B>: ジェイポップ, jeipoppu; often stylized as J-POP; an abbreviation for <B>Japanese</B> pop"
+      ],
+      "label": [
+        "J-pop"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/J-pop"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_music",
+        "http://dbpedia.org/resource/Category:1970s_in_music",
+        "http://dbpedia.org/resource/Category:1980s_in_music",
+        "http://dbpedia.org/resource/Category:1990s_in_music",
+        "http://dbpedia.org/resource/Category:2000s_in_music",
+        "http://dbpedia.org/resource/Category:2010s_in_music",
+        "http://dbpedia.org/resource/Category:J-pop",
+        "http://dbpedia.org/resource/Category:Popular_music_by_country"
+      ]
+    },
+    {
+      "score": [
+        "12776.015"
+      ],
+      "refCount": [
+        "3397"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Manga"
+      ],
+      "redirectlabel": [
+        "Digital manga",
+        "<B>Japanese</B> comic",
+        "<B>Japanese</B> comics",
+        "<B>Japanese</B> manga",
+        "Komikku",
+        "Manga comic",
+        "Manga comics",
+        "Manga magazine",
+        "Manga of the 1990s",
+        "Manga series",
+        "Mangá",
+        "Mannga",
+        "Original manga",
+        "Web manga",
+        "Webmanga",
+        "まんが",
+        "コミック",
+        "マンガ"
+      ],
+      "comment": [
+        "Manga (漫画, manga) are comics or graphic novels created in Japan or using the <B>Japanese</B> language and"
+      ],
+      "label": [
+        "Manga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Manga"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anime_and_manga_terminology",
+        "http://dbpedia.org/resource/Category:Comics_formats",
+        "http://dbpedia.org/resource/Category:Entertainment_in_Japan",
+        "http://dbpedia.org/resource/Category:Illustration",
+        "http://dbpedia.org/resource/Category:Japanese_culture",
+        "http://dbpedia.org/resource/Category:Manga"
+      ]
+    },
+    {
+      "score": [
+        "10826.239"
+      ],
+      "refCount": [
+        "595"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Sino-Japanese_War"
+      ],
+      "redirectlabel": [
+        "2nd Sino-<B>Japanese</B> War",
+        "2nd Sino-<B>Japanese</B> war",
+        "Anti-Fascist War",
+        "Anti-<B>Japanese</B> War",
+        "China during World War II",
+        "China in World War II",
+        "China under <B>Japanese</B> rule",
+        "Chinese armies in the Second Sino-<B>Japanese</B> War",
+        "Chinese theater of World War II",
+        "Chinese theatre of World War II",
+        "Combat actions of the 8th and 4th Route Communist Armies",
+        "Combat effectiveness of Chinese armies in the Second Sino-<B>Japanese</B> War",
+        "Greater East Asia War in China",
+        "<B>Japan's</B> occupation of China",
+        "<B>Japanese</B> invasion and occupation",
+        "<B>Japanese</B> invasion of China",
+        "<B>Japanese</B> invasion of China 1937",
+        "<B>Japanese</B> occupation of China",
+        "<B>Japanese</B> occupation of China 1937",
+        "Kang Zhan",
+        "Military history of China during World War II",
+        "Motives of the Second Sino-<B>Japanese</B> War",
+        "Oil embargo (Sino-<B>Japanese</B> War)",
+        "Oil embargo (Sino-<B>Japanese</B> war)",
+        "Second China-Japan War",
+        "Second Chinese-<B>Japanese</B> War",
+        "Second <B>Japanese</B>-Chinese War (1937-1945)",
+        "Second Sino-Japan War",
+        "Second Sino-<B>Japanese</B> war",
+        "Second Sino <B>Japanese</B> War",
+        "Second Sino–<B>Japanese</B> War",
+        "Second sino-<B>japanese</B> war",
+        "Sino-<B>Japanese</B> Conflict, Second",
+        "Sino-<B>Japanese</B> War (1931-1945)",
+        "Sino-<B>Japanese</B> War (1937-1945)",
+        "Sino-<B>Japanese</B> War (1937-45)",
+        "Sino-<B>Japanese</B> War (1937–1945)",
+        "Sino-<B>Japanese</B> War II",
+        "Sino <B>Japanese</B> War (1937-1945)",
+        "Sino–<B>Japanese</B> War (1937–45)",
+        "Testimoines about combat actions of 8deg and 4deg Route Communist Armies",
+        "Testimoines about combat actions of 8deg and 4deg Route Communist Armies and other units of chinese forces",
+        "Testimoines about combat actions of 8° and 4° Route Communist Armies",
+        "Testimoines about combat actions of 8° and 4° Route Communist Armies and other units of chinese forces",
+        "Testimonies about Effectiveness of Chinese Army",
+        "Testimonies about Effectivessnes of Chinese Army",
+        "The Second Sino-<B>Japanese</B> War",
+        "The War of Resistance Against Japan",
+        "WW2 in China",
+        "War of Anti-<B>Japanese</B> Resistance",
+        "War of Resistance",
+        "War of Resistance Against Japan",
+        "War of Resistance Against <B>Japanese</B> Aggression",
+        "War of Resistance against Japan",
+        "War of Resistance against the <B>Japanese</B>",
+        "War of Resistance to Japan",
+        "War of Resistance to <B>Japanese</B> Aggression",
+        "八年抗战",
+        "八年抗戰",
+        "抗日战争",
+        "抗日戰爭",
+        "第二次中日战争",
+        "第二次中日戰爭"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Second Sino-<B>Japanese</B> War was a military conflict that was primarily waged between the Republic"
+      ],
+      "label": [
+        "Second Sino-<B>Japanese</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Sino-Japanese_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930s_conflicts",
+        "http://dbpedia.org/resource/Category:1930s_in_China",
+        "http://dbpedia.org/resource/Category:1930s_in_Japan",
+        "http://dbpedia.org/resource/Category:1940s_conflicts",
+        "http://dbpedia.org/resource/Category:1940s_in_China",
+        "http://dbpedia.org/resource/Category:1940s_in_Vietnam",
+        "http://dbpedia.org/resource/Category:Anti-Chinese_violence_in_Asia",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_China",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:China–Japan_military_relations",
+        "http://dbpedia.org/resource/Category:Invasions_by_Japan",
+        "http://dbpedia.org/resource/Category:Invasions_of_China",
+        "http://dbpedia.org/resource/Category:Military_history_of_China_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Republic_of_China_(1912–1949)",
+        "http://dbpedia.org/resource/Category:Pacific_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Second_Sino-Japanese_War",
+        "http://dbpedia.org/resource/Category:Sino-Japanese_Wars",
+        "http://dbpedia.org/resource/Category:Tunnel_warfare",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Republic_of_China"
+      ]
+    },
+    {
+      "score": [
+        "9927.616"
+      ],
+      "refCount": [
+        "340"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Russo-Japanese_War"
+      ],
+      "redirectlabel": [
+        "1905 Russia-Japan war",
+        "1905 Russia–Japan war",
+        "1905 Russo-<B>Japanese</B> War",
+        "1905 Russo-<B>Japanese</B> war",
+        "<B>Japanese</B>-Russo War",
+        "<B>Japanese</B> Russo War",
+        "Russia-Japan War",
+        "Russia-Japan war",
+        "Russia-<B>Japanese</B> War",
+        "Russian-Japan War",
+        "Russian-Japan war",
+        "Russian-<B>Japanese</B> War",
+        "Russian-<B>Japanese</B> war",
+        "Russian-<B>Japanese</B> war of 1904-1905",
+        "Russian-<B>japanese</B> war",
+        "Russo-Japan War",
+        "Russo-Japan war",
+        "Russo-<B>Japanese</B> war",
+        "Russo-<B>japanese</B> war",
+        "Russo <B>Japanese</B> War",
+        "Russo–<B>Japanese</B> War",
+        "The Russo-<B>Japanese</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Russo-<B>Japanese</B> War (Russian: Ру́сско-япóнская войнá, romanized: Rússko-yapónskaya voyná"
+      ],
+      "label": [
+        "Russo-<B>Japanese</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Russo-Japanese_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1904_in_Japan",
+        "http://dbpedia.org/resource/Category:1904_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:1905_in_Japan",
+        "http://dbpedia.org/resource/Category:1905_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1904",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1905",
+        "http://dbpedia.org/resource/Category:History_of_Korea",
+        "http://dbpedia.org/resource/Category:History_of_Manchuria",
+        "http://dbpedia.org/resource/Category:Japan–Russia_military_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Liaoning",
+        "http://dbpedia.org/resource/Category:Russo-Japanese_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Russia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Russian_Empire"
+      ]
+    },
+    {
+      "score": [
+        "9335.155"
+      ],
+      "refCount": [
+        "1401"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Empire_of_Japan"
+      ],
+      "redirectlabel": [
+        "Colonial Japan",
+        "Dai-Nippon",
+        "Dai Nippon",
+        "Dai Nippon Teikoku",
+        "Empire of Greater Japan",
+        "Empire of Japan (culture, religion and education)",
+        "Empire of Japan (culture,religion and education)",
+        "Empire of japan",
+        "Great <B>Japanese</B> Empire",
+        "Greater Japan",
+        "Greater <B>Japanese</B> Empire",
+        "Imperial Japan",
+        "Imperial <B>Japanese</B>",
+        "Imperialist Japan",
+        "Imprial Japan",
+        "Japan/Expansionism",
+        "Japan Empire",
+        "<B>Japanese</B> Colonial Government",
+        "<B>Japanese</B> Empire",
+        "<B>Japanese</B> Expansion",
+        "<B>Japanese</B> Imperial",
+        "<B>Japanese</B> Imperial era",
+        "<B>Japanese</B> empire",
+        "The Empire of Japan",
+        "The <B>Japanese</B> Empire",
+        "大日本帝国",
+        "大日本帝國"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Empire of Japan (大日本帝国, Dai Nippon Teikoku, literally \"Empire of Great Japan\") was the historical nation-state and great power that existed from the Meiji Restoration in 1868 to the enactment of the 1947 constitution of modern Japan. The Emperors during this time, which spanned the entire Meiji, Taishō, and the lesser part of the Shōwa era, are now known in Japan by their posthumous names, which coincide with those era names: Emperor Meiji (Mutsuhito), Emperor Taishō (Yoshihito), and Emperor Shōwa (Hirohito)."
+      ],
+      "label": [
+        "Empire of Japan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Empire_of_Japan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1868_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1868_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:1905_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:1905_establishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:1947_disestablishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1947_disestablishments_in_Japan",
+        "http://dbpedia.org/resource/Category:19th_century_in_Japan",
+        "http://dbpedia.org/resource/Category:20th_century_in_Japan",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Fascist_states",
+        "http://dbpedia.org/resource/Category:Former_Japanese_colonies",
+        "http://dbpedia.org/resource/Category:Former_countries_in_East_Asia",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Japanese_history",
+        "http://dbpedia.org/resource/Category:Former_countries_in_North_Asia",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Oceania",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Former_empires_in_Asia",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_East_Asia",
+        "http://dbpedia.org/resource/Category:Former_prefectures_of_Japan",
+        "http://dbpedia.org/resource/Category:History_of_Japan_by_period",
+        "http://dbpedia.org/resource/Category:History_of_Sakhalin",
+        "http://dbpedia.org/resource/Category:Japanese_nationalism",
+        "http://dbpedia.org/resource/Category:Karafuto",
+        "http://dbpedia.org/resource/Category:Military_dictatorships",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1947",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1868",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1905",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Japan",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "9231.454"
+      ],
+      "refCount": [
+        "371"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Imperial_Japanese_Army"
+      ],
+      "redirectlabel": [
+        "(Imperial) <B>Japanese</B> Army",
+        "Dai-Nippon Teikoku Rikugun",
+        "Eastern Command of the Imperial Army",
+        "IJA Cavalry Units",
+        "Imperial Army of Great Japan",
+        "Imperial Army of Japan",
+        "Imperial <B>Japanese</B> army",
+        "<B>Japanese</B> Army in World War II",
+        "<B>Japanese</B> Imperial Army",
+        "<B>Japanese</B> Military Detachment (World War II)",
+        "<B>Japanese</B> imperial army",
+        "<B>Japanese</B> military commander",
+        "Nippon Rikugun",
+        "大日本帝国陸軍",
+        "大日本帝國陸軍"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Imperial <B>Japanese</B> Army (<B>Japanese</B>: 大日本帝国陸軍, Hepburn: Dai-Nippon Teikoku Rikugun, \"Army of the"
+      ],
+      "label": [
+        "Imperial <B>Japanese</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Imperial_Japanese_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1868_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Disbanded_armies",
+        "http://dbpedia.org/resource/Category:Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Imperial_Japanese_Army",
+        "http://dbpedia.org/resource/Category:Japan_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Japanese_Army",
+        "http://dbpedia.org/resource/Category:Military_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Military_of_the_Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1868"
+      ]
+    },
+    {
+      "score": [
+        "7364.2563"
+      ],
+      "refCount": [
+        "284"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Korea_under_Japanese_rule"
+      ],
+      "redirectlabel": [
+        "Chosen, Japan",
+        "Chōsen, Japan",
+        "Chōsen",
+        "Colonial Korea",
+        "Corea during World War I",
+        "Corea during World War II",
+        "Corea in World War I",
+        "Corea in World War II",
+        "Corea under <B>Japanese</B> rule",
+        "Great Depression in Corea",
+        "Great Depression in Korea",
+        "History of Corea during World War I",
+        "History of Corea during World War II",
+        "History of Korea (1900-1950)",
+        "History of Korea (1900–1950)",
+        "History of Korea during World War I",
+        "History of Korea during World War II",
+        "<B>Japan's</B> Opium policy in Korea",
+        "<B>Japan's</B> opium policy in Korea",
+        "<B>Japanese</B>-occupied Korea",
+        "<B>Japanese</B>-ruled Korea",
+        "<B>Japanese</B> Colonial Period (Korea)",
+        "<B>Japanese</B> Corea",
+        "<B>Japanese</B> Korea",
+        "<B>Japanese</B> Occupation of Korea",
+        "<B>Japanese</B> administration of Korea",
+        "<B>Japanese</B> annexation of Korea",
+        "<B>Japanese</B> colonial rule of Korea",
+        "<B>Japanese</B> colonialism in Korea",
+        "<B>Japanese</B> colonization of Korea",
+        "<B>Japanese</B> cultural artifacts controversy",
+        "<B>Japanese</B> korea",
+        "<B>Japanese</B> occupation of Corea",
+        "<B>Japanese</B> occupation of Korea",
+        "<B>Japanese</B> occupied Korea",
+        "<B>Japanese</B> rule in Korea",
+        "<B>Japanese</B> rule of Korea",
+        "Jeogsangaog",
+        "Joseon under <B>Japanese</B> rule",
+        "Korea's occupation by Japan",
+        "Korea during <B>Japanese</B> rule",
+        "Korea during World War I",
+        "Korea during World War II",
+        "Korea in World War I",
+        "Korea in World War II",
+        "Korea under <B>Japanese</B> control",
+        "Korea under <B>Japanese</B> leadership",
+        "Korea under <B>Japanese</B> occupation",
+        "Korea under the <B>Japanese</B> yoke",
+        "Korea was under <B>Japanese</B> ruling (1910-1945)",
+        "Korean forced laborers in Japan",
+        "Military history of Corea during World War I",
+        "Military history of Corea during World War II",
+        "Military history of Korea during World War I",
+        "Military history of Korea during World War II",
+        "Occupation of Corea by Imperial Japan",
+        "Occupation of Corea by Japan",
+        "Occupation of Corea by the Empire of Japan",
+        "Occupation of Corea by the <B>Japanese</B> Empire",
+        "Occupation of Korea by Imperial Japan",
+        "Occupation of Korea by Japan",
+        "Occupation of Korea by the Empire of Japan",
+        "Occupation of Korea by the <B>Japanese</B> Empire",
+        "Occupied Korea",
+        "Old Korea Empire under <B>Japanese</B> rule",
+        "Participation of Corea in World War I",
+        "Participation of Corea in World War II",
+        "Participation of Korea in World War I",
+        "Participation of Korea in World War II",
+        "Period of <B>Japanese</B> Rule (Korea)",
+        "大日本帝国朝鮮",
+        "大日本帝國朝鮮"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Japanese</B> Korea (<B>Japanese</B>: 大日本帝國 (朝鮮), Dai-Nippon Teikoku [Chōsen]) was the period when Korea was"
+      ],
+      "label": [
+        "Korea under <B>Japanese</B> rule"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Korea_under_Japanese_rule"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910_establishments_in_Korea",
+        "http://dbpedia.org/resource/Category:1910_establishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Korea",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:Annexation",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_Korea",
+        "http://dbpedia.org/resource/Category:Anti-Korean_sentiment_in_Japan",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Former_Japanese_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Japanese_military_occupations",
+        "http://dbpedia.org/resource/Category:Japan–Korea_relations",
+        "http://dbpedia.org/resource/Category:Korea_under_Japanese_rule",
+        "http://dbpedia.org/resource/Category:Military_occupations_of_Korea",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1910"
+      ]
+    },
+    {
+      "score": [
+        "7003.076"
+      ],
+      "refCount": [
+        "176"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Taiwan_under_Japanese_rule"
+      ],
+      "redirectlabel": [
+        "Chinese Consulate-General, Taihoku",
+        "Colonial Taiwan",
+        "Imperial <B>Japanese</B> Taiwan",
+        "<B>Japanese</B>-occupied Taiwan",
+        "<B>Japanese</B>-ruled Taiwan",
+        "<B>Japanese</B> Formosa",
+        "<B>Japanese</B> Occupation of Taiwan",
+        "<B>Japanese</B> Taiawn",
+        "<B>Japanese</B> Taiwan",
+        "<B>Japanese</B> administration of Taiwan",
+        "<B>Japanese</B> colonial period in Taiwan",
+        "<B>Japanese</B> colonial rule in Taiwan",
+        "<B>Japanese</B> occupation of Taiwan",
+        "<B>Japanese</B> rule in Taiwan",
+        "<B>Japanese</B> rule of Taiwan",
+        "Lin Shao-mao",
+        "Taiwan, Empire of Japan",
+        "Taiwan, Japan",
+        "Taiwan during <B>Japanese</B> rule",
+        "Taiwan under <B>Japanese</B> Occupation",
+        "Taiwan under <B>Japanese</B> control",
+        "Taiwan under <B>Japanese</B> occupation",
+        "Taiwan under <B>japanese</B> rule"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " five decades of <B>Japanese</B> rule. Taiwan was <B>Japan's</B> first overseas colony and can be viewed as the first"
+      ],
+      "label": [
+        "Taiwan under <B>Japanese</B> rule"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Taiwan_under_Japanese_rule"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890s_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1895_establishments_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1895_establishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:1900s_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1910s_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1920s_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1930s_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1940s_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Taiwan",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:1952_disestablishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:Former_Japanese_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Japanese_military_occupations",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1952",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1895",
+        "http://dbpedia.org/resource/Category:Taiwan_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Taiwan_under_Japanese_rule"
+      ]
+    },
+    {
+      "score": [
+        "6872.348"
+      ],
+      "refCount": [
+        "1363"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japan_national_football_team"
+      ],
+      "redirectlabel": [
+        "Blue Samurai",
+        "Japan National Football Team",
+        "Japan national association football team",
+        "Japan national football team kit",
+        "Japan national football team kit history",
+        "Japan national football team kits",
+        "Japan national soccer team",
+        "<B>Japanese</B> National Football Team",
+        "<B>Japanese</B> national football team",
+        "<B>Japanese</B> soccer team",
+        "Sakka Nippon Daihyo",
+        "Samurai Blue"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Japan national football team (<B>Japanese</B>: サッカー日本代表, Hepburn: Sakkā Nippon Daihyō), nicknamed the"
+      ],
+      "label": [
+        "Japan national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japan_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:AFC_Asian_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Japan_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "6842.13"
+      ],
+      "refCount": [
+        "238"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_castle"
+      ],
+      "redirectlabel": [
+        "Castles in Japan",
+        "Castles of Japan",
+        "Chikujou",
+        "Hirajiro",
+        "Hirayamajiro",
+        "Honmaru",
+        "<B>Japanese</B> castles",
+        "Samurai castle",
+        "Yamajiro",
+        "🏯"
+      ],
+      "comment": [
+        "<B>Japanese</B> castles (城, shiro) were fortresses constructed primarily of wood and stone. They evolved"
+      ],
+      "label": [
+        "<B>Japanese</B> castle"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_castle"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Castles_by_type",
+        "http://dbpedia.org/resource/Category:Castles_in_Japan",
+        "http://dbpedia.org/resource/Category:Feudal_Japan"
+      ]
+    },
+    {
+      "score": [
+        "5389.143"
+      ],
+      "refCount": [
+        "443"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Voice_acting_in_Japan"
+      ],
+      "redirectlabel": [
+        "Cast Voice",
+        "Haru Endou",
+        "<B>Japanese</B> voice actor",
+        "<B>Japanese</B> voice actors",
+        "<B>Japanese</B> voice actress",
+        "Reiko Katsura",
+        "Seiyu",
+        "Seiyuh",
+        "Seiyuu",
+        "Seiyû",
+        "Seiyū",
+        "声優"
+      ],
+      "comment": [
+        " character actor in anime and video games. It also involves performing voice-overs for non-<B>Japanese</B> movies"
+      ],
+      "label": [
+        "Voice acting in Japan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Voice_acting_in_Japan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_voice_actors",
+        "http://dbpedia.org/resource/Category:Otaku",
+        "http://dbpedia.org/resource/Category:Voice_acting"
+      ]
+    },
+    {
+      "score": [
+        "5340.457"
+      ],
+      "refCount": [
+        "1093"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japan_Standard_Time"
+      ],
+      "redirectlabel": [
+        "Asia/Tokyo",
+        "Daylight saving time in Japan",
+        "Japan Standard Time Zone",
+        "Japan Time",
+        "Japan standard time",
+        "<B>Japanese</B> Standard Time",
+        "<B>Japanese</B> time",
+        "Time in Japan",
+        "Tokyo Daylight Time",
+        "Tokyo Standard Time",
+        "中央標準時",
+        "日本標準時"
+      ],
+      "comment": [
+        "Japan Standard Time (日本標準時, Nihon Hyōjunji, <B>Japanese</B> pronunciation: [nihon çɔ̞ː(d)ʒʉn(d)ʒi] or Chūō"
+      ],
+      "label": [
+        "Japan Standard Time"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japan_Standard_Time"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Japan",
+        "http://dbpedia.org/resource/Category:Time_zones"
+      ]
+    },
+    {
+      "score": [
+        "5322.368"
+      ],
+      "refCount": [
+        "128"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Sino-Japanese_War"
+      ],
+      "redirectlabel": [
+        "1894 Sino-<B>Japanese</B> War",
+        "Ching-Japan War",
+        "FSJW",
+        "First Chinese-<B>Japanese</B> war",
+        "First Sino-<B>Japanese</B> War (1894-1895)",
+        "First Sino-<B>Japanese</B> war",
+        "First Sino‐<B>Japanese</B> War",
+        "First Sino–<B>Japanese</B> War",
+        "First sino-<B>japanese</B> war",
+        "Japan-Qing War",
+        "Japan–Qing War",
+        "Jiawu",
+        "Jiawu China-Japan War",
+        "Jiawu China - Japan War",
+        "Jiawu China – Japan War",
+        "Jiawu China–Japan War",
+        "Jiawu War",
+        "Nisshin Sensō",
+        "Sino-<B>Japanese</B> War (1894-1895)",
+        "Sino-<B>Japanese</B> War (1894-5)",
+        "Sino-<B>Japanese</B> War (1894-95)",
+        "Sino-<B>Japanese</B> War (1894–1895)",
+        "Sino-<B>Japanese</B> War (1894–95)",
+        "Sino-<B>Japanese</B> War I",
+        "Sino–<B>Japanese</B> War (1894–5)",
+        "War of Jiawu",
+        "Zhōngrì Jiǎwǔ Zhànzhēng",
+        "中日甲午战争",
+        "中日甲午戰爭",
+        "日清戦争"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The First Sino-<B>Japanese</B> War (25 July 1894 – 17 April 1895), also known as the Chino-<B>Japanese</B> War"
+      ],
+      "label": [
+        "First Sino-<B>Japanese</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Sino-Japanese_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1894_in_China",
+        "http://dbpedia.org/resource/Category:1894_in_Japan",
+        "http://dbpedia.org/resource/Category:1894_in_Korea",
+        "http://dbpedia.org/resource/Category:1895_in_China",
+        "http://dbpedia.org/resource/Category:1895_in_Japan",
+        "http://dbpedia.org/resource/Category:1895_in_Korea",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:China–Japan_relations",
+        "http://dbpedia.org/resource/Category:First_Sino-Japanese_War",
+        "http://dbpedia.org/resource/Category:History_of_Manchuria",
+        "http://dbpedia.org/resource/Category:Sino-Japanese_Wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Qing_dynasty"
+      ]
+    },
+    {
+      "score": [
+        "4760.0625"
+      ],
+      "refCount": [
+        "686"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cities_of_Japan"
+      ],
+      "redirectlabel": [
+        "Cities in Japan",
+        "Cities of japan",
+        "City (Japan)",
+        "City of Japan",
+        "<B>Japanese</B> cities"
+      ],
+      "comment": [
+        "A city (市, shi) is a local administrative unit in Japan. Cities are ranked on the same level as towns (町, machi) and villages (村, mura), with the difference that they are not a component of districts (郡, gun). Like other contemporary administrative units, they are defined by the Local Autonomy Law of 1947."
+      ],
+      "label": [
+        "Cities of Japan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cities_of_Japan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "4746.353"
+      ],
+      "refCount": [
+        "351"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anime"
+      ],
+      "redirectlabel": [
+        "Ainme",
+        "Animation in Japan",
+        "Animation industry in Japan",
+        "Animation industry of Japan",
+        "Animay",
+        "Anime film",
+        "Anime industry",
+        "Anime licensing",
+        "Anime movies",
+        "Anime series",
+        "Anime show",
+        "Animes",
+        "Animey",
+        "Animu",
+        "Animè",
+        "Animé",
+        "Anine",
+        "Annie may",
+        "Aníme",
+        "History of international anime distribution",
+        "Insert song",
+        "Japan anime",
+        "<B>JapaneseAnime</B>",
+        "<B>Japanese</B> Animation",
+        "<B>Japanese</B> Animations",
+        "<B>Japanese</B> Cartoons",
+        "<B>Japanese</B> animated cartoon",
+        "<B>Japanese</B> animated series",
+        "<B>Japanese</B> animation",
+        "<B>Japanese</B> animation industry",
+        "<B>Japanese</B> anime",
+        "Japanimation",
+        "<B>Japanime</B>",
+        "List of anime movies",
+        "あにめ",
+        "アニメ"
+      ],
+      "comment": [
+        "Anime (US: , UK: ) (<B>Japanese</B>: アニメ, Hepburn: anime, [aɲime] (), plural: anime) is hand-drawn and"
+      ],
+      "label": [
+        "Anime"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anime"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1917_introductions",
+        "http://dbpedia.org/resource/Category:Anime",
+        "http://dbpedia.org/resource/Category:Anime_and_manga_terminology",
+        "http://dbpedia.org/resource/Category:Japanese_inventions"
+      ]
+    },
+    {
+      "score": [
+        "4681.65"
+      ],
+      "refCount": [
+        "87"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_television_drama"
+      ],
+      "redirectlabel": [
+        "Dorama",
+        "Drama - Japan",
+        "J-Drama",
+        "J-dorama",
+        "J-drama",
+        "JDorama",
+        "JDrama",
+        "J Drama",
+        "J drama",
+        "<B>Japanese</B> TV dramas",
+        "<B>Japanese</B> soap opera",
+        "<B>Japanese</B> soap operas",
+        "<B>Japanese</B> television dramas",
+        "Jdorama"
+      ],
+      "comment": [
+        "<B>Japanese</B> television drama (テレビドラマ, terebi drama, television drama), also called dorama (ドラマ), are"
+      ],
+      "label": [
+        "<B>Japanese</B> television drama"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_television_drama"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_drama",
+        "http://dbpedia.org/resource/Category:Japanese_drama_television_series",
+        "http://dbpedia.org/resource/Category:Japanese_entertainment_terms",
+        "http://dbpedia.org/resource/Category:Television_drama"
+      ]
+    },
+    {
+      "score": [
+        "4588.535"
+      ],
+      "refCount": [
+        "66"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_idol"
+      ],
+      "redirectlabel": [
+        "Aidoru",
+        "Bikini idol",
+        "Idol (genre)",
+        "<B>Japanese</B> Idol",
+        "<B>Japanese</B> Idols"
+      ],
+      "comment": [
+        "An idol (アイドル, aidoru, a <B>Japanese</B> rendering of the English word \"Idol\") is a type of entertainer"
+      ],
+      "label": [
+        "<B>Japanese</B> idol"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_idol"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_idols",
+        "http://dbpedia.org/resource/Category:Japanese_popular_culture",
+        "http://dbpedia.org/resource/Category:Japanese_youth_culture",
+        "http://dbpedia.org/resource/Category:Stock_characters_in_anime_and_manga"
+      ]
+    },
+    {
+      "score": [
+        "4473.7446"
+      ],
+      "refCount": [
+        "83"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Imperial_Japanese_Navy"
+      ],
+      "redirectlabel": [
+        "China fleet",
+        "Dà Rìběn Dìguó Hǎi",
+        "Empire of Japan Navy",
+        "History of the Imperial <B>Japanese</B> Navy",
+        "Imperial <B>Japanese</B> Navy.",
+        "Imperial <B>Japanese</B> navy",
+        "Imperial Navy of Japan",
+        "<B>Japanese</B> Imperial Navy",
+        "<B>Japanese</B> Navy in World War II",
+        "<B>Japanese</B> fleet",
+        "Kai gun",
+        "Kaigun",
+        "Nihon Kaigun",
+        "Nippon Kaigun",
+        "大日本帝國海軍"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Imperial <B>Japanese</B> Navy (IJN; Kyūjitai: 大日本帝國海軍 Shinjitai: 大日本帝国海軍  \"Navy of the Greater"
+      ],
+      "label": [
+        "Imperial <B>Japanese</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Imperial_Japanese_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1869_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Attack_on_Pearl_Harbor",
+        "http://dbpedia.org/resource/Category:Disbanded_navies",
+        "http://dbpedia.org/resource/Category:Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Imperial_Japanese_Navy",
+        "http://dbpedia.org/resource/Category:Military_of_the_Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1869",
+        "http://dbpedia.org/resource/Category:Naval_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Naval_history_of_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "4154.7656"
+      ],
+      "refCount": [
+        "1684"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arcade_game"
+      ],
+      "redirectlabel": [
+        "American Amusement Machine Association",
+        "Amusement equipment",
+        "Amusement machine",
+        "Arcade-game",
+        "Arcade Game",
+        "Arcade Games",
+        "Arcade games",
+        "Coin-op game",
+        "Coin-operated game",
+        "EM game",
+        "Entertainment machine",
+        "For amusement only",
+        "History of arcade games",
+        "Insert Coin",
+        "Insert coin",
+        "<B>Japanese</B> arcades"
+      ],
+      "comment": [
+        "An arcade game or coin-op game is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are video games, pinball machines, electro-mechanical games, redemption games or merchandisers. While exact dates are debated, the golden age of arcade video games is usually defined as a period beginning sometime in the late 1970s and ending sometime in the mid-1980s. Excluding a brief resurgence in the early 1990s, the arcade industry subsequently declined in the Western hemisphere as competing home video game consoles such as the Sony PlayStation and Microsoft Xbox increased in their graphics and game-play capability and decreased in cost. The Eastern Hemisphere retains a strong arcade industry."
+      ],
+      "label": [
+        "Arcade game"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arcade_game"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arcade_games"
+      ]
+    },
+    {
+      "score": [
+        "4042.5825"
+      ],
+      "refCount": [
+        "482"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japan_women's_national_football_team"
+      ],
+      "redirectlabel": [
+        "Japan women's football team",
+        "Japan women's national association football team",
+        "Japan women's national soccer team",
+        "Japan women's soccer team",
+        "Japan womens soccer team",
+        "<B>Japanese</B> women's football team",
+        "<B>Japanese</B> women's national soccer team",
+        "<B>Japanese</B> women's soccer team",
+        "Nadeshiko Japan",
+        "サッカー日本女子代表"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Japan women's national football team, or Nadeshiko Japan (なでしこジャパン), represents Japan in women's association football and is run by the Japan Football Association (JFA). It is the most successful women's national team from the Asian Football Confederation. Its highest ranking in the FIFA Women's World Rankings is 3rd, achieved in December 2011."
+      ],
+      "label": [
+        "Japan women's national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japan_women's_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_women's_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:FIFA_Women's_World_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Japan_women's_national_football_team",
+        "http://dbpedia.org/resource/Category:People's_Honour_Award_winners"
+      ]
+    },
+    {
+      "score": [
+        "3785.3477"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service"
+      ],
+      "redirectlabel": [
+        "IJNAF",
+        "IJNAS",
+        "Imperial <B>Japanese</B> Naval Air Service",
+        "Imperial <B>Japanese</B> Navy Air Corps",
+        "<B>Japanese</B> Carrier Air Arm"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Imperial <B>Japanese</B> Navy Air Service (大日本帝國海軍航空隊, Dai-Nippon Teikoku Kaigun Kōkū-tai) was the air"
+      ],
+      "label": [
+        "Imperial <B>Japanese</B> Navy Air Service"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Aviation_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Disbanded_air_forces",
+        "http://dbpedia.org/resource/Category:Imperial_Japanese_Navy",
+        "http://dbpedia.org/resource/Category:Imperial_Japanese_Navy_Air_Service",
+        "http://dbpedia.org/resource/Category:Japanese_Air_Force",
+        "http://dbpedia.org/resource/Category:Japanese_naval_aviators",
+        "http://dbpedia.org/resource/Category:Naval_history_of_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "3772.5251"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_diaspora"
+      ],
+      "redirectlabel": [
+        "Diaspora of Japan",
+        "Emigration from Japan",
+        "Ethnic <B>Japanese</B> minorities",
+        "<B>Japanese</B> emigration",
+        "<B>Japanese</B> immigrants",
+        "<B>Japanese</B> overseas",
+        "Nikkei people",
+        "Nikkeijin",
+        "Nipposphere",
+        "Overseas <B>Japanese</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Japanese</B> diaspora, and its individual members known as nikkei (日系) or nikkeijin (日系人), are the"
+      ],
+      "label": [
+        "<B>Japanese</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_diaspora"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "3682.327"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Internment_of_Japanese_Americans"
+      ],
+      "redirectlabel": [
+        "Americans of <B>Japanese</B> descent, interned during World War 2",
+        "Citizen Isolation Center",
+        "Citizen isolation center",
+        "Ethnic <B>Japanese</B> Evacuation of 1942",
+        "Incarceration of <B>japanese</B>",
+        "Internment of <B>Japanese</B>-Americans",
+        "Internment of <B>Japanese</B> American citizens",
+        "Internment of <B>Japanese</B> Americans during World War II",
+        "Internment of <B>Japanese</B> in the United States",
+        "<B>Japanese</B>-American Internment",
+        "<B>Japanese</B>-American internee",
+        "<B>Japanese</B>-American internment",
+        "<B>Japanese</B>-American internment camp",
+        "<B>Japanese</B>-American internment camps",
+        "<B>Japanese</B>-American relocation",
+        "<B>Japanese</B>-Americans 1942",
+        "<B>Japanese</B>-american evacuation",
+        "<B>Japanese</B>-americans 1942",
+        "<B>Japanese</B> American Internment",
+        "<B>Japanese</B> American incarceration",
+        "<B>Japanese</B> American internent",
+        "<B>Japanese</B> American internment",
+        "<B>Japanese</B> American internment during World War II",
+        "<B>Japanese</B> American relocation",
+        "<B>Japanese</B> Americans, 1942",
+        "<B>Japanese</B> Americans 1942",
+        "<B>Japanese</B> Internship Camp",
+        "<B>Japanese</B> americans 1942",
+        "<B>Japanese</B> concentration",
+        "<B>Japanese</B> interned in American camps",
+        "<B>Japanese</B> interned in U.S. camps",
+        "<B>Japanese</B> internment camps in the USA",
+        "<B>Japanese</B> internment camps in the United States",
+        "<B>Japanese</B> internment in the United States",
+        "<B>Japanese</B> relocation camp",
+        "Mass incarceration of <B>Japanese</B>-Americans",
+        "Mayer Assembly Center",
+        "Moab Isolation Center",
+        "Nikkei internment",
+        "Old Raton Ranch Camp",
+        "Parker Dam Reception Center",
+        "Stockton Assembly Center",
+        "War relocation centers",
+        "Wartime Civil Control Administration",
+        "Wartime Civilian Control Administration",
+        "Woodland Civil Control Station",
+        "World War 2 internment of those of <B>Japanese</B> descent"
+      ],
+      "comment": [
+        "The internment of <B>Japanese</B> Americans in the United States during World War II was the forced"
+      ],
+      "label": [
+        "Internment of <B>Japanese</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Internment_of_Japanese_Americans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Civil_detention_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Collective_punishment",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Internment_of_Japanese_Americans",
+        "http://dbpedia.org/resource/Category:Internments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Japanese-American_history",
+        "http://dbpedia.org/resource/Category:Persecution_of_Buddhists",
+        "http://dbpedia.org/resource/Category:Political_repression_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Presidency_of_Franklin_D._Roosevelt",
+        "http://dbpedia.org/resource/Category:United_States_home_front_during_World_War_II",
+        "http://dbpedia.org/resource/Category:World_War_II_sites_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "3652.6729"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Americans"
+      ],
+      "redirectlabel": [
+        "American people of <B>Japanese</B> heritage",
+        "Genetic diseases in <B>Japanese</B> Americans",
+        "Genetic disorders in <B>Japanese</B> Americans",
+        "Genetic studies on <B>Japanese</B> Americans",
+        "Inherited diseases in <B>Japanese</B> Americans",
+        "Jap-American",
+        "Jap-Americans",
+        "Jap American",
+        "Jap Americans",
+        "<B>Japanese</B>-American",
+        "<B>Japanese</B>-Americans",
+        "<B>Japanese</B>-american",
+        "<B>Japanese</B>-americans",
+        "<B>Japanese</B> American",
+        "<B>Japanese</B> Americans in science and technology",
+        "<B>Japanese</B> immigration to the United States",
+        "<B>Japanese</B> migration to the United States",
+        "<B>Japanese</B> people in the United States",
+        "<B>Japanese</B>–American",
+        "List of <B>Japanese</B> American neighborhoods and communities",
+        "Nikkei Amerikajin",
+        "Political views of <B>Japanese</B> Americans",
+        "日系アメリカ人"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Japanese</B> Americans (日系アメリカ人, Nikkei Amerikajin) are Americans who are fully or partially of"
+      ],
+      "label": [
+        "<B>Japanese</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Japanese_descent",
+        "http://dbpedia.org/resource/Category:Asian-American_society",
+        "http://dbpedia.org/resource/Category:East_Asian_American",
+        "http://dbpedia.org/resource/Category:History_of_immigration_to_Hawaii",
+        "http://dbpedia.org/resource/Category:Japanese-American_culture_in_Hawaii",
+        "http://dbpedia.org/resource/Category:Japanese-American_history",
+        "http://dbpedia.org/resource/Category:Japanese_American",
+        "http://dbpedia.org/resource/Category:Japanese_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "3585.1118"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_cuisine"
+      ],
+      "redirectlabel": [
+        "Alcohol in Japan",
+        "Alcoholic drinks in Japan",
+        "Cuisine - Japan",
+        "Cuisine of Japan",
+        "Food in japan",
+        "Japan food",
+        "Japan food culture",
+        "<B>Japanese</B> Cuisine",
+        "<B>Japanese</B> cookery",
+        "<B>Japanese</B> cooking",
+        "<B>Japanese</B> cuisin",
+        "<B>Japanese</B> cuisine in Indonesia",
+        "<B>Japanese</B> cuisine in the United States",
+        "<B>Japanese</B> cusine",
+        "<B>Japanese</B> dish",
+        "<B>Japanese</B> food",
+        "<B>Japanese</B> restaurant",
+        "<B>Japanese</B> salad",
+        "<B>Japanese</B> salads",
+        "<B>Japanese</B> vegetarian cuisine",
+        "Miso Salmon",
+        "Nihon ryoori",
+        "Teishoku",
+        "Washoku",
+        "Wasyoku",
+        "味噌サーモン",
+        "日本料理"
+      ],
+      "comment": [
+        "<B>Japanese</B> cuisine encompasses the regional and traditional foods of Japan, which have developed"
+      ],
+      "label": [
+        "<B>Japanese</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Buddhist_cuisine",
+        "http://dbpedia.org/resource/Category:Japanese_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "3577.4302"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_honorifics"
+      ],
+      "redirectlabel": [
+        "-chan",
+        "-dono",
+        "-kun",
+        "-sama",
+        "-san",
+        "-sensei",
+        "-shi",
+        "-tan",
+        "Chan (honorific)",
+        "Dono",
+        "Gokuro-sama",
+        "Gokuro",
+        "Hanshi",
+        "<B>Japanese</B> Honorifics",
+        "<B>Japanese</B> Titles",
+        "<B>Japanese</B> honorific",
+        "<B>Japanese</B> honourific",
+        "<B>Japanese</B> honourifics",
+        "<B>Japanese</B> martial arts term",
+        "<B>Japanese</B> martial arts titles",
+        "<B>Japanese</B> suffixes",
+        "<B>Japanese</B> title",
+        "<B>Japanese</B> titles",
+        "List of <B>Japanese</B> honorifics",
+        "Nii-chan",
+        "Nii-san",
+        "Oneechan",
+        "Oneesama",
+        "Oniichan",
+        "Otsukare",
+        "San (<B>Japanese</B> honorific)",
+        "Yobisute",
+        "君"
+      ],
+      "comment": [
+        "The <B>Japanese</B> language makes use of honorific suffixes when referring to others in a conversation"
+      ],
+      "label": [
+        "<B>Japanese</B> honorifics"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_honorifics"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_honorifics"
+      ]
+    },
+    {
+      "score": [
+        "3520.5142"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_nationalism"
+      ],
+      "redirectlabel": [
+        "Analizes over <B>Japanese</B> Expansion in Asia Mainland",
+        "Analysis of <B>Japanese</B> expansion in mainland Asia",
+        "<B>Japanese</B> Nationalism",
+        "<B>Japanese</B> Nationalist Ideology",
+        "<B>Japanese</B> expansion in mainland Asia",
+        "<B>Japanese</B> nationalist",
+        "<B>Japanese</B> nationalist symbolism",
+        "<B>Japanese</B> nationalist thinking in the Meiji era",
+        "<B>Japanese</B> nationalists",
+        "<B>Japanese</B> nationalists thinking development in Meiji epoch",
+        "<B>Japanese</B> ultranationalism",
+        "<B>Japanese</B> ultranationalist",
+        "<B>Japanese</B> ultranationalists",
+        "<B>Japenese</B> nationalist",
+        "Kokka shugi",
+        "List of nationalist <B>Japanese</B> symbols",
+        "New Order (Japan)",
+        "Shintaisei",
+        "Shintaisen",
+        "国家主義"
+      ],
+      "comment": [
+        "<B>Japanese</B> nationalism (<B>Japanese</B>: 国粋主義, Hepburn: Kokusui shugi) is the nationalism that asserts that"
+      ],
+      "label": [
+        "<B>Japanese</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Japanese_nationalism",
+        "http://dbpedia.org/resource/Category:Nationalist_movements_in_Asia",
+        "http://dbpedia.org/resource/Category:Political_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Racism_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "3227.828"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Exile_(Japanese_band)"
+      ],
+      "redirectlabel": [
+        "Exile (<B>Japanese</B> band) discography",
+        "Exile (<B>japanese</B> band)",
+        "Exile Love",
+        "Perfect Best (Exile album)",
+        "Phoenix (Exile album)",
+        "Single Best (Exile album)",
+        "Star of Wish"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Exile is a 19-member <B>Japanese</B> boy band. The leader of the group is Hiro, who debuted as a member of"
+      ],
+      "label": [
+        "Exile (<B>Japanese</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Exile_(Japanese_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Avex_Group_artists",
+        "http://dbpedia.org/resource/Category:Japanese_boy_bands",
+        "http://dbpedia.org/resource/Category:Japanese_musical_groups",
+        "http://dbpedia.org/resource/Category:Japanese_pop_music_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Tokyo",
+        "http://dbpedia.org/resource/Category:World_Music_Awards_winners"
+      ]
+    },
+    {
+      "score": [
+        "3085.8347"
+      ],
+      "refCount": [
+        "145"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/J1_League"
+      ],
+      "redirectlabel": [
+        "History of J. League",
+        "History of the J. League",
+        "J-League",
+        "J-League 1",
+        "J-league",
+        "J.League 1",
+        "J.League Division 1",
+        "J. League 1",
+        "J. League Division 1",
+        "J. League contracts",
+        "<B>Japanese</B> Football Club",
+        "<B>Japanese</B> Football club",
+        "<B>Japanese</B> Soccer League",
+        "<B>Japanese</B> Socer League",
+        "<B>Japanese</B> football Club",
+        "<B>Japanese</B> football club"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The J1 League (<B>Japanese</B>: J1リーグ, Hepburn: Jē-wan Rīgu) or simply J1 is the top division of the Japan"
+      ],
+      "label": [
+        "J1 League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/J1_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Japan",
+        "http://dbpedia.org/resource/Category:J.League",
+        "http://dbpedia.org/resource/Category:J1_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Japan",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1992",
+        "http://dbpedia.org/resource/Category:Summer_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2970.3965"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_war_crimes"
+      ],
+      "redirectlabel": [
+        "Asian Holocaust",
+        "Japan war crimes",
+        "<B>Japanese</B> War Crimes",
+        "<B>Japanese</B> War Crimes Trial",
+        "<B>Japanese</B> War Crimes Tribunal",
+        "<B>Japanese</B> atrocities",
+        "<B>Japanese</B> human experimentation on the Chinese",
+        "<B>Japanese</B> war atrocities",
+        "<B>Japanese</B> war atrocity",
+        "<B>Japanese</B> war crime",
+        "<B>Japanese</B> war crimes and atrocities",
+        "<B>Japanese</B> war crimes in mainland Asia",
+        "<B>Japanese</B> war crimes in the Pacific",
+        "<B>Japanese</B> war crimes trials",
+        "<B>Japanese</B> war criminals",
+        "List of <B>Japanese</B> War Atrocities",
+        "List of <B>Japanese</B> war atrocities",
+        "Stolen Artifacts from Asia found in Japan",
+        "Types of torture used in the <B>Japanese</B> occupation of Singapore",
+        "Types of torture used in the Singapore <B>japanese</B> occupations",
+        "War Crimes and Atrocities of Imperial Japan",
+        "War Crimes in Asia Mainland",
+        "War Crimes in Pacific Sea",
+        "War Crimes in the Pacific",
+        "War crimes and Japan",
+        "War crimes in the Pacific area",
+        "War crimes of Imperial Japan"
+      ],
+      "comment": [
+        " of <B>Japanese</B> imperialism, primarily during the Second Sino-<B>Japanese</B> War and World War II. These"
+      ],
+      "label": [
+        "<B>Japanese</B> war crimes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_war_crimes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_China",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_Korea",
+        "http://dbpedia.org/resource/Category:Anti-Korean_sentiment_in_Japan",
+        "http://dbpedia.org/resource/Category:Genocides_in_Asia",
+        "http://dbpedia.org/resource/Category:Genocides_in_Oceania-Pacific",
+        "http://dbpedia.org/resource/Category:Historical_negationism",
+        "http://dbpedia.org/resource/Category:History_of_Asia",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Japan",
+        "http://dbpedia.org/resource/Category:Imperial_Japanese_Army",
+        "http://dbpedia.org/resource/Category:Imperial_Japanese_Navy",
+        "http://dbpedia.org/resource/Category:Incidents_of_cannibalism",
+        "http://dbpedia.org/resource/Category:Japanese_war_crimes",
+        "http://dbpedia.org/resource/Category:Military_history_of_Japan",
+        "http://dbpedia.org/resource/Category:War_crimes_committed_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2962.3665"
+      ],
+      "refCount": [
+        "68"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_invasions_of_Korea_(1592–1598)"
+      ],
+      "redirectlabel": [
+        "1st Korean Campaign of Toyotomi Hideyoshi",
+        "2nd Korean Campaign of Toyotomi Hideyoshi",
+        "Battle of Bunroku",
+        "Battle of Bunroku and Keicho",
+        "Battle of Corea",
+        "Battle of Keicho",
+        "Battle of Keityo",
+        "Battle of Korea",
+        "Battle of Pusan (1597)",
+        "Battles of Bunroku and Keicho",
+        "Battles of Bunroku and Keityo",
+        "First Korean Campaign",
+        "Hideyoshi's Invasion of Korea",
+        "Hideyoshi's Invasions",
+        "Hideyoshi's Invasions of Korea",
+        "Hideyoshi's Korean Campaign",
+        "Hideyoshi's Korean Campaigns",
+        "Hideyoshi's invasion of Korea",
+        "Hideyoshi's invasions of Korea",
+        "Im Jin Wae Ran",
+        "Im jin we ran",
+        "Imchin Waeran",
+        "Imjin Waeran",
+        "Imjin War",
+        "Imjin Wars",
+        "Imjin war",
+        "Imjinwaeran",
+        "Invasion of Corea",
+        "Invasion of Korea",
+        "<B>Japanese</B>-Korean War (1592-98)",
+        "<B>Japanese</B>-Korean War (1592–98)",
+        "<B>Japanese</B> Blitzkrieg in Korea",
+        "<B>Japanese</B> Invasion of Korea (1592-1598)",
+        "<B>Japanese</B> Invasions of 1592",
+        "<B>Japanese</B> Invasions of Korea",
+        "<B>Japanese</B> invasion of Joseon",
+        "<B>Japanese</B> invasions of Korea",
+        "<B>Japanese</B> invasions of Korea (1592-1598)",
+        "<B>Japanese</B> invasions of Korea (1592-98)",
+        "<B>Japanese</B> invasions of Korea (1592–98)",
+        "Jeongyoojaeran",
+        "Korean Campaign of Toyotomi Hideyoshi",
+        "Korean Invasion",
+        "Korean Invasion of Toyotomi Hideyoshi",
+        "Korean campaign",
+        "Seven-Year War (Asia)",
+        "Seven-Year Wars",
+        "The <B>Japanese</B> invasions of Korea",
+        "Toyotomi Hideyoshi's 1st Korean Campaign",
+        "Toyotomi Hideyoshi's 2nd Korean Campaign",
+        "Toyotomi Hideyoshi's Korean Campaign",
+        "Toyotomi Hideyoshi's Korean Invasion",
+        "War of 1592",
+        "War of Imjin",
+        "Yimjin War",
+        "Ymjin War",
+        "壬辰倭亂",
+        "임진왜란"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Japanese</B> invasions of Korea comprised two separate yet linked operations: an initial invasion"
+      ],
+      "label": [
+        "<B>Japanese</B> invasions of Korea (1592–1598)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_invasions_of_Korea_(1592–1598)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1590s_in_Japan",
+        "http://dbpedia.org/resource/Category:16th-century_military_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_China",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_Korea",
+        "http://dbpedia.org/resource/Category:Japanese_invasions_of_Korea_(1592–1598)",
+        "http://dbpedia.org/resource/Category:Japan–Korea_relations",
+        "http://dbpedia.org/resource/Category:Joseon_dynasty"
+      ]
+    },
+    {
+      "score": [
+        "2940.046"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_yen"
+      ],
+      "redirectlabel": [
+        "Coins of Japan",
+        "Coins of the <B>Japanese</B> yen",
+        "Fractional yen banknotes",
+        "Gallery of <B>Japanese</B> banknotes",
+        "Gallery of <B>Japanese</B> paper money",
+        "ISO 4217:JPY",
+        "JPY",
+        "JP¥",
+        "Japan Yen",
+        "Japan currency",
+        "<B>Japanese</B> Yen",
+        "<B>Japanese</B> coin",
+        "<B>Japanese</B> coins",
+        "<B>Japanese</B> en",
+        "<B>Japanese</B> money",
+        "<B>Japanese</B> rin",
+        "Yen",
+        "円"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The yen (<B>Japanese</B>: 円, Hepburn: en, symbol: ¥; code: JPY; also abbreviated as JP¥) is the official"
+      ],
+      "label": [
+        "<B>Japanese</B> yen"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_yen"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1871_introductions",
+        "http://dbpedia.org/resource/Category:Circulating_currencies",
+        "http://dbpedia.org/resource/Category:Currencies_of_Japan",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Denominations_(currency)",
+        "http://dbpedia.org/resource/Category:Japanese_business_terms",
+        "http://dbpedia.org/resource/Category:Japanese_yen"
+      ]
+    },
+    {
+      "score": [
+        "2932.4277"
+      ],
+      "refCount": [
+        "523"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Noise_rock"
+      ],
+      "redirectlabel": [
+        "History of noise rock",
+        "<B>Japanese</B> noise rock",
+        "Noise-punk",
+        "Noise-rock",
+        "NoisePunk",
+        "Noise Rock",
+        "Noise metal",
+        "Noise punk",
+        "Noise rock music",
+        "Noisepunk",
+        "Noiserock",
+        "Pigfuck",
+        "Punk noise"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Noise rock (sometimes called noise punk) is a noise-oriented style of experimental rock that spun off from punk rock in the 1980s. Drawing on movements such as minimalism, industrial music, and New York hardcore, artists indulge in extreme levels of distortion through the use of electric guitars and, less frequently, electronic instrumentation, either to provide percussive sounds or to contribute to the overall arrangement."
+      ],
+      "label": [
+        "Noise rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Noise_rock"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_neologisms",
+        "http://dbpedia.org/resource/Category:Alternative_rock_genres",
+        "http://dbpedia.org/resource/Category:American_rock_music_genres",
+        "http://dbpedia.org/resource/Category:American_styles_of_music",
+        "http://dbpedia.org/resource/Category:Noise_music",
+        "http://dbpedia.org/resource/Category:Noise_rock",
+        "http://dbpedia.org/resource/Category:Punk_rock_genres"
+      ]
+    },
+    {
+      "score": [
+        "2913.7903"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_garden"
+      ],
+      "redirectlabel": [
+        "Gardens of Japan",
+        "<B>Japanese</B> Garden",
+        "<B>Japanese</B> gardening",
+        "<B>Japanese</B> gardens",
+        "<B>Japanese</B> tea garden",
+        "Mie gakure"
+      ],
+      "comment": [
+        "<B>Japanese</B> gardens (日本庭園, nihon teien) are traditional gardens whose designs are accompanied by"
+      ],
+      "label": [
+        "<B>Japanese</B> garden"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_garden"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Garden_design_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Japanese_gardens",
+        "http://dbpedia.org/resource/Category:Japanese_style_of_gardening"
+      ]
+    },
+    {
+      "score": [
+        "2890.0908"
+      ],
+      "refCount": [
+        "76"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Woodblock_printing_in_Japan"
+      ],
+      "redirectlabel": [
+        "Aiban-size",
+        "Aiban",
+        "Block-printing in Japan",
+        "Block printing in Japan",
+        "Blockprinting in Japan",
+        "History of woodblock printing in Japan",
+        "Hosoban",
+        "<B>Japanese</B> block-print",
+        "<B>Japanese</B> block-printed",
+        "<B>Japanese</B> block-printer",
+        "<B>Japanese</B> block-printers",
+        "<B>Japanese</B> block-printing",
+        "<B>Japanese</B> block-printings",
+        "<B>Japanese</B> block-prints",
+        "<B>Japanese</B> block print",
+        "<B>Japanese</B> block printed",
+        "<B>Japanese</B> block printer",
+        "<B>Japanese</B> block printers",
+        "<B>Japanese</B> block printing",
+        "<B>Japanese</B> block printings",
+        "<B>Japanese</B> block prints",
+        "<B>Japanese</B> blockprint",
+        "<B>Japanese</B> blockprinted",
+        "<B>Japanese</B> blockprinter",
+        "<B>Japanese</B> blockprinters",
+        "<B>Japanese</B> blockprinting",
+        "<B>Japanese</B> blockprintings",
+        "<B>Japanese</B> blockprints",
+        "<B>Japanese</B> print-maker",
+        "<B>Japanese</B> print-makers",
+        "<B>Japanese</B> print-making",
+        "<B>Japanese</B> print",
+        "<B>Japanese</B> print maker",
+        "<B>Japanese</B> print makers",
+        "<B>Japanese</B> print making",
+        "<B>Japanese</B> printmaker",
+        "<B>Japanese</B> printmakers",
+        "<B>Japanese</B> printmaking",
+        "<B>Japanese</B> prints",
+        "<B>Japanese</B> wood-block-printed",
+        "<B>Japanese</B> wood-block",
+        "<B>Japanese</B> wood-block print",
+        "<B>Japanese</B> wood-block printed",
+        "<B>Japanese</B> wood-block printer",
+        "<B>Japanese</B> wood-block printers",
+        "<B>Japanese</B> wood-block printing",
+        "<B>Japanese</B> wood-block printings",
+        "<B>Japanese</B> wood-block prints",
+        "<B>Japanese</B> wood block",
+        "<B>Japanese</B> wood block print",
+        "<B>Japanese</B> wood block printed",
+        "<B>Japanese</B> wood block printer",
+        "<B>Japanese</B> wood block printers",
+        "<B>Japanese</B> wood block printing",
+        "<B>Japanese</B> wood block printings",
+        "<B>Japanese</B> wood block prints",
+        "<B>Japanese</B> woodblock-printed",
+        "<B>Japanese</B> woodblock",
+        "<B>Japanese</B> woodblock print",
+        "<B>Japanese</B> woodblock printed",
+        "<B>Japanese</B> woodblock printer",
+        "<B>Japanese</B> woodblock printers",
+        "<B>Japanese</B> woodblock printing",
+        "<B>Japanese</B> woodblock printings",
+        "<B>Japanese</B> woodblock prints",
+        "Moku hanga",
+        "Print-making in Japan",
+        "Print making in Japan",
+        "Printmaking in Japan",
+        "Wood-block printing in Japan",
+        "Wood block printing in Japan",
+        "Ōban-size",
+        "Ōban (printing)",
+        "木版画"
+      ],
+      "comment": [
+        " woodcut, which typically uses oil-based inks. The <B>Japanese</B> water-based inks provide a wide range of vivid colors, glazes, and transparency."
+      ],
+      "label": [
+        "Woodblock printing in Japan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Woodblock_printing_in_Japan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_art",
+        "http://dbpedia.org/resource/Category:Printmaking",
+        "http://dbpedia.org/resource/Category:Relief_printing",
+        "http://dbpedia.org/resource/Category:Ukiyo-e"
+      ]
+    },
+    {
+      "score": [
+        "2881.498"
+      ],
+      "refCount": [
+        "527"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pacific_War"
+      ],
+      "redirectlabel": [
+        "Asia-Pacific War",
+        "Asian Theatre of World War 2",
+        "Asian Theatre of World War II",
+        "Asian theater of World War II",
+        "Asian theatre of World War II",
+        "Asia–Pacific War",
+        "Battle for the Pacific",
+        "Casualties of the Pacific War",
+        "Command areas of the Pacific War",
+        "Command areas of the pacific war",
+        "East Asian Theater of World War II",
+        "Great Eastern Asian War",
+        "Great Pacific War",
+        "Greater East Asia War",
+        "Greater East Asia War in the Pacific",
+        "<B>Japanese</B>-American War",
+        "<B>Japanese</B> expansion",
+        "<B>Japanese</B> expansion (1941-1942)",
+        "<B>Japanese</B> expansion (1941-42)",
+        "<B>Japanese</B> expansion (1941–1942)",
+        "<B>Japanese</B> expansion (1941–42)",
+        "Major battles of the Pacific front",
+        "Pacific Front",
+        "Pacific Islands Campaign",
+        "Pacific Theater (WWII)",
+        "Pacific Theater (World War II)",
+        "Pacific Theater of World War II",
+        "Pacific Theatre of Operations",
+        "Pacific Theatre of World War II",
+        "Pacific theater of World War II",
+        "Pacific theatre of World War II",
+        "Pacific theatre of operations",
+        "Pacific war",
+        "Pacific war theater",
+        "Russia in the Pacific in World War II",
+        "Soviet Union in the Pacific in World War II",
+        "The Pacific War",
+        "US-Japan War",
+        "US-Japan war",
+        "United States in the Pacific in World War II",
+        "WWII in the Pacific",
+        "War In The Pacific",
+        "War in the Pacific",
+        "World War II in Asia",
+        "World War II in the Pacific",
+        "Wwii pacific"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " vast Pacific Ocean theater, the South West Pacific theater, the South-East Asian theater, the Second Sino-<B>Japanese</B> War, and the Soviet–<B>Japanese</B> War."
+      ],
+      "label": [
+        "Pacific War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pacific_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Pacific_Ocean",
+        "http://dbpedia.org/resource/Category:Pacific_theatre_of_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2876.9553"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_literature"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Japanese</B> literature",
+        "Edo literary works",
+        "Edo literature",
+        "History of <B>Japanese</B> Literature",
+        "History of <B>Japanese</B> literature",
+        "<B>Japanese</B> Fiction",
+        "<B>Japanese</B> Literature",
+        "<B>Japanese</B> fiction",
+        "<B>Japanese</B> novel",
+        "<B>Japanese</B> novelist",
+        "Literature - Japan",
+        "Literature of Japan",
+        "Nihon bungaku"
+      ],
+      "comment": [
+        "Early works of <B>Japanese</B> literature were heavily influenced by cultural contact with China and"
+      ],
+      "label": [
+        "<B>Japanese</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_literature"
+      ]
+    },
+    {
+      "score": [
+        "2870.456"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_hip_hop"
+      ],
+      "redirectlabel": [
+        "J-Hip hop",
+        "J-Hiphop",
+        "J-hip hop",
+        "J-rap",
+        "<B>Japanese</B> hip-hop",
+        "<B>Japanese</B> rap",
+        "<B>Japanese</B> rap music",
+        "Nip hop"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "<B>Japanese</B> hip hop (also known as J-rap, J-hip hop, Nip-hop or J-hop) is said to have begun when"
+      ],
+      "label": [
+        "<B>Japanese</B> hip hop"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_hip_hop"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_hip_hop"
+      ]
+    },
+    {
+      "score": [
+        "2821.5015"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romanization_of_Japanese"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Romanization",
+        "<B>Japanese</B> romanisation",
+        "<B>Japanese</B> romanization",
+        "<B>Japanese</B> transliteration",
+        "Orthographic Latinisation of <B>Japanese</B>",
+        "Orthographic Latinization of <B>Japanese</B>",
+        "Romaji",
+        "Romanisation of <B>Japanese</B>",
+        "Romanised <B>Japanese</B>",
+        "Romanization of <B>japanese</B>",
+        "Romanized <B>Japanese</B>",
+        "Romanji",
+        "Romazi",
+        "Roomadi",
+        "Roomaji",
+        "Roomanji",
+        "Roomazi",
+        "Roumaji",
+        "Rômaji",
+        "Rômazi",
+        "Rõmaji",
+        "Rōma-ji",
+        "Rōmaji",
+        "Rōmanji",
+        "ローマ字"
+      ],
+      "comment": [
+        "The romanization of <B>Japanese</B> is the use of Latin script to write the <B>Japanese</B> language. This method"
+      ],
+      "label": [
+        "Romanization of <B>Japanese</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romanization_of_Japanese"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_writing_system",
+        "http://dbpedia.org/resource/Category:Phonetic_guides",
+        "http://dbpedia.org/resource/Category:Romanization",
+        "http://dbpedia.org/resource/Category:Romanization_of_Japanese"
+      ]
+    },
+    {
+      "score": [
+        "2810.0513"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Japanese_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Japanese</B>",
+        "Anti-<B>Japanese</B> sentiment in Australia",
+        "Anti-<B>Japanese</B> sentiment in Brazil",
+        "Anti-<B>Japanese</B> sentiment in France",
+        "Anti-<B>Japanese</B> sentiment in Germany",
+        "Anti-<B>Japanese</B> sentiment in Indonesia",
+        "Anti-<B>Japanese</B> sentiment in Japan",
+        "Anti-<B>Japanese</B> sentiment in Taiwan",
+        "Anti-<B>Japanese</B> sentiment in the Philippines",
+        "Anti-<B>Japanese</B> sentiments",
+        "Anti-<B>Japanism</B>",
+        "Anti-<B>japanese</B> sentiment",
+        "Antijapanism",
+        "Derogatory terms for <B>Japanese</B> people",
+        "Japan bashing",
+        "Japanophobe",
+        "Japanophobia",
+        "Nipponophobia",
+        "Pejorative terms for <B>Japanese</B> people",
+        "Racism against <B>Japanese</B>"
+      ],
+      "comment": [
+        "Anti-<B>Japanese</B> sentiment (also called Japanophobia, Nipponophobia and anti-<B>Japanism</B>) involves the"
+      ],
+      "label": [
+        "Anti-<B>Japanese</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Japanese_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment",
+        "http://dbpedia.org/resource/Category:Anti–East_Asian_sentiment",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2795.1084"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Soviet–Japanese_border_conflicts"
+      ],
+      "redirectlabel": [
+        "Soviet-<B>Japanese</B> Border Wars",
+        "Soviet-<B>Japanese</B> War of 1939",
+        "Soviet-<B>Japanese</B> border conflict",
+        "Soviet-<B>Japanese</B> border conflicts",
+        "Soviet-<B>Japanese</B> border incidents",
+        "Soviet-<B>Japanese</B> clash",
+        "Soviet–<B>Japanese</B> Border Wars"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Soviet–<B>Japanese</B> border conflicts, also known as the Soviet-<B>Japanese</B> Border War, was an"
+      ],
+      "label": [
+        "Soviet–<B>Japanese</B> border conflicts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Soviet–Japanese_border_conflicts"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930s_conflicts",
+        "http://dbpedia.org/resource/Category:1930s_in_Japan",
+        "http://dbpedia.org/resource/Category:1930s_in_Mongolia",
+        "http://dbpedia.org/resource/Category:1930s_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:20th-century_military_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Battles_involving_Mongolia",
+        "http://dbpedia.org/resource/Category:Borders_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:History_of_Manchuria",
+        "http://dbpedia.org/resource/Category:Japan–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Japan_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Mongolia",
+        "http://dbpedia.org/resource/Category:Military_of_Mongolia",
+        "http://dbpedia.org/resource/Category:Pacific_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Soviet–Japanese_border_conflicts",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Manchukuo",
+        "http://dbpedia.org/resource/Category:Wars_involving_Mongolia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "2717.257"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "label": [
+        "<B>Japanese</B> Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Championship"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Championship"
+      ],
+      "redirectlabel": [
+        "All-Japan Championship",
+        "All-Japan Championships",
+        "All-Japan National Championship",
+        "All-Japan National Championships",
+        "All-<B>Japanese</B> Championship",
+        "All-<B>Japanese</B> Championships",
+        "All-<B>Japanese</B> National Championship",
+        "All-<B>Japanese</B> National Championships",
+        "All Japan Championship",
+        "All Japan Championships",
+        "All Japan National Championship",
+        "All Japan National Championships",
+        "All <B>Japanese</B> Championship",
+        "All <B>Japanese</B> Championships",
+        "All <B>Japanese</B> National Championship",
+        "All <B>Japanese</B> National Championships",
+        "Japan Championship",
+        "Japan Championships",
+        "Japan National Championship",
+        "Japan National Championships",
+        "<B>Japanese</B> Championship (disambiguation)",
+        "<B>Japanese</B> Championships",
+        "<B>Japanese</B> National Championship",
+        "<B>Japanese</B> National Championships"
+      ]
+    },
+    {
+      "score": [
+        "2705.7925"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Soviet–Japanese_War"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B>-Soviet War",
+        "Liberation War of 1945",
+        "Soviet-<B>Japanese</B> War",
+        "Soviet-<B>Japanese</B> War (1945)",
+        "Soviet-<B>Japanese</B> War of 1945",
+        "Soviet–<B>Japanese</B> War (1945)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " <B>Japan's</B> Kwantung Army helped in the <B>Japanese</B> surrender and the termination of World War II. The Soviet"
+      ],
+      "label": [
+        "Soviet–<B>Japanese</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Soviet–Japanese_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Mongolia",
+        "http://dbpedia.org/resource/Category:1945_in_Japan",
+        "http://dbpedia.org/resource/Category:1945_in_Mongolia",
+        "http://dbpedia.org/resource/Category:August_1945_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Battles_involving_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Battles_of_World_War_II_involving_Japan",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1945",
+        "http://dbpedia.org/resource/Category:History_of_Inner_Mongolia",
+        "http://dbpedia.org/resource/Category:History_of_Manchuria",
+        "http://dbpedia.org/resource/Category:Invasions",
+        "http://dbpedia.org/resource/Category:Japan–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Mengjiang",
+        "http://dbpedia.org/resource/Category:Mongolia–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Pacific_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:September_1945_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Manchukuo",
+        "http://dbpedia.org/resource/Category:Wars_involving_Mongolia",
+        "http://dbpedia.org/resource/Category:World_War_II_operations_and_battles_of_the_Pacific_theatre"
+      ]
+    },
+    {
+      "score": [
+        "2685.6184"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_the_Dutch_East_Indies"
+      ],
+      "redirectlabel": [
+        "Dutch East Indies and Portuguese Timor",
+        "Japan-occupied Dutch East Indies",
+        "<B>Japanese</B>-occupied Dutch East Indies",
+        "<B>Japanese</B>-occupied Indonesia",
+        "<B>Japanese</B> Dutch East Indies",
+        "<B>Japanese</B> Occupation of Indonesia",
+        "<B>Japanese</B> occupation of Indonesia",
+        "<B>Japanese</B> occupation of Java",
+        "<B>Japanese</B> occupation of Portuguese Timor",
+        "<B>Japanese</B> occupation of the Dutch East Indies and Portuguese Timor",
+        "<B>Japanese</B> occupation of the Dutch East Indies and the Portuguese Timor",
+        "<B>Japanese</B> occupation of the Netherlands East Indies",
+        "<B>Japanese</B> occupation of the Portuguese Timor"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Japanese</B> Empire occupied the Dutch East Indies, now Indonesia, during World War II from March"
+      ],
+      "label": [
+        "<B>Japanese</B> occupation of the Dutch East Indies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_the_Dutch_East_Indies"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Indonesia",
+        "http://dbpedia.org/resource/Category:1940s_in_the_Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Indonesia_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Invasions_by_Japan",
+        "http://dbpedia.org/resource/Category:Invasions_of_the_Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:Japanese_military_occupations",
+        "http://dbpedia.org/resource/Category:Japanese_occupation_of_the_Dutch_East_Indies",
+        "http://dbpedia.org/resource/Category:Japan–Netherlands_military_relations",
+        "http://dbpedia.org/resource/Category:World_War_II_occupied_territories"
+      ]
+    },
+    {
+      "score": [
+        "2685.0122"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Supplementary_Japanese_Schools_in_Australia"
+      ],
+      "redirectlabel": [
+        "Brisbane <B>Japanese</B> School",
+        "Canberra <B>Japanese</B> School",
+        "Canberra <B>Japanese</B> Supplementary School",
+        "Canberra <B>Japanese</B> Supplementary School Inc.",
+        "Gold Coast <B>Japanese</B> School",
+        "JLSSQ",
+        "<B>Japanese</B> Language Supplementary School of Queensland",
+        "<B>Japanese</B> School in Brisbane",
+        "<B>Japanese</B> School in Canberra",
+        "<B>Japanese</B> School in Gold Coast",
+        "<B>Japanese</B> School in Queensland",
+        "<B>Japanese</B> School of Brisbane",
+        "<B>Japanese</B> School of Canberra",
+        "<B>Japanese</B> School of Gold Coast",
+        "<B>Japanese</B> School of Queensland",
+        "<B>Japanese</B> Supplementary School of Queensland",
+        "MISJ",
+        "Melbourne International School of <B>Japanese</B>,INC.",
+        "Melbourne International School of <B>Japanese</B>, Inc.",
+        "Melbourne International School of <B>Japanese</B>, Inc",
+        "Melbourne International School of <B>Japanese</B>",
+        "Melbourne International School of <B>Japanese</B> Inc.",
+        "Queensland <B>Japanese</B> School",
+        "The <B>Japanese</B> Language Supplementary School of Queensland",
+        "The <B>Japanese</B> Supplementary School of Queensland",
+        "The Melbourne International School of <B>Japanese</B>,INC.",
+        "The Melbourne International School of <B>Japanese</B>, Inc.",
+        "The Melbourne International School of <B>Japanese</B>, Inc",
+        "The Melbourne International School of <B>Japanese</B>",
+        "The Menbourne International School of <B>Japanese</B>, Inc"
+      ],
+      "label": [
+        "Supplementary <B>Japanese</B> Schools in Australia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Supplementary_Japanese_Schools_in_Australia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Education_in_Brisbane",
+        "http://dbpedia.org/resource/Category:Education_in_Canberra",
+        "http://dbpedia.org/resource/Category:Education_in_Melbourne",
+        "http://dbpedia.org/resource/Category:Education_in_Queensland",
+        "http://dbpedia.org/resource/Category:Japanese-Australian_culture"
+      ]
+    },
+    {
+      "score": [
+        "2636.184"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_Malaya"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B>-occupied Malaya",
+        "<B>Japanese</B> Malaya",
+        "<B>Japanese</B> Occupation of Malaya, North Borneo and Sarawak",
+        "<B>Japanese</B> Occupation of Malaya, Sabah and Sarawak",
+        "<B>Japanese</B> occupation of Malaya, North Borneo, and Sarawak",
+        "<B>Japanese</B> occupation of Malaya, North Borneo and Sarawak",
+        "<B>Japanese</B> occupation of Malaysia"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Malaya was gradually occupied by the <B>Japanese</B> between 8 December 1941 and the Allied surrender at"
+      ],
+      "label": [
+        "<B>Japanese</B> occupation of Malaya"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_Malaya"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:1941_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:1946_disestablishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:British_Malaya",
+        "http://dbpedia.org/resource/Category:British_Malaya_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Federated_Malay_States",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:Japanese_military_occupations",
+        "http://dbpedia.org/resource/Category:Japan–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Japan_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Malaya_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_British_Empire_and_Commonwealth_in_World_War_II",
+        "http://dbpedia.org/resource/Category:South-East_Asian_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:South_West_Pacific_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:World_War_II_occupied_territories"
+      ]
+    },
+    {
+      "score": [
+        "2617.1824"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Movie_Critics_Awards"
+      ],
+      "redirectlabel": [
+        "Japan Film Critics' Award",
+        "Japan Film Critics' Awards",
+        "Japan Film Critics Award",
+        "Japan Film Critics Awards",
+        "Japan Movie Critics' Award",
+        "Japan Movie Critics' Awards",
+        "Japan Movie Critics Award",
+        "Japan Movie Critics Awards",
+        "<B>Japanese</B> Film Critics' Award",
+        "<B>Japanese</B> Film Critics' Awards",
+        "<B>Japanese</B> Film Critics Award",
+        "<B>Japanese</B> Film Critics Awards",
+        "<B>Japanese</B> Movie Critics' Award",
+        "<B>Japanese</B> Movie Critics' Awards",
+        "<B>Japanese</B> Movie Critics Award",
+        "Nihon Eiga Hihyouka Taishou",
+        "Nihon Eiga Hihyōka Taishō",
+        "The Japan Film Critics' Award",
+        "The Japan Film Critics' Awards",
+        "The Japan Film Critics Award",
+        "The Japan Film Critics Awards",
+        "The Japan Movie Critics' Award",
+        "The Japan Movie Critics' Awards",
+        "The Japan Movie Critics Award",
+        "The Japan Movie Critics Awards",
+        "The <B>Japanese</B> Film Critics' Award",
+        "The <B>Japanese</B> Film Critics' Awards",
+        "The <B>Japanese</B> Film Critics Award",
+        "The <B>Japanese</B> MovieFilm Critics Awards",
+        "The <B>Japanese</B> Movie Critics' Award",
+        "The <B>Japanese</B> Movie Critics' Awards",
+        "The <B>Japanese</B> Movie Critics Award",
+        "The <B>Japanese</B> Movie Critics Awards",
+        "日本映画批評家大賞"
+      ],
+      "comment": [
+        "The <B>Japanese</B> Movie Critics Awards (日本映画批評家大賞, Nihon Eiga Hihyōka Taishō) are presented annually"
+      ],
+      "label": [
+        "<B>Japanese</B> Movie Critics Awards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Movie_Critics_Awards"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Annual_events_in_Japan",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1991",
+        "http://dbpedia.org/resource/Category:Japanese_film_awards",
+        "http://dbpedia.org/resource/Category:Recurring_events_established_in_1991"
+      ]
+    },
+    {
+      "score": [
+        "2609.653"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Brazilians"
+      ],
+      "redirectlabel": [
+        "Forced assimilation of <B>Japanese</B> Brazilians",
+        "History of the <B>Japanese</B> in Brazil",
+        "<B>Japanese</B>-Brazilian",
+        "<B>Japanese</B>-Brazilians",
+        "<B>Japanese</B> Brazil",
+        "<B>Japanese</B> Brazilian",
+        "<B>Japanese</B> in Brazil",
+        "<B>Japanese</B> migration to Brazil",
+        "<B>Japanese</B> people in Brazil",
+        "日系ブラジル人"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Japanese</B> Brazilians (<B>Japanese</B>: 日系ブラジル人, Hepburn: Nikkei Burajiru-jin, Portuguese: Nipo-brasileiros"
+      ],
+      "label": [
+        "<B>Japanese</B> Brazilians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Japanese_descent",
+        "http://dbpedia.org/resource/Category:Brazil–Japan_relations",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:Japanese_Brazilian",
+        "http://dbpedia.org/resource/Category:Japanese_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2575.1543"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_nationality_law"
+      ],
+      "redirectlabel": [
+        "Citizenship in Japan",
+        "Citizenship of Japan",
+        "Dual-citizenship in Japan",
+        "Dual-citizenship in japan",
+        "Dual citizenship in Japan",
+        "Dual citizenship in japan",
+        "History of <B>Japanese</B> nationality law",
+        "Japan citizenship",
+        "Japan nationality law",
+        "<B>Japanese</B> Naturalization",
+        "<B>Japanese</B> citizen",
+        "<B>Japanese</B> citizens",
+        "<B>Japanese</B> citizenship",
+        "<B>Japanese</B> nationality",
+        "<B>Japanese</B> naturalization",
+        "Nationality law of Japan"
+      ],
+      "comment": [
+        "<B>Japanese</B> nationality is a legal designation and set of rights granted to those people who have met"
+      ],
+      "label": [
+        "<B>Japanese</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "2570.8286"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_New_Year"
+      ],
+      "redirectlabel": [
+        "Ganjitsu",
+        "Gantan",
+        "<B>Japanese</B> New Years",
+        "<B>Japanese</B> Postcard",
+        "<B>Japanese</B> new year",
+        "<B>Japnese</B> New Years",
+        "Koshogatsu",
+        "Koshōgatsu",
+        "Nengajo",
+        "Nengajō",
+        "New Year (Japan)",
+        "New Year in Japan",
+        "Oshogatsu",
+        "Otoshidama",
+        "Shogatsu",
+        "Shōgatsu"
+      ],
+      "typeName": [
+        "Holiday",
+        "TimeInterval"
+      ],
+      "comment": [
+        "The <B>Japanese</B> New Year (正月, Shōgatsu) is an annual festival with its own customs. Since 1873, the"
+      ],
+      "label": [
+        "<B>Japanese</B> New Year"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_New_Year"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Holiday",
+        "http://dbpedia.org/ontology/TimeInterval"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Buddhist_holidays",
+        "http://dbpedia.org/resource/Category:January_observances",
+        "http://dbpedia.org/resource/Category:New_Year_celebrations",
+        "http://dbpedia.org/resource/Category:New_Year_in_Japan",
+        "http://dbpedia.org/resource/Category:Postcards",
+        "http://dbpedia.org/resource/Category:Public_holidays_in_Japan",
+        "http://dbpedia.org/resource/Category:Winter_festivals_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2559.0215"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> (disambiguation)",
+        "<B>Japanesse</B>",
+        "<B>Japnese</B>",
+        "Jpanese"
+      ],
+      "label": [
+        "<B>Japanese</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "2537.1086"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Perfume_(Japanese_band)"
+      ],
+      "redirectlabel": [
+        "Fan Service: Prima Box",
+        "Fan Service -Prima Box-",
+        "Kareshi Boshuchu",
+        "Kareshi Boshūchū",
+        "Perfume (<B>Japanese</B> group)",
+        "Polyrhythm (ポリリズム)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Perfume (パフューム, Pafyūmu) is a <B>Japanese</B> pop girl group from Hiroshima Prefecture, Japan, consisting"
+      ],
+      "label": [
+        "Perfume (<B>Japanese</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Perfume_(Japanese_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Amuse_Inc._artists",
+        "http://dbpedia.org/resource/Category:Japanese_electronic_music_groups",
+        "http://dbpedia.org/resource/Category:Japanese_electropop_groups",
+        "http://dbpedia.org/resource/Category:Japanese_girl_groups",
+        "http://dbpedia.org/resource/Category:Japanese_house_music_groups",
+        "http://dbpedia.org/resource/Category:Japanese_idol_groups",
+        "http://dbpedia.org/resource/Category:Japanese_musical_trios",
+        "http://dbpedia.org/resource/Category:Japanese_pop_music_groups",
+        "http://dbpedia.org/resource/Category:Japanese_women_in_electronic_music",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_2001",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Hiroshima_Prefecture",
+        "http://dbpedia.org/resource/Category:Perfume_(Japanese_band)",
+        "http://dbpedia.org/resource/Category:Tokuma_Japan_Communications_artists",
+        "http://dbpedia.org/resource/Category:Universal_Music_Japan_artists",
+        "http://dbpedia.org/resource/Category:Vocal_trios",
+        "http://dbpedia.org/resource/Category:Wrasse_Records_artists",
+        "http://dbpedia.org/resource/Category:Yasutaka_Nakata"
+      ]
+    },
+    {
+      "score": [
+        "2515.5647"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Formula_3_Championship"
+      ],
+      "redirectlabel": [
+        "All-Japan F3 Championship",
+        "All-Japan Formula 3",
+        "All-Japan Formula 3 Championship",
+        "All-Japan Formula Three",
+        "All-Japan Formula Three Championship",
+        "<B>Japanese</B> F3",
+        "<B>Japanese</B> Formula Three",
+        "<B>Japanese</B> Formula Three Championship",
+        "<B>Japanese</B> f3"
+      ],
+      "comment": [
+        "<B>Japanese</B> Formula 3 Championship (全日本F3選手権, Zen'nihon F3 Senshuken), also known as <B>Japanese</B> Formula"
+      ],
+      "label": [
+        "<B>Japanese</B> Formula 3 Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Formula_3_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:2019_disestablishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Auto_racing_series_in_Japan",
+        "http://dbpedia.org/resource/Category:Formula_Three_series",
+        "http://dbpedia.org/resource/Category:Japanese_Formula_3_Championship",
+        "http://dbpedia.org/resource/Category:National_championships_in_Japan",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_disestablished_in_2019",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1979"
+      ]
+    },
+    {
+      "score": [
+        "2509.5066"
+      ],
+      "refCount": [
+        "106"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japan_Air_Self-Defense_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of Japan",
+        "Air Self-Defense Force",
+        "Airforce of Japan",
+        "JASDF",
+        "Japan Air Defense Force",
+        "Japan Air Force",
+        "Japan Air Self-Defence Force",
+        "Japan Air Self-Defence Forces",
+        "Japan Air Self Defence Force",
+        "Japan Air Self Defense Force",
+        "Japan airforce",
+        "<B>Japanese</B> Air Defense Force",
+        "<B>Japanese</B> Air Force",
+        "<B>Japanese</B> Air Self-Defense Force",
+        "<B>Japanese</B> Air Self Defence Force",
+        "<B>Japanese</B> Air Self Defense Force",
+        "<B>Japanese</B> Airforce",
+        "<B>Japanese</B> airforce"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Japan Air Self-Defense Force (航空自衛隊, Kōkū Jieitai), JASDF, also referred to as the <B>Japanese</B> Air"
+      ],
+      "label": [
+        "Japan Air Self-Defense Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japan_Air_Self-Defense_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Japan_Air_Self-Defense_Force"
+      ]
+    },
+    {
+      "score": [
+        "2448.1272"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadians of <B>Japanese</B> Origin",
+        "Canadians of <B>Japanese</B> ancestry",
+        "History of <B>Japanese</B> Canadians",
+        "History of <B>Japanese</B> immigration to Canada",
+        "History of the <B>Japanese</B> in Canada",
+        "<B>Japanese</B>-Canadian",
+        "<B>Japanese</B>-Canadians",
+        "<B>Japanese</B> Canadian",
+        "List of <B>Japanese</B> Canadians",
+        "Nikkei Kanadajin"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Japanese</B> Canadians (日系カナダ人, Nikkei Kanadajin, French: Canadiens japonais) are Canadian citizens of"
+      ],
+      "label": [
+        "<B>Japanese</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canada–Japan_relations",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Japanese_descent",
+        "http://dbpedia.org/resource/Category:East_Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Japanese_Canadian"
+      ]
+    },
+    {
+      "score": [
+        "2412.912"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_art"
+      ],
+      "redirectlabel": [
+        "Art and architecture of Japan",
+        "Art of Japan",
+        "Asuka art",
+        "Contemporary <B>Japanese</B> art",
+        "Heian art",
+        "History of <B>Japanese</B> art",
+        "History of art in Japan",
+        "<B>Japanese</B> Art",
+        "<B>Japanese</B> Art and Architecture",
+        "<B>Japanese</B> art and architecture",
+        "<B>Japanese</B> art history",
+        "Jōmon art",
+        "Kamakura art",
+        "Kofun art",
+        "Muromachi art",
+        "Performing arts of Japan",
+        "Visual art of Japan",
+        "Yayoi art"
+      ],
+      "comment": [
+        "<B>Japanese</B> art covers a wide range of art styles and media, including ancient pottery, sculpture, ink"
+      ],
+      "label": [
+        "<B>Japanese</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Japanese_art"
+      ]
+    },
+    {
+      "score": [
+        "2403.6365"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japonic_languages"
+      ],
+      "redirectlabel": [
+        "ISO 639:jpx",
+        "<B>Japanese</B>-Ryukyuan language",
+        "<B>Japanese</B>-Ryukyuan languages",
+        "<B>Japanese</B> (family)",
+        "<B>Japanese</B> languages",
+        "<B>Japanese</B>–Ryukyuan language",
+        "<B>Japanese</B>–Ryukyuan languages",
+        "Japonic",
+        "Japonic Languages",
+        "Japonic language",
+        "Japonic language family"
+      ],
+      "comment": [
+        "The Japonic or <B>Japanese</B>–Ryukyuan language family includes the <B>Japanese</B> language, spoken in the main"
+      ],
+      "label": [
+        "Japonic languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japonic_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japonic_languages",
+        "http://dbpedia.org/resource/Category:Language_families"
+      ]
+    },
+    {
+      "score": [
+        "2393.9888"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_Hong_Kong"
+      ],
+      "redirectlabel": [
+        "Hong Kong during the <B>Japanese</B> occupation",
+        "Hong Kong under <B>Japanese</B> rule",
+        "<B>Japanese's</B> invasion",
+        "<B>Japanese</B>-occupied Hong Kong",
+        "<B>Japanese</B> Hong Kong",
+        "<B>Japanese</B> Military Government of Hong Kong",
+        "<B>Japanese</B> Occupation of Hong Kong",
+        "Three Years and Eight Months",
+        "Three years and eight months"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Imperial <B>Japanese</B> occupation of Hong Kong (香港日據時期) began when the Governor of Hong Kong, Sir"
+      ],
+      "label": [
+        "<B>Japanese</B> occupation of Hong Kong"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_Hong_Kong"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Hong_Kong",
+        "http://dbpedia.org/resource/Category:1941_establishments_in_Hong_Kong",
+        "http://dbpedia.org/resource/Category:1941_establishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_the_Japanese_colonial_empire",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Former_Japanese_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:History_of_Hong_Kong",
+        "http://dbpedia.org/resource/Category:Hong_Kong_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Japanese_occupation_of_Hong_Kong",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_British_Empire_and_Commonwealth_in_World_War_II",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1941"
+      ]
+    },
+    {
+      "score": [
+        "2391.308"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_dialects"
+      ],
+      "redirectlabel": [
+        "Dialects of Japan",
+        "Dialects of <B>Japanese</B>",
+        "Dialects of <B>Japanese</B> language",
+        "Dialects of the <B>Japanese</B> language",
+        "Eastern <B>Japanese</B>",
+        "Hyojungo",
+        "<B>Japanese</B> dialect",
+        "Kyushu <B>Japanese</B>",
+        "Kyushu dialect",
+        "Kyūshū <B>Japanese</B>",
+        "Kyūshū dialect",
+        "Mutual intelligibility of <B>Japanese</B> dialects",
+        "Ryukyuan <B>Japanese</B>",
+        "Western <B>Japanese</B>"
+      ],
+      "comment": [
+        "The dialects of the <B>Japanese</B> language fall into two primary clades, Eastern (including Tokyo) and"
+      ],
+      "label": [
+        "<B>Japanese</B> dialects"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_dialects"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_dialects"
+      ]
+    },
+    {
+      "score": [
+        "2379.6528"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_writing_system"
+      ],
+      "redirectlabel": [
+        "History of the <B>Japanese</B> writing system",
+        "ISO 15924:Jpan",
+        "<B>Japanese</B> Orthography",
+        "<B>Japanese</B> character",
+        "<B>Japanese</B> characters",
+        "<B>Japanese</B> letter",
+        "<B>Japanese</B> letters",
+        "<B>Japanese</B> mixed script",
+        "<B>Japanese</B> orthography",
+        "<B>Japanese</B> script",
+        "<B>Japanese</B> writing",
+        "<B>Japanese</B> writing systems",
+        "<B>Japenese</B> alphabet",
+        "Written <B>Japanese</B>"
+      ],
+      "comment": [
+        "The modern <B>Japanese</B> writing system uses a combination of logographic kanji, which were adopted from"
+      ],
+      "label": [
+        "<B>Japanese</B> writing system"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_writing_system"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_writing_system",
+        "http://dbpedia.org/resource/Category:Writing_systems_without_word_boundaries"
+      ]
+    },
+    {
+      "score": [
+        "2372.8625"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_the_Philippines"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B>-occupied Philippines",
+        "<B>Japanese</B> Occupation of the Philippines",
+        "<B>Japanese</B> occupation period of the Philippines"
+      ],
+      "comment": [
+        "The <B>Japanese</B> occupation of the Philippines (Filipino: Pananakop ng mga Hapones sa Pilipinas"
+      ],
+      "label": [
+        "<B>Japanese</B> occupation of the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_occupation_of_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Former_Japanese_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:History_of_the_Philippines_(1898–1946)",
+        "http://dbpedia.org/resource/Category:Japanese_military_occupations",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Philippines_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Philippines_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2370.9724"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_School_in_London"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Saturday School in London",
+        "<B>Japanese</B> Saturday School of London",
+        "<B>Japanese</B> School, London",
+        "<B>Japanese</B> School Limited",
+        "<B>Japanese</B> School London",
+        "<B>Japanese</B> School Ltd.",
+        "<B>Japanese</B> School in Acton",
+        "<B>Japanese</B> School of London",
+        "London <B>Japanese</B> Saturday School",
+        "London <B>Japanese</B> School",
+        "London Nihonjin Gakko",
+        "The <B>Japanese</B> Saturday School in London",
+        "The <B>Japanese</B> Saturday School of London",
+        "The <B>Japanese</B> School, London",
+        "The <B>Japanese</B> School Limited",
+        "The <B>Japanese</B> School London",
+        "The <B>Japanese</B> School Ltd.",
+        "The <B>Japanese</B> School in London",
+        "The <B>Japanese</B> School of London"
+      ],
+      "typeName": [
+        "Organisation",
+        "School",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Japanese</B> School in London (ロンドン日本人学校, Rondon Nihonjin Gakkō) is a <B>Japanese</B> international school"
+      ],
+      "label": [
+        "<B>Japanese</B> School in London"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_School_in_London"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/School",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1965_establishments_in_England",
+        "http://dbpedia.org/resource/Category:Acton,_London",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1965",
+        "http://dbpedia.org/resource/Category:Independent_co-educational_schools_in_London",
+        "http://dbpedia.org/resource/Category:Independent_schools_in_the_London_Borough_of_Ealing",
+        "http://dbpedia.org/resource/Category:International_schools_in_London",
+        "http://dbpedia.org/resource/Category:Japanese_international_schools_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Nihonjin_gakkō_in_Europe",
+        "http://dbpedia.org/resource/Category:Supplementary_Japanese_schools"
+      ]
+    },
+    {
+      "score": [
+        "2315.2312"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_poetry"
+      ],
+      "redirectlabel": [
+        "Classical <B>Japanese</B> poetry",
+        "Imayō",
+        "<B>Japanese</B> Poetry",
+        "<B>Japanese</B> poems",
+        "<B>Japanese</B> poet",
+        "Modern <B>Japanese</B> poetry"
+      ],
+      "comment": [
+        "<B>Japanese</B> poetry is poetry of typical of Japan, or written, spoken, or chanted in the <B>Japanese</B>"
+      ],
+      "label": [
+        "<B>Japanese</B> poetry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_poetry"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_poetry",
+        "http://dbpedia.org/resource/Category:Poetry_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2313.3735"
+      ],
+      "refCount": [
+        "72"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Japan"
+      ],
+      "redirectlabel": [
+        "Cinema, Contemporary - Japan",
+        "Cinema - Japan",
+        "Cinema of japan",
+        "Eiga",
+        "Film history/Japan",
+        "Film history of Japan",
+        "Film in Japan",
+        "Films produced in Japan",
+        "Films released in Japan",
+        "History of <B>Japanese</B> cinema",
+        "<B>Japanese</B> cinema",
+        "<B>Japanese</B> film",
+        "<B>Japanese</B> film industry",
+        "<B>Japanese</B> films",
+        "<B>Japanese</B> movie",
+        "<B>Japanese</B> movies"
+      ],
+      "comment": [
+        "The cinema of Japan (日本映画, Nihon eiga, also known domestically as 邦画 hōga, \"domestic cinema\") has a history that spans more than 100 years. Japan has one of the oldest and largest film industries in the world; as of 2010, it was the fourth largest by number of feature films produced. In 2011 Japan produced 411 feature films that earned 54.9% of a box office total of US$2.338 billion. Films have been produced in Japan since 1897, when the first foreign cameramen arrived."
+      ],
+      "label": [
+        "Cinema of Japan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Japan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2268.2417"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "label": [
+        "Filipino <B>Japanese</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Japanese"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Japanese"
+      ],
+      "redirectlabel": [
+        "Filipina-<B>Japanese</B>",
+        "Filipina <B>Japanese</B>",
+        "Filipino-<B>Japanese</B>",
+        "Filipino <B>Japanese</B> (disambiguation)",
+        "<B>Japanese</B>-Filipina",
+        "<B>Japanese</B>-Filipinas",
+        "<B>Japanese</B>-Filipino",
+        "<B>Japanese</B>-Filipinos",
+        "<B>Japanese</B> Filipina",
+        "<B>Japanese</B> Filipinas",
+        "<B>Japanese</B> Filipino",
+        "<B>Japanese</B> Filipinos"
+      ]
+    },
+    {
+      "score": [
+        "2257.6807"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_history_textbook_controversies"
+      ],
+      "redirectlabel": [
+        "Anti-Japan government textbook demonstrations in China",
+        "Anti-<B>Japanese</B> demonstrations in China, Spring 2005",
+        "Anti-<B>Japanese</B> textbook demonstrations in China",
+        "Anti-<B>Japanese</B> textbook demonstrations in China 2005",
+        "Chinese criticisms of <B>Japanese</B> textbook revisionism 2005",
+        "<B>Japanese</B> history textbook controversy",
+        "<B>Japanese</B> history textbooks content controversy",
+        "<B>Japanese</B> history textbooks controversies",
+        "<B>Japanese</B> history textbooks controversy",
+        "<B>Japanese</B> history textbooks controversy and protests",
+        "<B>Japanese</B> textbook",
+        "<B>Japanese</B> textbook controversies",
+        "<B>Japanese</B> textbook controversy",
+        "<B>Japanese</B> textbooks controversy",
+        "<B>Japanese</B> textbooks controversy and protests",
+        "New History Textbook",
+        "Spring 2005 <B>Japanese</B> textbook revisionism demonstrations in China",
+        "Spring 2005 anti <B>Japanese</B> government demonstrations in China"
+      ],
+      "comment": [
+        "<B>Japanese</B> history textbook controversies involve controversial content in one of the government"
+      ],
+      "label": [
+        "<B>Japanese</B> history textbook controversies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_history_textbook_controversies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_China",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_Korea",
+        "http://dbpedia.org/resource/Category:Book_censorship",
+        "http://dbpedia.org/resource/Category:Censorship_in_Japan",
+        "http://dbpedia.org/resource/Category:China–Japan_relations",
+        "http://dbpedia.org/resource/Category:Controversies_in_Japan",
+        "http://dbpedia.org/resource/Category:Education_controversies_in_Japan",
+        "http://dbpedia.org/resource/Category:Historical_negationism",
+        "http://dbpedia.org/resource/Category:Historiography_of_Japan",
+        "http://dbpedia.org/resource/Category:History_of_the_People's_Republic_of_China",
+        "http://dbpedia.org/resource/Category:Japanese_nationalism",
+        "http://dbpedia.org/resource/Category:Japan–Korea_relations",
+        "http://dbpedia.org/resource/Category:Postwar_Japan",
+        "http://dbpedia.org/resource/Category:Textbook_controversies"
+      ]
+    },
+    {
+      "score": [
+        "2257.1443"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_archipelago"
+      ],
+      "redirectlabel": [
+        "Archipelago of Japan",
+        "<B>Japanese</B> Archipelago",
+        "<B>Japanese</B> Home Islands",
+        "<B>Japanese</B> Islands",
+        "<B>Japanese</B> home islands",
+        "<B>Japanese</B> islands"
+      ],
+      "typeName": [
+        "Place",
+        "Island",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Japanese</B> archipelago (日本列島, Nihon Rettō) is a group of 6,852 islands that form the country of"
+      ],
+      "label": [
+        "<B>Japanese</B> archipelago"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_archipelago"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Island",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Archipelagoes_of_Japan",
+        "http://dbpedia.org/resource/Category:Archipelagoes_of_the_Pacific_Ocean",
+        "http://dbpedia.org/resource/Category:Geography_of_Japan",
+        "http://dbpedia.org/resource/Category:Japanese_archipelago"
+      ]
+    },
+    {
+      "score": [
+        "2241.8262"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_philosophy"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Philosophy",
+        "<B>Japanese</B> philosopher",
+        "Philosophy of Japan"
+      ],
+      "comment": [
+        "<B>Japanese</B> philosophy has historically been a fusion of both indigenous Shinto and continental"
+      ],
+      "label": [
+        "<B>Japanese</B> philosophy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_philosophy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cultural_history_of_Japan",
+        "http://dbpedia.org/resource/Category:Japanese_literature",
+        "http://dbpedia.org/resource/Category:Japanese_philosophy",
+        "http://dbpedia.org/resource/Category:Philosophy_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "2240.8806"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_macaque"
+      ],
+      "redirectlabel": [
+        "Frozen monkey",
+        "<B>Japanese</B> Macaque",
+        "<B>Japanese</B> Macaques",
+        "<B>Japanese</B> macaques",
+        "<B>Japanese</B> monkey",
+        "<B>Japanese</B> monkeys",
+        "<B>Japanese</B> snow monkey",
+        "Macaca fuscata",
+        "Nihonzaru",
+        "Sexual behavior of <B>Japanese</B> macaques",
+        "Snow Monkey",
+        "Snow macaque",
+        "Snow monkey",
+        "Snow monkeys"
+      ],
+      "comment": [
+        "The <B>Japanese</B> macaque (; Macaca fuscata), also known as the snow monkey, is a terrestrial Old World"
+      ],
+      "label": [
+        "<B>Japanese</B> macaque"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_macaque"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Endemic_mammals_of_Japan",
+        "http://dbpedia.org/resource/Category:Macaca",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1875",
+        "http://dbpedia.org/resource/Category:Primates_of_East_Asia",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Edward_Blyth",
+        "http://dbpedia.org/resource/Category:Tool-using_mammals"
+      ]
+    },
+    {
+      "score": [
+        "2197.6155"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Peruvians"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Peruvian",
+        "<B>Japanese</B> Peruvian cuisine",
+        "<B>Japanese</B> in Peru",
+        "<B>Japanese</B> migration to Peru",
+        "Japonés Peruano",
+        "List of <B>Japanese</B> Peruvians",
+        "Nikkei Peruujin",
+        "Nipo-peruano",
+        "日系ペルー人"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Japanese</B> Peruvians (Spanish: peruano-japonés or nipo-peruano; <B>Japanese</B>: 日系ペルー人, Nikkei Perūjin) are"
+      ],
+      "label": [
+        "<B>Japanese</B> Peruvians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Peruvians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Peruvian",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Peru",
+        "http://dbpedia.org/resource/Category:Japanese_Latin_American",
+        "http://dbpedia.org/resource/Category:Japanese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Peruvian_people_of_Japanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "2183.8389"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_studies"
+      ],
+      "redirectlabel": [
+        "Japan studies",
+        "<B>Japanese</B> Studies",
+        "<B>Japanese</B> studies outside the United States",
+        "Japanologist",
+        "Japanologists",
+        "Japanology",
+        "Japonic studies",
+        "Japonology"
+      ],
+      "comment": [
+        "<B>Japanese</B> studies or Japan studies (sometimes Japanology in Europe), is a sub-field of area studies"
+      ],
+      "label": [
+        "<B>Japanese</B> studies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_studies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_studies"
+      ]
+    },
+    {
+      "score": [
+        "2181.4248"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Last_batch_of_Imperial_Japanese_Army_Divisions"
+      ],
+      "redirectlabel": [
+        "221st Division (Imperial <B>Japanese</B> Army)",
+        "222nd Division (Imperial <B>Japanese</B> Army)",
+        "224th Division (Imperial <B>Japanese</B> Army)",
+        "225th Division (Imperial <B>Japanese</B> Army)",
+        "229th Division (Imperial <B>Japanese</B> Army)",
+        "230th Division (Imperial <B>Japanese</B> Army)",
+        "231st Division (Imperial <B>Japanese</B> Army)",
+        "234th Division (Imperial <B>Japanese</B> Army)",
+        "303rd Division (Imperial <B>Japanese</B> Army)",
+        "308th Division (Imperial <B>Japanese</B> Army)",
+        "312th Division (Imperial <B>Japanese</B> Army)",
+        "316th Division (Imperial <B>Japanese</B> Army)",
+        "320th Division (Imperial <B>Japanese</B> Army)",
+        "321st Division (Imperial <B>Japanese</B> Army)",
+        "322nd Division (Imperial <B>Japanese</B> Army)",
+        "344th Division (Imperial <B>Japanese</B> Army)",
+        "351st Division (Imperial <B>Japanese</B> Army)",
+        "354th Division (Imperial <B>Japanese</B> Army)",
+        "355th Division (Imperial <B>Japanese</B> Army)",
+        "IJA 225th Division",
+        "IJA 230th Division",
+        "IJA 231st Division",
+        "IJA 320th Division"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The 320th division has completed organization 25 July 1945 in Daegu, performing a police duties from Daegu to Seoul. After the start of the Soviet invasion of Manchuria 9 August 1945, the 320th division was ordered to move north to Wonsan, but did not complete the move due to the surrender of Japan 15 August 1945."
+      ],
+      "label": [
+        "Last batch of Imperial <B>Japanese</B> Army Divisions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Last_batch_of_Imperial_Japanese_Army_Divisions"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Japan",
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Infantry_divisions_of_Japan",
+        "http://dbpedia.org/resource/Category:Japan_in_World_War_II-related_lists",
+        "http://dbpedia.org/resource/Category:Japanese_military-related_lists",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "2177.5593"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_sword"
+      ],
+      "redirectlabel": [
+        "Buke-zukuri mounting",
+        "Chisa katana",
+        "Daito (long sword)",
+        "Daito (weapon)",
+        "Daitō (long sword)",
+        "History of <B>Japanese</B> Swords",
+        "<B>Japanese</B> Sword",
+        "<B>Japanese</B> Swords",
+        "<B>Japanese</B> swords",
+        "List of <B>Japanese</B> swords",
+        "Nihonto",
+        "Nihontō",
+        "Samurai blade",
+        "Shoto (sword)"
+      ],
+      "comment": [
+        "A <B>Japanese</B> sword (日本刀, nihontō; also known as “刀”Katanā) is one of several types of traditionally"
+      ],
+      "label": [
+        "<B>Japanese</B> sword"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_sword"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_swords",
+        "http://dbpedia.org/resource/Category:Samurai_weapons_and_equipment"
+      ]
+    },
+    {
+      "score": [
+        "2096.6045"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_new_religions"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> New Religions",
+        "<B>Japanese</B> new religion",
+        "New <B>Japanese</B> Religions",
+        "New Religions of Japan",
+        "New religions of Japan",
+        "New religions of japan",
+        "New religious movements in Japan",
+        "Religions, New - Japan",
+        "Shinkō shūkyō",
+        "Shinshukyo",
+        "Shinshūkyō",
+        "Statistics for major new religions in Japan"
+      ],
+      "comment": [
+        "<B>Japanese</B> new religions are new religious movements established in Japan. In <B>Japanese</B>, they are"
+      ],
+      "label": [
+        "<B>Japanese</B> new religions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_new_religions"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:East_Asian_religions",
+        "http://dbpedia.org/resource/Category:Japanese_folk_religion",
+        "http://dbpedia.org/resource/Category:Japanese_new_religions",
+        "http://dbpedia.org/resource/Category:Japanese_secret_societies",
+        "http://dbpedia.org/resource/Category:Religion_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2094.7"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Traditional_Japanese_musical_instruments"
+      ],
+      "redirectlabel": [
+        "Ikko (drum)",
+        "Instruments of Japan",
+        "<B>Japanese</B> instruments",
+        "<B>Japanese</B> musical instrument",
+        "<B>Japanese</B> musical instruments",
+        "<B>Japanese</B> traditional instrument",
+        "<B>Japanese</B> traditional musical instrument",
+        "<B>Japanese</B> traditional musical instruments",
+        "Kokiriki",
+        "List of traditional <B>Japanese</B> musical instruments",
+        "Musical instruments of Japan",
+        "San-no-tsuzumi",
+        "Sasara",
+        "Sekkin",
+        "Traditional <B>Japanese</B> instruments",
+        "Traditional <B>Japanese</B> musical instrument"
+      ],
+      "comment": [
+        "Traditional <B>Japanese</B> musical instruments are musical instruments used in the traditional and folk"
+      ],
+      "label": [
+        "Traditional <B>Japanese</B> musical instruments"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Traditional_Japanese_musical_instruments"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_music-related_lists",
+        "http://dbpedia.org/resource/Category:Japanese_musical_instruments",
+        "http://dbpedia.org/resource/Category:Japanese_traditional_music",
+        "http://dbpedia.org/resource/Category:Lists_of_musical_instruments"
+      ]
+    },
+    {
+      "score": [
+        "2088.2883"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_name"
+      ],
+      "redirectlabel": [
+        "Historical <B>Japanese</B> name",
+        "Imina",
+        "<B>Japanese</B> family name",
+        "<B>Japanese</B> given name",
+        "<B>Japanese</B> names",
+        "Jinmei",
+        "Namae",
+        "Nihonjin no Shimei"
+      ],
+      "comment": [
+        "<B>Japanese</B> names (日本人の氏名, Nihonjin no Shimei) in modern times usually consist of a family name"
+      ],
+      "label": [
+        "<B>Japanese</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_names",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "2068.9783"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_encephalitis"
+      ],
+      "redirectlabel": [
+        "Encephalitis, <B>Japanese</B>",
+        "Encephalitis, <B>japanese</B>",
+        "Encephalitis virus, <B>japanese</B>",
+        "Encephalitis viruses, <B>japanese</B>",
+        "JBE virus",
+        "JEV",
+        "<B>Japanese</B> B encephalitis",
+        "<B>Japanese</B> Encephalitis",
+        "<B>Japanese</B> encephalitis virus",
+        "日本脳炎"
+      ],
+      "typeName": [
+        "Disease"
+      ],
+      "comment": [
+        "<B>Japanese</B> encephalitis (JE) is an infection of the brain caused by the <B>Japanese</B> encephalitis virus"
+      ],
+      "label": [
+        "<B>Japanese</B> encephalitis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_encephalitis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Disease"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Swine_diseases",
+        "http://dbpedia.org/resource/Category:Tropical_diseases",
+        "http://dbpedia.org/resource/Category:Vaccine-preventable_diseases",
+        "http://dbpedia.org/resource/Category:Viral_encephalitis",
+        "http://dbpedia.org/resource/Category:Wikipedia_medicine_articles_ready_to_translate"
+      ]
+    },
+    {
+      "score": [
+        "2068.759"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_bondage"
+      ],
+      "redirectlabel": [
+        "Asanawa",
+        "Boxtie",
+        "<B>Japanese</B> Bondage",
+        "<B>Japanese</B> rope bondage",
+        "Kinbaku-bi",
+        "Kinbaku",
+        "Nawa shibari",
+        "Reverse prayer hands",
+        "Shibari, <B>Japanese</B> bondage",
+        "Shibari",
+        "Shibari rope",
+        "Shibari ropes",
+        "Sokubaku",
+        "Ushiro Takate Kote",
+        "Ushiro Takatekote"
+      ],
+      "comment": [
+        " binding.\" Kinbaku is a <B>Japanese</B> style of bondage or BDSM which involves tying a person up using simple"
+      ],
+      "label": [
+        "<B>Japanese</B> bondage"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_bondage"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bondage_(BDSM)",
+        "http://dbpedia.org/resource/Category:Decorative_ropework",
+        "http://dbpedia.org/resource/Category:Japanese_sex_terms",
+        "http://dbpedia.org/resource/Category:Sexuality_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2065.992"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_invasion_of_Manchuria"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B>-occupied Manchuria",
+        "<B>Japanese</B> invasion of Northeast China",
+        "<B>Japanese</B> invasion of Northeastern China",
+        "<B>Japanese</B> invasion of northeast China",
+        "<B>Japanese</B> occupation of Manchuria"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Japanese</B> invasion of Manchuria began on 18 September 1931, when the Kwantung Army of the Empire"
+      ],
+      "label": [
+        "<B>Japanese</B> invasion of Manchuria"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_invasion_of_Manchuria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1931_in_China",
+        "http://dbpedia.org/resource/Category:1931_in_Japan",
+        "http://dbpedia.org/resource/Category:1932_in_China",
+        "http://dbpedia.org/resource/Category:1932_in_Japan",
+        "http://dbpedia.org/resource/Category:Anti-Japanese_sentiment_in_China",
+        "http://dbpedia.org/resource/Category:Battles_of_the_Second_Sino-Japanese_War",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1931",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1932",
+        "http://dbpedia.org/resource/Category:Invasions_by_Japan",
+        "http://dbpedia.org/resource/Category:Invasions_of_China",
+        "http://dbpedia.org/resource/Category:Military_history_of_Manchuria",
+        "http://dbpedia.org/resource/Category:Second_Sino-Japanese_War"
+      ]
+    },
+    {
+      "score": [
+        "2059.565"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_numismatic_charm"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Numismatic Charm",
+        "<B>Japanese</B> Numismatic Charms",
+        "<B>Japanese</B> amulet",
+        "<B>Japanese</B> amulets",
+        "<B>Japanese</B> charm",
+        "<B>Japanese</B> charms",
+        "<B>Japanese</B> coin charm",
+        "<B>Japanese</B> coin charms",
+        "<B>Japanese</B> numismatic charms",
+        "<B>Japanese</B> talisman",
+        "<B>Japanese</B> talismans"
+      ],
+      "comment": [
+        "<B>Japanese</B> numismatic charms (<B>Japanese</B>: 絵銭 or 画銭), also known as <B>Japanese</B> amulets, <B>Japanese</B> talismans"
+      ],
+      "label": [
+        "<B>Japanese</B> numismatic charm"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_numismatic_charm"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_numismatic_charms"
+      ]
+    },
+    {
+      "score": [
+        "2055.1448"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_era_name"
+      ],
+      "redirectlabel": [
+        "Gengō",
+        "<B>Japanese</B> TD",
+        "<B>Japanese</B> era",
+        "<B>Japanese</B> era names",
+        "<B>Japanese</B> eras",
+        "<B>Japanese</B> year",
+        "List of <B>Japanese</B> era names",
+        "Nengo",
+        "Nengou",
+        "Nengō",
+        "TC date",
+        "Traditional dates",
+        "Wareki"
+      ],
+      "comment": [
+        "The <B>Japanese</B> era name (年号, nengō, \"year name\"), also known as gengō (元号), is the first of the two"
+      ],
+      "label": [
+        "<B>Japanese</B> era name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_era_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Calendar_eras",
+        "http://dbpedia.org/resource/Category:Japanese_eras",
+        "http://dbpedia.org/resource/Category:Time_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2050.0723"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_grammar"
+      ],
+      "redirectlabel": [
+        "Grammar of the <B>Japanese</B> language",
+        "<B>Japanese</B> Grammar",
+        "<B>Japanese</B> adverbs",
+        "<B>Japanese</B> language grammar",
+        "<B>Japanese</B> syntax",
+        "Onbin",
+        "連体形"
+      ],
+      "comment": [
+        "<B>Japanese</B> is a synthetic language with a regular agglutinative subject-object-verb (SOV) morphology"
+      ],
+      "label": [
+        "<B>Japanese</B> grammar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_grammar"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_grammar"
+      ]
+    },
+    {
+      "score": [
+        "2046.1082"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_school"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> School",
+        "<B>Japanese</B> international school",
+        "<B>Japanese</B> school (disambiguation)",
+        "Overseas <B>Japanese</B> school",
+        "Shiritsu Zaigai Kyoiku Shisetsu",
+        "Shiritsu zaigai kyoiku shisetsu",
+        "Shiritsu zaigai kyooiku shisetsu",
+        "Shiritsu zaigai kyouiku shisetsu",
+        "Shiritsu zaigai kyôiku shisetsu",
+        "Shiritsu zaigai kyōiku shisetsu",
+        "Siritu zaigai kyoiku sisetu",
+        "Siritu zaigai kyôiku sisetu",
+        "Zaigai kyoiku shisetsu",
+        "Zaigai kyoiku sisetu",
+        "Zaigai kyooiku shisetsu",
+        "Zaigai kyouiku shisetsu",
+        "Zaigai kyôiku shisetsu",
+        "Zaigai kyôiku sisetu",
+        "Zaigai kyōiku shisetsu"
+      ],
+      "comment": [
+        ". Zaigai kyōiku shisetsu (在外教育施設 \"Overseas educational institution\"), or in English, <B>Japanese</B>"
+      ],
+      "label": [
+        "<B>Japanese</B> school"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_school"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_language",
+        "http://dbpedia.org/resource/Category:Language_schools"
+      ]
+    },
+    {
+      "score": [
+        "2045.2474"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_architecture"
+      ],
+      "redirectlabel": [
+        "Architecture - Japan",
+        "Architecture - Modern Japan",
+        "Architecture in japan",
+        "Architecture of Japan",
+        "<B>Japanese</B> Architecture",
+        "<B>Japanese</B> Colonial architecture"
+      ],
+      "comment": [
+        "<B>Japanese</B> architecture (日本建築, Nihon kenchiku) has been typified by wooden structures, elevated"
+      ],
+      "label": [
+        "<B>Japanese</B> architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Architecture_of_Japan"
+      ]
+    },
+    {
+      "score": [
+        "2033.2449"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_rock"
+      ],
+      "redirectlabel": [
+        "J-ROCK",
+        "J-Rock",
+        "J-punk",
+        "J-rock",
+        "JRock Music",
+        "J Rock",
+        "<B>Japanese</B> Rock",
+        "<B>Japanese</B> punk",
+        "<B>Japanese</B> punk rock",
+        "Jrock",
+        "Jrocker",
+        "Weeb rock"
+      ],
+      "comment": [
+        "<B>Japanese</B> rock (<B>Japanese</B>: 日本のロック, Hepburn: Nihon no Rokku), sometimes abbreviated to J-rock (ジェイ・ロック"
+      ],
+      "label": [
+        "<B>Japanese</B> rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_rock"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_rock_music",
+        "http://dbpedia.org/resource/Category:Japanese_styles_of_music"
+      ]
+    },
+    {
+      "score": [
+        "2025.7032"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "label": [
+        "<B>Japanese</B> occupation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_occupation"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_occupation"
+      ],
+      "redirectlabel": [
+        "Ilje Gangjeomgi",
+        "Illegal <B>Japanese</B> Occupation",
+        "<B>Japanese</B> Colonial Period",
+        "<B>Japanese</B> Occupation",
+        "<B>Japanese</B> Occupation (disambiguation)",
+        "<B>Japanese</B> forced occupation",
+        "<B>Japanese</B> occupation (disambiguation)",
+        "<B>Japanese</B> occupational force",
+        "Period of <B>Japanese</B> Rule",
+        "Period of <B>Japanese</B> rule",
+        "日帝强占期"
+      ]
+    },
+    {
+      "score": [
+        "2023.0667"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_clothing"
+      ],
+      "redirectlabel": [
+        "Clothing, Traditional - Japan",
+        "<B>Japanese</B> Clothing",
+        "<B>Japanese</B> Dress",
+        "<B>Japanese</B> Fashion (Traditional)",
+        "<B>Japanese</B> Traditional Fashion",
+        "<B>Japanese</B> attire",
+        "<B>Japanese</B> clothes",
+        "List of <B>Japanese</B> clothing",
+        "Traditional <B>Japanese</B> clothing",
+        "Wafuku"
+      ],
+      "comment": [
+        "There are typically two types of clothing that the <B>Japanese</B> wear: the <B>Japanese</B> clothing (和服, wafuku"
+      ],
+      "label": [
+        "<B>Japanese</B> clothing"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_clothing"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_clothing"
+      ]
+    },
+    {
+      "score": [
+        "2016.5262"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_in_Hawaii"
+      ],
+      "redirectlabel": [
+        "Gannenmono",
+        "History of the <B>Japanese</B> in Hawaii",
+        "<B>Japanese</B>-Hawaiian",
+        "<B>Japanese</B> Hawaiian",
+        "<B>Japanese</B> Hawaiians",
+        "<B>Japanese</B> immigrantion to Hawaii",
+        "<B>Japanese</B> immigration to Hawaii",
+        "<B>Japanese</B> people in Hawaii",
+        "Kepani",
+        "Kepanī",
+        "List of <B>Japanese</B> Hawaiians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Japanese</B> in Hawaii (simply <B>Japanese</B> or “Local <B>Japanese</B>”, rarely Kepanī) are the second largest"
+      ],
+      "label": [
+        "<B>Japanese</B> in Hawaii"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_in_Hawaii"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hawaii_people_of_Japanese_descent",
+        "http://dbpedia.org/resource/Category:History_of_immigration_to_Hawaii",
+        "http://dbpedia.org/resource/Category:Japanese-American_culture_in_Hawaii",
+        "http://dbpedia.org/resource/Category:Japanese-American_history"
+      ]
+    },
+    {
+      "score": [
+        "2006.2443"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Wikipedia"
+      ],
+      "redirectlabel": [
+        "Critcism of <B>Japanese</B> Wikipedia",
+        "JP Wikipedia",
+        "Ja.wikipedia.org",
+        "Ja wikipedia",
+        "<B>Japanese</B> WP",
+        "<B>Japanese</B> language Wikipedia",
+        "<B>Japanese</B> wikipedia",
+        "Jawiki",
+        "Jawp",
+        "Jp.wikipedia.org",
+        "Wikipedia Nihongo-ban",
+        "ウィキペディア",
+        "ウィキペディア日本語版"
+      ],
+      "typeName": [
+        "Website",
+        "Work"
+      ],
+      "comment": [
+        "The <B>Japanese</B> Wikipedia (ウィキペディア日本語版, Wikipedia Nihongo-ban, literally \"Wikipedia: <B>Japanese</B>-language"
+      ],
+      "label": [
+        "<B>Japanese</B> Wikipedia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Wikipedia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Website",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_establishments_in_Japan",
+        "http://dbpedia.org/resource/Category:Internet_properties_established_in_2001",
+        "http://dbpedia.org/resource/Category:Japanese-language_websites",
+        "http://dbpedia.org/resource/Category:Japanese_encyclopedias",
+        "http://dbpedia.org/resource/Category:Otaku",
+        "http://dbpedia.org/resource/Category:Wikipedias_by_language"
+      ]
+    },
+    {
+      "score": [
+        "2000.0597"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_counter_word"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> classifier",
+        "<B>Japanese</B> count words",
+        "<B>Japanese</B> counter",
+        "<B>Japanese</B> counter words",
+        "<B>Japanese</B> counters",
+        "<B>Japanese</B> counting systems",
+        "<B>Japanese</B> counting word",
+        "<B>Japanese</B> counting words",
+        "<B>Japanese</B> measure word",
+        "<B>Japanese</B> measure words",
+        "助数詞"
+      ],
+      "comment": [
+        "In <B>Japanese</B>, counter words or counters (josūshi 助数詞) are measure words used with numbers to count"
+      ],
+      "label": [
+        "<B>Japanese</B> counter word"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_counter_word"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Japanese_grammar",
+        "http://dbpedia.org/resource/Category:Japanese_vocabulary",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "1990.9133"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Half_Japanese"
+      ],
+      "redirectlabel": [
+        "Half-<B>Japanese</B>"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Half <B>Japanese</B> is an American art punk band formed by brothers Jad and David Fair around 1975"
+      ],
+      "label": [
+        "Half <B>Japanese</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Half_Japanese"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Alternative_Tentacles_artists",
+        "http://dbpedia.org/resource/Category:American_art_rock_groups",
+        "http://dbpedia.org/resource/Category:American_noise_rock_music_groups",
+        "http://dbpedia.org/resource/Category:Drag_City_(record_label)_artists",
+        "http://dbpedia.org/resource/Category:Family_musical_groups",
+        "http://dbpedia.org/resource/Category:Fire_Records_(UK)_artists",
+        "http://dbpedia.org/resource/Category:Joyful_Noise_Recordings_artists",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1975",
+        "http://dbpedia.org/resource/Category:Punk_rock_groups_from_Maryland",
+        "http://dbpedia.org/resource/Category:Punk_rock_groups_from_Michigan"
+      ]
+    },
+    {
+      "score": [
+        "1987.1313"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_Mexicans"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Mexican",
+        "<B>Japanese</B> community in Mexico",
+        "<B>Japanese</B> immigration to Mexico",
+        "<B>Japanese</B> in Mexico",
+        "Mexicans of <B>Japanese</B> descent"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Japanese</B> immigration to Mexico began in the late 19th century, to found coffee growing plantations"
+      ],
+      "label": [
+        "<B>Japanese</B> Mexicans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_Mexicans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Mexican",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Mexico",
+        "http://dbpedia.org/resource/Category:Immigration_to_Mexico",
+        "http://dbpedia.org/resource/Category:Japanese_Mexican",
+        "http://dbpedia.org/resource/Category:Mexican_people_of_Japanese_descent"
+      ]
+    },
+    {
+      "score": [
+        "1984.4965"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_units_of_measurement"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> li",
+        "<B>Japanese</B> measures",
+        "<B>Japanese</B> ri",
+        "<B>Japanese</B> unit",
+        "<B>Japanese</B> units",
+        "Kin (mass)",
+        "Metrication in Japan",
+        "Metrication of Japan",
+        "Metrification of Japan",
+        "Se (unit of measurement)",
+        "Shakkanho",
+        "Shakkanhō",
+        "Shō (unit)",
+        "Traditional <B>Japanese</B> unit",
+        "Tsubo (unit)"
+      ],
+      "comment": [
+        "Traditional <B>Japanese</B> units of measurement or the shakkanhō (尺貫法, \"shaku–kan system\") is the"
+      ],
+      "label": [
+        "<B>Japanese</B> units of measurement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_units_of_measurement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Customary_units_of_measurement",
+        "http://dbpedia.org/resource/Category:Japanese_vocabulary",
+        "http://dbpedia.org/resource/Category:Obsolete_units_of_measurement",
+        "http://dbpedia.org/resource/Category:Science_and_technology_during_the_Edo_period",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Japan",
+        "http://dbpedia.org/resource/Category:Standards_of_Japan",
+        "http://dbpedia.org/resource/Category:Systems_of_units",
+        "http://dbpedia.org/resource/Category:Units_of_measurement_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1953.7717"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dream_(Japanese_group)"
+      ],
+      "redirectlabel": [
+        "Abe Erie",
+        "Breakout (Dream song)",
+        "DRM (<B>Japanese</B> band)",
+        "Dream (<B>Japanese</B> band)",
+        "Erie Abe",
+        "My Way: Ulala",
+        "My Will",
+        "My will",
+        "Nishida Shizuka",
+        "Pure (Dream song)",
+        "Sayaka Yamamoto (E-girls)",
+        "Takamoto Aya"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Dream (ドリーム, Dorīmu) were a <B>Japanese</B> pop girl group signed to the Avex Trax label since 2000 and"
+      ],
+      "label": [
+        "Dream (<B>Japanese</B> group)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dream_(Japanese_group)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anime_musical_groups",
+        "http://dbpedia.org/resource/Category:Anime_musicians",
+        "http://dbpedia.org/resource/Category:Anime_singers",
+        "http://dbpedia.org/resource/Category:Avex_Trax_artists",
+        "http://dbpedia.org/resource/Category:Dream_(Japanese_group)",
+        "http://dbpedia.org/resource/Category:Inuyasha",
+        "http://dbpedia.org/resource/Category:Japanese_Eurodance_groups",
+        "http://dbpedia.org/resource/Category:Japanese_dance_groups",
+        "http://dbpedia.org/resource/Category:Japanese_dance_music_groups",
+        "http://dbpedia.org/resource/Category:Japanese_girl_groups",
+        "http://dbpedia.org/resource/Category:Japanese_idol_groups",
+        "http://dbpedia.org/resource/Category:Japanese_musical_groups",
+        "http://dbpedia.org/resource/Category:Japanese_pop_music_groups",
+        "http://dbpedia.org/resource/Category:LDH_(company)_artists",
+        "http://dbpedia.org/resource/Category:Musical_groups_disestablished_in_2017",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_2000"
+      ]
+    },
+    {
+      "score": [
+        "1948.1826"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_School_in_Zurich"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> School in Zuerich",
+        "<B>Japanese</B> School in Zürich",
+        "<B>Japanese</B> School of Zuerich",
+        "<B>Japanese</B> School of Zurich",
+        "<B>Japanese</B> School of Zürich",
+        "Japanische Schule Uster",
+        "Japanische Schule Zuerich",
+        "Japanische Schule Zurich",
+        "Japanische Schule Zürich",
+        "Japanische Schule in Zuerich",
+        "Japanische Schule in Zurich",
+        "Japanische Schule in Zürich",
+        "Zuerich <B>Japanese</B> School",
+        "Zurich <B>Japanese</B> School",
+        "Zürich <B>Japanese</B> School"
+      ],
+      "typeName": [
+        "Organisation",
+        "School",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Japanese</B> School in Zurich (German: Japanische Schule in Zürich, <B>Japanese</B>: チューリッヒ日本人学校 Chūrihhi"
+      ],
+      "label": [
+        "<B>Japanese</B> School in Zurich"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_School_in_Zurich"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/School",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_establishments_in_Switzerland",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_the_canton_of_Zürich",
+        "http://dbpedia.org/resource/Category:Education_in_Zürich",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1988",
+        "http://dbpedia.org/resource/Category:Japanese_international_schools_in_Switzerland",
+        "http://dbpedia.org/resource/Category:Nihonjin_gakkō_in_Europe",
+        "http://dbpedia.org/resource/Category:Supplementary_Japanese_schools"
+      ]
+    },
+    {
+      "score": [
+        "1941.4822"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_militarism"
+      ],
+      "redirectlabel": [
+        "<B>Japanese</B> Militarism",
+        "<B>Japanese</B> expansionism",
+        "<B>Japanese</B> militarists",
+        "Militarism in Japan",
+        "Militarism in japan",
+        "Militarist Japan",
+        "Native oppositors against <B>Japanese</B> regime(WW2)",
+        "Nihon gunkoku shugi",
+        "Opposition at home to the <B>Japanese</B> government (WWII)",
+        "日本軍国主義",
+        "日本軍國主義"
+      ],
+      "comment": [
+        "<B>Japanese</B> militarism (日本軍国主義, Nihon gunkoku shugi) refers to the ideology in the Empire of Japan"
+      ],
+      "label": [
+        "<B>Japanese</B> militarism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_militarism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Empire_of_Japan",
+        "http://dbpedia.org/resource/Category:Japanese_militarism",
+        "http://dbpedia.org/resource/Category:New_Imperialism",
+        "http://dbpedia.org/resource/Category:Shōwa_Statism"
+      ]
+    },
+    {
+      "score": [
+        "1941.0983"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Japanese_kitchen_knife"
+      ],
+      "redirectlabel": [
+        "Gyūtō",
+        "Hōchō",
+        "<B>Japanese</B> Kitchen Knives",
+        "<B>Japanese</B> cutlery",
+        "<B>Japanese</B> high quality kitchen cutlery",
+        "<B>Japanese</B> kitchen knives",
+        "<B>Japanese</B> knife",
+        "<B>Japanese</B> knives",
+        "Kirenaga",
+        "Sushi knife"
+      ],
+      "comment": [
+        "<B>Japanese</B> kitchen knives are a type of a knife used for food preparation. These knives come in many"
+      ],
+      "label": [
+        "<B>Japanese</B> kitchen knife"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Japanese_kitchen_knife"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Japan",
+        "http://dbpedia.org/resource/Category:Japanese_kitchen_knives"
+      ]
+    },
+    {
+      "score": [
+        "1938.6348"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liceo_Mexicano_Japonés"
+      ],
+      "redirectlabel": [
+        "Colegio Liceo Mexicano <B>Japones</B>",
+        "Colegio Liceo Mexicano Japonés",
+        "Escuela <B>Japonesa</B> de Mexico",
+        "Escuela <B>Japonesa</B> de México",
+        "Japan-Mexico Institute",
+        "Japan-Mexico Lyceum",
+        "Japan Mexico Institute",
+        "Japan Mexico Lyceum",
+        "<B>Japanese</B>-Mexican Lycee",
+        "<B>Japanese</B>-Mexican School",
+        "<B>Japanese</B> Mexican Lycee",
+        "<B>Japanese</B> Mexican Lyceum",
+        "<B>Japanese</B> Mexican School",
+        "<B>Japanese</B> School in Mexico City",
+        "<B>Japanese</B> School of Mexico City",
+        "Liceo Mexicano-<B>Japones</B>",
+        "Liceo Mexicano-Japonés",
+        "Liceo Mexicano-<B>japones</B>",
+        "Liceo Mexicano-japonés",
+        "Liceo Mexicano - <B>japones</B>",
+        "Liceo Mexicano - japonés",
+        "Liceo Mexicano <B>Japanese</B>",
+        "Liceo Mexicano <B>Japones</B>, A.C.",
+        "Liceo Mexicano <B>Japones</B>, AC",
+        "Liceo Mexicano <B>Japones</B>",
+        "Liceo Mexicano Japonés, A.C.",
+        "Liceo Mexicano Japonés, AC",
+        "Liceo Mexicano—<B>Japones</B>, A.C.",
+        "Liceo Mexicano—<B>Japones</B>",
+        "Liceo Mexicano—Japonés, A.C.",
+        "Liceo Mexicano—Japonés",
+        "Liceo Mexico <B>Japones</B>, A.C.",
+        "Liceo Mexico <B>Japones</B>, A.C. Seccion <B>Japonesa</B>",
+        "Liceo Mexico <B>Japones</B>",
+        "Liceo mexicano <B>Japones</B>, A.C.",
+        "Liceo mexicano <B>Japones</B>",
+        "Liceo mexicano Japonés, A.C.",
+        "Liceo mexicano Japonés",
+        "Mexican-<B>Japanese</B> Lycee",
+        "Mexican-<B>Japanese</B> Lyceum",
+        "Mexican-<B>Japanese</B> Lycée",
+        "Mexican <B>Japanese</B> Liceo",
+        "Mexican <B>Japanese</B> Lycee",
+        "Mexican <B>Japanese</B> Lyceum",
+        "Mexican <B>Japanese</B> School",
+        "Mexican—<B>Japanese</B> Lyceum",
+        "Mexico-Japan Institute",
+        "Mexico-Japan Lyceum",
+        "Mexico City <B>Japanese</B> School",
+        "Mexico Japan Institute",
+        "Mexico Japan Lyceum"
+      ],
+      "typeName": [
+        "Organisation",
+        "School",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        " \"Mexican-<B>Japanese</B> Lyceum\", or 日墨学院 Nichiboku Gakuin \"Japan-Mexico Institute\"), is a <B>Japanese</B> school based"
+      ],
+      "label": [
+        "Liceo Mexicano Japonés"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liceo_Mexicano_Japonés"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/School",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1977_establishments_in_Mexico",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1977",
+        "http://dbpedia.org/resource/Category:High_schools_in_Mexico_City",
+        "http://dbpedia.org/resource/Category:International_schools_in_Mexico_City",
+        "http://dbpedia.org/resource/Category:Japanese_Mexican",
+        "http://dbpedia.org/resource/Category:Nihonjin_gakkō_in_North_America",
+        "http://dbpedia.org/resource/Category:Private_schools_in_Mexico",
+        "http://dbpedia.org/resource/Category:Álvaro_Obregón,_Mexico_City"
+      ]
+    }
+  ]
+}

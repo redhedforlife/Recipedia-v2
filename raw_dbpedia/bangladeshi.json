@@ -1,0 +1,4019 @@
+{
+  "docs": [
+    {
+      "score": [
+        "17019.393"
+      ],
+      "refCount": [
+        "6232"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh"
+      ],
+      "redirectlabel": [
+        "B'desh",
+        "B-desh",
+        "<B>BANGLADESH</B>",
+        "BNGL",
+        "<B>Bangaladesh</B>",
+        "<B>Bangaldesh</B>",
+        "Bangla-Desh",
+        "<B>BanglaDesh</B>",
+        "Bangla Desh",
+        "<B>Bangladash</B>",
+        "<B>Bangladeish</B>",
+        "<B>Bangladesh</B> (East Pakistan)",
+        "<B>Bangladeshi</B> Republic",
+        "<B>Bangladish</B>",
+        "<B>Bangledesh</B>",
+        "Bdesh",
+        "Bengaldesh",
+        "Bengaledesh",
+        "Bengali People's Republic",
+        "Bengali Republic",
+        "Bengladesh",
+        "Biodiversity in <B>Bangladesh</B>",
+        "Blangadesh",
+        "Gana Praja-tantri <B>Bangladesh</B>",
+        "Gaṇaprajātantrī Bāṃlādēśa",
+        "Gônoprojatontri <B>Bangladesh</B>",
+        "Gônoprojatontrī <B>Bangladesh</B>",
+        "Gônôprôjatôntri <B>Bangladesh</B>",
+        "ISO 3166-1:BD",
+        "People's Republic of <B>Bangladash</B>",
+        "People's Republic of <B>Bangladesh</B>",
+        "Peoples' Republic of <B>Bangladesh</B>",
+        "Peoples Republic of <B>Bangladesh</B>",
+        "People’s Republic of <B>Bangladesh</B>",
+        "Republic of <B>Bangladash</B>",
+        "Republic of <B>Bangladesh</B>",
+        "গণপ্রজাতন্ত্রী বাংলাদেশ",
+        "গনপ্রজাতন্ত্রী বাংলােদশ",
+        "বাংলাদেশ"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Bangladesh</B> (Bengali: বাংলাদেশ) pronounced  or  (BANG-lah-DESH or BAHNG-); Bengali: [ˈbaŋladeʃ"
+      ],
+      "label": [
+        "<B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Bangladesh",
+        "http://dbpedia.org/resource/Category:Bengal",
+        "http://dbpedia.org/resource/Category:Bengali-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Developing_8_Countries_member_states",
+        "http://dbpedia.org/resource/Category:Former_British_colonies_and_protectorates_in_Asia",
+        "http://dbpedia.org/resource/Category:Geographical_articles_missing_image_alternative_text",
+        "http://dbpedia.org/resource/Category:Least_developed_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_South_Asian_Association_for_Regional_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics_in_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:South_Asian_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1971"
+      ]
+    },
+    {
+      "score": [
+        "3897.0928"
+      ],
+      "refCount": [
+        "65"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshis"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B>",
+        "<B>Bangladeshi</B> people",
+        "<B>Bangladeshies</B>",
+        "People of <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " largest and easternmost part. <B>Bangladeshi</B> citizenship was formed in 1971, when the permanent residents"
+      ],
+      "label": [
+        "<B>Bangladeshis</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "3579.6514"
+      ],
+      "refCount": [
+        "1828"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Standard_Time"
+      ],
+      "redirectlabel": [
+        "Asia/Dhaka",
+        "<B>Bangladesh</B> Daylight Saving Time",
+        "<B>Bangladesh</B> Daylight Time",
+        "<B>Bangladesh</B> Daylight saving time",
+        "<B>Bangladesh</B> daylight saving time",
+        "Dacca Time",
+        "Daylight saving time in <B>Bangladesh</B>",
+        "Time in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "<B>Bangladesh</B> Standard Time (BST) (Bengali: বাংলাদেশ মান সময়) is the time zone of <B>Bangladesh</B>. It is"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Standard Time"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Standard_Time"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Time_zones"
+      ]
+    },
+    {
+      "score": [
+        "2640.9187"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cuisine"
+      ],
+      "redirectlabel": [
+        "Bangaliketa",
+        "<B>Bangladeshi</B> food",
+        "Chittagonian cuisine",
+        "Cuisine of <B>Bangladesh</B>",
+        "List of <B>Bangladeshi</B> snacks"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> cuisine (Bengali: বাংলাদেশের রান্না) is the national cuisine of <B>Bangladesh</B>. <B>Bangladeshi</B>"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_cuisine",
+        "http://dbpedia.org/resource/Category:Bangladeshi_culture",
+        "http://dbpedia.org/resource/Category:Bengali_cuisine",
+        "http://dbpedia.org/resource/Category:Desi_cuisine",
+        "http://dbpedia.org/resource/Category:Industry_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:South_Asian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2604.5034"
+      ],
+      "refCount": [
+        "73"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Army"
+      ],
+      "redirectlabel": [
+        "Army of <B>Bangladesh</B>",
+        "Bangla Army",
+        "<B>Bangladesh</B> troops",
+        "<B>Bangladeshi</B> Army",
+        "<B>Bangladeshi</B> army",
+        "Bengali Army",
+        "Ministry of Defense and Constabulary (M.O.D.C)",
+        "The <B>Bangladesh</B> Army",
+        "বাংলাদেশ সেনা বাহিনী"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " Army is to provide necessary forces and capabilities to deliver the <B>Bangladeshi</B> government's security"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bangladesh_Army",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1971",
+        "http://dbpedia.org/resource/Category:Uniformed_services_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "2526.0176"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/President_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> President",
+        "Head of state of <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "The President of <B>Bangladesh</B> (Bengali: বাংলাদেশের রাষ্ট্রপতি — <B>Bangladesher</B> Raṣhṭrôpôti) is the head"
+      ],
+      "label": [
+        "President of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/President_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Politics_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Presidents_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "2524.6003"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_diaspora"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> diaspora",
+        "Emigration from <B>Bangladesh</B>",
+        "Non-resident <B>Bangladeshi</B>",
+        "Non Residential <B>Bangladeshi</B>",
+        "Overseas <B>Bangladeshi</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Bangladeshi</B> diaspora consists of people of <B>Bangladeshi</B> descent who have immigrated to or were"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_diaspora"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2306.7688"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_taka"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> Taka",
+        "<B>Bangladesh</B> taka",
+        "<B>Bangladeshi</B> Taka",
+        "Bengali taka",
+        "Commemorative banknotes of the <B>Bangladeshi</B> taka",
+        "ISO 4217:BDT",
+        "National currency of <B>Bangladesh</B>",
+        "Taka",
+        "Takas",
+        "Tk.",
+        "৲",
+        "৳"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Bangladeshi</B> taka (Bengali: টাকা, sign: ৳, code: BDT, short form: Tk) is the currency of the"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> taka"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_taka"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1972",
+        "http://dbpedia.org/resource/Category:Currencies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Economy_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "2254.8228"
+      ],
+      "refCount": [
+        "146"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Liberation_War"
+      ],
+      "redirectlabel": [
+        "1971 <B>Bangladesh</B> independence war",
+        "1971 <B>Bangladesh</B> war",
+        "1971 Liberation War",
+        "1971 Liberation War of <B>Bangladesh</B>",
+        "1971 Liberation war of <B>Bangladesh</B>",
+        "1971 liberation war",
+        "1971 war of independence",
+        "Autonomy for East Pakistan",
+        "<B>Bangaldesh</B> liberation war",
+        "<B>Bangladesh</B> 1971",
+        "<B>Bangladesh</B> Independence War",
+        "<B>Bangladesh</B> Liberation war",
+        "<B>Bangladesh</B> War",
+        "<B>Bangladesh</B> War Of Independence 1971",
+        "<B>Bangladesh</B> War of Independence",
+        "<B>Bangladesh</B> War of Liberation",
+        "<B>Bangladesh</B> War of Liberation of 1971",
+        "<B>Bangladesh</B> conflict",
+        "<B>Bangladesh</B> liberation movement",
+        "<B>Bangladesh</B> liberation war",
+        "<B>Bangladesh</B> war",
+        "<B>Bangladesh</B> war for independence",
+        "<B>Bangladesh</B> war of Independence",
+        "<B>Bangladesh</B> war of Independence 1971",
+        "<B>Bangladeshi</B> Liberation War",
+        "<B>Bangladeshi</B> War of Independence",
+        "<B>Bangladeshi</B> independence",
+        "<B>Bangladeshi</B> war of independence",
+        "Breakup of East and West Pakistan",
+        "Civil war in Pakistan",
+        "Creation of <B>Bangladesh</B>",
+        "Divided Pakistan",
+        "East Pakistan-West Pakistan War 1971",
+        "East Pakistan-West Pakistan War of 1971",
+        "Independence War of <B>Bangladesh</B>",
+        "International reactions to the <B>Bangladesh</B> Liberation War",
+        "Liberation War of <B>Bangladesh</B>",
+        "Liberation of <B>Bangladesh</B>",
+        "Liberation war of <B>Bangladesh</B>",
+        "Muktijuddho",
+        "Pak- Bangla War 1971",
+        "Pak <B>Bangladesh</B> War 1971",
+        "Pakistan civil war",
+        "Pakistani Civil War",
+        "Pakistani Civil War of 1971",
+        "Partition of Pakistan",
+        "Surrender of Dhaka",
+        "Surrender of East Pakistan",
+        "The liberation war of <B>Bangladesh</B>",
+        "War of Liberation of <B>Bangladesh</B>",
+        "মুক্তিযুদ্ধ"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> Liberation War (Bengali: মুক্তিযুদ্ধ Muktijuddho), also known as the <B>Bangladesh</B> War"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Liberation War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Liberation_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_Liberation_War",
+        "http://dbpedia.org/resource/Category:Bangladesh–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Military_history_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Separatism_in_Pakistan",
+        "http://dbpedia.org/resource/Category:War_crimes_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bangladesh",
+        "http://dbpedia.org/resource/Category:Wars_involving_Pakistan"
+      ]
+    },
+    {
+      "score": [
+        "2198.3447"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Bangladeshi_general_election"
+      ],
+      "redirectlabel": [
+        "2007 <B>Bangladeshi</B> parliamentary election",
+        "2007 <B>Bangladeshi</B> parliamentary elections",
+        "2008 <B>Bangladesh</B> general election",
+        "2008 Parliamentary elections in <B>Bangladesh</B>",
+        "<B>Bangladesh</B> Parliamentary Election 2008",
+        "<B>Bangladesh</B> general election, 2007",
+        "<B>Bangladesh</B> general election, 2008",
+        "<B>Bangladesh</B> parliamentary election, 2007",
+        "<B>Bangladesh</B> parliamentary elections, 2007",
+        "<B>Bangladeshi</B> general election, 2008",
+        "<B>Bangladeshi</B> parliamentary election, 2007",
+        "<B>Bangladeshi</B> parliamentary election, 2008",
+        "<B>Bangladeshi</B> parliamentary elections, 2007",
+        "Eighth parliamentary election in <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " in <B>Bangladesh</B> on 29 December 2008. The two main parties in the election were the <B>Bangladesh</B>"
+      ],
+      "label": [
+        "2008 <B>Bangladeshi</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Bangladeshi_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2008_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2008_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "2191.2747"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_people"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> comedian",
+        "List of <B>Bangladeshi</B> comedians",
+        "List of <B>Bangladeshi</B> economists",
+        "List of <B>Bangladeshi</B> educationists",
+        "List of <B>Bangladeshi</B> entrepreneurs",
+        "List of <B>Bangladeshi</B> journalists",
+        "List of <B>Bangladeshis</B>",
+        "List of people from <B>Bangladesh</B>",
+        "Lists of <B>Bangladeshi</B> people",
+        "Lists of <B>Bangladeshis</B>",
+        "People of <B>Bangladesh</B> by name"
+      ],
+      "comment": [
+        " is now <B>Bangladesh</B>, or of <B>Bangladeshi</B> origin living abroad. For brevity, people who fall into more"
+      ],
+      "label": [
+        "List of <B>Bangladeshi</B> people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_people"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Bangladeshi_people"
+      ]
+    },
+    {
+      "score": [
+        "2117.9927"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British_Bangladeshis"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> British",
+        "<B>Bangladeshi</B> Briton",
+        "<B>Bangladeshi</B> Britons",
+        "<B>Bangladeshi</B> UK",
+        "<B>Bangladeshi</B> diaspora in the United Kingdom",
+        "<B>Bangladeshi</B> gang",
+        "<B>Bangladeshi</B> gangs",
+        "<B>Bangladeshis</B> in UK",
+        "<B>Bangladeshis</B> in the UK",
+        "<B>Bangladeshis</B> in the United Kingdom",
+        "Bengali British",
+        "Bengali Britons",
+        "Bengali gang",
+        "Bengali gangs",
+        "Bengali people in England",
+        "Bengali people in the UK",
+        "Bengalis in the UK",
+        "British-<B>Bangladeshi</B>",
+        "British Bangali",
+        "British Bangalis",
+        "British <B>Bangladesh</B>",
+        "British <B>Bangladeshi</B>",
+        "British Bengali",
+        "British Bengalis",
+        "Culture of British <B>Bangladeshis</B>",
+        "Death of Altab Ali",
+        "Londoni",
+        "Murder of Altab Ali",
+        "UK <B>Bangladeshi</B> community",
+        "বিলাতী বাংলাদেশী",
+        "ব্রিটিশ বাংলাদেশি",
+        "লন্ডনী"
+      ],
+      "label": [
+        "British <B>Bangladeshis</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British_Bangladeshis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora",
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Bangladeshi_emigrants_to_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:British_Muslims",
+        "http://dbpedia.org/resource/Category:British_people_of_Bangladeshi_descent",
+        "http://dbpedia.org/resource/Category:British_people_of_South_Asian_descent",
+        "http://dbpedia.org/resource/Category:Muslim_communities_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2045.7517"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Nationalism",
+        "Nationalism in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> nationalism is an ideology generated by former <B>Bangladesh</B> President Ziaur Rahman. The"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_Liberation_War",
+        "http://dbpedia.org/resource/Category:Bangladesh_Nationalist_Party",
+        "http://dbpedia.org/resource/Category:Constitution_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Fundamental_principles_of_the_constitution_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Nationalist_movements_in_Asia",
+        "http://dbpedia.org/resource/Category:Political_movements_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Ziaur_Rahman"
+      ]
+    },
+    {
+      "score": [
+        "2000.8132"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B>-American",
+        "<B>Bangladeshi</B> American",
+        "<B>Bangladeshis</B> in New York",
+        "<B>Bangladeshis</B> in New York City",
+        "Bengali-American",
+        "History of <B>Bangladeshi</B> Americans",
+        "List of Bengali Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> Americans (Bengali: বাংলাদেশী মার্কিনী) are Americans of <B>Bangladeshi</B> descent. The"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Bangladeshi_descent",
+        "http://dbpedia.org/resource/Category:Asian-American_society",
+        "http://dbpedia.org/resource/Category:Bangladeshi_American",
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora",
+        "http://dbpedia.org/resource/Category:South_Asian_American"
+      ]
+    },
+    {
+      "score": [
+        "1967.9595"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> Japanese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_Japanese"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_Japanese"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B>-Japanese",
+        "<B>Bangladeshi</B> Japanese (disambiguation)",
+        "Japanese-<B>Bangladeshi</B>",
+        "Japanese-<B>Bangladeshis</B>",
+        "Japanese <B>Bangladeshi</B>",
+        "Japanese <B>Bangladeshis</B>"
+      ]
+    },
+    {
+      "score": [
+        "1874.3333"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_art"
+      ],
+      "redirectlabel": [
+        "Art in <B>Bangladesh</B>",
+        "Art of <B>Bangladesh</B>",
+        "<B>Bangladeshi</B> folk art",
+        "<B>Bangladeshi</B> modern art",
+        "History of <B>Bangladeshi</B> art"
+      ],
+      "comment": [
+        " known as <B>Bangladesh</B>. <B>Bangladeshi</B> art has a perennial history which originated more than two"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Asian_art",
+        "http://dbpedia.org/resource/Category:Bangladeshi_art",
+        "http://dbpedia.org/resource/Category:Bangladeshi_culture"
+      ]
+    },
+    {
+      "score": [
+        "1841.5486"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "Bangla cinema",
+        "<B>Bangladesh</B> film",
+        "<B>Bangladeshi</B> Cinema",
+        "<B>Bangladeshi</B> cinema",
+        "<B>Bangladeshi</B> film",
+        "<B>Bangladeshi</B> film actor",
+        "<B>Bangladeshi</B> film industry",
+        "<B>Bangladeshi</B> films",
+        "Bengaldesh film",
+        "Cinema of <B>bangladesh</B>",
+        "Dallywood",
+        "Dhaliwood",
+        "Dhallywood",
+        "Film of <B>Bangladesh</B>",
+        "Films in <B>Bangladesh</B>",
+        "Films of <B>Bangladesh</B>",
+        "Films of <B>bangladesh</B>",
+        "History of cinema in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        " 1970s. The dominant style of <B>Bangladeshi</B> cinema is melodramatic cinema, which developed from 1947"
+      ],
+      "label": [
+        "Cinema of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bengali-language_films",
+        "http://dbpedia.org/resource/Category:Cinema_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Film_production_districts",
+        "http://dbpedia.org/resource/Category:Lists_of_Bangladeshi_films"
+      ]
+    },
+    {
+      "score": [
+        "1833.5428"
+      ],
+      "refCount": [
+        "446"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Nationalist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> Jatiotabadi Dôl",
+        "<B>Bangladesh</B> Jatiyatabadi Dal",
+        "<B>Bangladesh</B> National Party",
+        "<B>Bangladesh</B> Nationalist Party (BNP)",
+        "<B>Bangladesh</B> Nationalist party",
+        "JAGODAL"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> Nationalist Party (Bengali: বাংলাদেশ জাতীয়তাবাদী দল, transliterated: <B>Bangladesh</B>"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Nationalist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Nationalist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1978_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bangladesh_Nationalist_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1978",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Right-wing_politics_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1746.6678"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_Australians"
+      ],
+      "redirectlabel": [
+        "Australian <B>bangladeshi</B>",
+        "<B>Bangladeshi</B> Australian",
+        "<B>Bangladeshis</B> in Australia",
+        "<B>Bangladeshis</B> in australia"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " 53,000 <B>Bangladeshis</B> in Australia, according to the census in 2012. The largest <B>Bangladeshi</B> communities"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Bangladeshi_descent",
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1703.2283"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Black_(Bangladeshi_band)"
+      ],
+      "redirectlabel": [
+        "Black BD",
+        "Black <B>Bangladeshi</B> band",
+        "Jon Kabir"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Black is a <B>Bangladeshi</B> rock band formed in 1998 in Dhaka originally formed by Jon Kabir (lead"
+      ],
+      "label": [
+        "Black (<B>Bangladeshi</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Black_(Bangladeshi_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bangladeshi_rock_music_groups",
+        "http://dbpedia.org/resource/Category:G-Series_(record_label)_artists",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1998"
+      ]
+    },
+    {
+      "score": [
+        "1694.6527"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006–2008_Bangladeshi_political_crisis"
+      ],
+      "redirectlabel": [
+        "2006-08 <B>Bangladeshi</B> political crisis",
+        "2006-2007 <B>Bangladeshi</B> political crisis",
+        "2006-2008 <B>Bangladeshi</B> political crisis",
+        "2006–08 <B>Bangladeshi</B> political crisis",
+        "2006–2007 <B>Bangladeshi</B> political crisis",
+        "2007-2008 caretaker government political crises",
+        "Civil war in <B>Bangladesh</B>",
+        "Crisis in <B>Bangladesh</B>",
+        "Minus 2 Formula"
+      ],
+      "label": [
+        "2006–2008 <B>Bangladeshi</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006–2008_Bangladeshi_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:2006_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2006_in_politics",
+        "http://dbpedia.org/resource/Category:2007_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2007_in_politics",
+        "http://dbpedia.org/resource/Category:2008_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2008_in_politics",
+        "http://dbpedia.org/resource/Category:Military_history_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Political_history_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1619.1201"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014_Bangladeshi_general_election"
+      ],
+      "redirectlabel": [
+        "10th <B>Bangladesh</B> General Election",
+        "2014 <B>Bangladesh</B> election",
+        "2014 <B>Bangladesh</B> general election",
+        "2014 <B>Bangladesh</B> post-poll violence",
+        "2014 Parliamentary elections in <B>Bangladesh</B>",
+        "<B>Bangladesh</B> general election, 2014",
+        "<B>Bangladeshi</B> general election, 2014",
+        "<B>Bangladeshi</B> parliamentary election, 2014",
+        "নির্বাচিত বাংলাদেশ সরকার (১০ম)"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Bangladesh</B> on 5 January 2014, in accordance with the constitutional"
+      ],
+      "label": [
+        "2014 <B>Bangladeshi</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014_Bangladeshi_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2014_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2014_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:January_2014_events_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1507.2225"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> citizenship",
+        "<B>Bangladesh</B> nationality law",
+        "<B>Bangladeshi</B> citizenship"
+      ],
+      "comment": [
+        " live in <B>Bangladesh</B> as well as all people who are of <B>Bangladeshi</B> descent. It allows the children of"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Law_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1489.4036"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_passport"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> Passport",
+        "<B>Bangladesh</B> passport",
+        "<B>Bangladeshi</B> Passport"
+      ],
+      "comment": [
+        "The passport of <B>Bangladesh</B> is an ICAO compliant, machine readable and biometric e-passport issued"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> passport"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_passport"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Government_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Identity_documents_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Passports_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1484.6952"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_national_cricket_team"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> B cricket team",
+        "<B>Bangladesh</B> Cricket Team",
+        "<B>Bangladesh</B> National Cricket Team",
+        "<B>Bangladesh</B> cricket team",
+        "<B>Bangladeshi</B> Cricket Team",
+        "<B>Bangladeshi</B> cricket team",
+        "<B>Bangladeshi</B> national cricket team",
+        "Bengali national cricket team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "CricketTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> men's national cricket team (Bengali: বাংলাদেশ জাতীয় ক্রিকেট দল), popularly known"
+      ],
+      "label": [
+        "<B>Bangladesh</B> national cricket team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_national_cricket_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/CricketTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_in_international_cricket",
+        "http://dbpedia.org/resource/Category:Cricket_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:History_of_cricket_by_national_team",
+        "http://dbpedia.org/resource/Category:National_cricket_teams",
+        "http://dbpedia.org/resource/Category:National_sports_teams_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1427.8533"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "Band music of <B>Bangladesh</B>",
+        "<B>Bangladeshi</B> band music",
+        "<B>Bangladeshi</B> classical music",
+        "<B>Bangladeshi</B> death metal",
+        "<B>Bangladeshi</B> folk music",
+        "<B>Bangladeshi</B> music",
+        "Classical music of <B>Bangladesh</B>",
+        "Folk music of <B>Bangladesh</B>",
+        "List of <B>Bangladeshi</B> rock bands",
+        "Mystic music of Sylhet",
+        "Mystic song of Sylhet",
+        "Mystic songs of Sylhet",
+        "Songs in <B>bangladesh</B>"
+      ],
+      "comment": [
+        ". <B>Bangladeshi</B> music spans a wide variety of styles. Music has served the purpose of documenting the lives of"
+      ],
+      "label": [
+        "Music of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_music",
+        "http://dbpedia.org/resource/Category:Bengali_music",
+        "http://dbpedia.org/resource/Category:Sylhet_Gitika"
+      ]
+    },
+    {
+      "score": [
+        "1388.1528"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Nemesis_(Bangladeshi_band)"
+      ],
+      "redirectlabel": [
+        "Nemesis (<B>Bangladeshi</B> band) discography",
+        "Onneshon (Nemesis album)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Nemesis is a <B>Bangladeshi</B> rock band formed in 1999 in Dhaka. They are one of the most popular rock"
+      ],
+      "label": [
+        "Nemesis (<B>Bangladeshi</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Nemesis_(Bangladeshi_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_alternative_rock_groups",
+        "http://dbpedia.org/resource/Category:Bangladeshi_rock_music_groups"
+      ]
+    },
+    {
+      "score": [
+        "1382.3925"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_poets"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> : A List of 1990s Poets",
+        "Foreign surname of <B>Bangladeshi</B> Writers",
+        "List of 1990's poets in <B>Bangladesh</B>",
+        "List of <B>Bangladeshi</B> Poets",
+        "List of Bengladeshi poets"
+      ],
+      "comment": [
+        "Following is a list of <B>Bangladeshi</B> poets, either born in <B>Bangladesh</B> or who published much of their writing while living in the country."
+      ],
+      "label": [
+        "List of <B>Bangladeshi</B> poets"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_poets"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_poets",
+        "http://dbpedia.org/resource/Category:Lists_of_Bangladeshi_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_poets_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1337.0067"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_against_Ireland_in_2023"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in Ireland in 2020",
+        "<B>Bangladeshi</B> cricket team against Ireland in 2020",
+        "<B>Bangladeshi</B> cricket team against Ireland in 2022",
+        "<B>Bangladeshi</B> cricket team against Ireland in England in 2020",
+        "<B>Bangladeshi</B> cricket team in England and Ireland in 2020",
+        "<B>Bangladeshi</B> cricket team in Ireland and England in 2020",
+        "<B>Bangladeshi</B> cricket team in Ireland in 2020"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team against Ireland in 2023"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_against_Ireland_in_2023"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2020_in_Irish_cricket",
+        "http://dbpedia.org/resource/Category:2023_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_Ireland",
+        "http://dbpedia.org/resource/Category:Cricket_events_postponed_due_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2023"
+      ]
+    },
+    {
+      "score": [
+        "1310.7684"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Proclamation_of_Bangladeshi_Independence"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> declaration of independence",
+        "<B>Bangladeshi</B> Declaration of Independence",
+        "<B>Bangladeshi</B> declaration of independence"
+      ],
+      "comment": [
+        "The independence of <B>Bangladesh</B> was declared on 26 March 1971 at the onset of the <B>Bangladesh</B>"
+      ],
+      "label": [
+        "Proclamation of <B>Bangladeshi</B> Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Proclamation_of_Bangladeshi_Independence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_documents",
+        "http://dbpedia.org/resource/Category:Bangladesh_Liberation_War",
+        "http://dbpedia.org/resource/Category:Bangladeshi_documents",
+        "http://dbpedia.org/resource/Category:Declarations_of_independence",
+        "http://dbpedia.org/resource/Category:March_1971_events_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1297.4648"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_heavy_metal"
+      ],
+      "redirectlabel": [
+        "Bangla heavy metal",
+        "<B>Bangladeshi</B> Heavy Metal"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> heavy metal  or Bangla heavy metal was originated from the evolution of British and"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> heavy metal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_heavy_metal"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_music",
+        "http://dbpedia.org/resource/Category:Heavy_metal_by_location"
+      ]
+    },
+    {
+      "score": [
+        "1286.943"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh–India_border"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B>-India border",
+        "<B>Bangladesh</B>-India border crossing",
+        "<B>Bangladesh</B>-India border skirmishes",
+        "<B>Bangladesh</B> - India border",
+        "<B>Bangladesh</B>–India border crossing",
+        "<B>Bangladesh</B>–India border skirmishes",
+        "India-<B>Bangladesh</B> barrier",
+        "India-<B>Bangladesh</B> border",
+        "India-East Pakistan border",
+        "India - <B>Bangladesh</B> Fence",
+        "India – <B>Bangladesh</B> Fence",
+        "Indian <B>Bangladesh</B> barrier",
+        "India–<B>Bangladesh</B> barrier",
+        "India–<B>Bangladesh</B> border",
+        "India–East Pakistan border",
+        "Indo-Bangla barrier",
+        "Indo-<B>Bangladesh</B> border",
+        "Indo-<B>Bangladeshi</B> Barrier",
+        "Indo-<B>Bangladeshi</B> barrier",
+        "Indo-<B>Bangladeshi</B> border",
+        "Indo-<B>Bangladeshi</B> border fencing"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B>–India border, known locally as the International Border (IB), is an international"
+      ],
+      "label": [
+        "<B>Bangladesh</B>–India border"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh–India_border"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1947_establishments_in_East_Pakistan",
+        "http://dbpedia.org/resource/Category:1947_establishments_in_India",
+        "http://dbpedia.org/resource/Category:1947_in_international_relations",
+        "http://dbpedia.org/resource/Category:Bangladesh–India_border",
+        "http://dbpedia.org/resource/Category:Border_barriers",
+        "http://dbpedia.org/resource/Category:Borders_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Borders_of_India",
+        "http://dbpedia.org/resource/Category:Fences",
+        "http://dbpedia.org/resource/Category:Geography_of_Assam",
+        "http://dbpedia.org/resource/Category:Geography_of_West_Bengal",
+        "http://dbpedia.org/resource/Category:International_borders"
+      ]
+    },
+    {
+      "score": [
+        "1283.1306"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_English_literature"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> literature in English",
+        "<B>Bangladeshi</B> writing in English"
+      ],
+      "comment": [
+        " language in <B>Bangladesh</B> and the <B>Bangladeshi</B> diaspora. In academia, it is also referred to as <B>Bangladeshi</B>"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> English literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_English_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Bangladeshi_literature"
+      ]
+    },
+    {
+      "score": [
+        "1269.4093"
+      ],
+      "refCount": [
+        "1924"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dhaka"
+      ],
+      "redirectlabel": [
+        "Agradut Bidyanikaton High School",
+        "Capital city of <B>bangladesh</B>",
+        "Capital of <B>Bangladesh</B>",
+        "City of Mosques",
+        "City of Rickshaw",
+        "City of Rickshaws",
+        "Dacca, <B>Bangladesh</B>",
+        "Dacca",
+        "Dhaka, <B>Bangladesh</B>",
+        "Dhaka, East Pakistan",
+        "Dhaka City",
+        "Dhaka city",
+        "Dhakaia",
+        "Dhakka",
+        "Dhāka",
+        "Geography of Dhaka",
+        "Provincial capital of East Bengal",
+        "Public transport in Dhaka",
+        "Rickshaw Capital of the World",
+        "Transport in Dhaka",
+        "Western Grammar School",
+        "অগ্রদূত বিদ্যানিকেতন হাইস্কুল",
+        "ঢাকা"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " capital and largest city of <B>Bangladesh</B>. It is the sixth-largest and sixth-most densely populated"
+      ],
+      "label": [
+        "Dhaka"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dhaka"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:17th-century_BC_establishments",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Capitals_in_Asia",
+        "http://dbpedia.org/resource/Category:Capitals_of_Bengal",
+        "http://dbpedia.org/resource/Category:Cities_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Dhaka",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1608",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Dhaka_Division",
+        "http://dbpedia.org/resource/Category:South_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1269.0117"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Pakistan_in_2019–20"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team against Pakistan in the UAE in 2019-20",
+        "<B>Bangladesh</B> cricket team against Pakistan in the UAE in 2019–20",
+        "<B>Bangladesh</B> cricket team in Pakistan in 2019-20",
+        "<B>Bangladesh</B> cricket team in Pakistan in 2019–20",
+        "<B>Bangladeshi</B> cricket team against Pakistan in 2019-20",
+        "<B>Bangladeshi</B> cricket team against Pakistan in 2019–20",
+        "<B>Bangladeshi</B> cricket team against Pakistan in the UAE in 2019-20",
+        "<B>Bangladeshi</B> cricket team against Pakistan in the UAE in 2019–20",
+        "<B>Bangladeshi</B> cricket team in Pakistan in 2019-20"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> cricket team are currently touring Pakistan during January, February and April 2020"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in Pakistan in 2019–20"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Pakistan_in_2019–20"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2020_in_Pakistani_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Cricket_events_postponed_due_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2019–20"
+      ]
+    },
+    {
+      "score": [
+        "1258.7252"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1971_Bangladesh_genocide"
+      ],
+      "redirectlabel": [
+        "1971 <B>Bangladesh</B> Genocide",
+        "1971 <B>Bangladesh</B> atrocities",
+        "1971 <B>Bangladesh</B> massacres",
+        "1971 Bengal atrocities",
+        "1971 Bengal massacre",
+        "1971 Bengal massacres",
+        "1971 Bengali genocide",
+        "1971 East Pakistan genocide",
+        "1971 Genocide in <B>Bangladesh</B>",
+        "<B>Bangladesh</B> genocide",
+        "<B>Bangladeshi</B> Genocide",
+        "<B>Bangladeshi</B> genocide",
+        "<B>Bangladeshi</B> genocide in Eastern Pakistan",
+        "Bengali Genocide",
+        "Bengali Genocide of 1971",
+        "Bengali genocide",
+        "Genocide in <B>Bangladesh</B>",
+        "Genocide in <B>bangladesh</B>"
+      ],
+      "comment": [
+        "-Islami killed between 300,000 and 3,000,000 people and raped between 200,000 and 400,000 <B>Bangladeshi</B>"
+      ],
+      "label": [
+        "1971 <B>Bangladesh</B> genocide"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1971_Bangladesh_genocide"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_Bangladesh_genocide",
+        "http://dbpedia.org/resource/Category:1971_murders_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:20th-century_mass_murder_in_Asia",
+        "http://dbpedia.org/resource/Category:Bangladesh_Liberation_War",
+        "http://dbpedia.org/resource/Category:Bangladesh–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_in_Asia",
+        "http://dbpedia.org/resource/Category:Genocides_in_Asia",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1971",
+        "http://dbpedia.org/resource/Category:Massacres_committed_by_Pakistan_in_East_Pakistan",
+        "http://dbpedia.org/resource/Category:Massacres_in_1971",
+        "http://dbpedia.org/resource/Category:Massacres_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Pakistani_war_crimes",
+        "http://dbpedia.org/resource/Category:Persecution_of_Buddhists_by_Muslims",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Pakistan",
+        "http://dbpedia.org/resource/Category:War_crimes_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1254.0247"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ziaur_Rahman"
+      ],
+      "redirectlabel": [
+        "General Zia (<B>Bangladeshi</B>)",
+        "General Ziaur Rahman",
+        "Lieutenant-General Ziaur Rahman, Bir Uttam, Hilal-i-Jurat",
+        "Major Zia",
+        "Rahman, Ziaur",
+        "Zia ur rahman",
+        "Ziaur Rahman (<B>Bangladesh</B> President)",
+        "Ziaur Rahman (<B>Bangladeshi</B> general)",
+        "Ziaur Rahman (<B>Bangladeshi</B> politician)",
+        "Ziaur Rahman (Politician)",
+        "Ziaur Rahman (politician)",
+        "Ziaur Rehman",
+        "Ziaur Rohman",
+        "Ziaur Rôhman",
+        "জিয়াউর রহমান"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        ", Bir Uttom was the President of <B>Bangladesh</B>. He was an army officer turned statesmen who, as a"
+      ],
+      "label": [
+        "Ziaur Rahman"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ziaur_Rahman"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1936_births",
+        "http://dbpedia.org/resource/Category:1981_deaths",
+        "http://dbpedia.org/resource/Category:1981_murders_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:20th-century_Bengalis",
+        "http://dbpedia.org/resource/Category:Assassinated_Bangladeshi_politicians",
+        "http://dbpedia.org/resource/Category:Assassinated_heads_of_state",
+        "http://dbpedia.org/resource/Category:Bangladesh_Army_generals",
+        "http://dbpedia.org/resource/Category:Bangladesh_Nationalist_Party_politicians",
+        "http://dbpedia.org/resource/Category:Bangladeshi_Muslims",
+        "http://dbpedia.org/resource/Category:Bangladeshi_people_of_Iranian_descent",
+        "http://dbpedia.org/resource/Category:Bangladeshi_political_party_founders",
+        "http://dbpedia.org/resource/Category:Chiefs_of_Army_Staff,_Bangladesh",
+        "http://dbpedia.org/resource/Category:D._J._Sindh_Government_Science_College_alumni",
+        "http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Hare_School_alumni",
+        "http://dbpedia.org/resource/Category:Mukti_Bahini_personnel",
+        "http://dbpedia.org/resource/Category:People_from_Bogra_District",
+        "http://dbpedia.org/resource/Category:Presidents_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Recipients_of_Hilal-i-Jur'at",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Bir_Uttom",
+        "http://dbpedia.org/resource/Category:Sunni_Muslims",
+        "http://dbpedia.org/resource/Category:Ziaur_Rahman"
+      ]
+    },
+    {
+      "score": [
+        "1248.4025"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_writers"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Writer",
+        "<B>Bangladeshi</B> Writers",
+        "List of <B>Bangladeshi</B> Muslim Writers"
+      ],
+      "comment": [
+        "The Writers listed below were either born in <B>Bangladesh</B> or else published much of their writing while living in that country."
+      ],
+      "label": [
+        "List of <B>Bangladeshi</B> writers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_writers"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_writers",
+        "http://dbpedia.org/resource/Category:Lists_of_writers_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1236.887"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001_Bangladeshi_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> general election, 2001",
+        "<B>Bangladeshi</B> parliamentary election, 2001",
+        "Seventh parliamentary election in <B>Bangladesh</B>",
+        "Seventh parliamentary elections in <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " held in <B>Bangladesh</B> on 1 October 2001. 300 single-seat constituencies for the Jatiya Sangsad were"
+      ],
+      "label": [
+        "2001 <B>Bangladeshi</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001_Bangladeshi_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2001_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2001_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:October_2001_events_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1235.7302"
+      ],
+      "refCount": [
+        "120"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Curry"
+      ],
+      "redirectlabel": [
+        "African curry",
+        "<B>Bangladeshi</B> curries",
+        "Bengali curries",
+        "Bhuna",
+        "Chinese chicken curry",
+        "Curries",
+        "Curries of Balochistan",
+        "Curries of <B>Bangladeshi</B>",
+        "Curries of Bengali",
+        "Curries of Nepal",
+        "Curries of Northeast India",
+        "Curries of Oriya",
+        "Curries of Pakistan",
+        "Curries of the Maldives",
+        "Curries of the Philippines",
+        "Curry (dish)",
+        "Curry (food)",
+        "Curry of Pakistan",
+        "Curry sauce",
+        "History of curry",
+        "Indian curry",
+        "Indonesian curry",
+        "Kaeng kari",
+        "Korean curry",
+        "Malay curry",
+        "Malaysian curry",
+        "Northeast Indian and Nepalese curries",
+        "Oriya curries",
+        "Pakistani curries",
+        "Pakistani curry",
+        "Saalan",
+        "Vietnamese curry",
+        "West Indies curries"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "Curry (plural curries) is a variety of dishes originating in the Indian subcontinent, dating back to the Indus Valley Civilisation, that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies. Curry is generally prepared in a sauce. Curry dishes prepared in the southern states of India, where the word also originated, may be spiced with leaves from the curry tree."
+      ],
+      "label": [
+        "Curry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Curry"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghan_cuisine",
+        "http://dbpedia.org/resource/Category:Bahamian_cuisine",
+        "http://dbpedia.org/resource/Category:Bengali_cuisine",
+        "http://dbpedia.org/resource/Category:Bhutanese_cuisine",
+        "http://dbpedia.org/resource/Category:British_cuisine",
+        "http://dbpedia.org/resource/Category:Burmese_cuisine",
+        "http://dbpedia.org/resource/Category:Chili_pepper_dishes",
+        "http://dbpedia.org/resource/Category:Chinese_cuisine",
+        "http://dbpedia.org/resource/Category:Fijian_cuisine",
+        "http://dbpedia.org/resource/Category:Guyanese_cuisine",
+        "http://dbpedia.org/resource/Category:Indian_cuisine",
+        "http://dbpedia.org/resource/Category:Indonesian_cuisine",
+        "http://dbpedia.org/resource/Category:Jamaican_cuisine",
+        "http://dbpedia.org/resource/Category:Japanese_cuisine",
+        "http://dbpedia.org/resource/Category:Kashmiri_cuisine",
+        "http://dbpedia.org/resource/Category:Korean_cuisine",
+        "http://dbpedia.org/resource/Category:Malaysian_cuisine",
+        "http://dbpedia.org/resource/Category:Maldivian_cuisine",
+        "http://dbpedia.org/resource/Category:Nepalese_cuisine",
+        "http://dbpedia.org/resource/Category:Pakistani_cuisine",
+        "http://dbpedia.org/resource/Category:Philippine_cuisine",
+        "http://dbpedia.org/resource/Category:South_African_cuisine",
+        "http://dbpedia.org/resource/Category:South_Asian_cuisine",
+        "http://dbpedia.org/resource/Category:Sri_Lankan_cuisine",
+        "http://dbpedia.org/resource/Category:Thai_cuisine",
+        "http://dbpedia.org/resource/Category:Trinidad_and_Tobago_cuisine",
+        "http://dbpedia.org/resource/Category:Vietnamese_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1233.9421"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018_Bangladeshi_general_election"
+      ],
+      "redirectlabel": [
+        "2018 <B>Bangladesh</B> elections",
+        "2018 <B>Bangladesh</B> general election",
+        "2018 <B>Bangladesh</B> general elections",
+        "2018 elections in <B>Bangladesh</B>",
+        "<B>Bangladesh</B> general elections, 2018",
+        "<B>Bangladeshi</B> general election, 2018"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Bangladesh</B> on 30 December 2018 to elect members of the Jatiya"
+      ],
+      "label": [
+        "2018 <B>Bangladeshi</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018_Bangladeshi_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2018_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2018_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:December_2018_events_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1141.9976"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cricket_in_Bangladesh"
+      ],
+      "redirectlabel": [
+        "2007-08 <B>Bangladeshi</B> cricket season",
+        "2008-09 <B>Bangladeshi</B> cricket season",
+        "Famous <B>Bangladeshi</B> cricketers",
+        "History of <B>Bangladeshi</B> cricket",
+        "History of <B>Bangladeshi</B> cricket to 1999",
+        "History of <B>Bangladeshi</B> cricket to 2000",
+        "History of cricket in <B>Bangladesh</B>",
+        "History of cricket in <B>bangladesh</B>",
+        "Kenyan cricket team in <B>Bangladesh</B> in 2005-06",
+        "List of <B>Bangladeshi</B> cricketers",
+        "Marylebone Cricket Club cricket team in <B>Bangladesh</B> in 1999-2000",
+        "Pakistani cricket team in <B>Bangladesh</B> in 2001-02",
+        "West Indian cricket team in <B>Bangladesh</B> 1999-2000",
+        "West Indian cricket team in <B>Bangladesh</B> in 1999-2000",
+        "West Indies A cricket team in <B>Bangladesh</B> in 1998-99",
+        "Zimbabwean cricket team in <B>Bangladesh</B> in 2001-02"
+      ],
+      "comment": [
+        "Cricket is the most popular sport in <B>Bangladesh</B>. There is a strong domestic league which on many"
+      ],
+      "label": [
+        "Cricket in <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cricket_in_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cricket_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Sports_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1134.648"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_folk_literature"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Folk Literature",
+        "Bengali folk literature",
+        "Folk Literature of <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> Folk Literature (Bengali: বাংলা লোক/পল্লী সাহিত্য) constitutes a considerable portion"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> folk literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_folk_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_literature",
+        "http://dbpedia.org/resource/Category:Bengali-language_literature"
+      ]
+    },
+    {
+      "score": [
+        "1128.9772"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh–Pakistan_relations"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B>-Pakistan relations",
+        "<B>Bangladesh</B> - Pakistan relations",
+        "<B>Bangladesh</B> Pakistan relations",
+        "<B>Bangladesh</B> and Pakistan",
+        "<B>Bangladesh</B> – Pakistan relations",
+        "History of <B>Bangladesh</B>-Pakistan relations",
+        "History of <B>Bangladesh</B>–Pakistan relations",
+        "Pakistan-<B>Bangladesh</B> relations",
+        "Pakistan-<B>Bangladeshi</B> relations",
+        "Pakistan - <B>Bangladesh</B> relations",
+        "Pakistan <B>Bangladesh</B> relations",
+        "Pakistan and <B>Bangladesh</B>",
+        "Pakistan – <B>Bangladesh</B> relations",
+        "Pakistani-<B>Bangladeshi</B> relations",
+        "Pakistani viewpoint about creation of <B>Bangladesh</B>",
+        "Pakistani–<B>Bangladeshi</B> relations",
+        "Pakistan–<B>Bangladesh</B> relations"
+      ],
+      "comment": [
+        "Pakistan and <B>Bangladesh</B> are both South Asian Muslim-majority countries. Following the end of the"
+      ],
+      "label": [
+        "<B>Bangladesh</B>–Pakistan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh–Pakistan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Bangladesh–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Pakistan_and_the_Commonwealth_of_Nations"
+      ]
+    },
+    {
+      "score": [
+        "1110.5056"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Bangladeshi_cricket_season"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Bangladeshi</B> cricket season",
+        "1999-2000 <B>Bangladeshi</B> cricket season",
+        "1999–00 <B>Bangladeshi</B> cricket season"
+      ],
+      "comment": [
+        "The 1999–2000 cricket season in <B>Bangladesh</B> saw the introduction of the National Cricket League"
+      ],
+      "label": [
+        "1999–2000 <B>Bangladeshi</B> cricket season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Bangladeshi_cricket_season"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2000_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_seasons_from_1971–72_to_2000",
+        "http://dbpedia.org/resource/Category:Domestic_cricket_competitions_in_1999–2000"
+      ]
+    },
+    {
+      "score": [
+        "1102.7377"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_hip_hop"
+      ],
+      "redirectlabel": [
+        "Bangla Hip-Hop",
+        "<B>Bangladeshi</B> Hip-Hop",
+        "Bengali Hip-Hop"
+      ],
+      "comment": [
+        " hop music developed in <B>Bangladesh</B>. <B>Bangladeshi</B> hip hop is heavily influenced heavily from American"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> hip hop"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_hip_hop"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_music_genres",
+        "http://dbpedia.org/resource/Category:21st-century_music_genres",
+        "http://dbpedia.org/resource/Category:Bangladeshi_hip_hop",
+        "http://dbpedia.org/resource/Category:Bangladeshi_music",
+        "http://dbpedia.org/resource/Category:Bangladeshi_styles_of_music"
+      ]
+    },
+    {
+      "score": [
+        "1100.1823"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Archives_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> National Archive",
+        "<B>Bangladesh</B> National Archives",
+        "<B>Bangladeshi</B> National Archive",
+        "<B>Bangladeshi</B> National Archives",
+        "National Archive of <B>Bangladesh</B>",
+        "The <B>Bangladesh</B> National Archive",
+        "The <B>Bangladesh</B> National Archives",
+        "The <B>Bangladeshi</B> National Archive",
+        "The <B>Bangladeshi</B> National Archives",
+        "The National Archive of <B>Bangladesh</B>",
+        "The National Archives of <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The National Archives of <B>Bangladesh</B> (NAB) are based in Dhaka and contain 225,000 volumes of"
+      ],
+      "label": [
+        "National Archives of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Archives_of_Bangladesh"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Archives_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:National_archives",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Dhaka"
+      ]
+    },
+    {
+      "score": [
+        "1092.9967"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/June_1996_Bangladeshi_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> general election, 1996 (Jun)",
+        "<B>Bangladeshi</B> general election, June 1996"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " held in <B>Bangladesh</B> on 12 June 1996. The result was a victory for the <B>Bangladesh</B> Awami League, which"
+      ],
+      "label": [
+        "June 1996 <B>Bangladeshi</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/June_1996_Bangladeshi_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1996_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:1996_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:June_1996_events_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1092.9388"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/February_1996_Bangladeshi_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> general election, 1996 (Feb)",
+        "<B>Bangladeshi</B> general election, February 1996"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " in <B>Bangladesh</B> on 15 February 1996. They were boycotted by most opposition parties, and saw voter"
+      ],
+      "label": [
+        "February 1996 <B>Bangladeshi</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/February_1996_Bangladeshi_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1996_elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:1996_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:February_1996_events_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1089.981"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Navy"
+      ],
+      "redirectlabel": [
+        "Bangla Navy",
+        "<B>Bangladesh</B> Nau Bāhinī",
+        "<B>Bangladesh</B> navy",
+        "<B>Bangladeshi</B> Navy",
+        "Bengali Navy",
+        "Chief of the Naval Staff (<B>Bangladesh</B>)",
+        "Exercise Somudro Ghurni",
+        "Field Intelligent Stuff",
+        "History of the <B>Bangladesh</B> Navy",
+        "M.H. Khan",
+        "MH Khan",
+        "Navy of <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " of the <B>Bangladesh</B> Armed Forces, responsible for <B>Bangladesh's</B> 118,813 square kilometres (45,874 sq"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_Navy",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1971",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Independence_Day_Award",
+        "http://dbpedia.org/resource/Category:Uniformed_services_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1082.2542"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_fifty-poysha_coin"
+      ],
+      "redirectlabel": [
+        "50 <B>Bangladeshi</B> Paisa",
+        "50 <B>Bangladeshi</B> Poysha"
+      ],
+      "comment": [
+        "The <B>Bangladeshi</B> decimal fifty-poysha coin (Bengali: পঞ্চাশ পয়সা) was first minted in 1973. It is a"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> fifty-poysha coin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_fifty-poysha_coin"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1073.9094"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Bangladesh</B>",
+        "BDAF",
+        "Bangla Air Force",
+        "<B>Bangladeshi</B> Air Force",
+        "Bengali Air Force",
+        "History of the <B>Bangladesh</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " defence of <B>Bangladesh's</B> sovereign territory, and providing air support to the <B>Bangladesh</B> Army and"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1971",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Independence_Day_Award",
+        "http://dbpedia.org/resource/Category:Uniformed_services_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1055.0903"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh–India_relations"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B>-India Relations",
+        "<B>Bangladesh</B>-India relations",
+        "<B>Bangladesh</B>- India relations",
+        "<B>Bangladesh</B> - India relations",
+        "<B>Bangladesh</B> India relations",
+        "<B>Bangladesh</B> and India",
+        "<B>Bangladesh</B> – India relations",
+        "<B>Bangladeshi</B>-Indian relations",
+        "<B>Bangladesh</B>– India relations",
+        "History of <B>Bangladesh</B>-India relations",
+        "History of <B>Bangladesh</B>–India relations",
+        "India-<B>Bangladesh</B> Relations",
+        "India-<B>Bangladesh</B> relations",
+        "India- <B>Bangladesh</B> relations",
+        "India - <B>Bangladesh</B> relations",
+        "India <B>Bangladesh</B> relations",
+        "India and <B>Bangladesh</B>",
+        "India – <B>Bangladesh</B> relations",
+        "India–<B>Bangladesh</B> relations",
+        "India– <B>Bangladesh</B> relations",
+        "Indo-Bangla relations",
+        "Indo-<B>Bangladeshi</B> relations",
+        "Indo–Bangla relations"
+      ],
+      "comment": [
+        "<B>Bangladesh</B> and India are South Asian neighbours. Relations have been friendly, although sometimes"
+      ],
+      "label": [
+        "<B>Bangladesh</B>–India relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh–India_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Bangladesh–India_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_India",
+        "http://dbpedia.org/resource/Category:India_and_the_Commonwealth_of_Nations"
+      ]
+    },
+    {
+      "score": [
+        "1035.9669"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Armed Forces of <B>Bangladesh</B>",
+        "Bangla Armed Forces",
+        "<B>Bangladesh</B>/Military",
+        "<B>Bangladesh</B> Defence Forces",
+        "<B>Bangladesh</B> military",
+        "<B>Bangladeshi</B> Armed Forces",
+        "Bengali Armed Forces",
+        "History of the <B>Bangladesh</B> Armed Forces",
+        "Military of <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> Armed Forces (Bengali: বাংলাদেশ সশস্ত্র বাহিনী, Bānlādēśa saśastra bāhinī) consists"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Military_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1033.7727"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ark_(Bangladeshi_band)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Ark is a <B>Bangladeshi</B> rock band formed in 1991 in Dhaka City by keyboardist Ashiquzzaman Tulu. The"
+      ],
+      "label": [
+        "Ark (<B>Bangladeshi</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ark_(Bangladeshi_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bangladeshi_hard_rock_musical_groups",
+        "http://dbpedia.org/resource/Category:Bangladeshi_heavy_metal_musical_groups",
+        "http://dbpedia.org/resource/Category:Bangladeshi_rock_music_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1991"
+      ]
+    },
+    {
+      "score": [
+        "1030.735"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Textile_industry_in_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> garment industry",
+        "<B>Bangladesh</B> textile industry",
+        "<B>Bangladeshi</B> RMG Sector",
+        "<B>Bangladeshi</B> garment industry",
+        "<B>Bangladeshi</B> garments",
+        "Garment industry in <B>Bangladesh</B>",
+        "History of textile production in <B>Bangladesh</B>",
+        "History of the textile industry in <B>Bangladesh</B>",
+        "Textile industry of <B>Bangladesh</B>",
+        "Textiles of <B>Bangladesh</B>"
+      ],
+      "comment": [
+        " (GDP) of <B>Bangladesh</B> at US$6.29 billion, and it grew to $173.82 billion by 2014, with $31.2 billion of"
+      ],
+      "label": [
+        "Textile industry in <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Textile_industry_in_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_clothing",
+        "http://dbpedia.org/resource/Category:Industry_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Manufacturing_companies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Textile_industry_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "1020.0414"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012–13_Bangladeshi_cricket_season"
+      ],
+      "redirectlabel": [
+        "2012-13 <B>Bangladeshi</B> cricket season",
+        "2012-13 National Cricket League",
+        "2012-13 National Cricket League Season",
+        "2012–13 National Cricket League",
+        "<B>Bangladesh</B> Cricket League 2012-13",
+        "National Cricket League 2012-13"
+      ],
+      "comment": [
+        "The 2012–13 season in <B>Bangladesh</B> was the thirteenth in which first-class cricket was played at the"
+      ],
+      "label": [
+        "2012–13 <B>Bangladeshi</B> cricket season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012–13_Bangladeshi_cricket_season"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2013_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_seasons_from_2000–01",
+        "http://dbpedia.org/resource/Category:Domestic_cricket_competitions_in_2012–13"
+      ]
+    },
+    {
+      "score": [
+        "1019.48755"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mohammed_Nasim"
+      ],
+      "redirectlabel": [
+        "Mohammad Nasim",
+        "Mohammed Nasim (<B>Bangladesh</B>)",
+        "Mohammed Nasim (former <B>Bangladeshi</B> Cabinet Minister)",
+        "Mohammed Nasim (former <B>Bangladeshi</B> Home Minister)",
+        "Mohammed Nasim (politician)"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Mohammed Nasim (born 2 April 1948) is a <B>Bangladesh</B> Awami League politician served as the former"
+      ],
+      "label": [
+        "Mohammed Nasim"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mohammed_Nasim"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:10th_Jatiya_Sangsad_members",
+        "http://dbpedia.org/resource/Category:11th_Jatiya_Sangsad_members",
+        "http://dbpedia.org/resource/Category:1948_births",
+        "http://dbpedia.org/resource/Category:2020_deaths",
+        "http://dbpedia.org/resource/Category:20th-century_Bengalis",
+        "http://dbpedia.org/resource/Category:21st-century_Bengalis",
+        "http://dbpedia.org/resource/Category:3rd_Jatiya_Sangsad_members",
+        "http://dbpedia.org/resource/Category:5th_Jatiya_Sangsad_members",
+        "http://dbpedia.org/resource/Category:7th_Jatiya_Sangsad_members",
+        "http://dbpedia.org/resource/Category:8th_Jatiya_Sangsad_members",
+        "http://dbpedia.org/resource/Category:Awami_League_politicians",
+        "http://dbpedia.org/resource/Category:Deaths_from_the_COVID-19_pandemic_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Health_and_Family_Welfare_ministers_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Home_Affairs_ministers_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Jagannath_University_alumni",
+        "http://dbpedia.org/resource/Category:Pabna_Edward_College_alumni",
+        "http://dbpedia.org/resource/Category:People_from_Sirajganj_District"
+      ]
+    },
+    {
+      "score": [
+        "1011.5061"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_India_in_2016–17"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in India in 2016",
+        "<B>Bangladeshi</B> cricket team in India in 2016-17",
+        "<B>Bangladeshi</B> cricket team in India in 2016",
+        "<B>Bangladeshi</B> cricket team in India in 2017"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> cricket team toured India in February 2017 to play one Test match. The series was"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in India in 2016–17"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_India_in_2016–17"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2017_in_Indian_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_India",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2016–17"
+      ]
+    },
+    {
+      "score": [
+        "1011.1257"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh–United_States_relations"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B>-U.S. relations",
+        "<B>Bangladesh</B>-US relations",
+        "<B>Bangladesh</B>-United States relations",
+        "<B>Bangladesh</B> - U.S. relations",
+        "<B>Bangladesh</B> - US relations",
+        "<B>Bangladesh</B> - United States relations",
+        "<B>Bangladesh</B> U.S. relations",
+        "<B>Bangladesh</B> US relations",
+        "<B>Bangladesh</B> United States relations",
+        "<B>Bangladesh</B> – U.S. relations",
+        "<B>Bangladesh</B> – US relations",
+        "<B>Bangladesh</B> – United States relations",
+        "<B>Bangladesh</B>–U.S. relations",
+        "<B>Bangladesh</B>–US relations",
+        "History of <B>Bangladesh</B>-United States relations",
+        "History of <B>Bangladesh</B>–United States relations",
+        "U.S.-<B>Bangladesh</B> relations",
+        "U.S. - <B>Bangladesh</B> relations",
+        "U.S. <B>Bangladesh</B> relations",
+        "U.S.–<B>Bangladesh</B> relations",
+        "US-<B>Bangladesh</B> relations",
+        "US-<B>Bangladeshi</B> relations",
+        "US - <B>Bangladesh</B> relations",
+        "US <B>Bangladesh</B> relations",
+        "US–<B>Bangladesh</B> relations",
+        "US–<B>Bangladeshi</B> relations",
+        "United States-<B>Bangladesh</B> relations",
+        "United States - <B>Bangladesh</B> relations",
+        "United States <B>Bangladesh</B> relations",
+        "United States – <B>Bangladesh</B> relations",
+        "United States–<B>Bangladesh</B> relations"
+      ],
+      "comment": [
+        "<B>Bangladesh</B>–United States relations are the current and historical relations between <B>Bangladesh</B> and"
+      ],
+      "label": [
+        "<B>Bangladesh</B>–United States relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh–United_States_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh–United_States_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "991.2478"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_New_Zealand_in_2018–19"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in New Zealand in 2018-19",
+        "<B>Bangladesh</B> cricket team in New Zealand in 2018–19",
+        "<B>Bangladesh</B> cricket team in New Zealand in 2019",
+        "<B>Bangladeshi</B> cricket team in New Zealand in 2018-19",
+        "<B>Bangladeshi</B> cricket team in New Zealand in 2019",
+        "New Zealand cricket team in <B>Bangladesh</B> in 2018-19",
+        "New Zealand cricket team in <B>Bangladesh</B> in 2018–19",
+        "New Zealand cricket team in <B>Bangladesh</B> in 2019"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> cricket team toured New Zealand in February and March 2019 to play three Tests and"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in New Zealand in 2018–19"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_New_Zealand_in_2018–19"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2019_in_New_Zealand_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_New_Zealand",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2018–19"
+      ]
+    },
+    {
+      "score": [
+        "989.3677"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_the_West_Indies_and_the_United_States_in_2018"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in the West Indies and the United States in 2018",
+        "<B>Bangladesh</B> cricket team in the West Indies in 2017-18",
+        "<B>Bangladesh</B> cricket team in the West Indies in 2017–18",
+        "<B>Bangladesh</B> cricket team in the West Indies in 2018",
+        "<B>Bangladeshi</B> cricket team in the West Indies in 2017-18",
+        "<B>Bangladeshi</B> cricket team in the West Indies in 2017–18",
+        "<B>Bangladeshi</B> cricket team in the West Indies in 2018",
+        "West Indian cricket team in <B>Bangladesh</B> in 2017-18",
+        "West Indies cricket team in <B>Bangladesh</B> in 2017-18",
+        "West Indies cricket team in <B>Bangladesh</B> in 2017–18"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> cricket team toured the West Indies and the United States between June and August"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in the West Indies and the United States in 2018"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_the_West_Indies_and_the_United_States_in_2018"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2018_in_West_Indian_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_the_West_Indies",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2018"
+      ]
+    },
+    {
+      "score": [
+        "987.21625"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> Canadians are Canadian citizens of <B>Bangladeshi</B> descent or a <B>Bangladesh</B>-born permanent resident who resides in Canada."
+      ],
+      "label": [
+        "<B>Bangladeshi</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Bangladeshi_Canadian",
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Bangladeshi_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:South_Asian_Canadian"
+      ]
+    },
+    {
+      "score": [
+        "976.9012"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1985_Bangladeshi_military_rule_referendum"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> military rule referendum, 1985",
+        "<B>Bangladeshi</B> referendum, 1985"
+      ],
+      "comment": [
+        "A referendum on military rule was held in <B>Bangladesh</B> on 21 March 1985 in order to confirm the"
+      ],
+      "label": [
+        "1985 <B>Bangladeshi</B> military rule referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1985_Bangladeshi_military_rule_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:1985_referendums",
+        "http://dbpedia.org/resource/Category:Military_reform_referendums",
+        "http://dbpedia.org/resource/Category:Referendums_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "963.19574"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015_Bangladeshi_political_crisis"
+      ],
+      "redirectlabel": [
+        "2015 <B>Bangladeshi</B> political unrest",
+        "<B>Bangladesh</B> Political Unrest 2015"
+      ],
+      "comment": [
+        "The 2015 <B>Bangladeshi</B> political crisis is an ongoing state of political turmoil between the two main"
+      ],
+      "label": [
+        "2015 <B>Bangladeshi</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015_Bangladeshi_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2015_in_politics",
+        "http://dbpedia.org/resource/Category:Politics_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "956.8903"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Elections_in_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> elections",
+        "Elections in <B>bangladesh</B>",
+        "Next <B>Bangladeshi</B> presidential election",
+        "Next <B>bangladeshi</B> presidential election"
+      ],
+      "comment": [
+        "Elections in <B>Bangladesh</B> gives information on election and election results in <B>Bangladesh</B>"
+      ],
+      "label": [
+        "Elections in <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Elections_in_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Elections_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:General_elections_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "956.8495"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh–Russia_relations"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B>-Russia relations",
+        "<B>Bangladesh</B> - Russia relations",
+        "<B>Bangladesh</B> Russia relations",
+        "<B>Bangladesh</B> – Russia relations",
+        "Russia-<B>Bangladesh</B> relations",
+        "Russia - <B>Bangladesh</B> relations",
+        "Russia <B>Bangladesh</B> relations",
+        "Russia – <B>Bangladesh</B> relations",
+        "Russia–<B>Bangladesh</B> relations",
+        "Soviet-<B>Bangladeshi</B> Relations",
+        "Soviet-<B>Bangladeshi</B> relations"
+      ],
+      "comment": [
+        "<B>Bangladesh</B>–Russia relations (Russian: Российско-бангладешские отношения) refers to foreign"
+      ],
+      "label": [
+        "<B>Bangladesh</B>–Russia relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh–Russia_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh–Russia_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Russia"
+      ]
+    },
+    {
+      "score": [
+        "950.04944"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013–14_Bangladeshi_cricket_season"
+      ],
+      "redirectlabel": [
+        "2013-14 <B>Bangladeshi</B> cricket season",
+        "2013-14 National Cricket League",
+        "2013-14 National Cricket League Season",
+        "2013–14 National Cricket League",
+        "2013–14 National Cricket League Season"
+      ],
+      "comment": [
+        " political disturbances caused by issues arising from the 2014 <B>Bangladeshi</B> general election."
+      ],
+      "label": [
+        "2013–14 <B>Bangladeshi</B> cricket season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013–14_Bangladeshi_cricket_season"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2014_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_seasons_from_2000–01",
+        "http://dbpedia.org/resource/Category:Domestic_cricket_competitions_in_2013–14"
+      ]
+    },
+    {
+      "score": [
+        "936.02295"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> Indian"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_Indian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_Indian"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Indian (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "932.79266"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prime_Minister_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Prime Minister",
+        "Head of government of <B>Bangladesh</B>",
+        "Prime minister of <B>Bangladesh</B>",
+        "Prime minister of <B>bangladesh</B>"
+      ],
+      "comment": [
+        "The Prime Minister of the People's Republic of <B>Bangladesh</B> (Bengali: গণপ্রজাতন্ত্রী বাংলাদেশের"
+      ],
+      "label": [
+        "Prime Minister of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prime_Minister_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Government_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Politics_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Prime_Ministers_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "928.17755"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/British_Bangladeshi_Power_&_Inspiration_100"
+      ],
+      "redirectlabel": [
+        "BBPower100",
+        "British <B>Bangladeshi</B> Power 100"
+      ],
+      "typeName": [
+        "Book",
+        "WrittenWork",
+        "Work"
+      ],
+      "comment": [
+        "British <B>Bangladeshi</B> Power & Inspiration 100 (previously known as British <B>Bangladeshi</B> Power 100 and"
+      ],
+      "label": [
+        "British <B>Bangladeshi</B> Power & Inspiration 100"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/British_Bangladeshi_Power_&_Inspiration_100"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Book",
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:2012_non-fiction_books",
+        "http://dbpedia.org/resource/Category:Annual_events_in_London",
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:British_awards",
+        "http://dbpedia.org/resource/Category:British_biographical_dictionaries",
+        "http://dbpedia.org/resource/Category:English-language_books",
+        "http://dbpedia.org/resource/Category:English_non-fiction_books",
+        "http://dbpedia.org/resource/Category:Lists_of_British_people",
+        "http://dbpedia.org/resource/Category:Top_people_lists"
+      ]
+    },
+    {
+      "score": [
+        "922.51013"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_New_Zealand_in_2016–17"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in New Zealand in 2016-17",
+        "<B>Bangladesh</B> cricket team in New Zealand in 2016",
+        "<B>Bangladesh</B> cricket team in New Zealand in 2016–17",
+        "<B>Bangladeshi</B> cricket team in New Zealand in 2016-17",
+        "<B>Bangladeshi</B> cricket team in New Zealand in 2016"
+      ],
+      "comment": [
+        "The <B>Bangladeshi</B> cricket team toured New Zealand from December 2016 to January 2017 to play two Test"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in New Zealand in 2016–17"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_New_Zealand_in_2016–17"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2016_in_New_Zealand_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_New_Zealand",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2016–17"
+      ]
+    },
+    {
+      "score": [
+        "917.5223"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001_Bangladesh–India_border_clashes"
+      ],
+      "redirectlabel": [
+        "2001 <B>Bangladesh</B>-India border clashes",
+        "2001 <B>Bangladesh</B>- India border clashes",
+        "2001 <B>Bangladeshi</B>-Indian border skirmish",
+        "2001 Indian-<B>Bangladeshi</B> border conflict",
+        "2001 Indian–<B>Bangladeshi</B> border conflict",
+        "2001 Indo-Bangla Border Skirmish",
+        "Indo-Bangla Conflict of 2001",
+        "Indo-<B>Bangladesh</B> Border Conflict of 2001",
+        "Indo-<B>Bangladesh</B> Conflict of 2001",
+        "Indo-<B>Bangladesh</B> War of 2001",
+        "Indo-<B>Bangladesh</B> conflict of 2001",
+        "Padua War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2001 <B>Bangladeshi</B>-India border skirmish took place in the third week of April 2001 between"
+      ],
+      "label": [
+        "2001 <B>Bangladesh</B>–India border clashes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001_Bangladesh–India_border_clashes"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:2001_in_India",
+        "http://dbpedia.org/resource/Category:Bangladesh–India_border",
+        "http://dbpedia.org/resource/Category:Battles_in_2001",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_India"
+      ]
+    },
+    {
+      "score": [
+        "914.70667"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cabinet_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "Bangla Government",
+        "Bangla cabinet",
+        "<B>Bangladesh</B> Government",
+        "<B>Bangladeshi</B> Government",
+        "<B>Bangladeshi</B> government",
+        "Bengali cabinet",
+        "Government of the People's Republic of <B>Bangladesh</B>",
+        "Ministries of <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "The Cabinet of <B>Bangladesh</B> (Bengali: বাংলাদেশের মন্ত্রিসভা – Bānglādēśēr Mantri'sabhā) or Council of"
+      ],
+      "label": [
+        "Cabinet of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cabinet_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cabinets_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Government_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:National_cabinets"
+      ]
+    },
+    {
+      "score": [
+        "902.634"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_South_Africa_in_2017–18"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in South Africa in 2017-18",
+        "<B>Bangladesh</B> cricket team in South Africa in 2017",
+        "<B>Bangladesh</B> cricket team in South Africa in 2017–18",
+        "<B>Bangladeshi</B> cricket team in South Africa in 2017-18",
+        "<B>Bangladeshi</B> cricket team in South Africa in 2017"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> cricket team toured South Africa in September and October 2017 to play two Tests"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in South Africa in 2017–18"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_South_Africa_in_2017–18"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2017_in_South_African_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_South_Africa",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2017–18"
+      ]
+    },
+    {
+      "score": [
+        "902.04535"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Sri_Lanka_in_2016–17"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in Sri Lanka in 2016-17",
+        "<B>Bangladesh</B> cricket team in Sri Lanka in 2016–17",
+        "<B>Bangladesh</B> cricket team in Sri Lanka in 2017",
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2016-17",
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2017"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> national cricket team toured Sri Lanka from March 2017 to April 2017. The tour"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2016–17"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Sri_Lanka_in_2016–17"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2017_in_Sri_Lankan_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_Sri_Lanka",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2016–17"
+      ]
+    },
+    {
+      "score": [
+        "901.66547"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_films_of_2009"
+      ],
+      "redirectlabel": [
+        "List of <B>Bangladeshi</B> Films in 2009",
+        "List of <B>Bangladeshi</B> films in 2009"
+      ],
+      "comment": [
+        "This is a list of <B>Bangladeshi</B> films released in 2009."
+      ],
+      "label": [
+        "List of <B>Bangladeshi</B> films of 2009"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_films_of_2009"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Lists_of_2009_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Bangladeshi_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "897.838"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_South_Africa_in_2021–22"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> cricket team in South Africa in 2021-22",
+        "<B>Bangladeshi</B> cricket team in South Africa in 2021",
+        "South African cricket team in <B>Bangladesh</B> in 2021-22",
+        "South African cricket team in <B>Bangladesh</B> in 2021–22",
+        "South African cricket team in <B>Bangladesh</B> in 2022"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in South Africa in 2021–22"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_South_Africa_in_2021–22"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2022_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2022_in_South_African_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_South_Africa",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2021–22"
+      ]
+    },
+    {
+      "score": [
+        "893.86816"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_New_Zealanders"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> New Zealander"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " around 1,623 <B>Bangladeshis</B> in New Zealand, according to the census in 2013. The largest <B>Bangladeshi</B>"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> New Zealanders"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_New_Zealanders"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_New_Zealander",
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora",
+        "http://dbpedia.org/resource/Category:New_Zealand_people_of_Bangladeshi_descent"
+      ]
+    },
+    {
+      "score": [
+        "885.925"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_English"
+      ],
+      "redirectlabel": [
+        "Banglish",
+        "Benglish",
+        "En-BD",
+        "English in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "<B>Bangladeshi</B> English, Banglish, Benglish or Anglo-Bangla is a <B>Bangladeshi</B> variety of English heavily"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> English"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_English"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dialects_of_English",
+        "http://dbpedia.org/resource/Category:English_as_a_global_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_1970s",
+        "http://dbpedia.org/resource/Category:Languages_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "881.5487"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Christianity_in_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> Lutheran Church",
+        "<B>Bangladeshi</B> Christian",
+        "Chirstianity in <B>Bangladesh</B>",
+        "Christianity in <B>bangladesh</B>",
+        "History of Christianity in <B>Bangladesh</B>",
+        "Persecution of <B>Bangladeshi</B> Christians",
+        "Persecution of Christians in <B>Bangladesh</B>",
+        "Protestantism in <B>Bangladesh</B>",
+        "Protestants in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "The history of Christianity in <B>Bangladesh</B> is a part of a larger story of the development of"
+      ],
+      "label": [
+        "Christianity in <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Christianity_in_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christianity_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "877.5133"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshis_in_Malaysia"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Malaysians",
+        "<B>Bangladeshis</B> in malaysia",
+        "Malaysian <B>Bangladeshi</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Bangladeshi</B> Malaysians consists of people of full or partial <B>Bangladeshi</B> descent who were born"
+      ],
+      "label": [
+        "<B>Bangladeshis</B> in Malaysia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshis_in_Malaysia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_diaspora",
+        "http://dbpedia.org/resource/Category:Bangladesh–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Immigration_to_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Bangladeshi_descent"
+      ]
+    },
+    {
+      "score": [
+        "873.17487"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_intelligence_community"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Intelligence Community"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> Intelligence Community is a group of several intelligence agencies charged with"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> intelligence community"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_intelligence_community"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_intelligence_agencies",
+        "http://dbpedia.org/resource/Category:Intelligence_communities",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "859.068"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Culture_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> culture",
+        "Bengali Folk-Tales",
+        "Clothing in <B>Bangladesh</B>",
+        "Dance in <B>Bangladesh</B>",
+        "Folklore of <B>Bangladesh</B>",
+        "Traditions of <B>Bangladesh</B>",
+        "Weddings in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "The Culture of <B>Bangladesh</B> is intertwined with the culture of the Bengal region. It has evolved over"
+      ],
+      "label": [
+        "Culture of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Culture_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_culture",
+        "http://dbpedia.org/resource/Category:Society_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "858.70685"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islam_in_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> Muslim",
+        "<B>Bangladeshi</B> Muslims",
+        "History of Islam in <B>Bangladesh</B>",
+        "Islam in B.D.",
+        "Islam in BD",
+        "Political aspects of Islam in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "<B>Bangladesh</B> is a Muslim majority nation and Islam is the state religion of the People's Republic of"
+      ],
+      "label": [
+        "Islam in <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islam_in_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islam_by_country",
+        "http://dbpedia.org/resource/Category:Islam_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "857.6227"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Coast_Guard"
+      ],
+      "redirectlabel": [
+        "Bangla Coast Guard",
+        "<B>Bangladeshi</B> Coast Guard",
+        "Bengali Coast Guard"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Bangladesh</B> Coast Guard (Bengali: বাংলাদেশ কোস্ট গার্ড; BCG) is the maritime law enforcement"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Coast Guard"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Coast_Guard"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_establishments_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bangladesh_Coast_Guard",
+        "http://dbpedia.org/resource/Category:Coast_guards",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Paramilitary_forces_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Uniformed_services_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "856.4383"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Shabana_(actress)"
+      ],
+      "redirectlabel": [
+        "Afroza Sultana Ratna",
+        "Shabana (<B>Bangladeshi</B> Actress)",
+        "Shabana (<B>Bangladeshi</B> actress)"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Afroza Sultana Ratna (known by her stage name Shabana) is a <B>Bangladeshi</B> film actress. She earned"
+      ],
+      "label": [
+        "Shabana (actress)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Shabana_(actress)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1952_births",
+        "http://dbpedia.org/resource/Category:20th-century_Bangladeshi_actresses",
+        "http://dbpedia.org/resource/Category:Actresses_in_Hindi_cinema",
+        "http://dbpedia.org/resource/Category:Actresses_in_Urdu_cinema",
+        "http://dbpedia.org/resource/Category:Bangladeshi_expatriate_actresses_in_India",
+        "http://dbpedia.org/resource/Category:Bangladeshi_film_actresses",
+        "http://dbpedia.org/resource/Category:Best_Actress_Bachsas_Award_winners",
+        "http://dbpedia.org/resource/Category:Best_Actress_National_Film_Awards_(Bangladesh)_winners",
+        "http://dbpedia.org/resource/Category:Best_Supporting_Actress_National_Film_Award_(Bangladesh)_winners",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:National_Film_Award_(Bangladesh)_for_Lifetime_Achievement_recipients",
+        "http://dbpedia.org/resource/Category:Pakistani_film_actresses",
+        "http://dbpedia.org/resource/Category:People_from_Chittagong"
+      ]
+    },
+    {
+      "score": [
+        "847.9392"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Economy_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh's</B> economy",
+        "<B>Bangladesh's</B> industries",
+        "<B>Bangladesh</B>/Economy",
+        "<B>Bangladesh</B> economy",
+        "<B>Bangladeshi</B> economy",
+        "Bengali economy",
+        "Economic history of <B>Bangladesh</B>",
+        "Economy of <B>bangladesh</B>",
+        "Foreign trade of <B>Bangladesh</B>",
+        "Industry in <B>Bangladesh</B>",
+        "Manufacturing in <B>Bangladesh</B>",
+        "Urbanisation in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "The economy of <B>Bangladesh</B> is a developing market economy. It's the 39th largest in the world in"
+      ],
+      "label": [
+        "Economy of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Economy_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:World_Trade_Organization_member_economies"
+      ]
+    },
+    {
+      "score": [
+        "847.10596"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_newspapers_in_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> newspapers",
+        "List of <B>Bangladeshi</B> newspapers",
+        "List of local newspapers in <B>Bangladesh</B>",
+        "News Agency <B>Bangladesh</B>",
+        "News agencies in <B>Bangladesh</B>",
+        "Newspapers in <B>Bangladesh</B>",
+        "The Daily Tribunal",
+        "The Daily Tribunal (<B>Bangladesh</B>)"
+      ],
+      "comment": [
+        ". Newspapers published in <B>Bangladesh</B> are written in Bengali or English versions. Most <B>Bangladeshi</B>"
+      ],
+      "label": [
+        "List of newspapers in <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_newspapers_in_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_mass_media_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Lists_of_newspapers_by_country",
+        "http://dbpedia.org/resource/Category:Newspapers_published_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "844.3209"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Sri_Lanka_in_2005–06"
+      ],
+      "redirectlabel": [
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2005-06",
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2005",
+        "<B>Bangladeshis</B> in Sri Lanka in 2005-06"
+      ],
+      "comment": [
+        "The <B>Bangladeshi</B> cricket team toured Sri Lanka for three One Day International cricket matches and"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2005–06"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Sri_Lanka_in_2005–06"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2005_in_Sri_Lankan_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_Sri_Lanka",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2005–06",
+        "http://dbpedia.org/resource/Category:Sri_Lankan_cricket_seasons_from_2000–01"
+      ]
+    },
+    {
+      "score": [
+        "843.52734"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Architecture_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "Architecture in <B>bangladesh</B>",
+        "<B>Bangladeshi</B> architecture",
+        "Indo-Islamic architecture in <B>Bangladesh</B>",
+        "Modern <B>Bangladeshi</B> architecture",
+        "Modern architecture in <B>Bangladesh</B>"
+      ],
+      "comment": [
+        " the lifestyle, tradition and cultural life of <B>Bangladeshi</B> people. <B>Bangladesh</B> has many architectural relics and monuments dating back thousands of years."
+      ],
+      "label": [
+        "Architecture of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Architecture_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Architectural_history",
+        "http://dbpedia.org/resource/Category:Architecture_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:Bangladeshi_culture",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "831.58466"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladesh_national_cricket_captains"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket captains",
+        "<B>Bangladeshi</B> cricket captains",
+        "<B>Bangladeshi</B> national cricket captains",
+        "List of <B>Bangladesh</B> cricket captains",
+        "List of <B>Bangladeshi</B> national cricket captains"
+      ],
+      "comment": [
+        "<B>Bangladesh</B> became a full member of the International Cricket Council (ICC) on 26 June 2000, and"
+      ],
+      "label": [
+        "List of <B>Bangladesh</B> national cricket captains"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladesh_national_cricket_captains"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_in_international_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_captains",
+        "http://dbpedia.org/resource/Category:Lists_of_Bangladeshi_cricketers",
+        "http://dbpedia.org/resource/Category:Lists_of_cricket_captains"
+      ]
+    },
+    {
+      "score": [
+        "830.18994"
+      ],
+      "refCount": [
+        "85"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladesh_Railway"
+      ],
+      "redirectlabel": [
+        "Bangla Rail",
+        "<B>Bangladesh</B> Railways",
+        "Bengal Rail",
+        "History of rail transport in <B>Bangladesh</B>",
+        "Rail transport in <B>Bangladesh</B>",
+        "Railroads in <B>Bangladesh</B>",
+        "Railways in <B>Bangladesh</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Bangladesh</B> Railway (Bengali: বাংলাদেশ রেলওয়ে) also known as Bangla Rail is the state-owned rail"
+      ],
+      "label": [
+        "<B>Bangladesh</B> Railway"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladesh_Railway"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladesh_Railway",
+        "http://dbpedia.org/resource/Category:Government-owned_railway_companies",
+        "http://dbpedia.org/resource/Category:Railway_companies_of_Bangladesh"
+      ]
+    },
+    {
+      "score": [
+        "829.08636"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_films_of_2011"
+      ],
+      "redirectlabel": [
+        "Dallywood films of 2011",
+        "Dhallywood films of 2011",
+        "List of <B>Bangladeshi</B> films in 2011"
+      ],
+      "comment": [
+        "A list of all films produced in the <B>Bangladesh</B> film industry in 2011 which are mainly known as Dhallywood."
+      ],
+      "label": [
+        "List of <B>Bangladeshi</B> films of 2011"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_films_of_2011"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_in_Bangladesh",
+        "http://dbpedia.org/resource/Category:Lists_of_2011_films_by_country_or_language",
+        "http://dbpedia.org/resource/Category:Lists_of_Bangladeshi_films_by_year"
+      ]
+    },
+    {
+      "score": [
+        "820.7739"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Surrender_(1987_Bangladeshi_film)"
+      ],
+      "redirectlabel": [
+        "Surrender (<B>Bangladeshi</B> film)"
+      ],
+      "label": [
+        "Surrender (1987 <B>Bangladeshi</B> film)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Surrender_(1987_Bangladeshi_film)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_Bengali-language_films",
+        "http://dbpedia.org/resource/Category:1987_films",
+        "http://dbpedia.org/resource/Category:Bengali-language_Bangladeshi_films",
+        "http://dbpedia.org/resource/Category:Films_scored_by_Alam_Khan"
+      ]
+    },
+    {
+      "score": [
+        "816.1525"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bashir_Ahmed_(Bangladeshi_athlete)"
+      ],
+      "redirectlabel": [
+        "Bashir Ahmad (<B>Bangladeshi</B> athlete)"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Bashir Ahmed (born 1941) is a former <B>Bangladeshi</B> athlete."
+      ],
+      "label": [
+        "Bashir Ahmed (<B>Bangladeshi</B> athlete)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bashir_Ahmed_(Bangladeshi_athlete)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1941_births",
+        "http://dbpedia.org/resource/Category:Bangladeshi_male_field_hockey_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Bangladesh_National_Sports_Award",
+        "http://dbpedia.org/resource/Category:Sportspeople_from_Dhaka",
+        "http://dbpedia.org/resource/Category:University_of_Dhaka_alumni"
+      ]
+    },
+    {
+      "score": [
+        "816.08484"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Sri_Lanka_in_2020–21"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B> cricket team in Sri Lanka in 2020",
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2020-21",
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2020"
+      ],
+      "label": [
+        "<B>Bangladeshi</B> cricket team in Sri Lanka in 2020–21"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bangladeshi_cricket_team_in_Sri_Lanka_in_2020–21"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_in_Bangladeshi_cricket",
+        "http://dbpedia.org/resource/Category:2020_in_Sri_Lankan_cricket",
+        "http://dbpedia.org/resource/Category:Bangladeshi_cricket_tours_of_Sri_Lanka",
+        "http://dbpedia.org/resource/Category:Cricket_events_postponed_due_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:International_cricket_competitions_in_2020–21"
+      ]
+    },
+    {
+      "score": [
+        "815.57043"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_Bangladesh"
+      ],
+      "redirectlabel": [
+        "<B>Bangladesh</B>/History",
+        "<B>Bangladeshi</B> history",
+        "History of <B>bangladesh</B>",
+        "Independence of <B>Bangladesh</B>",
+        "Prehistory of <B>Bangladesh</B>"
+      ],
+      "comment": [
+        "Modern <B>Bangladesh</B> emerged as an independent nation in 1971 after breaking away and achieving"
+      ],
+      "label": [
+        "History of <B>Bangladesh</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_Bangladesh"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Bangladesh",
+        "http://dbpedia.org/resource/Category:History_of_Bengal",
+        "http://dbpedia.org/resource/Category:History_of_South_Asia_by_country"
+      ]
+    },
+    {
+      "score": [
+        "813.2281"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/James_(musician)"
+      ],
+      "redirectlabel": [
+        "Faruk Mahfuz Anam",
+        "Faruk Mahfuz Anam James",
+        "Faruq Mahfuz Anam",
+        "Feelings (band)",
+        "James (<B>Bangladeshi</B> musician)",
+        "James (Nagar Baul)"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Faruq Mahfuz Anam (born 2 October 1964), known by his stage name James, is a <B>Bangladeshi</B> singer"
+      ],
+      "label": [
+        "James (musician)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/James_(musician)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1964_births",
+        "http://dbpedia.org/resource/Category:20th-century_Bangladeshi_male_singers",
+        "http://dbpedia.org/resource/Category:20th-century_Bangladeshi_singers",
+        "http://dbpedia.org/resource/Category:21st-century_Bangladeshi_male_singers",
+        "http://dbpedia.org/resource/Category:21st-century_Bangladeshi_singers",
+        "http://dbpedia.org/resource/Category:Bangladeshi_guitarists",
+        "http://dbpedia.org/resource/Category:Best_Male_Playback_Singer_National_Film_Award_(Bangladesh)_winners",
+        "http://dbpedia.org/resource/Category:Best_Male_Singer_Bachsas_Award_winners",
+        "http://dbpedia.org/resource/Category:Best_Male_Singer_Meril-Prothom_Alo_Award_winners",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:People_from_Naogaon_District"
+      ]
+    },
+    {
+      "score": [
+        "812.2851"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_musicians"
+      ],
+      "redirectlabel": [
+        "List of <B>bangladeshi</B> musicians"
+      ],
+      "comment": [
+        "This is a list of notable <B>Bangladeshi</B> musicians.(This is a dynamic list and may never be able to"
+      ],
+      "label": [
+        "List of <B>Bangladeshi</B> musicians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Bangladeshi_musicians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bangladeshi_musicians",
+        "http://dbpedia.org/resource/Category:Lists_of_musicians_by_nationality"
+      ]
+    }
+  ]
+}

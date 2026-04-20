@@ -1,0 +1,3842 @@
+{
+  "docs": [
+    {
+      "score": [
+        "3399.373"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_annexation_of_the_West_Bank"
+      ],
+      "redirectlabel": [
+        "Control of the West Bank and East Jerusalem by Jordan",
+        "Jordan's West Bank",
+        "Jordan's disengagement from the West Bank",
+        "<B>Jordanian</B>-occupied West Bank",
+        "<B>Jordanian</B> West Bank",
+        "<B>Jordanian</B> annexed West Bank",
+        "<B>Jordanian</B> control",
+        "<B>Jordanian</B> disengagement from the West Bank",
+        "<B>Jordanian</B> occupation",
+        "<B>Jordanian</B> occupation of Palestine",
+        "<B>Jordanian</B> occupation of the West Bank",
+        "<B>Jordanian</B> occupation of the West Bank and East Jerusalem",
+        "<B>Jordanian</B> rule",
+        "<B>Jordanian</B> rule of the West Bank",
+        "Occupation of Palestine by Jordan",
+        "Occupation of the West Bank and East Jerusalem by Jordan",
+        "Occupation of the West Bank and the East Jerusalem by Jordan",
+        "Occupation of the West Bank by Jordan",
+        "Rule of the West Bank and East Jerusalem by Jordan",
+        "The West Bank Governorate",
+        "The West Bank Governorates",
+        "West Bank (Jordan)",
+        "West Bank Governorate",
+        "West Bank of Jordan"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Jordanian</B> annexation of the West Bank was the occupation of the West Bank (including East"
+      ],
+      "label": [
+        "<B>Jordanian</B> annexation of the West Bank"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_annexation_of_the_West_Bank"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:1940s_in_Jordan",
+        "http://dbpedia.org/resource/Category:1940s_in_the_West_Bank_Governorate",
+        "http://dbpedia.org/resource/Category:1948_in_Jordan",
+        "http://dbpedia.org/resource/Category:1950s_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:1950s_in_Jordan",
+        "http://dbpedia.org/resource/Category:1950s_in_the_West_Bank_Governorate",
+        "http://dbpedia.org/resource/Category:1960s_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:1960s_in_Jordan",
+        "http://dbpedia.org/resource/Category:1960s_in_the_West_Bank_Governorate",
+        "http://dbpedia.org/resource/Category:1967_in_Jordan",
+        "http://dbpedia.org/resource/Category:1988_in_Jordan",
+        "http://dbpedia.org/resource/Category:20th_century_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:Annexation",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:History_of_Palestine_(region)",
+        "http://dbpedia.org/resource/Category:History_of_the_West_Bank",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict",
+        "http://dbpedia.org/resource/Category:Israel–Jordan_relations",
+        "http://dbpedia.org/resource/Category:July_1988_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Military_occupation",
+        "http://dbpedia.org/resource/Category:Palestine_Liberation_Organization",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1967",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1948",
+        "http://dbpedia.org/resource/Category:West_Bank_Governorate"
+      ]
+    },
+    {
+      "score": [
+        "3276.895"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Jordan/Military",
+        "<B>Jordanian</B> armed forces",
+        "<B>Jordanian</B> army",
+        "<B>Jordanian</B> military",
+        "Military history of Jordan",
+        "Military of Jordan"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Jordanian</B> Armed Forces (JAF) (Arabic: القوات المسلحة الأردنية‎, Al-Quwat Al-Musallaha Al"
+      ],
+      "label": [
+        "<B>Jordanian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jordanian_Armed_Forces",
+        "http://dbpedia.org/resource/Category:Military_of_Jordan",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defence_(Jordan)"
+      ]
+    },
+    {
+      "score": [
+        "3218.0896"
+      ],
+      "refCount": [
+        "1240"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordan"
+      ],
+      "redirectlabel": [
+        "Al-'Urdun",
+        "Al-Mamlakah Al-Urdunnīyah Al-Hāshimīyah",
+        "Al-Mamlakah al",
+        "Al-Urdun",
+        "Al-Urdunn",
+        "Etymology of Jordan",
+        "H.K of Jordan",
+        "HKJ",
+        "Hashemite Kingdom",
+        "Hashemite Kingdom of Jordan",
+        "Hashemite Kingdom of Transjordan",
+        "Hashemite Kingdom of the Jordan",
+        "Hashemite kingdom",
+        "ISO 3166-1:JO",
+        "JOrdan",
+        "Jordan (country)",
+        "<B>Jordanian</B> Kingdom",
+        "<B>Jordanie</B>",
+        "Kingdom of Jordan",
+        "Kingdom of the Jordan",
+        "Languages of Jordan",
+        "Name of Jordan",
+        "Natural resources of Jordan",
+        "Ottoman Jordan",
+        "Ottoman Jordon",
+        "State of Jordan",
+        "The Hashemite Kingdom of Jordan",
+        "Urdan",
+        "Urdun",
+        "Urdunn",
+        "أردنّ",
+        "الأردن",
+        "المملكة الأردنّيّة الهاشميّة"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Jordan (Arabic: الأردن‎ Al-ʾUrdunn [al.ʔur.dunː]), officially the Hashemite Kingdom of Jordan (Arabic: المملكة الأردنية الهاشمية‎ Al-Mamlakah al-’Urdunniyyah Al-Hāshimiyyah), is an Arab country in Western Asia, on the East Bank of the Jordan River. Jordan is bordered by Saudi Arabia to the south and the east, Iraq to the north-east, Syria to the north and Israel and the Palestinian West Bank to the west. The Dead Sea is located along its western borders and the country has a 26-kilometre (16 mi) coastline on the Red Sea in its extreme south-west. Jordan is strategically located at the crossroads of Asia, Africa and Europe. The capital, Amman, is Jordan's most populous city as well as the country's economic, political and cultural centre."
+      ],
+      "label": [
+        "Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arabic-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Jordan",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Arab_League",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Near_Eastern_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1946",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "3134.331"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Jordanian"
+      ],
+      "redirectlabel": [
+        "ALIA, Royal <B>Jordanian</B> Airlines",
+        "Alia-Royal <B>Jordanian</B> Airlines",
+        "Alia - Royal <B>Jordanian</B> Airline",
+        "Alia Royal <B>Jordanian</B> Airlines",
+        "Hussein Dabbas",
+        "<B>Jordanian</B> Airlines",
+        "Rj.com",
+        "Royal <B>Jordanian</B> Airline",
+        "Royal <B>Jordanian</B> Airlines",
+        "Royal <B>Jordanian</B> Cargo",
+        "The Royal <B>Jordanian</B> Airline",
+        "الملكية الأردنية"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "Royal <B>Jordanian</B> Airlines (Arabic: الملكيَّة الأردنيَّة‎‎; transliterated: Al-Malakiyyah al"
+      ],
+      "label": [
+        "Royal <B>Jordanian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Jordanian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1963",
+        "http://dbpedia.org/resource/Category:Airlines_of_Jordan",
+        "http://dbpedia.org/resource/Category:Arab_Air_Carriers_Organization_members",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Amman",
+        "http://dbpedia.org/resource/Category:Jordanian_brands",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Jordan_with_royal_patronage",
+        "http://dbpedia.org/resource/Category:Royal_Jordanian"
+      ]
+    },
+    {
+      "score": [
+        "3108.5889"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–2012_Jordanian_protests"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Jordanian</B> protests",
+        "2011-2012 <B>Jordanian</B> protests",
+        "2011-2013 <B>Jordanian</B> protests",
+        "2011 <B>Jordanian</B> protests",
+        "2011–12 <B>Jordanian</B> protests",
+        "2011–2013 <B>Jordanian</B> protests",
+        "Jasmine Revolution in Jordan",
+        "<B>Jordanian</B> protests (2011-12)",
+        "<B>Jordanian</B> protests (2011-2012)",
+        "<B>Jordanian</B> protests (2011-2014)",
+        "<B>Jordanian</B> protests (2011-present)",
+        "<B>Jordanian</B> protests (2011–12)",
+        "<B>Jordanian</B> protests (2011–2012)",
+        "<B>Jordanian</B> protests (2011–2014)",
+        "<B>Jordanian</B> protests (2011–present)",
+        "November 2012 <B>Jordanian</B> protests",
+        "November 2012 protests in Jordan",
+        "November 2012 uprising in Jordan"
+      ],
+      "label": [
+        "2011–2012 <B>Jordanian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–2012_Jordanian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_in_Jordan",
+        "http://dbpedia.org/resource/Category:2011_protests",
+        "http://dbpedia.org/resource/Category:2011_riots",
+        "http://dbpedia.org/resource/Category:2012_in_Jordan",
+        "http://dbpedia.org/resource/Category:2012_protests",
+        "http://dbpedia.org/resource/Category:2012_riots",
+        "http://dbpedia.org/resource/Category:Arab_Spring_by_country",
+        "http://dbpedia.org/resource/Category:Jordanian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Nonviolent_revolutions",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "2682.6665"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Jordanian_Army"
+      ],
+      "redirectlabel": [
+        "Army of Jordan",
+        "<B>Jordanian</B> Army",
+        "Royal <B>Jordanian</B> Land Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Jordanian</B> Army (Arabic: القوّات البرية الاردنيّة, \"<B>Jordanian</B> Ground Forces\") is part of"
+      ],
+      "label": [
+        "Royal <B>Jordanian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Jordanian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armies_by_country",
+        "http://dbpedia.org/resource/Category:Jordanian_Armed_Forces",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1920",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "2671.3088"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Jordanian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of Jordan",
+        "Jordan Arab Air Force",
+        "Jordan air force",
+        "<B>Jordanian</B> Air Force",
+        "<B>Jordanian</B> airforce",
+        "List of Commanders of the Royal <B>Jordanian</B> Air Force",
+        "List of active Royal <B>Jordanian</B> Air Force aircraft",
+        "No. 10 Squadron RJAF",
+        "No. 11 Squadron RJAF",
+        "No. 12 Squadron RJAF",
+        "No. 14 Squadron RJAF",
+        "No. 15 Squadron RJAF",
+        "No. 17 Squadron RJAF",
+        "No. 1 Squadron RJAF",
+        "No. 2 Squadron RJAF",
+        "No. 3 Squadron RJAF",
+        "No. 4 Squadron RJAF",
+        "No. 5 Squadron RJAF",
+        "No. 6 Squadron RJAF",
+        "No. 7 Squadron RJAF",
+        "No. 8 Squadron RJAF",
+        "No. 9 Squadron RJAF"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Jordanian</B> Air Force (RJAF; Arabic: سلاح الجو الملكي الأردني, transliterated Silāḥ ul-Jawu"
+      ],
+      "label": [
+        "Royal <B>Jordanian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Jordanian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Jordanian_Armed_Forces",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1955",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defence_(Jordan)",
+        "http://dbpedia.org/resource/Category:Royal_Jordanian_Air_Force"
+      ]
+    },
+    {
+      "score": [
+        "2652.7537"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of Jordan",
+        "Food in Jordan",
+        "Food of Jordan",
+        "Foods of Jordan",
+        "<B>Jordanian</B> Recipes",
+        "<B>Jordanian</B> dishes",
+        "<B>Jordanian</B> food",
+        "<B>Jordanian</B> salads"
+      ],
+      "comment": [
+        "<B>Jordanian</B> cuisine is a traditional style of food preparation originating from, or commonly used in"
+      ],
+      "label": [
+        "<B>Jordanian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_cuisine",
+        "http://dbpedia.org/resource/Category:Jordanian_cuisine",
+        "http://dbpedia.org/resource/Category:Levantine_cuisine",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2634.948"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_dinar"
+      ],
+      "redirectlabel": [
+        "Currency of Jordan",
+        "ISO 4217:JOD",
+        "Jordan dinar",
+        "<B>Jordanian</B> Dinar",
+        "<B>Jordanian</B> money"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Jordanian</B> dinar (Arabic: دينار أردني‎; code: JOD; unofficially abbreviated as JD) has been the"
+      ],
+      "label": [
+        "<B>Jordanian</B> dinar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_dinar"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1949",
+        "http://dbpedia.org/resource/Category:Currencies_of_Jordan",
+        "http://dbpedia.org/resource/Category:Fixed_exchange_rate"
+      ]
+    },
+    {
+      "score": [
+        "2456.8062"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Arabic"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Levantine",
+        "<B>Jordanian</B> Levantine Arabic",
+        "<B>Jordanian</B> arabic dialect",
+        "<B>Jordanian</B> dialect"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Arabic is a continuum of mutually intelligible varieties of Levantine Arabic spoken by"
+      ],
+      "label": [
+        "<B>Jordanian</B> Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Arabic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabs_in_Jordan",
+        "http://dbpedia.org/resource/Category:Languages_of_Jordan",
+        "http://dbpedia.org/resource/Category:South_Levantine_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "2179.0898"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Jordanians"
+      ],
+      "redirectlabel": [
+        "African-<B>Jordanian</B>",
+        "African-<B>Jordanians</B>",
+        "African <B>Jordanian</B>",
+        "African <B>Jordanians</B>",
+        "Afro-<B>Jordanian</B>",
+        "Afro <B>Jordanian</B>",
+        "Afro <B>Jordanians</B>",
+        "Black <B>Jordanian</B>",
+        "Black <B>Jordanians</B>",
+        "Black people in Jordan",
+        "<B>Jordanian</B> Black people",
+        "<B>Jordanian</B> Blacks",
+        "<B>Jordanian</B> black people",
+        "<B>Jordanians</B> of African descent"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Jordanians</B>, or African <B>Jordanians</B>, are an ethnic group that is descended from people of Black"
+      ],
+      "label": [
+        "Afro-<B>Jordanians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Jordanians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_diaspora_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Jordan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Jordanian_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:People_of_African_descent"
+      ]
+    },
+    {
+      "score": [
+        "1726.2407"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian–Syrian_border_incidents_during_the_Syrian_civil_war"
+      ],
+      "redirectlabel": [
+        "April 2014 <B>Jordanian</B>-Syrian border airstrike",
+        "April 2014 <B>Jordanian</B>–Syrian border airstrike",
+        "<B>Jordanian</B>-Syrian border incidents during the Syrian Civil War",
+        "<B>Jordanian</B>-Syrian border incidents during the Syrian civil war",
+        "<B>Jordanian</B>–Syrian border incidents during the Syrian Civil War",
+        "October 2012 <B>Jordanian</B>-Syrian border clash",
+        "October 2012 <B>Jordanian</B>–Syrian border clash",
+        "Syrian-<B>Jordanian</B> border incidents during the Syrian Civil War",
+        "Syrian–<B>Jordanian</B> border incidents during the Syrian Civil War"
+      ],
+      "label": [
+        "<B>Jordanian</B>–Syrian border incidents during the Syrian civil war"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian–Syrian_border_incidents_during_the_Syrian_civil_war"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_in_Jordan",
+        "http://dbpedia.org/resource/Category:2012_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2014_in_Jordan",
+        "http://dbpedia.org/resource/Category:2014_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2016_in_Jordan",
+        "http://dbpedia.org/resource/Category:2016_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2012",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2013",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2014",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2015",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2016",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2017",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2018",
+        "http://dbpedia.org/resource/Category:Jordanian_involvement_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Jordan–Syria_relations",
+        "http://dbpedia.org/resource/Category:Spillover_of_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Jordan",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Jordan_in_the_2010s"
+      ]
+    },
+    {
+      "score": [
+        "1662.6663"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Jordanian_governorates_by_Human_Development_Index"
+      ],
+      "redirectlabel": [
+        "Governorates of Jordan by HDI",
+        "Governorates of Jordan by Human Development Index",
+        "HDI of <B>Jordanian</B> governorates",
+        "HDI of governorates of Jordan",
+        "Human Development Index of <B>Jordanian</B> governorates",
+        "Human Development Index of governorates of Jordan",
+        "<B>Jordanian</B> governorates by HDI",
+        "<B>Jordanian</B> governorates by Human Development Index",
+        "List of <B>Jordanian</B> governorates by HDI",
+        "List of governorates of Jordan by HDI",
+        "List of governorates of Jordan by Human Development Index"
+      ],
+      "comment": [
+        "This is a list of governorates of Jordan (muhafazah) by Human Development Index as of 2017."
+      ],
+      "label": [
+        "List of <B>Jordanian</B> governorates by Human Development Index"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Jordanian_governorates_by_Human_Development_Index"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Jordan",
+        "http://dbpedia.org/resource/Category:Governorates_of_Jordan",
+        "http://dbpedia.org/resource/Category:Jordan_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1657.2899"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Jordanian_Navy"
+      ],
+      "redirectlabel": [
+        "77th <B>Jordanian</B> Marine Battalion",
+        "<B>Jordanian</B> Navy",
+        "Navy of Jordan",
+        "Royal Naval Force",
+        "Royal Navy Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Jordanian</B> Navy is naval warfare branch of the Armed Forces of the Kingdom of Jordan. As"
+      ],
+      "label": [
+        "Royal <B>Jordanian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Jordanian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Jordanian_Armed_Forces",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1956",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1637.0875"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_art"
+      ],
+      "redirectlabel": [
+        "Art galleries in Jordan",
+        "Art in Jordan",
+        "Art in jordan",
+        "Art museums in Jordan",
+        "Art of Jordan",
+        "Traditional <B>Jordanian</B> art",
+        "Visual art of Jordan"
+      ],
+      "comment": [
+        "<B>Jordanian</B> art has a very ancient history. Some of the earliest figurines, found at Aïn Ghazal, near"
+      ],
+      "label": [
+        "<B>Jordanian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Islamic_art_by_country",
+        "http://dbpedia.org/resource/Category:Jordanian_art",
+        "http://dbpedia.org/resource/Category:Jordanian_artists"
+      ]
+    },
+    {
+      "score": [
+        "1613.5355"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Jordanian_detainees_at_Guantanamo_Bay"
+      ],
+      "redirectlabel": [
+        "AHMED HASSAN JAMIL SULEYMAN",
+        "Ahmad Hassan Jamil Suleiman",
+        "Ahmed Hassan Jamil Suleyman",
+        "Guantanamo captive 1018",
+        "Guantanamo captive 50",
+        "Guantanamo captive 651",
+        "Guantanamo captive 662",
+        "Guantanamo detainee 651",
+        "ISN 050",
+        "ISN 1018",
+        "ISN 50",
+        "ISN 651",
+        "ISN 662",
+        "Jordan captives held in Guantanamo",
+        "<B>Jordanian</B> detainees at Guantanamo Bay",
+        "USAMA HASSAN AHMED ABU KABIR",
+        "Usama Hasan Abu Kabir",
+        "Usama Hassan Ahmed Abu Kabir",
+        "Usama Hassan Ahmend Abu Kabir",
+        "Zaid Muhamamd Sa'ad Al Husayn",
+        "Zaid Muhamamd Sa'ad al Husayn",
+        "Zaid Muhamamd Sa'id Al Husayn",
+        "Zaid Muhamamd Sa Ad Al Husayn",
+        "Zaid Muhammad Sa'ad Al Husayn",
+        "Zaid Muhammad Sa’ad Al Husayn",
+        "Zaid Muhammamd Sa ad Al Husayn",
+        "Zayd Al Husayn Al Ghamdi",
+        "Zayd Al Husayn al-Ghamidi",
+        "Zayd al-Ghamdi"
+      ],
+      "comment": [
+        "The United States Department of Defense acknowledges holding eight <B>Jordanian</B> captives in"
+      ],
+      "label": [
+        "List of <B>Jordanian</B> detainees at Guantanamo Bay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Jordanian_detainees_at_Guantanamo_Bay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jordanian_extrajudicial_prisoners_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Jordan–United_States_relations",
+        "http://dbpedia.org/resource/Category:Lists_of_Guantanamo_Bay_detainees_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1609.1365"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "2013 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 2013",
+        "<B>Jordanian</B> parliamentary election, 2012",
+        "<B>Jordanian</B> parliamentary election, 2013"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Early general elections were held in Jordan on 23 January 2013. Voter turnout was reported to be 56.6%."
+      ],
+      "label": [
+        "2013 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Jordanian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2013_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:January_2013_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1565.6681"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Pro_League"
+      ],
+      "redirectlabel": [
+        "AL-Manaseer <B>Jordanian</B> Pro League",
+        "Jordan League",
+        "Jordan Premier League",
+        "Moghayer Al-Sarhan SC"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Jordanian</B> Pro League (Arabic: دوري المناصير الأردني للمحترفين‎) is a <B>Jordanian</B> professional"
+      ],
+      "label": [
+        "<B>Jordanian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1944_establishments_in_Transjordan",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Jordan",
+        "http://dbpedia.org/resource/Category:Jordanian_Pro_League",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1944",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1559.6703"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/German_Jordanian_University"
+      ],
+      "redirectlabel": [
+        "German-<B>Jordanian</B> University",
+        "German-<B>jordanian</B> university"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "German-<B>Jordanian</B> University (GJU) is a Public university located near Madaba, Jordan. It offers"
+      ],
+      "label": [
+        "German <B>Jordanian</B> University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/German_Jordanian_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Education_in_Amman",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_2005",
+        "http://dbpedia.org/resource/Category:German_Jordanian_University"
+      ]
+    },
+    {
+      "score": [
+        "1451.296"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "2007 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 2007",
+        "<B>Jordanian</B> parliamentary election, 2007"
+      ],
+      "comment": [
+        " Marouf al-Bakhit and his cabinet resigned, as it normally followed in the <B>Jordanian</B> political system"
+      ],
+      "label": [
+        "2007 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2007_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:November_2007_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1448.2083"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1950_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "1950 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 1950",
+        "<B>Jordanian</B> parliamentary election, 1950"
+      ],
+      "comment": [
+        " candidates ran as independents, although some were affiliated with the , the <B>Jordanian</B> Communist Party, the Ba'ath Party the  and the ."
+      ],
+      "label": [
+        "1950 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1950_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1950_in_Jordan",
+        "http://dbpedia.org/resource/Category:April_1950_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections"
+      ]
+    },
+    {
+      "score": [
+        "1447.2837"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Americans"
+      ],
+      "redirectlabel": [
+        "History of <B>Jordanian</B> Americans",
+        "<B>Jordanian</B> American"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Americans (Arabic: الأميركيون الأردنيون‎) are Americans who are descended from the"
+      ],
+      "label": [
+        "<B>Jordanian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Jordanian_descent",
+        "http://dbpedia.org/resource/Category:Arab_American",
+        "http://dbpedia.org/resource/Category:Jordanian_American",
+        "http://dbpedia.org/resource/Category:Jordanian_diaspora",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American"
+      ]
+    },
+    {
+      "score": [
+        "1425.4456"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "2010 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 2010",
+        "<B>Jordanian</B> parliamentary election, 2010"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Early general elections were held in Jordan on 9 November 2010 following the dissolution of the previous parliament by King Abdullah II in November 2009; the elections having not been due until November 2011. A majority of the seats were won by pro-government or tribal candidates who were seen as likely to support the government's agenda. Seventeen candidates were from opposition parties, excluding the Islamic Action Front. Seventy-eight MPs were first time parliamentarians. Voter turnout was 53%."
+      ],
+      "label": [
+        "2010 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Jordanian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2010_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:November_2010_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1425.4456"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1967_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "1967 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 1967",
+        "<B>Jordanian</B> parliamentary election, 1967"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 27 April 1967. As political parties were banned at the time, all candidates ran as independents. Voter turnout was 70.0%."
+      ],
+      "label": [
+        "1967 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1967_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1967_in_Jordan",
+        "http://dbpedia.org/resource/Category:April_1967_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections"
+      ]
+    },
+    {
+      "score": [
+        "1425.4456"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "2003 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 2003",
+        "<B>Jordanian</B> parliamentary election, 2003"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 17 June 2003. They were the fourth contest held after the political liberalization started in 1989 and the first elections to take place since 1997.The number of voters who cast their ballots constituted almost 58.8 percent of registered voters, a record high in the last years, who total 2,325,496 of the country's 5.4 million citizens.The Kingdom's most prominent tribal representatives carried a large majority of the seats. The highest turnout, 86 percent, was registered in Karak, while the lowest ratio of voters, 44.62 percent, was in Amman."
+      ],
+      "label": [
+        "2003 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2003_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:June_2003_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1425.4456"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1956_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "1956 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 1956",
+        "<B>Jordanian</B> parliamentary election, 1956"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 21 October 1956. The National Socialist Party emerged as the largest party, with 12 seats. The elections were considered to be one of the most free in Jordan's history, and was the first and only election to produce an elected government. Hizb ut-Tahrir, which won a single seat, was later banned."
+      ],
+      "label": [
+        "1956 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1956_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1956_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:October_1956_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1425.4456"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1993_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "1993 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 1993",
+        "<B>Jordanian</B> parliamentary election, 1993"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 8 November 1993, the first in which political parties were allowed to run since 1956. Independents won 60 of the 80 seats, with the Islamic Action Front emerging as the largest single party. Voter turnout was 54.8%."
+      ],
+      "label": [
+        "1993 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1993_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1993_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:November_1993_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1425.4456"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1963_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "1963 <B>Jordanian</B> parliamentary election",
+        "<B>Jordanian</B> general election, 1963",
+        "<B>Jordanian</B> parliamentary election, 1963"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 6 July 1963. As political parties were banned at the time, all candidates ran as independents."
+      ],
+      "label": [
+        "1963 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1963_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1963_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:July_1963_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections"
+      ]
+    },
+    {
+      "score": [
+        "1416.3539"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Nationalism"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Nationalism is a nationalistic ideology that considers the <B>Jordanian</B> People a part of the"
+      ],
+      "label": [
+        "<B>Jordanian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jordanian_nationalism"
+      ]
+    },
+    {
+      "score": [
+        "1408.9608"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Jordanian_royal_consorts"
+      ],
+      "redirectlabel": [
+        "List of <B>Jordanian</B> Queen Consorts",
+        "List of <B>Jordanian</B> consorts",
+        "List of queens of Jordan",
+        "Queen consort of Jordan",
+        "Queen consorts of Jordan",
+        "Queen of Jordan"
+      ],
+      "label": [
+        "List of <B>Jordanian</B> royal consorts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Jordanian_royal_consorts"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jordanian_royal_consorts",
+        "http://dbpedia.org/resource/Category:Lists_of_Jordanian_people",
+        "http://dbpedia.org/resource/Category:Lists_of_queens",
+        "http://dbpedia.org/resource/Category:Lists_of_royal_consorts",
+        "http://dbpedia.org/resource/Category:Lists_of_spouses_of_national_leaders"
+      ]
+    },
+    {
+      "score": [
+        "1406.8005"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_wine"
+      ],
+      "redirectlabel": [
+        "History of <B>Jordanian</B> wine",
+        "<B>Jordanian</B> wine history"
+      ],
+      "comment": [
+        "<B>Jordanian</B> wine is produced by two wineries, with an annual production of nearly a million bottles a"
+      ],
+      "label": [
+        "<B>Jordanian</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Alcohol_in_Jordan",
+        "http://dbpedia.org/resource/Category:Jordanian_cuisine",
+        "http://dbpedia.org/resource/Category:Jordanian_wine",
+        "http://dbpedia.org/resource/Category:Wine_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1386.4814"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Premier_Basketball_League"
+      ],
+      "redirectlabel": [
+        "Al-Ahli SC Basketball (Amman)",
+        "Al Wehdat SC",
+        "Jordan Premier Basketball League",
+        "Kufryouba"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Jordanian</B> Premier Basketball League is a professional basketball league in Jordan. It is the"
+      ],
+      "label": [
+        "<B>Jordanian</B> Premier Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Premier_Basketball_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Jordan",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1344.5511"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Syrian_Desert"
+      ],
+      "redirectlabel": [
+        "Al Badia",
+        "Badia (region)",
+        "Badia Desert",
+        "Badia desert",
+        "Badiyat al-Sham",
+        "Badiyat ash-Sham",
+        "Badiyyah, Syria",
+        "Bâdiyat aş-Şâm",
+        "Eastern Jordan",
+        "History of the Syrian Desert",
+        "<B>Jordanian</B> Badia",
+        "<B>Jordanian</B> badia",
+        "<B>Jordanian</B> steppe",
+        "Sham Desert",
+        "Sham desert",
+        "Syrian Badia",
+        "Syrian badia",
+        "Syrian desert",
+        "Syrian plain",
+        "Syrian steppe",
+        "Syro-Arabian Desert",
+        "Syro-Arabian desert",
+        "Western Desert (Iraq)"
+      ],
+      "comment": [
+        " <B>Jordanian</B> steppe, or the Badia, is a region of desert, semi-desert and steppe covering 500,000 square"
+      ],
+      "label": [
+        "Syrian Desert"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Syrian_Desert"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Deserts_of_Iraq",
+        "http://dbpedia.org/resource/Category:Deserts_of_Jordan",
+        "http://dbpedia.org/resource/Category:Deserts_of_Syria",
+        "http://dbpedia.org/resource/Category:Eastern_Mediterranean"
+      ]
+    },
+    {
+      "score": [
+        "1304.6042"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Highlands"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> highlands",
+        "Transjordanian Highlands"
+      ],
+      "label": [
+        "<B>Jordanian</B> Highlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Highlands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eastern_Mediterranean_conifer–sclerophyllous–broadleaf_forests",
+        "http://dbpedia.org/resource/Category:Great_Rift_Valley",
+        "http://dbpedia.org/resource/Category:Mountains_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1293.6259"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Palestinians_in_Jordan"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Palestinian",
+        "<B>Jordanian</B> Palestinians",
+        "Palestinian-<B>Jordanian</B>",
+        "Palestinian <B>Jordanian</B>",
+        "Palestinian <B>Jordanians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " there. Sometimes the definition includes <B>Jordanian</B> citizens with full Palestinian origin. Most"
+      ],
+      "label": [
+        "Palestinians in Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Palestinians_in_Jordan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Jordan",
+        "http://dbpedia.org/resource/Category:Jordanian_people_of_Palestinian_descent",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_diaspora_in_Jordan",
+        "http://dbpedia.org/resource/Category:Palestinian_refugees",
+        "http://dbpedia.org/resource/Category:Palestinians_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1277.4086"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Engineers_Association"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Union of Engineers",
+        "Union of <B>Jordanian</B> Engineers"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "Jordan Engineers Association (in Arabic: نقابة المهندسين الأردنيين) was established as a society for engineers in 1948, and it obtained the license in 1949. The first General Assembly of the Engineering Professionals Association was established in 1958. Eng. Tawfiq Marrar became then the first Engineers Association President, and it had two centers in Amman and Jerusalem and the first law of the Association was enacted in 1972."
+      ],
+      "label": [
+        "<B>Jordanian</B> Engineers Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Engineers_Association"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Engineering_societies",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Jordan",
+        "http://dbpedia.org/resource/Category:Trade_unions_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1236.1268"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1951_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 1951",
+        "<B>Jordanian</B> parliamentary election, 1951"
+      ],
+      "comment": [
+        " time, all candidates ran as independents, although some affiliated with the <B>Jordanian</B> Communist Party, the Ba'ath Party the  and the  all won seats."
+      ],
+      "label": [
+        "1951 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1951_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1951_in_Jordan",
+        "http://dbpedia.org/resource/Category:August_1951_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections"
+      ]
+    },
+    {
+      "score": [
+        "1231.907"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Democratic_People's_Party"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Democratic People’s Party",
+        "<B>Jordanian</B> People's Democratic Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Democratic People's Party (in Arabic: Hizb Al-Sha'ab Al-Dimuqrati Al-Urduni, حزب الشعب"
+      ],
+      "label": [
+        "<B>Jordanian</B> Democratic People's Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Democratic_People's_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arab_Nationalist_Movement_breakaway_groups",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Democratic_Front_for_the_Liberation_of_Palestine",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1989",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Secularism_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1230.9945"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> (disambiguation)"
+      ],
+      "label": [
+        "<B>Jordanian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1227.6106"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Black_September"
+      ],
+      "redirectlabel": [
+        "1970 <B>Jordanian</B> civil war",
+        "Aylul Aswad",
+        "Black September (Jordan)",
+        "Black September in Jordan",
+        "Black september in jordan",
+        "Jordan Civil War",
+        "<B>Jordanian</B> Civil War",
+        "Palestinian exodus from Jordan",
+        "‘Black September’"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " the <B>Jordanian</B> Armed Forces (JAF), under the leadership of King Hussein, and the Palestine"
+      ],
+      "label": [
+        "Black September"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Black_September"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_in_Jordan",
+        "http://dbpedia.org/resource/Category:1970_in_international_relations",
+        "http://dbpedia.org/resource/Category:1971_in_Jordan",
+        "http://dbpedia.org/resource/Category:1971_in_international_relations",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Black_September",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1970",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1971",
+        "http://dbpedia.org/resource/Category:Conflicts_involving_the_People's_Mujahedin_of_Iran",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Jordan–State_of_Palestine_relations",
+        "http://dbpedia.org/resource/Category:Jordan–Syria_relations",
+        "http://dbpedia.org/resource/Category:Pakistan_military_presence_in_other_countries",
+        "http://dbpedia.org/resource/Category:Palestine_Liberation_Organization",
+        "http://dbpedia.org/resource/Category:Wars_involving_Jordan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Palestinians",
+        "http://dbpedia.org/resource/Category:Wars_involving_Syria"
+      ]
+    },
+    {
+      "score": [
+        "1226.1476"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2021_arrests_in_Jordan"
+      ],
+      "redirectlabel": [
+        "2021 Jordan Coup d'état attempt",
+        "2021 Jordan Military Coup",
+        "2021 Jordan Military Coup Attempt",
+        "2021 Jordan coup",
+        "2021 <B>Jordanian</B> Coup d'état attempt",
+        "2021 <B>Jordanian</B> Military Coup",
+        "2021 <B>Jordanian</B> Military Coup Attempt",
+        "2021 <B>Jordanian</B> alleged coup d'état attempt",
+        "2021 <B>Jordanian</B> coup d'état attempt",
+        "2021 alleged <B>Jordanian</B> coup d'état attempt",
+        "Arrests in Jordan (2021)",
+        "Jordan Arrests (2021)",
+        "Jordan arrests (2021)"
+      ],
+      "label": [
+        "2021 arrests in Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2021_arrests_in_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:2021_in_Jordan",
+        "http://dbpedia.org/resource/Category:April_2021_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Government_crises",
+        "http://dbpedia.org/resource/Category:Political_history_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1211.7158"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1954_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 1954",
+        "<B>Jordanian</B> parliamentary election, 1954"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 16 October 1954, the first that political parties were allowed to contest. The result was a victory for independent candidates, which won 38 of the 40 seats, with the other two going to the  and the ."
+      ],
+      "label": [
+        "1954 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1954_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1954_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1954_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:October_1954_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1211.7158"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1962_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 1962",
+        "<B>Jordanian</B> parliamentary election, 1962"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 24 and 25 November 1962. As political parties were banned at the time, all candidates ran as independents."
+      ],
+      "label": [
+        "1962 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1962_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1962_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections",
+        "http://dbpedia.org/resource/Category:November_1962_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1211.7158"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1961_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 1961",
+        "<B>Jordanian</B> parliamentary election, 1961"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 19 October 1961. As political parties were banned at the time, all candidates ran as independents."
+      ],
+      "label": [
+        "1961 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1961_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1961_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1961_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections",
+        "http://dbpedia.org/resource/Category:October_1961_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1211.7158"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1997_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 1997",
+        "<B>Jordanian</B> parliamentary election, 1997"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 4 November 1997. They were boycotted by the main opposition parties, and saw independents win 75 of the 80 seats. Voter turnout was 44.7%."
+      ],
+      "label": [
+        "1997 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1997_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1997_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:November_1997_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1211.7158"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1989_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 1989",
+        "<B>Jordanian</B> parliamentary election, 1989"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 8 November 1989, the first since 1967. As political parties were banned at the time, all 647 candidates ran as independents, although 22 of the 80 successful candidates were Muslim Brotherhood members. Voter turnout was 53.1%."
+      ],
+      "label": [
+        "1989 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1989_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1989_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:Non-partisan_elections",
+        "http://dbpedia.org/resource/Category:November_1989_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1185.1979"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Jordanian_Pro_League"
+      ],
+      "redirectlabel": [
+        "2018-19 Jordan League",
+        "2018-19 <B>Jordanian</B> Pro League",
+        "2018–19 Jordan League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Jordanian</B> Pro League (known as the Al-Manaseer <B>Jordanian</B> Pro League, named after Ziad"
+      ],
+      "label": [
+        "2018–19 <B>Jordanian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Jordanian_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2018–19_in_Jordanian_football",
+        "http://dbpedia.org/resource/Category:Jordanian_Pro_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1167.6255"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Arab_Socialist_Ba'ath_Party"
+      ],
+      "redirectlabel": [
+        "Arab Socialist Ba'ath Party - Jordan Region",
+        "Arab Socialist Ba'ath Party – Jordan Region",
+        "Arab Socialist Baath Party - Jordan Region",
+        "Ba'ath Party (Jordan)",
+        "Baath Party (Jordan)",
+        "<B>Jordanian</B> Arab Socialist Baath Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Jordanian</B> Arab Socialist Ba'ath Party (JASBP), previously known as the Arab Socialist Ba'ath"
+      ],
+      "label": [
+        "<B>Jordanian</B> Arab Socialist Ba'ath Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Arab_Socialist_Ba'ath_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Jordan",
+        "http://dbpedia.org/resource/Category:Ba'athist_parties",
+        "http://dbpedia.org/resource/Category:Ba'athist_regional_branches",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1951",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1157.3442"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Australian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Australians refers to Australians of <B>Jordanian</B> descent or a Jordan-born person who"
+      ],
+      "label": [
+        "<B>Jordanian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Jordanian_descent",
+        "http://dbpedia.org/resource/Category:Jordanian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1124.1904"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab_Legion"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Arab Legion",
+        "<B>Jordanian</B> Legion",
+        "Transjordanian Legion"
+      ],
+      "comment": [
+        "The Arab Legion was the regular army of Transjordan and then Jordan in the early part of the 20th century."
+      ],
+      "label": [
+        "Arab Legion"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab_Legion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_Arab–Israeli_War",
+        "http://dbpedia.org/resource/Category:1956_disestablishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arab_Legion",
+        "http://dbpedia.org/resource/Category:Arab_nationalist_militant_groups",
+        "http://dbpedia.org/resource/Category:Military_history_of_Jordan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1956",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1920",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Jordan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_British_Empire_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "1123.5292"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Jordanian_local_elections"
+      ],
+      "redirectlabel": [
+        "Jordan Municipal Elections",
+        "Jordan local elections, 2007",
+        "<B>Jordanian</B> local elections, 2007"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "On July 31, 2007, Jordan held mayoral and council elections in 94 municipalities. As in past elections, the Municipality of Greater Amman (MOGA) was exempt from the full election; only half of the 68-member council was elected, while the other half of the MOGA council, along with the mayor, was appointed by the King of Jordan. The elections were the first to take place under new legislation that guarantees at least twenty percent of elected positions to women candidates and lowers the age of eligible voters from 19 to 18."
+      ],
+      "label": [
+        "2007 <B>Jordanian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Jordanian_local_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2007_in_Jordan",
+        "http://dbpedia.org/resource/Category:July_2007_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1108.8688"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Communist_Toilers_Party"
+      ],
+      "redirectlabel": [
+        "Communist Workers' Party of Jordan",
+        "Communist Workers Party of Jordan",
+        "<B>Jordanian</B> Communist Workers' Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Communist Toilers Party (in Arabic: Hizb al-Shaghghilah al-Shuyu'iyah al-Urduni, حزب"
+      ],
+      "label": [
+        "<B>Jordanian</B> Communist Toilers Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Communist_Toilers_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Defunct_socialist_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1997",
+        "http://dbpedia.org/resource/Category:Political_parties_with_year_of_disestablishment_missing",
+        "http://dbpedia.org/resource/Category:Secularism_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1108.5541"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Demographics_of_Jordan"
+      ],
+      "redirectlabel": [
+        "Demographics of jordan",
+        "Ethnic groups in Jordan",
+        "Jordan/People",
+        "<B>Jordanian</B> People",
+        "<B>Jordanian</B> people",
+        "<B>Jordanians</B>",
+        "Lebanese people in Jordan",
+        "Pakistanis in Jordan",
+        "People of Jordan"
+      ],
+      "comment": [
+        ". <B>Jordanians</B> (Arabic: أردنيون‎) are the citizens of Jordan, who share a common Levantine Semitic"
+      ],
+      "label": [
+        "Demographics of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Demographics_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Demographics_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1089.4491"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> citizenship"
+      ],
+      "comment": [
+        "<B>Jordanian</B> citizenship is the status of being a citizen of the Hashemite Kingdom of Jordan. It can"
+      ],
+      "label": [
+        "<B>Jordanian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Jordan",
+        "http://dbpedia.org/resource/Category:Human_rights_in_Jordan",
+        "http://dbpedia.org/resource/Category:Law_of_Jordan",
+        "http://dbpedia.org/resource/Category:Nationality_law",
+        "http://dbpedia.org/resource/Category:Politics_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1070.4523"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islamization_of_Jerusalem"
+      ],
+      "redirectlabel": [
+        "Islam in Jerusalem",
+        "Islamisation of Jerusalem",
+        "Islamisation of Jerusalem under <B>Jordanian</B> occupation",
+        "Islamization of East Jerusalem",
+        "Islamization of East Jerusalem under <B>Jordanian</B> occupation",
+        "Islamization of East Jerusalem under <B>Jordanian</B> rule",
+        "Islamization of Jerusalem under <B>Jordanian</B> occupation"
+      ],
+      "comment": [
+        ". However, with the <B>Jordanian</B> annexation of the West Bank, Jerusalem underwent another round of Islamization and Arabization."
+      ],
+      "label": [
+        "Islamization of Jerusalem"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islamization_of_Jerusalem"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:1967_disestablishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:20th-century_Islam",
+        "http://dbpedia.org/resource/Category:20th_century_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:638_establishments",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Christianity_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:Islam_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:Islamization",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:Medieval_Jerusalem"
+      ]
+    },
+    {
+      "score": [
+        "1058.4211"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_Jordanian_Pro_League"
+      ],
+      "redirectlabel": [
+        "2017-18 Jordan League",
+        "2017-18 <B>Jordanian</B> Pro League",
+        "2017–18 Jordan League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2017–18 Jordan <B>Jordanian</B> Pro League (known as the Al-Manaseer <B>Jordanian</B> Pro League, named after"
+      ],
+      "label": [
+        "2017–18 <B>Jordanian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_Jordanian_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017–18_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2017–18_in_Jordanian_football",
+        "http://dbpedia.org/resource/Category:Jordanian_Pro_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1051.036"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1957_alleged_Jordanian_military_coup_attempt"
+      ],
+      "redirectlabel": [
+        "1957 alleged <B>Jordanian</B> military coup"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1957 alleged <B>Jordanian</B> military coup attempt refers to violent confrontations on 13 April 1957"
+      ],
+      "label": [
+        "1957 alleged <B>Jordanian</B> military coup attempt"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1957_alleged_Jordanian_military_coup_attempt"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1957_in_Jordan",
+        "http://dbpedia.org/resource/Category:Attempted_coups_d'état",
+        "http://dbpedia.org/resource/Category:Hussein_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1041.4651"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordan–Syria_border"
+      ],
+      "redirectlabel": [
+        "Jordan-Syria border",
+        "<B>Jordanian</B>-Syrian border",
+        "<B>Jordanian</B>–Syrian border",
+        "Syrian-<B>Jordanian</B> border"
+      ],
+      "comment": [
+        "The border between Syria and Jordan measures 375 km. It was first defined in the 1920-23 Paulet–Newcombe Agreement, as an amendment to the line between the A zone and the B zone in the Sykes–Picot Agreement of 1916."
+      ],
+      "label": [
+        "Jordan–Syria border"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordan–Syria_border"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Borders_of_Jordan",
+        "http://dbpedia.org/resource/Category:Borders_of_Syria",
+        "http://dbpedia.org/resource/Category:International_borders",
+        "http://dbpedia.org/resource/Category:Jordan–Syria_border"
+      ]
+    },
+    {
+      "score": [
+        "1038.5914"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Culture_of_Jordan"
+      ],
+      "redirectlabel": [
+        "Archaeology of Jordan",
+        "Bedouin weddings in Jordan",
+        "Etiquette in Jordan",
+        "<B>Jordanian</B> culture",
+        "<B>Jordanian</B> dance",
+        "<B>Jordanian</B> society"
+      ],
+      "comment": [
+        "The culture of Jordan is based in Arabic and Islamic elements with significant Western influence. Jordan stands at the intersection of the three continents of the ancient world, lending it geographic and population diversity. Notable aspects of the culture include traditional music and clothing of Jordan, and interest in sports. These include football and basketball as well as other imported sports, mainly from western Europe and the United States."
+      ],
+      "label": [
+        "Culture of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Culture_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jordanian_culture",
+        "http://dbpedia.org/resource/Category:Western_Asian_culture"
+      ]
+    },
+    {
+      "score": [
+        "1037.1002"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_political_satire"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Political Satire"
+      ],
+      "comment": [
+        " satirists worldwide, the <B>Jordanian</B> satirists aim to use pun and indirect references to tackle taboos"
+      ],
+      "label": [
+        "<B>Jordanian</B> political satire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_political_satire"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Political_satire_by_country",
+        "http://dbpedia.org/resource/Category:Society_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "1026.856"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_bombing_of_Jordanian_embassy_in_Baghdad"
+      ],
+      "redirectlabel": [
+        "2003 <B>Jordanian</B> embassy bombing in Baghdad",
+        "<B>Jordanian</B> embassy bombing in Baghdad"
+      ],
+      "label": [
+        "2003 bombing of <B>Jordanian</B> embassy in Baghdad"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_bombing_of_Jordanian_embassy_in_Baghdad"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_crimes_in_Baghdad",
+        "http://dbpedia.org/resource/Category:2000s_in_Baghdad",
+        "http://dbpedia.org/resource/Category:2000s_road_incidents_in_Asia",
+        "http://dbpedia.org/resource/Category:2003_disasters_in_Iraq",
+        "http://dbpedia.org/resource/Category:2003_in_Iraq",
+        "http://dbpedia.org/resource/Category:2003_in_Jordan",
+        "http://dbpedia.org/resource/Category:2003_in_international_relations",
+        "http://dbpedia.org/resource/Category:2003_murders_in_Iraq",
+        "http://dbpedia.org/resource/Category:2003_road_incidents",
+        "http://dbpedia.org/resource/Category:21st-century_mass_murder_in_Iraq",
+        "http://dbpedia.org/resource/Category:Attacks_on_buildings_and_structures_in_2003",
+        "http://dbpedia.org/resource/Category:Attacks_on_buildings_and_structures_in_Baghdad",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_of_Jordan",
+        "http://dbpedia.org/resource/Category:August_2003_crimes",
+        "http://dbpedia.org/resource/Category:August_2003_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Building_bombings_in_Iraq",
+        "http://dbpedia.org/resource/Category:Bus_bombings_in_Asia",
+        "http://dbpedia.org/resource/Category:Car_and_truck_bombings_in_Iraq",
+        "http://dbpedia.org/resource/Category:Improvised_explosive_device_bombings_in_2003",
+        "http://dbpedia.org/resource/Category:Improvised_explosive_device_bombings_in_Baghdad",
+        "http://dbpedia.org/resource/Category:Iraq–Jordan_relations",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_2003",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_Baghdad",
+        "http://dbpedia.org/resource/Category:Road_incidents_in_Iraq",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Iraq_in_2003"
+      ]
+    },
+    {
+      "score": [
+        "989.5207"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/General_Federation_of_Jordanian_Trade_Unions"
+      ],
+      "redirectlabel": [
+        "GFJTU",
+        "General federation of <B>jordanian</B> trade unions"
+      ],
+      "typeName": [
+        "Organisation",
+        "TradeUnion",
+        "Agent"
+      ],
+      "comment": [
+        "The General Federation of <B>Jordanian</B> Trade Unions (GFJTU) is the national trade union center in"
+      ],
+      "label": [
+        "General Federation of <B>Jordanian</B> Trade Unions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/General_Federation_of_Jordanian_Trade_Unions"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TradeUnion",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:International_Trade_Union_Confederation",
+        "http://dbpedia.org/resource/Category:National_federations_of_trade_unions",
+        "http://dbpedia.org/resource/Category:Trade_unions_established_in_1954",
+        "http://dbpedia.org/resource/Category:Trade_unions_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "969.6776"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hashemites"
+      ],
+      "redirectlabel": [
+        "El-Hachem",
+        "Hashemite",
+        "Hashemite dynasty",
+        "Hashemite family",
+        "Hashemite monarchy",
+        "Hashemites family tree",
+        "Hashemites of Jordan",
+        "Hashimite",
+        "Hashimites",
+        "House of Hashem",
+        "House of Hashim",
+        "<B>Jordanian</B> Royal Family",
+        "<B>Jordanian</B> royal family",
+        "The Hashemites",
+        "هاشمي"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Hashemites (Arabic: الهاشميون‎, romanized: al-Hāshimīyūn), also House of Hashim, are the royal family of Jordan, which they have ruled since 1921, and were the royal family of the kingdoms of Hejaz (1916–1925), Syria (1920) and Iraq (1921–1958)."
+      ],
+      "label": [
+        "Hashemites"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hashemites"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_dynasties",
+        "http://dbpedia.org/resource/Category:Hasanid_dynasties",
+        "http://dbpedia.org/resource/Category:History_of_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:House_of_Hashim",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_royal_families",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "963.9133"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Parliament_of_Jordan"
+      ],
+      "redirectlabel": [
+        "Chamber of deputies of jordan",
+        "Jordan Parliament",
+        "<B>Jordanian</B> Parliament",
+        "<B>Jordanian</B> parliament",
+        "National Assembly of Jordan",
+        "National assembly of jordan",
+        "Senate of jordan"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The Parliament of Jordan (Arabic: مجلس الأمة‎ Majlis Al-Umma) is the bicameral <B>Jordanian</B> national"
+      ],
+      "label": [
+        "Parliament of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Parliament_of_Jordan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1952_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Bicameral_legislatures",
+        "http://dbpedia.org/resource/Category:Parliament_of_Jordan",
+        "http://dbpedia.org/resource/Category:Political_organisations_based_in_Jordan",
+        "http://dbpedia.org/resource/Category:Politics_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "954.6318"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_Jordan"
+      ],
+      "redirectlabel": [
+        "History of Transjordan",
+        "History of jordan",
+        "History of the Southeastern Levant",
+        "Independence of Jordan",
+        "Jordan/History",
+        "Jordan in the middle ages",
+        "<B>Jordanian</B> history",
+        "<B>Jordanian</B> independence",
+        "Medieval Jordan",
+        "Medieval jordan"
+      ],
+      "comment": [
+        "The history of Jordan refers to the history of the Hashemite Kingdom of Jordan and the background period of the Emirate of Transjordan under British protectorate as well as the general history of the region of Transjordan."
+      ],
+      "label": [
+        "History of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:History_of_Jordan",
+        "http://dbpedia.org/resource/Category:History_of_the_Levant"
+      ]
+    },
+    {
+      "score": [
+        "953.781"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/General_Intelligence_Directorate_(Jordan)"
+      ],
+      "redirectlabel": [
+        "Dairat al-Mukhabarat al-Ammah",
+        "Dairat al Mukhabarat",
+        "General Intelligence Department",
+        "General Intelligence Department (Jordan)",
+        "Intelligence service of Jordan",
+        "Intelligence services of Jordan",
+        "Jordan's General Intelligence Division",
+        "Jordan General Intelligence Department",
+        "Jordan Intelligence services",
+        "<B>Jordanian</B> General Intelligence Department",
+        "<B>Jordanian</B> secret intelligence service",
+        "The <B>Jordanian</B> General Intelligence Department"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Jordanian</B> General Intelligence Directorate, or GID (Arabic: دائرة المخابرات العامة) is the"
+      ],
+      "label": [
+        "General Intelligence Directorate (Jordan)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/General_Intelligence_Directorate_(Jordan)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Divisions_and_subsidiaries_of_the_prime_ministry_(Jordan)",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_1964",
+        "http://dbpedia.org/resource/Category:Intelligence_agencies",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Jordan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Jordan",
+        "http://dbpedia.org/resource/Category:Secret_police"
+      ]
+    },
+    {
+      "score": [
+        "952.81445"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Royal_Jordanian_destinations"
+      ],
+      "redirectlabel": [
+        "Royal <B>Jordanian</B> destinations"
+      ],
+      "comment": [
+        "Royal <B>Jordanian</B> serves the following destinations as of June 2018. Not included are charter services operated by its subsidiary Royal Wings."
+      ],
+      "label": [
+        "List of Royal <B>Jordanian</B> destinations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Royal_Jordanian_destinations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_airline_destinations",
+        "http://dbpedia.org/resource/Category:Oneworld_destinations"
+      ]
+    },
+    {
+      "score": [
+        "947.26605"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dabke"
+      ],
+      "redirectlabel": [
+        "Dabka",
+        "Dabkeh",
+        "Debke",
+        "Palestinian/<B>Jordanian</B> Dabkeh",
+        "Palestinian folk dance"
+      ],
+      "comment": [
+        " dance performed by the Lebanese, <B>Jordanians</B>, Syrians, Palestinians, and Iraqis. Dabke combines"
+      ],
+      "label": [
+        "Dabke"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dabke"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_culture",
+        "http://dbpedia.org/resource/Category:Arab_dance",
+        "http://dbpedia.org/resource/Category:Circle_dances",
+        "http://dbpedia.org/resource/Category:Dabke",
+        "http://dbpedia.org/resource/Category:Dance_in_Israel",
+        "http://dbpedia.org/resource/Category:Dance_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Group_dances",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_dances",
+        "http://dbpedia.org/resource/Category:Palestinian_arts"
+      ]
+    },
+    {
+      "score": [
+        "940.20996"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> general election, 2016"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in Jordan on 20 September 2016 to elect the 18th House of Representatives. The elections were announced after parliament was dissolved by King Abdullah II on 29 May 2016, with the King appointing Hani Mulki as interim Prime Minister following the resignation of Abdullah Ensour."
+      ],
+      "label": [
+        "2016 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016_Jordanian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2016_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan",
+        "http://dbpedia.org/resource/Category:September_2016_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "940.20996"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Jordanian_local_elections"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> local elections, 2003"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Local elections were held in Jordan on 27 August 2003 to elect municipal and local councils."
+      ],
+      "label": [
+        "2003 <B>Jordanian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Jordanian_local_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2003_in_Jordan",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "940.20996"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017_Jordanian_local_elections"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> local elections, 2017"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "On 15 August 2017, Jordan held local elections for three levels of government: mayoralties, municipal and local councils, and governorate councils. While the municipal and local councils have been elected consistently since 1925, the governorate council elections are the first of their kind in Jordan, with the councils established by a new 2014 decentralization law. The Law aims to reduce service-related pressure on the Parliament, so it can focus on its legislative and government oversight role."
+      ],
+      "label": [
+        "2017 <B>Jordanian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017_Jordanian_local_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2017_in_Jordan",
+        "http://dbpedia.org/resource/Category:August_2017_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "940.20996"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Jordanian_local_elections"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> local elections, 2013"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Local elections were held in Jordan on 27 August 2003 to elect held municipal and local councils."
+      ],
+      "label": [
+        "2013 <B>Jordanian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Jordanian_local_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2013_in_Jordan",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "913.0832"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Succession_to_the_Jordanian_throne"
+      ],
+      "redirectlabel": [
+        "Line of succession to the <B>Jordanian</B> throne",
+        "Succession to the throne of Jordan"
+      ],
+      "comment": [
+        "Line of succession to the <B>Jordanian</B> throne is the line of people who are eligible to succeed to the"
+      ],
+      "label": [
+        "Succession to the <B>Jordanian</B> throne"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Succession_to_the_Jordanian_throne"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:House_of_Hashim",
+        "http://dbpedia.org/resource/Category:Jordan-related_lists",
+        "http://dbpedia.org/resource/Category:Jordanian_monarchy",
+        "http://dbpedia.org/resource/Category:Lines_of_succession"
+      ]
+    },
+    {
+      "score": [
+        "912.5482"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Bengali_Pidgin_Arabic"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Bengali Pidgin Arabic language"
+      ],
+      "label": [
+        "<B>Jordanian</B> Bengali Pidgin Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Bengali_Pidgin_Arabic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic-based_pidgins_and_creoles",
+        "http://dbpedia.org/resource/Category:Languages_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "909.3561"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Results_of_the_2013_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "Hind al-fayez",
+        "<B>Jordanian</B> parliamentary election results, 2013"
+      ],
+      "comment": [
+        "Early parliamentary elections were held in Jordan on 23 January 2013. All 150 seats in the House of Representatives were up for election. Voter turnout was reported to be 56.6%."
+      ],
+      "label": [
+        "Results of the 2013 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Results_of_the_2013_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2013_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "888.55054"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_Democratic_Popular_Unity_Party"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Popular Democratic Unity Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Jordanian</B> Democratic Popular Unity Party (in Arabic: Hizb Al-Wahdah Al-Sha'abiyah Al-Dimuqratiyyah"
+      ],
+      "label": [
+        "<B>Jordanian</B> Democratic Popular Unity Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_Democratic_Popular_Unity_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arab_Nationalist_Movement_breakaway_groups",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arab_socialist_political_parties",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Palestinian_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1990",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Popular_Front_for_the_Liberation_of_Palestine",
+        "http://dbpedia.org/resource/Category:Secularism_in_Jordan",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "881.575"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Vicariate_for_Palestinian–Jordanian_Communities_in_the_USA"
+      ],
+      "redirectlabel": [
+        "Epitropia of the Holy Sepulcher in America",
+        "Epitropos of the Holy Sepulcher in America",
+        "Greek Orthodox Patriarchate of Jerusalem in North and South America",
+        "Jerusalem Patriarchate in America",
+        "Vicariate for Palestinian-<B>Jordanian</B> Communities in the USA"
+      ],
+      "comment": [
+        "The Vicariate for Palestinian–<B>Jordanian</B> Communities in the USA are parishes in the United States"
+      ],
+      "label": [
+        "Vicariate for Palestinian–<B>Jordanian</B> Communities in the USA"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Vicariate_for_Palestinian–Jordanian_Communities_in_the_USA"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dioceses_of_the_Greek_Orthodox_Archdiocese_of_America",
+        "http://dbpedia.org/resource/Category:Greek_Orthodox_Church_of_Jerusalem",
+        "http://dbpedia.org/resource/Category:Jordanian-American_culture",
+        "http://dbpedia.org/resource/Category:Palestinian-American_culture"
+      ]
+    },
+    {
+      "score": [
+        "869.3387"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece–Jordan_relations"
+      ],
+      "redirectlabel": [
+        "Greece-Jordan relations",
+        "Greece - Jordan relations",
+        "Greece – Jordan relations",
+        "Greek-<B>Jordanian</B> relations",
+        "Greek–<B>Jordanian</B> relations"
+      ],
+      "comment": [
+        "Greek–<B>Jordanian</B> relations are foreign relations between Greece and Jordan. Greece has an embassy in"
+      ],
+      "label": [
+        "Greece–Jordan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece–Jordan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Greece",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Jordan",
+        "http://dbpedia.org/resource/Category:Greece–Jordan_relations"
+      ]
+    },
+    {
+      "score": [
+        "864.94385"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Jordanian_records_in_athletics"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> records in athletics"
+      ],
+      "comment": [
+        "The following are the national records in athletics in Jordan maintained by  (JAF)."
+      ],
+      "label": [
+        "List of <B>Jordanian</B> records in athletics"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Jordanian_records_in_athletics"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Athletics_in_Jordan",
+        "http://dbpedia.org/resource/Category:Jordan_sport-related_lists",
+        "http://dbpedia.org/resource/Category:Jordanian_records",
+        "http://dbpedia.org/resource/Category:National_records_in_athletics_(track_and_field)"
+      ]
+    },
+    {
+      "score": [
+        "859.5449"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Alia_Royal_Jordanian_Flight_600"
+      ],
+      "redirectlabel": [
+        "Alia Royal <B>Jordanian</B> Airlines Flight 600"
+      ],
+      "comment": [
+        "Alia Royal <B>Jordanian</B> Flight 600 was a scheduled passenger flight from Queen Alia International"
+      ],
+      "label": [
+        "Alia Royal <B>Jordanian</B> Flight 600"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Alia_Royal_Jordanian_Flight_600"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_in_Qatar",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_727",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_caused_by_weather",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_1979",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Qatar",
+        "http://dbpedia.org/resource/Category:March_1979_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Royal_Jordanian_accidents_and_incidents"
+      ]
+    },
+    {
+      "score": [
+        "851.0405"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Garra_ghorensis"
+      ],
+      "redirectlabel": [
+        "Dead Sea garra",
+        "<B>Jordanian</B> Logsucker",
+        "<B>Jordanian</B> log sucker"
+      ],
+      "comment": [
+        "Garra ghorensis, the <B>Jordanian</B> log sucker or Dead Sea garra, is a species of ray-finned fish in the"
+      ],
+      "label": [
+        "Garra ghorensis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Garra_ghorensis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fish_described_in_1982",
+        "http://dbpedia.org/resource/Category:Garra",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "837.9194"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Law_of_Jordan"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> law",
+        "<B>Jordanian</B> laws"
+      ],
+      "comment": [
+        " Islam as the state religion. <B>Jordanian</B> penal code has been influenced by the French Penal Code of 1810."
+      ],
+      "label": [
+        "Law of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Law_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_of_Jordan",
+        "http://dbpedia.org/resource/Category:Palestinian_law",
+        "http://dbpedia.org/resource/Category:Sharia"
+      ]
+    },
+    {
+      "score": [
+        "834.6222"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Badr_Brigade_in_the_Jordanian_Army"
+      ],
+      "redirectlabel": [
+        "Badr brigade in the <B>jordanian</B> army"
+      ],
+      "comment": [
+        " Palestine Liberation Organization, but are attached to the <B>Jordanian</B> army."
+      ],
+      "label": [
+        "Badr Brigade in the <B>Jordanian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Badr_Brigade_in_the_Jordanian_Army"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "833.3002"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Jordan"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> music",
+        "Popular music of Jordan"
+      ],
+      "comment": [
+        "The traditional music of Jordan has a long history. Rural zajal songs, with improvised poetry played with a mijwiz, tablah, arghul, oud, rabab and reed pipe ensemble accompanying is popular. The transition of old cultural music into hit pop songs known worldwide Recently Jordan has seen the rise of several prominent DJs and popstars."
+      ],
+      "label": [
+        "Music of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic_music",
+        "http://dbpedia.org/resource/Category:Asian_music",
+        "http://dbpedia.org/resource/Category:Jordanian_culture",
+        "http://dbpedia.org/resource/Category:Jordanian_music"
+      ]
+    },
+    {
+      "score": [
+        "824.5801"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Results_of_the_2007_Jordanian_general_election"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> parliamentary election results, 2007"
+      ],
+      "comment": [
+        "The following are the official and final results for the <B>Jordanian</B> Parliamentary Elections held on"
+      ],
+      "label": [
+        "Results of the 2007 <B>Jordanian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Results_of_the_2007_Jordanian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2007_in_Jordan",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "819.1654"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Senate_(Jordan)"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> Senate",
+        "Senate of Jordan"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The Senate of Jordan is the upper house of the <B>Jordanian</B> parliament which, along with the House of"
+      ],
+      "label": [
+        "Senate (Jordan)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Senate_(Jordan)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1952_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:National_upper_houses",
+        "http://dbpedia.org/resource/Category:Parliament_of_Jordan",
+        "http://dbpedia.org/resource/Category:Political_organisations_based_in_Jordan",
+        "http://dbpedia.org/resource/Category:Politics_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "818.83624"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Christianity_in_Jordan"
+      ],
+      "redirectlabel": [
+        "Christianity in jordan",
+        "Christians in Jordan",
+        "History of Christianity in Jordan",
+        "<B>Jordanian</B> Christian",
+        "<B>Jordanian</B> Christians",
+        "Oriental Orthodox Christianity in Jordan",
+        "Oriental Orthodoxy in Jordan"
+      ],
+      "typeName": [
+        "Place",
+        "WorldHeritageSite",
+        "Location"
+      ],
+      "comment": [
+        " rates for Muslims. <B>Jordanian</B> Christians number around 250,000, most of whom are ethnically Arab"
+      ],
+      "label": [
+        "Christianity in Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Christianity_in_Jordan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/WorldHeritageSite",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christianity_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "813.27454"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arabization_of_the_Jordanian_Army_command"
+      ],
+      "redirectlabel": [
+        "1956 Arabization of the <B>Jordanian</B> Army command"
+      ],
+      "comment": [
+        "The Arabization of the <B>Jordanian</B> Army command (Arabic: تعريب قيادة الجيش العربي‎, Ta'reeb Qiyadat"
+      ],
+      "label": [
+        "Arabization of the <B>Jordanian</B> Army command"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arabization_of_the_Jordanian_Army_command"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_Legion",
+        "http://dbpedia.org/resource/Category:Jordanian_Armed_Forces",
+        "http://dbpedia.org/resource/Category:Military_history_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "808.1853"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Levantine_Arabic_Sign_Language"
+      ],
+      "redirectlabel": [
+        "ISO 639:jos",
+        "<B>Jordanian</B> Sign Language",
+        "Lebanese Sign Language",
+        "Levantine Sign Language",
+        "Palestinian Sign Language",
+        "Syrian Sign Language",
+        "Syro-<B>Jordanian</B> Sign Language",
+        "Syro-Palestinian Sign Language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Levantine Arabic Sign Language, also known as Syro-Palestinian Sign Language, is the deaf sign language of Jordan, Palestine, Syria, and Lebanon. Although there are significant differences in vocabulary between the four states, this is not much greater than regional differences within the states, their grammar is quite uniform, and mutual intelligibility is high, indicating that they are dialects of a single language (Hendriks 2008). The language typically goes by the name of the country, as so:"
+      ],
+      "label": [
+        "Levantine Arabic Sign Language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Levantine_Arabic_Sign_Language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_sign_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Jordan",
+        "http://dbpedia.org/resource/Category:Languages_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Languages_of_Syria",
+        "http://dbpedia.org/resource/Category:Languages_of_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Sign_languages_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "801.16406"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_diplomatic_missions_of_Jordan"
+      ],
+      "redirectlabel": [
+        "Diplomatic missions of Jordan",
+        "Diplomatic missions of jordan",
+        "<B>Jordanian</B> diplomatic missions",
+        "<B>Jordanian</B> embassy"
+      ],
+      "comment": [
+        "This is a list of diplomatic missions of Jordan."
+      ],
+      "label": [
+        "List of diplomatic missions of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_diplomatic_missions_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Diplomatic_missions_of_Jordan",
+        "http://dbpedia.org/resource/Category:Jordan_diplomacy-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_diplomatic_missions_by_sending_country"
+      ]
+    },
+    {
+      "score": [
+        "799.9292"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Elections_in_Jordan"
+      ],
+      "redirectlabel": [
+        "Elections in jordan",
+        "<B>Jordanian</B> elections",
+        "Next <B>Jordanian</B> parliamentary election"
+      ],
+      "comment": [
+        "Elections in Jordan are for the lower house, known as the House of Representatives, of the bicameral parliament of Jordan, as well as for local elections. They take place within a political system where the King has extensive legislative and executive powers, retaining ultimate political control. The Prime Minister is selected by the King, the PM is then free to choose his own Cabinet. The parliament has quotas: three seats for Circassians and Chechens, nine for Christians and fifteen for women. The electoral system favours rural tribes and those of East Bank origin over urban areas that are primarily inhabited by those of Palestinian descent."
+      ],
+      "label": [
+        "Elections in Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Elections_in_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Elections_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "779.50977"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel–Jordan_relations"
+      ],
+      "redirectlabel": [
+        "History of Israel-Jordan relations",
+        "History of Israel–Jordan relations",
+        "Israel-Jordan relations",
+        "Israel - Jordan relations",
+        "Israel – Jordan relations",
+        "Israeli <B>jordanian</B> relations",
+        "Jordan-Israel relations",
+        "<B>Jordanian</B> israeli relations",
+        "Jordan–Israel relations"
+      ],
+      "comment": [
+        "Israel–Jordan relations refers to the diplomatic, economic and cultural relations between Israel and Jordan. The two countries share a land border, with three border crossings: Yitzhak Rabin/Wadi Araba Crossing, Jordan River Crossing and the Allenby/King Hussein Bridge Crossing, that connects the West Bank with Jordan. The relationship between the two countries is regulated by the Israel–Jordan peace treaty in 1994, which formally ended the state of war that had existed between the two countries since the establishment of the State of Israel in 1948, and also established diplomatic relations, besides other matters. Relations between the countries get strained from time to time, usually over tensions at the Al-Aqsa mosque."
+      ],
+      "label": [
+        "Israel–Jordan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel–Jordan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Israel",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Jordan",
+        "http://dbpedia.org/resource/Category:Israel–Jordan_relations"
+      ]
+    },
+    {
+      "score": [
+        "762.7285"
+      ],
+      "refCount": [
+        "1"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jordanian_intervention_in_the_Syrian_civil_war"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> intervention in the Syrian Civil War"
+      ],
+      "label": [
+        "<B>Jordanian</B> intervention in the Syrian civil war"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jordanian_intervention_in_the_Syrian_civil_war"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_in_Jordan",
+        "http://dbpedia.org/resource/Category:2014_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2015_in_Jordan",
+        "http://dbpedia.org/resource/Category:2015_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Airstrikes",
+        "http://dbpedia.org/resource/Category:Foreign_involvement_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Jordanian_involvement_in_the_Syrian_civil_war"
+      ]
+    },
+    {
+      "score": [
+        "754.5648"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Allon_Plan"
+      ],
+      "redirectlabel": [
+        "Alon Plan",
+        "<B>Jordanian</B> option"
+      ],
+      "comment": [
+        "The Allon Plan (Hebrew: תוכנית אלון‎) was a plan to partition the West Bank between Israel and the Hashemite Kingdom of Jordan, create a Druze state in the Israeli-occupied Golan Heights, and return most of the Sinai Peninsula to Arab control. The plan was drafted by Israeli Minister Yigal Allon shortly after the Six-Day War in June 1967. Allon died in 1980, and the following year the Israeli government passed the Golan Heights Law, effectively annexing most of the governorate."
+      ],
+      "label": [
+        "Allon Plan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Allon_Plan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_in_Israel",
+        "http://dbpedia.org/resource/Category:1967_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_peace_process",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Israel",
+        "http://dbpedia.org/resource/Category:Israel–Jordan_relations"
+      ]
+    },
+    {
+      "score": [
+        "750.27576"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Palestine_pound"
+      ],
+      "redirectlabel": [
+        "<B>Jordanian</B> pound",
+        "Palestinian Pound",
+        "Palestinian currency",
+        "Palestinian pound",
+        "£P"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " continued to be the currency of Transjordan until 1949 and was replaced by the <B>Jordanian</B> dinar, and"
+      ],
+      "label": [
+        "Palestine pound"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Palestine_pound"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1927_establishments_in_Mandatory_Palestine",
+        "http://dbpedia.org/resource/Category:1950_disestablishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Currencies_of_Israel",
+        "http://dbpedia.org/resource/Category:Currencies_of_Jordan",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Mandatory_Palestine",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "725.51306"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Flag_of_Jordan"
+      ],
+      "redirectlabel": [
+        "Flag of Transjordan",
+        "Flag of jordan",
+        "Jordan flag",
+        "<B>Jordanian</B> flag",
+        "🇯🇴"
+      ],
+      "comment": [
+        "The flag of Jordan, officially adopted on 18 April 1928, is based on the 1917 flag of the Arab Revolt against the Ottoman Empire during World War I. The flag consists of horizontal black, white, and green bands that are connected by a red chevron. The colors stand are the Pan-Arab Colors, representing the Abbasid (black band), Umayyad (white band), and Fatimid (green band) caliphates. The red chevron is for the Hashemite dynasty, and the Arab Revolt."
+      ],
+      "label": [
+        "Flag of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Flag_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Flags_of_Jordan",
+        "http://dbpedia.org/resource/Category:National_flags",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "712.22864"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ahmed_Samir_(footballer,_born_1991)"
+      ],
+      "redirectlabel": [
+        "Ahmad Sameer",
+        "Ahmed Samir (<B>Jordanian</B> footballer)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Ahmed Samir Saleh (Arabic: احمد سمير صالح‎) is a <B>Jordanian</B> footballer who plays as a midfielder for Al-Jazeera and the Jordan national football team."
+      ],
+      "label": [
+        "Ahmed Samir (footballer, born 1991)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ahmed_Samir_(footballer,_born_1991)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_births",
+        "http://dbpedia.org/resource/Category:2019_AFC_Asian_Cup_players",
+        "http://dbpedia.org/resource/Category:Al-Jazeera_(Jordan)_players",
+        "http://dbpedia.org/resource/Category:Al-Ramtha_SC_players",
+        "http://dbpedia.org/resource/Category:Al-Wehdat_SC_players",
+        "http://dbpedia.org/resource/Category:Al_Urooba_Club_players",
+        "http://dbpedia.org/resource/Category:Association_football_midfielders",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:Jordan_international_footballers",
+        "http://dbpedia.org/resource/Category:Jordanian_footballers",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Sportspeople_from_Amman",
+        "http://dbpedia.org/resource/Category:UAE_First_Division_League_players"
+      ]
+    },
+    {
+      "score": [
+        "704.342"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Al_Ra'i_(Jordanian_newspaper)"
+      ],
+      "redirectlabel": [
+        "Al-Ra'i",
+        "Al Ra'ai (Newspaper)",
+        "Al Ra'ee (Newspaper)",
+        "Al Ra’i"
+      ],
+      "typeName": [
+        "WrittenWork",
+        "Newspaper",
+        "Work",
+        "PeriodicalLiterature"
+      ],
+      "comment": [
+        "Al Ra'i (Arabic: الرأي‎, meaning \"The Opinion\"), also spelled Alrai, is an Arabic daily newspaper in Jordan. The Jordan Press Foundation, owner of the Al Rai, is government-owned."
+      ],
+      "label": [
+        "Al Ra'i (<B>Jordanian</B> newspaper)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Al_Ra'i_(Jordanian_newspaper)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Newspaper",
+        "http://dbpedia.org/ontology/Work",
+        "http://dbpedia.org/ontology/PeriodicalLiterature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_establishments_in_Jordan",
+        "http://dbpedia.org/resource/Category:Arabic-language_newspapers",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Amman",
+        "http://dbpedia.org/resource/Category:Newspapers_established_in_1971",
+        "http://dbpedia.org/resource/Category:Newspapers_published_in_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "692.3585"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Jordan"
+      ],
+      "redirectlabel": [
+        "Government of Jordan",
+        "Jordan/Government",
+        "Jordan prime ministry",
+        "<B>Jordanian</B> politics",
+        "Judiciary of Jordan",
+        "Politics of jordan"
+      ],
+      "comment": [
+        "The politics of Jordan takes place in a framework of a parliamentary monarchy, whereby the Prime Minister of Jordan is head of government, and of a multi-party system. Jordan is a constitutional monarchy based on the constitution promulgated on January 8, 1952. The king exercises his power through the government he appoints which is responsible before the Parliament. King Abdullah II of Jordan has been sovereign since the death of his father in 1999. Omar Razzaz has been Prime Minister since 4 June 2018."
+      ],
+      "label": [
+        "Politics of Jordan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Jordan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Politics_of_Jordan"
+      ]
+    },
+    {
+      "score": [
+        "664.2299"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Transjordan_Frontier_Force"
+      ],
+      "redirectlabel": [
+        "TJFF",
+        "Trans-Jordan Frontier Force",
+        "Trans-<B>Jordanian</B> Frontier Force"
+      ],
+      "comment": [
+        "The Trans-Jordan Frontier Force was formed on 1 April 1926, to replace the disbanded British Gendarmerie. It was a creation of the British High Commissioner for Palestine whose intention was that the Force should defend Trans-Jordan's northern and southern borders. The TJFF was also an Imperial Service regiment whose Imperial Service soldiers agreed to serve wherever required and not just within the borders of their own colony, protectorate or, in the case of the Transjordan, mandate. This was in contrast to the Arab Legion, which was seen more as an internal security militia, deriving from the troops of the Arab Revolt and closely associated with the Hashemite cause. The Amir Abdullah was an Honorary Colonel of the Trans-Jordan Frontier Force from its inception. However, the local command"
+      ],
+      "label": [
+        "Transjordan Frontier Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Transjordan_Frontier_Force"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_Arab–Israeli_War",
+        "http://dbpedia.org/resource/Category:British_colonial_regiments",
+        "http://dbpedia.org/resource/Category:Emirate_of_Transjordan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1926",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Jordan",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Mandatory_Palestine_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_United_Kingdom_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Organizations_based_in_Mandatory_Palestine"
+      ]
+    }
+  ]
+}

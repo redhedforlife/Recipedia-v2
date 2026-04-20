@@ -1,0 +1,159 @@
+id,slug,name,normalized_name,description,technique_kind,foodon_id,wikidata_qid,wikipedia_title,dbpedia_uri,created_at,updated_at
+tec-brunoise-e782310c,brunoise,Brunoise,brunoise,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-chiffonade-c96872c7,chiffonade,Chiffonade,chiffonade,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-chop-1d857e6f,chop,Chop,chop,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-crush-4aa66cd3,crush,Crush,crush,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-cube-bb2dc4c6,cube,Cube,cube,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-debone-454ff6ed,debone,Debone,debone,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-deglaze-5e2676cd,deglaze,Deglaze,deglaze,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dice-eb8b9781,dice,Dice,dice,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-fillet-f8ab1609,fillet,Fillet,fillet,Preparation technique used to normalize graph relationships.,preparation,FOODON_02010016,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-fold-3d6b3a9d,fold,Fold,fold,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-grate-06f25368,grate,Grate,grate,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-julienne-7da91a13,julienne,Julienne,julienne,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-knead-4eb20c7d,knead,Knead,knead,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-marinate-859deca1,marinate,Marinate,marinate,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-mash-3801edea,mash,Mash,mash,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-mince-3b64953e,mince,Mince,mince,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-mix-19ab108d,mix,Mix,mix,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-peel-b8e59d44,peel,Peel,peel,Preparation technique used to normalize graph relationships.,preparation,FOODON_00004459,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-pickle-62549dfa,pickle,Pickle,pickle,Preparation technique used to normalize graph relationships.,preparation,FOODON_00003005,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-pipe-bf567743,pipe,Pipe,pipe,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-poach-prep-d5aa8aaa,poach-prep,Poach Prep,poach prep,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-press-93bc9a36,press,Press,press,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-puree-c8c7256b,puree,Puree,puree,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-rest-9a118f54,rest,Rest,rest,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-roll-82a127e4,roll,Roll,roll,Preparation technique used to normalize graph relationships.,preparation,FOODON_00002743,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-rough-chop-9a5f17f5,rough-chop,Rough Chop,rough chop,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-score-dea4027c,score,Score,score,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-season-d2973ba3,season,Season,season,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-shred-1641c5fe,shred,Shred,shred,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-sieve-ec67c495,sieve,Sieve,sieve,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-slice-c5c54944,slice,Slice,slice,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-slurry-5cf17e40,slurry,Slurry,slurry,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-smash-076695c3,smash,Smash,smash,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-soak-9e2485bb,soak,Soak,soak,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-spatchcock-a519bfcc,spatchcock,Spatchcock,spatchcock,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-sprinkle-3a6498e6,sprinkle,Sprinkle,sprinkle,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-stuff-996e573e,stuff,Stuff,stuff,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-temper-e0ec7440,temper,Temper,temper,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-tenderize-9d5008b7,tenderize,Tenderize,tenderize,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-toast-spices-1bf6f315,toast-spices,Toast Spices,toast spices,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-truss-dd556542,truss,Truss,truss,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-whisk-297ea626,whisk,Whisk,whisk,Preparation technique used to normalize graph relationships.,preparation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-zest-5871d499,zest,Zest,zest,Preparation technique used to normalize graph relationships.,preparation,FOODON_00003283,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-air-fry-a06e93cc,air-fry,Air Fry,air fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-bake-6c2c6bda,bake,Bake,bake,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-barbecue-84d5dbfa,barbecue,Barbecue,barbecue,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-blanch-fec8e34c,blanch,Blanch,blanch,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-boil-29213ba5,boil,Boil,boil,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-braise-4a3832ff,braise,Braise,braise,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-broil-0087a916,broil,Broil,broil,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-char-6e6152b5,char,Char,char,Heat technique used to normalize graph relationships.,heat,FOODON_03414051,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-confit-23948b73,confit,Confit,confit,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-deep-fry-a6271d1b,deep-fry,Deep Fry,deep fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-double-fry-dd882215,double-fry,Double Fry,double fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-griddle-717e3046,griddle,Griddle,griddle,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-grill-7732deea,grill,Grill,grill,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-hot-smoke-c64c13f3,hot-smoke,Hot Smoke,hot smoke,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-pan-fry-b855a6f6,pan-fry,Pan Fry,pan fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-pan-roast-c3a92677,pan-roast,Pan Roast,pan roast,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-poach-37fe693c,poach,Poach,poach,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-pressure-cook-fef56fdc,pressure-cook,Pressure Cook,pressure cook,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-roast-72d2c26d,roast,Roast,roast,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-saute-5227b5cc,saute,Saute,saute,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-sear-e8cebaee,sear,Sear,sear,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-shallow-fry-218da2d3,shallow-fry,Shallow Fry,shallow fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-simmer-4a118b1f,simmer,Simmer,simmer,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-slow-cook-101c2f4f,slow-cook,Slow Cook,slow cook,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-smoke-2bd7b853,smoke,Smoke,smoke,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-steam-3f9d1489,steam,Steam,steam,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-stew-cff95fb0,stew,Stew,stew,Heat technique used to normalize graph relationships.,heat,FOODON_00003140,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-stir-fry-ee979e71,stir-fry,Stir Fry,stir fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-toast-033b5dd6,toast,Toast,toast,Heat technique used to normalize graph relationships.,heat,FOODON_03306255,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-warm-6b5bf6d7,warm,Warm,warm,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-wok-fry-0d5aa6a8,wok-fry,Wok Fry,wok fry,Heat technique used to normalize graph relationships.,heat,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-laminate-ca13220f,laminate,Laminate,laminate,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-proof-24fa378d,proof,Proof,proof,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-ferment-dough-b3de32a4,ferment-dough,Ferment Dough,ferment dough,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-shape-loaf-d61c2e13,shape-loaf,Shape Loaf,shape loaf,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-shape-dumplings-6a83e3ad,shape-dumplings,Shape Dumplings,shape dumplings,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-fold-pastry-f7343483,fold-pastry,Fold Pastry,fold pastry,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-stretch-dough-fb47e141,stretch-dough,Stretch Dough,stretch dough,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dust-with-flour-85dfba7d,dust-with-flour,Dust With Flour,dust with flour,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-blind-bake-37c44eed,blind-bake,Blind Bake,blind bake,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dock-dough-35d0ff67,dock-dough,Dock Dough,dock dough,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-par-bake-29f889eb,par-bake,Par-Bake,par bake,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-steam-dough-61cf9918,steam-dough,Steam Dough,steam dough,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-stuff-pastry-a2e2c8b1,stuff-pastry,Stuff Pastry,stuff pastry,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-seal-dumplings-059b8850,seal-dumplings,Seal Dumplings,seal dumplings,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-roll-thin-59c6a69a,roll-thin,Roll Thin,roll thin,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-crimp-edges-ace96c67,crimp-edges,Crimp Edges,crimp edges,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-brush-wash-a5a993b1,brush-wash,Brush Wash,brush wash,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-score-dough-bcb6ef28,score-dough,Score Dough,score dough,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-fill-crepes-6bab5c44,fill-crepes,Fill Crepes,fill crepes,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-form-patties-e37967de,form-patties,Form Patties,form patties,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-stuff-breads-e2e4febb,stuff-breads,Stuff Breads,stuff breads,Dough And Shaping technique used to normalize graph relationships.,dough-and-shaping,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-emulsify-bd4af416,emulsify,Emulsify,emulsify,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-reduce-d97bb11e,reduce,Reduce,reduce,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-mount-with-butter-f902731b,mount-with-butter,Mount With Butter,mount with butter,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-thicken-c9ce0c10,thicken,Thicken,thicken,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-clarify-2b47ac84,clarify,Clarify,clarify,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-infuse-c3312024,infuse,Infuse,infuse,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-defat-7419dac8,defat,Defat,defat,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-glaze-4bdad85e,glaze,Glaze,glaze,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,FOODON_03315146,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-caramelize-d17b034e,caramelize,Caramelize,caramelize,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-sweat-aromatics-593b919d,sweat-aromatics,Sweat Aromatics,sweat aromatics,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-bloom-spices-969673dd,bloom-spices,Bloom Spices,bloom spices,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-temper-eggs-c3d18391,temper-eggs,Temper Eggs,temper eggs,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-whip-cream-f596c777,whip-cream,Whip Cream,whip cream,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-curdle-intentionally-d2fe4e47,curdle-intentionally,Curdle Intentionally,curdle intentionally,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dehydrate-sauce-32f6754e,dehydrate-sauce,Dehydrate Sauce,dehydrate sauce,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-blend-smooth-74fe9e41,blend-smooth,Blend Smooth,blend smooth,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-strain-sauce-8f069a69,strain-sauce,Strain Sauce,strain sauce,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-finish-with-acid-e7243b46,finish-with-acid,Finish With Acid,finish with acid,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-coat-pasta-0f9ce17f,coat-pasta,Coat Pasta,coat pasta,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-bind-filling-8bc9ef7a,bind-filling,Bind Filling,bind filling,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-set-custard-84144438,set-custard,Set Custard,set custard,Sauce And Emulsion technique used to normalize graph relationships.,sauce-and-emulsion,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-cure-571272e3,cure,Cure,cure,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dry-3dfa7827,dry,Dry,dry,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-freeze-b58bee63,freeze,Freeze,freeze,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-freeze-dry-9a4fb97c,freeze-dry,Freeze-Dry,freeze dry,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-lacto-ferment-c810f832,lacto-ferment,Lacto-Ferment,lacto ferment,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-pack-in-oil-96a061ce,pack-in-oil,Pack In Oil,pack in oil,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-preserve-in-syrup-c9bde4d5,preserve-in-syrup,Preserve In Syrup,preserve in syrup,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-salt-53cef771,salt,Salt,salt,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-sun-dry-4a6697c0,sun-dry,Sun Dry,sun dry,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-vacuum-seal-001b721b,vacuum-seal,Vacuum Seal,vacuum seal,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-water-bath-can-37c2d1bd,water-bath-can,Water-Bath Can,water bath can,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-smoke-cure-df786d63,smoke-cure,Smoke Cure,smoke cure,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dry-age-f5f74cec,dry-age,Dry Age,dry age,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-wet-age-a910df23,wet-age,Wet Age,wet age,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-brine-bddfcadd,brine,Brine,brine,Preservation technique used to normalize graph relationships.,preservation,FOODON_03302715,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-cold-smoke-50d554ec,cold-smoke,Cold Smoke,cold smoke,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dehydrate-92102768,dehydrate,Dehydrate,dehydrate,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-compress-da4f17cb,compress,Compress,compress,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-quick-pickle-049f5a51,quick-pickle,Quick Pickle,quick pickle,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-candy-a6f8de9c,candy,Candy,candy,Preservation technique used to normalize graph relationships.,preservation,FOODON_03301051,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-crystallize-5937cbc3,crystallize,Crystallize,crystallize,Preservation technique used to normalize graph relationships.,preservation,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-baste-10f9f578,baste,Baste,baste,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-broil-to-finish-1005a045,broil-to-finish,Broil To Finish,broil to finish,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dust-b6726315,dust,Dust,dust,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-finish-with-herbs-a5755269,finish-with-herbs,Finish With Herbs,finish with herbs,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-finish-with-oil-aaeeb04e,finish-with-oil,Finish With Oil,finish with oil,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-fold-in-garnish-25eff90a,fold-in-garnish,Fold In Garnish,fold in garnish,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-froth-9428b18c,froth,Froth,froth,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-garnish-1bfd1611,garnish,Garnish,garnish,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-glaze-to-finish-c328dc35,glaze-to-finish,Glaze To Finish,glaze to finish,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-gratin-fe263c69,gratin,Gratin,gratin,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-torch-5cf731f8,torch,Torch,torch,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-rest-after-cooking-b2985e35,rest-after-cooking,Rest After Cooking,rest after cooking,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-slice-to-serve-9a9ca731,slice-to-serve,Slice To Serve,slice to serve,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-plate-39f29df4,plate,Plate,plate,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-dress-salad-91d1ae3a,dress-salad,Dress Salad,dress salad,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-season-to-finish-6e59cbba,season-to-finish,Season To Finish,season to finish,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-thicken-at-finish-ca36db10,thicken-at-finish,Thicken At Finish,thicken at finish,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-crack-spice-5433655d,crack-spice,Crack Spice,crack spice,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-drizzle-c6841926,drizzle,Drizzle,drizzle,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-spritz-1b1025f0,spritz,Spritz,spritz,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00
+tec-top-with-crumbs-7f9e19d6,top-with-crumbs,Top With Crumbs,top with crumbs,Finishing technique used to normalize graph relationships.,finishing,,,,,2026-04-16T19:12:47+00:00,2026-04-16T19:12:47+00:00

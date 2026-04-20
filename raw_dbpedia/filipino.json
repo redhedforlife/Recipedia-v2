@@ -1,0 +1,4502 @@
+{
+  "docs": [
+    {
+      "score": [
+        "23160.414"
+      ],
+      "refCount": [
+        "1124"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_language"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-language",
+        "<B>Filipino</B> (language)",
+        "<B>Filipino</B> Language",
+        "<B>Filipino</B> dialect",
+        "<B>Filipino</B> dialects",
+        "<B>Filipino</B> vs. Tagalog",
+        "Filipinski",
+        "<B>Filippino</B> language",
+        "ISO 639:fil",
+        "Philipino language",
+        "Philippino language",
+        "Phillipino language",
+        "Pilipino Language",
+        "Pilipino language",
+        "Pilpino language",
+        "Standard <B>Filipino</B>",
+        "Standard Philippine",
+        "Standard Philippine language",
+        "Standard Tagalog",
+        "Standard Tagalog language",
+        "Tagalism",
+        "Tagalismo",
+        "Tagalist",
+        "Tagalista",
+        "Tagalistas",
+        "Tagalists",
+        "Wikang <B>Filipino</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Filipino</B> (English:  (); Wikang <B>Filipino</B> [wɪˈkɐŋ ˌfiːliˈpiːno]) is the national language (Wikang"
+      ],
+      "label": [
+        "<B>Filipino</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_language",
+        "http://dbpedia.org/resource/Category:National_symbols_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Standard_languages",
+        "http://dbpedia.org/resource/Category:Tagalog_dialects"
+      ]
+    },
+    {
+      "score": [
+        "12014.593"
+      ],
+      "refCount": [
+        "13626"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippines"
+      ],
+      "redirectlabel": [
+        "Biodiversity in the Philippines",
+        "Etymology of the Philippines",
+        "<B>Filipines</B>",
+        "<B>Filipino</B> Republic",
+        "Filippines",
+        "Hispanized Southeast Asia",
+        "ISO 3166-1:PH",
+        "Infrastructure in the Philippines",
+        "Islas <B>Filipinas</B>",
+        "Islas de <B>Filipinas</B>",
+        "Las Islas <B>Filipinas</B>",
+        "Legazpi Boulevard",
+        "PHILIPPINE",
+        "PHILIPPINES",
+        "Philiphines",
+        "Philipine",
+        "Philipines",
+        "Philippenes",
+        "Philippinan",
+        "Philippine",
+        "Philippine Islands",
+        "Philippine islands",
+        "Philippine republic",
+        "Philippines Colonial History",
+        "Philippines Republic",
+        "Philippiness",
+        "Phillipenes",
+        "Phillipine",
+        "Phillipines",
+        "Phillippenes",
+        "Phillipphines",
+        "Phillippine",
+        "Phillippines",
+        "Phillippinnes",
+        "Pilipinas",
+        "Pinas (country)",
+        "Regional population of the Philippines",
+        "Republic of Philippines",
+        "Republic of Pilipinas",
+        "Republic of the Philippines",
+        "Republika ng Pilipinas",
+        "The Philipines",
+        "The Philippine Islands",
+        "The Philippines",
+        "The Phillipines",
+        "The Phillippines",
+        "The Republic of the Philippines",
+        "ᜉᜎᜉᜈᜐ"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Philippines ( (); <B>Filipino</B>: Pilipinas [ˌpɪlɪˈpinɐs] or <B>Filipinas</B> [ˌfɪlɪˈpinɐs]), officially the"
+      ],
+      "label": [
+        "Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Former_Japanese_colonies",
+        "http://dbpedia.org/resource/Category:Former_Spanish_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Asia",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Maritime_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Member_states_of_ASEAN",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Newly_industrializing_countries",
+        "http://dbpedia.org/resource/Category:Philippines",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_countries",
+        "http://dbpedia.org/resource/Category:Spanish_East_Indies",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1565",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1898",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1946",
+        "http://dbpedia.org/resource/Category:Volcanic_arc_islands"
+      ]
+    },
+    {
+      "score": [
+        "8816.323"
+      ],
+      "refCount": [
+        "350"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipinos"
+      ],
+      "redirectlabel": [
+        "Boys in the Philippines",
+        "Boys of the Philippines",
+        "<B>Filipina</B>",
+        "<B>Filipino's</B>",
+        "<B>Filipino</B>(people)",
+        "<B>Filipino</B> (identity)",
+        "<B>Filipino</B> (people)",
+        "<B>Filipino</B> People",
+        "<B>Filipino</B> boys",
+        "<B>Filipino</B> character",
+        "<B>Filipino</B> gentleman",
+        "<B>Filipino</B> gentlemen",
+        "<B>Filipino</B> identity",
+        "<B>Filipino</B> male",
+        "<B>Filipino</B> males",
+        "<B>Filipino</B> man",
+        "<B>Filipino</B> men",
+        "<B>Filipino</B> people",
+        "<B>Filipino</B> peoples",
+        "<B>Filipinx</B>",
+        "<B>Filippinos</B>",
+        "<B>Fillipinos</B>",
+        "Lahing <B>filipino</B>",
+        "Lahing pilipino",
+        "Little Brown Americans",
+        "Male <B>Filipino</B>",
+        "Male <B>Filipinos</B>",
+        "Man from the Philippines",
+        "Man of Philippine society",
+        "Manila men",
+        "Manilamen",
+        "Men from the Philippines",
+        "Men in the Philippines",
+        "Men of Philippine society",
+        "Men of the Philippines",
+        "Mga pilipina",
+        "Mga pilipino",
+        "People of the Philippines",
+        "Philippina",
+        "Philippine boys",
+        "Philippine gentleman",
+        "Philippine gentlemen",
+        "Philippine male",
+        "Philippine males",
+        "Philippine man",
+        "Philippine men",
+        "Philippine people",
+        "Philippinos",
+        "Pilipina",
+        "Pilipino people"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Filipinos</B> (<B>Filipino</B>: Mga Pilipino) are the people who are native to or citizens of the country of"
+      ],
+      "label": [
+        "<B>Filipinos</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipinos"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_people"
+      ]
+    },
+    {
+      "score": [
+        "5556.9053"
+      ],
+      "refCount": [
+        "400"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_Basketball_Association"
+      ],
+      "redirectlabel": [
+        "Fil-Foreign",
+        "Fil-Foreigner",
+        "Fil-foreign",
+        "Fil-foreigner",
+        "Fil Foreign",
+        "Fil Foreigner",
+        "Fil foreign",
+        "Fil foreigner",
+        "<B>Filipino</B>-Foreigner",
+        "<B>Filipino</B>-Foreigners",
+        "<B>Filipino</B>-foreigner",
+        "<B>Filipino</B>-foreigners",
+        "<B>Filipino</B> Foreign",
+        "List of Philippine Basketball Association season blocks leaders",
+        "PBA (basketball)",
+        "PBA Properties Inc.",
+        "Philippine Basketball",
+        "Philippine Basketball Asscoiation",
+        "Philippine Basketball Association Block Champion",
+        "Women's Philippine Basketball Association"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Philippine Basketball Association (PBA) is a men's professional basketball league in the Philippines composed of twelve company-branded franchised teams. Founded in 1975, it is the first professional basketball league in Asia and is the second oldest continuously professional basketball league existing in the world after the NBA, established before the \"open era\" of basketball in 1990 where FIBA allowed longstanding domestic leagues, which mostly had predated the PBA, to become professional. The league's regulations are a hybrid of rules from the NBA and FIBA."
+      ],
+      "label": [
+        "Philippine Basketball Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_Basketball_Association"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1975_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Philippine_Basketball_Association",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1975"
+      ]
+    },
+    {
+      "score": [
+        "4222.029"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Overseas_Filipinos"
+      ],
+      "redirectlabel": [
+        "Alisbayan",
+        "Balikbayan",
+        "Baliknasod",
+        "Baliknasud",
+        "Euro-<B>Filipinos</B>",
+        "Euro-Pinoy",
+        "Euro <B>Filipino</B>",
+        "Euro <B>Filipinos</B>",
+        "Euro Pinoy",
+        "Euroflip",
+        "European <B>Filipino</B>",
+        "Europinoy",
+        "Expatriate <B>Filipinos</B>",
+        "<B>Filipino</B>-Brazilian",
+        "<B>Filipino</B>-Foreign",
+        "<B>Filipino</B>-Spaniards",
+        "<B>Filipino</B>-Spanish",
+        "<B>Filipino</B>-foreign",
+        "<B>Filipino</B> Foreigner",
+        "<B>Filipino</B> Foreigners",
+        "<B>Filipino</B> diaspora",
+        "<B>Filipino</B> emigrant communities",
+        "<B>Filipino</B> foreign",
+        "<B>Filipino</B> foreigner",
+        "<B>Filipino</B> foreigners",
+        "<B>Filipino</B> overseas communities",
+        "<B>Filipino</B> overseas workers",
+        "<B>Filipinos</B> of the Diaspora",
+        "Global <B>Filipino</B>",
+        "Global <B>Filipinos</B>",
+        "Global Pinoy",
+        "Italian <B>Filipino</B>",
+        "Italian <B>Filipinos</B>",
+        "Italian Pinoy",
+        "Italian Pinoys",
+        "List of <B>Filipinos</B> abroad",
+        "OFWs",
+        "Overseas <B>Filipino</B>",
+        "Overseas <B>Filipino</B> Investor",
+        "Overseas <B>Filipino</B> Investors",
+        "Overseas <B>Filipino</B> workers",
+        "Overseas <B>filipino</B>",
+        "Philippine diaspora",
+        "Polish <B>Filipino</B>",
+        "Polish <B>Filipinos</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " <B>Filipino</B> descent. As of 2019, there are over 12 million overseas <B>Filipinos</B>."
+      ],
+      "label": [
+        "Overseas <B>Filipinos</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Overseas_Filipinos"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "4182.244"
+      ],
+      "refCount": [
+        "142"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> citizen",
+        "<B>Filipino</B> citizenship",
+        "<B>Filipino</B> national",
+        "<B>Filipino</B> nationality",
+        "Nationality law of the Philippines",
+        "Philippine citizen",
+        "Philippine citizenship",
+        "Philippine national",
+        "Philippine nationality",
+        "Philippines nationality law"
+      ],
+      "comment": [
+        " citizenship. For those born in the Philippines to non-<B>Filipino</B> parents, the Administrative"
+      ],
+      "label": [
+        "Philippine nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_nationality",
+        "http://dbpedia.org/resource/Category:Law_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "4176.3403"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Americans"
+      ],
+      "redirectlabel": [
+        "Fil-Am",
+        "FilAm",
+        "<B>Filipina</B>-American",
+        "<B>Filipino</B>-American",
+        "<B>Filipino</B>-Americans",
+        "<B>Filipino</B> American",
+        "<B>Filipino</B> American Immigration",
+        "<B>Filipino</B> Chronicle",
+        "<B>Filipino</B> Problem",
+        "<B>Filipino</B> Reporter",
+        "<B>Filipino</B> Reporter (newspaper)",
+        "<B>Filipino</B> american",
+        "<B>Filipino</B> cuisine in the United States",
+        "<B>Filipino</B> immigration to the United States",
+        "<B>Filipino</B>–American",
+        "Philippine Americans",
+        "Pilipino American",
+        "Political views of <B>Filipino</B> Americans",
+        "Religion of <B>Filipino</B> Americans",
+        "Tagalog language in the United States",
+        "The <B>Filipino</B> Reporter",
+        "Undocumented <B>Filipino</B> immigrants in the United States"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " issue of the <B>Filipino</B> Student Bulletin. Some <B>Filipinos</B> believe that the term Pinoy was coined by"
+      ],
+      "label": [
+        "<B>Filipino</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian-American_society",
+        "http://dbpedia.org/resource/Category:Filipino_American",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_American"
+      ]
+    },
+    {
+      "score": [
+        "3794.7473"
+      ],
+      "refCount": [
+        "366"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine–American_War"
+      ],
+      "redirectlabel": [
+        "American-Philippine War",
+        "Casualties of the Philippine-American War",
+        "Digmaang Pilipino-Amerikano",
+        "Digmaang Pilipino–Amerikano",
+        "<B>Filipino</B>-American War",
+        "<B>Filipino</B>-American war",
+        "<B>Filipino</B> Insurrection",
+        "<B>Filipino</B> Rebellion",
+        "<B>Filipino</B>–American War",
+        "Philipine-American War",
+        "Philippine-America War",
+        "Philippine-American War",
+        "Philippine-American War of Independence",
+        "Philippine-American war",
+        "Philippine-american war",
+        "Philippine American War",
+        "Philippine Expedition",
+        "Philippine Genocide",
+        "Philippine Insurrection",
+        "Philippine War",
+        "Philippine War of Independence",
+        "Philippine insurrection",
+        "Philippines-American War",
+        "Philippines-US war",
+        "Philippines-United States war",
+        "Philippines War",
+        "Philippine–American War of Independence",
+        "Phillipine-American War",
+        "Phillipine American war",
+        "Phillipine Insurrection",
+        "Phillipine War",
+        "Phillipine war",
+        "Phillipine–American War",
+        "Phillippine-American War",
+        "Phillippine–American War",
+        "Second Philipine War",
+        "Second Philippine War",
+        "Tagalog Insurgency",
+        "US-Philippine War",
+        "United States-Philippines war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Philippine–American War, also referred to as the <B>Filipino</B>–American War, the Philippine War, the"
+      ],
+      "label": [
+        "Philippine–American War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine–American_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1899_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1900_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1901_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1902_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1899",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1900",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1901",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1902",
+        "http://dbpedia.org/resource/Category:Guerrilla_wars",
+        "http://dbpedia.org/resource/Category:History_of_the_Philippines_(1898–1946)",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_States",
+        "http://dbpedia.org/resource/Category:Philippines–United_States_military_relations",
+        "http://dbpedia.org/resource/Category:Philippine–American_War",
+        "http://dbpedia.org/resource/Category:Rebellions_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Philippines",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "3675.1047"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_cuisine"
+      ],
+      "redirectlabel": [
+        "Cooking methods in <B>Filipino</B> cuisine",
+        "Cuisine - Philippines",
+        "Cuisine of Philippines",
+        "Cuisine of the Philippines",
+        "<B>Filipine</B> cuisine",
+        "<B>Filipino</B> Cuisine",
+        "<B>Filipino</B> breakfast food",
+        "<B>Filipino</B> food",
+        "<B>Filipino</B> pastries",
+        "<B>Filipino</B> regional cuisines",
+        "Food in the Philippines",
+        "Food of the Philippines",
+        "Foreign influences on <B>Filipino</B> cuisine",
+        "History of <B>Filipino</B> cuisine",
+        "List of Philippine snack food",
+        "List of philippine snack food",
+        "Philipine cuisine",
+        "Philipino cuisine",
+        "Philippine Cuisine",
+        "Philippine cuisine",
+        "Philippine food",
+        "Philippines cuisine",
+        "Philippino cuisine",
+        "Phillipine cuisine",
+        "Pulutan"
+      ],
+      "comment": [
+        "<B>Filipino</B> cuisine (<B>Filipino</B>: Lutuing Pilipino/Pagkaing Pilipino) is composed of the cuisines of more"
+      ],
+      "label": [
+        "<B>Filipino</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_cuisine",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "3603.8523"
+      ],
+      "refCount": [
+        "302"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippines_national_football_team"
+      ],
+      "redirectlabel": [
+        "Azkal",
+        "Azkals",
+        "<B>Filipino</B> men's national football team",
+        "<B>Filipino</B> national football team",
+        "History of the Philippines national football team",
+        "Philippine Azkals",
+        "Philippine national football team",
+        "Philippines National Football Team",
+        "Philippines men's national football team",
+        "Philippines men's national soccer team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Philippines national football team (<B>Filipino</B>: Pambansang koponan ng futbol ng Pilipinas) is the"
+      ],
+      "label": [
+        "Philippines national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippines_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Philippines_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "3440.6934"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Spanish_Filipino"
+      ],
+      "redirectlabel": [
+        "Basque-<B>Filipino</B>",
+        "Basque <B>Filipino</B>",
+        "Catalan-<B>Filipino</B>",
+        "Catalan <B>Filipino</B>",
+        "Ethnic Spaniards in the Philippines",
+        "<B>Filipino</B> people of Spanish ancestry",
+        "<B>Filipinos</B> of Spanish descent",
+        "Hispanic cultural legacy in the Philippines",
+        "Hispano-<B>Filipinos</B>",
+        "Hispano-<B>filipinos</B>",
+        "Hispanofilipinos",
+        "Insular Spaniards",
+        "Insulars",
+        "Kastilà",
+        "Philippine Basque",
+        "Philippine Basques",
+        "Philippine Catalan",
+        "Philippine Catalans",
+        "Philippine Spaniard",
+        "Philippine Spaniards",
+        "Spanish-<B>Filipinos</B>",
+        "Spanish <B>Filipinos</B>",
+        "Spanish settlement in the Philippines"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "A Spanish <B>Filipino</B> (Spanish and Chavacano: Español <B>Filipino</B> o Hispano <B>Filipino</B>; Tagalog: Kastila"
+      ],
+      "label": [
+        "Spanish <B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Spanish_Filipino"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_diaspora_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_people_of_Spanish_descent",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino",
+        "http://dbpedia.org/resource/Category:Spanish_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "3410.7874"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Filipino"
+      ],
+      "redirectlabel": [
+        "Chinay",
+        "Chinese-<B>Filipino</B>",
+        "Chinese-<B>Filipinos</B>",
+        "Chinese <B>Filipino</B> people",
+        "Chinese <B>Filipinos</B>",
+        "Chinese Philippine",
+        "Chinese in the Philippines",
+        "Chinese people in the Philippines",
+        "<B>Filipino</B>-Chinese",
+        "<B>Filipino</B> Chinese",
+        "<B>Filipino</B> Chinese people",
+        "<B>Filipinos</B> of Chinese descent",
+        "Huáfēi",
+        "Huâ-hui",
+        "Philippine Chinese",
+        "Philippine Han",
+        "Sino-<B>Filipino</B>",
+        "Tsinay",
+        "Tsinoy",
+        "Wàhfèi"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Chinese <B>Filipinos</B> (<B>Filipino</B>: Pilipinong Tsino, Tsinoy, [tʃɪnoɪ] or Pilipinong Intsik, [ɪntʃɪk]) are"
+      ],
+      "label": [
+        "Chinese <B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Filipino"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_people_of_Chinese_descent"
+      ]
+    },
+    {
+      "score": [
+        "3320.555"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Mestizos"
+      ],
+      "redirectlabel": [
+        "Black <B>Filipinos</B>",
+        "<B>Filipino</B> Black",
+        "<B>Filipino</B> Blacks",
+        "<B>Filipino</B> Mestizo",
+        "<B>Filipino</B> White",
+        "<B>Filipino</B> Whites",
+        "<B>Filipino</B> mestiza",
+        "<B>Filipino</B> mestizo",
+        "<B>Filipino</B> mestizos",
+        "<B>Filipino</B> mulatto",
+        "<B>Filipino</B> mulattos",
+        "Jewish mestizo",
+        "Philippine Blacks",
+        "Philippine Whites",
+        "Philippine mulatto",
+        "Philippine mulattos",
+        "Tisoy",
+        "White <B>Filipinos</B>",
+        "Whites in the Philippines"
+      ],
+      "label": [
+        "<B>Filipino</B> Mestizos"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Mestizos"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:European_colonisation_in_Asia",
+        "http://dbpedia.org/resource/Category:European_diaspora_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_people_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:History_of_the_Philippines_(1565–1898)",
+        "http://dbpedia.org/resource/Category:Mestizo",
+        "http://dbpedia.org/resource/Category:Multiracial_affairs_in_Asia",
+        "http://dbpedia.org/resource/Category:Society_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Spanish_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "2797.9182"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_values"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Values",
+        "<B>Filipino</B> core values",
+        "<B>Filipino</B> mores",
+        "<B>Filipino</B> social values",
+        "<B>Filipino</B> system of values",
+        "<B>Filipino</B> value",
+        "<B>Filipino</B> value system",
+        "<B>Filipino</B> values system",
+        "Philippine core values",
+        "Philippine social values",
+        "Philippine value system",
+        "Philippine values",
+        "System of values in the Philippines",
+        "System of values of <B>Filipinos</B>",
+        "Value system in the Philippines",
+        "Value system of the Philippines"
+      ],
+      "comment": [
+        "The <B>Filipino</B> value system or <B>Filipino</B> values refers to the set of values that a majority of the"
+      ],
+      "label": [
+        "<B>Filipino</B> values"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_values"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Codes_of_conduct",
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Value_(ethics)"
+      ]
+    },
+    {
+      "score": [
+        "2749.1096"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "label": [
+        "<B>Filipino</B> Japanese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Japanese"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Japanese"
+      ],
+      "redirectlabel": [
+        "<B>Filipina</B>-Japanese",
+        "<B>Filipina</B> Japanese",
+        "<B>Filipino</B>-Japanese",
+        "<B>Filipino</B> Japanese (disambiguation)",
+        "Japanese-<B>Filipina</B>",
+        "Japanese-<B>Filipinas</B>",
+        "Japanese-<B>Filipino</B>",
+        "Japanese-<B>Filipinos</B>",
+        "Japanese <B>Filipina</B>",
+        "Japanese <B>Filipinas</B>",
+        "Japanese <B>Filipino</B>",
+        "Japanese <B>Filipinos</B>"
+      ]
+    },
+    {
+      "score": [
+        "2673.6948"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Commission_on_the_Filipino_Language"
+      ],
+      "redirectlabel": [
+        "Atlas <B>Filipinas</B>",
+        "Comision na Salitan <B>Filipino</B>",
+        "Commission on <B>Filipino</B> Language",
+        "Commission on Philippine language",
+        "Commission on the <B>filipino</B> language",
+        "<B>Filipino</B> Language Commission",
+        "K.W.F.",
+        "K. W. F.",
+        "Komisiyon sa Wikang <B>Filipino</B>",
+        "Komisyon na Salitan <B>Filipino</B>",
+        "Komisyon ng Wikang <B>Filipino</B>",
+        "Komisyon sa <B>Finilipino</B>",
+        "Komisyon sa Wikang <B>Filipino</B>",
+        "Linangan ng mga Wika sa Pilipinas",
+        "National Language Institute",
+        "Surian ng Wikang Pambansa"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "The Komisyon sa Wikang <B>Filipino</B> is the official regulating body of the <B>Filipino</B> language and the"
+      ],
+      "label": [
+        "Commission on the <B>Filipino</B> Language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Commission_on_the_Filipino_Language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1937_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:1991_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_language",
+        "http://dbpedia.org/resource/Category:Government_agencies_under_the_Office_of_the_President_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Language_regulators"
+      ]
+    },
+    {
+      "score": [
+        "2639.4717"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Immigration_to_the_Philippines"
+      ],
+      "redirectlabel": [
+        "African-<B>Filipino</B>",
+        "African-<B>Filipinos</B>",
+        "African <B>Filipino</B>",
+        "African <B>Filipinos</B>",
+        "Africans in the Philippines",
+        "Afro-<B>Filipinos</B>",
+        "Afro <B>Filipino</B>",
+        "Afro <B>Filipinos</B>",
+        "Austrian-<B>Filipino</B>",
+        "Austrian-<B>Filipinos</B>",
+        "Austrian <B>Filipino</B>",
+        "Austrian <B>Filipinos</B>",
+        "Bangladeshi-<B>Filipino</B>",
+        "Black Africans in the Philippines",
+        "Blacks in the Philippines",
+        "Euro-<B>Filipino</B>",
+        "European-<B>Filipino</B>",
+        "European-<B>Filipinos</B>",
+        "European <B>Filipinos</B>",
+        "Europeans in the Philippines",
+        "<B>Filipino</B> Pole",
+        "<B>Filipino</B> Poles",
+        "History of immigration to the Philippines",
+        "Hyphenated <B>Filipino</B>",
+        "Hyphenated <B>Filipinos</B>",
+        "Italian-<B>Filipino</B>",
+        "Italian-<B>Filipinos</B>",
+        "Italo-<B>Filipino</B>",
+        "Italo-<B>Filipinos</B>",
+        "Migration to the Philippines",
+        "Nepalese-<B>Filipino</B>",
+        "Pakistani-<B>Filipino</B>",
+        "Philippine African",
+        "Philippine Africans",
+        "Philippine Austrian",
+        "Philippine Austrians",
+        "Philippine European",
+        "Philippine Europeans",
+        "Philippine German",
+        "Philippine Germans",
+        "Philippine Italian",
+        "Philippine Italians",
+        "Philippine Pole",
+        "Philippine Poles",
+        "Polish-<B>Filipino</B>",
+        "Polish-<B>Filipinos</B>"
+      ],
+      "label": [
+        "Immigration to the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Immigration_to_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Immigration_to_the_Philippines",
+        "http://dbpedia.org/resource/Category:Society_of_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "2627.659"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> (disambiguation)",
+        "<B>Filipinos</B> (disambiguation)",
+        "<B>Filippino</B>",
+        "<B>Fillipino</B>",
+        "<B>Filpino</B>",
+        "Flipino",
+        "Philipeno",
+        "Philipino",
+        "Philippino",
+        "Phillipino",
+        "Phillipinos",
+        "Pilipino",
+        "Pilpino"
+      ],
+      "label": [
+        "<B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "2623.6829"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipinos_in_the_New_York_metropolitan_area"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Americans in New Jersey",
+        "<B>Filipino</B> Americans in New York",
+        "<B>Filipino</B> Americans in New York City",
+        "<B>Filipino</B> Americans in ny",
+        "<B>Filipino</B> Americans in nyc",
+        "<B>Filipino</B> Americans in the New York City metropolitan area",
+        "<B>Filipino</B> Americans in the New York metropolitan area",
+        "<B>Filipino</B> community in New Jersey",
+        "<B>Filipino</B> community in New York",
+        "<B>Filipino</B> community in New York City",
+        "<B>Filipino</B> community in nj",
+        "<B>Filipino</B> community in ny",
+        "<B>Filipino</B> community in nyc",
+        "<B>Filipino</B> community in the New York metropolitan area",
+        "<B>Filipino</B> in the New York metropolitan area",
+        "<B>Filipino</B> ny",
+        "<B>Filipino</B> nyc",
+        "<B>Filipinos</B> Long Island",
+        "<B>Filipinos</B> Manhattan",
+        "<B>Filipinos</B> NJ",
+        "<B>Filipinos</B> NY",
+        "<B>Filipinos</B> NYC",
+        "<B>Filipinos</B> New Jersey",
+        "<B>Filipinos</B> New York",
+        "<B>Filipinos</B> New York City",
+        "<B>Filipinos</B> Queens",
+        "<B>Filipinos</B> in Manhattan",
+        "<B>Filipinos</B> in New Jersey",
+        "<B>Filipinos</B> in New York",
+        "<B>Filipinos</B> in New York City",
+        "<B>Filipinos</B> in Queens",
+        "<B>Filipinos</B> in nj",
+        "<B>Filipinos</B> in the New York City metropolitan region",
+        "<B>Filipinos</B> nyc",
+        "<B>Filipinos</B> queen",
+        "<B>Filipinotown</B>, Queens",
+        "<B>Filipinotown</B>, Woodside, Queens",
+        "<B>Filipinotowns</B>,",
+        "<B>Filipinotowns</B>",
+        "Little Manila, Queens",
+        "Philippine Airlines in New York",
+        "Philippine Airlines in New York City",
+        "Philippine Airlines nyc",
+        "Philippine airlines New York city",
+        "Philippine airlines in new york",
+        "Philippine airlines in ny",
+        "Philippine airlines in nyc",
+        "Philippine airlines new york",
+        "Philippine airlines ny"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ", NY-NJ-CT-PA Combined Statistical Area was home to 262,375 <B>Filipino</B> Americans, 221,612 (84.5%) of them uniracial <B>Filipinos</B>."
+      ],
+      "label": [
+        "<B>Filipinos</B> in the New York metropolitan area"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipinos_in_the_New_York_metropolitan_area"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian-American_culture_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Filipino-American_culture_in_New_York_(state)",
+        "http://dbpedia.org/resource/Category:Filipino-American_culture_in_New_York_City"
+      ]
+    },
+    {
+      "score": [
+        "2620.5828"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Embutido_(Filipino_cuisine)"
+      ],
+      "redirectlabel": [
+        "Embotido (<B>Filipino</B> cuisine)",
+        "Embotido (Philippines)",
+        "Embotido meat loaf",
+        "Embotido meatloaf",
+        "Embutido (Philippines)",
+        "Embutido meat loaf",
+        "Embutido meatloaf",
+        "<B>Filipino</B> embotido",
+        "<B>Filipino</B> embutido",
+        "<B>Filipino</B> meat loaf",
+        "<B>Filipino</B> meatloaf",
+        "<B>Filipino</B> pork rolls"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        " type of sweet sauce. Despite the Spanish name, the dish is derived from the American meatloaf. The dish is usually anglicized as <B>Filipino</B> meatloaf."
+      ],
+      "label": [
+        "Embutido (<B>Filipino</B> cuisine)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Embutido_(Filipino_cuisine)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_cuisine",
+        "http://dbpedia.org/resource/Category:Pork_dishes",
+        "http://dbpedia.org/resource/Category:Steamed_foods"
+      ]
+    },
+    {
+      "score": [
+        "2433.954"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Nationalism",
+        "<B>Filipino</B> dignity",
+        "<B>Filipino</B> nationalist",
+        "Nationalism in the Philippines",
+        "Philippine Nationalism",
+        "Philippine nationalism",
+        "Philippine nationalist"
+      ],
+      "comment": [
+        "<B>Filipino</B> nationalism refers to the awakening and support towards a political identity associated"
+      ],
+      "label": [
+        "<B>Filipino</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Filipino_nationalism",
+        "http://dbpedia.org/resource/Category:History_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Society_of_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "2341.5037"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "label": [
+        "<B>Filipino</B> Indonesian"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Indonesian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Indonesian"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-Indonesian",
+        "<B>Filipino</B>-Indonesians",
+        "<B>Filipino</B> Indonesian (disambiguation)",
+        "<B>Filipino</B> Indonesians",
+        "Indonesian-<B>Filipino</B>",
+        "Indonesian-<B>Filipinos</B>",
+        "Indonesian <B>Filipino</B>",
+        "Indonesian <B>Filipinos</B>"
+      ]
+    },
+    {
+      "score": [
+        "2341.5037"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "label": [
+        "<B>Filipino</B> German"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_German"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_German"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-German",
+        "<B>Filipino</B>-Germans",
+        "<B>Filipino</B> German (disambiguation)",
+        "<B>Filipino</B> Germans",
+        "German-<B>Filipino</B>",
+        "German-<B>Filipinos</B>",
+        "German <B>Filipino</B>",
+        "German <B>Filipinos</B>"
+      ]
+    },
+    {
+      "score": [
+        "2341.5037"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "label": [
+        "<B>Filipino</B> Korean"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Korean"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Korean"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-Korean",
+        "<B>Filipino</B>-Koreans",
+        "<B>Filipino</B> Korean (disambiguation)",
+        "<B>Filipino</B> Koreans",
+        "Korean-<B>Filipino</B>",
+        "Korean-<B>Filipinos</B>",
+        "Korean <B>Filipino</B>",
+        "Korean <B>Filipinos</B>"
+      ]
+    },
+    {
+      "score": [
+        "2303.1382"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadians of <B>Filipino</B> descent",
+        "Fil-Canadian",
+        "<B>Filipino</B>-Canadian",
+        "<B>Filipino</B>-Canadians",
+        "<B>Filipino</B> Canadian",
+        "History of <B>Filipinos</B> in Canada",
+        "Pilipino Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Filipino</B> Canadians (French: Canadiens philippins; <B>Filipino</B>: Pilipinong Kanadyano; Baybayin"
+      ],
+      "label": [
+        "<B>Filipino</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Filipino_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Filipino_Canadian",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2256.0347"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Filipina</B>-Australian",
+        "<B>Filipina</B>-born Australian",
+        "<B>Filipina</B> Australian",
+        "<B>Filipino</B>-Australian",
+        "<B>Filipino</B>-Australians",
+        "<B>Filipino</B> Australian",
+        "Philipino Australian",
+        "Philipino Australians",
+        "Pilipino Australian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ". <B>Filipino</B>-Australians are the fifth-largest subgroup of the Overseas <B>Filipinos</B>. According to the 2016 census, there are over 304,015 <B>Filipino</B> Australians."
+      ],
+      "label": [
+        "<B>Filipino</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Australian",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Filipino_descent",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Immigration_to_Australia"
+      ]
+    },
+    {
+      "score": [
+        "2241.023"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_martial_arts"
+      ],
+      "redirectlabel": [
+        "Arnis-Eskrima",
+        "<B>Filipino</B> Martial Art",
+        "<B>Filipino</B> Martial Arts",
+        "<B>Filipino</B> martial art",
+        "<B>Filipino</B> martial artist",
+        "<B>Filipino</B> ninja",
+        "Gunting",
+        "History of <B>Filipino</B> martial arts",
+        "Philippino martial arts"
+      ],
+      "comment": [
+        "<B>Filipino</B> martial arts (FMA) (<B>Filipino</B>: Sining panlaban ng Pilipinas) refer to ancient Indianized"
+      ],
+      "label": [
+        "<B>Filipino</B> martial arts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_martial_arts"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Philippine_martial_arts"
+      ]
+    },
+    {
+      "score": [
+        "2126.3896"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pinoy_hip_hop"
+      ],
+      "redirectlabel": [
+        "Dyords Javier",
+        "<B>Filipino</B> hip-hop",
+        "<B>Filipino</B> hip hop",
+        "<B>Filipino</B> rap",
+        "Filo rap",
+        "List of <B>Filipino</B> hip hop artists",
+        "List of <B>Filipino</B> hip hop musicians",
+        "Pinoy hip-hop",
+        "Pinoy rap"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "<B>Filipino</B> hip-hop or Pinoy hip hop (also known as Pinoy rap or Filo rap) is hip hop music performed"
+      ],
+      "label": [
+        "Pinoy hip hop"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pinoy_hip_hop"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hip_hop_genres",
+        "http://dbpedia.org/resource/Category:Philippine_hip_hop",
+        "http://dbpedia.org/resource/Category:Philippine_styles_of_music"
+      ]
+    },
+    {
+      "score": [
+        "2095.0254"
+      ],
+      "refCount": [
+        "80"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pinoy_rock"
+      ],
+      "redirectlabel": [
+        "1980s Pinoy rock",
+        "Bilanggo",
+        "Ex-Presidents Combo",
+        "<B>Filipino</B> rock",
+        "Pinoy Rock",
+        "Rizal Underground",
+        "Watik"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Pinoy rock, or <B>Filipino</B> rock, is the brand of rock music produced in the Philippines or by"
+      ],
+      "label": [
+        "Pinoy rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pinoy_rock"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_styles_of_music",
+        "http://dbpedia.org/resource/Category:Pinoy_rock",
+        "http://dbpedia.org/resource/Category:Rock_music_by_country",
+        "http://dbpedia.org/resource/Category:Rock_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "2092.5598"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_cartoon_and_animation"
+      ],
+      "redirectlabel": [
+        "Cartoon and animation in the Philippines",
+        "Cartoons and animation in the Philippines",
+        "<B>Filipino</B> animation",
+        "<B>Filipino</B> animators",
+        "<B>Filipino</B> cartoonist",
+        "<B>Filipino</B> cartoonists and animators",
+        "Norman de la Cruz",
+        "Philippine Animation Studio",
+        "Philippine animation",
+        "Philippine cartoon",
+        "Philippine cartoon and animation",
+        "Pinoy cartoon and animation"
+      ],
+      "comment": [
+        "<B>Filipino</B> cartoon and animation, also known as Pinoy cartoon and animation, is a body of original"
+      ],
+      "label": [
+        "<B>Filipino</B> cartoon and animation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_cartoon_and_animation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_animation"
+      ]
+    },
+    {
+      "score": [
+        "2076.8992"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_immigration_to_Mexico"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-Mexican",
+        "<B>Filipino</B>-Mexicans",
+        "<B>Filipino</B> Mexican",
+        "<B>Filipino</B> Mexicans",
+        "Mexican-<B>Filipino</B>",
+        "Mexican <B>Filipino</B>",
+        "Mexicans of <B>Filipino</B> descent",
+        "Philippine Mexican"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Filipino</B> Mexicans are Mexican citizens who are descendants of <B>Filipino</B> ancestry. There are"
+      ],
+      "label": [
+        "<B>Filipino</B> immigration to Mexico"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_immigration_to_Mexico"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Mexican",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Mexico",
+        "http://dbpedia.org/resource/Category:Filipino_Latin_American",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Filipino_emigrants_to_Mexico",
+        "http://dbpedia.org/resource/Category:Immigration_to_Mexico",
+        "http://dbpedia.org/resource/Category:Mexican_people_of_Filipino_descent",
+        "http://dbpedia.org/resource/Category:Mexico–Philippines_relations"
+      ]
+    },
+    {
+      "score": [
+        "2062.8901"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_seamen"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> mariner",
+        "<B>Filipino</B> sailor",
+        "<B>Filipino</B> seafarer",
+        "<B>Filipino</B> seaman",
+        "Philippine seamen",
+        "Sailors in the Philippines",
+        "Seafarers in the Philippines",
+        "Seamen in the Philippines"
+      ],
+      "comment": [
+        " personnel from the Philippine Navy or the Philippine Marine Corps, it specifically refers to overseas <B>Filipinos</B> who are \"sea-based migrant <B>Filipino</B> workers\"."
+      ],
+      "label": [
+        "<B>Filipino</B> seamen"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_seamen"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_sailors"
+      ]
+    },
+    {
+      "score": [
+        "2060.7732"
+      ],
+      "refCount": [
+        "951"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Spanish–American_War"
+      ],
+      "redirectlabel": [
+        "1898 Spanish-American War",
+        "1898 Spanish–American War",
+        "1898 spanish-american war",
+        "American-Spanish War",
+        "American occupation of Cuba (1898-1902)",
+        "American occupation of Cuba (1898–1902)",
+        "American spanish war",
+        "Cuban-Spanish-American War",
+        "Digmaang Espanyol-Amerikano",
+        "Guerra de Cuba",
+        "Guerra hispano-estadounidense",
+        "Hispano-American War",
+        "Hispano–American War",
+        "Pacific Campaign (Spanish-American War)",
+        "Pacific campaign (Spanish-American War)",
+        "Pacific campaign (Spanish–American War)",
+        "Spainish-american war",
+        "Spanish-America War",
+        "Spanish-American-Cuban-<B>Filipino</B> War",
+        "Spanish-American War",
+        "Spanish-American War of 1898",
+        "Spanish-American war",
+        "Spanish-american war",
+        "Spanish/American War",
+        "Spanish - American War",
+        "Spanish American War",
+        "Spanish American war",
+        "Spanish declaration of war on the United States",
+        "Spanish – American War",
+        "Spanish–American War of 1898",
+        "Splendid little war",
+        "The Spanish-American War",
+        "The spanish american war",
+        "The splendid little war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Spanish–American War (Spanish: Guerra Hispano-Americana; <B>Filipino</B>: Digmaang Espanyol-Amerikano"
+      ],
+      "label": [
+        "Spanish–American War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Spanish–American_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890s_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1890s_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1898_in_Cuba",
+        "http://dbpedia.org/resource/Category:1898_in_Guam",
+        "http://dbpedia.org/resource/Category:1898_in_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:1898_in_Spain",
+        "http://dbpedia.org/resource/Category:1898_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:1898_in_the_Spanish_East_Indies",
+        "http://dbpedia.org/resource/Category:1898_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1898_in_the_Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:1898_in_the_United_States",
+        "http://dbpedia.org/resource/Category:19th-century_conflicts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1898",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Spain",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Philippines–United_States_relations",
+        "http://dbpedia.org/resource/Category:Spain–United_States_relations",
+        "http://dbpedia.org/resource/Category:Spanish_East_Indies",
+        "http://dbpedia.org/resource/Category:Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:Spanish–American_War",
+        "http://dbpedia.org/resource/Category:United_States_Marine_Corps_in_the_18th_and_19th_centuries",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change",
+        "http://dbpedia.org/resource/Category:United_States–Caribbean_relations",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cuba",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hong_Kong",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Philippines",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2058.8389"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Demographics_of_Filipino_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Filipinos</B> in Greater Los Angeles",
+        "<B>Filipinos</B> in Los Angeles",
+        "<B>Filipinos</B> in Nevada",
+        "<B>Filipinos</B> in the San Francisco Bay Area",
+        "List of U.S. cities with large <B>Filipino</B>-American populations",
+        "List of U.S. cities with large <B>Filipino</B> American populations",
+        "List of U.S. cities with significant <B>Filipino</B>-American populations",
+        "List of cities in the United States by <B>Filipino</B>-American population",
+        "Socioeconomic status of <B>Filipino</B> Americans"
+      ],
+      "comment": [
+        "The demographics of <B>Filipino</B> Americans describe a heterogeneous group of people in the United"
+      ],
+      "label": [
+        "Demographics of <B>Filipino</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Demographics_of_Filipino_Americans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Demographics_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Filipino_American"
+      ]
+    },
+    {
+      "score": [
+        "2012.0835"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Morcón_(Filipino_cuisine)"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> morcon",
+        "<B>Filipino</B> morcón",
+        "Morcon (Philippines)",
+        "Morconito",
+        "Morconitos",
+        "Morcón (Philippines)",
+        "Morkon",
+        "Morkonito",
+        "Morkonitos"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "Morcón is a <B>Filipino</B> braised beef roulade made with beef flank steak stuffed with hard-boiled eggs"
+      ],
+      "label": [
+        "Morcón (<B>Filipino</B> cuisine)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Morcón_(Filipino_cuisine)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Beef_dishes",
+        "http://dbpedia.org/resource/Category:Christmas_food",
+        "http://dbpedia.org/resource/Category:Philippine_cuisine",
+        "http://dbpedia.org/resource/Category:Pork_dishes"
+      ]
+    },
+    {
+      "score": [
+        "1971.3751"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Filipino_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Filipino</B> sentiment in the United States",
+        "Derogatory terms for <B>Filipinos</B>",
+        "Discrimination against <B>Filipino</B> Americans",
+        "Discrimination against <B>Filipinos</B>",
+        "<B>Filipino</B> phobia",
+        "<B>Filipinophobia</B>",
+        "Pejorative terms for <B>Filipinos</B>",
+        "Racism against <B>Filipinos</B>"
+      ],
+      "comment": [
+        "Anti-<B>Filipino</B> sentiment refers to the general dislike or hatred towards the Philippines, <B>Filipinos</B> or <B>Filipino</B> culture."
+      ],
+      "label": [
+        "Anti-<B>Filipino</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Filipino_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Filipino_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment",
+        "http://dbpedia.org/resource/Category:Anti–Southeast_Asian_sentiment",
+        "http://dbpedia.org/resource/Category:Racism"
+      ]
+    },
+    {
+      "score": [
+        "1966.5862"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "label": [
+        "<B>Filipino</B> South Korean"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_South_Korean"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_South_Korean"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-South Korean",
+        "<B>Filipino</B>-South Koreans",
+        "<B>Filipino</B> South Koreans",
+        "South Korean-<B>Filipino</B>",
+        "South Korean-<B>Filipinos</B>",
+        "South Korean <B>Filipino</B>",
+        "South Korean <B>Filipinos</B>"
+      ]
+    },
+    {
+      "score": [
+        "1965.6227"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Teeth_(Filipino_band)"
+      ],
+      "redirectlabel": [
+        "The Teeth (<B>Filipino</B> band)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Teeth is a <B>Filipino</B> rock band formed in 1993. The band is currently composed of Glenn Jacinto on"
+      ],
+      "label": [
+        "Teeth (<B>Filipino</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Teeth_(Filipino_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_rock_music_groups",
+        "http://dbpedia.org/resource/Category:Grunge_musical_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1993",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Metro_Manila"
+      ]
+    },
+    {
+      "score": [
+        "1919.5964"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pinoy_pop"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> pop",
+        "Philippine pop"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "P-pop (abbreviation: OPM pop, Pinoy pop or <B>Filipino</B> pop) refers to popular contemporary music in"
+      ],
+      "label": [
+        "Pinoy pop"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pinoy_pop"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_styles_of_music",
+        "http://dbpedia.org/resource/Category:Pinoy_pop",
+        "http://dbpedia.org/resource/Category:Pop_music_by_country",
+        "http://dbpedia.org/resource/Category:Pop_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "1909.4487"
+      ],
+      "refCount": [
+        "116"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippines_women's_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Filipinas</B> (football)",
+        "<B>Filipino</B> women's national football team",
+        "Philippine Malditas",
+        "Philippine women's national football team",
+        "Philippines women's national soccer team",
+        "Philippines women's national under-17 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Philippines women's national football team is the women's national football team of the Philippines. It is controlled by the Philippine Football Federation, the governing body of football in the country. In Southeast Asian football, the Philippine women's team has limited success in the AFF Women's Championship and Southeast Asian Games with their only honor being the third place finish at the 1985 Southeast Asian Games which saw only three teams participating in the women's football event."
+      ],
+      "label": [
+        "Philippines women's national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippines_women's_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_women's_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Philippines_women's_national_football_team",
+        "http://dbpedia.org/resource/Category:Women's_football_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1887.2595"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Filipino_Channel"
+      ],
+      "redirectlabel": [
+        "ABS-CBN International",
+        "ABS-CBN TFC",
+        "Pinoy Central TV",
+        "TFC (TV channel)",
+        "TFC IPTV",
+        "TFC Now",
+        "The <B>Filipino</B> Channel (TFC)"
+      ],
+      "typeName": [
+        "Organisation",
+        "TelevisionStation",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "The <B>Filipino</B> Channel, commonly known as TFC, is a global subscription television network based in"
+      ],
+      "label": [
+        "The <B>Filipino</B> Channel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Filipino_Channel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TelevisionStation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:ABS-CBN_Corporation_channels",
+        "http://dbpedia.org/resource/Category:Assets_owned_by_ABS-CBN_Corporation",
+        "http://dbpedia.org/resource/Category:Cable_television_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Direct_broadcast_satellite_services",
+        "http://dbpedia.org/resource/Category:Filipino-American_culture_in_California",
+        "http://dbpedia.org/resource/Category:Filipino-language_television_stations",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora",
+        "http://dbpedia.org/resource/Category:International_broadcasters",
+        "http://dbpedia.org/resource/Category:International_broadcasting",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1994",
+        "http://dbpedia.org/resource/Category:Television_networks_in_the_United_States",
+        "http://dbpedia.org/resource/Category:The_Filipino_Channel"
+      ]
+    },
+    {
+      "score": [
+        "1886.8026"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_proverbs"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Proverbs",
+        "<B>Filipino</B> proverb",
+        "Kasabihan",
+        "Philippine proverbs",
+        "Proverbs of the Philippines",
+        "Salawikain",
+        "Salawikain by archiz2",
+        "Sawikain"
+      ],
+      "comment": [
+        "<B>Filipino</B> proverbs or Philippine proverbs are traditional sayings or maxims used by <B>Filipinos</B> based"
+      ],
+      "label": [
+        "<B>Filipino</B> proverbs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_proverbs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_literature",
+        "http://dbpedia.org/resource/Category:Proverbs_by_language"
+      ]
+    },
+    {
+      "score": [
+        "1815.9827"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Premier_League"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Filipino</B> Premier League",
+        "2008 <B>Filipino</B> Premier League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Filipino</B> Premier League was the top-level football league of the Philippines, operating under"
+      ],
+      "label": [
+        "<B>Filipino</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Defunct_football_leagues_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Defunct_top_level_football_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_disestablished_in_2008",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2008"
+      ]
+    },
+    {
+      "score": [
+        "1810.383"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_shamans"
+      ],
+      "redirectlabel": [
+        "Babaylan",
+        "Balyan-a",
+        "Balyan-an",
+        "Baylan",
+        "Catalonan",
+        "<B>Filipino</B> shamanism",
+        "Katalonan",
+        "Mambunong",
+        "Mumbaki",
+        "Philippine shamanism",
+        "Philippine shamans",
+        "Shamanism in the Philippines"
+      ],
+      "label": [
+        "<B>Filipino</B> shamans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_shamans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_shamanism",
+        "http://dbpedia.org/resource/Category:Austronesian_spirituality",
+        "http://dbpedia.org/resource/Category:Feminism_and_spirituality",
+        "http://dbpedia.org/resource/Category:Filipino_religious_leaders",
+        "http://dbpedia.org/resource/Category:Healthcare_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Indigenous_Philippine_folk_religions",
+        "http://dbpedia.org/resource/Category:Religious_occupations",
+        "http://dbpedia.org/resource/Category:Society_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_traditional_medicine",
+        "http://dbpedia.org/resource/Category:Traditional_healthcare_occupations",
+        "http://dbpedia.org/resource/Category:Women_and_religion"
+      ]
+    },
+    {
+      "score": [
+        "1767.3563"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Women_in_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Female <B>Filipino</B>",
+        "Female <B>Filipinos</B>",
+        "Female genital mutilation in the Philippines",
+        "<B>Filipina</B> woman",
+        "<B>Filipina</B> women",
+        "<B>Filipino</B> female",
+        "<B>Filipino</B> girls",
+        "<B>Filipino</B> ladies",
+        "<B>Filipino</B> lady",
+        "<B>Filipino</B> woman",
+        "<B>Filipino</B> women",
+        "Girls in the Philippines",
+        "Girls of the Philippines",
+        "Philippine girls",
+        "Philippine ladies",
+        "Philippine lady",
+        "Philippine woman",
+        "Philippine women",
+        "Role of <B>Filipinas</B>",
+        "Role of <B>Filipino</B> women",
+        "Role of women in the Philippines",
+        "Woman in the Philippines",
+        "Women's history in the Philippines",
+        "Women from the Philippines",
+        "Women of the Philippines"
+      ],
+      "comment": [
+        "The role of women in the Philippines (<B>Filipino</B>: Kababaihan sa Pilipinas) is explained based on the"
+      ],
+      "label": [
+        "Women in the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Women_in_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_women",
+        "http://dbpedia.org/resource/Category:Women_by_country",
+        "http://dbpedia.org/resource/Category:Women_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1765.2997"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Three_Filipino_Women"
+      ],
+      "redirectlabel": [
+        "2 <B>Filipino</B> Women",
+        "3 <B>Filipino</B> women",
+        "Obsession (novella)",
+        "Platinum (novella)",
+        "Three <B>Filipino</B> Women: Novellas",
+        "Two <B>Filipino</B> Women"
+      ],
+      "typeName": [
+        "Book",
+        "WrittenWork",
+        "Work"
+      ],
+      "comment": [
+        "Three <B>Filipino</B> Women: Novellas is a book authored by award-winning <B>Filipino</B> literary writer, F"
+      ],
+      "label": [
+        "Three <B>Filipino</B> Women"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Three_Filipino_Women"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Book",
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1981_novels",
+        "http://dbpedia.org/resource/Category:1988_novels",
+        "http://dbpedia.org/resource/Category:1992_novels",
+        "http://dbpedia.org/resource/Category:Historical_novels",
+        "http://dbpedia.org/resource/Category:Novellas",
+        "http://dbpedia.org/resource/Category:Novels_by_F._Sionil_José",
+        "http://dbpedia.org/resource/Category:Novels_set_in_the_1960s",
+        "http://dbpedia.org/resource/Category:Novels_set_in_the_1970s",
+        "http://dbpedia.org/resource/Category:Novels_set_in_the_1980s",
+        "http://dbpedia.org/resource/Category:Novels_set_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Philippine_English-language_novels"
+      ]
+    },
+    {
+      "score": [
+        "1741.4021"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Courtship_in_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Courting <B>Filipinas</B>",
+        "Courting <B>Filipino</B> women",
+        "Courting a <B>Filipina</B>",
+        "Courting a <B>Filipino</B> woman",
+        "Courting a woman in the Philippines",
+        "Courting women in the Philippines",
+        "Courtship among <B>Filipinos</B>",
+        "Courtship in Philippine culture",
+        "Courtship in Philippine society",
+        "Dating <B>Filipinas</B>",
+        "Dating <B>Filipino</B> women",
+        "Dating <B>Filipinos</B>",
+        "Dating a <B>Filipina</B>",
+        "Dating a <B>Filipino</B>",
+        "Dating a <B>Filipino</B> woman",
+        "Dating in Philippine Society",
+        "Dating in the Philippines",
+        "<B>Filipino</B> courtship",
+        "<B>Filipino</B> dating",
+        "Philippine courtship",
+        "Philippine dating",
+        "Traditional <B>Filipino</B> courtship",
+        "Traditional courtship in the Philippines"
+      ],
+      "comment": [
+        " family members. The proper rules and standards in traditional <B>Filipino</B> courtship are set by Philippine society."
+      ],
+      "label": [
+        "Courtship in the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Courtship_in_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dating",
+        "http://dbpedia.org/resource/Category:Marriage,_unions_and_partnerships_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Sexuality_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1731.8778"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_women_writers"
+      ],
+      "redirectlabel": [
+        "<B>Filipina</B> women writers",
+        "<B>Filipino</B> female writer",
+        "<B>Filipino</B> women's writings",
+        "<B>Filipino</B> women authors",
+        "<B>Filipino</B> women writer"
+      ],
+      "comment": [
+        "The history of <B>Filipino</B> women writers is an account of how Philippine women became literary"
+      ],
+      "label": [
+        "<B>Filipino</B> women writers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_women_writers"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_women_writers",
+        "http://dbpedia.org/resource/Category:Philippine_literature"
+      ]
+    },
+    {
+      "score": [
+        "1710.5258"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_psychology"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Psychology",
+        "<B>Filipino</B> psyche",
+        "Philippine Psychology",
+        "Philippine psychology",
+        "Psychology in the Philippines",
+        "Sikolohiyang Pilipino"
+      ],
+      "comment": [
+        "<B>Filipino</B> psychology, or Sikolohiyang Pilipino, in <B>Filipino</B>, is defined as the psychology rooted on"
+      ],
+      "label": [
+        "<B>Filipino</B> psychology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_psychology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Philosophical_schools_and_traditions",
+        "http://dbpedia.org/resource/Category:Psychological_schools",
+        "http://dbpedia.org/resource/Category:Society_of_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1689.8871"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1st_Filipino_Infantry_Regiment"
+      ],
+      "redirectlabel": [
+        "1st <B>Filipino</B> Battalion",
+        "1st <B>Filipino</B> Infantry Battalion",
+        "1st <B>Filipino</B> Infantry Regiment (United States)",
+        "1st <B>Filipino</B> Regiment"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The 1st <B>Filipino</B> Infantry Regiment was a segregated United States Army infantry regiment made up of"
+      ],
+      "label": [
+        "1st <B>Filipino</B> Infantry Regiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1st_Filipino_Infantry_Regiment"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_military_personnel_of_Filipino_descent",
+        "http://dbpedia.org/resource/Category:Filipino-American_history",
+        "http://dbpedia.org/resource/Category:History_of_racial_segregation_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Infantry_regiments_of_the_United_States_Army_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1946",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1942",
+        "http://dbpedia.org/resource/Category:United_States_Army_in_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "1688.7938"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_women_artists"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> women abstractionists",
+        "<B>Filipino</B> women painters",
+        "<B>Filipino</B> women printmakers",
+        "<B>Filipino</B> women sculptors",
+        "History of <B>Filipino</B> women artists"
+      ],
+      "comment": [
+        "<B>Filipino</B> women artists started contributing to Philippine art when the Philippines was still a"
+      ],
+      "label": [
+        "<B>Filipino</B> women artists"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_women_artists"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Feminism_and_the_arts",
+        "http://dbpedia.org/resource/Category:Filipino_women_artists",
+        "http://dbpedia.org/resource/Category:Women_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1682.6823"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_name"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> names",
+        "<B>Filipino</B> surnames",
+        "Philippine name",
+        "Philippine names"
+      ],
+      "comment": [
+        " <B>Filipinos</B> is a blend of the older Spanish system and Anglo-American conventions, where there is a"
+      ],
+      "label": [
+        "<B>Filipino</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hinduism_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Names_by_culture",
+        "http://dbpedia.org/resource/Category:Philippine_culture"
+      ]
+    },
+    {
+      "score": [
+        "1668.0804"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Artist_of_the_Philippines"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> National Artist",
+        "List of <B>Filipino</B> National Artists",
+        "National Artists of the Philippines",
+        "National artist of the philippines",
+        "Order of National Artists",
+        "Order of National Artists of the Philippines",
+        "Philippine National Artist",
+        "The National Artists of the Philippines"
+      ],
+      "comment": [
+        "The Order of National Artists of the Philippines (<B>Filipino</B>: Orden ng mga Pambansang Alagad ng"
+      ],
+      "label": [
+        "National Artist of the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Artist_of_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arts_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_artists",
+        "http://dbpedia.org/resource/Category:Filipino_designers",
+        "http://dbpedia.org/resource/Category:National_Artists",
+        "http://dbpedia.org/resource/Category:National_Artists_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Orders,_decorations,_and_medals_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Works_of_National_Artists_of_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1654.3257"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indian_Filipino"
+      ],
+      "redirectlabel": [
+        "<B>Filipinos</B> of Indian descent",
+        "<B>Filipinos</B> of South Asian descent",
+        "Indian-<B>Filipino</B>",
+        "Indian-<B>Filipinos</B>",
+        "Indian <B>Filipinos</B>",
+        "Indian settlement in the Philippines",
+        "Indians in the Philippines",
+        "Pakistanis in the Philippines",
+        "South Asians in Philippines",
+        "South Asians in the Philippines"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Indian <B>Filipino</B> refers to <B>Filipinos</B> of Indian descent who have historical connections with and have"
+      ],
+      "label": [
+        "Indian <B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indian_Filipino"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_people_of_Indian_descent",
+        "http://dbpedia.org/resource/Category:Indian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Indian_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Indian_expatriates_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1638.299"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipinos_in_the_United_Kingdom"
+      ],
+      "redirectlabel": [
+        "British <B>Filipino</B>",
+        "British <B>Filipino</B> (United Kingdom)",
+        "<B>Filipino</B>-British",
+        "<B>Filipino</B> British",
+        "<B>Filipino</B> Britons",
+        "<B>Filipinos</B> in Britain",
+        "List of <B>Filipino</B> British people",
+        "List of <B>Filipino</B> Britons"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Filipinos</B> in the United Kingdom are British citizens or immigrants who are of <B>Filipino</B> ancestry."
+      ],
+      "label": [
+        "<B>Filipinos</B> in the United Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipinos_in_the_United_Kingdom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_diaspora_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:British_people_of_Filipino_descent",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_Kingdom_by_country_of_origin",
+        "http://dbpedia.org/resource/Category:Philippines–United_Kingdom_relations"
+      ]
+    },
+    {
+      "score": [
+        "1610.4576"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filippino_Lippi"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Lippi",
+        "<B>Filippino</B> Lippi's",
+        "Lippi, <B>Filippino</B>"
+      ],
+      "typeName": [
+        "Person",
+        "Artist",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Filippino</B> Lippi (Prato, April 1457 – Florence, 18 April 1504) was an Italian painter working in"
+      ],
+      "label": [
+        "<B>Filippino</B> Lippi"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filippino_Lippi"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Artist",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1450s_births",
+        "http://dbpedia.org/resource/Category:1504_deaths",
+        "http://dbpedia.org/resource/Category:15th-century_Italian_painters",
+        "http://dbpedia.org/resource/Category:16th-century_Italian_painters",
+        "http://dbpedia.org/resource/Category:Catholic_painters",
+        "http://dbpedia.org/resource/Category:Italian_Renaissance_painters",
+        "http://dbpedia.org/resource/Category:Italian_male_painters",
+        "http://dbpedia.org/resource/Category:Painters_from_Tuscany",
+        "http://dbpedia.org/resource/Category:People_from_Prato"
+      ]
+    },
+    {
+      "score": [
+        "1578.8738"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Health_of_Filipino_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-American Health",
+        "<B>Filipino</B>-American health",
+        "<B>Filipino</B> American Health",
+        "<B>Filipino</B> American Health Practices and Behaviors"
+      ],
+      "comment": [
+        "The <B>Filipino</B> American identity comprises principles from both the Philippines and the United States"
+      ],
+      "label": [
+        "Health of <B>Filipino</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Health_of_Filipino_Americans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_American",
+        "http://dbpedia.org/resource/Category:Race_and_health_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1578.1627"
+      ],
+      "refCount": [
+        "272"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Rodrigo_Duterte"
+      ],
+      "redirectlabel": [
+        "Criticism of Rodrigo Duterte",
+        "DU30",
+        "DU30 on Duty",
+        "Digong",
+        "Digong Duterte",
+        "Digong Roa",
+        "Du30",
+        "Du30 on Duty",
+        "Duterte",
+        "Economic policy of Rodrigo Duterte",
+        "Energy policy of Rodrigo Duterte",
+        "<B>Filipino</B> Trump",
+        "Foreign policy of Rodrigo Duterte",
+        "President Duterte",
+        "President Rody",
+        "Public image of Rodrigo Duterte",
+        "Rodrigo Duerte",
+        "Rodrigo R. Duterte",
+        "Rodrigo R Duterte",
+        "Rodrigo Roa",
+        "Rodrigo Roa Duterte",
+        "Rodrigo duterte",
+        "Rody Duterte",
+        "Trump of the East",
+        "Trump of the east",
+        "Veronica Duterte"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        " Digong and Rody, is a <B>Filipino</B> politician who is the 16th and incumbent President of the Philippines"
+      ],
+      "label": [
+        "Rodrigo Duterte"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Rodrigo_Duterte"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_births",
+        "http://dbpedia.org/resource/Category:20th-century_Filipino_lawyers",
+        "http://dbpedia.org/resource/Category:Anti-Americanism",
+        "http://dbpedia.org/resource/Category:Ateneo_de_Davao_University_alumni",
+        "http://dbpedia.org/resource/Category:Candidates_in_the_2016_Philippine_presidential_election",
+        "http://dbpedia.org/resource/Category:Critics_of_the_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Filipino_anti-communists",
+        "http://dbpedia.org/resource/Category:Filipino_nationalists",
+        "http://dbpedia.org/resource/Category:Filipino_politicians_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:Former_Roman_Catholics",
+        "http://dbpedia.org/resource/Category:Left-wing_populism",
+        "http://dbpedia.org/resource/Category:Liberal_Party_(Philippines)_politicians",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Lyceum_of_the_Philippines_University_alumni",
+        "http://dbpedia.org/resource/Category:Mayors_of_Davao_City",
+        "http://dbpedia.org/resource/Category:Mayors_of_places_in_Davao_del_Sur",
+        "http://dbpedia.org/resource/Category:Members_of_the_House_of_Representatives_of_the_Philippines_from_Davao_City",
+        "http://dbpedia.org/resource/Category:Nacionalista_Party_politicians",
+        "http://dbpedia.org/resource/Category:PDP–Laban_politicians",
+        "http://dbpedia.org/resource/Category:People_from_Davao_City",
+        "http://dbpedia.org/resource/Category:People_indicted_for_crimes_against_humanity",
+        "http://dbpedia.org/resource/Category:People_of_the_Philippine_Drug_War",
+        "http://dbpedia.org/resource/Category:People_self-identified_as_ex-gay",
+        "http://dbpedia.org/resource/Category:People_with_antisocial_personality_disorder",
+        "http://dbpedia.org/resource/Category:People_with_narcissistic_personality_disorder",
+        "http://dbpedia.org/resource/Category:Presidents_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Rodrigo_Duterte",
+        "http://dbpedia.org/resource/Category:San_Beda_University_alumni",
+        "http://dbpedia.org/resource/Category:Visayan_people"
+      ]
+    },
+    {
+      "score": [
+        "1571.0695"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islam_in_the_Philippines"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Muslim",
+        "<B>Filipino</B> Muslims",
+        "<B>Filipino</B> muslim",
+        "History of Islam in the Philippines",
+        "Islam in Philippines",
+        "Muslim <B>Filipino</B>",
+        "Muslim <B>Filipinos</B>",
+        "Muslims in Phillipines",
+        "Muslims in the Philippines",
+        "Muslims in the Phillipines",
+        "Philippine Muslims"
+      ],
+      "comment": [
+        ". According to a 2015 report of Philippine Statistics Authority, 6% of <B>Filipinos</B> are Muslims. While the"
+      ],
+      "label": [
+        "Islam in the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islam_in_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islam_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1549.5352"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Italians"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Italian",
+        "<B>Filipinos</B> in Italy"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " destination for <B>Filipinos</B>. The Italian capital Rome is home to the largest <B>Filipino</B> community"
+      ],
+      "label": [
+        "<B>Filipino</B> Italians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Italians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_diaspora_in_Italy",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Italy",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Italian_people_of_Filipino_descent"
+      ]
+    },
+    {
+      "score": [
+        "1536.1976"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Fox_Filipino"
+      ],
+      "redirectlabel": [
+        "Fox <B>Filipino</B> Channel"
+      ],
+      "typeName": [
+        "Organisation",
+        "TelevisionStation",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "Fox <B>Filipino</B> is a Philippine pay television channel focused on Philippine-produced programming from"
+      ],
+      "label": [
+        "Fox <B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Fox_Filipino"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TelevisionStation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Classic_television_networks",
+        "http://dbpedia.org/resource/Category:Filipino-language_television_stations",
+        "http://dbpedia.org/resource/Category:Fox_Channel",
+        "http://dbpedia.org/resource/Category:GMA_Network_(company)_channels",
+        "http://dbpedia.org/resource/Category:TV5_Network_channels",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_disestablished_in_2020",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_2012",
+        "http://dbpedia.org/resource/Category:Television_networks_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1535.5731"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Chinese_cuisine"
+      ],
+      "redirectlabel": [
+        "Chinese <B>Filipino</B> cuisine",
+        "<B>Filipino</B>-Chinese cuisine",
+        "<B>Filipino</B> chinese cuisine",
+        "History of <B>Filipino</B> Chinese cuisine"
+      ],
+      "comment": [
+        " many Chinese <B>Filipino</B> residents. The food is usually Cantonese because the chefs are from Hong Kong"
+      ],
+      "label": [
+        "<B>Filipino</B> Chinese cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Chinese_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chinese-Filipino_culture",
+        "http://dbpedia.org/resource/Category:Chinese_cuisine_outside_China",
+        "http://dbpedia.org/resource/Category:Chinese_fusion_cuisine",
+        "http://dbpedia.org/resource/Category:Philippine_fusion_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1524.4366"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pwersa_ng_Masang_Pilipino"
+      ],
+      "redirectlabel": [
+        "Force of the <B>Filipino</B> Masses",
+        "Partido ng Masang Pilipino",
+        "Partido ñg Masang Pilipino",
+        "Party of the <B>Filipino</B> Masses",
+        "Party of the Philippines Masses",
+        "Puwersa ng Masang Pilipino"
+      ],
+      "comment": [
+        "The Pwersa ng Masang Pilipino (lit. Force of the <B>Filipino</B> Masses), formerly Partido ng Masang"
+      ],
+      "label": [
+        "Pwersa ng Masang Pilipino"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pwersa_ng_Masang_Pilipino"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1991",
+        "http://dbpedia.org/resource/Category:Populist_parties"
+      ]
+    },
+    {
+      "score": [
+        "1512.6808"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_styles_and_honorifics"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Styles and honorifics",
+        "<B>Filipino</B> honorifics",
+        "<B>Filipino</B> queen",
+        "<B>Filipino</B> queens"
+      ],
+      "comment": [
+        "In the Philippine languages, the <B>Filipino</B> honorific styles and titles are a complex system of"
+      ],
+      "label": [
+        "<B>Filipino</B> styles and honorifics"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_styles_and_honorifics"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Feudalism_in_Asia",
+        "http://dbpedia.org/resource/Category:Filipino_nobility",
+        "http://dbpedia.org/resource/Category:Filipino_royalty",
+        "http://dbpedia.org/resource/Category:History_of_the_Philippines_(900–1565)",
+        "http://dbpedia.org/resource/Category:Honorifics_by_language",
+        "http://dbpedia.org/resource/Category:Noble_titles",
+        "http://dbpedia.org/resource/Category:Royal_titles",
+        "http://dbpedia.org/resource/Category:Tagalog_language",
+        "http://dbpedia.org/resource/Category:Titles_of_national_or_ethnic_leadership",
+        "http://dbpedia.org/resource/Category:Visayan_languages"
+      ]
+    },
+    {
+      "score": [
+        "1511.7161"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Evolution of Philippine Music",
+        "<B>Filipino</B> Musicians",
+        "<B>Filipino</B> music",
+        "Indigenous <B>Filipino</B> music",
+        "Indigenous Philippine music",
+        "Music in the Philippines",
+        "Music of Philippines",
+        "Music of the Phillipines",
+        "Music of the Phillippines",
+        "Original Philipino Music",
+        "Original Pilipino Music",
+        "Original Pilipino music",
+        "Original Pinoy Music",
+        "Original Pinoy music",
+        "Philippine music",
+        "Popular music of the Philippines",
+        "Ronnie Villar",
+        "Traditional music of the Philippines"
+      ],
+      "comment": [
+        "Music of the Philippines (<B>Filipino</B>: Musika ng Pilipinas; Spanish: Música de <B>Filipinas</B>) include"
+      ],
+      "label": [
+        "Music of the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_music",
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Philippine_music"
+      ]
+    },
+    {
+      "score": [
+        "1498.0515"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/A_Portrait_of_the_Artist_as_Filipino"
+      ],
+      "redirectlabel": [
+        "A Portrait of an Artist as <B>Filipino</B>",
+        "A Portrait of an Artist as a <B>Filipino</B>",
+        "A Portrait of the Artist as a <B>Filipino</B>",
+        "Portrait of an Artist as <B>Filipino</B>",
+        "Portrait of an Artist as a <B>Filipino</B>",
+        "Portrait of the Artist as <B>Filipino</B>",
+        "Portrait of the Artist as a <B>Filipino</B>"
+      ],
+      "comment": [
+        "The A Portrait of the Artist as <B>Filipino</B>, known also as \"A Portrait of the Artist as <B>Filipino</B>: An"
+      ],
+      "label": [
+        "A Portrait of the Artist as <B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/A_Portrait_of_the_Artist_as_Filipino"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950_plays",
+        "http://dbpedia.org/resource/Category:English-language_plays",
+        "http://dbpedia.org/resource/Category:Philippine_drama_films",
+        "http://dbpedia.org/resource/Category:Philippine_plays",
+        "http://dbpedia.org/resource/Category:Plays_adapted_into_films",
+        "http://dbpedia.org/resource/Category:Works_by_Nick_Joaquin"
+      ]
+    },
+    {
+      "score": [
+        "1498.0143"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arabs_in_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Filipino</B>",
+        "Arab-<B>Filipinos</B>",
+        "Arab <B>Filipino</B>",
+        "Arab <B>Filipinos</B>",
+        "Arab settlement in the Philippines",
+        "Arab settlement in the philippines",
+        "<B>Filipino</B> Arab",
+        "<B>Filipino</B> Arabs",
+        "<B>Filipinos</B> of Arab descent",
+        "History of the Arabs in the Philippines",
+        "Lebanese-<B>Filipino</B>",
+        "Lebanese-<B>Filipinos</B>",
+        "Lebanese <B>Filipino</B>",
+        "Lebanese <B>Filipinos</B>",
+        "Philippine Arab",
+        "Philippine Arabs"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "According to Philippine ambassador to Jordan, , in 2016 an estimated 2 percent of the population of the Philippines, about 2.2 million people, could claim partial Arab ancestry."
+      ],
+      "label": [
+        "Arabs in the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arabs_in_the_Philippines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Filipino_people_of_Arab_descent"
+      ]
+    },
+    {
+      "score": [
+        "1495.0526"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_folk_music"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Folk Music",
+        "<B>Filipino</B> Traditional Music",
+        "<B>Filipino</B> folk",
+        "<B>Filipino</B> folk music",
+        "Folk music of the Philippines",
+        "Philippine Folk Music",
+        "Pinoy folk",
+        "Traditional <B>Filipino</B> Music",
+        "Traditional <B>Filipino</B> music",
+        "Traditional Music of the Philippines",
+        "Traditional Philippine Music"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        " of common, mostly rural <B>Filipinos</B>. Like its counterparts in Asia, a lot of traditional songs from"
+      ],
+      "label": [
+        "Philippine folk music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_folk_music"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Folk_music_by_country",
+        "http://dbpedia.org/resource/Category:Philippine_folk_music"
+      ]
+    },
+    {
+      "score": [
+        "1447.7794"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Siling_labuyo"
+      ],
+      "redirectlabel": [
+        "Capsicum frutescens 'Siling Labuyo'",
+        "<B>Filipino</B> bird's eye",
+        "<B>Filipino</B> bird's eye chili",
+        "<B>Filipino</B> bird's eye chilli",
+        "<B>Filipino</B> birdseye",
+        "<B>Filipino</B> birdseye chili",
+        "<B>Filipino</B> birdseye chilli",
+        "Labuyo",
+        "Labuyo chili",
+        "Labuyo chilli",
+        "Labuyo pepper",
+        "Philippine bird's eye",
+        "Philippine bird's eye chili",
+        "Philippine bird's eye chilli",
+        "Philippine birdseye",
+        "Philippine birdseye chili",
+        "Philippine birdseye chilli",
+        "Sili labuyo",
+        "Siling Labuyo"
+      ],
+      "typeName": [
+        "CultivatedVariety",
+        "Plant",
+        "Species",
+        "Eukaryote"
+      ],
+      "comment": [
+        "Siling labuyo is a small chili pepper cultivar that developed in the Philippines after the Columbian Exchange. It belongs to the species Capsicum frutescens and is characterized by triangular fruits which grow pointing upwards. The fruits and leaves are used in traditional Philippine cuisine. The fruit is pungent, ranking at 80,000 to 100,000 heat units in the Scoville Scale. Siling labuyo is listed in the Ark of Taste international catalog of endangered heritage foods of the Philippines by the Slow Food movement."
+      ],
+      "label": [
+        "Siling labuyo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Siling_labuyo"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/CultivatedVariety",
+        "http://dbpedia.org/ontology/Plant",
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Eukaryote"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Capsicum_cultivars",
+        "http://dbpedia.org/resource/Category:Chili_peppers",
+        "http://dbpedia.org/resource/Category:Medicinal_plants",
+        "http://dbpedia.org/resource/Category:Spices"
+      ]
+    },
+    {
+      "score": [
+        "1447.1818"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Filipino_actresses"
+      ],
+      "redirectlabel": [
+        "List of <B>Filipina</B> actresses",
+        "List of <B>Filipino</B> actors and singers",
+        "List of Philippine actresses",
+        "List of tagalog actress",
+        "Philippine actress",
+        "Tagalog actress"
+      ],
+      "comment": [
+        "List of <B>Filipino</B> actresses is a list of present and past notable <B>Filipino</B> actresses on stage"
+      ],
+      "label": [
+        "List of <B>Filipino</B> actresses"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Filipino_actresses"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_actresses",
+        "http://dbpedia.org/resource/Category:Lists_of_Filipino_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_Philippine_actors",
+        "http://dbpedia.org/resource/Category:Lists_of_actors_by_nationality",
+        "http://dbpedia.org/resource/Category:Lists_of_actresses"
+      ]
+    },
+    {
+      "score": [
+        "1444.8232"
+      ],
+      "refCount": [
+        "105"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_Revolution"
+      ],
+      "redirectlabel": [
+        "Cebu Uprising",
+        "<B>Filipino</B> War for Independence",
+        "Philippine Revolution Against Spain",
+        "Philippine Revolution of 1896-1898",
+        "Philippine Revolution of 1896",
+        "Philippine Revolution of 1896–1898",
+        "Philippine Revolution of 1898",
+        "Philippine Revolutionary War",
+        "Philippine Revolutionary war",
+        "Philippine revolution",
+        "Tagalog War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Philippine Revolution (<B>Filipino</B>: Himagsikang Pilipino; Spanish: Revolución <B>Filipina</B>), called"
+      ],
+      "label": [
+        "Philippine Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_Revolution"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890s_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:1896_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:1897_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:1898_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:19th-century_revolutions",
+        "http://dbpedia.org/resource/Category:History_of_the_Philippines_(1565–1898)",
+        "http://dbpedia.org/resource/Category:Katipunan",
+        "http://dbpedia.org/resource/Category:Philippine_Revolution",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:Rebellions_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Separatism_in_Spain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "1444.5637"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Spanish_language_in_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Bamboo Spanish",
+        "Bamboo Spanish language",
+        "Castilian language in the Philippines",
+        "<B>Filipino</B> Castilian",
+        "History of Spanish in the Philippines",
+        "History of the Castilian language in the Philippines",
+        "History of the Spanish language in the Philippines",
+        "Insular Spanish",
+        "List of Spanish words of Philippine origin",
+        "N-<B>Filipino</B>",
+        "N-<B>Filipinos</B>",
+        "N-<B>filipino</B>",
+        "N-<B>filipinos</B>",
+        "Philippine Spanish",
+        "Philippines Spanish",
+        "Spanish-speaking <B>Filipinos</B>",
+        "Spanish Language in the Philippines",
+        "Spanish in the Philippines",
+        "Ñ-<B>Filipino</B>",
+        "Ñ-<B>Filipinos</B>",
+        "Ñ-<B>filipino</B>",
+        "Ñ-<B>filipinos</B>"
+      ],
+      "comment": [
+        "Spanish was the official language of the Philippines from the beginning of Spanish rule in the late 16th century, through the conclusion of the Spanish–American War in 1898 and remained co-official, along with English, until 1987. It was at first removed in 1973 by a constitutional change, but after a few months it was re-designated an official language by presidential decree and remained official until 1987, with the present Constitution re-designating it instead as an \"optional and voluntary language\"."
+      ],
+      "label": [
+        "Spanish language in the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Spanish_language_in_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Philippines–Spain_relations",
+        "http://dbpedia.org/resource/Category:Spanish_East_Indies",
+        "http://dbpedia.org/resource/Category:Spanish_Philippines",
+        "http://dbpedia.org/resource/Category:Spanish_dialects",
+        "http://dbpedia.org/resource/Category:Spanish_language_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1434.9982"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Culture_of_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Art of Philippines",
+        "Cultural history of the Philippines",
+        "Culture of Philippines",
+        "Culture of the <B>Filipinos</B>",
+        "Culture of the Phillipines",
+        "<B>Filipino</B> Culture",
+        "<B>Filipino</B> culture",
+        "<B>Filipino</B> society",
+        "<B>Filipino</B> style",
+        "<B>Filipino</B> way",
+        "Philippine Culture",
+        "Philippine Society",
+        "Philippine culture",
+        "Philippine popular culture",
+        "Philippine society",
+        "Philippine style",
+        "Philippine traditions",
+        "Philippine way"
+      ],
+      "comment": [
+        "The culture of the Philippines is a combination of cultures of the East and West. <B>Filipino</B> identity"
+      ],
+      "label": [
+        "Culture of the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Culture_of_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_culture"
+      ]
+    },
+    {
+      "score": [
+        "1433.2776"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1989_PBA_All-Filipino_Conference_Finals"
+      ],
+      "redirectlabel": [
+        "1989 PBA All-<B>Filipino</B> Cup Finals",
+        "1989 PBA All <B>Filipino</B> Conference Finals"
+      ],
+      "comment": [
+        "The 1989 PBA Fiesta All-<B>Filipino</B> Conference Finals was the best-of-7 series basketball championship"
+      ],
+      "label": [
+        "1989 PBA All-<B>Filipino</B> Conference Finals"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1989_PBA_All-Filipino_Conference_Finals"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_PBA_season",
+        "http://dbpedia.org/resource/Category:August_1989_sports_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Magnolia_Hotshots_games",
+        "http://dbpedia.org/resource/Category:PBA_Philippine_Cup_Finals",
+        "http://dbpedia.org/resource/Category:San_Miguel_Beermen_games",
+        "http://dbpedia.org/resource/Category:September_1989_sports_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1399.0206"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Traditional_games_in_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Balinsay",
+        "Bati-Cobra",
+        "Calahoyo",
+        "<B>Filipino</B> games for children",
+        "Games for children in the Philippines",
+        "Games of <B>Filipino</B> children",
+        "Hawk and Chicken",
+        "Hole-in",
+        "Indigenous games",
+        "Laro ng Lahi",
+        "Lawin at Sisiw",
+        "List of traditional <B>Filipino</B> games",
+        "List of traditonal <B>Filipino</B> children's games",
+        "Piko (<B>Filipino</B> game)",
+        "Sambunot",
+        "Siklot",
+        "Sintak",
+        "Teks cards",
+        "Traditional <B>Filipino</B> games",
+        "Traditional games of the Philippines"
+      ],
+      "comment": [
+        "Traditional <B>Filipino</B> Games or Indigenous games in the Philippines (Tagalog: Laro ng Lahi) are games"
+      ],
+      "label": [
+        "Traditional games in the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Traditional_games_in_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_games",
+        "http://dbpedia.org/resource/Category:Children's_games",
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Traditional_games"
+      ]
+    },
+    {
+      "score": [
+        "1393.6437"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/UP_Diksiyonaryong_Filipino"
+      ],
+      "redirectlabel": [
+        "UP Diksiyonariyong <B>Filipino</B>",
+        "UP Diksyonaryong <B>Filipino</B>",
+        "UP <B>Filipino</B> Dictionary"
+      ],
+      "typeName": [
+        "Book",
+        "WrittenWork",
+        "Work"
+      ],
+      "comment": [
+        "The UP Diksiyonaryong <B>Filipino</B> (UPDF; English: UP <B>Filipino</B> Dictionary) is a monolingual <B>Filipino</B>"
+      ],
+      "label": [
+        "UP Diksiyonaryong <B>Filipino</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/UP_Diksiyonaryong_Filipino"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Book",
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anvil_Publishing_books",
+        "http://dbpedia.org/resource/Category:Filipino_dictionaries",
+        "http://dbpedia.org/resource/Category:University_of_the_Philippines_Press_books"
+      ]
+    },
+    {
+      "score": [
+        "1391.8304"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Overseas_Filipino_Worker"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> migrant worker",
+        "Overseas <B>Filipino</B> Workers",
+        "Overseas <B>Filipino</B> worker"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Overseas <B>Filipino</B> Worker (OFW) is a term often used to refer to <B>Filipino</B> migrant workers, people"
+      ],
+      "label": [
+        "Overseas <B>Filipino</B> Worker"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Overseas_Filipino_Worker"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_the_Philippines",
+        "http://dbpedia.org/resource/Category:Filipino_expatriates",
+        "http://dbpedia.org/resource/Category:Overseas_Filipino_Worker"
+      ]
+    },
+    {
+      "score": [
+        "1391.6257"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_Independent_Church"
+      ],
+      "redirectlabel": [
+        "Aglipayan",
+        "Aglipayan Church",
+        "Aglipayan Churches",
+        "Aglipayanism",
+        "Aglipayano",
+        "Aglipayans",
+        "Filipinistas",
+        "<B>Filipino</B> Independent Catholic Church",
+        "<B>Filipino</B> Independent Church",
+        "Iglesia <B>Filipina</B> Independiente",
+        "Independent Church of the Philippines",
+        "Independientes",
+        "List of Philippine Independent Church churches"
+      ],
+      "comment": [
+        " Obrera Democrática <B>Filipina</B>, due to the mistreatment of the <B>Filipinos</B> by Spanish priests and the execution of José Rizal during Spanish colonial rule."
+      ],
+      "label": [
+        "Philippine Independent Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_Independent_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1902_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Christian_denominations_established_in_the_20th_century",
+        "http://dbpedia.org/resource/Category:Christian_denominations_founded_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Christian_denominations_in_Asia",
+        "http://dbpedia.org/resource/Category:Christian_denominations_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Christian_organizations_established_in_1902",
+        "http://dbpedia.org/resource/Category:Independent_Catholic_denominations",
+        "http://dbpedia.org/resource/Category:Philippine_Independent_Church",
+        "http://dbpedia.org/resource/Category:Schisms_from_the_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "1378.1085"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Filipino_Catholic_saints_and_beatified_people"
+      ],
+      "redirectlabel": [
+        "Current and Possible <B>Filipino</B> Saints",
+        "<B>Filipino</B> Saints, Blesseds, Venerables, Servants of God",
+        "<B>Filipino</B> Saints, Blesseds, and Servants of God",
+        "List of <B>Filipino</B> Saints, Blesseds, Venerables, Servants of God",
+        "List of <B>Filipino</B> Saints, Blesseds, and Servants of God",
+        "List of <B>Filipino</B> saints, blesseds, and Servants of God",
+        "List of <B>Filipino</B> saints, blesseds, and servants of God"
+      ],
+      "label": [
+        "List of <B>Filipino</B> Catholic saints and beatified people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Filipino_Catholic_saints_and_beatified_people"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_Roman_Catholic_saints",
+        "http://dbpedia.org/resource/Category:Lists_of_saints_by_place",
+        "http://dbpedia.org/resource/Category:Philippines_history-related_lists",
+        "http://dbpedia.org/resource/Category:Philippines_religion-related_lists"
+      ]
+    },
+    {
+      "score": [
+        "1364.7642"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipinology"
+      ],
+      "redirectlabel": [
+        "Filipinista",
+        "<B>Filipino</B> Studies",
+        "<B>Filipino</B> studies",
+        "<B>Filipino</B> study",
+        "<B>Filipinologen</B>",
+        "<B>Filipinologist</B>",
+        "<B>Filipinologists</B>",
+        "Philippine Humanities",
+        "Philippine Studies",
+        "Philippine studies",
+        "Philippineology",
+        "Philippiniste",
+        "Pilipinista",
+        "Pilipinolohiya",
+        "Study of the Philippines"
+      ],
+      "comment": [
+        "In general, <B>Filipinology</B> (<B>Filipino</B>: Pilipinolohiya) (Spanish: <B>Filipinología</B>) or Philippine Studies"
+      ],
+      "label": [
+        "<B>Filipinology</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipinology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Education_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_studies"
+      ]
+    },
+    {
+      "score": [
+        "1348.3114"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mark_Lopez_(Filipino_executive)"
+      ],
+      "redirectlabel": [
+        "Mark López (<B>Filipino</B> executive)",
+        "Martin 'Mark' Lopez",
+        "Martin Lagdameo Lopez",
+        "Martin Lopez (<B>Filipino</B> executive)",
+        "Martín \"Mark\" Lagdameo López",
+        "Martín Lagdameo López"
+      ],
+      "label": [
+        "Mark Lopez (<B>Filipino</B> executive)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mark_Lopez_(Filipino_executive)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:ABS-CBN_executives",
+        "http://dbpedia.org/resource/Category:Asian_Institute_of_Management_alumni",
+        "http://dbpedia.org/resource/Category:Chairmen_of_ABS-CBN",
+        "http://dbpedia.org/resource/Category:Filipino_chairpersons_of_corporations",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:López_family_of_Iloilo",
+        "http://dbpedia.org/resource/Category:Menlo_College_alumni",
+        "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+      ]
+    },
+    {
+      "score": [
+        "1347.7894"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mental_health_of_Filipino_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> American Psychology",
+        "<B>Filipino</B> American psychology",
+        "Mental Health Care of <B>Filipino</B>/a Americans",
+        "Mental Health Care of <B>Filipino</B> Americans"
+      ],
+      "comment": [
+        "The mental health of <B>Filipino</B> Americans is emotional and cognitive status of Americans of <B>Filipino</B>"
+      ],
+      "label": [
+        "Mental health of <B>Filipino</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mental_health_of_Filipino_Americans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_American",
+        "http://dbpedia.org/resource/Category:Mental_health_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Mental_health_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Race_and_health_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1324.2358"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_the_Philippines"
+      ],
+      "redirectlabel": [
+        "Carmen Concha",
+        "Cinema in the Philippines",
+        "Cinema of Philippines",
+        "Cinema of the philippines",
+        "<B>Filipino</B> cinema",
+        "<B>Filipino</B> film",
+        "History of cinema in the Philippines",
+        "Philippine Cinema",
+        "Philippine cinema",
+        "Philippine film",
+        "Philippine film industry"
+      ],
+      "comment": [
+        "The cinema of the Philippines (<B>Filipino</B>: Pelikulang Pilipino or Sine Pilipino) began with the"
+      ],
+      "label": [
+        "Cinema of the Philippines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_the_Philippines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1319.504"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_adobo"
+      ],
+      "redirectlabel": [
+        "Adobo (<B>Filipino</B> cuisine)",
+        "Adobo <B>filipino</B>",
+        "Adobo sa gata",
+        "Adobong",
+        "Adobong pusit",
+        "<B>Filipino</B> adobo"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "Philippine adobo (from Spanish adobar: \"marinade,\" \"sauce\" or \"seasoning\") is a popular <B>Filipino</B>"
+      ],
+      "label": [
+        "Philippine adobo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_adobo"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_dishes",
+        "http://dbpedia.org/resource/Category:Philippine_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1318.4276"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Filipino_inventions_and_discoveries"
+      ],
+      "redirectlabel": [
+        "Agapito Flores",
+        "<B>Filipino</B> Innovations and Inventions",
+        "<B>Filipino</B> Inventions",
+        "<B>Filipino</B> innovations and Inventions"
+      ],
+      "comment": [
+        "This article discusses <B>Filipino</B> inventions and discoveries the details the indigenous arts and"
+      ],
+      "label": [
+        "List of <B>Filipino</B> inventions and discoveries"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Filipino_inventions_and_discoveries"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_inventors",
+        "http://dbpedia.org/resource/Category:Lists_of_inventions_or_discoveries",
+        "http://dbpedia.org/resource/Category:Philippines_history-related_lists",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1313.2872"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ken_Chan_(Filipino_actor)"
+      ],
+      "redirectlabel": [
+        "Ken Chan (<B>Filipino</B> Actor)"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Ken Steven Angeles Chan (born January 17, 1993 in Makati, Philippines) is a <B>Filipino</B>-Chinese actor"
+      ],
+      "label": [
+        "Ken Chan (<B>Filipino</B> actor)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ken_Chan_(Filipino_actor)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_births",
+        "http://dbpedia.org/resource/Category:21st-century_Filipino_businesspeople",
+        "http://dbpedia.org/resource/Category:De_La_Salle–College_of_Saint_Benilde_alumni",
+        "http://dbpedia.org/resource/Category:Filipino_actors_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:Filipino_male_child_actors",
+        "http://dbpedia.org/resource/Category:Filipino_male_film_actors",
+        "http://dbpedia.org/resource/Category:Filipino_male_television_actors",
+        "http://dbpedia.org/resource/Category:Filipino_photographers",
+        "http://dbpedia.org/resource/Category:Filipino_television_variety_show_hosts",
+        "http://dbpedia.org/resource/Category:GMA_Music_artists",
+        "http://dbpedia.org/resource/Category:GMA_Network_personalities",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Male_actors_from_Qingdao",
+        "http://dbpedia.org/resource/Category:People_from_Biñan",
+        "http://dbpedia.org/resource/Category:PolyEast_Records_artists",
+        "http://dbpedia.org/resource/Category:Tagalog_people"
+      ]
+    },
+    {
+      "score": [
+        "1306.7257"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Inihaw"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-style barbecue",
+        "<B>Filipino</B> Barbecue",
+        "<B>Filipino</B> barbecue",
+        "<B>Filipino</B> bbq",
+        "Ihaw-ihaw",
+        "Ihaw",
+        "Ihawan",
+        "Inihaw na liempo",
+        "Philippine BBQ",
+        "Philippine barbecue",
+        "Philippine bbq",
+        "Pinoy BBQ",
+        "Pinoy barbecue",
+        "Sinugba",
+        "Sugba-sugba",
+        "Sugba",
+        "Sugba sugba"
+      ],
+      "label": [
+        "Inihaw"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Inihaw"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Offal",
+        "http://dbpedia.org/resource/Category:Philippine_cuisine",
+        "http://dbpedia.org/resource/Category:Street_food_in_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1299.382"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Boyfriends_(Filipino_band)"
+      ],
+      "redirectlabel": [
+        "Boyfriends (Philippino band)",
+        "Dahil Mahal Kita",
+        "The Boyfriends (<B>Filipino</B> band)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Boyfriends is a musical group from the Philippines. Their heyday was in the 1970s as one of the most prominent bands of the Manila sound, with pop and disco harmonies reminiscent of the Bee Gees. Several of their recordings are among the most popular Tagalog and English songs of the Philippines from the late 1970s and early 1980s, and have since been covered by a number of the Philippines' most popular singers, among others."
+      ],
+      "label": [
+        "Boyfriends (<B>Filipino</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Boyfriends_(Filipino_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_pop_music_groups",
+        "http://dbpedia.org/resource/Category:Filipino_rock_music_groups",
+        "http://dbpedia.org/resource/Category:Manila_sound_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1970",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Quezon_City",
+        "http://dbpedia.org/resource/Category:PolyEast_Records_artists"
+      ]
+    },
+    {
+      "score": [
+        "1296.8533"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Spanish_people_of_Filipino_ancestry"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-Spaniard",
+        "<B>Filipino</B> Spaniards"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "There are many Spanish people of <B>Filipino</B> ancestry, consisting of the descendants of early migrants"
+      ],
+      "label": [
+        "Spanish people of <B>Filipino</B> ancestry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Spanish_people_of_Filipino_ancestry"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Spain",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Spanish_people_of_Filipino_descent"
+      ]
+    },
+    {
+      "score": [
+        "1289.1122"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Batok"
+      ],
+      "redirectlabel": [
+        "Fatek",
+        "Fatok",
+        "<B>Filipino</B> tattoo",
+        "<B>Filipino</B> tattooing",
+        "<B>Filipino</B> tattoos",
+        "<B>Filipino</B> tribal tattoo",
+        "Kalinga tattoo",
+        "Mambabatok",
+        "Pa-ngo-tub",
+        "Pang-otub",
+        "Pangotoeb",
+        "Patik",
+        "Pengeteb",
+        "Pengetev",
+        "Philippine tattoo",
+        "Philippine tattooing",
+        "Philippine tattoos",
+        "Philippine tribal tattoo",
+        "Tatak",
+        "Tattooing in the Philippines",
+        "Tattoos in the Philippines",
+        "Tattoos of the Philippines",
+        "Whatok"
+      ],
+      "label": [
+        "Batok"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Batok"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Filipino_tattooing",
+        "http://dbpedia.org/resource/Category:Philippine_art",
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Tattoo_designs",
+        "http://dbpedia.org/resource/Category:Tattooing_traditions"
+      ]
+    },
+    {
+      "score": [
+        "1263.9987"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Júnior_(Filipino_singer)"
+      ],
+      "redirectlabel": [
+        "Antonio Morales Barreto",
+        "Junior (<B>Filipino</B> singer)",
+        "Júnior (singer)"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Junior (born Antonio Barreto Morales; 10 September 1943 – 15 April 2014) was a Spanish <B>Filipino</B> singer and actor based in Spain."
+      ],
+      "label": [
+        "Júnior (<B>Filipino</B> singer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Júnior_(Filipino_singer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1943_births",
+        "http://dbpedia.org/resource/Category:2014_deaths",
+        "http://dbpedia.org/resource/Category:20th-century_Filipino_male_actors",
+        "http://dbpedia.org/resource/Category:20th-century_Filipino_male_singers",
+        "http://dbpedia.org/resource/Category:Filipino_emigrants_to_Spain",
+        "http://dbpedia.org/resource/Category:Filipino_people_of_Spanish_descent",
+        "http://dbpedia.org/resource/Category:Male_actors_from_Metro_Manila",
+        "http://dbpedia.org/resource/Category:Manila_sound_musicians",
+        "http://dbpedia.org/resource/Category:Singers_from_Metro_Manila",
+        "http://dbpedia.org/resource/Category:Spanish_people_of_Filipino_descent"
+      ]
+    },
+    {
+      "score": [
+        "1263.4067"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_Sign_Language"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Sign Language (FSL)",
+        "ISO 639:psp",
+        "Philippine Sign Language",
+        "Pilipino Sign Language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Filipino</B> Sign Language (FSL) or Philippine Sign Language (Wikang pasenyas ng mga Pilipino), is a"
+      ],
+      "label": [
+        "<B>Filipino</B> Sign Language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_Sign_Language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_Sign_Language_family",
+        "http://dbpedia.org/resource/Category:French_Sign_Language_family",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Philippines"
+      ]
+    },
+    {
+      "score": [
+        "1260.7028"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1992_PBA_All-Filipino_Conference_Finals"
+      ],
+      "redirectlabel": [
+        "1992 PBA All-<B>Filipino</B> Cup Finals"
+      ],
+      "comment": [
+        "The 1992 PBA All-<B>Filipino</B> Conference Finals was the best-of-7 basketball championship series of the"
+      ],
+      "label": [
+        "1992 PBA All-<B>Filipino</B> Conference Finals"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1992_PBA_All-Filipino_Conference_Finals"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_PBA_season",
+        "http://dbpedia.org/resource/Category:August_1992_sports_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Magnolia_Hotshots_games",
+        "http://dbpedia.org/resource/Category:PBA_Philippine_Cup_Finals",
+        "http://dbpedia.org/resource/Category:San_Miguel_Beermen_games"
+      ]
+    },
+    {
+      "score": [
+        "1249.9692"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino–American_Friendship_Highway"
+      ],
+      "redirectlabel": [
+        "Fil Am Friendship Highway",
+        "<B>Filipino</B>-American Friendship Highway",
+        "<B>Filipino</B> American Friendship Highway",
+        "N216 highway (Philippines)"
+      ],
+      "typeName": [
+        "Road",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure",
+        "RouteOfTransportation"
+      ],
+      "comment": [
+        "The <B>Filipino</B>–American Friendship Highway, officially the Friendship Circumferential Road, or simply"
+      ],
+      "label": [
+        "<B>Filipino</B>–American Friendship Highway"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino–American_Friendship_Highway"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Road",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure",
+        "http://dbpedia.org/ontology/RouteOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Roads_in_Pampanga"
+      ]
+    },
+    {
+      "score": [
+        "1241.4529"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Little_Manila"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-Americans in Jersey City, New Jersey",
+        "<B>Filipino</B>-Americans in New Jersey",
+        "<B>Filipino</B> communities",
+        "<B>Filipino</B> community",
+        "<B>Filipinos</B> in Jersey City, New Jersey",
+        "<B>Filipinotown</B>, Wood",
+        "<B>Filipinotown</B>, Woodside",
+        "<B>Filipinotown</B>",
+        "<B>Filipinotown</B> Woodside, Queens",
+        "<B>Filipinotown</B> wood",
+        "<B>Filipinotown</B> woodside",
+        "<B>Filipinotown</B> woodside queens",
+        "Fliptown",
+        "Little Manila, Woodside, Queens",
+        "Little Manila, Woodside",
+        "Little Philippines",
+        "Little manila woodside queens",
+        "ManilaTown",
+        "Manilatown",
+        "Manilatowns",
+        "Philippine community"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "A Little Manila (also known as a Manilatown or <B>Filipinotown</B>) is a community with a large <B>Filipino</B>"
+      ],
+      "label": [
+        "Little Manila"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Little_Manila"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian-American_culture",
+        "http://dbpedia.org/resource/Category:Ethnic_enclaves",
+        "http://dbpedia.org/resource/Category:Filipino-American_history",
+        "http://dbpedia.org/resource/Category:Filipino_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1239.002"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_mythology"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> folklore",
+        "<B>Filipino</B> mythology",
+        "<B>Filipino</B> myths and legends",
+        "Folklore of the Philippines",
+        "Mythology of the Philippines",
+        "Philippine Mythology",
+        "Philippine creation myths",
+        "Philippine folklore",
+        "Philippine vampires",
+        "Phillipine vampires"
+      ],
+      "comment": [
+        "Philippine mythology refers to the body of myths, tales, and belief systems held by <B>Filipinos</B>"
+      ],
+      "label": [
+        "Philippine mythology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_mythology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_culture",
+        "http://dbpedia.org/resource/Category:Philippine_legendary_creatures",
+        "http://dbpedia.org/resource/Category:Philippine_mythology"
+      ]
+    },
+    {
+      "score": [
+        "1224.2644"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Filipino_American_sportspeople"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> swimmer",
+        "List of <B>Filipino</B>-American athletes",
+        "List of <B>Filipino</B> American athletes"
+      ],
+      "comment": [
+        "This is a list of American sportspeople of <B>Filipino</B> ancestry."
+      ],
+      "label": [
+        "List of <B>Filipino</B> American sportspeople"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Filipino_American_sportspeople"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_sportspeople_of_Filipino_descent",
+        "http://dbpedia.org/resource/Category:Lists_of_American_sportspeople",
+        "http://dbpedia.org/resource/Category:Lists_of_Filipino_sportspeople"
+      ]
+    },
+    {
+      "score": [
+        "1217.743"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pinoy_reggae"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B> Reggae",
+        "<B>Filipino</B> reggae"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "<B>Filipino</B> reggae or Pinoy reggae is reggae music created in the Philippines. The country has several"
+      ],
+      "label": [
+        "Pinoy reggae"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pinoy_reggae"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Philippine_styles_of_music",
+        "http://dbpedia.org/resource/Category:Reggae_by_country",
+        "http://dbpedia.org/resource/Category:Reggae_genres"
+      ]
+    },
+    {
+      "score": [
+        "1214.8586"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Philippine_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of the Philippines",
+        "DZHH-AM",
+        "<B>Filipino</B> Air Force",
+        "History of the Philippine Air Force",
+        "Hukbong Himpapawid ng Pilipinas",
+        "Philippines Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Philippine Air Force (PAF; <B>Filipino</B>: Hukbong Himpapawid ng Pilipinas) is the aerial warfare service branch of the Armed Forces of the Philippines."
+      ],
+      "label": [
+        "Philippine Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Philippine_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1947_establishments_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1947",
+        "http://dbpedia.org/resource/Category:Philippine_Air_Force"
+      ]
+    },
+    {
+      "score": [
+        "1213.4287"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Filipino_spaghetti"
+      ],
+      "redirectlabel": [
+        "<B>Filipino</B>-style spaghetti",
+        "Sweet-style spaghetti",
+        "Sweet spaghetti"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "<B>Filipino</B> spaghetti, also known as sweet spaghetti, is a <B>Filipino</B> adaptation of the Italian"
+      ],
+      "label": [
+        "<B>Filipino</B> spaghetti"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Filipino_spaghetti"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fast_food",
+        "http://dbpedia.org/resource/Category:Philippine_noodle_dishes",
+        "http://dbpedia.org/resource/Category:Spaghetti_dishes"
+      ]
+    }
+  ]
+}

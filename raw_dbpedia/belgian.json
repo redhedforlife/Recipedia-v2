@@ -1,0 +1,4542 @@
+{
+  "docs": [
+    {
+      "score": [
+        "12791.482"
+      ],
+      "refCount": [
+        "8516"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgium"
+      ],
+      "redirectlabel": [
+        "Begium",
+        "Beglium",
+        "Beldjike",
+        "<B>Belgia</B>",
+        "<B>Belgie</B>",
+        "<B>Belgien</B>",
+        "<B>Belgio</B>",
+        "Belgique",
+        "<B>Belgiu</B>",
+        "<B>Belgium</B>/<B>Belgie</B>",
+        "<B>Belgium</B>/facts",
+        "<B>Belgium</B> facts",
+        "<B>België</B>",
+        "Belguim",
+        "Belgum",
+        "Beligum",
+        "Beljam",
+        "Beljum",
+        "Blegium",
+        "Bélgica",
+        "Cockpit of Europe",
+        "ISO 3166-1:BE",
+        "Kingdom Of <B>Belgium</B>",
+        "Kingdom of <B>Belgium</B>",
+        "Kingdom of the <B>Belgians</B>",
+        "Koenigreich <B>Belgien</B>",
+        "Konigreich <B>Belgien</B>",
+        "Koninkrijk <B>Belgie</B>",
+        "Koninkrijk <B>België</B>",
+        "Königreich <B>Belgien</B>",
+        "Political culture of <B>Belgium</B>",
+        "Royaume de Belgique"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Belgium</B>, officially the Kingdom of <B>Belgium</B>, is a country in Western Europe. It is bordered by the"
+      ],
+      "label": [
+        "<B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgium"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgium",
+        "http://dbpedia.org/resource/Category:Benelux",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Countries_of_Europe_with_multiple_official_languages",
+        "http://dbpedia.org/resource/Category:Dutch-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Federal_monarchies",
+        "http://dbpedia.org/resource/Category:French-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Geographical_articles_missing_image_alternative_text",
+        "http://dbpedia.org/resource/Category:German-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Kingdoms",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Dutch_Language_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_internationale_de_la_Francophonie",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Northwestern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1830"
+      ]
+    },
+    {
+      "score": [
+        "9867.426"
+      ],
+      "refCount": [
+        "1059"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgium_national_football_team"
+      ],
+      "redirectlabel": [
+        "1895 (supporters' group)",
+        "2014 <B>Belgium</B> national football team results",
+        "2015 <B>Belgium</B> national football team results",
+        "@BelRedDevils",
+        "Beglium national football team",
+        "<B>Belgian</B> Red Devils",
+        "<B>Belgian</B> football national team",
+        "<B>Belgian</B> football selection",
+        "<B>Belgian</B> football team",
+        "<B>Belgian</B> national association football team",
+        "<B>Belgian</B> national football team",
+        "<B>Belgian</B> national team",
+        "<B>Belgian</B> soccer team",
+        "<B>Belgian</B> team",
+        "<B>Belgium</B> FC",
+        "<B>Belgium</B> National Football Team",
+        "<B>Belgium</B> football national team",
+        "<B>Belgium</B> football selection",
+        "<B>Belgium</B> football team",
+        "<B>Belgium</B> men's national football team",
+        "<B>Belgium</B> men's national soccer team",
+        "<B>Belgium</B> national association football team",
+        "<B>Belgium</B> national soccer team",
+        "<B>Belgium</B> soccer team",
+        "Belguim national football team",
+        "Beligum national football team",
+        "De Rode Duivels",
+        "Diables Rouges (football)",
+        "Die Roten Teufel (football)",
+        "Les Diables Rouges (football)",
+        "Rode Duivels",
+        "Rote Teufel (football)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Belgian</B> national football team officially represents <B>Belgium</B> in men's international football"
+      ],
+      "label": [
+        "<B>Belgium</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgium_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1904_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Belgium_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Belgium",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1904"
+      ]
+    },
+    {
+      "score": [
+        "9440.428"
+      ],
+      "refCount": [
+        "211"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Congo"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Kongo",
+        "<B>Belgians</B> in the Congo",
+        "Congo belge",
+        "The <B>Belgian</B> Congo"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Congo (French: Congo belge, pronounced [kɔ̃ɡo bɛlʒ]; Dutch: Belgisch-Congo)was a"
+      ],
+      "label": [
+        "<B>Belgian</B> Congo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Congo"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1908_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1908_establishments_in_the_Belgian_Congo",
+        "http://dbpedia.org/resource/Category:1960_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:Belgian_Congo",
+        "http://dbpedia.org/resource/Category:Belgian_colonisation_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_Belgian_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Africa",
+        "http://dbpedia.org/resource/Category:History_of_Central_Africa",
+        "http://dbpedia.org/resource/Category:History_of_the_Democratic_Republic_of_the_Congo",
+        "http://dbpedia.org/resource/Category:Political_history_of_the_Democratic_Republic_of_the_Congo",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1960",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1908"
+      ]
+    },
+    {
+      "score": [
+        "9196.12"
+      ],
+      "refCount": [
+        "172"
+      ],
+      "label": [
+        "<B>Belgian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "4318.966"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Shepherd"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Laekenois",
+        "<B>Belgian</B> Laekenois dog",
+        "<B>Belgian</B> Malinois",
+        "<B>Belgian</B> Malinoises",
+        "<B>Belgian</B> Sheepdog",
+        "<B>Belgian</B> Shepherd (Groenendael)",
+        "<B>Belgian</B> Shepherd (Laekinois)",
+        "<B>Belgian</B> Shepherd (Malinois)",
+        "<B>Belgian</B> Shepherd (Tervueren)",
+        "<B>Belgian</B> Shepherd (Tervuren)",
+        "<B>Belgian</B> Shepherd Dog",
+        "<B>Belgian</B> Shepherd Dog (Groenendael)",
+        "<B>Belgian</B> Shepherd Dog (Laekenois)",
+        "<B>Belgian</B> Shepherd Dog (Malinois)",
+        "<B>Belgian</B> Shepherd Dog (Tervueren)",
+        "<B>Belgian</B> Shepherd Dog (Tervuren)",
+        "<B>Belgian</B> Shepherd Groenendael",
+        "<B>Belgian</B> Shepherd Laekenois",
+        "<B>Belgian</B> Shepherd Malinois",
+        "<B>Belgian</B> Shepherd Tervueren",
+        "<B>Belgian</B> Shepherd Tervuren",
+        "<B>Belgian</B> Tervuren",
+        "<B>Belgian</B> sheepdog",
+        "<B>Belgian</B> shepherd dog",
+        "Groenendael",
+        "Groenendael (<B>Belgian</B> Shepherd Dog)",
+        "Groenendael dog",
+        "Laekenois",
+        "Laekenois (<B>Belgian</B> Shepherd Dog)",
+        "Laekenois dog",
+        "Malinois (<B>Belgian</B> Shepherd Dog)",
+        "Malinois dog",
+        "Terv",
+        "Tervuren (<B>Belgian</B> Shepherd Dog)",
+        "Tervuren (dog)",
+        "Tervuren (dog breed)",
+        "Tervuren dog"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Shepherd  (also known as the <B>Belgian</B> Sheepdog or Chien de Berger Belge) is a breed of"
+      ],
+      "label": [
+        "<B>Belgian</B> Shepherd"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Shepherd"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dog_breeds",
+        "http://dbpedia.org/resource/Category:Dog_breeds_originating_in_Belgium",
+        "http://dbpedia.org/resource/Category:FCI_breeds",
+        "http://dbpedia.org/resource/Category:Herding_dogs"
+      ]
+    },
+    {
+      "score": [
+        "3910.8125"
+      ],
+      "refCount": [
+        "137"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Croix_de_guerre_(Belgium)"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Croix de Guerre",
+        "<B>Belgian</B> Croix de guerre",
+        "Croix de Guerre (<B>Belgium</B>)",
+        "Oorlogskruis",
+        "War Cross (<B>Belgium</B>)"
+      ],
+      "comment": [
+        " reestablished on 20 July 1940 by the <B>Belgian</B> government in exile for recognition of bravery and military"
+      ],
+      "label": [
+        "Croix de guerre (<B>Belgium</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Croix_de_guerre_(Belgium)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1915_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1915",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1940",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1954",
+        "http://dbpedia.org/resource/Category:Courage_awards",
+        "http://dbpedia.org/resource/Category:Orders,_decorations,_and_medals_of_Belgium",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_guerre_(Belgium)"
+      ]
+    },
+    {
+      "score": [
+        "3098.4648"
+      ],
+      "refCount": [
+        "90"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgium_women's_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Red Flames",
+        "Red Flames"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Belgium</B> women's national football team (nicknamed <B>Belgian</B> Red Flames) represents <B>Belgium</B> in"
+      ],
+      "label": [
+        "<B>Belgium</B> women's national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgium_women's_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1976_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1976",
+        "http://dbpedia.org/resource/Category:Belgium_women's_national_football_team",
+        "http://dbpedia.org/resource/Category:European_women's_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Women's_football_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "3005.4404"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Revolution"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Revolution of 1830",
+        "<B>Belgian</B> War of Independence",
+        "<B>Belgian</B> independence",
+        "<B>Belgian</B> revolution",
+        "Causes of the <B>Belgian</B> Revolution",
+        "Independence of <B>Belgium</B>",
+        "Opera riot"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Revolution (French: Révolution belge, Dutch: Belgische Revolutie/opstand/omwenteling"
+      ],
+      "label": [
+        "<B>Belgian</B> Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Revolution"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1830_in_Belgium",
+        "http://dbpedia.org/resource/Category:1830_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:1831_in_Belgium",
+        "http://dbpedia.org/resource/Category:19th-century_revolutions",
+        "http://dbpedia.org/resource/Category:19th_century_in_the_Southern_Netherlands",
+        "http://dbpedia.org/resource/Category:Belgian_Revolution",
+        "http://dbpedia.org/resource/Category:Belgium–Netherlands_relations",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1830",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1831",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Belgium",
+        "http://dbpedia.org/resource/Category:Revolutions_of_1830",
+        "http://dbpedia.org/resource/Category:Separatism_in_Belgium",
+        "http://dbpedia.org/resource/Category:Separatism_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Wars_involving_Belgium",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Netherlands"
+      ]
+    },
+    {
+      "score": [
+        "2835.8203"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Labour_Party"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Labor Party",
+        "<B>Belgian</B> Labour party",
+        "<B>Belgian</B> Workers' Party",
+        "<B>Belgian</B> Workers Party",
+        "Belgische Werkliedenpartij",
+        "L'Avenir Social (newspaper)",
+        "Parti Ouvrier Belge"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Labour Party or <B>Belgian</B> Workers' Party (Dutch: Belgische Werkliedenpartij, BWP; French"
+      ],
+      "label": [
+        "<B>Belgian</B> Labour Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Labour_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1885_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:1940_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Defunct_socialist_parties_in_Belgium",
+        "http://dbpedia.org/resource/Category:Labour_parties",
+        "http://dbpedia.org/resource/Category:Members_of_the_Labour_and_Socialist_International",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1940",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1885",
+        "http://dbpedia.org/resource/Category:Second_International"
+      ]
+    },
+    {
+      "score": [
+        "2823.1987"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgians"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> People",
+        "<B>Belgian</B> people",
+        "<B>Belgians</B> in Germany",
+        "<B>Belgians</B> in Luxembourg",
+        "<B>Belgians</B> in the Netherlands",
+        "People of <B>Belgium</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " Walloons in Wallonia who speak French or Walloon. There is also a substantial <B>Belgian</B> diaspora, which has"
+      ],
+      "label": [
+        "<B>Belgians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "2793.3372"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Pro_League"
+      ],
+      "redirectlabel": [
+        "2023-24 <B>Belgian</B> First Division A",
+        "2023–24 <B>Belgian</B> First Division A",
+        "<B>Belgian</B> First Division",
+        "<B>Belgian</B> First Division A",
+        "<B>Belgian</B> League",
+        "<B>Belgian</B> highest football division",
+        "First Division A",
+        "Jupiler Pro League",
+        "Jupiler pro league",
+        "List of <B>Belgian</B> Pro League broadcasters"
+      ],
+      "label": [
+        "<B>Belgian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Pro_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1895_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Belgium",
+        "http://dbpedia.org/resource/Category:National_championships_in_Belgium",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Belgium",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2776.088"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Navy"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Marine Component",
+        "<B>Belgian</B> Maritime Component",
+        "<B>Belgian</B> Naval Component",
+        "<B>Belgian</B> Royal Navy",
+        "<B>Belgium</B> Navy",
+        "Corps of Destroyers and Sailors",
+        "History of the <B>Belgian</B> Navy",
+        "Marine Royale",
+        "Naval Component",
+        "Naval Component of <B>Belgium</B>",
+        "Naval Corps (<B>Belgium</B>)",
+        "Naval Force (<B>Belgium</B>)",
+        "Navy of <B>Belgium</B>",
+        "Royal <B>Belgian</B> Navy",
+        "Royal Navy (<B>Belgium</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        ": Composante marine; German: Marinekomponente) of the <B>Belgian</B> Armed Forces, is the naval service of <B>Belgium</B>."
+      ],
+      "label": [
+        "<B>Belgian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Navy",
+        "http://dbpedia.org/resource/Category:Belgium_and_NATO",
+        "http://dbpedia.org/resource/Category:Navies_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2723.5225"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_colonial_empire"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Africa",
+        "<B>Belgian</B> Colonial Empire",
+        "<B>Belgian</B> Empire",
+        "<B>Belgian</B> colonialism",
+        "<B>Belgian</B> colonisation",
+        "<B>Belgian</B> colonization",
+        "<B>Belgian</B> colony",
+        "<B>Belgian</B> diaspora",
+        "<B>Belgian</B> overseas colonies",
+        "Belgische koloniale rijk",
+        "Colonial <B>Belgium</B>",
+        "Colonie Belge",
+        "Empire colonial belge"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Belgium</B> controlled two colonies during its history, the <B>Belgian</B> Congo (modern DRC) from 1908 to"
+      ],
+      "label": [
+        "<B>Belgian</B> colonial empire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_colonial_empire"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1885_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1885_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:20th_century_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_colonial_empire",
+        "http://dbpedia.org/resource/Category:Belgium–Burundi_relations",
+        "http://dbpedia.org/resource/Category:Belgium–China_relations",
+        "http://dbpedia.org/resource/Category:Belgium–Democratic_Republic_of_the_Congo_relations",
+        "http://dbpedia.org/resource/Category:Belgium–Guatemala_relations",
+        "http://dbpedia.org/resource/Category:Belgium–Morocco_relations",
+        "http://dbpedia.org/resource/Category:Belgium–Rwanda_relations",
+        "http://dbpedia.org/resource/Category:Former_Belgian_colonies",
+        "http://dbpedia.org/resource/Category:Former_empires",
+        "http://dbpedia.org/resource/Category:Germanic_empires",
+        "http://dbpedia.org/resource/Category:Historical_transcontinental_empires",
+        "http://dbpedia.org/resource/Category:History_of_European_colonialism",
+        "http://dbpedia.org/resource/Category:Overseas_empires",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1962",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1885"
+      ]
+    },
+    {
+      "score": [
+        "2620.7576"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Air_Component"
+      ],
+      "redirectlabel": [
+        "Air Component",
+        "Air Component of <B>Belgium</B>",
+        "Air Force of <B>Belgium</B>",
+        "Aviation Militaire Belge",
+        "<B>Belgian</B> Air Force",
+        "<B>Belgian</B> Military Aviation",
+        "<B>Belgium</B> Air Force",
+        "Operation Guardian Falcon",
+        "Royal <B>Belgian</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Air Component (Dutch: Luchtcomponent, French: Composante air) is the air arm of the"
+      ],
+      "label": [
+        "<B>Belgian</B> Air Component"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Air_Component"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1909_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Aviation_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Air_Component",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1909"
+      ]
+    },
+    {
+      "score": [
+        "2597.469"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Socialist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Workmen's Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Socialist Party (French: Parti Socialiste belge, PSB; Dutch: Belgische Socialistische"
+      ],
+      "label": [
+        "<B>Belgian</B> Socialist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Socialist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:1978_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Defunct_social_democratic_parties",
+        "http://dbpedia.org/resource/Category:Defunct_socialist_parties_in_Belgium",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1978",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1945",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2583.6768"
+      ],
+      "refCount": [
+        "72"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Basketball_Cup"
+      ],
+      "redirectlabel": [
+        "<B>Belgium</B> Basketball Cup",
+        "Bpost cup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Basketball Cup (Dutch: Beker van <B>België</B>), for sponsorship reasons the bpost cup, is the"
+      ],
+      "label": [
+        "<B>Belgian</B> Basketball Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Basketball_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Belgian_Basketball_Cup"
+      ]
+    },
+    {
+      "score": [
+        "2521.804"
+      ],
+      "refCount": [
+        "484"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Portuguese_people"
+      ],
+      "redirectlabel": [
+        "Azorean people",
+        "Azoreans",
+        "Emigration from Portugal",
+        "Ethnic Portuguese",
+        "Ethnic groups in Madeira",
+        "Ethnic groups in Portugal",
+        "Ethnic groups in the Azores",
+        "Ethnic minorities in Portugal",
+        "People of Portugal",
+        "Portuguese (people)",
+        "Portuguese <B>Belgian</B>",
+        "Portuguese People",
+        "Portuguese diaspora",
+        "Portuguese in Switzerland"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Portuguese people are a Romance ethnic group indigenous to Portugal who share a common Portuguese culture, ancestry and language. Their predominant religion is Christianity, mainly Roman Catholicism, though large segments of the population, especially the younger generations, have no religious affiliation. The Portuguese people's heritage largely derives from the pre-Celts (Lusitanians, Conii) and Celts (Gallaecians, Turduli and Celtici), who were Romanized after the conquest of the region by the ancient Romans. A number of Portuguese can also trace minor descent from Germanic tribes who arrived after the Roman period as ruling elites, namely the Suebi, Vandals and Visigoths, who ruled for circa three hundred years. Finally, the Moorish occupation left a genetic contribution in the Iberian"
+      ],
+      "label": [
+        "Portuguese people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Portuguese_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Demographics_of_Portugal",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Portugal",
+        "http://dbpedia.org/resource/Category:Portuguese_people",
+        "http://dbpedia.org/resource/Category:Romance_peoples"
+      ]
+    },
+    {
+      "score": [
+        "2506.236"
+      ],
+      "refCount": [
+        "104"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ostend"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Riviera",
+        "Oostende (<B>Belgium</B>)",
+        "Ostend, <B>Belgium</B>",
+        "Ostend, West Flanders",
+        "Ostend (<B>Belgium</B>)",
+        "Stene, <B>Belgium</B>",
+        "Zandvoorde (Oostende)"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " and Zandvoorde, and the city of Ostend proper – the largest on the <B>Belgian</B> coast."
+      ],
+      "label": [
+        "Ostend"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ostend"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Municipalities_of_West_Flanders",
+        "http://dbpedia.org/resource/Category:Olympic_sailing_venues",
+        "http://dbpedia.org/resource/Category:Ostend",
+        "http://dbpedia.org/resource/Category:Populated_coastal_places_in_Belgium",
+        "http://dbpedia.org/resource/Category:Port_cities_and_towns_in_Belgium",
+        "http://dbpedia.org/resource/Category:Port_cities_and_towns_of_the_North_Sea",
+        "http://dbpedia.org/resource/Category:Ports_and_harbours_of_the_English_Channel",
+        "http://dbpedia.org/resource/Category:Seaside_resorts_in_Belgium",
+        "http://dbpedia.org/resource/Category:Venues_of_the_1920_Summer_Olympics"
+      ]
+    },
+    {
+      "score": [
+        "2485.1536"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Land_Component"
+      ],
+      "redirectlabel": [
+        "Army of <B>Belgium</B>",
+        "<B>Belgian</B> Army",
+        "<B>Belgian</B> Military",
+        "<B>Belgian</B> army",
+        "Belgische Krijgsmacht",
+        "<B>Belgium</B>/Military",
+        "<B>Belgium</B> military",
+        "Land Component",
+        "Land Component of <B>Belgium</B>",
+        "Military equipment of <B>Belgium</B>",
+        "Military history of <B>Belgium</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Belgian</B> Armed Forces. The King of the <B>Belgians</B> is the commander in chief.The current chief of staff of"
+      ],
+      "label": [
+        "<B>Belgian</B> Land Component"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Land_Component"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_Land_Component"
+      ]
+    },
+    {
+      "score": [
+        "2468.7202"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Basketball_Supercup"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Basketball SuperCup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " League <B>Belgium</B> Division I (<B>Belgian</B> champion) and the winner of the <B>Belgian</B> Basketball Cup. It is a super cup competition. The game is played in Knokke."
+      ],
+      "label": [
+        "<B>Belgian</B> Basketball Supercup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Basketball_Supercup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Belgium",
+        "http://dbpedia.org/resource/Category:Basketball_supercup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Belgian_Basketball_Supercup"
+      ]
+    },
+    {
+      "score": [
+        "2435.3647"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Defence",
+        "<B>Belgian</B> defence",
+        "<B>Belgian</B> military",
+        "History of the <B>Belgian</B> Armed Forces",
+        "Military of <B>Belgium</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Belgium</B>. The King of the <B>Belgians</B> is the commander-in-chief of the Armed Forces. The <B>Belgian</B> Armed Forces"
+      ],
+      "label": [
+        "<B>Belgian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "2426.0483"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Federal_Parliament"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Parliament",
+        "<B>Belgian</B> federal parliament",
+        "<B>Belgian</B> parliamen",
+        "<B>Belgian</B> parliament",
+        "Belgium's Federal Parliament",
+        "Belgium's Parliament",
+        "Belgium's federal parliament",
+        "Belgium's parliament",
+        "Federal Parliament of <B>Belgium</B>",
+        "La Chambre des Representants",
+        "La Chambre des Représentants",
+        "Palace of the Nation",
+        "Parliament of <B>Belgium</B>",
+        "The Federal Parliament of <B>Belgium</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Federal Parliament is the bicameral parliament of <B>Belgium</B>. It consists of the Chamber"
+      ],
+      "label": [
+        "<B>Belgian</B> Federal Parliament"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Federal_Parliament"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Federal_Parliament",
+        "http://dbpedia.org/resource/Category:Bicameral_legislatures",
+        "http://dbpedia.org/resource/Category:National_legislatures",
+        "http://dbpedia.org/resource/Category:Parliaments_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2344.489"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Cuisine",
+        "<B>Belgian</B> desserts",
+        "<B>Belgian</B> food",
+        "<B>Belgian</B> sauce",
+        "<B>Belgian</B> sauces",
+        "Cuisine of <B>Belgium</B>",
+        "Flemish cuisine",
+        "History of <B>Belgian</B> cuisine"
+      ],
+      "comment": [
+        "<B>Belgian</B> cuisine is widely varied with significant regional variations while also reflecting the"
+      ],
+      "label": [
+        "<B>Belgian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2290.9465"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Limburg_(Belgium)"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Limburg",
+        "Flemish Limburg",
+        "Limburg, <B>Belgium</B>",
+        "Limburg, province of <B>Belgium</B>",
+        "Limburg (<B>Belgian</B> province)"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " a province in <B>Belgium</B>. It is the easternmost of the five Dutch-speaking provinces that together form"
+      ],
+      "label": [
+        "Limburg (<B>Belgium</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Limburg_(Belgium)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Limburg_(Belgium)",
+        "http://dbpedia.org/resource/Category:Limburg_(region)",
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Provinces_of_Flanders"
+      ]
+    },
+    {
+      "score": [
+        "2289.6833"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Landrace"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Improved Landrace",
+        "<B>Belgian</B> Landrace pig",
+        "<B>Belgian</B> Lop-eared",
+        "<B>Belgian</B> landrace pig",
+        "Belgijska zwisloucha",
+        "Belgisch Landvarken",
+        "Improved <B>Belgian</B>",
+        "Indigene ameliore",
+        "Landrace beige",
+        "Landrasse B",
+        "Poppel (pig)",
+        "Veredeld Landvarken"
+      ],
+      "comment": [
+        " <B>Belgian</B> Lop-eared, is a breed of domestic pig from northern <B>Belgium</B>. It was created from importing English"
+      ],
+      "label": [
+        "<B>Belgian</B> Landrace"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Landrace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Pig_breeds",
+        "http://dbpedia.org/resource/Category:Pig_breeds_originating_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "2277.689"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Belgium"
+      ],
+      "redirectlabel": [
+        "Armenian-<B>Belgian</B> relations",
+        "<B>Belgian</B>-Bulgarian relations",
+        "<B>Belgian</B>-Colombian relations",
+        "<B>Belgian</B>-Czech relations",
+        "<B>Belgian</B>-Estonian relations",
+        "<B>Belgian</B>-Finnish relations",
+        "<B>Belgian</B>-Hungarian relations",
+        "<B>Belgian</B>-Irish relations",
+        "<B>Belgian</B>-Moldovan relations",
+        "<B>Belgian</B>-Romanian relations",
+        "<B>Belgian</B>-Serbian relations",
+        "<B>Belgian</B>-Slovenian relations",
+        "<B>Belgium</B>-Bulgaria relations",
+        "<B>Belgium</B>-Colombia relations",
+        "<B>Belgium</B>-Czech Republic relations",
+        "<B>Belgium</B>-Estonia relations",
+        "<B>Belgium</B>-Finland relations",
+        "<B>Belgium</B>-Germany relations",
+        "<B>Belgium</B>-Hungarian relations",
+        "<B>Belgium</B>-Hungary relations",
+        "<B>Belgium</B>-Iceland relations",
+        "<B>Belgium</B>-Ireland relations",
+        "<B>Belgium</B>-Italy relations",
+        "<B>Belgium</B>-Moldova relations",
+        "<B>Belgium</B>-Romania relations",
+        "<B>Belgium</B>-Serbia relations",
+        "<B>Belgium</B>-Slovenia relations",
+        "<B>Belgium</B>/Foreign relations",
+        "<B>Belgium</B>/Transnational issues",
+        "<B>Belgium</B> - Czech Republic relations",
+        "<B>Belgium</B> – Czech Republic relations",
+        "<B>Belgium</B>–Bulgaria relations",
+        "<B>Belgium</B>–Colombia relations",
+        "<B>Belgium</B>–Czech Republic relations",
+        "<B>Belgium</B>–Estonia relations",
+        "<B>Belgium</B>–Finland relations",
+        "<B>Belgium</B>–Hungarian relations",
+        "<B>Belgium</B>–Hungary relations",
+        "<B>Belgium</B>–Iceland relations",
+        "<B>Belgium</B>–Ireland relations",
+        "<B>Belgium</B>–Italy relations",
+        "<B>Belgium</B>–Moldova relations",
+        "<B>Belgium</B>–Romania relations",
+        "<B>Belgium</B>–Serbia relations",
+        "<B>Belgium</B>–Slovenia relations",
+        "Foreign relations of <B>belgium</B>",
+        "Moldavian-<B>Belgian</B> relations",
+        "Moldovan-<B>Belgian</B> relations"
+      ],
+      "comment": [
+        "<B>Belgium</B> is a country in Europe and member of major international organizations like the European"
+      ],
+      "label": [
+        "Foreign relations of <B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Belgium"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "2207.4414"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Belgians"
+      ],
+      "redirectlabel": [
+        "Famous <B>Belgian</B> People",
+        "Famous <B>Belgian</B> people",
+        "Famous <B>Belgium</B> people",
+        "List of <B>Belgian</B> People",
+        "List of <B>Belgian</B> actors and actresses",
+        "List of <B>Belgian</B> artists",
+        "List of <B>Belgian</B> athletes",
+        "List of <B>Belgian</B> composers",
+        "List of <B>Belgian</B> inventors and engineers",
+        "List of <B>Belgian</B> journalists",
+        "List of <B>Belgian</B> mathematicians",
+        "List of <B>Belgian</B> musicians",
+        "List of <B>Belgian</B> people",
+        "List of <B>Belgian</B> politicians",
+        "List of <B>Belgian</B> scientists",
+        "List of <B>Belgian</B> sportspeople",
+        "List of Famous <B>Belgians</B>",
+        "List of artists from <B>Belgium</B>",
+        "List of <B>belgian</B> peoples",
+        "List of <B>belgians</B>",
+        "List of famous <B>Belgian</B> people",
+        "List of famous <B>Belgians</B>",
+        "List of famous <B>Belgium</B> people",
+        "List of fictional <B>Belgians</B>",
+        "Lists of <B>Belgians</B>"
+      ],
+      "comment": [
+        " were not or are not <B>Belgian</B> citizens (either because <B>Belgium</B> did not exist at the time of their life"
+      ],
+      "label": [
+        "List of <B>Belgians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Belgians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Belgian_people"
+      ]
+    },
+    {
+      "score": [
+        "2135.4753"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Resistance"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> resistance",
+        "<B>Belgian</B> resistance movement"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Resistance (French: Résistance belge, Dutch: Belgisch verzet) collectively refers to"
+      ],
+      "label": [
+        "<B>Belgian</B> Resistance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Resistance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_Resistance",
+        "http://dbpedia.org/resource/Category:World_War_II_resistance_movements"
+      ]
+    },
+    {
+      "score": [
+        "2123.5857"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Beer_in_Belgium"
+      ],
+      "redirectlabel": [
+        "Abbey Ale",
+        "Abbey Brewery",
+        "Abbey beer",
+        "Abbey beers",
+        "Abbey breweries",
+        "Abt bier",
+        "Abtbier",
+        "Beer culture in <B>Belgium</B>",
+        "Beer of <B>Belgium</B>",
+        "Beers of <B>Belgium</B>",
+        "<B>Belgian</B> Dark",
+        "<B>Belgian</B> Scotch ales",
+        "<B>Belgian</B> Strong Dark Ale",
+        "<B>Belgian</B> ale",
+        "<B>Belgian</B> beer",
+        "<B>Belgian</B> beers",
+        "<B>Belgian</B> brewing",
+        "<B>Belgian</B> brown ale",
+        "<B>Belgian</B> scotch ale",
+        "<B>Belgian</B> strong ale",
+        "<B>Belgian</B> strong pale ale",
+        "<B>Belgium</B> beer",
+        "Crabbelaer",
+        "Drinking in <B>Belgium</B>",
+        "History of beer in <B>Belgium</B>",
+        "List of <B>Belgian</B> Beer",
+        "List of <B>Belgian</B> beer",
+        "List of <B>Belgian</B> beers"
+      ],
+      "comment": [
+        " branded, sometimes uniquely shaped, glass. In 2016, UNESCO inscribed <B>Belgian</B> beer culture on their list of the intangible cultural heritage of humanity."
+      ],
+      "label": [
+        "Beer in <B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Beer_in_Belgium"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Beer_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "2043.0498"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Warmblood"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Half-blood",
+        "<B>Belgian</B> Half-bred",
+        "<B>Belgian</B> Saddlebred",
+        "<B>Belgian</B> warmblood",
+        "Belgisch Warmbloed Paard",
+        "Belgisch Warmbloedpaard",
+        "Belgisch warmbloed paard",
+        "<B>Belgium</B> warmblood",
+        "Demi-sang Belge"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Warmblood, Dutch: Belgisch Warmbloedpaard, is a <B>Belgian</B> breed of warmblood sport horse"
+      ],
+      "label": [
+        "<B>Belgian</B> Warmblood"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Warmblood"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_Warmbloods",
+        "http://dbpedia.org/resource/Category:Horse_breeds",
+        "http://dbpedia.org/resource/Category:Horse_breeds_originating_in_Belgium",
+        "http://dbpedia.org/resource/Category:Warmbloods"
+      ]
+    },
+    {
+      "score": [
+        "2033.4412"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Flemish"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Dutch",
+        "<B>Belgian</B> Dutch (Flemish)",
+        "<B>Belgian</B> Dutch (flemish)",
+        "<B>Belgian</B> Dutch dialects",
+        "Belgicism (Dutch)",
+        "Dutch language in <B>Belgium</B>",
+        "Dutch language of <B>Belgium</B>",
+        "Dutch of <B>Belgium</B>",
+        "Felmish",
+        "Flemish-Dutch",
+        "Flemish (language)",
+        "Flemish (linguistics)",
+        "Flemish (terminology)",
+        "Flemish Dutch",
+        "Flemish Language",
+        "Flemish dialect",
+        "Flemish dialects",
+        "Flemish language",
+        "Flemish linguistics",
+        "Flemmish",
+        "Tussentaal",
+        "Vlaams",
+        "Vlaams language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Flemish (Vlaams) also called Flemish Dutch (Vlaams-Nederlands), <B>Belgian</B> Dutch (Belgisch-Nederlands"
+      ],
+      "label": [
+        "Flemish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Flemish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dutch_dialects",
+        "http://dbpedia.org/resource/Category:Dutch_language",
+        "http://dbpedia.org/resource/Category:Flanders"
+      ]
+    },
+    {
+      "score": [
+        "2025.9045"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B>-American",
+        "<B>Belgian</B>-Americans",
+        "<B>Belgian</B> American",
+        "Flemish American",
+        "Flemish Americans",
+        "History of <B>Belgian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Belgian</B> Americans are Americans who can trace their ancestry to immigrants of <B>Belgium</B> who emigrated"
+      ],
+      "label": [
+        "<B>Belgian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Belgian_descent",
+        "http://dbpedia.org/resource/Category:Belgian_American",
+        "http://dbpedia.org/resource/Category:Belgian_diaspora",
+        "http://dbpedia.org/resource/Category:European-American_society"
+      ]
+    },
+    {
+      "score": [
+        "2013.3556"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> citizenship",
+        "<B>Belgium</B> citizenship",
+        "<B>Belgium</B> nationality law",
+        "History of <B>Belgian</B> nationality law",
+        "Nationality law of <B>Belgium</B>"
+      ],
+      "comment": [
+        " citizenship is granted to children born in <B>Belgium</B> to non-<B>Belgian</B> parents; however, this is not the case if the parents are temporary or short-term visitors."
+      ],
+      "label": [
+        "<B>Belgian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_legislation",
+        "http://dbpedia.org/resource/Category:Belgian_nationality_law",
+        "http://dbpedia.org/resource/Category:Belgium_and_the_European_Union",
+        "http://dbpedia.org/resource/Category:Law_of_Belgium",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1988.3235"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Belgian_Entomological_Society"
+      ],
+      "redirectlabel": [
+        "Ann. Soc. Ent. Belg.",
+        "Ann. Soc. Ent. Belge",
+        "Ann. Soc. Entomol. Belg.",
+        "Ann. Soc. Entomol. Belge",
+        "Ann Soc Ent Belg",
+        "Ann Soc Ent Belge",
+        "Ann Soc Entomol Belg",
+        "Ann Soc Entomol Belge",
+        "Annales de la Société Entomologique Belge",
+        "Annales de la Société Entomologique de Belgique",
+        "Annales de la Société Entomologique du Belgique",
+        "Annales de la Société entomologique de Belgique",
+        "Belg. J. Ent.",
+        "Belg. J. Entomol.",
+        "Belg J Ent",
+        "Belg J Entomol",
+        "<B>Belgian</B> Journal of Entomology",
+        "Bull. Ann. Soc. Ent. Belg.",
+        "Bull. Ann. Soc. Entomol. Belg.",
+        "Bull. Ann. Soc. R. Belge Ent.",
+        "Bull. Ann. Soc. R. Belge Entomol.",
+        "Bull. Ann. Soc. R. Ent. Belg.",
+        "Bull. Ann. Soc. R. Entomol. Belg.",
+        "Bull. Soc. Ent. Belg.",
+        "Bull. Soc. Entomol. Belg.",
+        "Bull. ​ Ann. Soc. R. Ent. Belg.",
+        "Bull. ​ Ann. Soc. R. Entomol. Belg.",
+        "Bull Ann Soc Ent Belg",
+        "Bull Ann Soc Entomol Belg",
+        "Bull Ann Soc R Belge Ent",
+        "Bull Ann Soc R Belge Entomol",
+        "Bull Ann Soc R Ent Belg",
+        "Bull Ann Soc R Entomol Belg",
+        "Bull Soc Ent Belg",
+        "Bull Soc Entomol Belg",
+        "Bull ​ Ann Soc R Ent Belg",
+        "Bull ​ Ann Soc R Entomol Belg",
+        "Bulletin & Annales de la Société Entomologique de Belgique",
+        "Bulletin & Annales de la Société Royale Belge d'Entomologie",
+        "Bulletin &​ Annales de la Société Royale d'Entomologique de Belgique",
+        "Bulletin de la Société Entomologique de Belgique",
+        "Bulletin et Annales de la Société Entomologique de Belgique",
+        "Bulletin et Annales de la Société Royale Belge d'Entomologie",
+        "Bulletin et Annales de la Société Royale d'Entomologie de Belgique",
+        "Comptes-rendus des séances de la Société entomologique de Belgique",
+        "Comptes rendus des séances de la Société entomologique de Belgique",
+        "Koninklijke Belgische Vereniging voor Entomologie",
+        "Société royale belge d'entomologie",
+        "Société royale belge d’entomologie"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Belgian</B> Entomological Society is a learned society based in Brussels, <B>Belgium</B> which is"
+      ],
+      "label": [
+        "Royal <B>Belgian</B> Entomological Society"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Belgian_Entomological_Society"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1855_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Entomological_societies",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Belgium_with_royal_patronage",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Brussels",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1855",
+        "http://dbpedia.org/resource/Category:Scientific_organisations_based_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1987.3489"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_franc"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Franc",
+        "<B>Belgian</B> Franken",
+        "<B>Belgian</B> frank",
+        "Francs Belges",
+        "ISO 4217:BEF"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Belgian</B> franc (Dutch: Belgische frank, French: Franc belge, German: Belgischer Franken) was the"
+      ],
+      "label": [
+        "<B>Belgian</B> franc"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_franc"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1832_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:2002_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Currencies_of_Belgium",
+        "http://dbpedia.org/resource/Category:Currencies_replaced_by_the_euro",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Belgium",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "1970.7826"
+      ],
+      "refCount": [
+        "343"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/DR_Congo_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Congo national football team",
+        "Congo-Kinshasa national football team",
+        "Congo-Leopoldville national football team",
+        "Congo DR national football team",
+        "Congo dr national football team",
+        "Democratic Republic of Congo national football team",
+        "Democratic Republic of the Congo national football team",
+        "Zaire national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Democratic Republic of the Congo national football team, recognised by FIFA as Congo DR (formerly known as Zaire, alternatively known as Congo-Kinshasa), represents Democratic Republic of the Congo in men's association football and is controlled by the Congolese Association Football Federation. They are nicknamed the Leopards. Congo DR have been ranked as high as 28 in the FIFA Rankings. As Zaire they were the first Sub-Saharan African team to qualify for the FIFA World Cup and twice won the Africa Cup of Nations."
+      ],
+      "label": [
+        "DR Congo national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/DR_Congo_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Africa_Cup_of_Nations-winning_countries",
+        "http://dbpedia.org/resource/Category:African_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_the_Congo_national_football_team",
+        "http://dbpedia.org/resource/Category:National_sports_teams_of_the_Democratic_Republic_of_the_Congo"
+      ]
+    },
+    {
+      "score": [
+        "1920.7001"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Player_of_the_Year_(basketball)"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Basketball Player of the Year"
+      ],
+      "comment": [
+        " League <B>Belgium</B> Division I award given to the best player with a <B>Belgian</B> nationality. The award is organised by the <B>Belgian</B> newspaper Het Nieuwsblad."
+      ],
+      "label": [
+        "<B>Belgian</B> Player of the Year (basketball)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Player_of_the_Year_(basketball)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_League_Belgium_Division_I_awards"
+      ]
+    },
+    {
+      "score": [
+        "1910.3325"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Belgian_First_Division_A"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Belgian</B> First Division A"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Belgian</B> First Division A (officially known as Jupiler Pro League) was the 116th season of top-tier football in <B>Belgium</B>."
+      ],
+      "label": [
+        "2018–19 <B>Belgian</B> First Division A"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Belgian_First_Division_A"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1883.3163"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_heraldry"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> armorial",
+        "<B>Belgian</B> armorials",
+        "<B>Belgian</B> roll of arms",
+        "<B>Belgian</B> rolls of arms",
+        "Heraldic authorities in <B>Belgium</B>",
+        "Heraldic authorities of <B>Belgium</B>",
+        "Heraldic authority in <B>Belgium</B>",
+        "Heraldic authority of <B>Belgium</B>"
+      ],
+      "label": [
+        "<B>Belgian</B> heraldry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_heraldry"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_coats_of_arms",
+        "http://dbpedia.org/resource/Category:Belgian_heraldry"
+      ]
+    },
+    {
+      "score": [
+        "1880.8818"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Antarctic_Program"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Antarctic Expedition, 1957-1958",
+        "<B>Belgian</B> Antarctic Expedition, 1957-58",
+        "<B>Belgian</B> Antarctic Expedition, 1957–1958",
+        "<B>Belgian</B> Antarctic Expedition, 1957–58",
+        "<B>Belgian</B> Antarctic Expedition, 1960",
+        "<B>Belgian</B> Antarctic Expedition (1957-1958)",
+        "<B>Belgian</B> Antarctic Expedition (1957–1958)",
+        "<B>Belgium</B>: Antarctic Program",
+        "Expédition Antarctique Belge"
+      ],
+      "comment": [
+        "<B>Belgium</B> was one of the 12 countries that initially negotiated and signed the Antarctic Treaty (Washington, 1959)."
+      ],
+      "label": [
+        "<B>Belgian</B> Antarctic Program"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Antarctic_Program"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgium_and_the_Antarctic",
+        "http://dbpedia.org/resource/Category:Exploration_of_Antarctica"
+      ]
+    },
+    {
+      "score": [
+        "1864.4536"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Belgian_Football_Association"
+      ],
+      "redirectlabel": [
+        "@<B>Belgianfootball</B>",
+        "<B>Belgian</B> FA",
+        "<B>Belgian</B> Football Association",
+        "<B>Belgian</B> Football Federation",
+        "RBFA",
+        "Rbfa.be",
+        "Royal <B>Belgian</B> FA",
+        "URBSFA-KBVB",
+        "URBSFA",
+        "Union royale belge des societes de football association",
+        "Union royale belge des sociétés de football association"
+      ],
+      "comment": [
+        "The Royal <B>Belgian</B> Football Association (Dutch: Koninklijke Belgische Voetbalbond, KBVB; French"
+      ],
+      "label": [
+        "Royal <B>Belgian</B> Football Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Belgian_Football_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1895_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Football_in_Belgium",
+        "http://dbpedia.org/resource/Category:Futsal_in_Belgium",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Belgium_with_royal_patronage",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Belgium",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1895",
+        "http://dbpedia.org/resource/Category:UEFA_member_associations"
+      ]
+    },
+    {
+      "score": [
+        "1850.9675"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Open_(golf)"
+      ],
+      "redirectlabel": [
+        "Alfred Dunhill Open",
+        "Belgacom Open",
+        "<B>Belgian</B> Knockout",
+        "Peugeot-Trends <B>Belgian</B> Open",
+        "Piaget <B>Belgian</B> Open",
+        "Renault <B>Belgian</B> Open",
+        "Soudal Open",
+        "Volvo <B>Belgian</B> Open"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Open is a men's golf tournament which has been played intermittently from 1910 to 2000"
+      ],
+      "label": [
+        "<B>Belgian</B> Open (golf)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Open_(golf)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:European_Tour_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1910"
+      ]
+    },
+    {
+      "score": [
+        "1847.6136"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_horse"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> (horse)",
+        "<B>Belgian</B> Draft Horse",
+        "<B>Belgian</B> Heavy Draft Horse",
+        "<B>Belgian</B> Heavy Horse",
+        "<B>Belgian</B> Horse",
+        "<B>Belgian</B> horse (disambiguation)"
+      ],
+      "comment": [
+        "The <B>Belgian</B> or <B>Belgian</B> Draft, French: Trait belge, Dutch: Belgisch Trekpaard, is a <B>Belgian</B> breed of"
+      ],
+      "label": [
+        "<B>Belgian</B> horse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_horse"
+      ]
+    },
+    {
+      "score": [
+        "1808.0952"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kisangani"
+      ],
+      "redirectlabel": [
+        "Stanley Falls station",
+        "Stanleystad",
+        "Stanleyville, <B>Belgian</B> Congo"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Kisangani  (formerly Stanleyville or Stanleystad) is the capital of Tshopo province in the Democratic Republic of the Congo. It is the third largest urbanized city in the country and the largest of the cities that lie in the tropical woodlands of the Congo."
+      ],
+      "label": [
+        "Kisangani"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kisangani"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1883_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:Communities_on_the_Congo_River",
+        "http://dbpedia.org/resource/Category:Kisangani",
+        "http://dbpedia.org/resource/Category:Lualaba_River",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1883"
+      ]
+    },
+    {
+      "score": [
+        "1764.8839"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Monarchy_of_Belgium"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Royal Family",
+        "<B>Belgian</B> king",
+        "<B>Belgian</B> monarch",
+        "<B>Belgian</B> monarchy",
+        "<B>Belgian</B> royal family",
+        "Head of state of <B>Belgium</B>",
+        "House of <B>Belgium</B>",
+        "King of <B>Belgians</B>",
+        "King of <B>Belgium</B>",
+        "King of <B>belgium</B>",
+        "King of the <B>Belgians</B>",
+        "Monarch of <B>Belgium</B>",
+        "Monarchy in <B>Belgium</B>",
+        "Prince of <B>Belgium</B>",
+        "Royal family of <B>Belgium</B>",
+        "Royal family of <B>belgium</B>",
+        "The <B>Belgian</B> Monarchy",
+        "Throne of <B>Belgium</B>"
+      ],
+      "comment": [
+        " been seven <B>Belgian</B> monarchs since independence in 1830. The incumbent, Philippe, ascended the throne"
+      ],
+      "label": [
+        "Monarchy of <B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Monarchy_of_Belgium"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_monarchy",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "1760.4222"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dive_(Belgian_band)"
+      ],
+      "redirectlabel": [
+        "Behind the Sun (Dive album)",
+        "Bloodmoney (Dive song)",
+        "Box (Dive album)",
+        "Broken Meat",
+        "Concrete Jungle (Dive album)",
+        "Dark Room (song)",
+        "Dive (Dive album)",
+        "Extended Play (Dive EP)",
+        "Final Report",
+        "First Album (Dive)",
+        "First Album (Dive album)",
+        "Grinding Walls",
+        "Growing Deep Inside",
+        "Images (Dive EP)",
+        "Images (EP)",
+        "Inside Out (Dive album)",
+        "Lies In Your Eyes",
+        "Lies in Your Eyes",
+        "Live Action (Dive album)",
+        "Live Action (album)",
+        "No Pain, No Game",
+        "No Pain - No Game",
+        "No Pain - No Game and Reported",
+        "No Pain – No Game",
+        "No Pain – No Game and Reported",
+        "Obsession (Dive EP)",
+        "Reported",
+        "Scraping Tokyo '95",
+        "Sidewalk Sinner",
+        "Snakedressed",
+        "True Lies (album)",
+        "Two Faced Man"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Dive is a <B>Belgian</B> electronic dance music project formed in 1990 by Dirk Ivens (Absolute Body"
+      ],
+      "label": [
+        "Dive (<B>Belgian</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dive_(Belgian_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_industrial_music_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1990"
+      ]
+    },
+    {
+      "score": [
+        "1737.3573"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007–2011_Belgian_political_crisis"
+      ],
+      "redirectlabel": [
+        "2007-11 <B>Belgian</B> political crisis",
+        "2007-2008 <B>Belgian</B> political crisis",
+        "2007-2010 <B>Belgian</B> political crisis",
+        "2007-2011 <B>Belgian</B> political crisis",
+        "2007–11 <B>Belgian</B> political crisis",
+        "2007–2008 <B>Belgian</B> political crisis",
+        "2007–2010 <B>Belgian</B> political crisis",
+        "<B>Belgian</B> political crisis"
+      ],
+      "label": [
+        "2007–2011 <B>Belgian</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007–2011_Belgian_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_in_Belgium",
+        "http://dbpedia.org/resource/Category:2007_in_politics",
+        "http://dbpedia.org/resource/Category:2008_in_Belgium",
+        "http://dbpedia.org/resource/Category:2008_in_politics",
+        "http://dbpedia.org/resource/Category:2009_in_Belgium",
+        "http://dbpedia.org/resource/Category:2010_in_Belgium",
+        "http://dbpedia.org/resource/Category:2011_in_Belgium",
+        "http://dbpedia.org/resource/Category:Government_crises",
+        "http://dbpedia.org/resource/Category:Political_history_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1731.843"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Third_Division"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Third Division Playoff",
+        "<B>Belgian</B> Third Division play-off",
+        "<B>Belgie</B> Derde Klasse",
+        "<B>België</B> Derde Klasse"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Third Division (Dutch: Derde klasse, French: Division III) was the third highest level"
+      ],
+      "label": [
+        "<B>Belgian</B> Third Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Third_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1926_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:2016_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Third_Division",
+        "http://dbpedia.org/resource/Category:Defunct_third_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1706.6044"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Belgian_monarchs"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> kings",
+        "<B>Belgian</B> monarchs",
+        "King Leopold of <B>Belgium</B>",
+        "King Leopold of the <B>Belgians</B>",
+        "Kings of <B>Belgium</B>",
+        "Kings of the <B>Belgians</B>",
+        "Leopold of <B>Belgium</B>",
+        "Leopold of the <B>Belgians</B>",
+        "List of kings of <B>Belgium</B>",
+        "List of kings of the <B>Belgians</B>",
+        "List of monarchs of <B>Belgium</B>",
+        "Monarchs of <B>Belgium</B>"
+      ],
+      "comment": [
+        " 1830. Under the <B>Belgian</B> Constitution, the <B>Belgian</B> monarch is styled \"King of the <B>Belgians</B>\" (French"
+      ],
+      "label": [
+        "List of <B>Belgian</B> monarchs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Belgian_monarchs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgium_history-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_Belgian_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "1694.9016"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Second_Division"
+      ],
+      "redirectlabel": [
+        "Belgacom League",
+        "<B>Belgian</B> second division",
+        "<B>Belgie</B> Tweede klasse",
+        "<B>België</B> Tweede klasse",
+        "EXQI League",
+        "Proximus League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Second Division (known as the Proximus League for sponsorship reasons) was the second"
+      ],
+      "label": [
+        "<B>Belgian</B> Second Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Second_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1909_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:2016_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Second_Division",
+        "http://dbpedia.org/resource/Category:Defunct_second_level_football_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1909"
+      ]
+    },
+    {
+      "score": [
+        "1684.4408"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–2019_Belgian_football_fraud_scandal"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Belgian</B> football fraud investigation",
+        "2017-18 <B>Belgian</B> football fraud scandal",
+        "2017-19 <B>Belgian</B> football fraud scandal",
+        "2017-2018 <B>Belgian</B> Football Fraud Investigation",
+        "2017-2018 <B>Belgian</B> football fraud investigation",
+        "2017-2019 <B>Belgian</B> football fraud scandal",
+        "2017–18 <B>Belgian</B> football fraud investigation",
+        "2017–18 <B>Belgian</B> football fraud scandal",
+        "2017–19 <B>Belgian</B> football fraud scandal",
+        "2017–2018 <B>Belgian</B> football fraud investigation"
+      ],
+      "label": [
+        "2017–2019 <B>Belgian</B> football fraud scandal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–2019_Belgian_football_fraud_scandal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_crimes_in_Belgium",
+        "http://dbpedia.org/resource/Category:2017_scandals",
+        "http://dbpedia.org/resource/Category:2017–18_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2018_crimes_in_Belgium",
+        "http://dbpedia.org/resource/Category:2018_scandals",
+        "http://dbpedia.org/resource/Category:2018–19_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2019_crimes_in_Belgium",
+        "http://dbpedia.org/resource/Category:2019_scandals",
+        "http://dbpedia.org/resource/Category:Association_football_controversies",
+        "http://dbpedia.org/resource/Category:Controversies_in_Belgium",
+        "http://dbpedia.org/resource/Category:Corruption_in_Belgium",
+        "http://dbpedia.org/resource/Category:Corruption_in_Europe",
+        "http://dbpedia.org/resource/Category:Football_in_Belgium",
+        "http://dbpedia.org/resource/Category:Sports_scandals_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1680.3495"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Belgian_federal_election"
+      ],
+      "redirectlabel": [
+        "2007 <B>Belgian</B> general election",
+        "<B>Belgian</B> elections 2007",
+        "<B>Belgian</B> federal election, 2007",
+        "<B>Belgian</B> federal elections of 2007",
+        "<B>Belgian</B> general election, 2007",
+        "<B>Belgian</B> general election 2007",
+        "<B>Belgian</B> general election of 2007"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2007 <B>Belgian</B> federal election took place on Sunday 10 June 2007. Voters went to the polls in"
+      ],
+      "label": [
+        "2007 <B>Belgian</B> federal election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Belgian_federal_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_Belgium",
+        "http://dbpedia.org/resource/Category:Federal_elections_in_Belgium",
+        "http://dbpedia.org/resource/Category:June_2007_events_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1677.6265"
+      ],
+      "refCount": [
+        "1018"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Ubanghi",
+        "Big Congo",
+        "CKN",
+        "Citizenship of the Democratic Republic of Congo",
+        "Congo, Dem. Rep.",
+        "Congo, Democratic Republic",
+        "Congo, Democratic Republic Of The",
+        "Congo, Democratic Republic of",
+        "Congo, Democratic Republic of the",
+        "Congo, The Democratic Republic of the",
+        "Congo, democratic republic of the",
+        "Congo, the Democratic Republic of the",
+        "Congo-K",
+        "Congo-Kinsasha",
+        "Congo-Kinshasa",
+        "Congo-Kinshasha",
+        "Congo-Zaire",
+        "Congo (DRC)",
+        "Congo (Democratic Rep)",
+        "Congo (Democratic Republic)",
+        "Congo (Democratic Republic of)",
+        "Congo (Democratic Republic of the)",
+        "Congo (Kinshasa)",
+        "Congo (the Democratic Republic of the)",
+        "Congo - Kinshasa",
+        "Congo DR",
+        "Congo Democratic Republic",
+        "Congo Kinshasa",
+        "Congo–Kinshasa",
+        "D.R. Congo",
+        "D. R. Congo",
+        "D. republic of the congo",
+        "D.r.congo",
+        "DRC",
+        "DRC Congo",
+        "DRC government",
+        "DROC",
+        "DROTC",
+        "DR Congo",
+        "DR of the Congo",
+        "DRoC",
+        "DRoTC",
+        "DRotC",
+        "Dem. Rep. of Congo",
+        "Dem. Rep. of the Congo",
+        "Dem. rep. congo",
+        "Dem Rep of Congo",
+        "Dem Rep of the Congo",
+        "Dem rep congo",
+        "Democractic Republic of the Congo",
+        "Democratic Congo",
+        "Democratic Republic Of The Congo",
+        "Democratic Republic of Congo",
+        "Democratic Republic of Congo (formerly Zaire)",
+        "Democratic rep of Congo",
+        "Democratic republic of Congo",
+        "Democratic republic of congo",
+        "Democratic republic of the congo",
+        "Description of Democratic Republic of Congo",
+        "Ditunga dia Kongu wa Mungalaata",
+        "Dr congo",
+        "Drc",
+        "Eastern Democratic Republic of Congo",
+        "Flora and fauna of the Democratic Republic of the Congo",
+        "ISO 3166-1:CD",
+        "Jamhuri ya Kidemokrasia ya Kongo",
+        "Poaching in the Democratic Republic of the Congo",
+        "RD Congo",
+        "Rep. Dem. du Congo",
+        "Repubilika ya Kôngo ya Dimokalasi",
+        "Republique Democratique du Congo",
+        "Republique democratique du Congo",
+        "Republíki ya Kongó Demokratíki",
+        "Rép. Dém. du Congo",
+        "République Démocratique du Congo",
+        "République démocratique du Congo",
+        "Sport in the Democratic Republic of the Congo",
+        "The DRC",
+        "The DR Congo",
+        "The Democratic Republic of Congo",
+        "The Democratic Republic of the Congo",
+        "The democratic republic of congo",
+        "Ubanghi, <B>Belgian</B>",
+        "Violence against women in the Democratic Republic of the Congo"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Democratic Republic of the Congo ( French: République démocratique du Congo [kɔ̃ɡo]), also known as DR Congo, the DRC, DROC, Congo-Kinshasa, or simply the Congo, is a country located in Central Africa. It was formerly called Zaire (1971–1997). It is, by area, the largest country in sub-Saharan Africa, the second-largest in all of Africa (after Algeria), and the 11th-largest in the world. With a population of over 84 million, the Democratic Republic of the Congo is the most populous officially Francophone country, the fourth-most-populous country in Africa, and the 16th-most-populous country in the world. Eastern DR Congo has been the scene of ongoing military conflict in Kivu, since 2015."
+      ],
+      "label": [
+        "Democratic Republic of the Congo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960_establishments_in_the_Republic_of_the_Congo_(Léopoldville)",
+        "http://dbpedia.org/resource/Category:Central_African_countries",
+        "http://dbpedia.org/resource/Category:Countries_in_Africa",
+        "http://dbpedia.org/resource/Category:Democratic_Republic_of_the_Congo",
+        "http://dbpedia.org/resource/Category:French-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Least_developed_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_African_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_internationale_de_la_Francophonie",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1960"
+      ]
+    },
+    {
+      "score": [
+        "1659.5966"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Provincial_Leagues"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Provincial leagues",
+        "<B>Belgian</B> provincial leagues"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Provincial leagues are the lower leagues for <B>Belgian</B> football. Until 2016, these were"
+      ],
+      "label": [
+        "<B>Belgian</B> Provincial Leagues"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Provincial_Leagues"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Belgium",
+        "http://dbpedia.org/resource/Category:Sixth_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1654.6791"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Ladies_Open"
+      ],
+      "redirectlabel": [
+        "BMW European Masters",
+        "<B>Belgian</B> Godiva Open",
+        "<B>Belgian</B> Ladies Godiva Open",
+        "Godiva European Masters",
+        "Godiva Ladies European Masters",
+        "Ladies European Masters",
+        "Mithra <B>Belgian</B> Ladies Open",
+        "The Mithra <B>Belgian</B> Ladies Open"
+      ],
+      "label": [
+        "<B>Belgian</B> Ladies Open"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Ladies_Open"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Ladies_European_Tour_events",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1985"
+      ]
+    },
+    {
+      "score": [
+        "1626.0045"
+      ],
+      "refCount": [
+        "528"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Club_Atlético_Belgrano"
+      ],
+      "redirectlabel": [
+        "2019-20 Club Atlético <B>Belgrano</B> season",
+        "2019–20 Club Atlético <B>Belgrano</B> season",
+        "<B>Belgrano</B> (C)",
+        "<B>Belgrano</B> Córdoba",
+        "<B>Belgrano</B> de Cordoba",
+        "<B>Belgrano</B> de Córdoba",
+        "CA <B>Belgrano</B>",
+        "Club Atletico <B>Belgrano</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Club Atlético <B>Belgrano</B> (Spanish pronunciation: [ˈkluβ aˈtletiko βelˈɣɾano]; mostly known simply as"
+      ],
+      "label": [
+        "Club Atlético <B>Belgrano</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Club_Atlético_Belgrano"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1905_establishments_in_Argentina",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1905",
+        "http://dbpedia.org/resource/Category:Club_Atlético_Belgrano",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Córdoba_Province,_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "1623.644"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Belgian_Cycling_League"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Cycling Association",
+        "<B>Belgian</B> Cycling Federation",
+        "KBWB-RLVB",
+        "KBWB/RLVB",
+        "Koninklijke Belgische Wielrijdersbond",
+        "Ligue Velocipédique Belge",
+        "RLVB",
+        "Royal <B>Belgian</B> Cycling Federation",
+        "Royale Ligue Velocipedique Belge"
+      ],
+      "comment": [
+        "The Royal <B>Belgian</B> Cycling League or KBWB/RLVB (in Dutch: Koninklijke Belgische Wielrijdersbond, in"
+      ],
+      "label": [
+        "Royal <B>Belgian</B> Cycling League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Belgian_Cycling_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1882_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Cycle_racing_in_Belgium",
+        "http://dbpedia.org/resource/Category:Cycle_racing_organizations",
+        "http://dbpedia.org/resource/Category:National_members_of_the_European_Cycling_Union",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Belgium_with_royal_patronage",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Belgium",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1882"
+      ]
+    },
+    {
+      "score": [
+        "1591.4113"
+      ],
+      "refCount": [
+        "79"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pro_Basketball_League"
+      ],
+      "redirectlabel": [
+        "BLB Division I",
+        "Basketball League <B>Belgium</B> Division I",
+        "<B>Belgian</B> Basketball League",
+        "Ethias League",
+        "EuroMillions Basketball League",
+        "Ligue Ethias",
+        "Scooore League",
+        "Semailles B.C."
+      ],
+      "comment": [
+        " League, is the highest tier level professional basketball league in <B>Belgium</B> for clubs. Through 2014, for"
+      ],
+      "label": [
+        "Pro Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pro_Basketball_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_League_Belgium_Division_I",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Belgium",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Pro_Basketball_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1590.8069"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_identity_card"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> eID",
+        "<B>Belgian</B> national identification card",
+        "<B>Belgian</B> national identity card",
+        "Identity card (<B>Belgium</B>)",
+        "Identity documents in <B>Belgium</B>",
+        "National identification card (<B>Belgium</B>)",
+        "National identity cards in <B>Belgium</B>"
+      ],
+      "label": [
+        "<B>Belgian</B> identity card"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_identity_card"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Belgium",
+        "http://dbpedia.org/resource/Category:National_identity_cards_by_country",
+        "http://dbpedia.org/resource/Category:Society_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1586.2626"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Belgian_First_Division_A"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Belgian</B> First Division A"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2019–20 <B>Belgian</B> First Division A is the 117th season of top-tier football in <B>Belgium</B>."
+      ],
+      "label": [
+        "2019–20 <B>Belgian</B> First Division A"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Belgian_First_Division_A"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2019–20_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Association_football_events_curtailed_due_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1581.9727"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Federation_of_Belgian_Enterprises"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Federation of Enterprises",
+        "Federation des Entreprises de Belgique",
+        "Federation of <B>Belgian</B> Companies",
+        "Federation of Enterprises in <B>Belgium</B>",
+        "Federation of Enterprises of <B>Belgium</B>",
+        "Federation of <B>belgian</B> enterprises",
+        "Fédération des Entreprises de Belgique",
+        "La Fédération des Entreprises de Belgique",
+        "The Federation of Enterprises in <B>Belgium</B>",
+        "Trade Federation of Enterprises in <B>Belgium</B>",
+        "Verbond van Belgische Ondernemingen"
+      ],
+      "comment": [
+        " representing companies in all three regions of <B>Belgium</B>. Its members, the different <B>Belgian</B> sectorial employers"
+      ],
+      "label": [
+        "Federation of <B>Belgian</B> Enterprises"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Federation_of_Belgian_Enterprises"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Belgium",
+        "http://dbpedia.org/resource/Category:Employers'_organizations",
+        "http://dbpedia.org/resource/Category:Labour_in_Belgium",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1973",
+        "http://dbpedia.org/resource/Category:Trade_associations_based_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1581.5895"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Belgian_First_Amateur_Division"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Belgian</B> First Amateur Division"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Belgian</B> First Amateur Division was the third season of the third-tier football league"
+      ],
+      "label": [
+        "2018–19 <B>Belgian</B> First Amateur Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Belgian_First_Amateur_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_third_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_National_Division_1"
+      ]
+    },
+    {
+      "score": [
+        "1573.632"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Division_3"
+      ],
+      "redirectlabel": [
+        "2020-21 <B>Belgian</B> Third Amateur Division",
+        "2020–21 <B>Belgian</B> Third Amateur Division",
+        "2022-23 <B>Belgian</B> Division 3",
+        "2022–23 <B>Belgian</B> Division 3",
+        "<B>Belgian</B> National Division 3",
+        "<B>Belgian</B> Third Amateur Division"
+      ],
+      "label": [
+        "<B>Belgian</B> Division 3"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Division_3"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Third_Amateur_Division",
+        "http://dbpedia.org/resource/Category:Fifth_level_football_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Belgium",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2016"
+      ]
+    },
+    {
+      "score": [
+        "1552.6484"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Flemish_Region"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Flanders",
+        "Flemish Region (<B>Belgium</B>)",
+        "Flemish region",
+        "Région flamande",
+        "The Flemish Region",
+        "Vlaams Gewest",
+        "Vlaamse Gewest",
+        "Vlaamse Gewest (<B>Belgium</B>)"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " of the three regions of the Kingdom of <B>Belgium</B>—alongside the Walloon Region and the Brussels"
+      ],
+      "label": [
+        "Flemish Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Flemish_Region"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Belgium",
+        "http://dbpedia.org/resource/Category:NUTS_1_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Politics_of_Flanders",
+        "http://dbpedia.org/resource/Category:Regions_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1540.5896"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008–2009_Belgian_financial_crisis"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Belgian</B> financial crisis",
+        "2008-2009 <B>Belgian</B> financial crisis",
+        "2008 <B>Belgian</B> financial crisis",
+        "2008–09 <B>Belgian</B> financial crisis",
+        "<B>Belgian</B> financial crisis (2008-2009)",
+        "<B>Belgian</B> financial crisis (2008–2009)",
+        "Great Recession in <B>Belgium</B>"
+      ],
+      "label": [
+        "2008–2009 <B>Belgian</B> financial crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008–2009_Belgian_financial_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_in_Belgium",
+        "http://dbpedia.org/resource/Category:2008_in_economics",
+        "http://dbpedia.org/resource/Category:2009_in_Belgium",
+        "http://dbpedia.org/resource/Category:2009_in_economics",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Belgium",
+        "http://dbpedia.org/resource/Category:Financial_crises",
+        "http://dbpedia.org/resource/Category:Great_Recession_in_Europe",
+        "http://dbpedia.org/resource/Category:Stock_market_crashes"
+      ]
+    },
+    {
+      "score": [
+        "1526.0702"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009–10_Belgian_Pro_League"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Belgian</B> First Division",
+        "2009-10 <B>Belgian</B> Pro League",
+        "2009–10 <B>Belgian</B> First Division",
+        "<B>Belgian</B> First Division 2009-10",
+        "<B>Belgian</B> First Division 2009–10",
+        "<B>Belgian</B> Pro League 2009-10",
+        "Jupiler League 2009-10"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2009–10 season of the <B>Belgian</B> Pro League (also known as Jupiler Pro League for sponsorship"
+      ],
+      "label": [
+        "2009–10 <B>Belgian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009–10_Belgian_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009–10_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2009–10_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1515.0277"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_official_journal"
+      ],
+      "redirectlabel": [
+        "Belg. Off. J.",
+        "Belg. Staatsbl.",
+        "Belg Off J",
+        "Belg Staatsbl",
+        "<B>Belgian</B> Official Journal",
+        "Belgisch Staatsblad",
+        "Belgisches Staatsblatt",
+        "Het Belgisch Staatsblad",
+        "Le Moniteur Belge",
+        "Monit. Belge",
+        "Monit Belge",
+        "Moniteur Belge",
+        "Staatsblad"
+      ],
+      "comment": [
+        "The <B>Belgian</B> official journal (Dutch: Belgisch Staatsblad, French: Moniteur Belge, German"
+      ],
+      "label": [
+        "<B>Belgian</B> official journal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_official_journal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Government_gazettes",
+        "http://dbpedia.org/resource/Category:Government_of_Belgium",
+        "http://dbpedia.org/resource/Category:Law_of_Belgium",
+        "http://dbpedia.org/resource/Category:Publications_established_in_1831"
+      ]
+    },
+    {
+      "score": [
+        "1508.0344"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Communities,_regions,_and_language_areas_of_Belgium"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of <B>Belgium</B>",
+        "Administrative subdivisions of <B>Belgium</B>",
+        "<B>Belgian</B> communities",
+        "<B>Belgian</B> community",
+        "<B>Belgian</B> federal regions",
+        "<B>Belgian</B> linguistic regions",
+        "<B>Belgian</B> region",
+        "<B>Belgian</B> regions, communities and provinces",
+        "<B>Belgian</B> regions",
+        "<B>Belgium</B> communities",
+        "<B>Belgium</B> community",
+        "<B>Belgium</B> region",
+        "<B>Belgium</B> regions",
+        "Communities, Regions and provinces of <B>Belgium</B>",
+        "Communities, regions & language areas of <B>Belgium</B>",
+        "Communities, regions and language areas in <B>Belgium</B>",
+        "Communities, regions and language areas of <B>Belgium</B>",
+        "Communities, regions and linguistic regions of <B>Belgium</B>",
+        "Communities, regions and provinces of <B>Belgium</B>",
+        "Communities, regions of <B>Belgium</B>",
+        "Communities and Regions of <B>Belgium</B>",
+        "Communities and regions of <B>Belgium</B>",
+        "Communities of <B>Belgium</B>",
+        "Constituent communities of <B>Belgium</B>",
+        "Constituent entities of <B>Belgium</B>",
+        "Constituent peoples of <B>Belgium</B>",
+        "Constituent regions of <B>Belgium</B>",
+        "Dutch Language Area",
+        "Dutch language area",
+        "Federal regions of <B>Belgium</B>",
+        "Geographical subdivisions of <B>Belgium</B>",
+        "Language areas",
+        "Language areas of <B>Belgium</B>",
+        "Linguistic regions of <B>Belgium</B>",
+        "List of regions of <B>Belgium</B>",
+        "Political subdivisions of <B>Belgium</B>",
+        "Regionalisation of <B>Belgium</B>",
+        "Regions and Communities of <B>Belgium</B>",
+        "Regions and communities of <B>Belgium</B>",
+        "Regions of <B>Belgium</B>",
+        "Subdivisions of <B>Belgium</B>",
+        "Subnational entities of <B>Belgium</B>"
+      ],
+      "label": [
+        "Communities, regions, and language areas of <B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Communities,_regions,_and_language_areas_of_Belgium"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:Belgium_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Languages_of_Belgium",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Belgium",
+        "http://dbpedia.org/resource/Category:Regions_of_Belgium",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1500.9292"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Canadian",
+        "<B>Belgians</B> in Canada",
+        "Belgo-Canadian",
+        "Canadians of Flemish ancestry",
+        "Canadians of flemish ancestry",
+        "Flemish-Canadian",
+        "Flemish Canadian",
+        "Flemish Canadians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Belgian</B> Canadians (French: Canadiens belges) are Canadian citizens of <B>Belgian</B> ancestry or <B>Belgium</B>"
+      ],
+      "label": [
+        "<B>Belgian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_Canadian",
+        "http://dbpedia.org/resource/Category:Belgian_diaspora",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Belgian_descent",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Flemish_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:European_Canadian"
+      ]
+    },
+    {
+      "score": [
+        "1499.0425"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Futsal_Division_1"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Division 1",
+        "<B>Belgium</B> Division 1",
+        "<B>Belgium</B> Futsal League",
+        "URBSFA League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " which is played under UEFA rules, currently consists of 14 teams. Organized by Royal <B>Belgian</B> Football Association."
+      ],
+      "label": [
+        "<B>Belgian</B> Futsal Division 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Futsal_Division_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Belgium",
+        "http://dbpedia.org/resource/Category:Futsal_competitions_in_Belgium",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1968",
+        "http://dbpedia.org/resource/Category:Top_level_futsal_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1491.2992"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chamber_of_Representatives_(Belgium)"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Chamber",
+        "<B>Belgian</B> Chamber of Deputies",
+        "<B>Belgian</B> Chamber of People's Representatives",
+        "<B>Belgian</B> Chamber of Representatives",
+        "<B>Belgian</B> House of Representatives",
+        "<B>Belgian</B> MP",
+        "<B>Belgian</B> chamber of representatives",
+        "Chamber of Representatives of <B>Belgium</B>",
+        "Chambre des Representants de Belgique",
+        "Chambre des Représentants de Belgique",
+        "Kamer van Volksvertegenwoordigers",
+        "Kamer van Volksvertegenwoordigers van <B>Belgie</B>",
+        "Kamer van Volksvertegenwoordigers van <B>België</B>",
+        "List of <B>Belgian</B> Representatives",
+        "Member of the <B>Belgian</B> Chamber of Representatives"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        ": Abgeordnetenkammer) is one of the two chambers in the bicameral Federal Parliament of <B>Belgium</B>, the other being the"
+      ],
+      "label": [
+        "Chamber of Representatives (<B>Belgium</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chamber_of_Representatives_(Belgium)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Chamber_of_Representatives_(Belgium)",
+        "http://dbpedia.org/resource/Category:National_lower_houses"
+      ]
+    },
+    {
+      "score": [
+        "1477.6968"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Federal_Government_of_Belgium"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Cabinet",
+        "<B>Belgian</B> Federal Government",
+        "<B>Belgian</B> Federal government",
+        "<B>Belgian</B> Government",
+        "<B>Belgian</B> cabinet",
+        "<B>Belgian</B> federal government",
+        "<B>Belgian</B> government",
+        "Cabinet of the <B>Belgium</B>",
+        "Federal <B>Belgian</B> government",
+        "Federal Public Service",
+        "Federal Public Services",
+        "Federal government of <B>Belgium</B>",
+        "Government of <B>Belgium</B>",
+        "Research Institute for Nature and Forest"
+      ],
+      "comment": [
+        "The Federal Government of <B>Belgium</B> (Dutch: Federale regering, French: Gouvernement fédéral, German"
+      ],
+      "label": [
+        "Federal Government of <B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Federal_Government_of_Belgium"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_governments",
+        "http://dbpedia.org/resource/Category:European_governments",
+        "http://dbpedia.org/resource/Category:Federal_departments_and_agencies_of_Belgium",
+        "http://dbpedia.org/resource/Category:Government_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1476.2496"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/The_Belgian"
+      ],
+      "redirectlabel": [
+        "The <B>Belgian</B> (1917 film)",
+        "The <B>Belgian</B> (1918 film)",
+        "The <B>Belgian</B> (film 1917)",
+        "The <B>Belgian</B> (film 1918)"
+      ],
+      "typeName": [
+        "Film",
+        "Work"
+      ],
+      "comment": [
+        "The <B>Belgian</B> is a 1917 American silent film directed by Sidney Olcott and produced by Sidney Olcott"
+      ],
+      "label": [
+        "The <B>Belgian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/The_Belgian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Film",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_American_films",
+        "http://dbpedia.org/resource/Category:1918_films",
+        "http://dbpedia.org/resource/Category:American_black-and-white_films",
+        "http://dbpedia.org/resource/Category:American_silent_feature_films"
+      ]
+    },
+    {
+      "score": [
+        "1475.9795"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mousa_Dembélé_(Belgian_footballer)"
+      ],
+      "redirectlabel": [
+        "Mousa Dembélé (footballer, born 1987)",
+        "Mousa Dembélé (footballer born 1987)",
+        "Mousa Sidi Yaya Dembélé",
+        "Moussa Dembélé (<B>Belgian</B> footballer)",
+        "Moussa Dembélé (footballer, born 1987)",
+        "Moussa Dembélé (footballer born 1987)",
+        "Moussa Sidi Yaya Dembélé"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Moussa Sidi Yaya Dembélé (born 16 July 1987) is a <B>Belgian</B> professional footballer who plays as a"
+      ],
+      "label": [
+        "Mousa Dembélé (<B>Belgian</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mousa_Dembélé_(Belgian_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_births",
+        "http://dbpedia.org/resource/Category:2014_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:2018_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:AZ_Alkmaar_players",
+        "http://dbpedia.org/resource/Category:Association_football_midfielders",
+        "http://dbpedia.org/resource/Category:Beerschot_A.C._players",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_players",
+        "http://dbpedia.org/resource/Category:Belgian_Muslims",
+        "http://dbpedia.org/resource/Category:Belgian_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Belgian_expatriate_sportspeople_in_China",
+        "http://dbpedia.org/resource/Category:Belgian_expatriate_sportspeople_in_England",
+        "http://dbpedia.org/resource/Category:Belgian_expatriate_sportspeople_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Belgian_footballers",
+        "http://dbpedia.org/resource/Category:Belgian_people_of_Malian_descent",
+        "http://dbpedia.org/resource/Category:Belgian_sportspeople_of_African_descent",
+        "http://dbpedia.org/resource/Category:Belgium_international_footballers",
+        "http://dbpedia.org/resource/Category:Belgium_youth_international_footballers",
+        "http://dbpedia.org/resource/Category:Black_Belgian_sportspeople",
+        "http://dbpedia.org/resource/Category:Chinese_Super_League_players",
+        "http://dbpedia.org/resource/Category:Eredivisie_players",
+        "http://dbpedia.org/resource/Category:European_sportspeople_of_Malian_descent",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_China",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_England",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Flemish_sportspeople",
+        "http://dbpedia.org/resource/Category:Footballers_at_the_2008_Summer_Olympics",
+        "http://dbpedia.org/resource/Category:Footballers_from_Antwerp",
+        "http://dbpedia.org/resource/Category:Fulham_F.C._players",
+        "http://dbpedia.org/resource/Category:Guangzhou_City_F.C._players",
+        "http://dbpedia.org/resource/Category:K._Berchem_Sport_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Olympic_footballers_of_Belgium",
+        "http://dbpedia.org/resource/Category:People_from_Wilrijk",
+        "http://dbpedia.org/resource/Category:Premier_League_players",
+        "http://dbpedia.org/resource/Category:Tottenham_Hotspur_F.C._players",
+        "http://dbpedia.org/resource/Category:UEFA_Euro_2016_players",
+        "http://dbpedia.org/resource/Category:Willem_II_(football_club)_players"
+      ]
+    },
+    {
+      "score": [
+        "1473.8815"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provinces_of_Belgium"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> provinces",
+        "List of <B>Belgian</B> provinces",
+        "Province of <B>Belgium</B>",
+        "Provinces in <B>Belgium</B>",
+        "Provinces of Flanders",
+        "Provinces of <B>belgium</B>",
+        "Provinces of flanders",
+        "Provinces of regions in <B>Belgium</B>",
+        "Provinces of regions of <B>Belgium</B>",
+        "Provincieraad",
+        "Ranked lists of <B>Belgian</B> provinces",
+        "The 6 provincial areas of Flanders"
+      ],
+      "comment": [
+        " of a province itself. The division into provinces is fixed by Article 5 of the <B>Belgian</B> Constitution"
+      ],
+      "label": [
+        "Provinces of <B>Belgium</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provinces_of_Belgium"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Belgium",
+        "http://dbpedia.org/resource/Category:Local_government_in_Belgium",
+        "http://dbpedia.org/resource/Category:Provinces_of_Belgium",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1473.1289"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_chocolate"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> chocolates",
+        "BelgiumChocolate",
+        "<B>Belgium</B> Chocolate",
+        "<B>Belgium</B> chocolate",
+        "Belgiumchocolate"
+      ],
+      "comment": [
+        "<B>Belgian</B> chocolate (French: chocolat belge, Dutch: Belgische chocolade) is chocolate produced in"
+      ],
+      "label": [
+        "<B>Belgian</B> chocolate"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_chocolate"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_chocolate"
+      ]
+    },
+    {
+      "score": [
+        "1463.4979"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014_Belgian_federal_election"
+      ],
+      "redirectlabel": [
+        "2014 <B>Belgian</B> federal elections",
+        "2014 <B>Belgian</B> general election",
+        "<B>Belgian</B> federal election, 2014",
+        "<B>Belgian</B> general election, 2014",
+        "List of candidates in the <B>Belgian</B> federal election, 2014",
+        "List of candidates of the <B>Belgian</B> federal election, 2014"
+      ],
+      "comment": [
+        "Federal elections were held in <B>Belgium</B> on 25 May 2014. All 150 members of the Chamber of"
+      ],
+      "label": [
+        "2014 <B>Belgian</B> federal election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014_Belgian_federal_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_elections_in_Belgium",
+        "http://dbpedia.org/resource/Category:Federal_elections_in_Belgium",
+        "http://dbpedia.org/resource/Category:May_2014_events_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1445.9985"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007–2008_Belgian_government_formation"
+      ],
+      "redirectlabel": [
+        "2007-08 <B>Belgian</B> government formation",
+        "2007-2008 <B>Belgian</B> government formation",
+        "2007 <B>Belgian</B> Government Formation",
+        "2007 <B>Belgian</B> government formation",
+        "2007 <B>Belgium</B> government formation",
+        "2007–08 <B>Belgian</B> government formation"
+      ],
+      "label": [
+        "2007–2008 <B>Belgian</B> government formation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007–2008_Belgian_government_formation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_in_Belgium",
+        "http://dbpedia.org/resource/Category:2007_in_politics",
+        "http://dbpedia.org/resource/Category:2008_in_Belgium",
+        "http://dbpedia.org/resource/Category:2008_in_politics",
+        "http://dbpedia.org/resource/Category:Cabinet_formation",
+        "http://dbpedia.org/resource/Category:Government_of_Belgium",
+        "http://dbpedia.org/resource/Category:Political_history_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1442.0198"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–2011_Belgian_government_formation"
+      ],
+      "redirectlabel": [
+        "2010-11 <B>Belgian</B> government formation",
+        "2010-2011 <B>Belgian</B> cabinet formation",
+        "2010-2011 <B>Belgian</B> government formation",
+        "2010 <B>Belgian</B> government formation",
+        "2010–11 <B>Belgian</B> government formation",
+        "2010–2011 <B>Belgian</B> cabinet formation"
+      ],
+      "label": [
+        "2010–2011 <B>Belgian</B> government formation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–2011_Belgian_government_formation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_in_Belgium",
+        "http://dbpedia.org/resource/Category:2010_in_politics",
+        "http://dbpedia.org/resource/Category:2011_in_Belgium",
+        "http://dbpedia.org/resource/Category:2011_in_politics",
+        "http://dbpedia.org/resource/Category:Cabinet_formation",
+        "http://dbpedia.org/resource/Category:Government_of_Belgium",
+        "http://dbpedia.org/resource/Category:Political_history_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1437.2076"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Black_Belgians"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Belgian</B>",
+        "Afro-<B>Belgians</B>",
+        "Afro <B>Belgian</B>",
+        "<B>Belgian</B> Black people",
+        "<B>Belgian</B> black people",
+        "Black <B>Belgian</B>",
+        "Black <B>Belgian</B> people",
+        "Black people in <B>Belgium</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " defined as <B>Belgian</B> citizens and members of the Black African community and diaspora in <B>Belgium</B>."
+      ],
+      "label": [
+        "Black <B>Belgians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Black_Belgians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_diaspora_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1433.0942"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–15_Belgian_Pro_League"
+      ],
+      "redirectlabel": [
+        "2014-15 <B>Belgian</B> Pro League",
+        "<B>Belgian</B> Pro League 2014-15",
+        "<B>Belgian</B> Pro League 2014–15"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2014–15 season of the <B>Belgian</B> Pro League (known as the Jupiler Pro League for sponsorship"
+      ],
+      "label": [
+        "2014–15 <B>Belgian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–15_Belgian_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014–15_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2014–15_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1428.8442"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_coins_of_World_War_II"
+      ],
+      "redirectlabel": [
+        "10 centimes (World War II <B>Belgian</B> coin)",
+        "1944 <B>Belgian</B> 2 Franc coin",
+        "1 franc (World War II <B>Belgian</B> coin)",
+        "25 centimes (World War II <B>Belgian</B> coin)",
+        "2 francs (World War II <B>Belgian</B> coin)",
+        "5 centimes (World War II <B>Belgian</B> coin)",
+        "5 francs (World War II <B>Belgian</B> coin)"
+      ],
+      "comment": [
+        "During World War II, the <B>Belgian</B> government needed to mint coins using metal that would not be"
+      ],
+      "label": [
+        "<B>Belgian</B> coins of World War II"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_coins_of_World_War_II"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_coins_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Zinc_and_aluminum_coins_minted_in_Germany_and_occupied_territories_during_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "1421.8147"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Entertainment_Association"
+      ],
+      "redirectlabel": [
+        "BLISA",
+        "<B>Belgian</B> Luxembourg Interactive Software Association",
+        "<B>Belgian</B> Video Federation",
+        "<B>Belgium</B> Luxembourg Interactive Software Association",
+        "IFPI <B>Belgium</B>",
+        "International Federation of the Phonographic Industry <B>Belgium</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Entertainment Association (BEA) is the organization that represents the interests of"
+      ],
+      "label": [
+        "<B>Belgian</B> Entertainment Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Entertainment_Association"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Music_industry_associations",
+        "http://dbpedia.org/resource/Category:Music_organisations_based_in_Belgium",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_2008"
+      ]
+    },
+    {
+      "score": [
+        "1421.5483"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgium–United_States_relations"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B>-American relations",
+        "<B>Belgian</B>-United States relations",
+        "<B>Belgian</B>–United States relations",
+        "<B>Belgium</B>-U.S. relations",
+        "<B>Belgium</B>-US relations",
+        "<B>Belgium</B>-United States relations",
+        "<B>Belgium</B>-Untied States relations",
+        "<B>Belgium</B> - U.S. relations",
+        "<B>Belgium</B> - US relations",
+        "<B>Belgium</B> - United States relations",
+        "<B>Belgium</B> U.S. relations",
+        "<B>Belgium</B> US relations",
+        "<B>Belgium</B> United States relations",
+        "<B>Belgium</B> – U.S. relations",
+        "<B>Belgium</B> – US relations",
+        "<B>Belgium</B> – United States relations",
+        "<B>Belgium</B>–U.S. relations",
+        "<B>Belgium</B>–US relations",
+        "<B>Belgium</B>–Untied States relations",
+        "Embassy of <B>Belgium</B>, Washington, D.C.",
+        "Embassy of <B>Belgium</B> in Washington, D.C.",
+        "Embassy of <B>Belgium</B> in Washington, DC",
+        "Embassy of <B>Belgium</B> in Washington",
+        "History of <B>Belgium</B>-United States relations",
+        "History of <B>Belgium</B>–United States relations",
+        "U.S.-<B>Belgium</B> relations",
+        "U.S. - <B>Belgium</B> relations",
+        "U.S. <B>Belgium</B> relations",
+        "U.S.–<B>Belgium</B> relations",
+        "US-<B>Belgian</B> relations",
+        "US-<B>Belgium</B> relations",
+        "US - <B>Belgium</B> relations",
+        "US <B>Belgium</B> relations",
+        "US–<B>Belgian</B> relations",
+        "US–<B>Belgium</B> relations",
+        "United States-<B>Belgium</B> relations",
+        "United States - <B>Belgium</B> relations",
+        "United States <B>Belgium</B> relations",
+        "United States – <B>Belgium</B> relations",
+        "United States–<B>Belgium</B> relations"
+      ],
+      "comment": [
+        " cooperative U.S. and <B>Belgian</B> relations, 2007 marked the 175th anniversary of the nations"
+      ],
+      "label": [
+        "<B>Belgium</B>–United States relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgium–United_States_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgium–United_States_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Belgium",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1413.3593"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003–04_Belgian_First_Division"
+      ],
+      "redirectlabel": [
+        "2003-04 <B>Belgian</B> First Division",
+        "<B>Belgian</B> First Division 2003-04",
+        "<B>Belgian</B> First Division 2003–04",
+        "Jupiler League 2003-04",
+        "Jupiler League 2003–04"
+      ],
+      "comment": [
+        "The 2003–04 season of the <B>Belgian</B> First Division was held between 8 August 2003 and 15 May 2004. Sporting Anderlecht became champions on 24 April 2004."
+      ],
+      "label": [
+        "2003–04 <B>Belgian</B> First Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003–04_Belgian_First_Division"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003–04_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2003–04_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1409.5432"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Charles_Michel"
+      ],
+      "redirectlabel": [
+        "Charles Michel (<B>Belgian</B> politician)",
+        "Charles Michel (politician)",
+        "Michel, Charles"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Charles Michel (French pronunciation: ​[ʃaʁl miʃɛl]; born 21 December 1975) is a <B>Belgian</B> politician"
+      ],
+      "label": [
+        "Charles Michel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Charles_Michel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1975_births",
+        "http://dbpedia.org/resource/Category:21st-century_Belgian_politicians",
+        "http://dbpedia.org/resource/Category:Government_ministers_of_Belgium",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Mouvement_Réformateur_politicians",
+        "http://dbpedia.org/resource/Category:People_from_Namur_(city)",
+        "http://dbpedia.org/resource/Category:Presidents_of_the_European_Council",
+        "http://dbpedia.org/resource/Category:Prime_Ministers_of_Belgium",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Prince_Yaroslav_the_Wise,_1st_class",
+        "http://dbpedia.org/resource/Category:University_of_Amsterdam_alumni",
+        "http://dbpedia.org/resource/Category:Université_libre_de_Bruxelles_alumni",
+        "http://dbpedia.org/resource/Category:Walloon_politicians"
+      ]
+    },
+    {
+      "score": [
+        "1405.4164"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Belgian_language"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Belgian</B>",
+        "<B>Belgae</B> language",
+        "<B>Belgian</B> language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Ancient <B>Belgian</B> is a hypothetical extinct Indo-European language, spoken in <B>Belgica</B> (northern Gaul"
+      ],
+      "label": [
+        "Ancient <B>Belgian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Belgian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Extinct_languages_of_Europe",
+        "http://dbpedia.org/resource/Category:Linguistic_strata",
+        "http://dbpedia.org/resource/Category:Unclassified_Indo-European_languages"
+      ]
+    },
+    {
+      "score": [
+        "1404.6923"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Belgian_local_elections"
+      ],
+      "redirectlabel": [
+        "2006 <B>Belgian</B> municipal elections",
+        "2006 <B>Belgian</B> provincial and municipal elections",
+        "<B>Belgian</B> local elections, 2006",
+        "<B>Belgian</B> municipal elections, 2006",
+        "<B>Belgian</B> provincial and municipal elections, 2006"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> provincial, municipal and district elections of 2006 took place on Sunday 8 October"
+      ],
+      "label": [
+        "2006 <B>Belgian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Belgian_local_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_elections_in_Belgium",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Belgium",
+        "http://dbpedia.org/resource/Category:October_2006_events_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1399.9324"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006–07_Belgian_First_Division"
+      ],
+      "redirectlabel": [
+        "2006-07 <B>Belgian</B> First Division",
+        "2006-07 Jupiler League",
+        "<B>Belgian</B> First Division 2006-07",
+        "<B>Belgian</B> First Division 2006–07",
+        "Jupiler League 2006-07"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2006-07 season of the <B>Belgian</B> First Division <B>began</B> on July 28, 2006 and concluded on May 19"
+      ],
+      "label": [
+        "2006–07 <B>Belgian</B> First Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006–07_Belgian_First_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006–07_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2006–07_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1394.1345"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bande_dessinée"
+      ],
+      "redirectlabel": [
+        "Bande Dessinee",
+        "Bande Dessinée",
+        "Bande dessinee",
+        "Bande dessinée franco-belge",
+        "Bandes dessinees",
+        "Bandes dessinées",
+        "Comic album",
+        "Comic albums",
+        "Comics album",
+        "Comics albums",
+        "Franco-<B>Belgian</B> comic",
+        "Franco-<B>Belgian</B> comics",
+        "Franco-<B>Belgian</B> comics artists",
+        "Franco-<B>Belgian</B> comics scenarists",
+        "Franco-Belgische strip",
+        "French-<B>Belgian</B> comics",
+        "French <B>Belgian</B> comics",
+        "French comics",
+        "History of Franco-<B>Belgian</B> comics",
+        "Stripverhaal",
+        "Stripverhalen"
+      ],
+      "comment": [
+        " referred to as Franco-<B>Belgian</B> comics (BD franco-belge), are comics that are usually originally in the"
+      ],
+      "label": [
+        "Bande dessinée"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bande_dessinée"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bandes_dessinées",
+        "http://dbpedia.org/resource/Category:Belgian_culture",
+        "http://dbpedia.org/resource/Category:Belgian_literature",
+        "http://dbpedia.org/resource/Category:Comics_formats",
+        "http://dbpedia.org/resource/Category:French_culture",
+        "http://dbpedia.org/resource/Category:French_literature"
+      ]
+    },
+    {
+      "score": [
+        "1390.9015"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ruanda-Urundi"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Burundi",
+        "<B>Belgian</B> Rwanda",
+        "Burundi-Rwanda",
+        "History of Ruanda-Urundi",
+        "Rwanda-Burundi",
+        "Rwanda-Urundi"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " by the <B>Belgians</B> during the East African Campaign during World War I, the territory was under <B>Belgian</B>"
+      ],
+      "label": [
+        "Ruanda-Urundi"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ruanda-Urundi"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_Belgian_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Africa",
+        "http://dbpedia.org/resource/Category:League_of_Nations_mandates",
+        "http://dbpedia.org/resource/Category:Ruanda-Urundi",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1922",
+        "http://dbpedia.org/resource/Category:United_Nations_trust_territories"
+      ]
+    },
+    {
+      "score": [
+        "1388.9805"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Fourth_Division"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Promotion",
+        "<B>Belgie</B> Vierde klasse",
+        "<B>België</B> Vierde klasse"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Fourth Division was the lowest nationwide division in <B>Belgian</B> football. The division"
+      ],
+      "label": [
+        "<B>Belgian</B> Fourth Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Fourth_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1952_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:2016_disestablishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Belgian_Fourth_Division",
+        "http://dbpedia.org/resource/Category:Defunct_fourth_level_football_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1952"
+      ]
+    },
+    {
+      "score": [
+        "1386.3129"
+      ],
+      "refCount": [
+        "105"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Order_of_Leopold_(Belgium)"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Order of Leopold I",
+        "Commander of the Order of Leopold",
+        "Commandeur de l'Ordre de Leopold",
+        "Grand Cross of the Order of Leopold",
+        "Grand Cross of the Order of Léopold",
+        "Grand Officer of the Order of Leopold",
+        "Leopold's Order",
+        "Leopoldsorde",
+        "Order of King Leopold of <B>Belgium</B>",
+        "Order of Leopold I",
+        "Order of Léopold",
+        "Ordre de Léopold (<B>Belgium</B>)",
+        "Ridder in de Leopoldsorde"
+      ],
+      "comment": [
+        " of the three current <B>Belgian</B> national honorary orders of knighthood. It is the oldest and highest"
+      ],
+      "label": [
+        "Order of Leopold (<B>Belgium</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Order_of_Leopold_(Belgium)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1832_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1832",
+        "http://dbpedia.org/resource/Category:Military_awards_and_decorations_of_Belgium",
+        "http://dbpedia.org/resource/Category:Order_of_Leopold_(Belgium)",
+        "http://dbpedia.org/resource/Category:Orders,_decorations,_and_medals_of_Belgium",
+        "http://dbpedia.org/resource/Category:Orders_of_chivalry_awarded_to_heads_of_state,_consorts_and_sovereign_family_members",
+        "http://dbpedia.org/resource/Category:Orders_of_chivalry_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1380.4357"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/SS_Belgian_Sailor"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Sailor",
+        "Capitaine Biebuyck",
+        "Empire Drayton",
+        "IMO 5183223",
+        "Ivory Tellus",
+        "SS Capitaine Biebuyck",
+        "SS Empire Drayton",
+        "SS Ivory Tellus",
+        "SS Kastav"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "<B>Belgian</B> Sailor was a 7,028 GRT cargo ship that was built in 1941 as Empire Drayton by Swan, Hunter"
+      ],
+      "label": [
+        "SS <B>Belgian</B> Sailor"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/SS_Belgian_Sailor"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1941_ships",
+        "http://dbpedia.org/resource/Category:Cargo_ships_of_Yugoslavia",
+        "http://dbpedia.org/resource/Category:Empire_ships",
+        "http://dbpedia.org/resource/Category:Merchant_ships_of_Belgium",
+        "http://dbpedia.org/resource/Category:Merchant_ships_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Merchant_ships_of_Liberia",
+        "http://dbpedia.org/resource/Category:Ministry_of_War_Transport_ships",
+        "http://dbpedia.org/resource/Category:Ships_built_by_Swan_Hunter",
+        "http://dbpedia.org/resource/Category:Ships_built_on_the_River_Wear",
+        "http://dbpedia.org/resource/Category:Steamships_of_Belgium",
+        "http://dbpedia.org/resource/Category:Steamships_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Steamships_of_Liberia",
+        "http://dbpedia.org/resource/Category:Steamships_of_Yugoslavia",
+        "http://dbpedia.org/resource/Category:Steamships_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:World_War_II_merchant_ships_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1369.5696"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_nobility"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Nobility",
+        "<B>Belgian</B> noblewoman",
+        "Nobility of <B>Belgium</B>"
+      ],
+      "comment": [
+        "The <B>Belgian</B> nobility comprises individuals and (some members of) families recognized by the Kingdom"
+      ],
+      "label": [
+        "<B>Belgian</B> nobility"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_nobility"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Belgian_nobility"
+      ]
+    },
+    {
+      "score": [
+        "1366.751"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/SS_Belgian_Crew"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Crew",
+        "Capitaine Parlet",
+        "Empire Claymore",
+        "SS Ardenode",
+        "SS Capitaine Parlet",
+        "SS Empire Claymore",
+        "SS Tynlee",
+        "Tynlee"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "<B>Belgian</B> Crew was a 7,048 GRT cargo ship which was built in 1942 by Sir W G Armstrong, Whitworth"
+      ],
+      "label": [
+        "SS <B>Belgian</B> Crew"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/SS_Belgian_Crew"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1942_ships",
+        "http://dbpedia.org/resource/Category:Empire_ships",
+        "http://dbpedia.org/resource/Category:Merchant_ships_of_Belgium",
+        "http://dbpedia.org/resource/Category:Merchant_ships_of_Hong_Kong",
+        "http://dbpedia.org/resource/Category:Merchant_ships_of_Panama",
+        "http://dbpedia.org/resource/Category:Ministry_of_War_Transport_ships",
+        "http://dbpedia.org/resource/Category:Ships_built_on_the_River_Tyne",
+        "http://dbpedia.org/resource/Category:Steamships_of_Belgium",
+        "http://dbpedia.org/resource/Category:Steamships_of_Hong_Kong",
+        "http://dbpedia.org/resource/Category:Steamships_of_Panama",
+        "http://dbpedia.org/resource/Category:Steamships_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:World_War_II_merchant_ships_of_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1362.4719"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Bowl"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Bowl XXIX",
+        "<B>Belgian</B> Bowl XXVI",
+        "<B>Belgian</B> Bowl XXVIII"
+      ],
+      "comment": [
+        "In American football, the <B>Belgian</B> Bowl is the championship game of the <B>Belgian</B> Football League (BFL"
+      ],
+      "label": [
+        "<B>Belgian</B> Bowl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Bowl"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_establishments_in_Belgium",
+        "http://dbpedia.org/resource/Category:American_football_bowls_in_Europe",
+        "http://dbpedia.org/resource/Category:American_football_in_Belgium",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1987"
+      ]
+    },
+    {
+      "score": [
+        "1353.6349"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Belgian_Blue"
+      ],
+      "redirectlabel": [
+        "<B>Belgian</B> Blue Bull",
+        "<B>Belgian</B> blue cattle",
+        "<B>Belgium</B> Blue"
+      ],
+      "comment": [
+        "The <B>Belgian</B> Blue (French: 'Blanc-Bleu Belge', Dutch: 'Belgisch Witblauw') is a breed of beef cattle"
+      ],
+      "label": [
+        "<B>Belgian</B> Blue"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Belgian_Blue"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cattle_breeds",
+        "http://dbpedia.org/resource/Category:Cattle_breeds_originating_in_Belgium"
+      ]
+    },
+    {
+      "score": [
+        "1351.2621"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Belgian_First_Division_B"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Belgian</B> First Division B"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 season of the <B>Belgian</B> First Division B <B>began</B> in August 2018 and ended in April 2019. It"
+      ],
+      "label": [
+        "2018–19 <B>Belgian</B> First Division B"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Belgian_First_Division_B"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_second_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_B_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1345.1165"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–11_Belgian_Pro_League"
+      ],
+      "redirectlabel": [
+        "2010-11 <B>Belgian</B> First Division",
+        "2010-11 <B>Belgian</B> Pro League",
+        "2010–11 <B>Belgian</B> First Division",
+        "<B>Belgian</B> First Division 2010-11",
+        "<B>Belgian</B> First Division 2010–11"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2010–11 season of the <B>Belgian</B> Pro League (also known as Jupiler Pro League for sponsorship"
+      ],
+      "label": [
+        "2010–11 <B>Belgian</B> Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–11_Belgian_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010–11_in_Belgian_football",
+        "http://dbpedia.org/resource/Category:2010–11_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Belgian_First_Division_A_seasons"
+      ]
+    }
+  ]
+}

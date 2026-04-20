@@ -1,0 +1,4939 @@
+{
+  "docs": [
+    {
+      "score": [
+        "70035.805"
+      ],
+      "refCount": [
+        "60323"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran_Standard_Time"
+      ],
+      "redirectlabel": [
+        "Asia/Tehran",
+        "IRDT",
+        "Iran Daylight Time",
+        "Iran Daylight saving Time",
+        "Iran Summer Time",
+        "Iran Time",
+        "<B>Iranian</B> Meridian",
+        "<B>Iranian</B> Standard Time",
+        "<B>Iranian</B> meridian",
+        "Time in Iran"
+      ],
+      "comment": [
+        " <B>Iranian</B> calendar and is the official meridian of Iran. Between 2005 and 2008, by decree of President"
+      ],
+      "label": [
+        "Iran Standard Time"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran_Standard_Time"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Iran",
+        "http://dbpedia.org/resource/Category:Time_zones"
+      ]
+    },
+    {
+      "score": [
+        "17311.973"
+      ],
+      "refCount": [
+        "578"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_peoples"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Iranian</B> peoples",
+        "Ancient <B>Iranians</B>",
+        "Ancient <B>Iranic</B> peoples",
+        "Ancient <B>iranian</B> peoples",
+        "East <B>Iranians</B>",
+        "Eastern <B>Iranian</B> people",
+        "Eastern <B>Iranian</B> peoples",
+        "Eastern <B>Iranians</B>",
+        "First <B>Iranians</B>",
+        "Genetic studies on <B>Iranian</B> peoples",
+        "History of the <B>Iranian</B> peoples",
+        "<B>Iranian</B>-speaking people",
+        "<B>Iranian</B> Peoples",
+        "<B>Iranian</B> tribes",
+        "<B>Iranic</B>",
+        "<B>Iranic</B> people",
+        "<B>Iranic</B> peoples",
+        "<B>Iranics</B>",
+        "Irano-Aryan people",
+        "Irano-Aryan peoples",
+        "Irano-Aryans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Iranian</B> peoples or the <B>Iranic</B> peoples, are a diverse Indo-European ethno-linguistic group. The"
+      ],
+      "label": [
+        "<B>Iranian</B> peoples"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_peoples"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Iranian_peoples",
+        "http://dbpedia.org/resource/Category:Modern_Indo-European_peoples"
+      ]
+    },
+    {
+      "score": [
+        "13823.704"
+      ],
+      "refCount": [
+        "70851"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran"
+      ],
+      "redirectlabel": [
+        "Biodiversity of Iran",
+        "Historical Names of Iran",
+        "Historical names of Iran",
+        "I.R.Iran",
+        "I.R. Iran",
+        "I.R. of Iran",
+        "I.R of Iran",
+        "IRAN",
+        "IR Iran",
+        "IR of Iran",
+        "IRan",
+        "ISO 3166-1:IR",
+        "Iran, Islamic Rep.",
+        "Iran, Islamic Republic Of",
+        "Iran, Islamic Republic of",
+        "Iran (Islamic Republic of)",
+        "Iran (Persia)",
+        "Iran consumption expenditure",
+        "<B>Iranian</B> Republic",
+        "Irañ",
+        "Irán",
+        "Irân",
+        "Irãn",
+        "Irān",
+        "Islamic Govermnet of Iran",
+        "Islamic Iran",
+        "Islamic Republic of Iran",
+        "Islamic Republic of Persia",
+        "Islamic State of Iran",
+        "Islamic republic of Iran",
+        "Jomhuri-ye Eslami-ye Iran",
+        "Jomhuri-ye Eslāmi-ye Irān",
+        "Jomhuri Ye Islami Ye Iran",
+        "Jomhūrī-ye Eslāmī-ye Īrān",
+        "La Perse",
+        "Law of Iran",
+        "Naval blockade of iran",
+        "PERSIA",
+        "Persia",
+        "Persia (Iran)",
+        "Persia region",
+        "Persian State of Iran",
+        "Republic of Iran",
+        "Shi'ite Republic of Iran",
+        "Shia Republic of Iran",
+        "State of Iran",
+        "The Islamic Republic of Iran",
+        "إيران",
+        "ایران",
+        "جمهوری اسلامی ايران",
+        "جمهوری اسلامی ایران"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Iran (Persian: ایران‎ Irān [ʔiːˈɾɒːn] ()), also called Persia, and officially the Islamic Republic of Iran (Persian: جمهوری اسلامی ایران‎ Jomhuri-ye Eslāmi-ye Irān () [dʒomhuːˌɾije eslɒːˌmije ʔiːˈɾɒn]), is a country in Western Asia. With 82 million inhabitants, Iran is the world's 18th most populous country. Its territory spans 1,648,195 km2 (636,372 sq mi), making it the second largest country in the Middle East and the 17th largest in the world. Iran is bordered to the northwest by Armenia and the Republic of Azerbaijan, to the north by the Caspian Sea, to the northeast by Turkmenistan, to the east by Afghanistan and Pakistan, to the south by the Persian Gulf and the Gulf of Oman, and to the west by Turkey and Iraq. Its central location in Eurasia and Western Asia, and its proximity to t"
+      ],
+      "label": [
+        "Iran"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:6th-century_BC_establishments",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Developing_8_Countries_member_states",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:Iran",
+        "http://dbpedia.org/resource/Category:Iranian_Plateau",
+        "http://dbpedia.org/resource/Category:Iranian_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Islamic_republics",
+        "http://dbpedia.org/resource/Category:Kurdish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Member_states_of_OPEC",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Near_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Persian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Places_in_the_deuterocanonical_books",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1979",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_the_6th_century_BC",
+        "http://dbpedia.org/resource/Category:Theocracies",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "11958.539"
+      ],
+      "refCount": [
+        "366"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Iranian_languages"
+      ],
+      "redirectlabel": [
+        "ISO 639:iir",
+        "Indo-<B>Iranian</B> Languages",
+        "Indo-<B>Iranian</B> language",
+        "Indo-<B>Iranian</B> language family",
+        "Indo-<B>Iranian</B> languages language",
+        "Indo-<B>Iranic</B> language",
+        "Indo-<B>Iranic</B> language family",
+        "Indo-<B>Iranic</B> languages",
+        "Indo-Persian languages",
+        "IndoIranianLanguages",
+        "Indo <B>Iranian</B> languages",
+        "List of Indo-<B>Iranian</B> languages"
+      ],
+      "comment": [
+        "The Indo-<B>Iranian</B> languages (Indo-<B>Iranic</B> languages), or Aryan languages constitute the largest and"
+      ],
+      "label": [
+        "Indo-<B>Iranian</B> languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Iranian_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indo-European",
+        "http://dbpedia.org/resource/Category:Indo-Iranian_languages"
+      ]
+    },
+    {
+      "score": [
+        "8155.2427"
+      ],
+      "refCount": [
+        "130"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_languages"
+      ],
+      "redirectlabel": [
+        "Early <B>Iranian</B> languages",
+        "ISO 639:ira",
+        "<B>Iranian</B> Language",
+        "<B>Iranian</B> Languages",
+        "<B>Iranian</B> language",
+        "<B>Iranian</B> language family",
+        "<B>Iranian</B> languages language",
+        "<B>Iranic</B> language",
+        "<B>Iranic</B> languages",
+        "Irano-Aryan",
+        "Irano-Aryan language",
+        "Irano-Aryan languages",
+        "List of Eastern <B>Iranian</B> languages",
+        "List of Western <B>Iranian</B> languages",
+        "Middle <B>Iranian</B>",
+        "Middle <B>Iranian</B> language",
+        "Middle <B>Iranian</B> languages",
+        "Middle <B>Iranic</B>",
+        "Middle <B>Iranic</B> languages",
+        "Old <B>Iranian</B>",
+        "Old <B>Iranian</B> language",
+        "Old <B>Iranian</B> languages",
+        "Persian and Kurmanji Kurdish comparison"
+      ],
+      "comment": [
+        "The <B>Iranian</B> or <B>Iranic</B> languages are a branch of the Indo-<B>Iranian</B> languages in the Indo-European"
+      ],
+      "label": [
+        "<B>Iranian</B> languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Iranian_languages"
+      ]
+    },
+    {
+      "score": [
+        "7256.752"
+      ],
+      "refCount": [
+        "1076"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran_national_football_team"
+      ],
+      "redirectlabel": [
+        "IR Iran national football team",
+        "Iran Soccer team",
+        "Iran football team",
+        "Iran men's national football team",
+        "Iran men's national soccer team",
+        "Iran national football team kit history",
+        "Iran national football team kits",
+        "Iran national soccer team",
+        "<B>Iranian</B> National Football Team",
+        "<B>Iranian</B> football team",
+        "<B>Iranian</B> national football team",
+        "<B>Iranian</B> national team",
+        "Persian national football team",
+        "Team Melli",
+        "Team melli"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Iran national football team (Persian: تیم ملی فوتبال مردان ایران‎, romanized: Tīm-e Melli-e Fūtbāl-e Mardān-e Īrān), also known as Team Melli (Persian: تیم ملی‎, romanized: Tīm-e Melli, lit. 'the national team'), represents Iran in international football and is controlled by the Iran Football Federation. From December 2014 until May 2018, the men's national football team of Iran remained the highest-ranked team in Asia, representing the longest continuous period of time a team has been top of the continent in the rankings."
+      ],
+      "label": [
+        "Iran national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:AFC_Asian_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Iran",
+        "http://dbpedia.org/resource/Category:Iran_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "6825.292"
+      ],
+      "refCount": [
+        "120"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Western_Iranian_languages"
+      ],
+      "redirectlabel": [
+        "Borkhar-o-Meymeh",
+        "Borkhar-o-Meymeh dialects",
+        "Central Iran dialects",
+        "Central Iran languages",
+        "Central <B>Iranian</B> dialects",
+        "Central <B>Iranian</B> languages",
+        "Central dialects (<B>Iranian</B>)",
+        "Central dialects (subgroup of <B>Iranian</B> languages)",
+        "Dialects of Central Iran",
+        "Dialects of central iran",
+        "Kermanic languages",
+        "Languages of Central Iran",
+        "List of Caspian languages",
+        "List of Central Iran languages",
+        "List of Fars languages",
+        "List of Kurdish languages",
+        "List of Luri languages",
+        "List of Northwestern <B>Iranian</B> languages",
+        "List of Ormuri-Parachi languages",
+        "List of Persian languages",
+        "List of Semnani languages",
+        "List of Southwestern <B>Iranian</B> languages",
+        "List of Talysh languages",
+        "List of Tat languages",
+        "Medo-Parthian languages",
+        "North-Western <B>Iranian</B> languages",
+        "Northwest <B>Iranian</B>",
+        "Northwest <B>Iranian</B> languages",
+        "Northwestern <B>Iranian</B>",
+        "Northwestern <B>Iranian</B> dialect",
+        "Northwestern <B>Iranian</B> dialects",
+        "Northwestern <B>Iranian</B> language",
+        "Northwestern <B>Iranian</B> languages",
+        "Northwestern <B>iranian</B> language",
+        "Persid language",
+        "Persid languages",
+        "South-Western <B>Iranian</B> languages",
+        "Southwestern <B>Iranian</B>",
+        "Southwestern <B>Iranian</B> dialect",
+        "Southwestern <B>Iranian</B> dialects",
+        "Southwestern <B>Iranian</B> language",
+        "Southwestern <B>Iranian</B> languages",
+        "Talysh languages",
+        "West <B>Iranian</B>",
+        "West <B>Iranian</B> languages",
+        "West <B>Iranic</B>",
+        "West <B>Iranic</B> languages",
+        "Western <B>Iranian</B>",
+        "Western <B>Iranian</B> dialects",
+        "Western <B>Iranian</B> language",
+        "Western <B>Iranic</B> languages"
+      ],
+      "comment": [
+        "The Western <B>Iranian</B> languages are a branch of the <B>Iranian</B> languages, attested from the time of Old Persian (6th century BC) and Median."
+      ],
+      "label": [
+        "Western <B>Iranian</B> languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Western_Iranian_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Western_Iranian_languages"
+      ]
+    },
+    {
+      "score": [
+        "4820.72"
+      ],
+      "refCount": [
+        "53"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Eastern_Iranian_languages"
+      ],
+      "redirectlabel": [
+        "East <B>Iranian</B>",
+        "East <B>Iranian</B> languages",
+        "Eastern <B>Iranian</B>",
+        "Eastern <B>Iranian</B> language",
+        "Eastern <B>Iranic</B>",
+        "Eastern <B>Iranic</B> languages",
+        "Eastern <B>iranian</B> languages",
+        "List of Northeastern <B>Iranian</B> languages",
+        "List of Pamir languages",
+        "List of Pashto languages",
+        "List of Shugni-Yazgulami languages",
+        "List of Southeastern <B>Iranian</B> languages",
+        "North-Eastern <B>Iranian</B>",
+        "Northeast <B>Iranian</B>",
+        "Northeastern <B>Iranian</B>",
+        "Northeastern <B>Iranian</B> language",
+        "Northeastern <B>Iranian</B> languages",
+        "Northern <B>Iranian</B> languages",
+        "Ormuri-Parachi",
+        "Ormuri-Parachi languages",
+        "Ormuri–Parachi languages",
+        "Ormurri-Parachi",
+        "Southeastern <B>Iranian</B>",
+        "Southeastern <B>Iranian</B> languages"
+      ],
+      "comment": [
+        "The  are a subgroup of the <B>Iranian</B> languages emerging in Middle <B>Iranian</B> times (from c. the 4th"
+      ],
+      "label": [
+        "Eastern <B>Iranian</B> languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Eastern_Iranian_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eastern_Iranian_languages"
+      ]
+    },
+    {
+      "score": [
+        "4603.3984"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Americans"
+      ],
+      "redirectlabel": [
+        "American-<B>Iranian</B>",
+        "American <B>Iranian</B>",
+        "Aryan American",
+        "Aryan Americans",
+        "Demographics of <B>Iranian</B> Americans",
+        "Discrimination against <B>Iranian</B> Americans",
+        "History of the <B>Iranian</B> Americans",
+        "<B>Iranian</B>-American",
+        "<B>Iranian</B>-Americans",
+        "<B>Iranian</B>-american",
+        "<B>Iranian</B>/American",
+        "<B>Iranian</B> American",
+        "<B>Iranian</B> Americans in politics",
+        "<B>Iranian</B> american",
+        "<B>Iranian</B> immigration to the United States",
+        "<B>Iranian</B> in America",
+        "<B>Iranian</B> in United States",
+        "<B>Iranians</B> in US",
+        "<B>Iranians</B> in the US",
+        "<B>Iranians</B> in the United states",
+        "<B>Iranian</B>–American",
+        "Persian-American",
+        "Persian-Americans",
+        "Persian American",
+        "Persian Americans",
+        "Persian language in the United States",
+        "Political views of <B>Iranian</B> Americans",
+        "Racism against <B>Iranian</B> Americans",
+        "ایرانیان آمریکا"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B> Americans or Persian Americans are U.S. citizens who are of <B>Iranian</B> ancestry or who hold"
+      ],
+      "label": [
+        "<B>Iranian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Iranian_descent",
+        "http://dbpedia.org/resource/Category:Iranian_American",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American"
+      ]
+    },
+    {
+      "score": [
+        "4385.7446"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Principlists"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> Conservatives",
+        "<B>Iranian</B> Principalists",
+        "<B>Iranian</B> traditional conservatives",
+        "<B>Iranian</B> ultra conservatives",
+        "Principlists",
+        "Right wing of Islamic Republic of Iran"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " fundamentalists), also interchangeably known as the <B>Iranian</B> Conservatives and formerly referred to as"
+      ],
+      "label": [
+        "<B>Iranian</B> Principlists"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Principlists"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Conservatism_in_Iran",
+        "http://dbpedia.org/resource/Category:Euphemisms",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Islamism_in_Iran",
+        "http://dbpedia.org/resource/Category:Political_factions_in_Iran",
+        "http://dbpedia.org/resource/Category:Political_neologisms",
+        "http://dbpedia.org/resource/Category:Politics_of_Iran",
+        "http://dbpedia.org/resource/Category:Right-wing_politics_in_Asia",
+        "http://dbpedia.org/resource/Category:Theocrats"
+      ]
+    },
+    {
+      "score": [
+        "4364.743"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Revolution"
+      ],
+      "redirectlabel": [
+        "1979 <B>Iranian</B> Revolution",
+        "1979 <B>Iranian</B> revolution",
+        "1979 Islamic <B>Iranian</B> Revolution",
+        "1979 Islamic Revolution",
+        "1979 Islamic revolution",
+        "1979 Revolution",
+        "1979 Revolution of Iran",
+        "1979 revolution",
+        "1979 revolution in Iran",
+        "1979 revolution of Iran",
+        "ANTI-<B>Iranian</B> Revolution",
+        "Anti-<B>Iranian</B> Revolution",
+        "Enghelabe Eslami",
+        "Enghelābe Eslāmi",
+        "History of <B>Iranian</B> Revolution",
+        "Iran 1979",
+        "Iran 1979 Revolution",
+        "Iran Revolution",
+        "<B>Iranian</B> Islamic Revolution",
+        "<B>Iranian</B> Revolt",
+        "<B>Iranian</B> Revolution of 1978",
+        "<B>Iranian</B> Revolution of 1979",
+        "<B>Iranian</B> revolution",
+        "<B>Iranian</B> revolution of 1979",
+        "Islamic <B>Iranian</B> Revolution",
+        "Islamic Revolution's Victory Day",
+        "Islamic Revolution",
+        "Islamic Revolution - Iran",
+        "Islamic Revolution in Iran",
+        "Islamic Revolution of 1979",
+        "Islamic Revolution of Iran",
+        "Islamic revolution",
+        "Islamic revolution of 1979",
+        "Islamic revolution of Iran",
+        "Islamist regime in Iran",
+        "Persian Revolution",
+        "Persian Revolution of 1979",
+        "Revolution of 1979",
+        "Revolution of Iran",
+        "The Islamic Revolution",
+        "Theocratic <B>Iranian</B> regime",
+        "انقلاب اسلامی"
+      ],
+      "comment": [
+        "The <B>Iranian</B> Revolution (Persian: انقلاب ایران‎, romanized: Enqelâbe Irân, pronounced [ʔeɴɢeˌlɒːbe"
+      ],
+      "label": [
+        "<B>Iranian</B> Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Revolution"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1978_protests",
+        "http://dbpedia.org/resource/Category:1979_in_Iran",
+        "http://dbpedia.org/resource/Category:1979_in_Islam",
+        "http://dbpedia.org/resource/Category:1979_in_politics",
+        "http://dbpedia.org/resource/Category:1979_protests",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Conflicts_involving_the_People's_Mujahedin_of_Iran",
+        "http://dbpedia.org/resource/Category:History_of_civil_rights_and_liberties_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_Revolution",
+        "http://dbpedia.org/resource/Category:Iranian_civil_wars",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Mohammad_Reza_Pahlavi",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iran",
+        "http://dbpedia.org/resource/Category:Ruhollah_Khomeini"
+      ]
+    },
+    {
+      "score": [
+        "4130.9897"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_architecture"
+      ],
+      "redirectlabel": [
+        "Architecture in Iran",
+        "Architecture of Iran",
+        "Architecture of Persia",
+        "Azari style",
+        "Azari style (<B>Iranian</B> architecture)",
+        "Azerbaijani style",
+        "Azeri style",
+        "<B>Iranian</B> Architecture",
+        "Persian (<B>Iranian</B>) architecture",
+        "Persian Architecture",
+        "Persian architecture",
+        "Razi style",
+        "Razi style (<B>Iranian</B> architecture)",
+        "Sabkshenasi-e Memari-e <B>Irani</B>"
+      ],
+      "comment": [
+        "<B>Iranian</B> architecture or Persian architecture (Persian: معمارى ایرانی, Memāri e Irāni) is the"
+      ],
+      "label": [
+        "<B>Iranian</B> architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Architecture_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_art",
+        "http://dbpedia.org/resource/Category:Iranian_culture",
+        "http://dbpedia.org/resource/Category:Islamic_architecture",
+        "http://dbpedia.org/resource/Category:Persian_art"
+      ]
+    },
+    {
+      "score": [
+        "3897.508"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Armenians"
+      ],
+      "redirectlabel": [
+        "Arenian <B>Iranians</B>",
+        "Armenian-<B>Iranian</B>",
+        "Armenian-<B>Iranians</B>",
+        "Armenian-Persian",
+        "Armenian <B>Iranian</B>",
+        "Armenian <B>Iranians</B>",
+        "Armenians in Iran",
+        "Armenians in Persia",
+        "Barsgahye",
+        "Hooys",
+        "<B>Iranian</B>-Armenian",
+        "<B>Iranian</B>-Armenians",
+        "<B>Iranian</B> Armenian",
+        "Parska-Hye",
+        "Parska Hye",
+        "Persian Armenian",
+        "Persian Armenians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B>-Armenians (Armenian: իրանահայեր iranahayer) also known as Persian-Armenians (Armenian"
+      ],
+      "label": [
+        "<B>Iranian</B> Armenians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Armenians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iranian_people_of_Armenian_descent"
+      ]
+    },
+    {
+      "score": [
+        "3527.1768"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Azerbaijanis"
+      ],
+      "redirectlabel": [
+        "Azaris in Iran",
+        "Azerbaijanis in Iran",
+        "Azerbaijanis in Tehran",
+        "Azerbaijanis of Central Iran",
+        "Azeri-<B>Iranian</B>",
+        "Azeris in Iran",
+        "Azeris in iran",
+        "Azeris in İran",
+        "Azeris of Iran",
+        "Genetic studies on <B>Iranian</B> Azerbaijanis",
+        "Hamadan Province Turks",
+        "Hamadan Turks",
+        "History of the <B>Iranian</B> Azerbaijanis",
+        "<B>Iranian</B> Azarbaijanis",
+        "<B>Iranian</B> Azaris",
+        "<B>Iranian</B> Azerbaijani",
+        "<B>Iranian</B> Azerbaijani music",
+        "<B>Iranian</B> Azeri",
+        "<B>Iranian</B> Azeris",
+        "<B>Iranian</B> in Azerbaijan",
+        "<B>Iranians</B> in Republic of Azerbaijan",
+        "Persian Azerbaijanis",
+        "Persian Azeris",
+        "Ranian Azeris",
+        "Speakers of Turkic Languages in Iran",
+        "Turks in Hamadan"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " as <B>Iranian</B> Azeris, <B>Iranian</B> Turks, Persian Turks or Persian Azerbaijanis, are <B>Iranians</B> of Azeri"
+      ],
+      "label": [
+        "<B>Iranian</B> Azerbaijanis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Azerbaijanis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iranian_Azerbaijanis"
+      ]
+    },
+    {
+      "score": [
+        "3463.67"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Kurdistan"
+      ],
+      "redirectlabel": [
+        "Azarbaijani Kurds",
+        "East Kurdistan",
+        "Eastern Kurdistan",
+        "History of <B>Iranian</B> Kurdistan",
+        "<B>Iranian</B> Kordestan",
+        "<B>Iranian</B> Kurdish",
+        "<B>Iranian</B> kurdistan",
+        "Kurdish <B>Iranian</B> family",
+        "Kurdish inhabited region in Iran",
+        "Kurdish inhabited region of Iran",
+        "Kurdish innhabited region of Iran",
+        "Kurdish political prisoners in Iran",
+        "Kurdistan (Iran)",
+        "Kurdistan - Iran",
+        "Kurdistan – Iran",
+        "Kurds in Western Iran",
+        "Rojhalat",
+        "Rojhelat",
+        "Rojhelat Kurdistan",
+        "Rojhilat",
+        "Rojhilat Kurdistan",
+        "Rojhilatê Kurdistanê",
+        "Rojhilatê kurdistan"
+      ],
+      "comment": [
+        "<B>Iranian</B> Kurdistan or Eastern Kurdistan (Kurdish: Rojhilatê Kurdistanê, ڕۆژھەڵاتی کوردستان‎), is an"
+      ],
+      "label": [
+        "<B>Iranian</B> Kurdistan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Kurdistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Divided_regions",
+        "http://dbpedia.org/resource/Category:Iranian_Kurdistan",
+        "http://dbpedia.org/resource/Category:Kurdistan",
+        "http://dbpedia.org/resource/Category:Regions_of_Iran"
+      ]
+    },
+    {
+      "score": [
+        "3424.6416"
+      ],
+      "refCount": [
+        "131"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Basketball_Super_League"
+      ],
+      "redirectlabel": [
+        "ABFA Shiraz",
+        "Afra Khalij Fars Tehran BC",
+        "Aftab Zagros Ahvaz BC",
+        "Al-Badr Bandar Kong BC",
+        "Armin Jamshidian Esfahan",
+        "Avijeh Sanat Parsa Mashhad BC",
+        "Ayandehsazan Mihan Isfahan BC",
+        "Ayandehsazan Tehran BC",
+        "Azarpayam Urmia",
+        "Bank Saman Tehran BC",
+        "Caspian Qazvin BC",
+        "Dokhaniat Tehran",
+        "Dokhaniat Urmia",
+        "Esteghlal Zarin Qeshm BC",
+        "Exxon Tehran BC",
+        "Farsh Mashhad",
+        "Foolad Haft Almas Qazvin BC",
+        "Foolad Neishabour",
+        "Foolad Sepahan Isfahan BC",
+        "Gach Khorasan",
+        "Galin Macaron Babol",
+        "Ghaem Reza Esfahan",
+        "Gostaresh Tehran",
+        "Hesa Esfahan",
+        "Heyat Basketball Esfahan",
+        "Heyat Basketball Khorasan Razavi BC",
+        "Heyat Basketball Khuzestan",
+        "Iran Nara Tehran",
+        "<B>Iranian</B> Super League (Basketball)",
+        "Jandarmeri Tehran",
+        "Kalleh Mazandaran BC",
+        "Khaneh Basketball Khuzestan BC",
+        "Koochin Amol BC",
+        "Mersad Shiraz",
+        "Moghavemat Basij Shiraz",
+        "Naft Sepahan Tehran BC",
+        "Nazmavaran Sirjan BC",
+        "Niroo Zamini Tehran BC",
+        "Payam Ertebatat Esfahan",
+        "Payam Zanjan",
+        "Pegah Hamedan",
+        "Pegah Shiraz",
+        "Pegah Tehran BC",
+        "Pemina Isfahan BC",
+        "Pouya Tehran BC",
+        "Raad Padafand Dezful BC",
+        "Raad Padafand Khuzestan BC",
+        "Raad Padafand Mashhad BC",
+        "Raad Padafand Shahrekord BC",
+        "Raad Padafand Tehran BC",
+        "Saina Kordestan",
+        "Sanat Mes Kerman BC",
+        "Sanat Mes Rafsanjan BC",
+        "Sanat Naft Ahvaz",
+        "Setareh Benz Karaj",
+        "Shahid Ghandi Gonbad",
+        "Shahrdari Bandar Abbas BC",
+        "Shahrdari Isfahan BC",
+        "Shahrdari Kashan BC",
+        "Shahrdari Tabriz BC",
+        "Shora & Shahrdari Qazvin BC",
+        "Sinjergaz Khorramabad",
+        "Tarbiat Badani Babol",
+        "Tarbiat Badani Fars",
+        "Tarbiat Badani Kerman",
+        "Tarbiat Badani Khorasan",
+        "Tarbiat Badani Khorramabad",
+        "Toufargan Azarshahr BC",
+        "Tractorsazi Kordestan BC",
+        "Trust Pasargad Shiraz BC",
+        "Yes-Al Gorgan BC",
+        "Zoghalsang Kerman"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> Basketball Super League (IBSL) is a professional men's basketball league in Iran. It"
+      ],
+      "label": [
+        "<B>Iranian</B> Basketball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Basketball_Super_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Iran",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Iranian_Basketball_Super_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Iran",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1998",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "3381.4502"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Iranian_presidential_election_protests"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Iranian</B> election protests",
+        "2009-2010 Iran election protests",
+        "2009-2010 <B>Iranian</B> election protests",
+        "2009-2010 <B>Iranian</B> elections protests",
+        "2009-2011 <B>Iranian</B> election protests",
+        "2009 Iran election protests",
+        "2009 Iran protests",
+        "2009 <B>Iranian</B> Election Protests",
+        "2009 <B>Iranian</B> Revolution",
+        "2009 <B>Iranian</B> demonstrations",
+        "2009 <B>Iranian</B> election protests",
+        "2009 <B>Iranian</B> protests",
+        "2009–10 <B>Iranian</B> election protests",
+        "2009–2010 Iran election protests",
+        "2009–2010 <B>Iranian</B> election protests",
+        "2009–2011 <B>Iranian</B> election protests",
+        "Ali Fazli",
+        "Death of Naser Amirnejad",
+        "Green Revolution (Iran)",
+        "Iran 2009 protests",
+        "Iran 2009 riots",
+        "Iran election protests",
+        "<B>Iranian</B> Election Protests",
+        "<B>Iranian</B> Green Revolution",
+        "<B>Iranian</B> Revolution of 2009-2010",
+        "<B>Iranian</B> Revolution of 2009",
+        "<B>Iranian</B> Revolution of 2009–2010",
+        "<B>Iranian</B> Revolution of 2010",
+        "<B>Iranian</B> election crisis",
+        "Persian Awakening",
+        "Persian Revolution of 2009-2010",
+        "Persian Revolution of 2009",
+        "Persian Revolution of 2009–2010",
+        "Persian Revolution of 2010",
+        "Persian Spring",
+        "Persian awakening",
+        "Teheran 2009 protests",
+        "Tweet Revolution"
+      ],
+      "comment": [
+        "Protests against the highly controversial 2009 <B>Iranian</B> presidential election results (Persian"
+      ],
+      "label": [
+        "2009 <B>Iranian</B> presidential election protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Iranian_presidential_election_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_Iranian_presidential_election",
+        "http://dbpedia.org/resource/Category:2009_Iranian_presidential_election_protests",
+        "http://dbpedia.org/resource/Category:2009_elections_in_Iran",
+        "http://dbpedia.org/resource/Category:2009_in_Iran",
+        "http://dbpedia.org/resource/Category:2009_protests",
+        "http://dbpedia.org/resource/Category:2009_riots",
+        "http://dbpedia.org/resource/Category:2010_in_Iran",
+        "http://dbpedia.org/resource/Category:2010_protests",
+        "http://dbpedia.org/resource/Category:2010_riots",
+        "http://dbpedia.org/resource/Category:Colour_revolutions",
+        "http://dbpedia.org/resource/Category:Dirty_wars",
+        "http://dbpedia.org/resource/Category:Electoral_fraud_in_Iran",
+        "http://dbpedia.org/resource/Category:History_of_civil_rights_and_liberties_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Movements_for_civil_rights",
+        "http://dbpedia.org/resource/Category:Nonviolent_resistance_movements",
+        "http://dbpedia.org/resource/Category:Police_misconduct_in_Iran",
+        "http://dbpedia.org/resource/Category:Political_riots",
+        "http://dbpedia.org/resource/Category:Protests_against_results_of_elections",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran",
+        "http://dbpedia.org/resource/Category:Student_protests_in_Iran",
+        "http://dbpedia.org/resource/Category:Twitter"
+      ]
+    },
+    {
+      "score": [
+        "3306.3545"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_nationalism"
+      ],
+      "redirectlabel": [
+        "History of <B>Iranian</B> nationalism",
+        "<B>Iranian</B> nationalist",
+        "Nationalism in Iran",
+        "Persian nationalism"
+      ],
+      "comment": [
+        "<B>Iranian</B> nationalism refers to nationalism among the people of Iran and individuals whose national"
+      ],
+      "label": [
+        "<B>Iranian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_nationalism",
+        "http://dbpedia.org/resource/Category:Politics_of_Iran"
+      ]
+    },
+    {
+      "score": [
+        "3268.0847"
+      ],
+      "refCount": [
+        "440"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran–Iraq_War"
+      ],
+      "redirectlabel": [
+        "1980-1988 Iran-Iraq War",
+        "1980-88 Iran-Iraq War",
+        "1980 Middle East War",
+        "Aftermath of the Iran-Iraq War",
+        "Aftermath of the Iran–Iraq War",
+        "Casualties of the Iran-Iraq War",
+        "Casualties of the Iran–Iraq War",
+        "Economic effects of the Iran-Iraq War",
+        "Economic effects of the Iran–Iraq War",
+        "Economic impact of the Iran-Iraq War",
+        "Economic impact of the Iran–Iraq War",
+        "Holy defense",
+        "Imposed War",
+        "Iran-Irak War",
+        "Iran-Iraq War.",
+        "Iran-Iraq War",
+        "Iran-Iraq war",
+        "Iran-iraq war",
+        "Iran/Iraq War",
+        "Iran/Iraq war",
+        "Iran Iraq War",
+        "Iran Iraq war",
+        "Iran War",
+        "Iran iraq war",
+        "<B>Iranian</B>-Iraqi War",
+        "<B>Iranian</B>-iraqi war",
+        "<B>Iranian</B> Iraqi War",
+        "<B>Iranian</B> iraqi war",
+        "<B>Iranian</B>–Iraqi War",
+        "<B>Iranian</B>–iraqi war",
+        "Iran–Iraq War.",
+        "Iran–Iraq war",
+        "Iran–iraq war",
+        "Iraq-Iran War",
+        "Iraq-Iran war",
+        "Iraq-iran war",
+        "Iraq Iran War",
+        "Iraq and Iran War",
+        "Iraqi-<B>Iranian</B> War",
+        "Iraqi-Persian War",
+        "Iraq–Iran War",
+        "Operation Karbala 5 code words",
+        "Saddam's Qadisiyyah",
+        "Saddam's Qadissiyah",
+        "Saddam Hussein's military forces invaded Iran",
+        "Saddām's Qādisiyyah",
+        "U.S. involvement in the Iran-Iraq War",
+        "U.S. involvement in the Iran–Iraq War",
+        "United States involvement in the Iran-Iraq War",
+        "United States involvement in the Iran–Iraq War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " <B>Iranian</B> Revolution would lead Iraq's Shi'ite majority to rebel against the Ba'athist government. The war"
+      ],
+      "label": [
+        "Iran–Iraq War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran–Iraq_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_conflicts",
+        "http://dbpedia.org/resource/Category:1980s_in_Iran",
+        "http://dbpedia.org/resource/Category:1980s_in_Iraq",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Conflicts_involving_the_People's_Mujahedin_of_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Persian_Gulf",
+        "http://dbpedia.org/resource/Category:Invasions_by_Iraq",
+        "http://dbpedia.org/resource/Category:Invasions_of_Iran",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_War",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_relations",
+        "http://dbpedia.org/resource/Category:Iran–Saudi_Arabia_relations",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Ruhollah_Khomeini",
+        "http://dbpedia.org/resource/Category:Saddam_Hussein",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga"
+      ]
+    },
+    {
+      "score": [
+        "3156.907"
+      ],
+      "refCount": [
+        "203"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran_national_futsal_team"
+      ],
+      "redirectlabel": [
+        "Iran National Futsal Team",
+        "Iran men's national futsal team",
+        "<B>Iranian</B> national futsal team"
+      ],
+      "comment": [
+        " controlled by the Futsal Commission of the <B>Iranian</B> Football Federation. The \"Kings of Asian Futsal\" are by"
+      ],
+      "label": [
+        "Iran national futsal team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran_national_futsal_team"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_futsal_teams",
+        "http://dbpedia.org/resource/Category:Futsal_in_Iran",
+        "http://dbpedia.org/resource/Category:Iran_national_futsal_team"
+      ]
+    },
+    {
+      "score": [
+        "3079.3823"
+      ],
+      "refCount": [
+        "84"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Gahar_Zagros_F.C."
+      ],
+      "redirectlabel": [
+        "Damash <B>Iranian</B>",
+        "Damash <B>Iranian</B> F.C.",
+        "Damash <B>Iranian</B> F. C.",
+        "Damash <B>Iranian</B> FC",
+        "Damash <B>Iranian</B> F C",
+        "Damash Lorestan",
+        "Damash Lorestan F.C.",
+        "Gahar Zagros",
+        "Gahar Zagros FC",
+        "Gohar Zagros F.C."
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Gahar Zagros Football Club (former named by Damash Lorestan) is an <B>Iranian</B> football club based in"
+      ],
+      "label": [
+        "Gahar Zagros F.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Gahar_Zagros_F.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2006",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Iran",
+        "http://dbpedia.org/resource/Category:Lorestan_Province"
+      ]
+    },
+    {
+      "score": [
+        "2949.0022"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_rial"
+      ],
+      "redirectlabel": [
+        "ISO 4217:IRR",
+        "Iran Currency",
+        "Iran Rial",
+        "<B>Iranian</B> Rial",
+        "<B>Iranian</B> Rial banknotes",
+        "<B>Iranian</B> Rials",
+        "<B>Iranian</B> dinar",
+        "<B>Iranian</B> parsi",
+        "<B>Iranian</B> rial banknotes",
+        "<B>Iranian</B> riyal",
+        "Persian rial",
+        "Value of the <B>Iranian</B> currency",
+        "ریال ایران"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " currency of Iran. Although the \"toman\" (تومان) is no longer an official unit of <B>Iranian</B> currency, <B>Iranians</B>"
+      ],
+      "label": [
+        "<B>Iranian</B> rial"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_rial"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1798",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1932",
+        "http://dbpedia.org/resource/Category:Currencies_of_Iran",
+        "http://dbpedia.org/resource/Category:Currency_symbols"
+      ]
+    },
+    {
+      "score": [
+        "2913.9907"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Iranian_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-Aryan sentiment",
+        "Anti-<B>Iranian</B>",
+        "Anti-<B>Iranian</B> Propaganda",
+        "Anti-<B>Iranian</B> sentiment in Iraq",
+        "Anti-<B>Iranian</B> sentiment in the Arab World",
+        "Anti-<B>Iranian</B> sentiment in the Arab world",
+        "Anti-<B>Iranian</B> sentiment in the Netherlands",
+        "Anti-<B>Iranian</B> sentiment in the United States",
+        "Anti-<B>Iranian</B> sentiments",
+        "Anti-<B>Iranianism</B>",
+        "Anti-Persian sentiments",
+        "Anti-Persian sentiments by Arabs",
+        "Anti-Persianism",
+        "Anti-Persianism by Arabs",
+        "Anti-iran",
+        "Anti-persian sentiment",
+        "Anti <B>iranian</B> sentiments",
+        "Aryanophobia",
+        "Death to Iran",
+        "Discrimination against <B>Iranians</B>",
+        "Iranophobia",
+        "Persophobia"
+      ],
+      "comment": [
+        "Anti-<B>Iranian</B> sentiment, also known as Anti-Persian sentiment, Persophobia, or Iranophobia refers to"
+      ],
+      "label": [
+        "Anti-<B>Iranian</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Iranian_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Asian_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-Iranian_sentiments",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment"
+      ]
+    },
+    {
+      "score": [
+        "2856.4653"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Iranian_presidential_election"
+      ],
+      "redirectlabel": [
+        "2009 Iran elections",
+        "2009 Iran presidential election",
+        "2009 <B>Iranian</B> Elections",
+        "2009 <B>Iranian</B> Presidential Election",
+        "2009 <B>Iranian</B> coup d'état",
+        "2009 <B>Iranian</B> election",
+        "2009 <B>Iranian</B> elections",
+        "2009 <B>Iranian</B> presidential elections",
+        "2009 presidential election",
+        "Coup of 12 June",
+        "Disputed presidential election of June 12th 2009",
+        "Election 2009 (Iran)",
+        "Iran's presidential elections in June 2009",
+        "Iran 2009 election",
+        "Iran 2009 elections",
+        "Iran 2009 presidential election",
+        "Iran election, 2009",
+        "Iran elections 2009",
+        "Iran presidential election, 2009",
+        "<B>Iranian</B> Presidential Election, 2009",
+        "<B>Iranian</B> election 2009",
+        "<B>Iranian</B> presidential election, 2009",
+        "<B>Iranian</B> presidential elections, 2009",
+        "The 2009 <B>Iranian</B> presidential election",
+        "The <B>Iranian</B> presidential election, 2009"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " millions of <B>Iranians</B>, across every <B>Iranian</B> city and around the world and the emergence of the opposition <B>Iranian</B> Green Movement."
+      ],
+      "label": [
+        "2009 <B>Iranian</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Iranian_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_Iranian_presidential_election",
+        "http://dbpedia.org/resource/Category:2009_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2009_elections_in_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:June_2009_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Mahmoud_Ahmadinejad",
+        "http://dbpedia.org/resource/Category:Mir-Hossein_Mousavi",
+        "http://dbpedia.org/resource/Category:Mohammad_Khatami",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "2849.8047"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Iranian_Oil_Company"
+      ],
+      "redirectlabel": [
+        "Iran's National Oil Company",
+        "IranOil",
+        "<B>Iranian</B> Oil Company",
+        "NATIONAL <B>IRANIAN</B> OIL COMPANY",
+        "NIGEC",
+        "NIOC",
+        "National <B>Iranian</B> Gas Export Company",
+        "National <B>Iranian</B> Oil",
+        "National <B>Iranian</B> Oil Co.",
+        "National Oil Company of Iran"
+      ],
+      "comment": [
+        "The National <B>Iranian</B> Oil Company (NIOC; Persian: شرکت ملّی نفت ایران‎ Sherkat-e Melli-ye Naft-e"
+      ],
+      "label": [
+        "National <B>Iranian</B> Oil Company"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Iranian_Oil_Company"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Companies_based_in_Tehran",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_brands",
+        "http://dbpedia.org/resource/Category:Iranian_companies_established_in_1951",
+        "http://dbpedia.org/resource/Category:National_Iranian_Oil_Company",
+        "http://dbpedia.org/resource/Category:National_oil_and_gas_companies",
+        "http://dbpedia.org/resource/Category:Non-renewable_resource_companies_established_in_1951"
+      ]
+    },
+    {
+      "score": [
+        "2835.0647"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Futsal_Super_League"
+      ],
+      "redirectlabel": [
+        "Futsal Super League",
+        "<B>Iranian</B> Super League (Futsal)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> Futsal Super League (Persian: سوپر لیگ فوتسال ایران‎), is a professional futsal league"
+      ],
+      "label": [
+        "<B>Iranian</B> Futsal Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Futsal_Super_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Futsal_leagues_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_Futsal_Super_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Iran",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2004",
+        "http://dbpedia.org/resource/Category:Top_level_futsal_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2798.6843"
+      ],
+      "refCount": [
+        "508"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Croats"
+      ],
+      "redirectlabel": [
+        "Croat",
+        "Croat diaspora",
+        "Croat people",
+        "Croatian Croats",
+        "Croatian people",
+        "Croatians",
+        "Croatians (ethnonym)",
+        "Croats in diaspora",
+        "Ethnic Croat",
+        "Ethnic Croatians",
+        "Ethnic Croats",
+        "History of the Croats",
+        "<B>Iranian</B> theory about descent of Croats",
+        "People of Croatia",
+        "Scroats"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Croats (; Croatian: Hrvati, pronounced [xr̩ʋăːti]) or Croatians are a nation and South Slavic ethnic group native to Croatia and Bosnia and Herzegovina. They are also a recognized minority in a number of neighboring countries, namely Austria, the Czech Republic, Germany, Hungary, Italy, Montenegro, Romania, Serbia, Slovakia, and Slovenia."
+      ],
+      "label": [
+        "Croats"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Croats"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Croat_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Croatia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:Ethnoreligious_groups_in_Europe",
+        "http://dbpedia.org/resource/Category:Slavic_ethnic_groups",
+        "http://dbpedia.org/resource/Category:Society_of_Croatia",
+        "http://dbpedia.org/resource/Category:South_Slavs"
+      ]
+    },
+    {
+      "score": [
+        "2778.9597"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> citizen",
+        "<B>Iranian</B> citizenship",
+        "<B>Iranian</B> nationality",
+        "Nationality law of Iran"
+      ],
+      "comment": [
+        "<B>Iranian</B> nationality law contains principles of both jus sanguinis and jus soli. Children acquire"
+      ],
+      "label": [
+        "<B>Iranian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "2768.3494"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine - Iran",
+        "Cuisine of Iran",
+        "History of <B>Iranian</B> cuisine",
+        "<B>Iranian</B> desserts",
+        "<B>Iranian</B> food",
+        "<B>Iranian</B> soups",
+        "Morasa Polow",
+        "Morasa polo",
+        "Persian cooking",
+        "Persian cuisine",
+        "Persian food",
+        "Persian restaurant",
+        "Regional <B>Iranian</B> cuisine"
+      ],
+      "comment": [
+        "<B>Iranian</B> cuisine (Persian: آشپزی ایرانی āšpazi iranī) comprises the cooking traditions of Iran. The"
+      ],
+      "label": [
+        "<B>Iranian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuisine_by_culture",
+        "http://dbpedia.org/resource/Category:Iranian_cuisine",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_cuisine",
+        "http://dbpedia.org/resource/Category:Persian_culture"
+      ]
+    },
+    {
+      "score": [
+        "2707.632"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–2018_Iranian_protests"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Iranian</B> demonstrations",
+        "2017-18 <B>Iranian</B> protests",
+        "2017-18 unrest in Iran",
+        "2017-19 <B>Iranian</B> protests",
+        "2017-2018 <B>Iranian</B> protests",
+        "2017-2019 <B>Iranian</B> demonstrations",
+        "2017-2019 <B>Iranian</B> protests",
+        "2017 Iran protests",
+        "2017 <B>Iranian</B> protests",
+        "2017–18 <B>Iranian</B> demonstrations",
+        "2017–18 <B>Iranian</B> protests",
+        "2017–19 <B>Iranian</B> protests",
+        "2017–2019 <B>Iranian</B> demonstrations",
+        "2017–2019 <B>Iranian</B> protests",
+        "2018 Iran protests",
+        "2018 <B>Iranian</B> protests",
+        "2018 <B>Iranian</B> riots",
+        "2018 Khuzestan protests",
+        "2018 Pro-Russian riots in Iran",
+        "2018 Pro-Russian unrest in Iran",
+        "Mostafa Salehi"
+      ],
+      "label": [
+        "2017–2018 <B>Iranian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–2018_Iranian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Iran",
+        "http://dbpedia.org/resource/Category:2017_protests",
+        "http://dbpedia.org/resource/Category:2017–2018_Iranian_protests",
+        "http://dbpedia.org/resource/Category:2018_in_Iran",
+        "http://dbpedia.org/resource/Category:2018_protests",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:December_2017_events_in_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Internet_censorship_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_movements",
+        "http://dbpedia.org/resource/Category:January_2018_events_in_Iran",
+        "http://dbpedia.org/resource/Category:Presidency_of_Hassan_Rouhani",
+        "http://dbpedia.org/resource/Category:Protest_marches",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "2597.3882"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_studies"
+      ],
+      "redirectlabel": [
+        "Iran studies",
+        "<B>Iranian</B> Studies",
+        "<B>Iranist</B>",
+        "Iranistics",
+        "Iranolog",
+        "Iranologist",
+        "Iranologists",
+        "Iranology"
+      ],
+      "comment": [
+        "<B>Iranian</B> studies (Persian: ايران‌شناسی‎ Īrānšenāsī), also referred to as Iranology and Iranistics"
+      ],
+      "label": [
+        "<B>Iranian</B> studies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_studies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Central_Asian_studies",
+        "http://dbpedia.org/resource/Category:Indo-European_studies",
+        "http://dbpedia.org/resource/Category:Iranian_peoples",
+        "http://dbpedia.org/resource/Category:Iranian_studies",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_studies"
+      ]
+    },
+    {
+      "score": [
+        "2551.4353"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Reformists"
+      ],
+      "redirectlabel": [
+        "2nd khordad movement",
+        "2nd of Khordad",
+        "2nd of Khordad Movement",
+        "Iran reform movement",
+        "Iran reformists",
+        "<B>Iranian</B> Reform Movement",
+        "<B>Iranian</B> reform movement",
+        "<B>Iranian</B> reformism",
+        "<B>Iranian</B> reformist",
+        "<B>Iranian</B> reformists",
+        "Left wing of Islamic Republic of Iran",
+        "Reform Movement (Iran)",
+        "Reform Movement in Iran"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> reformists (Persian: اصلاح‌طلبان‎, romanized: Eslâh-Talabân) are a political faction in"
+      ],
+      "label": [
+        "<B>Iranian</B> Reformists"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Reformists"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_civil_rights_and_liberties_in_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Islamic_democracy",
+        "http://dbpedia.org/resource/Category:Liberal_and_progressive_movements_within_Islam",
+        "http://dbpedia.org/resource/Category:Political_factions_in_Iran",
+        "http://dbpedia.org/resource/Category:Reform_in_Iran",
+        "http://dbpedia.org/resource/Category:Republicanism_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "2544.5115"
+      ],
+      "refCount": [
+        "66"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran_Airports_Company"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> Airports Holding Company"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Iran Airports Company (IAC) (Persian: شركت فرودگاه هاي كشور‎) is the holding and operating company for civilian airports in Iran. Its headquarters is located at Tehran Mehrabad International Airport but it has offices at all Airports in Iran."
+      ],
+      "label": [
+        "Iran Airports Company"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran_Airports_Company"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Airport_operators",
+        "http://dbpedia.org/resource/Category:Iran_Airports_company_Managing_Directors",
+        "http://dbpedia.org/resource/Category:Transport_companies_established_in_1988"
+      ]
+    },
+    {
+      "score": [
+        "2525.5698"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_rock"
+      ],
+      "redirectlabel": [
+        "Aryan rock",
+        "Heavy metal music in Iran",
+        "<B>Iranian</B> Metal",
+        "<B>Iranian</B> Rock",
+        "<B>Iranian</B> metal",
+        "<B>Iranian</B> rock and alternative music",
+        "Rock and alternative music in Iran",
+        "Rock music in Iran"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "<B>Iranian</B> rock (sometimes called Rocka red) refers to rock music produced by <B>Iranian</B> artists. Rock"
+      ],
+      "label": [
+        "<B>Iranian</B> rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_rock"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_music",
+        "http://dbpedia.org/resource/Category:20th-century_music_genres",
+        "http://dbpedia.org/resource/Category:Iranian_rock_music",
+        "http://dbpedia.org/resource/Category:Iranian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Music_scenes",
+        "http://dbpedia.org/resource/Category:Rock_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "2484.2805"
+      ],
+      "refCount": [
+        "287"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Durham_University"
+      ],
+      "redirectlabel": [
+        "Centre for <B>Iranian</B> Studies at the University of Durham",
+        "Durham University (England)",
+        "Durham University Department of History",
+        "Durham e-Theses",
+        "Durham uni",
+        "Durham university",
+        "Inter Alia (Law Journal)",
+        "Inter Alia (law journal)",
+        "The Bubble (magazine)",
+        "The Centre for <B>Iranian</B> Studies at the University of Durham",
+        "The University of Durham",
+        "Uni of durham",
+        "University of Durham",
+        "University of durham"
+      ],
+      "comment": [
+        "Durham University (legally the University of Durham) is a collegiate public research university in Durham, England, founded by an Act of Parliament in 1832 and incorporated by royal charter in 1837. It was the first recognised university to open in England for more than 600 years, after Oxford and Cambridge, and is thus one of the institutions to be described as the third-oldest university in England. As a collegiate university its main functions are divided between the academic departments of the university and its 16 colleges. In general, the departments perform research and provide teaching to students, while the colleges are responsible for their domestic arrangements and welfare."
+      ],
+      "label": [
+        "Durham University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Durham_University"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1832_establishments_in_England",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Durham,_England",
+        "http://dbpedia.org/resource/Category:Cross_country_running_venues",
+        "http://dbpedia.org/resource/Category:Durham_University",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1832",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_England_with_royal_patronage",
+        "http://dbpedia.org/resource/Category:Russell_Group",
+        "http://dbpedia.org/resource/Category:Universities_UK"
+      ]
+    },
+    {
+      "score": [
+        "2461.0813"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1953_Iranian_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1953 <B>Iranian</B> coup",
+        "1953 <B>Iranian</B> coup d'etat",
+        "1953 <B>Iranian</B> coup détat",
+        "1953 coup in Iran",
+        "28 Mordad coup",
+        "28 Mordad coup d'état",
+        "Coup d'état of Iran (1953)",
+        "Iran Coup d'état",
+        "<B>Iranian</B> Coup d'état of 1953",
+        "Operation Ajax",
+        "Operation Azari",
+        "Operation Boot",
+        "Operation TP-AJAX",
+        "Operation ajax",
+        "TP-AJAX",
+        "TP-Ajax",
+        "TPAJAX",
+        "The 1953 <B>Iranian</B> coup d’état"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1953 <B>Iranian</B> coup d'état, known in Iran as the 28 Mordad coup d'état (Persian: کودتای ۲۸ مرداد‎"
+      ],
+      "label": [
+        "1953 <B>Iranian</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1953_Iranian_coup_d'état"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1953_in_Iran",
+        "http://dbpedia.org/resource/Category:1953_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:1953_in_the_United_States",
+        "http://dbpedia.org/resource/Category:August_1953_events_in_Asia",
+        "http://dbpedia.org/resource/Category:BP",
+        "http://dbpedia.org/resource/Category:Battles_involving_Iran",
+        "http://dbpedia.org/resource/Category:CIA_activities_in_Iran",
+        "http://dbpedia.org/resource/Category:Central_Intelligence_Agency_operations",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Iran",
+        "http://dbpedia.org/resource/Category:Cold_War_intelligence_operations",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1953",
+        "http://dbpedia.org/resource/Category:False_flag_operations",
+        "http://dbpedia.org/resource/Category:History_of_the_foreign_relations_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Imperialism",
+        "http://dbpedia.org/resource/Category:Iran–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Iran",
+        "http://dbpedia.org/resource/Category:Mohammad_Reza_Pahlavi",
+        "http://dbpedia.org/resource/Category:Pahlavi_Iran",
+        "http://dbpedia.org/resource/Category:United_Kingdom_intelligence_operations",
+        "http://dbpedia.org/resource/Category:United_States_intelligence_operations",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change"
+      ]
+    },
+    {
+      "score": [
+        "2453.6626"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_calendars"
+      ],
+      "redirectlabel": [
+        "Anamaka",
+        "Anno Persarum",
+        "Anno Persico",
+        "Anâmaka",
+        "Iran Calendar",
+        "<B>Iranian</B> Calendar",
+        "<B>Iranian</B> calendar",
+        "<B>Iranian</B> civil calendar",
+        "Old Persian calendar",
+        "Persian Calendar",
+        "Persian calendar",
+        "Persian calendars",
+        "Shamsi Calendar",
+        "سالنمای هجری خورشیدی"
+      ],
+      "comment": [
+        "The <B>Iranian</B> calendars or <B>Iranian</B> chronology (Persian: گاه‌شماری ایرانی‎, Gāh-Šomāri-ye Irāni) are a"
+      ],
+      "label": [
+        "<B>Iranian</B> calendars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_calendars"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Calendars",
+        "http://dbpedia.org/resource/Category:Iranian_calendar",
+        "http://dbpedia.org/resource/Category:Iranian_culture",
+        "http://dbpedia.org/resource/Category:Iranian_inventions",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Iran",
+        "http://dbpedia.org/resource/Category:Specific_calendars"
+      ]
+    },
+    {
+      "score": [
+        "2351.0723"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Proto-Indo-Iranian_language"
+      ],
+      "redirectlabel": [
+        "PIIr.",
+        "PIIr",
+        "Pre-Indo-<B>Iranian</B>",
+        "Pre-Indo-<B>Iranian</B> language",
+        "Proto-Aryan",
+        "Proto-Indo-<B>Iranian</B>",
+        "Proto-Indo <B>Iranian</B>",
+        "Proto-Indo <B>Iranian</B> language",
+        "Proto Indo-<B>Iranian</B>",
+        "Proto Indo-<B>Iranian</B> language",
+        "Proto Indo <B>Iranian</B>",
+        "Proto Indo <B>Iranian</B> language",
+        "Proto–Indo-<B>Iranian</B> language"
+      ],
+      "comment": [
+        "Proto-Indo-<B>Iranian</B> or Proto-Indo-<B>Iranic</B> is the reconstructed proto-language of the Indo-<B>Iranian</B>"
+      ],
+      "label": [
+        "Proto-Indo-<B>Iranian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Proto-Indo-Iranian_language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Indo-Iranian_languages",
+        "http://dbpedia.org/resource/Category:Proto-languages"
+      ]
+    },
+    {
+      "score": [
+        "2322.9255"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Canadians"
+      ],
+      "redirectlabel": [
+        "Aryan Canadians",
+        "Canadians of <B>Iranian</B> descent",
+        "<B>Iranian</B>-Canadian",
+        "<B>Iranian</B> Canadian",
+        "<B>Iranian</B> community in Canada",
+        "<B>Iranians</B> in Canada",
+        "List of Canadians of <B>Iranian</B> descent",
+        "Persian-Canadian",
+        "Persian Canadian",
+        "Persian Canadians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B> Canadians or Persian Canadians are citizens of Canada whose national background is traced"
+      ],
+      "label": [
+        "<B>Iranian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Iranian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Iranian_Canadian",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_Canadians",
+        "http://dbpedia.org/resource/Category:West_Asian_Canadians"
+      ]
+    },
+    {
+      "score": [
+        "2305.319"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_plateau"
+      ],
+      "redirectlabel": [
+        "Balochistan plateau",
+        "Baluchistan plateau",
+        "Central <B>Iranian</B> Plateau",
+        "Geology of the <B>Iranian</B> plateau",
+        "Iran, Afghanistan, and Pakistan",
+        "<B>Iranian</B> Plateau",
+        "<B>Iranian</B> highlands",
+        "<B>Iranian</B> platau",
+        "Kalat plateau",
+        "Pakistan plateau",
+        "Persian Plateau",
+        "Persian plateau"
+      ],
+      "label": [
+        "<B>Iranian</B> plateau"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_plateau"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Geography_of_Kurdistan",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iranian_Plateau",
+        "http://dbpedia.org/resource/Category:Landforms_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Landforms_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Landforms_of_Central_Asia",
+        "http://dbpedia.org/resource/Category:Landforms_of_Turkmenistan",
+        "http://dbpedia.org/resource/Category:Landforms_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:Landforms_of_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Physiographic_provinces",
+        "http://dbpedia.org/resource/Category:Plateaus_of_Asia",
+        "http://dbpedia.org/resource/Category:Plateaus_of_Iran",
+        "http://dbpedia.org/resource/Category:Plateaus_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Regions_of_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2271.325"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_ancient_Iranian_peoples"
+      ],
+      "redirectlabel": [
+        "Casirotae",
+        "Chomari",
+        "Chomi (tribe)",
+        "Colaxaians",
+        "Comi (tribe)",
+        "Drepsiani",
+        "List of Ancient <B>Iranian</B> peoples",
+        "List of ancient <B>Iranian</B> tribes",
+        "List of ancient <B>iranian</B> tribes",
+        "Phthirophagi",
+        "Rhoplutae",
+        "Tambyzi",
+        "Tectosaces",
+        "Tectosaces (<B>Iranian</B> tribe)",
+        "Thambyzi",
+        "Zariaspae"
+      ],
+      "comment": [
+        "This list of ancient <B>Iranian</B> peoples or ancient <B>Iranic</B> peoples includes names of Indo-European"
+      ],
+      "label": [
+        "List of ancient <B>Iranian</B> peoples"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_ancient_Iranian_peoples"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Historical_Iranian_peoples",
+        "http://dbpedia.org/resource/Category:Lists_of_ancient_Indo-European_peoples_and_tribes",
+        "http://dbpedia.org/resource/Category:Lists_of_ancient_people"
+      ]
+    },
+    {
+      "score": [
+        "2226.2673"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_pop_music"
+      ],
+      "redirectlabel": [
+        "Aryan pop music",
+        "History of <B>Iranian</B> pop music",
+        "<B>Iranian</B> Pop",
+        "<B>Iranian</B> pop",
+        "Persian Pop music",
+        "Persian pop",
+        "Persian pop music",
+        "Persian popular music"
+      ],
+      "comment": [
+        "<B>Iranian</B> pop music refers to pop music originated in Iran, with songs mainly in Persian and other"
+      ],
+      "label": [
+        "<B>Iranian</B> pop music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_pop_music"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_pop_music",
+        "http://dbpedia.org/resource/Category:Pop_music_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2216.9985"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_philosophy"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Iranian</B> philosophy",
+        "History of philosophy in Iran",
+        "<B>Iranian</B> Philosophy",
+        "<B>Iranian</B> thinkers",
+        "<B>Iranian</B> thinking",
+        "<B>Iranian</B> thought",
+        "Persian philosophy",
+        "Persian thought",
+        "Philosophy in Iran",
+        "Philosophy of Iran"
+      ],
+      "comment": [
+        "<B>Iranian</B> philosophy (Persian: فلسفه ایرانی) or Persian philosophy can be traced back as far as to"
+      ],
+      "label": [
+        "<B>Iranian</B> philosophy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_philosophy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_philosophy",
+        "http://dbpedia.org/resource/Category:Philosophy_by_culture",
+        "http://dbpedia.org/resource/Category:Philosophy_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "2216.1907"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islamic_Republic_of_Iran_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of Iran",
+        "Iran Air Force",
+        "<B>Iranian</B> Air-Force",
+        "<B>Iranian</B> Air force",
+        "<B>Iranian</B> Airforce",
+        "<B>Iranian</B> air force",
+        "Islamic Republic of Iran Air force",
+        "Islamic Republic of Iran Airforce",
+        "List of senior officers of the <B>Iranian</B> Air Force",
+        "Peace Net",
+        "Peace Ruby",
+        "Persian Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " the early 1980s when the former Imperial <B>Iranian</B> Air Force was renamed."
+      ],
+      "label": [
+        "Islamic Republic of Iran Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islamic_Republic_of_Iran_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Islamic_Republic_of_Iran_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1979"
+      ]
+    },
+    {
+      "score": [
+        "2178.9421"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–2021_Iranian_protests"
+      ],
+      "redirectlabel": [
+        "2016-2021 <B>Iranian</B> Insurgency",
+        "2016-2021 <B>Iranian</B> protests",
+        "2016-2022 <B>Iranian</B> protests",
+        "2016–2021 <B>Iranian</B> Insurgency",
+        "2016–2021 <B>Iranian</B> protests",
+        "2016–2022 <B>Iranian</B> protests",
+        "2017-2021 <B>Iranian</B> protests",
+        "2017-2022 <B>Iranian</B> protests",
+        "2017–2022 <B>Iranian</B> protests",
+        "2020-2021 <B>Iranian</B> protests",
+        "2020–2021 <B>Iranian</B> protests",
+        "Late-2020 Iran protests"
+      ],
+      "label": [
+        "2017–2021 <B>Iranian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–2021_Iranian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran",
+        "http://dbpedia.org/resource/Category:Protests_over_responses_to_the_COVID-19_pandemic"
+      ]
+    },
+    {
+      "score": [
+        "2137.8357"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_religions"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> Religion",
+        "<B>Iranian</B> religion",
+        "<B>Iranic</B> religion",
+        "<B>Iranic</B> religions",
+        "Persian Religions",
+        "Persian deities",
+        "Persian religion",
+        "Persian religions",
+        "Religion and Culture in Ancient Iran",
+        "Religion and culture in ancient Iran"
+      ],
+      "comment": [
+        "<B>Iranian</B> religions are religions which originated in Greater Iran."
+      ],
+      "label": [
+        "<B>Iranian</B> religions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_religions"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Indo-European_religion",
+        "http://dbpedia.org/resource/Category:Iranian_culture",
+        "http://dbpedia.org/resource/Category:Iranian_religions"
+      ]
+    },
+    {
+      "score": [
+        "2115.2434"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "label": [
+        "<B>Iranian</B> Korean"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Korean"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Korean"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B>-Korean",
+        "<B>Iranian</B>-Koreans",
+        "<B>Iranian</B> Koreans",
+        "Korean-<B>Iranian</B>",
+        "Korean-<B>Iranians</B>",
+        "Korean <B>Iranian</B>",
+        "Korean <B>Iranians</B>"
+      ]
+    },
+    {
+      "score": [
+        "2107.474"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_diaspora"
+      ],
+      "redirectlabel": [
+        "Aryan diaspora",
+        "Aryans abroad",
+        "Aryans in Denmark",
+        "Emigration from Iran",
+        "<B>Iranian</B> citizens abroad",
+        "<B>Iranians</B> in Denmark",
+        "Overseas <B>Iranian</B>",
+        "Persian diaspora"
+      ],
+      "comment": [
+        "<B>Iranians</B> abroad or <B>Iranian</B> diaspora are <B>Iranian</B> people living outside Iran and their children born"
+      ],
+      "label": [
+        "<B>Iranian</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2084.8801"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–2012_Iranian_protests"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Iranian</B> protests",
+        "2011-2012 <B>Iranian</B> protests",
+        "2011-2013 <B>Iranian</B> protests",
+        "2011 Iran protests",
+        "2011 <B>Iranian</B> Protests",
+        "2011 <B>Iranian</B> protests",
+        "2011–12 <B>Iranian</B> protests",
+        "2011–2013 <B>Iranian</B> protests",
+        "February 2011 protests in Iran",
+        "Iran protests 2011",
+        "<B>Iranian</B> Revolution of 2011",
+        "Jasmine Revolution in Iran"
+      ],
+      "label": [
+        "2011–2012 <B>Iranian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–2012_Iranian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_in_Iran",
+        "http://dbpedia.org/resource/Category:2011_protests",
+        "http://dbpedia.org/resource/Category:2011_riots",
+        "http://dbpedia.org/resource/Category:2011–2012_Iranian_protests",
+        "http://dbpedia.org/resource/Category:2012_in_Iran",
+        "http://dbpedia.org/resource/Category:2012_protests",
+        "http://dbpedia.org/resource/Category:2012_riots",
+        "http://dbpedia.org/resource/Category:Impact_of_the_Arab_Spring",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Protest_marches",
+        "http://dbpedia.org/resource/Category:Protests_against_results_of_elections",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "2073.9429"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2004_Iranian_legislative_election"
+      ],
+      "redirectlabel": [
+        "2004 Iran Majlis election",
+        "2004 <B>Iranian</B> Majlis election",
+        "2004 <B>Iranian</B> parliamentary elections",
+        "Iran Majles election, 2004",
+        "Iran Majlis election, 2004",
+        "Iran Majlis election 2004",
+        "<B>Iranian</B> Majles election, 2004",
+        "<B>Iranian</B> Majlis election, 2004",
+        "<B>Iranian</B> Majlis election of 2004",
+        "<B>Iranian</B> Majlis elections of 2004",
+        "<B>Iranian</B> legislative election, 2004",
+        "<B>Iranian</B> parliamentary elections, 2004"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> parliamentary elections of February 20 and May 7, 2004 were a victory for Islamic"
+      ],
+      "label": [
+        "2004 <B>Iranian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2004_Iranian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2004_in_Iran",
+        "http://dbpedia.org/resource/Category:February_2004_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Islamic_Consultative_Assembly_elections",
+        "http://dbpedia.org/resource/Category:May_2004_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2050.9814"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Iranians"
+      ],
+      "redirectlabel": [
+        "Ancient Persian religion",
+        "Aryan deities",
+        "Aryan god",
+        "Aryan gods",
+        "Aryan mythology",
+        "Indo-Aryan deities",
+        "Indo-<B>Iranian</B> migration",
+        "Indo-<B>Iranian</B> mythology",
+        "Indo-<B>Iranian</B> origins",
+        "Indo-<B>Iranian</B> people",
+        "Indo-<B>Iranian</B> peoples",
+        "Indo-<B>Iranian</B> religion",
+        "Indo-<B>Iranic</B> people",
+        "Indo-<B>Iranic</B> peoples",
+        "List of cognate terms in Indo-<B>Iranian</B> mythology",
+        "List of cognate terms in Vedic and Avestan mythology",
+        "Proto-Indo-<B>Iranian</B> mythology",
+        "Proto-Indo-<B>Iranian</B> religion",
+        "Proto-Indo-<B>Iranians</B>",
+        "Proto-Vedic religion",
+        "Proto–Indo-<B>Iranians</B>"
+      ],
+      "comment": [
+        "Indo-<B>Iranian</B> peoples, also known as Indo-<B>Iranic</B> peoples by scholars, and sometimes as Arya or"
+      ],
+      "label": [
+        "Indo-<B>Iranians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Iranians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_peoples_of_Asia",
+        "http://dbpedia.org/resource/Category:Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Indo-Iranian_peoples",
+        "http://dbpedia.org/resource/Category:Nomadic_groups_in_Eurasia"
+      ]
+    },
+    {
+      "score": [
+        "2036.0575"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Arabs"
+      ],
+      "redirectlabel": [
+        "Arab of Khuzestan",
+        "Arabic-Speaking <B>Iranians</B>",
+        "Arabic Speaking <B>Iranians</B>",
+        "Arabs in Iran",
+        "Arabs in Persia",
+        "Arabs of Khuzestan",
+        "Genetic studies on <B>Iranian</B> Arabs",
+        "History of the Arabs in Iran",
+        "<B>Iranian</B> Arab",
+        "Khuzestani Arab",
+        "Persian Arabs",
+        "عربان ايرانی"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B> Arabs (Arabic: عرب إيران‎ ʿArab Īrān; Persian: عرب‌های ايران‎ Arabhāye Irān) refers to the"
+      ],
+      "label": [
+        "<B>Iranian</B> Arabs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Arabs"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iranian_Arab_people",
+        "http://dbpedia.org/resource/Category:Khuzestan_Province",
+        "http://dbpedia.org/resource/Category:Semitic-speaking_peoples"
+      ]
+    },
+    {
+      "score": [
+        "2005.0364"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2020_Iranian_protests"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Iranian</B> Protests",
+        "2019-2020 <B>Iranian</B> protests",
+        "2019-20 <B>Iranian</B> protests",
+        "2019 <B>Iranian</B> fuel protests",
+        "2019 <B>Iranian</B> protests",
+        "2019–20 <B>Iranian</B> protests",
+        "2020 Iran protests",
+        "2020 <B>Iranian</B> Revolt",
+        "2020 <B>Iranian</B> protests",
+        "Bloody November"
+      ],
+      "label": [
+        "2019–2020 <B>Iranian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2020_Iranian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_internet_outages",
+        "http://dbpedia.org/resource/Category:2019_in_Iran",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2019–2020_Iranian_protests",
+        "http://dbpedia.org/resource/Category:2020_controversies_in_Iran",
+        "http://dbpedia.org/resource/Category:2020_in_Iran",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:December_2019_events_in_Iran",
+        "http://dbpedia.org/resource/Category:February_2020_events_in_Iran",
+        "http://dbpedia.org/resource/Category:Fuel_protests",
+        "http://dbpedia.org/resource/Category:Internet_censorship_in_Iran",
+        "http://dbpedia.org/resource/Category:January_2020_events_in_Iran",
+        "http://dbpedia.org/resource/Category:November_2019_events_in_Iran",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1961.9751"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Space_Agency"
+      ],
+      "redirectlabel": [
+        "Iran Space Agency",
+        "Iran space program",
+        "<B>Iranian</B> space program",
+        "سازمان فضایی ایران"
+      ],
+      "comment": [
+        "The <B>Iranian</B> Space Agency (ISA, Persian: سازمان فضایی ایران sâzmân-e Fazâyi-e Irân) is Iran's"
+      ],
+      "label": [
+        "<B>Iranian</B> Space Agency"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Space_Agency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_2003",
+        "http://dbpedia.org/resource/Category:Government_agencies_of_Iran",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Iran",
+        "http://dbpedia.org/resource/Category:Scientific_organisations_based_in_Iran",
+        "http://dbpedia.org/resource/Category:Space_agencies",
+        "http://dbpedia.org/resource/Category:Space_program_of_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1957.0549"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Embassy_siege"
+      ],
+      "redirectlabel": [
+        "Iran embassy seige",
+        "Iran embassy siege",
+        "<B>Iranian</B> Embassy Siege",
+        "<B>Iranian</B> embassy seige",
+        "<B>Iranian</B> embassy siege",
+        "Operation Nimrod",
+        "Siege of the <B>Iranian</B> Embassy",
+        "Six-Day Siege",
+        "Six-Day siege"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> Embassy siege took place from 30 April to 5 May 1980, after a group of six armed men"
+      ],
+      "label": [
+        "<B>Iranian</B> Embassy siege"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Embassy_siege"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_fires_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:1980_in_London",
+        "http://dbpedia.org/resource/Category:1980_in_international_relations",
+        "http://dbpedia.org/resource/Category:1980_mass_shootings_in_Europe",
+        "http://dbpedia.org/resource/Category:1980_murders_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:1980s_in_the_City_of_Westminster",
+        "http://dbpedia.org/resource/Category:1980s_mass_shootings_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:20th-century_history_of_the_British_Army",
+        "http://dbpedia.org/resource/Category:20th_century_in_the_Royal_Borough_of_Kensington_and_Chelsea",
+        "http://dbpedia.org/resource/Category:April_1980_crimes",
+        "http://dbpedia.org/resource/Category:April_1980_events_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Iran",
+        "http://dbpedia.org/resource/Category:Attacks_on_buildings_and_structures_in_1980",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_of_Iran",
+        "http://dbpedia.org/resource/Category:Battles_and_military_actions_in_London",
+        "http://dbpedia.org/resource/Category:Diplomatic_incidents",
+        "http://dbpedia.org/resource/Category:Fires_in_London",
+        "http://dbpedia.org/resource/Category:Hostage_taking_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Iran–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Khuzestan_conflict",
+        "http://dbpedia.org/resource/Category:Mass_shootings_in_England",
+        "http://dbpedia.org/resource/Category:May_1980_crimes",
+        "http://dbpedia.org/resource/Category:May_1980_events_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Metropolitan_Police_operations",
+        "http://dbpedia.org/resource/Category:Military_raids",
+        "http://dbpedia.org/resource/Category:Sieges_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Special_Air_Service_operations",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_London_in_the_1980s",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_the_United_Kingdom_in_1980"
+      ]
+    },
+    {
+      "score": [
+        "1949.7762"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_ground_jay"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> Ground-Jay",
+        "<B>Iranian</B> Ground-jay",
+        "<B>Iranian</B> Ground Jay",
+        "<B>Iranian</B> ground-jay",
+        "Persian Ground-jay",
+        "Persian Ground Jay",
+        "Persian ground-jay",
+        "Pleske's Ground-jay",
+        "Pleske's Ground Jay",
+        "Pleske's ground jay",
+        "Podoces pleskei"
+      ],
+      "label": [
+        "<B>Iranian</B> ground jay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_ground_jay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1896",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Iran",
+        "http://dbpedia.org/resource/Category:Podoces",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1940.0244"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "label": [
+        "Chinese <B>Iranian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Iranian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Iranian"
+      ],
+      "redirectlabel": [
+        "Chinese-<B>Iranian</B>",
+        "Chinese-<B>Iranians</B>",
+        "Chinese <B>Iranian</B> (disambiguation)",
+        "Chinese <B>Iranians</B>",
+        "<B>Iranian</B>-Chinese",
+        "<B>Iranian</B> Chinese"
+      ]
+    },
+    {
+      "score": [
+        "1932.1262"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_wedding"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> honeymoon",
+        "<B>Iranian</B> marriage",
+        "<B>Iranian</B> wedding tradition",
+        "Khastegari",
+        "Khawstgari",
+        "Marriage in Iran",
+        "Persian marriage",
+        "Persian wedding"
+      ],
+      "label": [
+        "<B>Iranian</B> wedding"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_wedding"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_culture",
+        "http://dbpedia.org/resource/Category:Iranian_folklore",
+        "http://dbpedia.org/resource/Category:Marriage,_unions_and_partnerships_in_Iran",
+        "http://dbpedia.org/resource/Category:Weddings_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1903.2247"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Nuclear_program_of_Iran"
+      ],
+      "redirectlabel": [
+        "Civilian nuclear program of Iran",
+        "Iran's Nuclear Program",
+        "Iran's civilian nuclear program",
+        "Iran's nuclear fuel swap",
+        "Iran's nuclear power programme",
+        "Iran's nuclear program",
+        "Iran's nuclear programme",
+        "Iran's nuclear weapons",
+        "Iran conflict",
+        "Iran nuclear",
+        "Iran nuclear program",
+        "Iran nuclear programme",
+        "<B>Iranian</B> Nuclear Crisis",
+        "<B>Iranian</B> Nuclear Dossier",
+        "<B>Iranian</B> Nuclear Program",
+        "<B>Iranian</B> Nuclear program",
+        "<B>Iranian</B> enrichment program",
+        "<B>Iranian</B> nuclear crisis",
+        "<B>Iranian</B> nuclear program",
+        "<B>Iranian</B> nuclear programme",
+        "<B>Iranian</B> nuclear project",
+        "<B>Iranian</B> nuclear weapons program",
+        "<B>Iranian</B> uranium enrichment program",
+        "Irans nuclear program",
+        "Iran’s nuclear program",
+        "Nuclear Iran",
+        "Nuclear Power Production & Development Co. of Iran",
+        "Nuclear Program of Iran",
+        "Nuclear negotiations",
+        "Nuclear power in Iran",
+        "Nuclear program of iran",
+        "Nuclear programme of Iran",
+        "Nuclear weapons in Iran"
+      ],
+      "comment": [
+        "The nuclear program of Iran has included several research sites, two uranium mines, a research reactor, and uranium processing facilities that include three known uranium enrichment plants. In 1970, Iran ratified the Non-Proliferation Treaty (NPT), making its nuclear program subject to the IAEA's verification. As of 2015, Iran's nuclear program has cost $100 billion in lost oil revenues and lost foreign direct investment because of international sanctions ($500 billion, when including other opportunity costs)."
+      ],
+      "label": [
+        "Nuclear program of Iran"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Nuclear_program_of_Iran"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iran–European_Union_relations",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Nuclear_energy_in_Iran",
+        "http://dbpedia.org/resource/Category:Nuclear_program_of_Iran",
+        "http://dbpedia.org/resource/Category:Politics_of_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1890.7299"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Front_(Iran)"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> National Front",
+        "<B>Iranian</B> National Front in Exile",
+        "Jebhe Melli",
+        "National Front Party (Iran)",
+        "National Front of Iran"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The National Front of Iran (Persian: جبهه‌ ملی ایران‎, romanized: Jebhe-ye Melli-ye Irān) is an opposition political organization in Iran, founded by Mohammad Mosaddegh in 1949. It is the oldest and arguably the largest pro-democracy group operating inside Iran despite having never been able to recover the prominence it had in the early 1950s."
+      ],
+      "label": [
+        "National Front (Iran)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Front_(Iran)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_nationalism",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:National_Front_(Iran)",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1949",
+        "http://dbpedia.org/resource/Category:Political_parties_of_the_Iranian_Revolution",
+        "http://dbpedia.org/resource/Category:Political_party_alliances_in_Iran",
+        "http://dbpedia.org/resource/Category:Secularism_in_Iran",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties"
+      ]
+    },
+    {
+      "score": [
+        "1879.6682"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_protests_against_compulsory_hijab"
+      ],
+      "redirectlabel": [
+        "2017-19 <B>Iranian</B> protests against compulsory hijab",
+        "2017-19 <B>Iranian</B> protests against compulsory hjab",
+        "2017-2019 <B>Iranian</B> protests against compulsory hijab",
+        "2017–19 <B>Iranian</B> protests against compulsory hijab",
+        "2017–19 <B>Iranian</B> protests against compulsory hjab",
+        "2017–2019 <B>Iranian</B> protests against compulsory hijab",
+        "Girl of Enghelab Street",
+        "Girls of Enghelab Street",
+        "Girls of Enghelab Street (protest)",
+        "Girls of Enqelab Street",
+        "Hijab protest in Iran",
+        "Hijab protests in Iran",
+        "Narges Hosseini",
+        "Shima Babaei",
+        "Vida Movahed",
+        "دختران خیابان انقلاب"
+      ],
+      "label": [
+        "<B>Iranian</B> protests against compulsory hijab"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_protests_against_compulsory_hijab"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Iran",
+        "http://dbpedia.org/resource/Category:2017_protests",
+        "http://dbpedia.org/resource/Category:2017–2018_Iranian_protests",
+        "http://dbpedia.org/resource/Category:2018_in_Iran",
+        "http://dbpedia.org/resource/Category:2018_protests",
+        "http://dbpedia.org/resource/Category:2019_in_Iran",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Iran",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:2021_in_Iran",
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:2021–2022_Iranian_protests",
+        "http://dbpedia.org/resource/Category:2022_in_Iran",
+        "http://dbpedia.org/resource/Category:2022_protests",
+        "http://dbpedia.org/resource/Category:Civil_rights_protests",
+        "http://dbpedia.org/resource/Category:Clothing_controversies",
+        "http://dbpedia.org/resource/Category:December_2017_events_in_Iran",
+        "http://dbpedia.org/resource/Category:Hijab",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_activists",
+        "http://dbpedia.org/resource/Category:Islam-related_controversies_in_Asia",
+        "http://dbpedia.org/resource/Category:Islam_and_women",
+        "http://dbpedia.org/resource/Category:Islamic_extremism",
+        "http://dbpedia.org/resource/Category:Mahsa_Amini_protests",
+        "http://dbpedia.org/resource/Category:Persecution_by_Muslims",
+        "http://dbpedia.org/resource/Category:Persecution_in_Iran",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran",
+        "http://dbpedia.org/resource/Category:Rage_against_the_veil_protests",
+        "http://dbpedia.org/resource/Category:Sex_segregation_and_Islam",
+        "http://dbpedia.org/resource/Category:Sexism_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Women's_rights_movement_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1874.2411"
+      ],
+      "refCount": [
+        "67"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Persian_traditional_music"
+      ],
+      "redirectlabel": [
+        "Classical Persian music",
+        "History of Persian traditional music",
+        "<B>Iranian</B> classical music",
+        "<B>Iranian</B> traditional music",
+        "Isfahan Mode",
+        "Musiqi-e assil",
+        "Persian Classical",
+        "Persian classical music",
+        "Persian folk music",
+        "Sonati"
+      ],
+      "comment": [
+        "Persian traditional music or <B>Iranian</B> traditional music, also known as Persian classical music or"
+      ],
+      "label": [
+        "Persian traditional music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Persian_traditional_music"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Classical_and_art_music_traditions",
+        "http://dbpedia.org/resource/Category:Iranian_inventions",
+        "http://dbpedia.org/resource/Category:Iranian_music",
+        "http://dbpedia.org/resource/Category:Maqam-based_music_tradition",
+        "http://dbpedia.org/resource/Category:Persian_classical_music"
+      ]
+    },
+    {
+      "score": [
+        "1873.6488"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islamic_Republic_of_Iran_Army"
+      ],
+      "redirectlabel": [
+        "Army of Iran",
+        "Artesh",
+        "I.R.I. Army",
+        "I.R.Iran Army",
+        "IRI Army",
+        "Imperial <B>Iranian</B> Army",
+        "Iran Amry",
+        "Iran Army",
+        "<B>Iranian</B> Imperial Army",
+        "<B>Iranian</B> army",
+        "Islamic Republic of Iran army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        ": آجا‎), simply known as the <B>Iranian</B> Army or Artesh (Persian: ارتش‎, romanized: Arteš), is the"
+      ],
+      "label": [
+        "Islamic Republic of Iran Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islamic_Republic_of_Iran_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islamic_Republic_of_Iran_Army",
+        "http://dbpedia.org/resource/Category:Military_of_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1872.738"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Assassination_of_Iranian_nuclear_scientists"
+      ],
+      "redirectlabel": [
+        "Adreshire Hassanpour",
+        "Ardashir Hosseinpour",
+        "Ardeshir Hossein-pour",
+        "Ardeshire Hassanpour",
+        "Ardshir Hassanpour",
+        "Assassination of Darioush Rezaeinejad",
+        "Assassination of <B>Iranian</B> Nuclear Scientists",
+        "Assassinations of <B>Iranian</B> nuclear scientists",
+        "Darioush Rezaeinejad",
+        "Darioush Rezai-Nejad",
+        "Dariush Rezaei-Nejad",
+        "Daryoush Rezaei",
+        "Hosseinpour",
+        "<B>Iranian</B> nuclear scientist killed",
+        "Mostafa Ahmadi-Rowshan"
+      ],
+      "comment": [
+        ". In 2011 and 2012, <B>Iranian</B> authorities arrested a number of <B>Iranians</B> alleged to have carried out the"
+      ],
+      "label": [
+        "Assassination of <B>Iranian</B> nuclear scientists"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Assassination_of_Iranian_nuclear_scientists"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Assassination_campaigns",
+        "http://dbpedia.org/resource/Category:Conflicts_involving_the_People's_Mujahedin_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_terrorism_victims",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Israel_relations",
+        "http://dbpedia.org/resource/Category:Nuclear_energy_in_Iran",
+        "http://dbpedia.org/resource/Category:Nuclear_program_of_Iran",
+        "http://dbpedia.org/resource/Category:People_killed_in_Mossad_operations",
+        "http://dbpedia.org/resource/Category:Politics_of_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1871.0421"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Persian_Jews"
+      ],
+      "redirectlabel": [
+        "Aryan Jews",
+        "Genetic studies on Persian Jews",
+        "Iran's Jewry",
+        "<B>Iranian</B>-Israeli",
+        "<B>Iranian</B>-Israelis",
+        "<B>Iranian</B> Israelis",
+        "<B>Iranian</B> Jew",
+        "<B>Iranian</B> Jewish",
+        "<B>Iranian</B> Jews",
+        "Israeli-<B>Iranians</B>",
+        "Israeli <B>Iranian</B>",
+        "Jewish <B>Iranians</B>",
+        "Jewish education in Iran",
+        "Jews of Iran",
+        "Lakhloukh",
+        "List of Persian Jews",
+        "Parsim",
+        "Persian-Israeli",
+        "Persian-Jewish",
+        "Persian Israeli",
+        "Persian Jew",
+        "Persian Jewish",
+        "Persian Jewry",
+        "Tabari Jews"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Persian Jews or <B>Iranian</B> Jews (Persian: یهودیان ایرانی‎, Hebrew: יהודים פרסים) are Jews historically"
+      ],
+      "label": [
+        "Persian Jews"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Persian_Jews"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iranian_Jews",
+        "http://dbpedia.org/resource/Category:Jewish_ethnic_groups",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Persia_and_Iran",
+        "http://dbpedia.org/resource/Category:Mizrahi_Jews",
+        "http://dbpedia.org/resource/Category:Sephardi_Jews_topics"
+      ]
+    },
+    {
+      "score": [
+        "1859.047"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1988_executions_of_Iranian_political_prisoners"
+      ],
+      "redirectlabel": [
+        "1988 Killing of <B>Iranian</B> Prisoners",
+        "1988 Mass Executions in Iran",
+        "1988 Mass executions in Iran",
+        "1988 Massacre of <B>Iranian</B> Prisoners",
+        "1988 Massacre of <B>Iranian</B> prisoners",
+        "1988 executions of <B>Iranian</B> prisoners",
+        "1988 mass executions in Iran",
+        "1988 massacre of <B>Iranian</B> Prisoners",
+        "1988 massacre of <B>Iranian</B> prisoners",
+        "Massacre of <B>Iranian</B> Political Prisoners",
+        "Massacre of <B>Iranian</B> Political Prisoners in Summer of 1988",
+        "Massacre of <B>Iranian</B> political prisoners"
+      ],
+      "comment": [
+        "The 1988 executions of <B>Iranian</B> political prisoners was a series of state-sponsored execution of"
+      ],
+      "label": [
+        "1988 executions of <B>Iranian</B> political prisoners"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1988_executions_of_Iranian_political_prisoners"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_in_Iran",
+        "http://dbpedia.org/resource/Category:Fatwas",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_war_crimes",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_War_crimes",
+        "http://dbpedia.org/resource/Category:Islamic_courts_and_tribunals",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1988",
+        "http://dbpedia.org/resource/Category:Massacres_in_Iran",
+        "http://dbpedia.org/resource/Category:People's_Mujahedin_of_Iran",
+        "http://dbpedia.org/resource/Category:People_executed_by_Iran",
+        "http://dbpedia.org/resource/Category:Political_and_cultural_purges",
+        "http://dbpedia.org/resource/Category:Political_imprisonment_in_Iran",
+        "http://dbpedia.org/resource/Category:Political_repression_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1837.0588"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Iranian_Futsal_Super_League"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Iranian</B> Futsal Super League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2019–20 <B>Iranian</B> Futsal Super League is the 21st season of the Iran Pro League and the 16th"
+      ],
+      "label": [
+        "2019–20 <B>Iranian</B> Futsal Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Iranian_Futsal_Super_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_Iranian_futsal_leagues",
+        "http://dbpedia.org/resource/Category:Iranian_Futsal_Super_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1834.1858"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Judeo-Iranian_languages"
+      ],
+      "redirectlabel": [
+        "Judaeo-<B>Iranian</B> languages",
+        "Judaeo-Persian dialects",
+        "Judaeo-Persian languages",
+        "Judeo-<B>Iranian</B>",
+        "Judeo-Persian dialect",
+        "Judeo-Persian dialects",
+        "Judeo-Persian languages",
+        "Judæo-<B>Iranian</B> languages",
+        "Judæo-Persian dialects",
+        "Judæo-Persian languages"
+      ],
+      "comment": [
+        "The Judeo-<B>Iranian</B> languages (or dialects) are a number of related Jewish variants of <B>Iranian</B>"
+      ],
+      "label": [
+        "Judeo-<B>Iranian</B> languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Judeo-Iranian_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endangered_Iranian_languages",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Persia_and_Iran",
+        "http://dbpedia.org/resource/Category:Judeo-Persian_languages"
+      ]
+    },
+    {
+      "score": [
+        "1797.6754"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranians_in_the_United_Kingdom"
+      ],
+      "redirectlabel": [
+        "Aryans in the United Kingdom",
+        "British-<B>Iranian</B>",
+        "British Aryans",
+        "British <B>Iranian</B>",
+        "British <B>Iranians</B>",
+        "British people of <B>Iranian</B> descent",
+        "<B>Iranian</B>-British",
+        "<B>Iranian</B> British",
+        "<B>Iranian</B> British people",
+        "<B>Iranian</B> Briton",
+        "<B>Iranian</B> Britons",
+        "<B>Iranian</B> Brits",
+        "<B>Iranians</B> in Great Britain",
+        "<B>Iranians</B> in the UK",
+        "Persian British"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranians</B> in the United Kingdom, consist of people of <B>Iranian</B> nationality who have settled in the"
+      ],
+      "label": [
+        "<B>Iranians</B> in the United Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranians_in_the_United_Kingdom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_Iranian",
+        "http://dbpedia.org/resource/Category:British_people_of_Iranian_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_Kingdom_by_country_of_origin",
+        "http://dbpedia.org/resource/Category:Iranian_diaspora_in_Europe",
+        "http://dbpedia.org/resource/Category:Islam_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Muslim_communities_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1791.3226"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islamic_Republic_of_Iran_Navy"
+      ],
+      "redirectlabel": [
+        "Commanders of Imperial <B>Iranian</B> Navy",
+        "Commanding officer of Imperial <B>Iranian</B> Navy",
+        "Commending officer of Imperial <B>Iranian</B> Navy",
+        "Iran's Navy Ranks Insignia",
+        "Iran Navy",
+        "Iran Navy Ranks Insignia",
+        "<B>Iranian</B> Navy",
+        "<B>Iranian</B> navy",
+        "List of senior officers of the <B>Iranian</B> Navy",
+        "NEDAJA",
+        "Naval ranks and insignia of Iran",
+        "Naval ranks and insignia of iran",
+        "Navy of Iran",
+        "Persian Navy",
+        "Structure of the <B>Iranian</B> Navy"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " Republic of Iran Army (Artesh). In December 2019, the <B>Iranian</B> Navy's head Rear Admiral Hossein Khanzadi"
+      ],
+      "label": [
+        "Islamic Republic of Iran Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islamic_Republic_of_Iran_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islamic_Republic_of_Iran_Navy"
+      ]
+    },
+    {
+      "score": [
+        "1784.6403"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "label": [
+        "<B>Iranian</B> Japanese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Japanese"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Japanese"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B>-Japanese",
+        "Japanese-<B>Iranian</B>",
+        "Japanese-<B>Iranians</B>",
+        "Japanese <B>Iranian</B>",
+        "Japanese <B>Iranians</B>"
+      ]
+    },
+    {
+      "score": [
+        "1770.4495"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Georgians"
+      ],
+      "redirectlabel": [
+        "Georgian in Iran",
+        "Georgians in Iran",
+        "History of the <B>Iranian</B> Georgians",
+        "<B>Iranian</B> Georgian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B> Georgians (Georgian: ირანის ქართველები; Persian: گرجی‌های ایران‎) are <B>Iranian</B> citizens who"
+      ],
+      "label": [
+        "<B>Iranian</B> Georgians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Georgians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Iran_relations",
+        "http://dbpedia.org/resource/Category:Iranian_people_of_Georgian_descent"
+      ]
+    },
+    {
+      "score": [
+        "1765.2625"
+      ],
+      "refCount": [
+        "67"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Persian_Gulf_Pro_League"
+      ],
+      "redirectlabel": [
+        "Iran's Premier Football League",
+        "Iran's Premier Football league",
+        "Iran's Premier League Football",
+        "Iran's Premier League football",
+        "Iran Premier Football League",
+        "Iran Premier League",
+        "Iran Pro League",
+        "Iran Professional League",
+        "Iran premier football league",
+        "Iran pro League",
+        "Irancell Cup",
+        "<B>Iranian</B> Premier Football League",
+        "<B>Iranian</B> Premier League",
+        "<B>Iranian</B> Premiere League Football",
+        "<B>Iranian</B> Pro League",
+        "Persian Gulf Cup",
+        "Persian Gulf League",
+        "Persian league",
+        "لیگ برتر خلیج فارس"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " the Persian Gulf Pro League becomes the <B>Iranian</B> football champion, and the lowest finishing teams are relegated to Azadegan League."
+      ],
+      "label": [
+        "Persian Gulf Pro League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Persian_Gulf_Pro_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Iran",
+        "http://dbpedia.org/resource/Category:Persian_Gulf_Pro_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Iran",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2001",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1760.4194"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Iranian_presidential_election"
+      ],
+      "redirectlabel": [
+        "2013 Gholam-Ali Haddad-Adel presidential campaign",
+        "2013 Gholam-Ali Haddad-Adelpresidential campaign",
+        "2013 Opinion polling for the <B>Iranian</B> presidential election",
+        "Gholam-Ali Haddad-Adel 2013 presidential campaign",
+        "Gholam-Ali Haddad-Adel presidential campaign, 2013",
+        "Iran presidential election, 2013",
+        "<B>Iranian</B> presidential election, 2013",
+        "Mohhammad Gharazi presidential campaign, 2013",
+        "Opinion polling for the 2013 <B>Iranian</B> presidential election",
+        "Opinion polling for the <B>Iranian</B> presidential election, 2013"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Ghalibaf finished second with 16.56% of the vote. Over 36.7 million <B>Iranians</B> voted, 72.71% of eligible voters."
+      ],
+      "label": [
+        "2013 <B>Iranian</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Iranian_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_Iranian_presidential_election",
+        "http://dbpedia.org/resource/Category:2013_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2013_elections_in_Iran",
+        "http://dbpedia.org/resource/Category:June_2013_events_in_Iran",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1747.2787"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greater_Iran"
+      ],
+      "redirectlabel": [
+        "Greater Persia",
+        "Greater iran",
+        "Iran (continent)",
+        "Iran (subcontinent)",
+        "<B>Iranian</B> Cultural Continent",
+        "<B>Iranian</B> World",
+        "<B>Iranian</B> continent",
+        "<B>Iranian</B> cultural continent",
+        "<B>Iranian</B> nations",
+        "<B>Iranian</B> subcontinent",
+        "<B>Iranian</B> world",
+        "Persia-Iran",
+        "Persian Cultural Continent",
+        "Persian World",
+        "Persianate world",
+        "Persophere",
+        "Persosphere"
+      ],
+      "comment": [
+        " the territory on the <B>Iranian</B> plateau and its bordering plains. The Encyclopædia <B>Iranica</B> uses the term <B>Iranian</B> Cultural Continent for this region."
+      ],
+      "label": [
+        "Greater Iran"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greater_Iran"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afghanistan–Iran_relations",
+        "http://dbpedia.org/resource/Category:Armenia–Iran_relations",
+        "http://dbpedia.org/resource/Category:Azerbaijan–Iran_relations",
+        "http://dbpedia.org/resource/Category:Central_Asia",
+        "http://dbpedia.org/resource/Category:Country_classifications",
+        "http://dbpedia.org/resource/Category:Cultural_regions",
+        "http://dbpedia.org/resource/Category:Geography_of_Iran",
+        "http://dbpedia.org/resource/Category:Georgia_(country)–Iran_relations",
+        "http://dbpedia.org/resource/Category:Historical_geography",
+        "http://dbpedia.org/resource/Category:Historical_regions",
+        "http://dbpedia.org/resource/Category:Historical_regions_of_Iran",
+        "http://dbpedia.org/resource/Category:History_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_culture",
+        "http://dbpedia.org/resource/Category:Iranian_irredentism",
+        "http://dbpedia.org/resource/Category:Iranian_nationalism",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_relations",
+        "http://dbpedia.org/resource/Category:Iran–Pakistan_relations",
+        "http://dbpedia.org/resource/Category:Middle_East",
+        "http://dbpedia.org/resource/Category:Western_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1747.0164"
+      ],
+      "refCount": [
+        "162"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Islamic_Revolutionary_Guard_Corps"
+      ],
+      "redirectlabel": [
+        "AGIR (Iran)",
+        "Army of Guardians",
+        "Army of the Guardians",
+        "Army of the Guardians of the Islamic Revolution",
+        "Army of the guardians of the islamic revolution",
+        "Hasan Moghaddam",
+        "IRCG",
+        "IRGC",
+        "Iran's Revolutionary Guard",
+        "Iran's Revolutionary Guard Corps",
+        "Iran's Revolutionary Guards",
+        "Iran Revolutionary Guard Corps",
+        "Iran Revolutionary Guards",
+        "<B>Iranian</B> Revolutionary Guard",
+        "<B>Iranian</B> Revolutionary Guard Corps",
+        "<B>Iranian</B> Revolutionary Guards",
+        "<B>Iranian</B> Revolutionary Guards Corps",
+        "Iran’s Revolutionary Guards",
+        "Irgc",
+        "Islamic Revolution's Guard",
+        "Islamic Revolution's Guards",
+        "Islamic Revolution Guard Corps",
+        "Islamic Revolution Guards Corps",
+        "Islamic Revolution Gurdian Corps",
+        "Islamic Revolutionary Guard",
+        "Islamic Revolutionary Guard Corp",
+        "Islamic Revolutionary Guardians' Army",
+        "Islamic Revolutionary Guards",
+        "Islamic Revolutionary Guards Corp",
+        "Islamic Revolutionary Guards Corps",
+        "Pasandaran",
+        "Pasdaran (Islamic Revolutionary Guard Corps)",
+        "Pasderan",
+        "Revolution's Guard",
+        "Revolution's Guards",
+        "Revolutionary Guards",
+        "Revolutionary Guards of Iran",
+        "Revolutionary Guardsmen",
+        "Revolutionary guards",
+        "Sepaah",
+        "Sepah-e Pasdaran-e Enghelab-e Islami",
+        "Sepah-e Pasdaran-e Enghelab-e Islamii",
+        "Sepah-e Pasdaran-e Enqelab-e Eslami",
+        "Sepah-e Pasdaran",
+        "Sepah",
+        "Sepah Pasdaran",
+        "سپاه پاسداران انقلاب اسلا"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " short) is a branch of the <B>Iranian</B> Armed Forces, founded after the <B>Iranian</B> Revolution on 22 April 1979"
+      ],
+      "label": [
+        "Islamic Revolutionary Guard Corps"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Islamic_Revolutionary_Guard_Corps"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Anti-ISIL_factions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Anti-ISIL_factions_in_Syria",
+        "http://dbpedia.org/resource/Category:Anti-Zionism_in_Asia",
+        "http://dbpedia.org/resource/Category:Anti-Zionist_organizations",
+        "http://dbpedia.org/resource/Category:Axis_of_Resistance",
+        "http://dbpedia.org/resource/Category:Iranian_security_organisations",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Islamic_Revolutionary_Guard_Corps",
+        "http://dbpedia.org/resource/Category:Military_of_Iran",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1979",
+        "http://dbpedia.org/resource/Category:Organisations_of_the_Iranian_Revolution",
+        "http://dbpedia.org/resource/Category:Organizations_designated_as_terrorist_by_Bahrain",
+        "http://dbpedia.org/resource/Category:Organizations_designated_as_terrorist_by_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:Organizations_designated_as_terrorist_by_the_United_States",
+        "http://dbpedia.org/resource/Category:Pan-Islamism",
+        "http://dbpedia.org/resource/Category:Paramilitary_organisations_based_in_Iran",
+        "http://dbpedia.org/resource/Category:Pro-government_factions_of_the_Syrian_civil_war"
+      ]
+    },
+    {
+      "score": [
+        "1738.38"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Iranian"
+      ],
+      "redirectlabel": [
+        "Indo-<B>Iranian</B> (disambiguation)",
+        "Indo-<B>Iranic</B>",
+        "Indo <B>Iranian</B>",
+        "Indoiranian",
+        "Perso-<B>Iranian</B>"
+      ],
+      "label": [
+        "Indo-<B>Iranian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Iranian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1714.0599"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Australians"
+      ],
+      "redirectlabel": [
+        "Aryan Australians",
+        "History of <B>Iranian</B> Australians",
+        "<B>Iranian</B> Australian",
+        "<B>Iranians</B> in Australia",
+        "Persian-speaking people in Australia",
+        "Persian Australian",
+        "Persian Australians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B> Australians or Persian Australians are citizens of Australia whose national background or ancestry is traced from Iran."
+      ],
+      "label": [
+        "<B>Iranian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Iranian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Australia",
+        "http://dbpedia.org/resource/Category:Iranian_Australian"
+      ]
+    },
+    {
+      "score": [
+        "1697.1725"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_intervention_in_Iraq_(2014–present)"
+      ],
+      "redirectlabel": [
+        "2014 <B>Iranian</B>-led intervention against ISIS",
+        "2014 <B>Iranian</B>-led intervention in Iraq",
+        "2014 <B>Iranian</B> intervention in Iraq",
+        "<B>Iranian</B>-led intervention in Iraq",
+        "<B>Iranian</B>-led intervention in Iraq (2014-present)",
+        "<B>Iranian</B>-led intervention in Iraq (2014–present)",
+        "<B>Iranian</B> intervention in Iraq",
+        "<B>Iranian</B> intervention in Iraq (2014-present)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Reuters, believe that since mid-June 2014, <B>Iranian</B> combat troops are in Iraq, which Iran denies. Two US"
+      ],
+      "label": [
+        "<B>Iranian</B> intervention in Iraq (2014–present)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_intervention_in_Iraq_(2014–present)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iranian_involvement_in_the_War_in_Iraq_(2013–2017)",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_military_relations",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_relations",
+        "http://dbpedia.org/resource/Category:Iran–Saudi_Arabia_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Saudi_Arabia_relations",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Iraq_and_the_Levant_and_Iran",
+        "http://dbpedia.org/resource/Category:Military_operations_of_the_War_in_Iraq_(2013–2017)_involving_the_Islamic_State_of_Iraq_and_the_Levant",
+        "http://dbpedia.org/resource/Category:Responsibility_to_protect",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hezbollah",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1691.1438"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_toman"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> Toman",
+        "<B>Iranian</B> tuman",
+        "Persian Toman"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Iranian</B> toman (Persian: تومان‎, romanized: tomān, pronounced [tomɑn]; from Mongolian tomen"
+      ],
+      "label": [
+        "<B>Iranian</B> toman"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_toman"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Banking_in_Iran",
+        "http://dbpedia.org/resource/Category:Currencies_of_Iran",
+        "http://dbpedia.org/resource/Category:Proposed_currencies"
+      ]
+    },
+    {
+      "score": [
+        "1652.335"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1982_kidnapping_of_Iranian_diplomats"
+      ],
+      "redirectlabel": [
+        "1982 <B>Iranian</B> diplomats kidnapping",
+        "<B>Iranian</B> diplomats kidnapping",
+        "<B>Iranian</B> diplomats kidnapping (1982)",
+        "Kazem Akhavan",
+        "Kidnapping of Ahmad Motevaselian",
+        "Kidnapping of <B>Iranian</B> diplomats",
+        "Missing <B>Iranian</B> Diplomats",
+        "Taghi Rastegar Moghadam"
+      ],
+      "label": [
+        "1982 kidnapping of <B>Iranian</B> diplomats"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1982_kidnapping_of_Iranian_diplomats"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_missing_person_cases",
+        "http://dbpedia.org/resource/Category:1982_crimes_in_Lebanon",
+        "http://dbpedia.org/resource/Category:1982_in_Iran",
+        "http://dbpedia.org/resource/Category:1982_in_Israel",
+        "http://dbpedia.org/resource/Category:1982_kidnapping_of_Iranian_diplomats",
+        "http://dbpedia.org/resource/Category:Assassinated_Iranian_diplomats",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_of_Iran",
+        "http://dbpedia.org/resource/Category:Diplomatic_immunity_and_protection",
+        "http://dbpedia.org/resource/Category:Diplomatic_incidents",
+        "http://dbpedia.org/resource/Category:Iran–Israel_relations",
+        "http://dbpedia.org/resource/Category:Iran–Lebanon_relations",
+        "http://dbpedia.org/resource/Category:Israeli–Lebanese_conflict",
+        "http://dbpedia.org/resource/Category:Israel–Lebanon_relations",
+        "http://dbpedia.org/resource/Category:July_1982_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Kidnapped_Iranian_people",
+        "http://dbpedia.org/resource/Category:Kidnapped_diplomats",
+        "http://dbpedia.org/resource/Category:Kidnappings_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Missing_people",
+        "http://dbpedia.org/resource/Category:Missing_person_cases_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Asia_in_1982"
+      ]
+    },
+    {
+      "score": [
+        "1648.8252"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Persian"
+      ],
+      "redirectlabel": [
+        "ISO 639:pes",
+        "<B>Iranian</B> Farsi",
+        "<B>Iranian</B> Persian language",
+        "Western Farsi",
+        "Western Farsi language",
+        "Western Persian",
+        "Western Persian language"
+      ],
+      "label": [
+        "<B>Iranian</B> Persian"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Persian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Languages_of_Iran",
+        "http://dbpedia.org/resource/Category:Languages_of_Iraq",
+        "http://dbpedia.org/resource/Category:Persian_dialects_and_varieties"
+      ]
+    },
+    {
+      "score": [
+        "1625.1123"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_football_league_system"
+      ],
+      "redirectlabel": [
+        "East Azarbaijan Province League",
+        "East Azerbaijan Province League",
+        "East Azerbaijan Province league",
+        "<B>Iranian</B> Football League",
+        "<B>Iranian</B> football league",
+        "Tehran Championship",
+        "Tehran Football League",
+        "Tehran Hazfi Cup",
+        "Tehran Provincial League",
+        "Tehran Super Cup",
+        "Tehran football competitions"
+      ],
+      "comment": [
+        "The <B>Iranian</B> football league system is a series of interconnected leagues for football clubs in Iran."
+      ],
+      "label": [
+        "<B>Iranian</B> football league system"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_football_league_system"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_league_systems_in_Asia",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1624.1233"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_People's_Fedai_Guerrillas"
+      ],
+      "redirectlabel": [
+        "Ashraf Dehghani Group",
+        "Fadaee",
+        "Fadai",
+        "IPFG",
+        "Ipfg",
+        "<B>Iranian</B> People's Fadaee Guerrillas",
+        "<B>Iranian</B> People's Fedâi Guerrillas"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> People's Fedai Guerrillas (IFPG; Persian: چريک‌های فدایی خلق ایران‎, romanized: čerikhā"
+      ],
+      "label": [
+        "<B>Iranian</B> People's Fedai Guerrillas"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_People's_Fedai_Guerrillas"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1979_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Anti-revisionist_organizations",
+        "http://dbpedia.org/resource/Category:Banned_communist_parties",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Guerrilla_organizations",
+        "http://dbpedia.org/resource/Category:Left-wing_militant_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Militant_opposition_to_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Paramilitary_organisations_based_in_Iran",
+        "http://dbpedia.org/resource/Category:Political_parties_of_the_Iranian_Revolution"
+      ]
+    },
+    {
+      "score": [
+        "1617.7603"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Iranian_embassy_bombing_in_Beirut"
+      ],
+      "redirectlabel": [
+        "2013 Beirut embassy bombing",
+        "2013 <B>Iranian</B> embassy bombing",
+        "2013 <B>Iranian</B> embassy bombings",
+        "2013 <B>Iranian</B> embassy bombings in Beirut",
+        "2013 attack on <B>Iranian</B> Embassy in Beiirut",
+        "<B>Iranian</B> embassy bombing",
+        "<B>Iranian</B> embassy bombing in Beirut",
+        "<B>Iranian</B> embassy bombings"
+      ],
+      "label": [
+        "2013 <B>Iranian</B> embassy bombing in Beirut"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Iranian_embassy_bombing_in_Beirut"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Beirut",
+        "http://dbpedia.org/resource/Category:2013_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_of_Iran",
+        "http://dbpedia.org/resource/Category:Building_bombings_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Car_and_truck_bombings_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Iran–Lebanon_relations",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_2013",
+        "http://dbpedia.org/resource/Category:November_2013_events_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Suicide_bombings_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Beirut",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Lebanon_during_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Lebanon_in_2013"
+      ]
+    },
+    {
+      "score": [
+        "1610.542"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Economy_of_Iran"
+      ],
+      "redirectlabel": [
+        "Economy of iran",
+        "Five-Year Economic Development Plan (2010-2015)",
+        "Five-Year Economic Development Plan (2010–2015)",
+        "Five-year economic plan (Iran)",
+        "Foreign trade in Iran",
+        "Foreign trade of Iran",
+        "Iran/Economy",
+        "Iran Comparative Advantages",
+        "Iran Trade Law",
+        "Iran and International Trade",
+        "Iran economy",
+        "<B>Iranian</B> Economic Reform Plan",
+        "<B>Iranian</B> economy",
+        "<B>Iranian</B> exports",
+        "Sectors of the <B>Iranian</B> economy",
+        "Service sector in Iran",
+        "Social security in Iran"
+      ],
+      "comment": [
+        "The economy of Iran is a mixed and transition economy with a large public sector. It is the world's eighteenth largest by purchasing power parity (PPP). Some 60% of Iran's economy is centrally planned. It is dominated by oil and gas production, although over 40 industries are directly involved in the Tehran Stock Exchange, one of the best performing exchanges in the world over the past decade. With 10% of the world's proven oil reserves and 15% of its gas reserves, Iran is considered an \"energy superpower.\""
+      ],
+      "label": [
+        "Economy of Iran"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Economy_of_Iran"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Iran",
+        "http://dbpedia.org/resource/Category:OPEC"
+      ]
+    },
+    {
+      "score": [
+        "1579.8918"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–2019_Iranian_general_strikes_and_protests"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Iranian</B> general strikes and protests",
+        "2018-2019 <B>Iranian</B> general strikes and protests",
+        "2018 <B>Iranian</B> general strikes",
+        "2018 <B>Iranian</B> general strikes and protests",
+        "2018–19 <B>Iranian</B> general strikes and protests",
+        "June 2018 Bazaar protests",
+        "June 2018 Iran Protests",
+        "June 2018 Iran protests",
+        "June 2018 <B>Iranian</B> protests",
+        "June 2018 uprising in Iran"
+      ],
+      "comment": [
+        "The <B>Iranian</B> general strikes are a series of protests that are taking place across Iran against the economic situation."
+      ],
+      "label": [
+        "2018–2019 <B>Iranian</B> general strikes and protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–2019_Iranian_general_strikes_and_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_in_Iran",
+        "http://dbpedia.org/resource/Category:2018_labor_disputes_and_strikes",
+        "http://dbpedia.org/resource/Category:2018_protests",
+        "http://dbpedia.org/resource/Category:2019_in_Iran",
+        "http://dbpedia.org/resource/Category:2019_labor_disputes_and_strikes",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:General_strikes_in_Asia",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_democracy_movements",
+        "http://dbpedia.org/resource/Category:June_2018_events_in_Iran",
+        "http://dbpedia.org/resource/Category:Labour_disputes_in_Iran",
+        "http://dbpedia.org/resource/Category:Presidency_of_Hassan_Rouhani",
+        "http://dbpedia.org/resource/Category:Protest_marches",
+        "http://dbpedia.org/resource/Category:Protests_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1572.4971"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1963_Iranian_referendum"
+      ],
+      "redirectlabel": [
+        "1963 <B>Iranian</B> constitutional referendum",
+        "<B>Iranian</B> constitutional referendum, 1963",
+        "<B>Iranian</B> constitutional referendum of 1963",
+        "<B>Iranian</B> referendum, 1963"
+      ],
+      "comment": [
+        " and dedicated boxes, at the suggestion of Ministry of Agriculture Hasan Arsanjani. The results gave <B>Iranian</B> women the right to vote."
+      ],
+      "label": [
+        "1963 <B>Iranian</B> referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1963_Iranian_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963_in_Iran",
+        "http://dbpedia.org/resource/Category:1963_referendums",
+        "http://dbpedia.org/resource/Category:Electoral_reform_referendums",
+        "http://dbpedia.org/resource/Category:Privatisation_referendums",
+        "http://dbpedia.org/resource/Category:Referendums_in_Iran",
+        "http://dbpedia.org/resource/Category:Suffrage_referendums"
+      ]
+    },
+    {
+      "score": [
+        "1558.0571"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Democratic_Party_of_Iranian_Kurdistan"
+      ],
+      "redirectlabel": [
+        "Hizbi Demokirati Kurdistani Eran",
+        "Hîzbî Dêmokiratî Kurdistanî Êran",
+        "<B>Iranian</B> Democratic Party of Kurdistan",
+        "KDP-I",
+        "Komeley Jiyanewey Kurd",
+        "Kurdish Democratic Party of Iran",
+        "Kurdish Renaissance League",
+        "Kurdistan Democratic Party of Iran",
+        "Kurdistan Democratic party of Iran",
+        "Mejak",
+        "PDKI",
+        "Party of free kordestan"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Democratic Party of <B>Iranian</B> Kurdistan (PDKI; Kurdish: Hîzbî Dêmukratî Kurdistanî Êran‎, HDKA"
+      ],
+      "label": [
+        "Democratic Party of <B>Iranian</B> Kurdistan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Democratic_Party_of_Iranian_Kurdistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Banned_Kurdish_parties",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Banned_socialist_parties",
+        "http://dbpedia.org/resource/Category:Consultative_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Federalist_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Kurdish_nationalism_in_Iran",
+        "http://dbpedia.org/resource/Category:Kurdish_nationalist_political_parties",
+        "http://dbpedia.org/resource/Category:Kurdish_political_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Left-wing_militant_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Members_of_the_Unrepresented_Nations_and_Peoples_Organization",
+        "http://dbpedia.org/resource/Category:Militant_opposition_to_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Militant_opposition_to_the_Pahlavi_dynasty",
+        "http://dbpedia.org/resource/Category:Organisations_designated_as_terrorist_by_Iran",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1945",
+        "http://dbpedia.org/resource/Category:Political_parties_of_the_Iranian_Revolution",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance",
+        "http://dbpedia.org/resource/Category:Secularism_in_Iran",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1551.2471"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1980_Iranian_presidential_election"
+      ],
+      "redirectlabel": [
+        "1980 Iran Election",
+        "1980 <B>Iranian</B> Election",
+        "1980 <B>Iranian</B> Elections",
+        "Iran Election 1980",
+        "<B>Iranian</B> presidential election, 1980",
+        "The <B>Iranian</B> presidential election, 1980"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " <B>Iranian</B> Revolution when the Council of Islamic Revolution was in power. Abolhassan Banisadr was elected president with 76% of the vote."
+      ],
+      "label": [
+        "1980 <B>Iranian</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1980_Iranian_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1980_elections_in_Iran",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_Iranian_Revolution",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1545.9269"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Komala_Party_of_Iranian_Kurdistan"
+      ],
+      "redirectlabel": [
+        "Abdullah Mohtadi",
+        "Gordan-i Shwan",
+        "Komele",
+        "Komełey Şorrişgêrrî Zehmetkêşanî Kurdistan",
+        "Komełey Şorrişgêrrî Zehmetkêşanî Kurdistanî Êran",
+        "KŞZK",
+        "Sedigh Kamangar",
+        "Shahab Sheikh Nuri",
+        "Society of Revolutionary Toilers of <B>Iranian</B> Kurdistan"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Komala Party of <B>Iranian</B> Kurdistan (Kurdish: كۆمه‌ڵه‌ی شۆڕشگێڕی زه‌حمه‌تكێشانی كوردستانی ئێران‎"
+      ],
+      "label": [
+        "Komala Party of <B>Iranian</B> Kurdistan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Komala_Party_of_Iranian_Kurdistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000_establishments_in_Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:Banned_Kurdish_parties",
+        "http://dbpedia.org/resource/Category:Banned_communist_parties",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Communism_in_Kurdistan",
+        "http://dbpedia.org/resource/Category:Communist_militant_groups",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Kurdish_political_parties_in_Iran",
+        "http://dbpedia.org/resource/Category:Kurdish_political_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Left-wing_militant_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Lobbying_organizations_based_in_Washington,_D.C.",
+        "http://dbpedia.org/resource/Category:Maoist_organisations_in_Iran",
+        "http://dbpedia.org/resource/Category:Marxist_parties",
+        "http://dbpedia.org/resource/Category:Militant_opposition_to_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:Organisations_designated_as_terrorist_by_Iran",
+        "http://dbpedia.org/resource/Category:Organisations_designated_as_terrorist_by_Japan",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2000",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Kurdistan_Region",
+        "http://dbpedia.org/resource/Category:Political_parties_of_the_Iranian_Revolution",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1542.1616"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Iranian_local_elections"
+      ],
+      "redirectlabel": [
+        "2006 <B>Iranian</B> City and Village Councils elections",
+        "2006 <B>Iranian</B> City and Village Islamic Councils elections",
+        "2006 <B>Iranian</B> councils election",
+        "<B>Iranian</B> City and Village Councils elections, 2006",
+        "<B>Iranian</B> councils election, 2006",
+        "<B>Iranian</B> local elections, 2006"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Iranian</B> City and Village Councils election of 2006 took place on December 15, 2006. People"
+      ],
+      "label": [
+        "2006 <B>Iranian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Iranian_local_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_elections_in_Iran",
+        "http://dbpedia.org/resource/Category:December_2006_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1538.6626"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_New_Zealanders"
+      ],
+      "redirectlabel": [
+        "Aryan Kiwis",
+        "Aryan New Zealanders",
+        "<B>Iranian</B>-New Zealand",
+        "<B>Iranian</B>-New Zealander",
+        "<B>Iranian</B> New Zealander"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iranian</B> New Zealanders (Persian: ایرانی نیوزیلندی‎), informally known as Persian Kiwis, are New"
+      ],
+      "label": [
+        "<B>Iranian</B> New Zealanders"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_New_Zealanders"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_New_Zealand",
+        "http://dbpedia.org/resource/Category:New_Zealand_people_of_Iranian_descent"
+      ]
+    },
+    {
+      "score": [
+        "1532.8505"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_New_Wave"
+      ],
+      "redirectlabel": [
+        "<B>Iranian</B> New Wave (Cinema)",
+        "<B>Iranian</B> New Wave (cinema)",
+        "<B>Iranian</B> new wave",
+        "Persian New Wave"
+      ],
+      "comment": [
+        "<B>Iranian</B> New Wave refers to a movement in <B>Iranian</B> cinema. It started in 1964 with Hajir Darioush's"
+      ],
+      "label": [
+        "<B>Iranian</B> New Wave"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_New_Wave"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Iran",
+        "http://dbpedia.org/resource/Category:Movements_in_cinema",
+        "http://dbpedia.org/resource/Category:New_Wave_in_cinema"
+      ]
+    },
+    {
+      "score": [
+        "1525.76"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/IRIS_Jamaran_(76)"
+      ],
+      "redirectlabel": [
+        "IS Jamaran",
+        "IS Moudge 1",
+        "IS Moudge I",
+        "IS Mowaj 1",
+        "IS Mowaj I",
+        "IS Mowj 1",
+        "IS Mowj I",
+        "<B>Iranian</B> Destroyer Jamaran",
+        "<B>Iranian</B> Frigate Jamaran",
+        "<B>Iranian</B> Frigate Moudge 1",
+        "<B>Iranian</B> Frigate Moudge I",
+        "<B>Iranian</B> corvette Jamaran",
+        "<B>Iranian</B> destroyer Jamaran",
+        "<B>Iranian</B> frigate Jamaran",
+        "<B>Iranian</B> frigate Jamaran (76)",
+        "<B>Iranian</B> frigate Moudge 1",
+        "<B>Iranian</B> frigate Moudge I",
+        "Jamaran (frigate)",
+        "Jamaran Destroyer",
+        "Jamaran Destroyer class",
+        "Jamaran Mowj class corvette",
+        "Jamaran Mowj class corvette / light guided missile frigate",
+        "Jamaran class",
+        "Jamaran class corvette",
+        "Jamaran class destroyer",
+        "Jamaran class frigate",
+        "Jamaran class guided missile frigate",
+        "Jamaran destroyer",
+        "Jamaran frigate",
+        "Moudge 1",
+        "Moudge I"
+      ],
+      "label": [
+        "IRIS Jamaran (76)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/IRIS_Jamaran_(76)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_ships",
+        "http://dbpedia.org/resource/Category:Frigates_of_Iran",
+        "http://dbpedia.org/resource/Category:Moudge-class_frigates",
+        "http://dbpedia.org/resource/Category:Ships_built_at_Iranian_Naval_Factories"
+      ]
+    },
+    {
+      "score": [
+        "1523.022"
+      ],
+      "refCount": [
+        "130"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Balochistan"
+      ],
+      "redirectlabel": [
+        "Baloch country",
+        "Baloch history",
+        "Baloch land",
+        "Balochestan",
+        "Balochi History",
+        "Balochistan (region)",
+        "Balochistan Campaign",
+        "Balochistan region",
+        "Balochistani",
+        "Balochistanis",
+        "Balochistān",
+        "Baloochistan",
+        "Baloshistan",
+        "Balouchistan",
+        "Baluchestan",
+        "Baluchistan",
+        "Baluchistan (region)",
+        "Baluchistani",
+        "Baluchistanis",
+        "Belochistan",
+        "Beloochistan",
+        "Beloochistaun",
+        "Belotchistan",
+        "Beluchistan",
+        "Biluchistan",
+        "Freedom struggle in Baloochistan",
+        "Greater Balochistan",
+        "Greater Baluchistan",
+        "History of Balochistan, Pakistan",
+        "History of Baluchistan",
+        "History of <B>Iranian</B> Balochistan",
+        "History of balochistan",
+        "History of <B>iranian</B> balochistan",
+        "Koch and Baloch Country",
+        "Muchrani",
+        "Paricania",
+        "Paricanians",
+        "Pre-Islamic Balochistan",
+        "Religious extremism in Balochistan",
+        "بلوچستان"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " province of Balochistan, the <B>Iranian</B> province of Sistan and Baluchestan, and the southern areas of"
+      ],
+      "label": [
+        "Balochistan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Balochistan"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Baloch_culture",
+        "http://dbpedia.org/resource/Category:Balochistan",
+        "http://dbpedia.org/resource/Category:Divided_regions",
+        "http://dbpedia.org/resource/Category:Geography_of_South_Asia",
+        "http://dbpedia.org/resource/Category:Geography_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:Historical_regions_of_Iran",
+        "http://dbpedia.org/resource/Category:Iranian_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Regions_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Regions_of_Pakistan"
+      ]
+    },
+    {
+      "score": [
+        "1514.9742"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Iranian_Volleyball_Super_League"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Iranian</B> Volleyball Super League",
+        "1999-2000 <B>Iranian</B> Volleyball Super League",
+        "1999–00 <B>Iranian</B> Volleyball Super League",
+        "<B>Iranian</B> Volleyball Super League 1999-00",
+        "<B>Iranian</B> Volleyball Super League 1999-2000",
+        "<B>Iranian</B> Volleyball Super League 1999–00",
+        "<B>Iranian</B> Volleyball Super League 1999–2000"
+      ],
+      "comment": [
+        "The following is the final results of the <B>Iranian</B> Volleyball Super League (Velayat Cup) 1999/2000 season."
+      ],
+      "label": [
+        "1999–2000 <B>Iranian</B> Volleyball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Iranian_Volleyball_Super_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999_in_Iranian_sport",
+        "http://dbpedia.org/resource/Category:1999_in_volleyball",
+        "http://dbpedia.org/resource/Category:2000_in_Iranian_sport",
+        "http://dbpedia.org/resource/Category:2000_in_volleyball",
+        "http://dbpedia.org/resource/Category:Volleyball_competitions_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1511.6143"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Iranian_Radio_and_Television"
+      ],
+      "redirectlabel": [
+        "NIRT",
+        "National <B>Iranian</B> Radio-Television",
+        "National <B>Iranian</B> Radio & Television",
+        "National <B>Iranian</B> Radio & Television (NIRT)"
+      ],
+      "typeName": [
+        "Organisation",
+        "BroadcastNetwork",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "National <B>Iranian</B> Radio and Television, or NIRT for short, (Persian: رادیو تلویزیون ملی ایران‎) was"
+      ],
+      "label": [
+        "National <B>Iranian</B> Radio and Television"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Iranian_Radio_and_Television"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BroadcastNetwork",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1966_establishments_in_Iran",
+        "http://dbpedia.org/resource/Category:1979_disestablishments_in_Iran",
+        "http://dbpedia.org/resource/Category:Defunct_mass_media_in_Iran",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_disestablished_in_1979",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1966",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_of_Iran",
+        "http://dbpedia.org/resource/Category:Radio_stations_in_Iran",
+        "http://dbpedia.org/resource/Category:Television_stations_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "1511.439"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_pre-modern_Iranian_scientists_and_scholars"
+      ],
+      "redirectlabel": [
+        "List of <B>Iranian</B> Scientists",
+        "List of <B>Iranian</B> scholars",
+        "List of <B>Iranian</B> scientists",
+        "List of <B>Iranian</B> scientists and scholars",
+        "List of <B>Iranian</B> scientists and technologists",
+        "List of Persian scientists",
+        "List of Persian scientists and scholars",
+        "Persian scholar",
+        "Persian scientists"
+      ],
+      "comment": [
+        "The following is a non-comprehensive list of <B>Iranian</B> scientists and engineers who lived from"
+      ],
+      "label": [
+        "List of pre-modern <B>Iranian</B> scientists and scholars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_pre-modern_Iranian_scientists_and_scholars"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Asian_scientists",
+        "http://dbpedia.org/resource/Category:Lists_of_Iranian_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_mathematicians_by_nationality",
+        "http://dbpedia.org/resource/Category:Scientists_of_the_medieval_Islamic_world"
+      ]
+    },
+    {
+      "score": [
+        "1511.183"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1943–1944_Iranian_legislative_election"
+      ],
+      "redirectlabel": [
+        "1943-1944 <B>Iranian</B> legislative election",
+        "1943 <B>Iranian</B> legislative election",
+        "1944 <B>Iranian</B> legislative election",
+        "<B>Iranian</B> legislative election, 1943-1944",
+        "<B>Iranian</B> legislative election, 1943–1944",
+        "<B>Iranian</B> legislative election, 1944"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The elections for the 14th Parliament of Iran was held in November 1943–February 1944 and more than 800 candidates ran for 136 seats. Ervand Abrahamian wrote in 1982 that the elections were \"the most prolonged, most competitive and most meaningful of all elections in modern Iran\"."
+      ],
+      "label": [
+        "1943–1944 <B>Iranian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1943–1944_Iranian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:14th_term_of_the_Iranian_Majlis",
+        "http://dbpedia.org/resource/Category:1944_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1944_in_Iran",
+        "http://dbpedia.org/resource/Category:National_Consultative_Assembly_elections"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4296 @@
+{
+  "docs": [
+    {
+      "score": [
+        "12148.829"
+      ],
+      "refCount": [
+        "2750"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuba"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of <B>Cuba</B>",
+        "Biodiversity of <B>Cuba</B>",
+        "<B>CUBA</B>",
+        "Communism in <B>Cuba</B>",
+        "Communist <B>Cuba</B>",
+        "<B>Cuban</B> News Agency",
+        "<B>Cuban</B> dance",
+        "Etymology of <B>Cuba</B>",
+        "Fauna of <B>Cuba</B>",
+        "ISO 3166-1:CU",
+        "Isla Juana",
+        "Name of <B>Cuba</B>",
+        "People's Republic of <B>Cuba</B>",
+        "Red <B>Cuba</B>",
+        "Republic of <B>Cuba</B>",
+        "Republica de <B>Cuba</B>",
+        "República de <B>Cuba</B>",
+        "Second Republic of <B>Cuba</B>",
+        "Subdivisions of <B>Cuba</B>",
+        "The Republic of <B>Cuba</B>",
+        "The Socialist Republic of <B>Cuba</B>",
+        "Wildlife of <B>Cuba</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Cuba</B> ( (); Spanish pronunciation: [ˈkuβa]), officially the Republic of <B>Cuba</B> (Spanish: ), is a"
+      ],
+      "label": [
+        "<B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuba"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1515_establishments_in_the_Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:1898_disestablishments_in_the_Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:1898_establishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1902_disestablishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1902_establishments_in_North_America",
+        "http://dbpedia.org/resource/Category:Communist_states",
+        "http://dbpedia.org/resource/Category:Countries_in_North_America",
+        "http://dbpedia.org/resource/Category:Countries_in_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Cuba",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Former_Spanish_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_North_America",
+        "http://dbpedia.org/resource/Category:Greater_Antilles",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:New_Spain",
+        "http://dbpedia.org/resource/Category:One-party_states",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Small_Island_Developing_States",
+        "http://dbpedia.org/resource/Category:Spanish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Spanish_Caribbean",
+        "http://dbpedia.org/resource/Category:Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:Spanish_colonization_of_the_Americas",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1902"
+      ]
+    },
+    {
+      "score": [
+        "5285.303"
+      ],
+      "refCount": [
+        "63"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Cuban_jazz"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Cuban</B> Jazz",
+        "Afro-<B>Cubop</B>",
+        "Afro-<B>cuban</B> jazz",
+        "Afro <B>Cuban</B> jazz",
+        "Afro <B>Cubop</B>",
+        "Afrobop",
+        "<B>Cuban</B> Jazz",
+        "<B>Cuban</B> jazz",
+        "<B>Cubop</B>"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        " <B>Cuban</B> musicians Mario Bauzá and Frank Grillo \"Machito\" in the band Machito and his Afro-<B>Cubans</B> in New"
+      ],
+      "label": [
+        "Afro-<B>Cuban</B> jazz"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Cuban_jazz"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Cuban_culture",
+        "http://dbpedia.org/resource/Category:Afro-Cuban_jazz",
+        "http://dbpedia.org/resource/Category:Cuban_styles_of_music",
+        "http://dbpedia.org/resource/Category:Jazz_genres"
+      ]
+    },
+    {
+      "score": [
+        "4411.029"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Missile_Crisis"
+      ],
+      "redirectlabel": [
+        "1962 <B>Cuban</B> Missile Crisis",
+        "1962 <B>Cuban</B> missile crisis",
+        "Black Saturday (<B>Cuban</B> Missile Crisis)",
+        "Caribbean Crisis",
+        "Caribbean crisis",
+        "Crisis de Octubre",
+        "Crisis de octubre",
+        "<B>Cuba</B> Crisis",
+        "<B>Cuba</B> Missile Crisis",
+        "<B>Cuba</B> crisis",
+        "<B>Cuba</B> missile crisis",
+        "<B>Cuban</B> Crisis",
+        "<B>Cuban</B> Missile",
+        "<B>Cuban</B> Missile crisis",
+        "<B>Cuban</B> Missle Crisis",
+        "<B>Cuban</B> Quarantine",
+        "<B>Cuban</B> crisis",
+        "<B>Cuban</B> missile crisis",
+        "Karibskiy krizis",
+        "Missile Crisis",
+        "Missile Scare",
+        "Naval quarantine of <B>Cuba</B>",
+        "October Crisis of 1962",
+        "The <B>cuban</B> missile crisis",
+        "Turkish missile crisis",
+        "United States naval quarantine of <B>Cuba</B>",
+        "Карибский кризис"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Missile Crisis, also known as the October Crisis of 1962 (Spanish: Crisis de Octubre"
+      ],
+      "label": [
+        "<B>Cuban</B> Missile Crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Missile_Crisis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Cuba",
+        "http://dbpedia.org/resource/Category:1960s_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:1960s_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_Cuba",
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Cuba",
+        "http://dbpedia.org/resource/Category:1962_in_Cuba",
+        "http://dbpedia.org/resource/Category:1962_in_international_relations",
+        "http://dbpedia.org/resource/Category:1962_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:1962_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_Cuban_Revolution",
+        "http://dbpedia.org/resource/Category:Blockades",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Cuba",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Cold_War_military_history_of_Cuba",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1962",
+        "http://dbpedia.org/resource/Category:Cuban_Missile_Crisis",
+        "http://dbpedia.org/resource/Category:Cuba–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Fidel_Castro",
+        "http://dbpedia.org/resource/Category:History_of_Cuba",
+        "http://dbpedia.org/resource/Category:History_of_Key_West,_Florida",
+        "http://dbpedia.org/resource/Category:Nikita_Khrushchev",
+        "http://dbpedia.org/resource/Category:Nuclear_history_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Nuclear_history_of_the_United_States",
+        "http://dbpedia.org/resource/Category:October_1962_events_in_North_America",
+        "http://dbpedia.org/resource/Category:Presidency_of_John_F._Kennedy",
+        "http://dbpedia.org/resource/Category:Soviet_Union–United_States_relations",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change"
+      ]
+    },
+    {
+      "score": [
+        "4185.283"
+      ],
+      "refCount": [
+        "74"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cubans"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Criollo (people)",
+        "<B>Cuban</B> people",
+        "<B>Cubans</B> in France",
+        "European <B>Cuban</B>",
+        "Genetic studies on <B>Cubans</B>",
+        "People of <B>Cuba</B>",
+        "White <B>Cuban</B>",
+        "White <B>Cubans</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Cubans</B> or <B>Cuban</B> people (Spanish: <B>Cubanos</B>), are the inhabitants, citizens of <B>Cuba</B> and people born in"
+      ],
+      "label": [
+        "<B>Cubans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cubans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Caribbean"
+      ]
+    },
+    {
+      "score": [
+        "4033.3992"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Revolution"
+      ],
+      "redirectlabel": [
+        "1959 <B>Cuban</B> Revolution",
+        "Castro's revolution",
+        "<B>Cuban</B> Revolution of 1959",
+        "<B>Cuban</B> Revolutionary War",
+        "<B>Cuban</B> Revolutionary war",
+        "<B>Cuban</B> reolution",
+        "<B>Cuban</B> revolution",
+        "<B>Cuban</B> revolutionary war",
+        "<B>Cuba’s</B> Communist Revolution",
+        "Fidel Castro's revolution",
+        "The <B>Cuban</B> Revolution"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Revolution (Spanish: Revolución <B>cubana</B>) was an armed revolt conducted by Fidel Castro's"
+      ],
+      "label": [
+        "<B>Cuban</B> Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Revolution"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950s_conflicts",
+        "http://dbpedia.org/resource/Category:1950s_in_Cuba",
+        "http://dbpedia.org/resource/Category:1959_in_Cuba",
+        "http://dbpedia.org/resource/Category:1959_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Anti-Americanism",
+        "http://dbpedia.org/resource/Category:Che_Guevara",
+        "http://dbpedia.org/resource/Category:China–Cuba_relations",
+        "http://dbpedia.org/resource/Category:Cold_War",
+        "http://dbpedia.org/resource/Category:Communist_revolutions",
+        "http://dbpedia.org/resource/Category:Cuban_Revolution",
+        "http://dbpedia.org/resource/Category:Cuba–Russia_relations",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Fidel_Castro",
+        "http://dbpedia.org/resource/Category:History_of_socialism",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Republic_of_Cuba_(1902–1959)",
+        "http://dbpedia.org/resource/Category:United_States–Caribbean_relations"
+      ]
+    },
+    {
+      "score": [
+        "3679.4436"
+      ],
+      "refCount": [
+        "473"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Reggaeton"
+      ],
+      "redirectlabel": [
+        "2000s reggaeton",
+        "<B>Cuban</B> reggaeton",
+        "<B>Cubaton</B>",
+        "<B>Cubatón</B>",
+        "Den bow",
+        "Fussion Music",
+        "Latino Urban",
+        "Melaza",
+        "Ragaeton",
+        "Reaggaton",
+        "Reggaetón",
+        "Reggaetón music",
+        "Reggaton",
+        "Reggeaton",
+        "Reggeaton (music genre)",
+        "Reggueton",
+        "Regueton",
+        "Reguetón",
+        "Salsatón",
+        "Underground Reggaeton"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Reggaeton (UK: , US: ), also known as reggaetón and reguetón (Spanish: [reɣeˈton]), is a music style which originated in Puerto Rico during the late 1990s. It has evolved from dancehall and influenced by American hip hop, Latin American, and Caribbean music. Vocals include rapping and singing, typically in Spanish."
+      ],
+      "label": [
+        "Reggaeton"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Reggaeton"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_in_Latin_music",
+        "http://dbpedia.org/resource/Category:2010s_in_Latin_music",
+        "http://dbpedia.org/resource/Category:2020s_in_Latin_music",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Fusion_music_genres",
+        "http://dbpedia.org/resource/Category:Panamanian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Puerto_Rican_styles_of_music",
+        "http://dbpedia.org/resource/Category:Reggae_genres",
+        "http://dbpedia.org/resource/Category:Reggaeton",
+        "http://dbpedia.org/resource/Category:Urbano_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "3529.037"
+      ],
+      "refCount": [
+        "158"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bolero"
+      ],
+      "redirectlabel": [
+        "Boleros",
+        "<B>Cuban</B> bolero",
+        "History of bolero music"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        " a flamenco style known as boleras. An unrelated genre of sung music originated in eastern <B>Cuba</B> in"
+      ],
+      "label": [
+        "Bolero"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bolero"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1880s_in_music",
+        "http://dbpedia.org/resource/Category:19th-century_music_genres",
+        "http://dbpedia.org/resource/Category:20th-century_music_genres",
+        "http://dbpedia.org/resource/Category:Ballroom_dance",
+        "http://dbpedia.org/resource/Category:Cuban_styles_of_music",
+        "http://dbpedia.org/resource/Category:Dance_in_Cuba",
+        "http://dbpedia.org/resource/Category:Latin_dances",
+        "http://dbpedia.org/resource/Category:Latin_music_genres",
+        "http://dbpedia.org/resource/Category:Mexican_music",
+        "http://dbpedia.org/resource/Category:Vietnamese_music"
+      ]
+    },
+    {
+      "score": [
+        "3414.477"
+      ],
+      "refCount": [
+        "951"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Spanish–American_War"
+      ],
+      "redirectlabel": [
+        "1898 Spanish-American War",
+        "1898 Spanish–American War",
+        "1898 spanish-american war",
+        "American-Spanish War",
+        "American occupation of <B>Cuba</B> (1898-1902)",
+        "American occupation of <B>Cuba</B> (1898–1902)",
+        "American spanish war",
+        "<B>Cuban</B>-Spanish-American War",
+        "Digmaang Espanyol-Amerikano",
+        "Guerra de <B>Cuba</B>",
+        "Guerra hispano-estadounidense",
+        "Hispano-American War",
+        "Hispano–American War",
+        "Pacific Campaign (Spanish-American War)",
+        "Pacific campaign (Spanish-American War)",
+        "Pacific campaign (Spanish–American War)",
+        "Spainish-american war",
+        "Spanish-America War",
+        "Spanish-American-<B>Cuban</B>-Filipino War",
+        "Spanish-American War",
+        "Spanish-American War of 1898",
+        "Spanish-American war",
+        "Spanish-american war",
+        "Spanish/American War",
+        "Spanish - American War",
+        "Spanish American War",
+        "Spanish American war",
+        "Spanish declaration of war on the United States",
+        "Spanish – American War",
+        "Spanish–American War of 1898",
+        "Splendid little war",
+        "The Spanish-American War",
+        "The spanish american war",
+        "The splendid little war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " the <B>Cuban</B> War of Independence. The war led to emergence of U.S. predominance in the Caribbean region"
+      ],
+      "label": [
+        "Spanish–American War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Spanish–American_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890s_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1890s_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1898_in_Cuba",
+        "http://dbpedia.org/resource/Category:1898_in_Guam",
+        "http://dbpedia.org/resource/Category:1898_in_Puerto_Rico",
+        "http://dbpedia.org/resource/Category:1898_in_Spain",
+        "http://dbpedia.org/resource/Category:1898_in_the_Philippines",
+        "http://dbpedia.org/resource/Category:1898_in_the_Spanish_East_Indies",
+        "http://dbpedia.org/resource/Category:1898_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1898_in_the_Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:1898_in_the_United_States",
+        "http://dbpedia.org/resource/Category:19th-century_conflicts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1898",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Spain",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Philippines–United_States_relations",
+        "http://dbpedia.org/resource/Category:Spain–United_States_relations",
+        "http://dbpedia.org/resource/Category:Spanish_East_Indies",
+        "http://dbpedia.org/resource/Category:Spanish_West_Indies",
+        "http://dbpedia.org/resource/Category:Spanish–American_War",
+        "http://dbpedia.org/resource/Category:United_States_Marine_Corps_in_the_18th_and_19th_centuries",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change",
+        "http://dbpedia.org/resource/Category:United_States–Caribbean_relations",
+        "http://dbpedia.org/resource/Category:Wars_involving_Cuba",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hong_Kong",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Philippines",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "3294.2566"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Americans"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Cuban</B> Americans",
+        "American people of <B>Cuban</B> descent",
+        "<B>Cuban</B>-American",
+        "<B>Cuban</B>-Americans",
+        "<B>Cuban</B> America",
+        "<B>Cuban</B> American",
+        "<B>Cuban</B> American history",
+        "<B>Cubanoamericanos</B>",
+        "History of <B>Cuban</B> Americans",
+        "Political views of <B>Cuban</B> Americans",
+        "Socioeconomic status of <B>Cuban</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Cuban</B> Americans (Spanish: <B>cubanoestadounidenses</B> or Spanish: <B>cubanoamericanos</B>) are Americans who"
+      ],
+      "label": [
+        "<B>Cuban</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Cuban_descent",
+        "http://dbpedia.org/resource/Category:Caribbean_American",
+        "http://dbpedia.org/resource/Category:Cuban-American_history",
+        "http://dbpedia.org/resource/Category:Cuban_American",
+        "http://dbpedia.org/resource/Category:Cuban_diaspora",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American"
+      ]
+    },
+    {
+      "score": [
+        "3266.7056"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "1895 War of Independence",
+        "<B>Cuba's</B> War of Independence",
+        "<B>Cuban</B> Independence",
+        "<B>Cuban</B> War for Independence",
+        "<B>Cuban</B> War of Independence February 24 1895",
+        "<B>Cuban</B> independence",
+        "Independence War of 1895",
+        "Independence of <B>Cuba</B>",
+        "War of '95",
+        "War of the <B>Cuban</B> Independence",
+        "War of the <B>Cuban</B> Revolution",
+        "Wars of the <B>Cuban</B> Revolution"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Cuban</B> War of Independence (Spanish: Guerra de Independencia <B>cubana</B>, 1895–98) was the last of"
+      ],
+      "label": [
+        "<B>Cuban</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1895_in_Cuba",
+        "http://dbpedia.org/resource/Category:1896_in_Cuba",
+        "http://dbpedia.org/resource/Category:1897_in_Cuba",
+        "http://dbpedia.org/resource/Category:1898_in_Cuba",
+        "http://dbpedia.org/resource/Category:19th_century_in_Cuba",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1895",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1896",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1897",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1898",
+        "http://dbpedia.org/resource/Category:Spanish_American_wars_of_independence",
+        "http://dbpedia.org/resource/Category:Spanish_colonial_period_of_Cuba",
+        "http://dbpedia.org/resource/Category:Spanish–American_War"
+      ]
+    },
+    {
+      "score": [
+        "3088.818"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Revolutionary_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Cuba</B>",
+        "Army of <B>Cuba</B>",
+        "Black Wasps",
+        "<B>Cuba</B>/Military",
+        "<B>Cuban</B> Armed Forces",
+        "<B>Cuban</B> Military",
+        "<B>Cuban</B> Naval Aviation",
+        "<B>Cuban</B> armed forces",
+        "<B>Cuban</B> army",
+        "<B>Cuban</B> military",
+        "<B>Cuban</B> troops",
+        "<B>Cuba’s</B> armed forces",
+        "History of the <B>Cuban</B> Revolutionary Armed Forces",
+        "MINFAR",
+        "Marina de Guerra Revolucionaria",
+        "Military of <B>Cuba</B>",
+        "Navy of <B>Cuba</B>",
+        "Revolutionary Armed Forces of <B>Cuba</B>",
+        "Special forces of <B>Cuba</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Revolutionary Armed Forces (Spanish: Fuerzas Armadas Revolucionarias – FAR) consist of"
+      ],
+      "label": [
+        "<B>Cuban</B> Revolutionary Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Revolutionary_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_history_of_Cuba",
+        "http://dbpedia.org/resource/Category:Military_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "2959.035"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mark_Cuban"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B>, Mark",
+        "Fallen Patriot Fund",
+        "Marc <B>Cuban</B>",
+        "Mark <B>Cuban</B> Foundation"
+      ],
+      "comment": [
+        "Mark <B>Cuban</B>  (born July 31, 1958) is an American entrepreneur and investor. He is the owner of the"
+      ],
+      "label": [
+        "Mark <B>Cuban</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mark_Cuban"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1958_births",
+        "http://dbpedia.org/resource/Category:20th-century_American_Jews",
+        "http://dbpedia.org/resource/Category:20th-century_American_businesspeople",
+        "http://dbpedia.org/resource/Category:20th-century_American_male_writers",
+        "http://dbpedia.org/resource/Category:20th-century_American_non-fiction_writers",
+        "http://dbpedia.org/resource/Category:21st-century_American_Jews",
+        "http://dbpedia.org/resource/Category:21st-century_American_businesspeople",
+        "http://dbpedia.org/resource/Category:21st-century_American_male_writers",
+        "http://dbpedia.org/resource/Category:21st-century_American_non-fiction_writers",
+        "http://dbpedia.org/resource/Category:2929_Entertainment_holdings",
+        "http://dbpedia.org/resource/Category:American_bartenders",
+        "http://dbpedia.org/resource/Category:American_billionaires",
+        "http://dbpedia.org/resource/Category:American_bloggers",
+        "http://dbpedia.org/resource/Category:American_book_publishers_(people)",
+        "http://dbpedia.org/resource/Category:American_business_writers",
+        "http://dbpedia.org/resource/Category:American_chairpersons_of_corporations",
+        "http://dbpedia.org/resource/Category:American_children's_writers",
+        "http://dbpedia.org/resource/Category:American_computer_businesspeople",
+        "http://dbpedia.org/resource/Category:American_corporate_directors",
+        "http://dbpedia.org/resource/Category:American_film_producers",
+        "http://dbpedia.org/resource/Category:American_financiers",
+        "http://dbpedia.org/resource/Category:American_investors",
+        "http://dbpedia.org/resource/Category:American_libertarians",
+        "http://dbpedia.org/resource/Category:American_male_bloggers",
+        "http://dbpedia.org/resource/Category:American_male_non-fiction_writers",
+        "http://dbpedia.org/resource/Category:American_male_television_actors",
+        "http://dbpedia.org/resource/Category:American_mass_media_owners",
+        "http://dbpedia.org/resource/Category:American_people_of_Lithuanian-Jewish_descent",
+        "http://dbpedia.org/resource/Category:American_people_of_Lithuanian_descent",
+        "http://dbpedia.org/resource/Category:American_people_of_Romanian-Jewish_descent",
+        "http://dbpedia.org/resource/Category:American_people_of_Russian-Jewish_descent",
+        "http://dbpedia.org/resource/Category:American_philanthropists",
+        "http://dbpedia.org/resource/Category:American_reality_television_producers",
+        "http://dbpedia.org/resource/Category:American_retail_chief_executives",
+        "http://dbpedia.org/resource/Category:American_salespeople",
+        "http://dbpedia.org/resource/Category:American_technology_chief_executives",
+        "http://dbpedia.org/resource/Category:American_technology_company_founders",
+        "http://dbpedia.org/resource/Category:American_technology_writers",
+        "http://dbpedia.org/resource/Category:American_television_company_founders",
+        "http://dbpedia.org/resource/Category:American_television_executives",
+        "http://dbpedia.org/resource/Category:American_venture_capitalists",
+        "http://dbpedia.org/resource/Category:Businesspeople_from_Indiana",
+        "http://dbpedia.org/resource/Category:Businesspeople_from_Pittsburgh",
+        "http://dbpedia.org/resource/Category:Businesspeople_from_Texas",
+        "http://dbpedia.org/resource/Category:Businesspeople_in_information_technology",
+        "http://dbpedia.org/resource/Category:Businesspeople_in_software",
+        "http://dbpedia.org/resource/Category:Copyright_activists",
+        "http://dbpedia.org/resource/Category:Dallas_Mavericks_owners",
+        "http://dbpedia.org/resource/Category:Esports_businesspeople",
+        "http://dbpedia.org/resource/Category:Film_producers_from_Indiana",
+        "http://dbpedia.org/resource/Category:Film_producers_from_Pennsylvania",
+        "http://dbpedia.org/resource/Category:Film_producers_from_Texas",
+        "http://dbpedia.org/resource/Category:Jewish_American_writers",
+        "http://dbpedia.org/resource/Category:Jewish_activists",
+        "http://dbpedia.org/resource/Category:Kelley_School_of_Business_alumni",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Male_actors_from_Pittsburgh",
+        "http://dbpedia.org/resource/Category:Participants_in_American_reality_television_series",
+        "http://dbpedia.org/resource/Category:People_associated_with_cryptocurrency",
+        "http://dbpedia.org/resource/Category:People_from_Mt._Lebanon,_Pennsylvania",
+        "http://dbpedia.org/resource/Category:People_from_Navarro_County,_Texas",
+        "http://dbpedia.org/resource/Category:Television_personalities_from_Pittsburgh",
+        "http://dbpedia.org/resource/Category:Television_producers_from_Indiana",
+        "http://dbpedia.org/resource/Category:Television_producers_from_Pennsylvania",
+        "http://dbpedia.org/resource/Category:Television_producers_from_Texas",
+        "http://dbpedia.org/resource/Category:Texas_Independents",
+        "http://dbpedia.org/resource/Category:University_of_Pittsburgh_alumni",
+        "http://dbpedia.org/resource/Category:Writers_from_Dallas",
+        "http://dbpedia.org/resource/Category:Writers_from_Indiana",
+        "http://dbpedia.org/resource/Category:Writers_from_Pittsburgh"
+      ]
+    },
+    {
+      "score": [
+        "2936.4543"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_rumba"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Cuban</B> rumba",
+        "Columbia (music)",
+        "<B>Cuban</B> Rumba",
+        "Guarapachangueo",
+        "Rumba (de solar o de cajón)",
+        "Rumba <B>Cubana</B>",
+        "Rumbero",
+        "Rumbon",
+        "Rumbón",
+        "Yambú"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Rumba is a secular genre of <B>Cuban</B> music involving dance, percussion, and song. It originated in the"
+      ],
+      "label": [
+        "<B>Cuban</B> rumba"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_rumba"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_styles_of_music",
+        "http://dbpedia.org/resource/Category:Dance_in_Cuba",
+        "http://dbpedia.org/resource/Category:Rumba"
+      ]
+    },
+    {
+      "score": [
+        "2865.6396"
+      ],
+      "refCount": [
+        "62"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Son_cubano"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Son",
+        "<B>Cuban</B> son",
+        "Son (dance)",
+        "Son (music)",
+        "Son (musical style)",
+        "Son <B>Cubano</B>",
+        "Son <B>Cubano</B> (music)",
+        "Son music",
+        "Sonero"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Son <B>cubano</B> is a genre of music and dance that originated in the highlands of eastern <B>Cuba</B> during"
+      ],
+      "label": [
+        "Son <B>cubano</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Son_cubano"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_styles_of_music",
+        "http://dbpedia.org/resource/Category:Son_cubano"
+      ]
+    },
+    {
+      "score": [
+        "2838.0486"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Five"
+      ],
+      "redirectlabel": [
+        "Antonio Guerrero",
+        "Antonio Guerrero Rodríguez",
+        "<B>CubanFive</B>",
+        "<B>Cuban</B> 5",
+        "<B>Cuban</B> five",
+        "Fernando González (agent)",
+        "Fernando González Llort",
+        "Five <B>Cuban</B> Heroes",
+        "Gerardo Hernandez",
+        "Gerardo Hernández",
+        "Gerardo Hernández Nordelo",
+        "Miami 5",
+        "Miami Five",
+        "Ramon Labanino",
+        "Ramón Labañino",
+        "Ramón Labañino Salazar",
+        "René González (<B>Cuba</B>)",
+        "René González (agent)",
+        "René González Sehwerert",
+        "The <B>Cuban</B> Five",
+        "The <B>Cuban</B> five",
+        "Wasp Network"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Five, also known as the Miami Five (Gerardo Hernández, Antonio Guerrero, Ramón Labañino"
+      ],
+      "label": [
+        "<B>Cuban</B> Five"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Five"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_in_Florida",
+        "http://dbpedia.org/resource/Category:Cuban_communists",
+        "http://dbpedia.org/resource/Category:Cuban_people_imprisoned_abroad",
+        "http://dbpedia.org/resource/Category:Cuban_spies",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Espionage_scandals_and_incidents",
+        "http://dbpedia.org/resource/Category:Prisoners_and_detainees_of_the_United_States_federal_government",
+        "http://dbpedia.org/resource/Category:Quantified_groups_of_defendants",
+        "http://dbpedia.org/resource/Category:Trials_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2809.283"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Giants"
+      ],
+      "redirectlabel": [
+        "Babylon Black Panthers",
+        "Genuine <B>Cuban</B> Giants",
+        "Original <B>Cuban</B> Giants"
+      ],
+      "comment": [
+        " \"<B>Cuban</B> Giants\", although there were rarely (if ever) any <B>Cubans</B> on the <B>Cuban</B> Giants. The team"
+      ],
+      "label": [
+        "<B>Cuban</B> Giants"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Giants"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1885_establishments_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:1915_disestablishments_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Baseball_teams_disestablished_in_1915",
+        "http://dbpedia.org/resource/Category:Baseball_teams_established_in_1885",
+        "http://dbpedia.org/resource/Category:Defunct_baseball_teams_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Negro_league_baseball_teams",
+        "http://dbpedia.org/resource/Category:Sports_in_Trenton,_New_Jersey"
+      ]
+    },
+    {
+      "score": [
+        "2788.793"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Spanish"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> language",
+        "<B>Cuban</B> spanish",
+        "Es-CU"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Cuban</B> Spanish—also referred to colloquially as simply <B>cubano</B>, or even cubañol— is the variety of"
+      ],
+      "label": [
+        "<B>Cuban</B> Spanish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Spanish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_Spanish",
+        "http://dbpedia.org/resource/Category:Cuban_culture",
+        "http://dbpedia.org/resource/Category:Languages_of_Cuba",
+        "http://dbpedia.org/resource/Category:Society_of_Cuba",
+        "http://dbpedia.org/resource/Category:Spanish-Cuban_culture"
+      ]
+    },
+    {
+      "score": [
+        "2774.0403"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Only_Built_4_Cuban_Linx..."
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> linx",
+        "Incarcerated Scarfaces",
+        "OB4CL",
+        "OBFCL",
+        "Only Built 4 <B>Cuban</B> Links...",
+        "Only Built 4 <B>Cuban</B> Linx... Instrumentals",
+        "Only Built 4 <B>Cuban</B> Linx",
+        "Only Built 4 <B>Cuban</B> Linx Niggas",
+        "Only Built 4 <B>Cuban</B> Linx Niggaz",
+        "Only Built 4 <B>Cuban</B> Linx…",
+        "Only Built For <B>Cuban</B> Links...",
+        "Only Built For <B>Cuban</B> Linx...",
+        "Only Built for <B>Cuban</B> Links...",
+        "Only Built for <B>Cuban</B> Linx...",
+        "Only Built for <B>Cuban</B> Linx",
+        "Only for <B>Cuban</B> Linx",
+        "Rainy Dayz (Raekwon song)",
+        "Wu-Gambinos"
+      ],
+      "typeName": [
+        "Album",
+        "MusicalWork",
+        "Work"
+      ],
+      "comment": [
+        "Only Built 4 <B>Cuban</B> Linx... is the debut studio album by American rapper and Wu-Tang Clan member"
+      ],
+      "label": [
+        "Only Built 4 <B>Cuban</B> Linx..."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Only_Built_4_Cuban_Linx..."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Album",
+        "http://dbpedia.org/ontology/MusicalWork",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_debut_albums",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_RZA",
+        "http://dbpedia.org/resource/Category:Concept_albums",
+        "http://dbpedia.org/resource/Category:Loud_Records_albums",
+        "http://dbpedia.org/resource/Category:Mafioso_rap_albums",
+        "http://dbpedia.org/resource/Category:RCA_Records_albums",
+        "http://dbpedia.org/resource/Category:Raekwon_albums",
+        "http://dbpedia.org/resource/Category:Wu-Tang_Clan"
+      ]
+    },
+    {
+      "score": [
+        "2709.4937"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_thaw"
+      ],
+      "redirectlabel": [
+        "<B>Cuba</B> thaw",
+        "<B>Cuban</B> Thaw",
+        "Deshielo <B>cubano</B>",
+        "International reactions to the <B>Cuban</B> thaw",
+        "U.S.-<B>Cuba</B> Thaw",
+        "U.S.-<B>Cuban</B> Thaw",
+        "US-<B>Cuba</B> thaw",
+        "US-<B>Cuban</B> Thaw",
+        "United States-<B>Cuba</B> Thaw",
+        "United States-<B>Cuban</B> Thaw",
+        "United States-<B>Cuban</B> thaw",
+        "United States–<B>Cuba</B> Thaw",
+        "United States–<B>Cuban</B> Thaw",
+        "United States–<B>Cuban</B> thaw"
+      ],
+      "comment": [
+        "The <B>Cuban</B> thaw (Spanish: deshielo <B>cubano</B>) was the warming of <B>Cuba</B>–United States relations that"
+      ],
+      "label": [
+        "<B>Cuban</B> thaw"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_thaw"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_in_American_politics",
+        "http://dbpedia.org/resource/Category:2014_in_Canada",
+        "http://dbpedia.org/resource/Category:2014_in_Cuba",
+        "http://dbpedia.org/resource/Category:2014_in_international_relations",
+        "http://dbpedia.org/resource/Category:2015_in_American_politics",
+        "http://dbpedia.org/resource/Category:2015_in_Cuba",
+        "http://dbpedia.org/resource/Category:2015_in_international_relations",
+        "http://dbpedia.org/resource/Category:2016_in_American_politics",
+        "http://dbpedia.org/resource/Category:2016_in_Cuba",
+        "http://dbpedia.org/resource/Category:2016_in_international_relations",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Pope_Francis",
+        "http://dbpedia.org/resource/Category:Presidency_of_Barack_Obama"
+      ]
+    },
+    {
+      "score": [
+        "2549.882"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_cuisine"
+      ],
+      "redirectlabel": [
+        "Chiviricos",
+        "<B>Cuba</B> cuisine",
+        "<B>Cuba</B> food",
+        "<B>Cuban</B> Cuisine",
+        "<B>Cuban</B> cooking",
+        "<B>Cuban</B> food",
+        "<B>Cuban</B> national dish",
+        "Cuisine of <B>Cuba</B>",
+        "Food in <B>cuba</B>"
+      ],
+      "comment": [
+        "<B>Cuban</B> cuisine is a blend of Spanish, African, and other Caribbean cuisines. Some <B>Cuban</B> recipes"
+      ],
+      "label": [
+        "<B>Cuban</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Caribbean_cuisine",
+        "http://dbpedia.org/resource/Category:Cuban_cuisine",
+        "http://dbpedia.org/resource/Category:Latin_American_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2346.3066"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Cuban_All_Stars"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Cuban</B> All-Stars",
+        "Afro <B>Cuban</B> All Stars",
+        "The Afro-<B>Cuban</B> All-Stars"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Afro-<B>Cuban</B> All Stars is a <B>Cuban</B> band led by Juan de Marcos González (formerly tres player for"
+      ],
+      "label": [
+        "Afro-<B>Cuban</B> All Stars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Cuban_All_Stars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Cuban_culture",
+        "http://dbpedia.org/resource/Category:Cuban_musical_groups",
+        "http://dbpedia.org/resource/Category:World_Circuit_(record_label)_artists"
+      ]
+    },
+    {
+      "score": [
+        "2320.6272"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_amazon"
+      ],
+      "redirectlabel": [
+        "Amazona leucocephala",
+        "Amazona leucocephala bahamensis",
+        "Amazona leucocephala caymanensis",
+        "Bahama Amazon",
+        "Bahama Parrot",
+        "Bahama parrot",
+        "Bahamas Amazon",
+        "Bahamas Parrot",
+        "<B>Cuban</B> Amazon",
+        "<B>Cuban</B> Parrot",
+        "<B>Cuban</B> parrot",
+        "Grand Cayman Amazon",
+        "Grand Cayman Parrot",
+        "Grand Cayman parrot",
+        "Rose-throated Amazon",
+        "Rose-throated Parrot",
+        "Rose-throated parrot"
+      ],
+      "comment": [
+        "The <B>Cuban</B> amazon (Amazona leucocephala) also known as <B>Cuban</B> parrot or the rose-throated parrot, is"
+      ],
+      "label": [
+        "<B>Cuban</B> amazon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_amazon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Amazon_parrots",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1758",
+        "http://dbpedia.org/resource/Category:Birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Bahamas",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Cayman_Islands",
+        "http://dbpedia.org/resource/Category:Near_threatened_fauna_of_North_America",
+        "http://dbpedia.org/resource/Category:Species_endangered_by_the_pet_trade",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Carl_Linnaeus"
+      ]
+    },
+    {
+      "score": [
+        "2288.4187"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Western_Cuban_nesophontes"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Nesophontes",
+        "<B>Cuban</B> nesophontes",
+        "Lesser <B>Cuban</B> Nesophontes",
+        "Lesser <B>Cuban</B> nesophontes",
+        "Nesophontes longirostris",
+        "Nesophontes micrus",
+        "Nesophontes submicrus",
+        "Nesophontes superstes",
+        "Slender <B>Cuban</B> Nesophontes",
+        "Slender <B>Cuban</B> nesophontes",
+        "Western <B>Cuban</B> Nesophontes"
+      ],
+      "comment": [
+        "The western <B>Cuban</B> nesophontes (Nesophontes micrus) is an extinct species of mammal in the family Nesophontidae. It was found in <B>Cuba</B> and Haiti."
+      ],
+      "label": [
+        "Western <B>Cuban</B> nesophontes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Western_Cuban_nesophontes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Extinct_animals_of_Cuba",
+        "http://dbpedia.org/resource/Category:Extinct_animals_of_Haiti",
+        "http://dbpedia.org/resource/Category:Holocene_extinctions",
+        "http://dbpedia.org/resource/Category:Mammals_of_Cuba",
+        "http://dbpedia.org/resource/Category:Mammals_of_Haiti",
+        "http://dbpedia.org/resource/Category:Mammals_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Nesophontes",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Glover_Morrill_Allen",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "2280.3384"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_National_Series"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Cuban</B> National Series",
+        "2017–18 <B>Cuban</B> National Series",
+        "2018-19 <B>Cuban</B> National Series",
+        "2018–19 <B>Cuban</B> National Series",
+        "2019-20 <B>Cuban</B> National Series",
+        "2019–20 <B>Cuban</B> National Series",
+        "2020-21 <B>Cuban</B> National Series",
+        "2020–21 <B>Cuban</B> National Series",
+        "Serie Nacional",
+        "Serie Nacional Baseball",
+        "Serie Nacional de Beisbol",
+        "Serie Nacional de Béisbol"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsLeague",
+        "BaseballLeague",
+        "Agent"
+      ],
+      "comment": [
+        " baseball competition in <B>Cuba</B>. Formed after the dissolution of the <B>Cuban</B> League in the wake of the"
+      ],
+      "label": [
+        "<B>Cuban</B> National Series"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_National_Series"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/BaseballLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Baseball_leagues_in_Cuba",
+        "http://dbpedia.org/resource/Category:Cuban_National_Series",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Cuba",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1961",
+        "http://dbpedia.org/resource/Category:Winter_baseball_leagues"
+      ]
+    },
+    {
+      "score": [
+        "2266.023"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_peso"
+      ],
+      "redirectlabel": [
+        "<B>Cuba</B> currency",
+        "<B>Cuba</B> peso",
+        "<B>Cuban</B> Peso",
+        "<B>Cuban</B> currency",
+        "<B>Cuban</B> money",
+        "<B>Cuban</B> pesos",
+        "ISO 4217:CUP"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " nacional) is one of two official currencies in use in <B>Cuba</B>, the other being the convertible peso (ISO 4217"
+      ],
+      "label": [
+        "<B>Cuban</B> peso"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_peso"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1857_establishments_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1857_introductions",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Economy_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "2195.3433"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_dissident_movement"
+      ],
+      "redirectlabel": [
+        "Anti-Castro",
+        "Anti-Castro <B>Cubans</B>",
+        "Anti-Castro Groups",
+        "<B>Cuban</B> Nationalist Movement",
+        "<B>Cuban</B> democracy movement",
+        "<B>Cuban</B> dissident",
+        "<B>Cuban</B> dissidents",
+        "<B>Cuban</B> opposition since 1959",
+        "Opposition to Castro",
+        "Opposition to <B>Cuba's</B> Socialist Government",
+        "Opposition to Fidel Castro",
+        "Opposition to fidel castro"
+      ],
+      "comment": [
+        "The <B>Cuban</B> dissident movement is a political movement in <B>Cuba</B> whose aim is to replace the current"
+      ],
+      "label": [
+        "<B>Cuban</B> dissident movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_dissident_movement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Cuba",
+        "http://dbpedia.org/resource/Category:21st_century_in_Cuba",
+        "http://dbpedia.org/resource/Category:Cuban_democracy_movements",
+        "http://dbpedia.org/resource/Category:Cuban_dissidents",
+        "http://dbpedia.org/resource/Category:Cuban_nationalism",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Opposition_to_Fidel_Castro",
+        "http://dbpedia.org/resource/Category:Political_repression_in_Cuba",
+        "http://dbpedia.org/resource/Category:Resistance_movements"
+      ]
+    },
+    {
+      "score": [
+        "2150.3367"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_macaw"
+      ],
+      "redirectlabel": [
+        "Ara cubensis",
+        "Ara tricolor",
+        "Ara tricolor haitius",
+        "<B>Cuban</B> Macaw",
+        "<B>Cuban</B> Red Macaw",
+        "<B>Cuban</B> red macaw",
+        "Hispaniolan Macaw",
+        "Hispaniolan macaw",
+        "Psittacula tricolor",
+        "Psittacus tricolor",
+        "Sittace? lichtensteini",
+        "Sittace lichtensteini"
+      ],
+      "comment": [
+        "The <B>Cuban</B> macaw or <B>Cuban</B> red macaw (Ara tricolor) was a species of macaw native to the main island"
+      ],
+      "label": [
+        "<B>Cuban</B> macaw"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_macaw"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ara_(genus)",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Bird_extinctions_since_1500",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1811",
+        "http://dbpedia.org/resource/Category:Birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Extinct_animals_of_Cuba",
+        "http://dbpedia.org/resource/Category:Extinct_birds_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Macaws",
+        "http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Johann_Matthäus_Bechstein"
+      ]
+    },
+    {
+      "score": [
+        "2150.0325"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_salsa"
+      ],
+      "redirectlabel": [
+        "Casino (<B>Cuban</B> salsa)",
+        "Casino (dance)",
+        "Casino (salsa dance)",
+        "<B>Cuban</B> Casino style of salsa",
+        "<B>Cuban</B> Salsa",
+        "Salsa dance (<B>Cuban</B> Style)",
+        "Salsa dance (<B>Cuban</B> style)"
+      ],
+      "comment": [
+        "In <B>Cuba</B>, a popular dance known as Casino was marketed abroad as <B>Cuban</B>-style salsa or Salsa <B>Cubana</B>"
+      ],
+      "label": [
+        "<B>Cuban</B> salsa"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_salsa"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Salsa"
+      ]
+    },
+    {
+      "score": [
+        "2111.0374"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Celph_Titled"
+      ],
+      "redirectlabel": [
+        "Celph titled",
+        "Rubic's <B>cuban</B>",
+        "Rubics <B>cuban</B>",
+        "Rubik's <B>cuban</B>",
+        "Rubiks <B>cuban</B>",
+        "Rubix <B>Cuban</B>",
+        "Rubix <B>cuban</B>"
+      ],
+      "typeName": [
+        "MusicalArtist",
+        "Person",
+        "Artist",
+        "Agent"
+      ],
+      "comment": [
+        "Victor Mercer (born November 16, 1980), better known by his stage name Celph Titled, is an American rapper and record producer who is a member of the hip hop supergroup Army of the Pharaohs, as well as the Demigodz along with Connecticut rapper Apathy, Ryu from Get Busy Committee, and rapper Blacastan and Esoteric."
+      ],
+      "label": [
+        "Celph Titled"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Celph_Titled"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicalArtist",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Artist",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_births",
+        "http://dbpedia.org/resource/Category:21st-century_American_male_musicians",
+        "http://dbpedia.org/resource/Category:21st-century_American_rappers",
+        "http://dbpedia.org/resource/Category:American_hip_hop_record_producers",
+        "http://dbpedia.org/resource/Category:American_male_rappers",
+        "http://dbpedia.org/resource/Category:American_people_of_Cuban_descent",
+        "http://dbpedia.org/resource/Category:Army_of_the_Pharaohs_members",
+        "http://dbpedia.org/resource/Category:Demigodz_members",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_rappers",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Musicians_from_Tampa,_Florida",
+        "http://dbpedia.org/resource/Category:Rappers_from_Florida",
+        "http://dbpedia.org/resource/Category:Southern_hip_hop_musicians",
+        "http://dbpedia.org/resource/Category:Underground_rappers"
+      ]
+    },
+    {
+      "score": [
+        "2103.0059"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_espresso"
+      ],
+      "redirectlabel": [
+        "Cafecito",
+        "Café <B>Cubano</B>",
+        "Café <B>cubano</B>",
+        "<B>Cuba</B> coffee",
+        "<B>Cuban</B> coffee",
+        "<B>Cuban</B> pull",
+        "<B>Cuban</B> shot"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "Café <B>Cubano</B> (also known as <B>Cuban</B> espresso, <B>Cuban</B> coffee, cafecito, <B>Cuban</B> pull, and <B>Cuban</B> shot) is a"
+      ],
+      "label": [
+        "<B>Cuban</B> espresso"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_espresso"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Coffee_drinks",
+        "http://dbpedia.org/resource/Category:Cuban_drinks"
+      ]
+    },
+    {
+      "score": [
+        "2095.0464"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Cubans"
+      ],
+      "redirectlabel": [
+        "African-<B>Cuban</B>",
+        "African <B>Cuban</B>",
+        "Afro-<B>Cuban</B>",
+        "Afro-<B>Cubanism</B>",
+        "Afro-<B>cuban</B>",
+        "Afro-<B>cubano</B>",
+        "Afro <B>Cuban</B>",
+        "Afro <B>cubano</B>",
+        "Afrocuban",
+        "Afrocubano",
+        "Amparo people",
+        "Black <B>Cuban</B>",
+        "Black <B>Cubans</B>",
+        "<B>Cubans</B> of African descent",
+        "List of Afro-<B>Cubans</B>",
+        "Lucumi (people)",
+        "Lucumi people",
+        "Lucumis",
+        "Lucumí people",
+        "Lukumí people"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Cubans</B> are <B>Cubans</B> who mostly have West African ancestry. The term Afro-<B>Cuban</B> can also refer to"
+      ],
+      "label": [
+        "Afro-<B>Cubans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Cubans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Caribbean",
+        "http://dbpedia.org/resource/Category:Afro-Cuban",
+        "http://dbpedia.org/resource/Category:Cuban_entertainers",
+        "http://dbpedia.org/resource/Category:Cuban_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Cuba",
+        "http://dbpedia.org/resource/Category:People_of_African_descent",
+        "http://dbpedia.org/resource/Category:Society_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "2021.9387"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Stars_(West)"
+      ],
+      "redirectlabel": [
+        "Cincinnati <B>Cuban</B> Stars",
+        "Cincinnati <B>Cubans</B>",
+        "<B>Cuban</B> Stars West",
+        "<B>Cuban</B> Stars of Havana",
+        "Stars of <B>Cuba</B>"
+      ],
+      "comment": [
+        ", Stars of <B>Cuba</B>, <B>Cuban</B> All-Stars, Havana Reds, Almendares Blues or simply as the <B>Cubans</B>. For one"
+      ],
+      "label": [
+        "<B>Cuban</B> Stars (West)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Stars_(West)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Caribbean_culture_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Afro-Cuban_culture",
+        "http://dbpedia.org/resource/Category:Baseball_teams_disestablished_in_1932",
+        "http://dbpedia.org/resource/Category:Baseball_teams_established_in_1907",
+        "http://dbpedia.org/resource/Category:Cuban-American_culture",
+        "http://dbpedia.org/resource/Category:Defunct_baseball_teams_in_Ohio",
+        "http://dbpedia.org/resource/Category:Negro_league_baseball_teams"
+      ]
+    },
+    {
+      "score": [
+        "1936.8345"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Link"
+      ],
+      "redirectlabel": [
+        "24K (<B>Cuban</B> Link)",
+        "24K (<B>Cuban</B> Link album)"
+      ],
+      "typeName": [
+        "MusicalArtist",
+        "Person",
+        "Artist",
+        "Agent"
+      ],
+      "comment": [
+        "Felix Delgado (born December 18, 1974), better known by his stage name <B>Cuban</B> Link, is a <B>Cuban</B> American rapper and original member of Terror Squad."
+      ],
+      "label": [
+        "<B>Cuban</B> Link"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Link"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicalArtist",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Artist",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_births",
+        "http://dbpedia.org/resource/Category:21st-century_American_rappers",
+        "http://dbpedia.org/resource/Category:American_entertainers_of_Cuban_descent",
+        "http://dbpedia.org/resource/Category:Atlantic_Records_artists",
+        "http://dbpedia.org/resource/Category:Cuban_emigrants_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Cuban_rappers",
+        "http://dbpedia.org/resource/Category:Cuban_reggaeton_musicians",
+        "http://dbpedia.org/resource/Category:East_Coast_hip_hop_musicians",
+        "http://dbpedia.org/resource/Category:Entertainers_from_the_Bronx",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_rappers",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:People_from_Havana",
+        "http://dbpedia.org/resource/Category:People_from_the_Bronx",
+        "http://dbpedia.org/resource/Category:Rappers_from_the_Bronx",
+        "http://dbpedia.org/resource/Category:Terror_Squad_(group)_members"
+      ]
+    },
+    {
+      "score": [
+        "1934.0151"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuba–United_States_relations"
+      ],
+      "redirectlabel": [
+        "America <B>Cuba</B> relations",
+        "American <B>cuban</B> relations",
+        "<B>Cuba</B>-U.S. relations",
+        "<B>Cuba</B>-US relations",
+        "<B>Cuba</B>-United States relations",
+        "<B>Cuba</B>-United states relations",
+        "<B>Cuba</B>-u.s. relations",
+        "<B>Cuba</B>-united states relations",
+        "<B>Cuba</B> - U.S. relations",
+        "<B>Cuba</B> - US relations",
+        "<B>Cuba</B> - United States relations",
+        "<B>Cuba</B> America relations",
+        "<B>Cuba</B> U.S. relations",
+        "<B>Cuba</B> US relations",
+        "<B>Cuba</B> United States relations",
+        "<B>Cuba</B> america relations",
+        "<B>Cuba</B> u.s. relations",
+        "<B>Cuba</B> united states relations",
+        "<B>Cuba</B> us relations",
+        "<B>Cuba</B> – U.S. relations",
+        "<B>Cuba</B> – US relations",
+        "<B>Cuba</B> – United States relations",
+        "<B>Cuban</B>-American relations",
+        "<B>Cuban</B>-american relations",
+        "<B>Cuban</B> American relations",
+        "<B>Cuban</B> america relations",
+        "<B>Cuban</B>–American relations",
+        "<B>Cuba</B>–U.S. relations",
+        "<B>Cuba</B>–US relations",
+        "History of <B>Cuba</B>-United States relations",
+        "History of <B>Cuba</B>–United States relations",
+        "U.S.-<B>Cuba</B> relations",
+        "U.S. - <B>Cuba</B> relations",
+        "U.S. <B>Cuba</B> relations",
+        "U.S.–<B>Cuba</B> relations",
+        "US-<B>Cuba</B> relations",
+        "US - <B>Cuba</B> relations",
+        "US <B>Cuba</B> relations",
+        "US <B>cuba</B> policy",
+        "US–<B>Cuba</B> relations",
+        "United States-<B>Cuba</B> relations",
+        "United States - <B>Cuba</B> relations",
+        "United States <B>Cuba</B> relations",
+        "United States – <B>Cuba</B> relations",
+        "United States–<B>Cuba</B> relations",
+        "Us <B>cuba</B> relations",
+        "Us <B>cuban</B> relations"
+      ],
+      "comment": [
+        " handled by the United States Embassy in Havana, and there is a similar <B>Cuban</B> Embassy in Washington, D.C"
+      ],
+      "label": [
+        "<B>Cuba</B>–United States relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuba–United_States_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Cuba",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Relations_of_colonizer_and_former_colony"
+      ]
+    },
+    {
+      "score": [
+        "1903.4746"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_migration_to_Miami"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B>-Americans in Miami",
+        "<B>Cuban</B> Americans in Miami",
+        "<B>Cuban</B> Migration To Miami",
+        "<B>Cuban</B> diaspora in Miami",
+        "<B>Cuban</B> exile community in Miami",
+        "<B>Cubans</B> in Miami",
+        "History of the <B>Cuban</B> Americans in Miami",
+        "History of the <B>Cubans</B> in Miami",
+        "Miami <B>Cubans</B>"
+      ],
+      "comment": [
+        "<B>Cuban</B> immigration has greatly influenced modern Miami, creating what is known as \"<B>Cuban</B> Miami"
+      ],
+      "label": [
+        "<B>Cuban</B> migration to Miami"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_migration_to_Miami"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban-American_culture_in_Miami",
+        "http://dbpedia.org/resource/Category:Cuban-American_history",
+        "http://dbpedia.org/resource/Category:Cuban_emigrants_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Cuban_refugees",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_culture_in_Miami",
+        "http://dbpedia.org/resource/Category:History_of_Miami"
+      ]
+    },
+    {
+      "score": [
+        "1872.7039"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_X-Giants"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> X Giants"
+      ],
+      "comment": [
+        "The <B>Cuban</B> X-Giants were a professional Negro league baseball team that played from 1896 to 1906"
+      ],
+      "label": [
+        "<B>Cuban</B> X-Giants"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_X-Giants"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Baseball_teams_disestablished_in_1907",
+        "http://dbpedia.org/resource/Category:Baseball_teams_established_in_1897",
+        "http://dbpedia.org/resource/Category:Defunct_baseball_teams_in_New_Jersey",
+        "http://dbpedia.org/resource/Category:Negro_league_baseball_teams"
+      ]
+    },
+    {
+      "score": [
+        "1847.9448"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_grassquit"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Grassquit",
+        "<B>Cuban</B> finch",
+        "Melodious grassquit",
+        "Phonipara",
+        "Phonipara canora",
+        "Tiaris canora",
+        "Tiaris canorus",
+        "Tomeguin"
+      ],
+      "comment": [
+        "The <B>Cuban</B> grassquit (Tiaris canorus) is a small bird. It is recognized as a tanager closely related"
+      ],
+      "label": [
+        "<B>Cuban</B> grassquit"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_grassquit"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1789",
+        "http://dbpedia.org/resource/Category:Birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Johann_Friedrich_Gmelin",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot",
+        "http://dbpedia.org/resource/Category:Thraupidae"
+      ]
+    },
+    {
+      "score": [
+        "1752.8489"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Genealogy"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Genealogy",
+        "<B>Cuban</B> genealogy",
+        "Family History",
+        "Family genealogist",
+        "Family histories",
+        "Family history",
+        "Genealogic",
+        "Genealogical",
+        "Genealogical research",
+        "Genealogies",
+        "Genealogist",
+        "Genealogists",
+        "Genealogy chart",
+        "Geneaology",
+        "Geneological research",
+        "Geneology",
+        "Genæology"
+      ],
+      "comment": [
+        "Genealogy (from Greek: γενεαλογία genealogia \"the making of a pedigree\") is the study of families, family history, and the tracing of their lineages. Genealogists use oral interviews, historical records, genetic analysis, and other records to obtain information about a family and to demonstrate kinship and pedigrees of its members. The results are often displayed in charts or written as narratives. Although generally used interchangeably, the traditional definition of \"genealogy\" begins with a person who is usually deceased and traces his or her descendants forward in time, whereas, \"family history\" begins with a person who is usually living and traces his or her ancestors. Both the National Genealogical Society in the United States and the Society of Genealogists in the United Kingdom sta"
+      ],
+      "label": [
+        "Genealogy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Genealogy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Genealogy",
+        "http://dbpedia.org/resource/Category:Kinship_and_descent"
+      ]
+    },
+    {
+      "score": [
+        "1739.3566"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_convertible_peso"
+      ],
+      "redirectlabel": [
+        "CUC (currency)",
+        "Chavito",
+        "Convertible Pesos",
+        "Convertible peso",
+        "<B>Cuban</B> Convertible Peso",
+        "<B>Cuban</B> convertible pesos",
+        "ISO 4217:CUC",
+        "Peso Convertible"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " two official currencies in <B>Cuba</B>, the other being the <B>Cuban</B> peso. It has been in limited use since"
+      ],
+      "label": [
+        "<B>Cuban</B> convertible peso"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_convertible_peso"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_Cuba",
+        "http://dbpedia.org/resource/Category:2021_disestablishments_in_Cuba",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1994",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Economy_of_Cuba",
+        "http://dbpedia.org/resource/Category:Fixed_exchange_rate",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "1733.451"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Vodú"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Vodou",
+        "<B>Cuban</B> Vodu",
+        "<B>Cuban</B> Vudú",
+        "Regla de Arará"
+      ],
+      "comment": [
+        "<B>Cuban</B> Vodú is a religion indigenous to <B>Cuba</B>. It is a religion formed from the blending of Fon and"
+      ],
+      "label": [
+        "<B>Cuban</B> Vodú"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Vodú"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-American_religion",
+        "http://dbpedia.org/resource/Category:Afro-Cuban_culture",
+        "http://dbpedia.org/resource/Category:Voodoo"
+      ]
+    },
+    {
+      "score": [
+        "1726.8832"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Cuba"
+      ],
+      "redirectlabel": [
+        "Afro-<B>Cuban</B> Music",
+        "Afro-<B>cuban</B> music",
+        "<B>Cuban</B> dance music",
+        "<B>Cuban</B> music",
+        "<B>Cuban</B> traditional music",
+        "Grupo de renovación musical",
+        "Music in <B>Cuba</B>",
+        "Music in <B>cuba</B>",
+        "Popular music of <B>Cuba</B>",
+        "Retambico",
+        "Rockoson"
+      ],
+      "comment": [
+        " syncretic nature of most of its genres, <B>Cuban</B> music is often considered one of the richest and most"
+      ],
+      "label": [
+        "Music of <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_music"
+      ]
+    },
+    {
+      "score": [
+        "1702.1224"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_black_hawk"
+      ],
+      "redirectlabel": [
+        "Buteogallus anthracinus gundlachii",
+        "Buteogallus gundlachii",
+        "<B>Cuban</B> Black-Hawk",
+        "<B>Cuban</B> Black-hawk",
+        "<B>Cuban</B> Black Hawk",
+        "<B>Cuban</B> black-hawk"
+      ],
+      "comment": [
+        "The <B>Cuban</B> black hawk (Buteogallus gundlachii) is a bird of prey in the family Accipitridae. It is endemic to <B>Cuba</B> and several outlying cays."
+      ],
+      "label": [
+        "<B>Cuban</B> black hawk"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_black_hawk"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1855",
+        "http://dbpedia.org/resource/Category:Buteogallus",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1695.7133"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Stars_(East)"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Stars East",
+        "New York <B>Cuban</B> Stars"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Stars (East) were a team of professional baseball players from <B>Cuba</B> and other Latin"
+      ],
+      "label": [
+        "<B>Cuban</B> Stars (East)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Stars_(East)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Caribbean_culture_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Afro-Cuban_culture",
+        "http://dbpedia.org/resource/Category:Afro-Latino_culture_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Baseball_teams_disestablished_in_1929",
+        "http://dbpedia.org/resource/Category:Baseball_teams_established_in_1916",
+        "http://dbpedia.org/resource/Category:Cuban-American_culture_in_New_York_(state)",
+        "http://dbpedia.org/resource/Category:Defunct_baseball_teams_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Negro_league_baseball_teams"
+      ]
+    },
+    {
+      "score": [
+        "1687.3811"
+      ],
+      "refCount": [
+        "47"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Communist_Party_of_Cuba"
+      ],
+      "redirectlabel": [
+        "Comité Central del Partido Comunista de <B>Cuba</B>",
+        "Communist party of <B>Cuba</B>",
+        "Communist party of <B>cuba</B>",
+        "<B>Cuban</B> Communist Party",
+        "History of the Communist Party of <B>Cuba</B>",
+        "Integrated Revolutionary Organizations",
+        "Partido Comunista de <B>Cuba</B>",
+        "United Party for the Socialist Revolution of <B>Cuba</B>",
+        "United Party of the <B>Cuban</B> Socialist Revolution"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " communist party of the Marxist–Leninist model. The <B>Cuban</B> constitution ascribes the role of the party to be"
+      ],
+      "label": [
+        "Communist Party of <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Communist_Party_of_Cuba"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Communist_Party_of_Cuba",
+        "http://dbpedia.org/resource/Category:Far-left_political_parties",
+        "http://dbpedia.org/resource/Category:International_Meeting_of_Communist_and_Workers_Parties",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Cuba",
+        "http://dbpedia.org/resource/Category:Ruling_communist_parties"
+      ]
+    },
+    {
+      "score": [
+        "1641.7062"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Only_Built_4_Cuban_Linx..._Pt._II"
+      ],
+      "redirectlabel": [
+        "Catalina (Raekwon song)",
+        "<B>Cuban</B> linx 2",
+        "OB4CL2",
+        "OB4CL II",
+        "OBFCL2",
+        "Only Built 4 <B>Cuban</B> Linx II",
+        "Only Built 4 <B>Cuban</B> Linx… Pt. II",
+        "Only built 4 <B>cuban</B> linx 2",
+        "Only built for <B>cuban</B> linx 2",
+        "Pyrex Vision"
+      ],
+      "typeName": [
+        "Album",
+        "MusicalWork",
+        "Work"
+      ],
+      "comment": [
+        "Only Built 4 <B>Cuban</B> Linx... Pt. II is the fourth studio album by American hip hop recording artist"
+      ],
+      "label": [
+        "Only Built 4 <B>Cuban</B> Linx... Pt. II"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Only_Built_4_Cuban_Linx..._Pt._II"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Album",
+        "http://dbpedia.org/ontology/MusicalWork",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_albums",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Dr._Dre",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Erick_Sermon",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_J_Dilla",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Mark_Batson",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Marley_Marl",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Mathematics",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Pete_Rock",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_RZA",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_Scram_Jones",
+        "http://dbpedia.org/resource/Category:Albums_produced_by_the_Alchemist_(musician)",
+        "http://dbpedia.org/resource/Category:Concept_albums",
+        "http://dbpedia.org/resource/Category:EMI_Records_albums",
+        "http://dbpedia.org/resource/Category:Raekwon_albums",
+        "http://dbpedia.org/resource/Category:Sequel_albums"
+      ]
+    },
+    {
+      "score": [
+        "1628.5673"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_eight"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> 8",
+        "<B>Cuban</B> Eight",
+        "Half <B>Cuban</B> 8",
+        "Half <B>Cuban</B> Eight"
+      ],
+      "comment": [
+        "A <B>Cuban</B> eight or <B>Cuban</B> 8 is a figure eight aerobatic maneuver for both full-scale and radio"
+      ],
+      "label": [
+        "<B>Cuban</B> eight"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_eight"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Aerial_maneuvers"
+      ]
+    },
+    {
+      "score": [
+        "1617.8762"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_pygmy_owl"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Pygmy-Owl",
+        "<B>Cuban</B> Pygmy-owl",
+        "<B>Cuban</B> Pygmy Owl",
+        "<B>Cuban</B> pygmy-owl",
+        "Glaucidium siju"
+      ],
+      "comment": [
+        "The <B>Cuban</B> pygmy owl (Glaucidium siju) is a species of owl in the family Strigidae that is endemic"
+      ],
+      "label": [
+        "<B>Cuban</B> pygmy owl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_pygmy_owl"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1839",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Glaucidium_(owl)",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1613.9867"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_medical_internationalism"
+      ],
+      "redirectlabel": [
+        "<B>Cuba's</B> medical internationalism",
+        "<B>Cuban</B> doctors",
+        "<B>Cuban</B> medical diplomacy"
+      ],
+      "comment": [
+        "<B>Cuban</B> medical internationalism is the <B>Cuban</B> programme, since the 1959 <B>Cuban</B> Revolution, of sending"
+      ],
+      "label": [
+        "<B>Cuban</B> medical internationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_medical_internationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Cuba",
+        "http://dbpedia.org/resource/Category:Global_health",
+        "http://dbpedia.org/resource/Category:Healthcare_in_Cuba",
+        "http://dbpedia.org/resource/Category:Internationalism",
+        "http://dbpedia.org/resource/Category:Medical_diplomacy"
+      ]
+    },
+    {
+      "score": [
+        "1612.7976"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_green_woodpecker"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Green Woodpecker",
+        "<B>Cuban</B> Woodpecker",
+        "<B>Cuban</B> woodpecker",
+        "Xiphidiopicus",
+        "Xiphidiopicus percussus"
+      ],
+      "comment": [
+        "The <B>Cuban</B> green woodpecker (Xiphidiopicus percussus) is a species of bird in the family Picidae. It"
+      ],
+      "label": [
+        "<B>Cuban</B> green woodpecker"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_green_woodpecker"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1826",
+        "http://dbpedia.org/resource/Category:Dendropicini",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Higher-level_bird_taxa_restricted_to_the_West_Indies",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Coenraad_Jacob_Temminck",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1595.8663"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006–2008_Cuban_transfer_of_presidential_duties"
+      ],
+      "redirectlabel": [
+        "2006-08 <B>Cuban</B> transfer of presidential duties",
+        "2006-2008 <B>Cuban</B> transfer of presidential duties",
+        "2006 <B>Cuban</B> transfer of duties",
+        "2006 <B>Cuban</B> transfer of power",
+        "2006 <B>Cuban</B> transfer of presidential duties",
+        "2006–08 <B>Cuban</B> transfer of presidential duties",
+        "July 2006 <B>Cuban</B> transfer of power",
+        "July 2006 Fidel Castro transfer of power"
+      ],
+      "comment": [
+        "The 2006–2008 <B>Cuban</B> transfer of presidential duties was the handover of the title of president and"
+      ],
+      "label": [
+        "2006–2008 <B>Cuban</B> transfer of presidential duties"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006–2008_Cuban_transfer_of_presidential_duties"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_in_Cuba",
+        "http://dbpedia.org/resource/Category:2007_in_Cuba",
+        "http://dbpedia.org/resource/Category:2008_in_Cuba",
+        "http://dbpedia.org/resource/Category:21st_century_in_Cuba",
+        "http://dbpedia.org/resource/Category:Fidel_Castro",
+        "http://dbpedia.org/resource/Category:Government_of_Cuba",
+        "http://dbpedia.org/resource/Category:Presidents_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1594.0801"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Cuba"
+      ],
+      "redirectlabel": [
+        "Cinema in <B>cuba</B>",
+        "Cinema of <B>cuba</B>",
+        "<B>Cuba's</B> film industry",
+        "<B>Cuba</B> cinema",
+        "<B>Cuban</B> Cinema",
+        "<B>Cuban</B> cinema",
+        "<B>Cuban</B> film",
+        "<B>Cuban</B> film industry",
+        "<B>Cuban</B> revolutionary cinema",
+        "History of cinema in <B>Cuba</B>",
+        "Imperfect Cinema"
+      ],
+      "comment": [
+        "Cinema arrived in <B>Cuba</B> at the beginning of the 20th century. Before the <B>Cuban</B> Revolution of 1959"
+      ],
+      "label": [
+        "Cinema of <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Cuba",
+        "http://dbpedia.org/resource/Category:History_of_film"
+      ]
+    },
+    {
+      "score": [
+        "1593.966"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_crocodile"
+      ],
+      "redirectlabel": [
+        "Crocodylus rhombifer",
+        "<B>Cuban</B> Crocodile",
+        "<B>Cuban</B> Crocodiles",
+        "<B>Cuban</B> crocodiles"
+      ],
+      "comment": [
+        "The <B>Cuban</B> crocodile (Crocodylus rhombifer) is a small species of crocodile found only in <B>Cuba</B>"
+      ],
+      "label": [
+        "<B>Cuban</B> crocodile"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_crocodile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Apex_predators",
+        "http://dbpedia.org/resource/Category:Crocodilians_of_North_America",
+        "http://dbpedia.org/resource/Category:Crocodylidae",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Cuba",
+        "http://dbpedia.org/resource/Category:Extant_Pleistocene_first_appearances",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1807",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Cuba",
+        "http://dbpedia.org/resource/Category:Reptiles_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Georges_Cuvier"
+      ]
+    },
+    {
+      "score": [
+        "1571.0159"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_solenodon"
+      ],
+      "redirectlabel": [
+        "Almiqui",
+        "Atopogale",
+        "Atopogale <B>cubana</B>",
+        "<B>Cuban</B> Solenodon",
+        "Solenodon <B>cubanus</B>"
+      ],
+      "comment": [
+        "The <B>Cuban</B> solenodon or almiqui (Solenodon <B>cubanus</B>), is a species of eulipotyphlan endemic to <B>Cuba</B>"
+      ],
+      "label": [
+        "<B>Cuban</B> solenodon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_solenodon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:EDGE_species",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Cuba",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1861",
+        "http://dbpedia.org/resource/Category:Mammals_of_Cuba",
+        "http://dbpedia.org/resource/Category:Mammals_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Solenodon",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Wilhelm_Peters",
+        "http://dbpedia.org/resource/Category:Venomous_mammals"
+      ]
+    },
+    {
+      "score": [
+        "1564.8547"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuba–Pakistan_relations"
+      ],
+      "redirectlabel": [
+        "<B>Cuba</B>-Pakistan relations",
+        "<B>Cuba</B> - Pakistan relations",
+        "<B>Cuba</B> Pakistan relation",
+        "<B>Cuba</B> Pakistan relations",
+        "<B>Cuba</B> – Pakistan relations",
+        "<B>Cuban</B>-Pakistani relations",
+        "<B>Cuban</B> Pakistani relation",
+        "<B>Cuban</B> Pakistani relations",
+        "Foreign relations between <B>Cuba</B> and Pakistan",
+        "Foreign relations between Pakistan and <B>Cuba</B>",
+        "Pakistan-<B>Cuba</B> relation",
+        "Pakistan-<B>Cuba</B> relations",
+        "Pakistan - <B>Cuba</B> relations",
+        "Pakistan <B>Cuba</B> relation",
+        "Pakistan <B>Cuba</B> relations",
+        "Pakistan – <B>Cuba</B> relations",
+        "Pakistani-<B>Cuban</B> relation",
+        "Pakistani-<B>Cuban</B> relations",
+        "Pakistani <B>Cuban</B> relations",
+        "Pakistan–<B>Cuba</B> relations"
+      ],
+      "comment": [
+        "<B>Cuba</B>–Pakistan relations refers to the bilateral relationship of <B>Cuba</B> and Pakistan. Relations"
+      ],
+      "label": [
+        "<B>Cuba</B>–Pakistan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuba–Pakistan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Cuba",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Cuba–Pakistan_relations"
+      ]
+    },
+    {
+      "score": [
+        "1547.8507"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuba–Soviet_Union_relations"
+      ],
+      "redirectlabel": [
+        "<B>Cuba</B>-Soviet Russia relations",
+        "<B>Cuba</B>-Soviet Union relations",
+        "<B>Cuba</B>-Soviet relations",
+        "<B>Cuba</B> - Soviet Union relations",
+        "<B>Cuba</B> Soviet",
+        "<B>Cuba</B> Soviet Union relations",
+        "<B>Cuba</B> soviet relations",
+        "<B>Cuba</B> – Soviet Union relations",
+        "<B>Cuban</B>-Soviet Union relations",
+        "<B>Cuban</B>-Soviet relations",
+        "<B>Cuban</B>-soviet relations",
+        "<B>Cuban</B> Soviet Union relations",
+        "<B>Cuban</B> Soviet relations",
+        "<B>Cuban</B>–Soviet relations",
+        "List of Soviet ambassadors in <B>Cuba</B>",
+        "Soviet-<B>Cuba</B> relations",
+        "Soviet Union-<B>Cuba</B> relations",
+        "Soviet Union - <B>Cuba</B> relations",
+        "Soviet Union <B>Cuba</B> relations",
+        "Soviet Union – <B>Cuba</B> relations",
+        "Soviet Union–<B>Cuba</B> relations"
+      ],
+      "comment": [
+        "After the establishment of diplomatic ties with the Soviet Union after the <B>Cuban</B> Revolution of 1959"
+      ],
+      "label": [
+        "<B>Cuba</B>–Soviet Union relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuba–Soviet_Union_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Cuba",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Cuba–Soviet_Union_relations"
+      ]
+    },
+    {
+      "score": [
+        "1534.5461"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Panart"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Plastics & Record Corporation",
+        "Panart Records",
+        "Sonoro"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "RecordLabel",
+        "Agent"
+      ],
+      "comment": [
+        "Panart was one of the first and most successful independent record label in <B>Cuba</B>, founded in 1944"
+      ],
+      "label": [
+        "Panart"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Panart"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/RecordLabel",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_record_labels",
+        "http://dbpedia.org/resource/Category:Panart",
+        "http://dbpedia.org/resource/Category:Record_labels_disestablished_in_1961",
+        "http://dbpedia.org/resource/Category:Record_labels_established_in_1944"
+      ]
+    },
+    {
+      "score": [
+        "1494.215"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_parakeet"
+      ],
+      "redirectlabel": [
+        "Aratinga <B>Cubana</B>",
+        "Aratinga euops",
+        "Conure De <B>Cuba</B>",
+        "<B>Cuban</B> Parakeet",
+        "Psittacara euops"
+      ],
+      "comment": [
+        "The <B>Cuban</B> parakeet (Psittacara euops) is a species of parrot in the family Psittacidae that is"
+      ],
+      "label": [
+        "<B>Cuban</B> parakeet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_parakeet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1832",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Psittacara",
+        "http://dbpedia.org/resource/Category:Species_endangered_by_the_pet_trade",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1488.5208"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Partido_Auténtico"
+      ],
+      "redirectlabel": [
+        "Autentico Party",
+        "Authentic Party",
+        "<B>Cuban</B> Revolutionary Party-Authentic",
+        "<B>Cuban</B> Revolutionary Party",
+        "<B>Cuban</B> Revolutionary Party - Authentic",
+        "<B>Cuban</B> Revolutionary Party – Authentic",
+        "PRC-A",
+        "Partido Autentico",
+        "Partido Revolucionario <B>Cubano</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Revolutionary Party – Authentic (Spanish: Partido Revolucionario <B>Cubano</B> – Auténtico, PRC"
+      ],
+      "label": [
+        "Partido Auténtico"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Partido_Auténtico"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1934_establishments_in_Cuba",
+        "http://dbpedia.org/resource/Category:Cuban_nationalism",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Cuba",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Left-wing_populism_in_South_America",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1934",
+        "http://dbpedia.org/resource/Category:Syndicalist_political_parties"
+      ]
+    },
+    {
+      "score": [
+        "1466.537"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_tree_frog"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Tree Frog",
+        "<B>Cuban</B> Treefrog",
+        "Hyla septentrionalis",
+        "Osteopilus septentriolalis",
+        "Osteopilus septentrionalis"
+      ],
+      "comment": [
+        "The <B>Cuban</B> tree frog (Osteopilus septentrionalis) is an amphibian native to the Caribbean region of"
+      ],
+      "label": [
+        "<B>Cuban</B> tree frog"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_tree_frog"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Amphibians_described_in_1841",
+        "http://dbpedia.org/resource/Category:Amphibians_of_Cuba",
+        "http://dbpedia.org/resource/Category:Fauna_of_the_Bahamas",
+        "http://dbpedia.org/resource/Category:Fauna_of_the_Cayman_Islands",
+        "http://dbpedia.org/resource/Category:Osteopilus",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_André_Marie_Constant_Duméril",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Gabriel_Bibron"
+      ]
+    },
+    {
+      "score": [
+        "1450.4115"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anarchism_in_Cuba"
+      ],
+      "redirectlabel": [
+        "Anarchism in <B>cuba</B>",
+        "<B>Cuban</B> Libertarian Movement",
+        "<B>Cuban</B> Libertarian Movement in Exile",
+        "<B>Cuban</B> anarchism",
+        "<B>Cuban</B> anarchist movement",
+        "<B>Cuban</B> anarchists",
+        "<B>Cuban</B> liberation movement",
+        "Frank Fernandez (writer)",
+        "Frank Fernández (writer)",
+        "History of anarchism in <B>Cuba</B>",
+        "Movimiento Libertario <B>Cubano</B>"
+      ],
+      "comment": [
+        " Castro's Marxist–Leninist government following the <B>Cuban</B> Revolution in the late 1950s. <B>Cuban</B> anarchism"
+      ],
+      "label": [
+        "Anarchism in <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anarchism_in_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anarchism_by_country",
+        "http://dbpedia.org/resource/Category:Anarchism_in_Cuba",
+        "http://dbpedia.org/resource/Category:History_of_Cuba",
+        "http://dbpedia.org/resource/Category:History_of_anarchism"
+      ]
+    },
+    {
+      "score": [
+        "1438.3578"
+      ],
+      "refCount": [
+        "68"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Simple_Minds"
+      ],
+      "redirectlabel": [
+        "5X5 Live (live album)",
+        "Eddie Duffy (Scottish musician)",
+        "Mark Taylor (Simple Minds)",
+        "The <B>Cuban</B> Heels",
+        "The Simple Minds",
+        "Tribute to Jinky"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Simple Minds are a Scottish rock band formed in Glasgow in 1977. Simple Minds have released a string of hit singles, becoming best known internationally for their 1985 hit \"Don't You (Forget About Me)\", from the soundtrack of the film The Breakfast Club. Their other prominent hit singles include \"Alive and Kicking\" and \"Belfast Child\" (UK #1). They have achieved five UK Albums chart number one albums and have sold more than 60 million albums. They were the most commercially successful Scottish band of the 1980s. Despite various personnel changes, they continue to record and tour. In 2016, they received the Ivor Novello Award for Outstanding Song Collection from the British Academy of Songwriters, Composers, and Authors."
+      ],
+      "label": [
+        "Simple Minds"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Simple_Minds"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1977_establishments_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:A&M_Records_artists",
+        "http://dbpedia.org/resource/Category:Arista_Records_artists",
+        "http://dbpedia.org/resource/Category:Articles_which_contain_graphical_timelines",
+        "http://dbpedia.org/resource/Category:British_synth-pop_new_wave_groups",
+        "http://dbpedia.org/resource/Category:Chrysalis_Records_artists",
+        "http://dbpedia.org/resource/Category:Eagle_Records_artists",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1977",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Glasgow",
+        "http://dbpedia.org/resource/Category:Scottish_art_rock_groups",
+        "http://dbpedia.org/resource/Category:Scottish_new_wave_musical_groups",
+        "http://dbpedia.org/resource/Category:Scottish_post-punk_music_groups",
+        "http://dbpedia.org/resource/Category:Second_British_Invasion_artists",
+        "http://dbpedia.org/resource/Category:Sire_Records_artists",
+        "http://dbpedia.org/resource/Category:Virgin_Records_artists"
+      ]
+    },
+    {
+      "score": [
+        "1436.618"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anthanassa_frisia"
+      ],
+      "redirectlabel": [
+        "Anthanassa dubia",
+        "Anthanassa taeniata",
+        "Anthanassa tulcis",
+        "<B>Cuban</B> Crescent",
+        "<B>Cuban</B> Crescentspot",
+        "<B>Cuban</B> checkerspot",
+        "<B>Cuban</B> crescent",
+        "<B>Cuban</B> crescentspot",
+        "Eresia archesilea",
+        "Eresia conferta",
+        "Eresia frisia",
+        "Eresia genigueh",
+        "Eresia gyges",
+        "Eresia hermas",
+        "Eresia punctata",
+        "Melitaea tulcis",
+        "Melitea frisia",
+        "Pale-banded Crescent",
+        "Pale-banded crescent",
+        "Phyciodes aequatorialis",
+        "Phyciodes brancodia",
+        "Phyciodes frisia",
+        "Phyciodes taeniata",
+        "Phyciodes tulcis",
+        "Tulcis Crescent",
+        "Tulcis crescent"
+      ],
+      "typeName": [
+        "Species",
+        "Insect",
+        "Animal",
+        "Eukaryote"
+      ],
+      "comment": [
+        "Anthanassa frisia, the <B>Cuban</B> crescentspot, <B>Cuban</B> checkerspot or <B>Cuban</B> crescent, is a butterfly of"
+      ],
+      "label": [
+        "Anthanassa frisia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anthanassa_frisia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Species",
+        "http://dbpedia.org/ontology/Insect",
+        "http://dbpedia.org/ontology/Animal",
+        "http://dbpedia.org/ontology/Eukaryote"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Butterflies_described_in_1832",
+        "http://dbpedia.org/resource/Category:Butterflies_of_Jamaica",
+        "http://dbpedia.org/resource/Category:Melitaeini",
+        "http://dbpedia.org/resource/Category:Nymphalidae_of_South_America",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Felipe_Poey"
+      ]
+    },
+    {
+      "score": [
+        "1434.1874"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Cuba"
+      ],
+      "redirectlabel": [
+        "<B>Cuba</B>/Government",
+        "<B>Cuban</B> Government",
+        "<B>Cuban</B> government",
+        "<B>Cuban</B> politics",
+        "Govenment <B>cuba</B>",
+        "Government of <B>Cuba</B>",
+        "Political <B>Cuba</B>",
+        "Politics <B>Cuba</B>",
+        "Politics <B>cuban</B>",
+        "Politics in <B>Cuba</B>",
+        "Politics in <B>cuba</B>",
+        "Politics of <B>cuba</B>",
+        "Revolutionary government of <B>Cuba</B>",
+        "The Revolutionary Government Of <B>Cuba</B>",
+        "The Revolutionary Government of <B>Cuba</B>",
+        "The revolutionary government of <B>Cuba</B>"
+      ],
+      "comment": [
+        " the main source of influence in <B>Cuban</B> politics. The present Constitution, which was passed in a 2019"
+      ],
+      "label": [
+        "Politics of <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Politics_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1423.6233"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_motion"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> action",
+        "<B>Cuban</B> hip action",
+        "<B>Cuban</B> hip motion"
+      ],
+      "comment": [
+        "<B>Cuban</B> motion is characterized by a rhythmic swaying of the hips caused by the bending and"
+      ],
+      "label": [
+        "<B>Cuban</B> motion"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_motion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ballroom_dance_technique",
+        "http://dbpedia.org/resource/Category:Dance_moves"
+      ]
+    },
+    {
+      "score": [
+        "1415.9839"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Adjustment_Act"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Adjustment Act of 1996",
+        "<B>Cuban</B> Adjustment act of 1966",
+        "<B>Cuban</B> Refugee Adjustment Act",
+        "Special <B>Cuban</B> Migration Program"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Adjustment Act (CAA), Public Law 89-732, is a United States federal law enacted on"
+      ],
+      "label": [
+        "<B>Cuban</B> Adjustment Act"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Adjustment_Act"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:United_States_federal_immigration_and_nationality_legislation"
+      ]
+    },
+    {
+      "score": [
+        "1409.6731"
+      ],
+      "refCount": [
+        "69"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Raekwon"
+      ],
+      "redirectlabel": [
+        "Chef Raekwon",
+        "Lex Diamonds",
+        "Louis Diamonds",
+        "Only Built 4 <B>Cuban</B> Linx... Pt. III",
+        "Raekwon The Chef",
+        "Raekwon the Chef",
+        "Rick Diamonds",
+        "Shallah",
+        "Shallah Raekwon"
+      ],
+      "typeName": [
+        "MusicalArtist",
+        "Person",
+        "Artist",
+        "Agent"
+      ],
+      "comment": [
+        " rapper and a member of Wu-Tang Clan. He released his solo debut, Only Built 4 <B>Cuban</B> Linx... in 1995 and"
+      ],
+      "label": [
+        "Raekwon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Raekwon"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicalArtist",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Artist",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970_births",
+        "http://dbpedia.org/resource/Category:21st-century_American_rappers",
+        "http://dbpedia.org/resource/Category:African-American_Muslims",
+        "http://dbpedia.org/resource/Category:African-American_male_rappers",
+        "http://dbpedia.org/resource/Category:Aftermath_Entertainment_artists",
+        "http://dbpedia.org/resource/Category:American_shooting_survivors",
+        "http://dbpedia.org/resource/Category:Converts_to_Islam",
+        "http://dbpedia.org/resource/Category:Hardcore_hip_hop_artists",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:New_Dorp_High_School_alumni",
+        "http://dbpedia.org/resource/Category:People_from_Staten_Island",
+        "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)",
+        "http://dbpedia.org/resource/Category:Rappers_from_Brooklyn",
+        "http://dbpedia.org/resource/Category:Rappers_from_New_York_City",
+        "http://dbpedia.org/resource/Category:Wu-Tang_Clan_members"
+      ]
+    },
+    {
+      "score": [
+        "1409.0277"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "label": [
+        "<B>Cuban</B>–American Treaty of Relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban–American_Treaty_of_Relations"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban–American_Treaty_of_Relations"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B>-American Treaty",
+        "<B>Cuban</B>-American Treaty of Relations",
+        "<B>Cuban</B>-American treaty",
+        "<B>Cuban</B>–American Treaty",
+        "Treaty of Relations"
+      ]
+    },
+    {
+      "score": [
+        "1405.1174"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_anole"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Anole",
+        "<B>Cuban</B> Anole (disambiguation)",
+        "<B>Cuban</B> anole (disambiguation)"
+      ],
+      "label": [
+        "<B>Cuban</B> anole"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_anole"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Animal_common_name_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1403.2183"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chinese_Cubans"
+      ],
+      "redirectlabel": [
+        "Asian <B>Cubans</B>",
+        "Chinese-<B>Cuban</B>",
+        "Chinese <B>Cuban</B>",
+        "Chinese in <B>Cuba</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Chinese <B>Cubans</B> (Spanish: sino-<B>cubano</B>) are <B>Cubans</B> of full or mixed Chinese ancestry who were born in"
+      ],
+      "label": [
+        "Chinese <B>Cubans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chinese_Cubans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Cuban",
+        "http://dbpedia.org/resource/Category:Chinese_Caribbean",
+        "http://dbpedia.org/resource/Category:Chinese_Latin_American",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Cuban_people_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Cuba",
+        "http://dbpedia.org/resource/Category:Society_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1401.2058"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Army_of_Cuban_Occupation_Medal"
+      ],
+      "redirectlabel": [
+        "Army of <B>cuban</B> occupation medal"
+      ],
+      "comment": [
+        "The Army of <B>Cuban</B> Occupation Medal was a military award created by the United States War Department"
+      ],
+      "label": [
+        "Army of <B>Cuban</B> Occupation Medal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Army_of_Cuban_Occupation_Medal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:United_States_service_medals"
+      ]
+    },
+    {
+      "score": [
+        "1396.3893"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_blackbird"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Blackbird",
+        "Dives atroviolacea",
+        "Dives atroviolaceus",
+        "Ptiloxena",
+        "Ptiloxena atroviolacea"
+      ],
+      "comment": [
+        "The <B>Cuban</B> blackbird (Dives atroviolaceus) is a species of bird in the family Icteridae. Measuring"
+      ],
+      "label": [
+        "<B>Cuban</B> blackbird"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_blackbird"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1839",
+        "http://dbpedia.org/resource/Category:Dives_(bird)",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1389.5072"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_pauraque"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Pauraque",
+        "<B>Cuban</B> Poorwill",
+        "Siphonorhis daiquiri"
+      ],
+      "comment": [
+        "The <B>Cuban</B> pauraque (Siphonorhis daiquiri), also known as the <B>Cuban</B> poorwill, is an extinct species"
+      ],
+      "label": [
+        "<B>Cuban</B> pauraque"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_pauraque"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1985",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Extinct_birds_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Holocene_extinctions",
+        "http://dbpedia.org/resource/Category:Late_Quaternary_prehistoric_birds",
+        "http://dbpedia.org/resource/Category:Siphonorhis"
+      ]
+    },
+    {
+      "score": [
+        "1388.045"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "Academia de Ciencias Médicas, Físicas y Naturales de La Habana",
+        "Academia de Ciencias de <B>Cuba</B>",
+        "Academy of Sciences in Havana",
+        "Academy of Sciences of <B>Cuba</B>",
+        "<B>Cuban</B> Academy of Science",
+        "Instituto Nacional de Etnología y Folklore",
+        "Real Academia de Ciencias Médicas, Físicas y Naturales de La Habana",
+        "Real Academia de Ciencias Médicas, Físicas y Naturales de la Habana",
+        "The Academy of Sciences of <B>Cuba</B>",
+        "The <B>Cuban</B> Academy of Sciences"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Academy of Sciences (Academia de Ciencias de <B>Cuba</B>) is <B>Cuba's</B> Academy of Sciences, with"
+      ],
+      "label": [
+        "<B>Cuban</B> Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Academy_of_Sciences"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Education_in_Cuba",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:Organizations_based_in_Havana",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1382.3036"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_sugar_economy"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> sugar",
+        "Sugar industry of <B>Cuba</B>",
+        "Sugar production in <B>Cuba</B>"
+      ],
+      "comment": [
+        "The <B>Cuban</B> sugar economy is the principal agricultural economy in <B>Cuba</B>. Historically, the <B>Cuban</B>"
+      ],
+      "label": [
+        "<B>Cuban</B> sugar economy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_sugar_economy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agriculture_in_Cuba",
+        "http://dbpedia.org/resource/Category:Economy_of_Cuba",
+        "http://dbpedia.org/resource/Category:History_of_sugar",
+        "http://dbpedia.org/resource/Category:Sugar_industry_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1378.079"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Cuban_painters"
+      ],
+      "redirectlabel": [
+        "Contemporary <B>Cuban</B> Painters",
+        "<B>Cuban</B> abstract painters",
+        "List of <B>Cuban</B> abstract painters",
+        "List of contemporary <B>Cuban</B> painters"
+      ],
+      "comment": [
+        "The following is a list of <B>Cuban</B> painters.(This is a dynamic list and may never be able to satisfy"
+      ],
+      "label": [
+        "List of <B>Cuban</B> painters"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Cuban_painters"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_painters",
+        "http://dbpedia.org/resource/Category:Lists_of_Cuban_people_by_occupation",
+        "http://dbpedia.org/resource/Category:Lists_of_painters_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1377.6237"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Healthcare_in_Cuba"
+      ],
+      "redirectlabel": [
+        "<B>Cuba's</B> Healthcare",
+        "<B>Cuban</B> health-care system",
+        "<B>Cuban</B> health",
+        "<B>Cuban</B> healthcare",
+        "<B>Cuban</B> model of healthcare",
+        "Health care in <B>Cuba</B>",
+        "Health care of <B>Cuba</B>",
+        "Healthcare in <B>cuba</B>",
+        "Healthcare of <B>Cuba</B>",
+        "Healthcare of <B>cuba</B>",
+        "Heathcare of <B>Cuba</B>",
+        "Heathcare of <B>cuba</B>",
+        "History of healthcare in <B>Cuba</B>",
+        "National Health in <B>Cuba</B>",
+        "Operation Milagro",
+        "Public health in <B>Cuba</B>"
+      ],
+      "comment": [
+        "The <B>Cuban</B> government operates a national health system and assumes fiscal and administrative"
+      ],
+      "label": [
+        "Healthcare in <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Healthcare_in_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Healthcare_in_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1369.6449"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_kite"
+      ],
+      "redirectlabel": [
+        "Chondrohierax uncinatus wilsonii",
+        "Chondrohierax wilsoni",
+        "Chondrohierax wilsonii",
+        "<B>Cuba</B> hook-billed kite",
+        "<B>Cuban</B> Kite"
+      ],
+      "comment": [
+        "The <B>Cuban</B> kite (Chondrohierax wilsonii) is a bird of prey in the family Accipitridae which also"
+      ],
+      "label": [
+        "<B>Cuban</B> kite"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_kite"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1847",
+        "http://dbpedia.org/resource/Category:Chondrohierax",
+        "http://dbpedia.org/resource/Category:Critically_endangered_fauna_of_North_America",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1361.2407"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–12_Cuban_National_Series"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Cuban</B> National Series",
+        "2011-12 <B>Cuban</B> National Series season",
+        "2011-2012 <B>Cuban</B> National Series season",
+        "2011–12 <B>Cuban</B> National Series season",
+        "2011–2012 <B>Cuban</B> National Series season"
+      ],
+      "comment": [
+        "The 2011–12 <B>Cuban</B> National Series was the 51st edition of the tournament. Due to the division of"
+      ],
+      "label": [
+        "2011–12 <B>Cuban</B> National Series"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–12_Cuban_National_Series"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_in_Cuban_sport",
+        "http://dbpedia.org/resource/Category:2012_in_Cuban_sport",
+        "http://dbpedia.org/resource/Category:2012_in_baseball",
+        "http://dbpedia.org/resource/Category:Cuban_National_Series_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1348.5868"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/United_States_embargo_against_Cuba"
+      ],
+      "redirectlabel": [
+        "American blockade on <B>Cuba</B>",
+        "Blockade <B>Cuba</B>",
+        "<B>Cuba</B> blockade",
+        "<B>Cuba</B> embargo",
+        "<B>Cuban</B> blockade",
+        "<B>Cuban</B> blokade",
+        "<B>Cuban</B> embargo",
+        "<B>Cuban</B> trade embargo",
+        "Economic effects of the United States embargo against <B>Cuba</B>",
+        "Economic impact of the United States embargo against <B>Cuba</B>",
+        "Economic impacts of the U.S. embargo against <B>Cuba</B>",
+        "El bloqueo",
+        "Embargo against <B>Cuba</B>",
+        "Embargo <B>cuba</B>",
+        "Embargo on <B>Cuba</B>",
+        "Sanctions against <B>Cuba</B>",
+        "Trade embargo <B>cuba</B>",
+        "U.S. embargo against <B>Cuba</B>",
+        "U.S. embargo on <B>Cuba</B>",
+        "USA embargo against <B>Cuba</B>",
+        "US blockade against <B>Cuba</B>",
+        "US embargo against <B>Cuba</B>",
+        "US embargo on <B>Cuba</B>",
+        "US embargo on trade with <B>Cuba</B>",
+        "United States sanctions against <B>Cuba</B>",
+        "United States trade embargo against <B>Cuba</B>"
+      ],
+      "comment": [
+        " food and medicine after <B>Cuba</B> nationalized American-owned <B>Cuban</B> oil refineries without compensation"
+      ],
+      "label": [
+        "United States embargo against <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/United_States_embargo_against_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1958_establishments_in_Cuba",
+        "http://dbpedia.org/resource/Category:1958_establishments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1958_in_international_relations",
+        "http://dbpedia.org/resource/Category:20th_century_in_Cuba",
+        "http://dbpedia.org/resource/Category:21st_century_in_Cuba",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_Cuban_Revolution",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Boycotts_of_Cuba",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Cuba",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Cuba_and_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations",
+        "http://dbpedia.org/resource/Category:Economy_of_Cuba",
+        "http://dbpedia.org/resource/Category:Embargoes",
+        "http://dbpedia.org/resource/Category:History_of_the_foreign_relations_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Opposition_to_Fidel_Castro",
+        "http://dbpedia.org/resource/Category:Tourism_in_Cuba",
+        "http://dbpedia.org/resource/Category:United_States_sanctions"
+      ]
+    },
+    {
+      "score": [
+        "1341.8167"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Revolution_of_1933"
+      ],
+      "redirectlabel": [
+        "1933 <B>Cuban</B> Revolution",
+        "<B>Cuban</B> coup d'etat of 1933",
+        "Revolt of the Sergeants",
+        "Sargeants' Revolt",
+        "Sergeants' Revolt",
+        "Sergeants' revolt"
+      ],
+      "label": [
+        "<B>Cuban</B> Revolution of 1933"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Revolution_of_1933"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1933_in_Cuba",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1933",
+        "http://dbpedia.org/resource/Category:Political_history_of_Cuba",
+        "http://dbpedia.org/resource/Category:Republic_of_Cuba_(1902–1959)",
+        "http://dbpedia.org/resource/Category:September_1933_events"
+      ]
+    },
+    {
+      "score": [
+        "1339.4166"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuba–Vietnam_relations"
+      ],
+      "redirectlabel": [
+        "<B>Cuba</B>-Vietnam relations",
+        "<B>Cuba</B> - Vietnam relations",
+        "<B>Cuba</B> Vietnam relations",
+        "<B>Cuba</B> – Vietnam relations",
+        "<B>Cuban</B>-Vietnamese relations",
+        "<B>Cuban</B>–Vietnamese relations",
+        "Vietnam-<B>Cuba</B> relations",
+        "Vietnam - <B>Cuba</B> relations",
+        "Vietnam <B>Cuba</B> relations",
+        "Vietnam – <B>Cuba</B> relations",
+        "Vietnamese-<B>Cuban</B> relations",
+        "Vietnamese–<B>Cuban</B> relations",
+        "Vietnam–<B>Cuba</B> relations"
+      ],
+      "comment": [
+        "<B>Cuban</B>–Vietnamese relations are the interstate relations between the Republic of <B>Cuba</B> and the"
+      ],
+      "label": [
+        "<B>Cuba</B>–Vietnam relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuba–Vietnam_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Cuba",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Vietnam",
+        "http://dbpedia.org/resource/Category:Cuba–Vietnam_relations"
+      ]
+    },
+    {
+      "score": [
+        "1325.2256"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Cuba</B>",
+        "<B>Cuban</B> Art"
+      ],
+      "comment": [
+        "<B>Cuban</B> art is an exceptionally diverse cultural blend of African, South American, European and North"
+      ],
+      "label": [
+        "<B>Cuban</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_art"
+      ]
+    },
+    {
+      "score": [
+        "1324.41"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provinces_of_Cuba"
+      ],
+      "redirectlabel": [
+        "Provinces of <B>cuba</B>",
+        "Ranked list of <B>Cuba</B> provinces",
+        "Ranked list of <B>Cuban</B> provinces"
+      ],
+      "comment": [
+        " in any province. The last modification was approved in August 2010 (by the <B>Cuban</B> National Assembly"
+      ],
+      "label": [
+        "Provinces of <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provinces_of_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_North_America",
+        "http://dbpedia.org/resource/Category:Cuba_geography-related_lists",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_administrative_divisions",
+        "http://dbpedia.org/resource/Category:Provinces_of_Cuba",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Cuba"
+      ]
+    },
+    {
+      "score": [
+        "1319.5304"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Cuba"
+      ],
+      "redirectlabel": [
+        "Comunidad Hebrea de <B>Cuba</B>",
+        "<B>Cuban</B> Jewish",
+        "<B>Cuban</B> Jews",
+        "History of the jews in <B>cuba</B>",
+        "Jewban",
+        "Jewish <B>Cuban</B>",
+        "Jews in <B>Cuba</B>",
+        "Juban (<B>Cuban</B>)",
+        "Judaism in <B>Cuba</B>"
+      ],
+      "comment": [
+        "Jewish <B>Cubans</B>, <B>Cuban</B> Jews, or <B>Cubans</B> of Jewish heritage, have lived in the nation of <B>Cuba</B> for"
+      ],
+      "label": [
+        "History of the Jews in <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jewish_Cuban_history"
+      ]
+    },
+    {
+      "score": [
+        "1317.365"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_Boys"
+      ],
+      "redirectlabel": [
+        "The <B>Cuban</B> Boys"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "The <B>Cuban</B> Boys are an English electronic group and production team, currently composed of Skreen B"
+      ],
+      "label": [
+        "<B>Cuban</B> Boys"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_Boys"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_record_production_teams",
+        "http://dbpedia.org/resource/Category:Electronic_dance_music_duos",
+        "http://dbpedia.org/resource/Category:English_electronic_music_duos",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1998",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_Devon",
+        "http://dbpedia.org/resource/Category:Record_production_duos"
+      ]
+    },
+    {
+      "score": [
+        "1308.9604"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_evening_bat"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Evening Bat",
+        "<B>Cuban</B> Night Bat",
+        "Nycticeius <B>cubanus</B>"
+      ],
+      "comment": [
+        "The <B>Cuban</B> evening bat (Nycticeius <B>cubanus</B>) is a species of bat in the vesper bat family"
+      ],
+      "label": [
+        "<B>Cuban</B> evening bat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_evening_bat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bats_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Cuba",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1861",
+        "http://dbpedia.org/resource/Category:Mammals_of_Cuba",
+        "http://dbpedia.org/resource/Category:Near_threatened_animals",
+        "http://dbpedia.org/resource/Category:Nycticeius",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Juan_Gundlach"
+      ]
+    },
+    {
+      "score": [
+        "1306.6726"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_underwater_formation"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> lost city",
+        "<B>Cuban</B> sunken city",
+        "<B>Cuban</B> underwater city"
+      ],
+      "label": [
+        "<B>Cuban</B> underwater formation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_underwater_formation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Earth_mysteries",
+        "http://dbpedia.org/resource/Category:Geography_of_Pinar_del_Río_Province",
+        "http://dbpedia.org/resource/Category:Landforms_of_Cuba",
+        "http://dbpedia.org/resource/Category:Pseudoarchaeology"
+      ]
+    },
+    {
+      "score": [
+        "1303.5095"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_emerald"
+      ],
+      "redirectlabel": [
+        "Chlorostilbon ricordii",
+        "<B>Cuban</B> Emerald",
+        "Riccordia ricordii",
+        "Sporadinus ricordii"
+      ],
+      "comment": [
+        "The <B>Cuban</B> emerald (Chlorostilbon ricordii) is a species of hummingbird in the family Trochilidae"
+      ],
+      "label": [
+        "<B>Cuban</B> emerald"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_emerald"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1835",
+        "http://dbpedia.org/resource/Category:Birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Bahamas",
+        "http://dbpedia.org/resource/Category:Riccordia",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1285.9548"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Barbara_Cubin"
+      ],
+      "redirectlabel": [
+        "Barbara <B>Cuban</B>",
+        "Barbara L. <B>Cubin</B>",
+        "Barbara Lynn <B>Cuban</B>",
+        "Barbara Lynn <B>Cubin</B>",
+        "<B>Cubin</B>",
+        "Representative <B>Cubin</B>"
+      ],
+      "typeName": [
+        "Politician",
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Barbara Lynn <B>Cubin</B> (born November 30, 1946) is a former Republican member of the United States"
+      ],
+      "label": [
+        "Barbara <B>Cubin</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Barbara_Cubin"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Politician",
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_births",
+        "http://dbpedia.org/resource/Category:20th-century_American_politicians",
+        "http://dbpedia.org/resource/Category:20th-century_American_women_politicians",
+        "http://dbpedia.org/resource/Category:21st-century_American_politicians",
+        "http://dbpedia.org/resource/Category:21st-century_American_women_politicians",
+        "http://dbpedia.org/resource/Category:American_Episcopalians",
+        "http://dbpedia.org/resource/Category:Creighton_University_alumni",
+        "http://dbpedia.org/resource/Category:Female_members_of_the_United_States_House_of_Representatives",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Members_of_the_Wyoming_House_of_Representatives",
+        "http://dbpedia.org/resource/Category:People_from_Salinas,_California",
+        "http://dbpedia.org/resource/Category:Politicians_from_Casper,_Wyoming",
+        "http://dbpedia.org/resource/Category:Republican_Party_members_of_the_United_States_House_of_Representatives_from_Wyoming",
+        "http://dbpedia.org/resource/Category:Women_state_legislators_in_Wyoming",
+        "http://dbpedia.org/resource/Category:Wyoming_state_senators"
+      ]
+    },
+    {
+      "score": [
+        "1281.7319"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_warbler"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> warblers",
+        "Teretistridae",
+        "Teretistris"
+      ],
+      "comment": [
+        "The <B>Cuban</B> warblers are a genus, Teretistris, and family, Teretistridae, of birds endemic to <B>Cuba</B>"
+      ],
+      "label": [
+        "<B>Cuban</B> warbler"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_warbler"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot",
+        "http://dbpedia.org/resource/Category:Teretistris"
+      ]
+    },
+    {
+      "score": [
+        "1271.2594"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_pastry"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> pastries",
+        "Pastelito",
+        "Pastelitos"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "<B>Cuban</B> pastries (known in Spanish as pasteles or pastelitos) are baked puff pastry-type pastries"
+      ],
+      "label": [
+        "<B>Cuban</B> pastry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_pastry"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_cuisine",
+        "http://dbpedia.org/resource/Category:Pastries"
+      ]
+    },
+    {
+      "score": [
+        "1269.8522"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Cubans"
+      ],
+      "redirectlabel": [
+        "List of <B>Cuban</B> Athletes",
+        "List of <B>Cuban</B> actors",
+        "List of <B>Cuban</B> athletes",
+        "List of <B>Cuban</B> journalists",
+        "List of <B>Cuban</B> musicians",
+        "List of Well Known/Famous <B>Cubans</B>",
+        "List of <B>cubans</B>",
+        "List of famous <B>Cubans</B>",
+        "Lists of <B>Cubans</B>"
+      ],
+      "comment": [
+        "This is a list of notable and well-known <B>Cubans</B>, ordered alphabetically by first name within each category."
+      ],
+      "label": [
+        "List of <B>Cubans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Cubans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Cuban_people"
+      ]
+    },
+    {
+      "score": [
+        "1251.1478"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_literature"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Literature",
+        "Literature in <B>Cuba</B>",
+        "Literature of <B>Cuba</B>"
+      ],
+      "comment": [
+        "<B>Cuban</B> literature is the literature written in <B>Cuba</B> or outside the island by <B>Cubans</B> in Spanish"
+      ],
+      "label": [
+        "<B>Cuban</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_literature",
+        "http://dbpedia.org/resource/Category:Latin_American_literature_by_country",
+        "http://dbpedia.org/resource/Category:North_American_literature"
+      ]
+    },
+    {
+      "score": [
+        "1250.3469"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_pewee"
+      ],
+      "redirectlabel": [
+        "Contopus caribaeus",
+        "Crescent-eyed Pewee",
+        "Crescent-eyed pewee",
+        "<B>Cuban</B> Pewee"
+      ],
+      "comment": [
+        "The <B>Cuban</B> pewee or crescent-eyed pewee (Contopus caribaeus) is a species of bird in the family"
+      ],
+      "label": [
+        "<B>Cuban</B> pewee"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_pewee"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1839",
+        "http://dbpedia.org/resource/Category:Birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Bahamas",
+        "http://dbpedia.org/resource/Category:Contopus",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1248.9924"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_trogon"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Trogon",
+        "Priotelus temnurus",
+        "Tocororo"
+      ],
+      "comment": [
+        "The <B>Cuban</B> trogon or tocororo (Priotelus temnurus) is a species of bird in the family Trogonidae. It"
+      ],
+      "label": [
+        "<B>Cuban</B> trogon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_trogon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1825",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Cuba",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Cuba",
+        "http://dbpedia.org/resource/Category:Priotelus",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1239.5839"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_House_of_David"
+      ],
+      "redirectlabel": [
+        "Florida <B>Cuban</B> Giants",
+        "Havana Red Sox",
+        "House of David (baseball)",
+        "Pollock's <B>Cuban</B> Stars"
+      ],
+      "comment": [
+        "The <B>Cuban</B> House of David were a Negro league baseball team in 1931 and 1932. They were a traveling"
+      ],
+      "label": [
+        "<B>Cuban</B> House of David"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_House_of_David"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Baseball_teams_disestablished_in_1936",
+        "http://dbpedia.org/resource/Category:Baseball_teams_established_in_1928",
+        "http://dbpedia.org/resource/Category:Negro_league_baseball_teams"
+      ]
+    },
+    {
+      "score": [
+        "1230.6068"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_boa"
+      ],
+      "redirectlabel": [
+        "Chilabothrus angulifer",
+        "<B>Cuban</B> tree boa",
+        "Epicrates angulifer",
+        "Maja (boa constrictor)"
+      ],
+      "label": [
+        "<B>Cuban</B> boa"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_boa"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Apex_predators",
+        "http://dbpedia.org/resource/Category:Chilabothrus",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Cuba",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1840",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Cuba",
+        "http://dbpedia.org/resource/Category:Snakes_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Gabriel_Bibron",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Jean_Theodore_Cocteau",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1224.3193"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_cigar"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> Cigars",
+        "<B>Cuban</B> cigars"
+      ],
+      "label": [
+        "<B>Cuban</B> cigar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_cigar"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cigars",
+        "http://dbpedia.org/resource/Category:Economy_of_Cuba",
+        "http://dbpedia.org/resource/Category:Tobacco_plantations"
+      ]
+    },
+    {
+      "score": [
+        "1224.3193"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cuban_exodus"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> diaspora",
+        "<B>Cuban</B> exiles"
+      ],
+      "label": [
+        "<B>Cuban</B> exodus"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cuban_exodus"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cuban_defectors",
+        "http://dbpedia.org/resource/Category:Cuban_diaspora",
+        "http://dbpedia.org/resource/Category:Cuban_expatriates",
+        "http://dbpedia.org/resource/Category:Cuban_refugees",
+        "http://dbpedia.org/resource/Category:Cuba–United_States_relations"
+      ]
+    },
+    {
+      "score": [
+        "1221.7987"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Law_enforcement_in_Cuba"
+      ],
+      "redirectlabel": [
+        "<B>Cuban</B> National Police",
+        "<B>Cuban</B> Police",
+        "<B>Cuban</B> penal system",
+        "<B>Cuban</B> police",
+        "National Revolutionary Police",
+        "National Revolutionary Police (<B>Cuba</B>)",
+        "National Revolutionary Police Force",
+        "Policia Nacional Revolucionaria",
+        "Policía Nacional Revolucionaria",
+        "Prisons in <B>Cuba</B>"
+      ],
+      "comment": [
+        ": Policía Nacional Revolucionaria, PNR) under the administration of the <B>Cuban</B> Ministry of the Interior"
+      ],
+      "label": [
+        "Law enforcement in <B>Cuba</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Law_enforcement_in_Cuba"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Cuba",
+        "http://dbpedia.org/resource/Category:Law_of_Cuba",
+        "http://dbpedia.org/resource/Category:Protests_in_Cuba"
+      ]
+    }
+  ]
+}

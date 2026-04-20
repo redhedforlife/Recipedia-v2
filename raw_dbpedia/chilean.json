@@ -1,0 +1,4132 @@
+{
+  "docs": [
+    {
+      "score": [
+        "12832.905"
+      ],
+      "refCount": [
+        "4851"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chile"
+      ],
+      "redirectlabel": [
+        "Biodiversity of <B>Chile</B>",
+        "<B>Chilean</B> Republic",
+        "<B>Chilean</B> folklore",
+        "Chilé",
+        "Cultural heritage of <B>Chile</B>",
+        "Etymology of <B>Chile</B>",
+        "Flora and fauna of <B>Chile</B>",
+        "ISO 3166-1:CL",
+        "Name of <B>Chile</B>",
+        "National symbols of <B>Chile</B>",
+        "Public infrastructure in <B>Chile</B>",
+        "Republic of <B>Chile</B>",
+        "República de <B>Chile</B>",
+        "State of <B>Chile</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " Drake Passage in the far south. <B>Chilean</B> territory includes the Pacific islands of Juan Fernández"
+      ],
+      "label": [
+        "<B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chile"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1818_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:1818_establishments_in_South_America",
+        "http://dbpedia.org/resource/Category:Chile",
+        "http://dbpedia.org/resource/Category:Countries_in_South_America",
+        "http://dbpedia.org/resource/Category:Former_Spanish_colonies",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Southern_Cone_countries",
+        "http://dbpedia.org/resource/Category:Spanish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1818",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "5644.159"
+      ],
+      "refCount": [
+        "1197"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chile_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Chile</B> FC",
+        "<B>Chile</B> football team",
+        "<B>Chile</B> men's national football team",
+        "<B>Chile</B> national association football team",
+        "<B>Chile</B> national soccer team",
+        "<B>Chilean</B> national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Chile</B> national football team (Spanish: Selección de fútbol de <B>Chile</B>) represents <B>Chile</B> in men's"
+      ],
+      "label": [
+        "<B>Chile</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chile_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chile_national_football_team",
+        "http://dbpedia.org/resource/Category:Football_in_Chile",
+        "http://dbpedia.org/resource/Category:South_American_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "4806.491"
+      ],
+      "refCount": [
+        "2800"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Andes"
+      ],
+      "redirectlabel": [
+        "Andean",
+        "Andean Mountain System",
+        "Andean Mountains",
+        "Andean highland",
+        "Andean mountains",
+        "Andes Mountain",
+        "Andes Mountains",
+        "Andes Range",
+        "Andes mountain range",
+        "Andes mountains",
+        "Andes of Peru",
+        "Andes range",
+        "<B>Chilean</B> Andes",
+        "Cordillera de los Andes",
+        "Geology of the Andes",
+        "High Andes",
+        "Mining in the Andes",
+        "Northern Andes",
+        "South American Andes",
+        "South american andes",
+        "The Andes",
+        "The Andes Mountain",
+        "The Andes Mountains",
+        "The andes"
+      ],
+      "typeName": [
+        "Place",
+        "Mountain",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        " Andes extend from north to south through seven South American countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, <B>Chile</B> and Argentina."
+      ],
+      "label": [
+        "Andes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Andes"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Mountain",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Andes",
+        "http://dbpedia.org/resource/Category:Ecology_of_the_Andes",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_South_America",
+        "http://dbpedia.org/resource/Category:Physiographic_divisions",
+        "http://dbpedia.org/resource/Category:Regions_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "4545.375"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Spanish"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Castilian",
+        "<B>Chilean</B> Castilian ('Spanish') language",
+        "<B>Chilean</B> Castilian language",
+        "<B>Chilean</B> Spanish language",
+        "Coa (argot)",
+        "Es-CL",
+        "Español <B>chileno</B>",
+        "Spanish spoken in <B>Chile</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Chilean</B> Spanish (Spanish: español <B>chileno</B>, español de <B>Chile</B> or castellano de <B>Chile</B>) is any of"
+      ],
+      "label": [
+        "<B>Chilean</B> Spanish"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Spanish"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Languages_of_Chile",
+        "http://dbpedia.org/resource/Category:Spanish_dialects_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "4511.8057"
+      ],
+      "refCount": [
+        "64"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "Battle of <B>Chile</B>",
+        "<B>Chile's</B> war of independence",
+        "<B>Chilean</B> Independence",
+        "<B>Chilean</B> Independence War",
+        "<B>Chilean</B> independence",
+        "<B>Chilean</B> war of independence",
+        "Economic impact of the <B>Chilean</B> War of Independence",
+        "Guerra de la Independencia de <B>Chile</B>",
+        "Independence of <B>Chile</B>",
+        "Independency of <B>Chile</B>",
+        "The Road to Maipo",
+        "The Road to Maipu",
+        "The Road to Maipú",
+        "Timeline of the <B>Chilean</B> War of Independence",
+        "War of <B>Chilean</B> Independence",
+        "War of Independence of <B>Chile</B>",
+        "War of the <B>Chilean</B> Revolution",
+        "Wars of the <B>Chilean</B> Revolution"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> War of Independence was a war between pro-independence <B>Chilean</B>  seeking political and"
+      ],
+      "label": [
+        "<B>Chilean</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1810_in_the_Captaincy_General_of_Chile",
+        "http://dbpedia.org/resource/Category:1810_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1810s_in_the_Captaincy_General_of_Chile",
+        "http://dbpedia.org/resource/Category:1810s_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1820s_in_Chile",
+        "http://dbpedia.org/resource/Category:1820s_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1821_in_Chile",
+        "http://dbpedia.org/resource/Category:1821_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:1826_in_Chile",
+        "http://dbpedia.org/resource/Category:1826_in_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:Chilean_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Spanish_American_wars_of_independence",
+        "http://dbpedia.org/resource/Category:Wars_involving_Chile",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain"
+      ]
+    },
+    {
+      "score": [
+        "4424.6997"
+      ],
+      "refCount": [
+        "356"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Communes_of_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> commune",
+        "<B>Chilean</B> communes",
+        "<B>Chilean</B> municipalities",
+        "Commune of <B>Chile</B>",
+        "Communes of <B>chile</B>",
+        "Comuna",
+        "List of communes in <B>Chile</B>",
+        "List of communes of <B>Chile</B>",
+        "List of comunas in <B>Chile</B>",
+        "List of municipalities of <B>Chile</B>",
+        "Municipalities in <B>Chile</B>",
+        "Municipalities of <B>Chile</B>"
+      ],
+      "comment": [
+        "A commune (Spanish: comuna, IPA: [koˈmuna]) is the smallest administrative subdivision in <B>Chile</B>. It"
+      ],
+      "label": [
+        "Communes of <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Communes_of_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Communes_of_Chile",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Chile",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Chile",
+        "http://dbpedia.org/resource/Category:Third-level_administrative_divisions_by_country"
+      ]
+    },
+    {
+      "score": [
+        "3618.314"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Navy"
+      ],
+      "redirectlabel": [
+        "Armada de <B>Chile</B>",
+        "Armada de <B>chile</B>",
+        "<B>Chile</B> Navy",
+        "<B>Chilean</B> navy",
+        "<B>Chiles</B> Navy",
+        "History of the <B>Chilean</B> Navy",
+        "Naval ranks and insignia of <B>Chile</B>",
+        "Navy of <B>Chile</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Navy (Spanish: Armada de <B>Chile</B>) is the naval force of <B>Chile</B>."
+      ],
+      "label": [
+        "<B>Chilean</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1817_establishments_in_the_Captaincy_General_of_Chile",
+        "http://dbpedia.org/resource/Category:Chilean_Navy"
+      ]
+    },
+    {
+      "score": [
+        "3445.6553"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mega_(Chilean_TV_channel)"
+      ],
+      "redirectlabel": [
+        "MEGA (<B>Chilean</B> TV channel)",
+        "MEGA (<B>Chilean</B> television)",
+        "Mega (<B>Chile</B>)",
+        "Mega (<B>Chilean</B> television channel)",
+        "Mega (canal de televisión)",
+        "Megavisión",
+        "Red Televisiva Megavision",
+        "Red Televisiva Megavisión"
+      ],
+      "typeName": [
+        "Organisation",
+        "TelevisionStation",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "Red Televisiva Megavisión (MEGA) is a <B>Chilean</B> private television network headquartered in Santiago"
+      ],
+      "label": [
+        "Mega (<B>Chilean</B> TV channel)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mega_(Chilean_TV_channel)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TelevisionStation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Santiago",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Santiago",
+        "http://dbpedia.org/resource/Category:Mega_(Chilean_TV_channel)",
+        "http://dbpedia.org/resource/Category:Spanish-language_television_stations",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1990",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Chile",
+        "http://dbpedia.org/resource/Category:Television_stations_in_Chile",
+        "http://dbpedia.org/resource/Category:Warner_Bros._Discovery_Americas"
+      ]
+    },
+    {
+      "score": [
+        "3148.947"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Army"
+      ],
+      "redirectlabel": [
+        "Army of <B>Chile</B>",
+        "<B>Chilean</B> army",
+        "Ejército de <B>Chile</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Army (Spanish: Ejército de <B>Chile</B>) is the land arm of the Military of <B>Chile</B>. This 50,000"
+      ],
+      "label": [
+        "<B>Chilean</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_Army"
+      ]
+    },
+    {
+      "score": [
+        "3042.5095"
+      ],
+      "refCount": [
+        "201"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_cities_in_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> cities",
+        "Cities in <B>Chile</B>",
+        "Cities of <B>Chile</B>",
+        "List of <B>Chilean</B> cities",
+        "List of cities, towns and villages in <B>Chile</B>",
+        "List of cities of <B>Chile</B>",
+        "List of city in <B>Chile</B>"
+      ],
+      "comment": [
+        "This is a list of cities in <B>Chile</B>. A city is defined by <B>Chile's</B> National Statistics Institute (INE"
+      ],
+      "label": [
+        "List of cities in <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_cities_in_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chile_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_population",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_in_the_Americas",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2953.3408"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1973_Chilean_coup_d'état"
+      ],
+      "redirectlabel": [
+        "11 de Septiembre",
+        "1973 <B>Chile</B> coup",
+        "1973 <B>Chilean</B> coup",
+        "1973 <B>Chilean</B> coup d'etat",
+        "1973 <B>Chilean</B> coup d'ètat",
+        "1973 coup in <B>Chile</B>",
+        "Augusto Pinochet's coup",
+        "<B>Chile</B> coup",
+        "<B>Chile</B> coup of 1973",
+        "<B>Chilean</B> 1973 coup",
+        "<B>Chilean</B> Coup of 1973",
+        "<B>Chilean</B> coup, 1973",
+        "<B>Chilean</B> coup of 1973",
+        "Commemoration of the 1973 <B>Chilean</B> coup d'état",
+        "Declaration of the Breakdown of <B>Chile's</B> Democracy",
+        "Declaration of the Breakdown of <B>Chile’s</B> Democracy",
+        "El 11 de Septiembre",
+        "El Once",
+        "El once",
+        "Military Coup in <B>Chile</B>",
+        "Military coup of September 11, 1973",
+        "Pinochet coup",
+        "September 11, 1973 coup",
+        "September 1973 coup"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1973 <B>Chilean</B> coup d'état was the overthrow of the socialist President of <B>Chile</B> Salvador Allende"
+      ],
+      "label": [
+        "1973 <B>Chilean</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1973_Chilean_coup_d'état"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1970s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1970s_in_Santiago,_Chile",
+        "http://dbpedia.org/resource/Category:1973_in_Chile",
+        "http://dbpedia.org/resource/Category:Central_Intelligence_Agency_operations",
+        "http://dbpedia.org/resource/Category:Chile–United_States_relations",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_in_Latin_America",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1973",
+        "http://dbpedia.org/resource/Category:Dirty_wars",
+        "http://dbpedia.org/resource/Category:False_flag_operations",
+        "http://dbpedia.org/resource/Category:Henry_Kissinger",
+        "http://dbpedia.org/resource/Category:Last_stands",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Chile",
+        "http://dbpedia.org/resource/Category:Military_dictatorship_of_Chile_(1973–1990)",
+        "http://dbpedia.org/resource/Category:Presidency_of_Salvador_Allende",
+        "http://dbpedia.org/resource/Category:September_1973_events_in_South_America",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change"
+      ]
+    },
+    {
+      "score": [
+        "2713.0786"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_peso"
+      ],
+      "redirectlabel": [
+        "$ (<B>Chile</B>)",
+        "CHIIE",
+        "CLP$",
+        "Chiie",
+        "<B>Chile</B> peso",
+        "<B>Chilean</B> Peso",
+        "<B>Chilean</B> dollar",
+        "<B>Chilean</B> escudo",
+        "<B>Chilean</B> pesos",
+        "ISO 4217:CLP",
+        "Peso <B>chileno</B>"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The peso is the currency of <B>Chile</B>. The current peso has circulated since 1975, with a previous"
+      ],
+      "label": [
+        "<B>Chilean</B> peso"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_peso"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1817_introductions",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1975",
+        "http://dbpedia.org/resource/Category:Currencies_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2616.242"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2022_Chilean_protests"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Chilean</B> protests",
+        "2019-2021 <B>Chilean</B> protests",
+        "2019-2022 <B>Chilean</B> protests",
+        "2019-20 <B>Chilean</B> Social Outbreak",
+        "2019-20 <B>Chilean</B> protests",
+        "2019 <B>Chile</B> crisis",
+        "2019 <B>Chilean</B> protests",
+        "2019 Santiago protests",
+        "2019 Santiago riot",
+        "2019–2020 <B>Chilean</B> protests",
+        "2019–2021 <B>Chilean</B> protests",
+        "2019–20 <B>Chilean</B> Social Outbreak",
+        "2019–20 <B>Chilean</B> protests",
+        "2019—20 <B>Chilean</B> protests",
+        "<B>Chilean</B> social outbreak",
+        "Estallido Social",
+        "Estallido social",
+        "October 2019 Santiago protests"
+      ],
+      "label": [
+        "2019–2022 <B>Chilean</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2022_Chilean_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Santiago,_Chile",
+        "http://dbpedia.org/resource/Category:2019_in_Chile",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2019_riots",
+        "http://dbpedia.org/resource/Category:2019–2020_Chilean_protests",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:October_2019_events_in_Chile",
+        "http://dbpedia.org/resource/Category:Protests_in_Chile",
+        "http://dbpedia.org/resource/Category:Protests_over_responses_to_the_COVID-19_pandemic",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2581.277"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Primera_División"
+      ],
+      "redirectlabel": [
+        "Campeonato Nacional",
+        "Campeonato Nacional (<B>Chile</B>)",
+        "<B>Chilean</B> Apertura Tournament",
+        "<B>Chilean</B> Primera Division",
+        "Liga <B>Chilena</B> de Futbol: Primera Division",
+        "Liga <B>Chilena</B> de Fútbol: Primera División",
+        "Primera División (<B>Chile</B>)",
+        "Primera División de <B>Chile</B>",
+        "Primera División del Fútbol Profesional <B>Chileno</B>",
+        "Primera División of <B>Chile</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Primera División (First Division) is the top tier league of the <B>Chilean</B> football league"
+      ],
+      "label": [
+        "<B>Chilean</B> Primera División"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Primera_División"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Chile",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1933",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2516.0796"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Chile</B> cuisine",
+        "<B>Chilean</B> Cuisine",
+        "<B>Chilean</B> food",
+        "<B>Chilean</B> gastronomy",
+        "Cuisine of <B>Chile</B>",
+        "Food in <B>Chile</B>",
+        "Food of <B>Chile</B>",
+        "History of <B>Chilean</B> cuisine",
+        "Ponche a la romana",
+        "Rapa Nui cuisine"
+      ],
+      "comment": [
+        "<B>Chilean</B> gastronomy stems mainly from the combination of traditional Spanish cuisine, <B>Chilean</B>"
+      ],
+      "label": [
+        "<B>Chilean</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_cuisine",
+        "http://dbpedia.org/resource/Category:Chilean_culture",
+        "http://dbpedia.org/resource/Category:Latin_American_cuisine",
+        "http://dbpedia.org/resource/Category:South_American_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2501.9258"
+      ],
+      "refCount": [
+        "105"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_towns_in_Chile"
+      ],
+      "redirectlabel": [
+        "List of <B>Chilean</B> towns",
+        "Towns in <B>Chile</B>",
+        "Towns of <B>Chile</B>"
+      ],
+      "comment": [
+        "This article contains a list of towns in <B>Chile</B>. A town is defined by <B>Chile's</B> National Statistics"
+      ],
+      "label": [
+        "List of towns in <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_towns_in_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chile_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_towns_by_country",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2446.011"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_wine"
+      ],
+      "redirectlabel": [
+        "<B>Chile</B> (wine)",
+        "<B>Chile</B> wine",
+        "<B>Chile</B> wines",
+        "<B>Chilean</B> (wine)",
+        "<B>Chilean</B> wine industry",
+        "<B>Chilean</B> wines",
+        "<B>Chileno</B> wine",
+        "Wine Regions of <B>Chile</B>",
+        "Wine from <B>Chile</B>",
+        "Wine regions of <B>Chile</B>",
+        "Wines from <B>Chile</B>",
+        "Wines of <B>Chile</B>"
+      ],
+      "comment": [
+        "<B>Chilean</B> wine has a long history for a New World wine region, as it was the 16th century when the"
+      ],
+      "label": [
+        "<B>Chilean</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_wine"
+      ]
+    },
+    {
+      "score": [
+        "2402.1997"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Magallanes_Region"
+      ],
+      "redirectlabel": [
+        "Magallanes & Antartica <B>Chilena</B> Region",
+        "Magallanes & the <B>Chilean</B> Antarctica",
+        "Magallanes Region, <B>Chile</B>",
+        "Magallanes Region of <B>Chile</B>",
+        "Magallanes Y La Antarctica <B>Chilena</B>",
+        "Magallanes and Antartica <B>Chilena</B> Region",
+        "Magallanes and Antártica <B>Chilena</B> Region",
+        "Magallanes and Antártica <B>Chilena</B> region",
+        "Magallanes and <B>Chilean</B> Antarctic Region",
+        "Magallanes and <B>Chilean</B> Antarctica",
+        "Magallanes and <B>Chilean</B> Antarctica Region",
+        "Magallanes and <B>Chilean</B> Antarctica region",
+        "Magallanes and <B>Chilean</B> Antartica Region",
+        "Magallanes and <B>Chilean</B> Antártica Region",
+        "Magallanes and <B>Chilean</B> antarctica region",
+        "Magallanes and <B>chilean</B> Antarctica region",
+        "Magallanes and <B>chilean</B> antarctica region",
+        "Magallanes and the <B>Chilean</B> Antarctic Region",
+        "Magallanes y Antartica <B>Chilena</B> Region",
+        "Magallanes y Antártica <B>Chilena</B> Region",
+        "Magallanes y de la Antartica <B>Chilena</B>",
+        "Magallanes y de la Antártica <B>Chilena</B>",
+        "Magallanes y la Antartica <B>Chilena</B>",
+        "Magallanes y la Antartica <B>Chilena</B> Region",
+        "Magallanes y la Antártica <B>Chilena</B>",
+        "Magallanes y la Antártica <B>Chilena</B> Region",
+        "Magellan's Region",
+        "Magellan and <B>Chilean</B> Antarctic Region",
+        "Magellan and <B>Chilean</B> Antarctica Region",
+        "Magellan and <B>Chilean</B> Antartica Region",
+        "Magellan and <B>Chilean</B> Antarticta Region",
+        "Region de Magallanes y de la Antartida <B>chilena</B>",
+        "Región de Magallanes y La Antártica <B>Chilena</B>",
+        "Región de Magallanes y de la Antártica <B>Chilena</B>",
+        "Región de Magallanes y de la Antártida <B>chilena</B>",
+        "XII Region of Magallanes and <B>Chilean</B> Antarctica",
+        "XII Region of Magallanes and the <B>Chilean</B> Antarctica"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "The Magallanes Region (locally [maɣaˈʝanes]), officially the Magallanes and <B>Chilean</B> Antarctica"
+      ],
+      "label": [
+        "Magallanes Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Magallanes_Region"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Magallanes_Region",
+        "http://dbpedia.org/resource/Category:Patagonia",
+        "http://dbpedia.org/resource/Category:Regions_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2388.9622"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009–10_Chilean_general_election"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Chilean</B> general election",
+        "2009-10 <B>Chilean</B> presidential election",
+        "2009-2010 <B>Chilean</B> presidential election",
+        "2009 <B>Chilean</B> parliamentary election",
+        "2009 <B>Chilean</B> presidential election",
+        "2009–10 <B>Chilean</B> presidential election",
+        "2009–2010 <B>Chilean</B> presidential election",
+        "<B>Chile</B> Presidential election, 2009",
+        "<B>Chile</B> presidential election, 2009",
+        "<B>Chilean</B> general election, 2009",
+        "<B>Chilean</B> parliamentary election, 2009",
+        "<B>Chilean</B> presidential election, 2009-10",
+        "<B>Chilean</B> presidential election, 2009-2010",
+        "<B>Chilean</B> presidential election, 2009",
+        "<B>Chilean</B> presidential election, 2009–10",
+        "<B>Chilean</B> presidential election, 2009–2010"
+      ],
+      "label": [
+        "2009–10 <B>Chilean</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009–10_Chilean_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:2009_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:2009_in_Chile",
+        "http://dbpedia.org/resource/Category:2010_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:2010_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:2010_in_Chile",
+        "http://dbpedia.org/resource/Category:December_2009_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Elections_in_Chile",
+        "http://dbpedia.org/resource/Category:January_2010_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2382.8535"
+      ],
+      "refCount": [
+        "434"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Time_in_Chile"
+      ],
+      "redirectlabel": [
+        "America/Punta Arenas",
+        "America/Santiago",
+        "CLST",
+        "<B>Chile</B> Daylight Time",
+        "<B>Chile</B> Standard Time",
+        "<B>Chile</B> Summer Time",
+        "<B>Chile</B> Time",
+        "<B>Chilean</B> time zones",
+        "Daylight saving time in <B>Chile</B>",
+        "Easter Island Daylight Time",
+        "Easter Island Standard Time",
+        "Easter Island Summer Time",
+        "Magallanes Daylight Time",
+        "Magallanes Standard Time",
+        "Pacific/Easter",
+        "Time in Easter Island"
+      ],
+      "comment": [
+        "−04:00 in winter time and UTC−03:00 in summer time, while the Magallanes and <B>Chilean</B> Antarctica"
+      ],
+      "label": [
+        "Time in <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Time_in_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Daylight_saving_time_by_country",
+        "http://dbpedia.org/resource/Category:Time_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2287.825"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2005–06_Chilean_general_election"
+      ],
+      "redirectlabel": [
+        "2005-06 <B>Chilean</B> general election",
+        "2005-06 <B>Chilean</B> presidential election",
+        "2005 <B>Chilean</B> parliamentary election",
+        "2005 <B>Chilean</B> presidential election",
+        "2005–06 <B>Chilean</B> presidential election",
+        "<B>Chile</B> presidential election, 2005",
+        "<B>Chilean</B> parliamentary election, 2005",
+        "<B>Chilean</B> presidential election, 2005-06",
+        "<B>Chilean</B> presidential election, 2005-2006",
+        "<B>Chilean</B> presidential election, 2005",
+        "<B>Chilean</B> presidential election, 2005–06",
+        "<B>Chilean</B> presidential election, 2005–2006",
+        "<B>Chilean</B> presidential election, 2006",
+        "<B>Chilean</B> presidential elections, 2006"
+      ],
+      "label": [
+        "2005–06 <B>Chilean</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2005–06_Chilean_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:2005_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:2006_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:December_2005_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Elections_in_Chile",
+        "http://dbpedia.org/resource/Category:January_2006_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2204.2043"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–2013_Chilean_student_protests"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Chilean</B> student protests",
+        "2011-13 <B>Chilean</B> student protests",
+        "2011-2012 <B>Chilean</B> protests",
+        "2011-2012 <B>Chilean</B> student protests",
+        "2011-2013 <B>Chilean</B> student protests",
+        "2011 <B>Chilean</B> protests",
+        "2011 <B>Chilean</B> protests by CUT",
+        "2011 student protests in <B>Chile</B>",
+        "2011–12 <B>Chilean</B> student protests",
+        "2011–13 <B>Chilean</B> student protests",
+        "2011–2012 <B>Chilean</B> protests",
+        "2011–2012 <B>Chilean</B> student protests",
+        "<B>Chilean</B> winter"
+      ],
+      "label": [
+        "2011–2013 <B>Chilean</B> student protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–2013_Chilean_student_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_in_Chile",
+        "http://dbpedia.org/resource/Category:2011_protests",
+        "http://dbpedia.org/resource/Category:2012_in_Chile",
+        "http://dbpedia.org/resource/Category:2012_protests",
+        "http://dbpedia.org/resource/Category:2013_in_Chile",
+        "http://dbpedia.org/resource/Category:2013_protests",
+        "http://dbpedia.org/resource/Category:Impact_of_the_Arab_Spring",
+        "http://dbpedia.org/resource/Category:Social_history_of_Chile",
+        "http://dbpedia.org/resource/Category:Student_protests_in_Chile",
+        "http://dbpedia.org/resource/Category:Student_strikes"
+      ]
+    },
+    {
+      "score": [
+        "2128.512"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Traditional_Universities"
+      ],
+      "redirectlabel": [
+        "CRUCH",
+        "Consejo de Rectores",
+        "Universidades del Consejo de Rectores",
+        "Universities from the Rectors Council of <B>Chilean</B> Universities"
+      ],
+      "comment": [
+        "In <B>Chile</B>, universidades tradicionales (\"traditional universities\") is the group of universities"
+      ],
+      "label": [
+        "<B>Chilean</B> Traditional Universities"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Traditional_Universities"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Education_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2038.1271"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Chile</B>",
+        "Comandos de Aviacion",
+        "Comandos de Aviación",
+        "FACH",
+        "FACh",
+        "Fuerza Aérea de <B>Chile</B>",
+        "History of the <B>Chilean</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Air Force (Spanish: Fuerza Aérea de <B>Chile</B>, FACh) is the air force of <B>Chile</B>, a branch of the <B>Chilean</B> military."
+      ],
+      "label": [
+        "<B>Chilean</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:1930_in_Chilean_law",
+        "http://dbpedia.org/resource/Category:Chilean_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1930"
+      ]
+    },
+    {
+      "score": [
+        "2026.9153"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1851_Chilean_Revolution"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Civil War of 1851",
+        "<B>Chilean</B> Revolution of 1851",
+        "Revolution of 1851"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Revolution of 1851 (or Civil War of 1851) was an attempt by <B>Chilean</B> liberals to overthrow the"
+      ],
+      "label": [
+        "1851 <B>Chilean</B> Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1851_Chilean_Revolution"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1850s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1851_in_Chile",
+        "http://dbpedia.org/resource/Category:19th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1851",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Chile",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Chile",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "2007.2909"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_rose_tarantula"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Rose Tarantula",
+        "<B>Chilean</B> rose hair tarantula",
+        "<B>Chilean</B> rose spider",
+        "<B>Chilean</B> tarantula",
+        "<B>Chilian</B> Rose Tarantula",
+        "Grammostola rosea",
+        "Rose-hair tarantula",
+        "Rose-haired tarantula",
+        "Rose hair tarantula"
+      ],
+      "comment": [
+        "The <B>Chilean</B> rose tarantula (Grammostola rosea), also known as the rose hair tarantula, the <B>Chilean</B>"
+      ],
+      "label": [
+        "<B>Chilean</B> rose tarantula"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_rose_tarantula"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fauna_of_Chile",
+        "http://dbpedia.org/resource/Category:Spiders_of_South_America",
+        "http://dbpedia.org/resource/Category:Theraphosidae"
+      ]
+    },
+    {
+      "score": [
+        "1955.4291"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B>-American",
+        "<B>Chilean</B> American",
+        "<B>Chilean</B> americans",
+        "Demographics of <B>Chilean</B> Americans",
+        "History of <B>Chilean</B> Americans",
+        "List of <B>Chilean</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Chilean</B> Americans (Spanish: <B>chileno</B>-americanos, <B>chileno</B>-estadounidenses, norteamericanos de origen"
+      ],
+      "label": [
+        "<B>Chilean</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Chilean_descent",
+        "http://dbpedia.org/resource/Category:Chilean_American",
+        "http://dbpedia.org/resource/Category:Chilean_diaspora",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American"
+      ]
+    },
+    {
+      "score": [
+        "1935.2395"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Coast_Range"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Coastal Range",
+        "Cordillera de la Costa, <B>Chile</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Mountain",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Coastal Range (Spanish: Cordillera de la Costa) is a mountain range that runs from"
+      ],
+      "label": [
+        "<B>Chilean</B> Coast Range"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Coast_Range"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Mountain",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_Coast_Range",
+        "http://dbpedia.org/resource/Category:Landforms_of_Antofagasta_Region",
+        "http://dbpedia.org/resource/Category:Landforms_of_Biobío_Region",
+        "http://dbpedia.org/resource/Category:Landforms_of_Los_Lagos_Region",
+        "http://dbpedia.org/resource/Category:Landforms_of_Los_Ríos_Region",
+        "http://dbpedia.org/resource/Category:Landforms_of_Santiago_Metropolitan_Region",
+        "http://dbpedia.org/resource/Category:Landforms_of_Valparaíso_Region",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1928.7961"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/La_Red_(Chilean_TV_channel)"
+      ],
+      "redirectlabel": [
+        "Compania <B>chilena</B> de television",
+        "Compañia <B>Chilena</B> de Televisión",
+        "Compañia <B>chilena</B> de television",
+        "Compañía <B>Chilena</B> de Televisión",
+        "La Red (<B>Chilean</B> television)",
+        "La Red (<B>chilean</B> television)",
+        "RED Television",
+        "RED Televisión",
+        "RedTV",
+        "Red Television",
+        "Red Televisión",
+        "Red <B>chilena</B> de television",
+        "Red <B>chilena</B> de televisión",
+        "Red television",
+        "Red televisión"
+      ],
+      "typeName": [
+        "Organisation",
+        "TelevisionStation",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        "La Red, also known as La Red <B>Chilena</B> de Televisión, is a private television channel in <B>Chile</B>. It"
+      ],
+      "label": [
+        "La Red (<B>Chilean</B> TV channel)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/La_Red_(Chilean_TV_channel)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/TelevisionStation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Santiago",
+        "http://dbpedia.org/resource/Category:La_Red_(Chilean_TV_channel)",
+        "http://dbpedia.org/resource/Category:Spanish-language_television_stations",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1991",
+        "http://dbpedia.org/resource/Category:Television_networks_in_Chile",
+        "http://dbpedia.org/resource/Category:Television_stations_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1865.6068"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Regions_of_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> region",
+        "<B>Chilean</B> regions"
+      ],
+      "comment": [
+        "<B>Chile</B> is divided into 16 regions (in Spanish, regiones; singular región), which are the country's"
+      ],
+      "label": [
+        "Regions of <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Regions_of_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Chile",
+        "http://dbpedia.org/resource/Category:Regions_of_Chile",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1804.2091"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ranked_lists_of_Chilean_regions"
+      ],
+      "redirectlabel": [
+        "List of <B>Chilean</B> provinces by Human Development Index",
+        "List of <B>Chilean</B> regions' largest cities",
+        "List of <B>Chilean</B> regions by Human Development Index",
+        "List of <B>Chilean</B> subdivisions by GDP",
+        "Ranked list of <B>Chilean</B> regions"
+      ],
+      "comment": [
+        "This article includes several ranked indicators for <B>Chile's</B> regions."
+      ],
+      "label": [
+        "Ranked lists of <B>Chilean</B> regions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ranked_lists_of_Chilean_regions"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chile_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Demographics_of_Chile",
+        "http://dbpedia.org/resource/Category:Geography-related_lists_of_superlatives",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1757.3004"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean–Peruvian_maritime_dispute"
+      ],
+      "redirectlabel": [
+        "Case Concerning Maritime Delimitation between the Republic of Peru and the Republic of <B>Chile</B> (Peru v. <B>Chile</B>)",
+        "<B>Chilean</B>-Peruvian Maritime Dispute of 2006--2007",
+        "<B>Chilean</B>-Peruvian Maritime Dispute of 2006",
+        "<B>Chilean</B>-Peruvian maritime dispute",
+        "<B>Chilean</B>-Peruvian maritime dispute of 2006-2007",
+        "<B>Chilean</B>-Peruvian maritime dispute of 2006–2007",
+        "<B>Chilean</B>–Peruvian maritime dispute of 2006–2007",
+        "Contemporary legacy of the War of the Pacific",
+        "Maritime Dispute (Peru v. <B>Chile</B>)",
+        "Peru v. <B>Chile</B>",
+        "Peru v <B>Chile</B>"
+      ],
+      "comment": [
+        "Peru v <B>Chile</B> (also called the <B>Chilean</B>–Peruvian maritime dispute) is a public international law case"
+      ],
+      "label": [
+        "<B>Chilean</B>–Peruvian maritime dispute"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean–Peruvian_maritime_dispute"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_in_Chile",
+        "http://dbpedia.org/resource/Category:2008_in_Chile",
+        "http://dbpedia.org/resource/Category:Chile–Peru_border",
+        "http://dbpedia.org/resource/Category:Chile–Peru_relations",
+        "http://dbpedia.org/resource/Category:Controversies_in_Chile",
+        "http://dbpedia.org/resource/Category:Controversies_in_Peru",
+        "http://dbpedia.org/resource/Category:Disputed_waters",
+        "http://dbpedia.org/resource/Category:International_Court_of_Justice_cases",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Chile",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Peru"
+      ]
+    },
+    {
+      "score": [
+        "1733.2202"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Chilean_coups_d'état"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> coup",
+        "<B>Chilean</B> coup d'etat",
+        "<B>Chilean</B> coup d'état",
+        "List of <B>Chilean</B> coup d'etat",
+        "List of <B>Chilean</B> coup d'état",
+        "List of <B>Chilean</B> coups d'etat"
+      ],
+      "comment": [
+        ") that have taken place in <B>Chile</B>, during its independent history. The 1973 <B>Chilean</B> coup d'état stand"
+      ],
+      "label": [
+        "List of <B>Chilean</B> coups d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Chilean_coups_d'état"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:18th_century_in_Chile",
+        "http://dbpedia.org/resource/Category:19th_century_in_Chile",
+        "http://dbpedia.org/resource/Category:20th_century_in_Chile",
+        "http://dbpedia.org/resource/Category:Chile_history-related_lists",
+        "http://dbpedia.org/resource/Category:Chile_politics-related_lists",
+        "http://dbpedia.org/resource/Category:Coups_d'état",
+        "http://dbpedia.org/resource/Category:Government_of_Chile",
+        "http://dbpedia.org/resource/Category:Lists_of_events_in_Chile",
+        "http://dbpedia.org/resource/Category:Lists_of_military_conflicts",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Chile",
+        "http://dbpedia.org/resource/Category:Political_history_of_Chile",
+        "http://dbpedia.org/resource/Category:Politics_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1723.1322"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Chile</B> citizenship",
+        "<B>Chile</B> nationality law",
+        "<B>Chilean</B> citizenship",
+        "History of <B>Chilean</B> nationality law"
+      ],
+      "comment": [
+        "<B>Chilean</B> nationality law is based on both principles of jus soli and jus sanguini. Nationality law"
+      ],
+      "label": [
+        "<B>Chilean</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_in_Chilean_law",
+        "http://dbpedia.org/resource/Category:Immigration_to_Chile",
+        "http://dbpedia.org/resource/Category:Law_of_Chile",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1722.5042"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Chilean_general_election"
+      ],
+      "redirectlabel": [
+        "2013 <B>Chilean</B> parliamentary election",
+        "2013 <B>Chilean</B> presidential election",
+        "<B>Chile</B> presidential election, 2013",
+        "<B>Chilean</B> general election, 2013",
+        "<B>Chilean</B> parliamentary election, 2013",
+        "<B>Chilean</B> presidential election, 2013",
+        "<B>Chilean</B> presidential election, 2014"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Chile</B> on 17 November 2013, including presidential, parliamentary and"
+      ],
+      "label": [
+        "2013 <B>Chilean</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Chilean_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:2013_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:December_2013_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Elections_in_Chile",
+        "http://dbpedia.org/resource/Category:November_2013_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidency_of_Sebastián_Piñera",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1701.0596"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Socialist_Party_of_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Socialist Party",
+        "Partido Socialista de <B>Chile</B>",
+        "Socialist Party (<B>Chile</B>)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Socialist Party of <B>Chile</B> (Spanish: Partido Socialista de <B>Chile</B>, or PS) is a political party"
+      ],
+      "label": [
+        "Socialist Party of <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Socialist_Party_of_Chile"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_South_America",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Chile",
+        "http://dbpedia.org/resource/Category:Progressive_parties",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_South_America",
+        "http://dbpedia.org/resource/Category:Socialist_Party_of_Chile",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1674.8615"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chileans"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> people",
+        "Genetic history of <B>Chile</B>",
+        "Genetic studies on <B>Chileans</B>",
+        "People of <B>Chile</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " connections exist and are collectively the source of their <B>Chilean</B> identity. <B>Chile</B> is a multilingual and"
+      ],
+      "label": [
+        "<B>Chileans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chileans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Chile",
+        "http://dbpedia.org/resource/Category:South_American_people_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1641.0731"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Chile</B>",
+        "Pre-Columbian <B>Chilean</B> art"
+      ],
+      "comment": [
+        "<B>Chilean</B> art refers to all kinds of visual art developed in <B>Chile</B>, or by <B>Chileans</B>, from the arrival"
+      ],
+      "label": [
+        "<B>Chilean</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Chilean_art"
+      ]
+    },
+    {
+      "score": [
+        "1641.0702"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Nicolás_Medina_(Chilean_footballer)"
+      ],
+      "redirectlabel": [
+        "Nicolas Esteban Medina Rios",
+        "Nicolas Medina (<B>Chilean</B> footballer)",
+        "Nicolas Medina (<B>Chilean</B> soccer player)",
+        "Nicolas Medina (<B>chilean</B> footballer)",
+        "Nicolás Esteban Medina Ríos",
+        "Nicolás Medina (<B>Chilean</B> soccer player)",
+        "Nicolás Medina (<B>chilean</B> footballer)"
+      ],
+      "label": [
+        "Nicolás Medina (<B>Chilean</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Nicolás_Medina_(Chilean_footballer)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_births",
+        "http://dbpedia.org/resource/Category:Akademik_Sofia_players",
+        "http://dbpedia.org/resource/Category:Arameisk-Syrianska_IF_players",
+        "http://dbpedia.org/resource/Category:Association_football_forwards",
+        "http://dbpedia.org/resource/Category:CA_Osasuna_players",
+        "http://dbpedia.org/resource/Category:CD_Castellón_footballers",
+        "http://dbpedia.org/resource/Category:Chile_under-20_international_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_football_managers",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Andorra",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Spain",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Sweden",
+        "http://dbpedia.org/resource/Category:Chilean_football_managers",
+        "http://dbpedia.org/resource/Category:Chilean_footballers",
+        "http://dbpedia.org/resource/Category:Curicó_Unido_footballers",
+        "http://dbpedia.org/resource/Category:Ettan_Fotboll_players",
+        "http://dbpedia.org/resource/Category:Expatriate_football_managers_in_Spain",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Andorra",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Bulgaria",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Spain",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Sweden",
+        "http://dbpedia.org/resource/Category:FC_Lusitanos_players",
+        "http://dbpedia.org/resource/Category:FC_Santa_Coloma_players",
+        "http://dbpedia.org/resource/Category:First_Professional_Football_League_(Bulgaria)_players",
+        "http://dbpedia.org/resource/Category:Footballers_from_Santiago",
+        "http://dbpedia.org/resource/Category:Inter_Club_d'Escaldes_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Naval_de_Talcahuano_footballers",
+        "http://dbpedia.org/resource/Category:People_from_Santiago",
+        "http://dbpedia.org/resource/Category:Primera_B_de_Chile_players",
+        "http://dbpedia.org/resource/Category:Primera_Divisió_players",
+        "http://dbpedia.org/resource/Category:Rangers_de_Talca_footballers",
+        "http://dbpedia.org/resource/Category:SD_Eibar_footballers",
+        "http://dbpedia.org/resource/Category:SD_Huesca_footballers",
+        "http://dbpedia.org/resource/Category:San_Marcos_de_Arica_footballers",
+        "http://dbpedia.org/resource/Category:Segunda_División_players",
+        "http://dbpedia.org/resource/Category:Tercera_División_players",
+        "http://dbpedia.org/resource/Category:Universidad_de_Chile_footballers",
+        "http://dbpedia.org/resource/Category:Villarrubia_CF_players"
+      ]
+    },
+    {
+      "score": [
+        "1615.7123"
+      ],
+      "refCount": [
+        "62"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provinces_of_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> province",
+        "List of provinces in <B>Chile</B>",
+        "List of provinces of <B>Chile</B>",
+        "Provinces in <B>Chile</B>"
+      ],
+      "comment": [
+        "A province is the second largest administrative division in <B>Chile</B> with 56 in total. The largest"
+      ],
+      "label": [
+        "Provinces of <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provinces_of_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Chile",
+        "http://dbpedia.org/resource/Category:Provinces_of_Chile",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1606.3914"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_woodstar"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Woodstar",
+        "ColibrI De Arica",
+        "Colibri D'Arica",
+        "Colibri De Arica",
+        "ColibrÍ De Arica",
+        "Colibrí De Arica",
+        "Eulidia",
+        "Eulidia yarrellii",
+        "Myrtis yarrellii"
+      ],
+      "comment": [
+        "The <B>Chilean</B> woodstar (Eulidia yarrellii) is a small bird in the hummingbird family, Trochilidae. It"
+      ],
+      "label": [
+        "<B>Chilean</B> woodstar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_woodstar"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Atacama_Desert",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1847",
+        "http://dbpedia.org/resource/Category:Critically_endangered_animals",
+        "http://dbpedia.org/resource/Category:Critically_endangered_biota_of_South_America",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Hummingbirds",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1578.3702"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1993_Chilean_general_election"
+      ],
+      "redirectlabel": [
+        "1993 <B>Chilean</B> presidential election",
+        "<B>Chile</B> presidential election, 1993",
+        "<B>Chilean</B> general election, 1993",
+        "<B>Chilean</B> parliamentary election, 1993",
+        "<B>Chilean</B> presidential election, 1993"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Chile</B> on 11 December 1993. Eduardo Frei Ruiz-Tagle of the Concert of"
+      ],
+      "label": [
+        "1993 <B>Chilean</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1993_Chilean_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:1993_in_Chile",
+        "http://dbpedia.org/resource/Category:December_1993_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Elections_in_Chile",
+        "http://dbpedia.org/resource/Category:Presidency_of_Patricio_Aylwin",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1561.7938"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Chileans"
+      ],
+      "redirectlabel": [
+        "Italian-<B>Chilean</B>",
+        "Italian <B>Chilean</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " sizable number of Italian surnames of a proportion of <B>Chilean</B> politicians, businessmen, and"
+      ],
+      "label": [
+        "Italian <B>Chileans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Chileans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:European_Chilean",
+        "http://dbpedia.org/resource/Category:Italian_Chilean",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1559.4387"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Civil_War_of_1829–1830"
+      ],
+      "redirectlabel": [
+        "1829-1830 <B>Chilean</B> Civil War",
+        "1829–1830 <B>Chilean</B> Civil War",
+        "<B>Chilean</B> Civil War of 1829-1830",
+        "<B>Chilean</B> Civil War of 1829-30",
+        "<B>Chilean</B> Civil War of 1829",
+        "<B>Chilean</B> Civil War of 1829–30",
+        "<B>Chilean</B> Revolution of 1829"
+      ],
+      "label": [
+        "<B>Chilean</B> Civil War of 1829–1830"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Civil_War_of_1829–1830"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1820s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1829_in_Chile",
+        "http://dbpedia.org/resource/Category:1830_in_Chile",
+        "http://dbpedia.org/resource/Category:1830s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:19th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Chilean_Civil_War_of_1829–30",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Chile",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Chile",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1551.7988"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Martín_Rodríguez_(Chilean_footballer)"
+      ],
+      "redirectlabel": [
+        "Martin Rodriguez (<B>Chilean</B> footballer)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Martín Vladimir Rodríguez Torrejón (born 5 August 1994), nicknamed as Tin, is a <B>Chilean</B> footballer"
+      ],
+      "label": [
+        "Martín Rodríguez (<B>Chilean</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Martín_Rodríguez_(Chilean_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_births",
+        "http://dbpedia.org/resource/Category:2017_FIFA_Confederations_Cup_players",
+        "http://dbpedia.org/resource/Category:Altay_S.K._footballers",
+        "http://dbpedia.org/resource/Category:Association_football_forwards",
+        "http://dbpedia.org/resource/Category:Association_football_midfielders",
+        "http://dbpedia.org/resource/Category:Atlético_Morelia_players",
+        "http://dbpedia.org/resource/Category:C.D._Huachipato_footballers",
+        "http://dbpedia.org/resource/Category:Chile_international_footballers",
+        "http://dbpedia.org/resource/Category:Chile_under-20_international_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Mexico",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Turkey",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Chilean_footballers",
+        "http://dbpedia.org/resource/Category:Club_Universidad_Nacional_footballers",
+        "http://dbpedia.org/resource/Category:Colo-Colo_footballers",
+        "http://dbpedia.org/resource/Category:Cruz_Azul_footballers",
+        "http://dbpedia.org/resource/Category:D.C._United_players",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Mexico",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Turkey",
+        "http://dbpedia.org/resource/Category:Expatriate_soccer_players_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Liga_MX_players",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Major_League_Soccer_players",
+        "http://dbpedia.org/resource/Category:Mazatlán_F.C._footballers",
+        "http://dbpedia.org/resource/Category:People_from_Chañaral_Province",
+        "http://dbpedia.org/resource/Category:Süper_Lig_players"
+      ]
+    },
+    {
+      "score": [
+        "1550.8593"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Chilean_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Chilean</B> propaganda",
+        "Chilenophobia",
+        "Chiliaphobia",
+        "History of anti-<B>Chilean</B> sentiment"
+      ],
+      "comment": [
+        " <B>Chile</B>, <B>Chileans</B>, or <B>Chilean</B> culture. Anti-<B>Chilean</B> sentiment is most prevalent among <B>Chile's</B> neighbors"
+      ],
+      "label": [
+        "Anti-<B>Chilean</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Chilean_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Chilean_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment",
+        "http://dbpedia.org/resource/Category:Discrimination_in_Argentina",
+        "http://dbpedia.org/resource/Category:Discrimination_in_Bolivia",
+        "http://dbpedia.org/resource/Category:Discrimination_in_Peru",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Chile",
+        "http://dbpedia.org/resource/Category:Hispanophobia",
+        "http://dbpedia.org/resource/Category:Racism_in_Argentina",
+        "http://dbpedia.org/resource/Category:Stereotypes_of_Hispanic_and_Latino_people"
+      ]
+    },
+    {
+      "score": [
+        "1542.6647"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_swallow"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Swallow",
+        "<B>Chilean</B> Swallows",
+        "Tachycineta leucopyga",
+        "Tachycineta meyeni"
+      ],
+      "comment": [
+        "The <B>Chilean</B> swallow (Tachycineta leucopyga) is a species of bird in the family Hirundinidae. It"
+      ],
+      "label": [
+        "<B>Chilean</B> swallow"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_swallow"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1850",
+        "http://dbpedia.org/resource/Category:Birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Birds_of_Patagonia",
+        "http://dbpedia.org/resource/Category:Tachycineta",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1518.1226"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_dolphin"
+      ],
+      "redirectlabel": [
+        "Black Dolphin",
+        "Black dolphin",
+        "Cephalorhynchus eutropia",
+        "Cephalorhyncus eutropia",
+        "<B>Chilean</B> Dolphin",
+        "White-bellied Dolphin",
+        "White-bellied dolphin"
+      ],
+      "comment": [
+        "The <B>Chilean</B> dolphin (Cephalorhynchus eutropia), also known as the black dolphin, is one of four"
+      ],
+      "label": [
+        "<B>Chilean</B> dolphin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_dolphin"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cephalorhynchus",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Chile",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1846",
+        "http://dbpedia.org/resource/Category:Mammals_of_Chile",
+        "http://dbpedia.org/resource/Category:Mammals_of_Patagonia",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_John_Edward_Gray"
+      ]
+    },
+    {
+      "score": [
+        "1514.4474"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1980_Chilean_constitutional_referendum"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> National Plebiscite, 1980",
+        "<B>Chilean</B> constitutional plebiscite, 1980",
+        "<B>Chilean</B> constitutional referendum, 1980",
+        "<B>Chilean</B> national plebiscite, 1980"
+      ],
+      "comment": [
+        "A constitutional referendum was held in <B>Chile</B> on 11 September 1980. The proposed new constitution"
+      ],
+      "label": [
+        "1980 <B>Chilean</B> constitutional referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1980_Chilean_constitutional_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_in_Chile",
+        "http://dbpedia.org/resource/Category:1980_referendums",
+        "http://dbpedia.org/resource/Category:Constitutional_referendums_in_Chile",
+        "http://dbpedia.org/resource/Category:Legal_history_of_Chile",
+        "http://dbpedia.org/resource/Category:Military_dictatorship_of_Chile_(1973–1990)",
+        "http://dbpedia.org/resource/Category:Referendums_in_Chile",
+        "http://dbpedia.org/resource/Category:September_1980_events_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1511.7943"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1989_Chilean_constitutional_referendum"
+      ],
+      "redirectlabel": [
+        "1989 <B>Chilean</B> political reform referendum",
+        "<B>Chilean</B> constitutional referendum, 1989",
+        "<B>Chilean</B> national referendum, 1989",
+        "<B>Chilean</B> political reform referendum, 1989",
+        "<B>Chilean</B> referendum, 1989"
+      ],
+      "comment": [
+        "A constitutional referendum was held in <B>Chile</B> on 30 June 1989. The proposed changes to the constitution were approved by 87,7% of voters."
+      ],
+      "label": [
+        "1989 <B>Chilean</B> constitutional referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1989_Chilean_constitutional_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_in_Chile",
+        "http://dbpedia.org/resource/Category:1989_referendums",
+        "http://dbpedia.org/resource/Category:Constitutional_referendums_in_Chile",
+        "http://dbpedia.org/resource/Category:July_1989_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Military_dictatorship_of_Chile_(1973–1990)",
+        "http://dbpedia.org/resource/Category:Referendums_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1499.4648"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Argentine–Chilean_naval_arms_race"
+      ],
+      "redirectlabel": [
+        "Argentine-<B>Chilean</B> naval arms race"
+      ],
+      "comment": [
+        " <B>Chile</B> engaged in an expensive naval arms race to ensure the other would not gain supremacy in the Southern Cone."
+      ],
+      "label": [
+        "Argentine–<B>Chilean</B> naval arms race"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Argentine–Chilean_naval_arms_race"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentina–Chile_relations",
+        "http://dbpedia.org/resource/Category:Argentine_Navy",
+        "http://dbpedia.org/resource/Category:Battleships",
+        "http://dbpedia.org/resource/Category:Chilean_Navy",
+        "http://dbpedia.org/resource/Category:Geopolitical_rivalry",
+        "http://dbpedia.org/resource/Category:History_of_Argentina_(1880–1916)",
+        "http://dbpedia.org/resource/Category:Military_history_of_Argentina",
+        "http://dbpedia.org/resource/Category:Military_history_of_Chile",
+        "http://dbpedia.org/resource/Category:Military_history_of_Latin_America",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Chile",
+        "http://dbpedia.org/resource/Category:Technological_races"
+      ]
+    },
+    {
+      "score": [
+        "1491.7078"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Antarctic_Territory"
+      ],
+      "redirectlabel": [
+        "Antartica, <B>Chile</B>",
+        "Antartica (comuna)",
+        "Antártica, <B>Chile</B>",
+        "<B>Chilean</B> Antarctica"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        ", Antártica <B>Chilena</B>) is the territory in Antarctica claimed by <B>Chile</B>. The <B>Chilean</B> Antarctic Territory"
+      ],
+      "label": [
+        "<B>Chilean</B> Antarctic Territory"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Antarctic_Territory"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940_establishments_in_Antarctica",
+        "http://dbpedia.org/resource/Category:Chilean_Antarctic_Territory",
+        "http://dbpedia.org/resource/Category:Magallanes_Region",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1940",
+        "http://dbpedia.org/resource/Category:Territorial_claims_in_Antarctica"
+      ]
+    },
+    {
+      "score": [
+        "1488.5834"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Civil_War_of_1891"
+      ],
+      "redirectlabel": [
+        "1891 <B>Chilean</B> Civil War",
+        "1891 Civil War",
+        "<B>Chilean</B> Revolution of 1891"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Civil War of 1891 (also known as Revolution of 1891) was a civil war in <B>Chile</B> fought"
+      ],
+      "label": [
+        "<B>Chilean</B> Civil War of 1891"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Civil_War_of_1891"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1891_in_Chile",
+        "http://dbpedia.org/resource/Category:Chilean_Civil_War_of_1891",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_South_America",
+        "http://dbpedia.org/resource/Category:Civil_wars_of_the_Industrial_era",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1891",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Chile",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Chile",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Chile",
+        "http://dbpedia.org/resource/Category:Wars_involving_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1483.7472"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_transport_Rímac"
+      ],
+      "redirectlabel": [
+        "BAP Rímac",
+        "Capture of the Rímac",
+        "<B>Chilean</B> transport Rímac (1872)",
+        "<B>Chilean</B> transporter Rimac (1872)",
+        "<B>Chilean</B> transporter Rímac (1872)"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "label": [
+        "<B>Chilean</B> transport Rímac"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_transport_Rímac"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1872_ships",
+        "http://dbpedia.org/resource/Category:Auxiliary_ships_of_the_Chilean_Navy",
+        "http://dbpedia.org/resource/Category:Auxiliary_ships_of_the_Peruvian_Navy",
+        "http://dbpedia.org/resource/Category:Maritime_incidents_in_1902",
+        "http://dbpedia.org/resource/Category:Maritime_incidents_in_January_1881",
+        "http://dbpedia.org/resource/Category:Scuttled_vessels_of_Peru",
+        "http://dbpedia.org/resource/Category:Ships_built_on_the_River_Mersey",
+        "http://dbpedia.org/resource/Category:Ships_of_the_War_of_the_Pacific",
+        "http://dbpedia.org/resource/Category:Shipwrecks_in_the_Gulf_of_Panama",
+        "http://dbpedia.org/resource/Category:Shipwrecks_of_the_War_of_the_Pacific"
+      ]
+    },
+    {
+      "score": [
+        "1474.8453"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Terrier"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Fox Terrier",
+        "<B>Chilean</B> Foxterrier",
+        "<B>Chilean</B> Rat Terrier"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Terrier is the first breed of dog from <B>Chile</B>. The breed dates back to the late 19th"
+      ],
+      "label": [
+        "<B>Chilean</B> Terrier"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Terrier"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dog_breeds_originating_in_Chile",
+        "http://dbpedia.org/resource/Category:Terriers"
+      ]
+    },
+    {
+      "score": [
+        "1466.9631"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_brigantine_Águila_(1796)"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Brigantine Aguila (1796)",
+        "<B>Chilean</B> Brigantine Águila (1796)",
+        "<B>Chilean</B> brigantine Aguila (1796)",
+        "Pueyrredón (1817)",
+        "Águila (1796)"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "Águila was the first naval vessel of the <B>Chilean</B> Navy. She was later renamed Pueyrredón."
+      ],
+      "label": [
+        "<B>Chilean</B> brigantine Águila (1796)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_brigantine_Águila_(1796)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1796_ships",
+        "http://dbpedia.org/resource/Category:First_Chilean_Navy_Squadron"
+      ]
+    },
+    {
+      "score": [
+        "1438.7147"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Daniel_Briceño_(Chilean_footballer)"
+      ],
+      "redirectlabel": [
+        "Daniel Briceno (<B>Chilean</B> footballer)",
+        "Daniel Briceno (footballer <B>Chilean</B>)",
+        "Daniel Briceno Jalabert",
+        "Daniel Briceño (footballer <B>Chilean</B>)",
+        "Daniel Briceño Jalabert"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Daniel Antonio Briceño Jalabert (born March 2, 1982 in Curicó, <B>Chile</B>) is a <B>Chilean</B> footballer currently playing for Ñublense of the Primera B <B>Chilena</B>."
+      ],
+      "label": [
+        "Daniel Briceño (<B>Chilean</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Daniel_Briceño_(Chilean_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982_births",
+        "http://dbpedia.org/resource/Category:Association_football_midfielders",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Chilean_footballers",
+        "http://dbpedia.org/resource/Category:Curicó_Unido_footballers",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:People_from_Curicó",
+        "http://dbpedia.org/resource/Category:Primera_B_de_Chile_players",
+        "http://dbpedia.org/resource/Category:San_Marcos_de_Arica_footballers",
+        "http://dbpedia.org/resource/Category:Unión_La_Calera_footballers",
+        "http://dbpedia.org/resource/Category:Unión_San_Felipe_footballers",
+        "http://dbpedia.org/resource/Category:Ñublense_footballers"
+      ]
+    },
+    {
+      "score": [
+        "1427.2738"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/New_Chilean_cumbia"
+      ],
+      "redirectlabel": [
+        "New <B>Chilean</B> Cumbia"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "The New <B>Chilean</B> Cumbia also known as New <B>Chilean</B> Cumbia Rock (Spanish: Nueva cumbia <B>chilena</B>, Nueva"
+      ],
+      "label": [
+        "New <B>Chilean</B> cumbia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/New_Chilean_cumbia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_cumbia",
+        "http://dbpedia.org/resource/Category:Cumbia_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "1417.3595"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_flamingo"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Flamingo",
+        "<B>Chilean</B> flamingos",
+        "Phoenicopterus chilensis"
+      ],
+      "comment": [
+        "The <B>Chilean</B> flamingo (Phoenicopterus chilensis) is a large species of flamingo at 110–130 cm (43–51"
+      ],
+      "label": [
+        "<B>Chilean</B> flamingo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_flamingo"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1782",
+        "http://dbpedia.org/resource/Category:Birds_of_Argentina",
+        "http://dbpedia.org/resource/Category:Birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Birds_of_Peru",
+        "http://dbpedia.org/resource/Category:Birds_of_Uruguay",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Puna_grassland",
+        "http://dbpedia.org/resource/Category:Flamingos",
+        "http://dbpedia.org/resource/Category:Near_threatened_animals",
+        "http://dbpedia.org/resource/Category:Near_threatened_biota_of_South_America",
+        "http://dbpedia.org/resource/Category:Phoenicopterus"
+      ]
+    },
+    {
+      "score": [
+        "1410.9802"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_electronic_music"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Electronic Music",
+        "<B>Chilean</B> electronica",
+        "Electronic Music in <B>Chile</B>",
+        "History of <B>Chilean</B> electronic music"
+      ],
+      "label": [
+        "<B>Chilean</B> electronic music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_electronic_music"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_music",
+        "http://dbpedia.org/resource/Category:Electronica"
+      ]
+    },
+    {
+      "score": [
+        "1408.7786"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arauco_War"
+      ],
+      "redirectlabel": [
+        "Arauco war",
+        "The Frontier (<B>Chilean</B> History)",
+        "War of Arauco"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Arauco War was a long-running conflict between colonial Spaniards and the Mapuche people, mostly fought in the Araucanía. The conflict begun at first as a reaction to the Spanish conquest attempt establishing cities and forcing Mapuches into servitude. It subsequently evolved over time into phases of low intensity warfare, drawn-out sieges, slave-hunting expeditions, pillaging raids, punitive expeditions and renewed Spanish attempts to secure lost territories. Abduction of women and war rape was common on both sides."
+      ],
+      "label": [
+        "Arauco War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arauco_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:16th_century_in_the_Captaincy_General_of_Chile",
+        "http://dbpedia.org/resource/Category:17th_century_in_the_Captaincy_General_of_Chile",
+        "http://dbpedia.org/resource/Category:18th_century_in_Chile",
+        "http://dbpedia.org/resource/Category:Arauco_War",
+        "http://dbpedia.org/resource/Category:Captaincy_General_of_Chile",
+        "http://dbpedia.org/resource/Category:History_of_South_America",
+        "http://dbpedia.org/resource/Category:Indigenous_rebellions_against_the_Spanish_Empire",
+        "http://dbpedia.org/resource/Category:Mapuche_history",
+        "http://dbpedia.org/resource/Category:Spanish_conquests_in_the_Americas",
+        "http://dbpedia.org/resource/Category:Viceroyalty_of_Peru",
+        "http://dbpedia.org/resource/Category:Wars_involving_Chile",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain"
+      ]
+    },
+    {
+      "score": [
+        "1406.6388"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_destroyer_Aldea"
+      ],
+      "redirectlabel": [
+        "Aldea (1928)",
+        "CNS Aldea (1928)",
+        "CNS Aldea (destroyer)",
+        "<B>Chilean</B> destroyer Aldea (1928)",
+        "<B>Chilean</B> destroyer Alden"
+      ],
+      "label": [
+        "<B>Chilean</B> destroyer Aldea"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_destroyer_Aldea"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1928_ships",
+        "http://dbpedia.org/resource/Category:Serrano-class_destroyers",
+        "http://dbpedia.org/resource/Category:Ships_built_in_Southampton",
+        "http://dbpedia.org/resource/Category:World_War_II_destroyers_of_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1401.315"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_pintail"
+      ],
+      "redirectlabel": [
+        "Anas georgica spinicauda",
+        "Anas spinicauda",
+        "Brown Pintail",
+        "Brown pintail",
+        "<B>Chilean</B> Pintail"
+      ],
+      "comment": [
+        "The <B>Chilean</B> pintail (Anas georgica spinicauda), also known as the golden peck duck or brown pintail"
+      ],
+      "label": [
+        "<B>Chilean</B> pintail"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_pintail"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anas",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1816",
+        "http://dbpedia.org/resource/Category:Birds_of_South_America",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Falkland_Islands",
+        "http://dbpedia.org/resource/Category:Ducks",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Louis_Jean_Pierre_Vieillot"
+      ]
+    },
+    {
+      "score": [
+        "1383.5596"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_battleship_Almirante_Latorre"
+      ],
+      "redirectlabel": [
+        "Almirante Latorre (1913)",
+        "Almirante Latorre (battleship)",
+        "CNS Almirante Latorre (1921)",
+        "CNS Almirante Latorre (battleship)",
+        "<B>Chilean</B> battleship Almirante Latorre (1913)",
+        "<B>Chilean</B> battleship almirante latorre",
+        "HMS Canada (1913)"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        " <B>Chilean</B> Navy (Armada de <B>Chile</B>). It was the first of a planned two-ship class that would respond to"
+      ],
+      "label": [
+        "<B>Chilean</B> battleship Almirante Latorre"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_battleship_Almirante_Latorre"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1913_ships",
+        "http://dbpedia.org/resource/Category:Almirante_Latorre-class_battleships",
+        "http://dbpedia.org/resource/Category:Cold_War_battleships_of_Chile",
+        "http://dbpedia.org/resource/Category:Ships_built_by_Armstrong_Whitworth",
+        "http://dbpedia.org/resource/Category:Ships_built_on_the_River_Tyne",
+        "http://dbpedia.org/resource/Category:World_War_II_battleships_of_Chile",
+        "http://dbpedia.org/resource/Category:World_War_I_battleships_of_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "1382.495"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2020_Chilean_national_plebiscite"
+      ],
+      "redirectlabel": [
+        "2020 <B>Chilean</B> constitutional referendum",
+        "2020 <B>Chilean</B> election",
+        "2020 <B>Chilean</B> national referendum",
+        "2020 <B>Chilean</B> political reform referendum"
+      ],
+      "comment": [
+        "A national plebiscite is scheduled to be held in <B>Chile</B> on 26 April 2020. The planned referendum"
+      ],
+      "label": [
+        "2020 <B>Chilean</B> national plebiscite"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2020_Chilean_national_plebiscite"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–2020_Chilean_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Chile",
+        "http://dbpedia.org/resource/Category:2020_referendums",
+        "http://dbpedia.org/resource/Category:April_2020_events_in_Chile",
+        "http://dbpedia.org/resource/Category:October_2020_events_in_Chile",
+        "http://dbpedia.org/resource/Category:Presidency_of_Sebastián_Piñera",
+        "http://dbpedia.org/resource/Category:Referendums_in_Chile",
+        "http://dbpedia.org/resource/Category:Referendums_postponed_due_to_the_COVID-19_pandemic"
+      ]
+    },
+    {
+      "score": [
+        "1382.495"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017_Chilean_general_election"
+      ],
+      "redirectlabel": [
+        "2017 <B>Chilean</B> presidential election",
+        "<B>Chilean</B> general election, 2017",
+        "<B>Chilean</B> parliamentary election, 2017",
+        "<B>Chilean</B> presidential election, 2017"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections in <B>Chile</B> were held on Sunday November 19, 2017, including presidential"
+      ],
+      "label": [
+        "2017 <B>Chilean</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017_Chilean_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:2017_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:December_2017_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:November_2017_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1377.3745"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1988_Chilean_national_plebiscite"
+      ],
+      "redirectlabel": [
+        "1988 <B>Chilean</B> presidential confirmation plebiscite",
+        "<B>Chilean</B> national plebiscite, 1988",
+        "<B>Chilean</B> presidential confirmation plebiscite, 1988",
+        "<B>Chilean</B> presidential referendum, 1988"
+      ],
+      "comment": [
+        "The 1988 <B>Chilean</B> national plebiscite was a national referendum held on 5 October 1988 to determine"
+      ],
+      "label": [
+        "1988 <B>Chilean</B> national plebiscite"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1988_Chilean_national_plebiscite"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_in_Chile",
+        "http://dbpedia.org/resource/Category:1988_referendums",
+        "http://dbpedia.org/resource/Category:Military_dictatorship_of_Chile_(1973–1990)",
+        "http://dbpedia.org/resource/Category:October_1988_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Referendums_in_Chile",
+        "http://dbpedia.org/resource/Category:Single-candidate_elections"
+      ]
+    },
+    {
+      "score": [
+        "1371.1368"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Chileans"
+      ],
+      "redirectlabel": [
+        "African <B>Chilean</B>",
+        "Afro-<B>Chilean</B>",
+        "Afro <B>Chilean</B>",
+        "Black <B>Chilean</B>",
+        "Black <B>Chileans</B>",
+        "List of Afro-<B>Chileans</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Chileans</B> are citizens of <B>Chile</B>, descended from Africans who were brought to the New World with"
+      ],
+      "label": [
+        "Afro-<B>Chileans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Chileans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Chilean",
+        "http://dbpedia.org/resource/Category:Chilean_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Chile",
+        "http://dbpedia.org/resource/Category:People_of_African_descent"
+      ]
+    },
+    {
+      "score": [
+        "1370.417"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_naval_mutiny_of_1931"
+      ],
+      "redirectlabel": [
+        "1931 <B>Chilean</B> naval mutiny",
+        "Escuadra uprising",
+        "Sailors' mutiny",
+        "Sailors' rebellion"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Chilean</B> naval mutiny of 1931 (Spanish: Sublevación de la Escuadra) was a violent rebellion of"
+      ],
+      "label": [
+        "<B>Chilean</B> naval mutiny of 1931"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_naval_mutiny_of_1931"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1931_in_Chile",
+        "http://dbpedia.org/resource/Category:Attempted_coups_in_Chile",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1931",
+        "http://dbpedia.org/resource/Category:Naval_mutinies",
+        "http://dbpedia.org/resource/Category:Presidential_Republic_(1925–1973)",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1362.9124"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Chilean_presidential_election"
+      ],
+      "redirectlabel": [
+        "1999-2000 <B>Chilean</B> presidential election",
+        "<B>Chile</B> presidential election, 1999",
+        "<B>Chilean</B> presidential election, 1999-2000",
+        "<B>Chilean</B> presidential election, 1999",
+        "<B>Chilean</B> presidential election, 1999–2000"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Presidential elections were held in <B>Chile</B> on 12 December 1999, with a second round run-off on 16"
+      ],
+      "label": [
+        "1999–2000 <B>Chilean</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Chilean_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:1999_in_Chile",
+        "http://dbpedia.org/resource/Category:2000_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:2000_in_Chile",
+        "http://dbpedia.org/resource/Category:December_1999_events_in_South_America",
+        "http://dbpedia.org/resource/Category:January_2000_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidency_of_Eduardo_Frei_Ruiz-Tagle",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1357.4464"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_ship_Capitán_Prat"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> frigate Capitán Prat",
+        "<B>Chilean</B> frigate Capitán Prat (FFG-11)",
+        "<B>Chilean</B> ship Capitan Prat",
+        "<B>Chilean</B> ship Captain Prat"
+      ],
+      "label": [
+        "<B>Chilean</B> ship Capitán Prat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_ship_Capitán_Prat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_Navy_ship_names"
+      ]
+    },
+    {
+      "score": [
+        "1354.2478"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prisoners_of_the_2019–2021_Chilean_protests"
+      ],
+      "redirectlabel": [
+        "Prisoners of the 2019-2020 <B>Chilean</B> protests",
+        "Prisoners of the 2019-2021 <B>Chilean</B> protests",
+        "Prisoners of the 2019-21 <B>Chilean</B> protests",
+        "Prisoners of the 2019–2020 <B>Chilean</B> protests",
+        "Prisoners of the 2019–21 <B>Chilean</B> protests",
+        "Prisoners of the Revolt",
+        "Prisoners of the revolt"
+      ],
+      "label": [
+        "Prisoners of the 2019–2021 <B>Chilean</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prisoners_of_the_2019–2021_Chilean_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–2020_Chilean_protests"
+      ]
+    },
+    {
+      "score": [
+        "1353.9642"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_skua"
+      ],
+      "redirectlabel": [
+        "Catharacta chilensis",
+        "<B>Chilean</B> Skua",
+        "Cinnamon skua",
+        "Stercorarius chilensis"
+      ],
+      "comment": [
+        "The <B>Chilean</B> skua, also called the cinnamon skua (Stercorarius chilensis), is a large predatory"
+      ],
+      "label": [
+        "<B>Chilean</B> skua"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_skua"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1857",
+        "http://dbpedia.org/resource/Category:Birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Birds_of_Patagonia",
+        "http://dbpedia.org/resource/Category:Skuas",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Charles_Lucien_Bonaparte",
+        "http://dbpedia.org/resource/Category:Taxobox_binomials_not_recognized_by_IUCN"
+      ]
+    },
+    {
+      "score": [
+        "1340.8414"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_torpedo_gunboat_Almirante_Lynch"
+      ],
+      "redirectlabel": [
+        "Almirante Lynch (1890)",
+        "<B>Chilean</B> ship Almirante Lynch (1891)",
+        "<B>Chilean</B> torpedo gunboat Almirante Lynch (1890)",
+        "<B>Chilean</B> torpedo ship Almirante Lynch",
+        "<B>Chilean</B> torpedo ship Almirante Lynch (1890)"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "The torpedo gunboats Almirante Lynch and her sister ship , were purchased in England and launched in 1890."
+      ],
+      "label": [
+        "<B>Chilean</B> torpedo gunboat Almirante Lynch"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_torpedo_gunboat_Almirante_Lynch"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890_ships",
+        "http://dbpedia.org/resource/Category:Almirante_Lynch-class_torpedo_gunboats"
+      ]
+    },
+    {
+      "score": [
+        "1336.9861"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1960_Valdivia_earthquake"
+      ],
+      "redirectlabel": [
+        "1960 <B>Chile</B> Earthquake",
+        "1960 <B>Chile</B> earthquake",
+        "1960 <B>Chilean</B> Earthquake",
+        "1960 <B>Chilean</B> tsunami",
+        "1960 Valdavia earthquake",
+        "1960 Valdivia Tsunami",
+        "1960 Valdivia tsunami",
+        "1960 earthquake in <B>Chile</B>",
+        "<B>Chile</B> earthquake 1960",
+        "<B>Chile</B> earthquake of 1960",
+        "<B>Chilean</B> earthquake 1960",
+        "<B>Chilean</B> earthquake of 1960",
+        "<B>Chilean</B> tsunami",
+        "Great <B>Chilean</B> Earthquake",
+        "Great <B>Chilean</B> earthquake",
+        "Great Valdivia Earthquake",
+        "Great Valdivian Earthquake",
+        "Most powerful earthquake",
+        "Strongest earthquake on record"
+      ],
+      "typeName": [
+        "Event",
+        "Earthquake",
+        "NaturalEvent"
+      ],
+      "comment": [
+        "The 1960 Valdivia earthquake (Spanish: Terremoto de Valdivia) or the Great <B>Chilean</B> earthquake (Gran"
+      ],
+      "label": [
+        "1960 Valdivia earthquake"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1960_Valdivia_earthquake"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Earthquake",
+        "http://dbpedia.org/ontology/NaturalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960_earthquakes",
+        "http://dbpedia.org/resource/Category:1960_in_Chile",
+        "http://dbpedia.org/resource/Category:1960_tsunamis",
+        "http://dbpedia.org/resource/Category:Floods_in_Chile",
+        "http://dbpedia.org/resource/Category:History_of_Los_Ríos_Region",
+        "http://dbpedia.org/resource/Category:Landslides_in_1960",
+        "http://dbpedia.org/resource/Category:Landslides_in_Chile",
+        "http://dbpedia.org/resource/Category:May_1960_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Megathrust_earthquakes_in_Chile",
+        "http://dbpedia.org/resource/Category:Presidency_of_Jorge_Alessandri",
+        "http://dbpedia.org/resource/Category:Tsunamis_in_Chile",
+        "http://dbpedia.org/resource/Category:Tsunamis_in_Japan",
+        "http://dbpedia.org/resource/Category:Tsunamis_in_New_Zealand",
+        "http://dbpedia.org/resource/Category:Tsunamis_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1335.0923"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_submarine_Hyatt"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> submarine Condell (S23)",
+        "<B>Chilean</B> submarine Hyatt (S23)",
+        "HMS Condell",
+        "Hyatt (S23)"
+      ],
+      "label": [
+        "<B>Chilean</B> submarine Hyatt"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_submarine_Hyatt"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973_ships",
+        "http://dbpedia.org/resource/Category:O'Brien-class_submarines_(1972)",
+        "http://dbpedia.org/resource/Category:Ships_built_in_Barrow-in-Furness"
+      ]
+    },
+    {
+      "score": [
+        "1322.1649"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_hawk"
+      ],
+      "redirectlabel": [
+        "Accipiter bicolor chilensis",
+        "Accipiter chilensis",
+        "Accipter chilensis",
+        "<B>Chilean</B> Hawk"
+      ],
+      "comment": [
+        "The <B>Chilean</B> hawk (Accipiter chilensis) is a bird of prey species belonging to the typical hawks. It"
+      ],
+      "label": [
+        "<B>Chilean</B> hawk"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_hawk"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Accipiter",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1864",
+        "http://dbpedia.org/resource/Category:Birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Southern_Andes",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Christian_Ludwig_Landbeck",
+        "http://dbpedia.org/resource/Category:True_hawks"
+      ]
+    },
+    {
+      "score": [
+        "1316.994"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Swedes"
+      ],
+      "redirectlabel": [
+        "<B>Chileans</B> in Sweden",
+        "Swedes with <B>Chilean</B> background"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Chilean</B> Swedes are <B>Chilean</B> immigrants in Sweden and citizens of Sweden who are of <B>Chilean</B> ancestry."
+      ],
+      "label": [
+        "<B>Chilean</B> Swedes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Swedes"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_diaspora",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Sweden",
+        "http://dbpedia.org/resource/Category:Swedish_people_of_Chilean_descent"
+      ]
+    },
+    {
+      "score": [
+        "1314.873"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_transition_to_democracy"
+      ],
+      "redirectlabel": [
+        "Bachelet administration",
+        "Bachelet government",
+        "<B>Chile's</B> transition to democracy",
+        "<B>Chilean</B> return to democracy",
+        "History of <B>Chile</B> (1990-)",
+        "Restoration of democracy in <B>Chile</B>",
+        "Transition to democracy (<B>Chile</B>)"
+      ],
+      "comment": [
+        "The <B>Chilean</B> transition to democracy began when a Constitution establishing a transition itinerary"
+      ],
+      "label": [
+        "<B>Chilean</B> transition to democracy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_transition_to_democracy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_in_Chile",
+        "http://dbpedia.org/resource/Category:Augusto_Pinochet",
+        "http://dbpedia.org/resource/Category:Democratization",
+        "http://dbpedia.org/resource/Category:Military_dictatorship_of_Chile_(1973–1990)",
+        "http://dbpedia.org/resource/Category:Political_history_of_Chile",
+        "http://dbpedia.org/resource/Category:Political_movements_in_Chile",
+        "http://dbpedia.org/resource/Category:Revolutions_of_1989"
+      ]
+    },
+    {
+      "score": [
+        "1309.5277"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_icebreaker_Almirante_Óscar_Viel"
+      ],
+      "redirectlabel": [
+        "Almirante Óscar Viel (AP-46)",
+        "CCGS Norman McLeod Rogers",
+        "CNS Almirante Viel",
+        "<B>Chilean</B> icebreaker Contraalmirante Oscar Viel Toro",
+        "<B>Chilean</B> icebreaker contraalmirante oscar viel toro",
+        "Contraalmirante Oscar Viel Toro",
+        "Contre-Almirante Oscar Viel Toro",
+        "IMO 6822137"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "Almirante Óscar Viel is an icebreaker in service with the <B>Chilean</B> Navy since 1995. Originally in"
+      ],
+      "label": [
+        "<B>Chilean</B> icebreaker Almirante Óscar Viel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_icebreaker_Almirante_Óscar_Viel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_ships",
+        "http://dbpedia.org/resource/Category:Icebreakers_of_the_Chilean_Navy",
+        "http://dbpedia.org/resource/Category:Ships_built_in_Quebec"
+      ]
+    },
+    {
+      "score": [
+        "1308.387"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_recluse_spider"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> corner spider",
+        "<B>Chilean</B> recluse",
+        "Loxosceles laeta"
+      ],
+      "comment": [
+        "The <B>Chilean</B> recluse spider is a venomous spider, Loxosceles laeta, of the family Sicariidae"
+      ],
+      "label": [
+        "<B>Chilean</B> recluse spider"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_recluse_spider"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fauna_of_Chile",
+        "http://dbpedia.org/resource/Category:Sicariidae",
+        "http://dbpedia.org/resource/Category:Spiders_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1308.149"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1989_Chilean_general_election"
+      ],
+      "redirectlabel": [
+        "1989 <B>Chilean</B> presidential election",
+        "<B>Chile</B> presidential election, 1989",
+        "<B>Chilean</B> general election, 1989",
+        "<B>Chilean</B> presidential election, 1989"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Chile</B> on 14 December 1989, bringing an end to the military regime"
+      ],
+      "label": [
+        "1989 <B>Chilean</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1989_Chilean_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_elections_in_Chile",
+        "http://dbpedia.org/resource/Category:1989_in_Chile",
+        "http://dbpedia.org/resource/Category:December_1989_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Elections_in_Chile",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1308.0016"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Carlos_Muñoz_(Chilean_footballer)"
+      ],
+      "redirectlabel": [
+        "Carlos Munoz (<B>Chilean</B> footballer)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Carlos Andrés Muñoz Rojas (Spanish pronunciation: [ˈkaɾloh muˈɲoh ˈroxah], born 21 April 1989) is a <B>Chilean</B> footballer that plays for Cobresal as a striker."
+      ],
+      "label": [
+        "Carlos Muñoz (<B>Chilean</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Carlos_Muñoz_(Chilean_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1989_births",
+        "http://dbpedia.org/resource/Category:2011_Copa_América_players",
+        "http://dbpedia.org/resource/Category:Al_Ahli_Club_(Dubai)_players",
+        "http://dbpedia.org/resource/Category:Argentine_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Association_football_forwards",
+        "http://dbpedia.org/resource/Category:Baniyas_Club_players",
+        "http://dbpedia.org/resource/Category:C.D._Antofagasta_footballers",
+        "http://dbpedia.org/resource/Category:Chile_international_footballers",
+        "http://dbpedia.org/resource/Category:Chile_youth_international_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_Argentina",
+        "http://dbpedia.org/resource/Category:Chilean_expatriate_sportspeople_in_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:Chilean_footballers",
+        "http://dbpedia.org/resource/Category:Cobresal_footballers",
+        "http://dbpedia.org/resource/Category:Colo-Colo_footballers",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Argentina",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:O'Higgins_F.C._footballers",
+        "http://dbpedia.org/resource/Category:Outfield_association_footballers_who_played_in_goal",
+        "http://dbpedia.org/resource/Category:People_from_Valparaíso",
+        "http://dbpedia.org/resource/Category:Primera_B_de_Chile_players",
+        "http://dbpedia.org/resource/Category:Santiago_Wanderers_footballers",
+        "http://dbpedia.org/resource/Category:Sportspeople_from_Valparaíso",
+        "http://dbpedia.org/resource/Category:Talleres_de_Córdoba_footballers",
+        "http://dbpedia.org/resource/Category:Tercera_División_de_Chile_players",
+        "http://dbpedia.org/resource/Category:UAE_Pro_League_players",
+        "http://dbpedia.org/resource/Category:Unión_Española_footballers",
+        "http://dbpedia.org/resource/Category:Unión_Quilpué_footballers"
+      ]
+    },
+    {
+      "score": [
+        "1300.1382"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/24_horas_(Chilean_TV_program)"
+      ],
+      "redirectlabel": [
+        "24 Horas (<B>Chilean</B> TV channel)",
+        "24 Horas (<B>Chilean</B> TV program)",
+        "24 Horas (<B>Chilean</B> newscast)",
+        "24 horas (<B>Chile</B>)",
+        "24 horas al día"
+      ],
+      "label": [
+        "24 horas (<B>Chilean</B> TV program)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/24_horas_(Chilean_TV_program)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_Chilean_television_series_debuts",
+        "http://dbpedia.org/resource/Category:1990s_Chilean_television_series",
+        "http://dbpedia.org/resource/Category:2000s_Chilean_television_series",
+        "http://dbpedia.org/resource/Category:2010s_Chilean_television_series",
+        "http://dbpedia.org/resource/Category:2020s_Chilean_television_series",
+        "http://dbpedia.org/resource/Category:Chilean_television_news_shows",
+        "http://dbpedia.org/resource/Category:Chilean_television_shows",
+        "http://dbpedia.org/resource/Category:Flagship_evening_news_shows",
+        "http://dbpedia.org/resource/Category:Televisión_Nacional_de_Chile_original_programming"
+      ]
+    },
+    {
+      "score": [
+        "1286.5466"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_horse"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Corralero",
+        "<B>Chilean</B> Horse"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Corralero or <B>Chilean</B> Criollo (Spanish: Caballo de Pura Raza <B>Chilena</B>) is the <B>Chilean</B>"
+      ],
+      "label": [
+        "<B>Chilean</B> horse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_horse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Horse_breeds",
+        "http://dbpedia.org/resource/Category:Horse_breeds_originating_in_Chile",
+        "http://dbpedia.org/resource/Category:Rodeo_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1283.2382"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Brazilians"
+      ],
+      "redirectlabel": [
+        "Brazilian <B>Chilean</B>",
+        "<B>Chilean</B> Brazilian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Chilean</B> Brazilians (Portuguese: <B>Chileno</B>-brasileiros, Spanish: <B>Chileno</B>-brasileños) are Brazilian"
+      ],
+      "label": [
+        "<B>Chilean</B> Brazilians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Chilean_descent",
+        "http://dbpedia.org/resource/Category:Chilean_diaspora",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1281.0312"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_ship_Almirante_Latorre"
+      ],
+      "redirectlabel": [
+        "Almirante Latorre (FFG 14)",
+        "<B>Chilean</B> frigate Almirante Latorre",
+        "<B>Chilean</B> frigate Almirante Latorre (FFG-14)",
+        "<B>Chilean</B> ship almirante latorre"
+      ],
+      "label": [
+        "<B>Chilean</B> ship Almirante Latorre"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_ship_Almirante_Latorre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_Navy_ship_names"
+      ]
+    },
+    {
+      "score": [
+        "1280.3256"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_destroyer_Teniente_Serrano_(1896)"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> destroyer Serrano",
+        "<B>Chilean</B> destroyer Serrano (1896)",
+        "<B>Chilean</B> torpedo boat Teniente Serrano",
+        "Teniente Serrano"
+      ],
+      "label": [
+        "<B>Chilean</B> destroyer Teniente Serrano (1896)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_destroyer_Teniente_Serrano_(1896)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1896_ships",
+        "http://dbpedia.org/resource/Category:Capitán_Orella-class_destroyers"
+      ]
+    },
+    {
+      "score": [
+        "1277.777"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Matorral"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Sclerophyll",
+        "<B>Chilean</B> matorral"
+      ],
+      "comment": [
+        "The <B>Chilean</B> Matorral (NT1201) is a terrestrial ecoregion of central <B>Chile</B>, located on the west"
+      ],
+      "label": [
+        "<B>Chilean</B> Matorral"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Matorral"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_Matorral",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Chile",
+        "http://dbpedia.org/resource/Category:Flora_of_Chile",
+        "http://dbpedia.org/resource/Category:Mediterranean_forests,_woodlands,_and_scrub",
+        "http://dbpedia.org/resource/Category:Neotropical_ecoregions",
+        "http://dbpedia.org/resource/Category:Sclerophyll_forests"
+      ]
+    },
+    {
+      "score": [
+        "1275.3186"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_frigate_O'Higgins_(1816)"
+      ],
+      "redirectlabel": [
+        "Argentine frigate Buenos Aires (1826)",
+        "<B>Chilean</B> frigate O'Higgins",
+        "O'Higgins (<B>Chilean</B> frigate)",
+        "O'Higgins (frigate)"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "O'Higgins was a <B>Chilean</B> frigate famous for her actions under Captain Lord Cochrane."
+      ],
+      "label": [
+        "<B>Chilean</B> frigate O'Higgins (1816)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_frigate_O'Higgins_(1816)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1816_ships",
+        "http://dbpedia.org/resource/Category:First_Chilean_Navy_Squadron",
+        "http://dbpedia.org/resource/Category:Frigates_of_the_Spanish_Navy",
+        "http://dbpedia.org/resource/Category:Maritime_incidents_in_1826",
+        "http://dbpedia.org/resource/Category:Maritime_incidents_in_Chile",
+        "http://dbpedia.org/resource/Category:Sailing_frigates_of_the_Chilean_Navy",
+        "http://dbpedia.org/resource/Category:Ships_built_in_Russia",
+        "http://dbpedia.org/resource/Category:Shipwrecks_in_the_Chilean_Sea"
+      ]
+    },
+    {
+      "score": [
+        "1274.5182"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Primera_B_de_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Primera Division B",
+        "<B>Chilean</B> Primera División B",
+        "Liga <B>Chilena</B> de Futbol: Primera B",
+        "Liga <B>Chilena</B> de Futbol: Segunda Division",
+        "Liga <B>Chilena</B> de Fútbol: Primera B",
+        "Primera B (<B>Chile</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "Campeonato Primera B (English: <B>Chilean</B> First B Division) is the second tier in the <B>Chilean</B> football"
+      ],
+      "label": [
+        "Primera B de <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Primera_B_de_Chile"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1952_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Chile",
+        "http://dbpedia.org/resource/Category:Primera_B_de_Chile",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1269.7997"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ugni_molinae"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Guava",
+        "<B>Chilean</B> cranberry",
+        "<B>Chilean</B> guava",
+        "Eugenia ugni",
+        "Murta or <B>Chilean</B> guava",
+        "Murtilla",
+        "Myrtus molinae",
+        "Myrtus ugni",
+        "New Zealand cranberry",
+        "Strawberry myrtle",
+        "Tazziberry",
+        "Ugni Molinae",
+        "Ugniberry",
+        "Uñi",
+        "Uñiberry"
+      ],
+      "comment": [
+        "Ugni molinae, commonly known as <B>Chilean</B> guava, or strawberry myrtle, is a shrub native to <B>Chile</B> and"
+      ],
+      "label": [
+        "Ugni molinae"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ugni_molinae"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Crops_originating_from_Argentina",
+        "http://dbpedia.org/resource/Category:Crops_originating_from_Chile",
+        "http://dbpedia.org/resource/Category:Flora_of_Argentina",
+        "http://dbpedia.org/resource/Category:Flora_of_Chile",
+        "http://dbpedia.org/resource/Category:Garden_plants_of_South_America",
+        "http://dbpedia.org/resource/Category:Myrtaceae",
+        "http://dbpedia.org/resource/Category:Rosids_of_Argentina",
+        "http://dbpedia.org/resource/Category:Rosids_of_Chile",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Nikolai_Turczaninow"
+      ]
+    },
+    {
+      "score": [
+        "1269.2314"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Spanish_Chileans"
+      ],
+      "redirectlabel": [
+        "Andalusian <B>Chilean</B>",
+        "Castilian <B>Chilean</B>",
+        "Catalan <B>Chilean</B>",
+        "Galician <B>Chilean</B>",
+        "Spanish <B>Chilean</B>",
+        "Spanish immigration to <B>Chile</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " not considered Spanish <B>Chileans</B> even though they form a large majority of the <B>Chilean</B> population"
+      ],
+      "label": [
+        "Spanish <B>Chileans</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Spanish_Chileans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_people_of_Spanish_descent",
+        "http://dbpedia.org/resource/Category:European_Chilean",
+        "http://dbpedia.org/resource/Category:Spanish_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Spanish_diaspora_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1265.8057"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_silver_rush"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> mining boom"
+      ],
+      "comment": [
+        "Between 1830 and 1850 <B>Chilean</B> silver mining grew at an unprecedented pace which transformed mining"
+      ],
+      "label": [
+        "<B>Chilean</B> silver rush"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_silver_rush"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Commodity_booms",
+        "http://dbpedia.org/resource/Category:History_of_Atacama_Region",
+        "http://dbpedia.org/resource/Category:History_of_Coquimbo_Region",
+        "http://dbpedia.org/resource/Category:History_of_mining_in_Chile",
+        "http://dbpedia.org/resource/Category:Silver_mining_in_Chile"
+      ]
+    },
+    {
+      "score": [
+        "1261.0432"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_tinamou"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Tinamou",
+        "Nothoprocta coquimbica",
+        "Nothoprocta perdicaria"
+      ],
+      "comment": [
+        "The <B>Chilean</B> tinamou (Nothoprocta perdicaria) is a type of tinamou commonly found in high altitude shrubland in subtropical regions of central <B>Chile</B>."
+      ],
+      "label": [
+        "<B>Chilean</B> tinamou"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_tinamou"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1830",
+        "http://dbpedia.org/resource/Category:Birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Nothoprocta",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Heinrich_von_Kittlitz",
+        "http://dbpedia.org/resource/Category:Tinamous_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1260.1581"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_pigeon"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Pigeon",
+        "Columba araucana",
+        "Patagioenas araucana"
+      ],
+      "comment": [
+        "The <B>Chilean</B> pigeon (Patagioenas araucana) is a species of bird in the family Columbidae.It is found"
+      ],
+      "label": [
+        "<B>Chilean</B> pigeon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_pigeon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1827",
+        "http://dbpedia.org/resource/Category:Birds_of_Chile",
+        "http://dbpedia.org/resource/Category:Patagioenas",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1260.0145"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Esteban_González_(Chilean_footballer)"
+      ],
+      "redirectlabel": [
+        "Chino Gonzalez",
+        "Chino González",
+        "Esteban Eduardo Gonzalez Herrera",
+        "Esteban Eduardo González",
+        "Esteban Eduardo González Herrera",
+        "Esteban Gonzalez (<B>Chilean</B> footballer)"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Esteban González (born 22 May 1982) is a <B>Chilean</B> football midfielder who currently plays for O'Higgins in the Primera División de <B>Chile</B>."
+      ],
+      "label": [
+        "Esteban González (<B>Chilean</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Esteban_González_(Chilean_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982_births",
+        "http://dbpedia.org/resource/Category:Association_football_midfielders",
+        "http://dbpedia.org/resource/Category:C.D._Antofagasta_footballers",
+        "http://dbpedia.org/resource/Category:C.D._Huachipato_footballers",
+        "http://dbpedia.org/resource/Category:Chilean_Primera_División_players",
+        "http://dbpedia.org/resource/Category:Chilean_football_managers",
+        "http://dbpedia.org/resource/Category:Chilean_footballers",
+        "http://dbpedia.org/resource/Category:Club_Deportivo_Palestino_footballers",
+        "http://dbpedia.org/resource/Category:Cobreloa_footballers",
+        "http://dbpedia.org/resource/Category:Deportes_Concepción_(Chile)_footballers",
+        "http://dbpedia.org/resource/Category:Deportes_Concepción_(Chile)_managers",
+        "http://dbpedia.org/resource/Category:Footballers_from_Santiago",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:O'Higgins_F.C._footballers",
+        "http://dbpedia.org/resource/Category:Puerto_Montt_footballers",
+        "http://dbpedia.org/resource/Category:Rangers_de_Talca_footballers",
+        "http://dbpedia.org/resource/Category:Segunda_División_Profesional_de_Chile_managers",
+        "http://dbpedia.org/resource/Category:Universidad_de_Concepción_footballers",
+        "http://dbpedia.org/resource/Category:Unión_Española_footballers",
+        "http://dbpedia.org/resource/Category:Ñublense_footballers"
+      ]
+    },
+    {
+      "score": [
+        "1255.383"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Chile"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> folk music",
+        "<B>Chilean</B> jazz",
+        "<B>Chilean</B> music"
+      ],
+      "comment": [
+        "<B>Chilean</B> music refers to all kinds of music developed in <B>Chile</B>, or by <B>Chileans</B> in other countries"
+      ],
+      "label": [
+        "Music of <B>Chile</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Chile"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_music"
+      ]
+    },
+    {
+      "score": [
+        "1250.1952"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_destroyer_Almirante_Condell"
+      ],
+      "redirectlabel": [
+        "Almirante Condell (1912)",
+        "CNS Almirante Condell (1914)",
+        "CNS Almirante Condell (destroyer)",
+        "<B>Chilean</B> destroyer Almirante Condell (1912)",
+        "<B>Chilean</B> destroyer almirante condell"
+      ],
+      "label": [
+        "<B>Chilean</B> destroyer Almirante Condell"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_destroyer_Almirante_Condell"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912_ships",
+        "http://dbpedia.org/resource/Category:Almirante_Lynch-class_destroyers_(1912)",
+        "http://dbpedia.org/resource/Category:Ships_built_on_the_Isle_of_Wight"
+      ]
+    },
+    {
+      "score": [
+        "1239.282"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chilean_Mexicans"
+      ],
+      "redirectlabel": [
+        "<B>Chilean</B> Mexican",
+        "<B>Chilean</B> immigration to Mexico"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "There is a small <B>Chilean</B> diaspora in Mexico. According to the 2010 census, there were 5,267"
+      ],
+      "label": [
+        "<B>Chilean</B> Mexicans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chilean_Mexicans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_diaspora",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Mexico",
+        "http://dbpedia.org/resource/Category:Immigration_to_Mexico",
+        "http://dbpedia.org/resource/Category:Mexican_people_of_Chilean_descent"
+      ]
+    }
+  ]
+}

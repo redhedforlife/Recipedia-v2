@@ -1,0 +1,4394 @@
+{
+  "docs": [
+    {
+      "score": [
+        "22149.33"
+      ],
+      "refCount": [
+        "5896"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia"
+      ],
+      "redirectlabel": [
+        "Biodiversity in <B>Malaysia</B>",
+        "Conservation in <B>Malaysia</B>",
+        "Conservation issues in <B>Malaysia</B>",
+        "Etymology of <B>Malaysia</B>",
+        "Federation of <B>Malaysia</B>",
+        "Federation state of <B>Malaysia</B>",
+        "ISO 3166-1:MY",
+        "Infrastructure in <B>Malaysia</B>",
+        "Kingdom of <B>Malaysia</B>",
+        "M'sia",
+        "<B>MALAYSIA</B>",
+        "Malaisie",
+        "Malaixiya",
+        "<B>Malasia</B>",
+        "<B>Malayasia</B>",
+        "<B>Malaysia</B> sports",
+        "<B>Malaysian</B> Federation",
+        "<B>Malaysian</B> Kingdom",
+        "<B>Malyasia</B>",
+        "Maylasia",
+        "<B>Maylaysia</B>",
+        "Name of <B>Malaysia</B>",
+        "Persekutuan <B>Malaysia</B>",
+        "Republic of <B>Malaysia</B>",
+        "ماليزيا",
+        "மலேசியா",
+        "马来西亚"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " (<B>Malaysian</B> Borneo). Peninsular <B>Malaysia</B> shares a land and maritime border with Thailand and maritime"
+      ],
+      "label": [
+        "<B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Commonwealth_monarchies",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Developing_8_Countries_member_states",
+        "http://dbpedia.org/resource/Category:Federal_monarchies",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:Malay-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Malaysia",
+        "http://dbpedia.org/resource/Category:Member_states_of_ASEAN",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1963",
+        "http://dbpedia.org/resource/Category:World_War_II_sites"
+      ]
+    },
+    {
+      "score": [
+        "6901.4053"
+      ],
+      "refCount": [
+        "390"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_national_under-23_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> Under-23 Team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Malaysia</B> national under-23 football team (Malay: Pasukan bola sepak kebangsaan bawah-23 <B>Malaysia</B>"
+      ],
+      "label": [
+        "<B>Malaysia</B> national under-23 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_national_under-23_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_under-23_association_football_teams",
+        "http://dbpedia.org/resource/Category:Malaysia_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "6458.08"
+      ],
+      "refCount": [
+        "906"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_national_football_team"
+      ],
+      "redirectlabel": [
+        "History of the <B>Malaysia</B> national football team",
+        "<B>Malaysia</B> men's national football team",
+        "<B>Malaysia</B> men's national soccer team",
+        "<B>Malaysia</B> national football team 2015",
+        "<B>Malaysia</B> national soccer team",
+        "<B>Malaysian</B> national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " month before the insitution of <B>Malaysia</B>. The team is officially nicknamed Harimau Malaya in reference to the <B>Malayan</B> tiger."
+      ],
+      "label": [
+        "<B>Malaysia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysia_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "4191.6133"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Islamic_Party"
+      ],
+      "redirectlabel": [
+        "Controversies surrounding the <B>Malaysian</B> Islamic Party",
+        "Islamic Party of <B>Malaysia</B>",
+        "<B>Malaysian</B> Islamic Party (PAS)",
+        "Pan-<B>Malayan</B> Islamic Party",
+        "Pan-<B>Malaysian</B> Islamic Party",
+        "Pan <B>Malaysian</B> Islamic Party",
+        "Parti Islam Se-<B>Malaysia</B>",
+        "Parti Islam SeMalaysia",
+        "Parti Islam Semalaysia",
+        "Parti Islam se-<B>Malaysia</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Islamic Party (PAS; Malay: Parti Islam Se-<B>Malaysia</B>) is an Islamist political party in"
+      ],
+      "label": [
+        "<B>Malaysian</B> Islamic Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Islamic_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Malaya",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Singapore",
+        "http://dbpedia.org/resource/Category:Far-right_politics_in_Asia",
+        "http://dbpedia.org/resource/Category:Islamic_organizations_established_in_1951",
+        "http://dbpedia.org/resource/Category:Islamic_political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Islamism",
+        "http://dbpedia.org/resource/Category:Islamist_groups",
+        "http://dbpedia.org/resource/Category:Malaysian_Islamic_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1951",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "4085.8545"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Malay"
+      ],
+      "redirectlabel": [
+        "Bahasa <B>Malaysia</B>",
+        "Bahasa <B>Malaysian</B>",
+        "Bahasa Melayu <B>Malaysia</B>",
+        "Bahasa Melayu Standard",
+        "Basa <B>Malaysia</B>",
+        "ISO 639:zsm",
+        "<B>Malasian</B> language",
+        "<B>Malaysian</B> (language)",
+        "<B>Malaysian</B> Malay (language)",
+        "<B>Malaysian</B> language",
+        "Standard Malay",
+        "Standard Malay (<B>Malaysian</B>)",
+        "Standard Malay language"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Malays (<B>Malaysian</B>: Melayu <B>Malaysia</B>, Jawi: ملايو مليسيا) are <B>Malaysians</B> of Malay ethnicity"
+      ],
+      "label": [
+        "<B>Malaysian</B> Malay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Malay"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Malay_language",
+        "http://dbpedia.org/resource/Category:Standard_languages",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages"
+      ]
+    },
+    {
+      "score": [
+        "4063.1272"
+      ],
+      "refCount": [
+        "110"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Malaysia"
+      ],
+      "redirectlabel": [
+        "Federal Government of <B>Malaysia</B>",
+        "Federal government of <B>Malaysia</B>",
+        "<B>Malaysian</B> Government",
+        "<B>Malaysian</B> federal government",
+        "<B>Malaysian</B> government",
+        "President of <B>Malaysia</B>",
+        "President of <B>malaysia</B>"
+      ],
+      "comment": [
+        "The Government of <B>Malaysia</B> officially the Federal Government of <B>Malaysia</B> (Malay: Kerajaan"
+      ],
+      "label": [
+        "Government of <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_governments",
+        "http://dbpedia.org/resource/Category:Government_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "3836.3328"
+      ],
+      "refCount": [
+        "233"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malayan_Emergency"
+      ],
+      "redirectlabel": [
+        "Anti-British national liberation war",
+        "Darurat",
+        "Darurat Malaya",
+        "First <B>Malayan</B> Emergency",
+        "Malay Emergency",
+        "Malaya Emergency",
+        "<B>Malayan</B> Communist Insurgency",
+        "<B>Malayan</B> conflict",
+        "<B>Malayan</B> emergency",
+        "<B>Malaysian</B> Civil War",
+        "<B>Malaysian</B> Emergency",
+        "Operation Firedog",
+        "The MCP and the <B>Malayan</B> Emergency",
+        "War crimes in the <B>Malayan</B> Emergency"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Malayan</B> Emergency (Malay: Darurat Malaya) was a guerrilla war fought in the Federation of"
+      ],
+      "label": [
+        "<B>Malayan</B> Emergency"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malayan_Emergency"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_in_military_history",
+        "http://dbpedia.org/resource/Category:British_Empire",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Australia",
+        "http://dbpedia.org/resource/Category:Communism_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Communism_in_Singapore",
+        "http://dbpedia.org/resource/Category:History_of_the_Royal_Marines",
+        "http://dbpedia.org/resource/Category:Insurgencies_in_Asia",
+        "http://dbpedia.org/resource/Category:Malayan_Emergency",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_British_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Rhodesia",
+        "http://dbpedia.org/resource/Category:Wars_involving_pre-independence_Malaysia",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "3808.8538"
+      ],
+      "refCount": [
+        "111"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Chinese_Association"
+      ],
+      "redirectlabel": [
+        "<B>Malayan</B> Chinese Assocation",
+        "<B>Malayan</B> Chinese Association",
+        "Persatuan Cina <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Malaysia</B> that seeks to represents the <B>Malaysian</B> Chinese ethnicity; it is one of the three major"
+      ],
+      "label": [
+        "<B>Malaysian</B> Chinese Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Chinese_Association"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_establishments_in_Malaya",
+        "http://dbpedia.org/resource/Category:Anti-communist_parties",
+        "http://dbpedia.org/resource/Category:Chinese-Malaysian_culture",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Singapore",
+        "http://dbpedia.org/resource/Category:Malaysian_Chinese_Association",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1949",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "3573.0884"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Angkatan Tentera <B>Malaysia</B>",
+        "Armed Forces of Maylasia",
+        "<B>Malaysia</B>/Military",
+        "<B>Malaysian</B> Battilion",
+        "<B>Malaysian</B> Military Scandals",
+        "<B>Malaysian</B> military",
+        "<B>Maylasian</B> Armed Forces",
+        "<B>Maylasian</B> Military",
+        "Military of <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Armed Forces (MAF, Malay: Angkatan Tentera <B>Malaysia</B>-ATM; Jawi:اڠكتن تنترا مليسيا"
+      ],
+      "label": [
+        "<B>Malaysian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Military_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1933",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defence_(Malaysia)"
+      ]
+    },
+    {
+      "score": [
+        "3444.0298"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_English"
+      ],
+      "redirectlabel": [
+        "En-MY",
+        "English language in <B>Malaysia</B>",
+        "Malay English",
+        "<B>Malaysian</B> English language",
+        "<B>Malaysian</B> English vocabulary"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " used and spoken in <B>Malaysia</B>. While <B>Malaysian</B> English can encompass a range of English spoken in"
+      ],
+      "label": [
+        "<B>Malaysian</B> English"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_English"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dialects_of_English",
+        "http://dbpedia.org/resource/Category:Languages_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "3322.8108"
+      ],
+      "refCount": [
+        "220"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Snack"
+      ],
+      "redirectlabel": [
+        "Indonesian snacks",
+        "List of <B>Malaysian</B> snacks",
+        "<B>Malaysian</B> snacks",
+        "Midnight snack",
+        "Pogle bait",
+        "Power snack",
+        "Snack food",
+        "Snack foods",
+        "Snack mixes",
+        "Snack product",
+        "Snackfood",
+        "Snacks",
+        "Taiwanese snacks",
+        "US snacks"
+      ],
+      "comment": [
+        "A snack is a small service of food and generally eaten between meals. Snacks come in a variety of forms including packaged snack foods and other processed foods, as well as items made from fresh ingredients at home. Beverages, such as coffee, are not generally considered snacks although they may be consumed along with or in lieu of snack foods. A snack eaten shortly before going to bed or during the night may be called a \"bedtime snack\", \"late night snack\", or \"(mid)night snack\"."
+      ],
+      "label": [
+        "Snack"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Snack"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Convenience_foods",
+        "http://dbpedia.org/resource/Category:Meals",
+        "http://dbpedia.org/resource/Category:Snack_foods"
+      ]
+    },
+    {
+      "score": [
+        "3292.5176"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Army"
+      ],
+      "redirectlabel": [
+        "Army of <B>Malaysia</B>",
+        "Army of Maylasia",
+        "<B>Malaysia</B> Army",
+        "<B>Malaysian</B> Army Training and Doctrine Command Headquarters (TRADOC)",
+        "<B>Malaysian</B> army",
+        "Royal <B>Malaysia</B> Army",
+        "Royal <B>Malaysian</B> Army",
+        "Tentera Darat <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Army (Malay: Tentera Darat <B>Malaysia</B>; Jawi: تنترا دارت مليسيا) is the land component"
+      ],
+      "label": [
+        "<B>Malaysian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Malaysian_Army",
+        "http://dbpedia.org/resource/Category:Military_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1933",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defence_(Malaysia)"
+      ]
+    },
+    {
+      "score": [
+        "3236.2053"
+      ],
+      "refCount": [
+        "155"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Public_Works_Department"
+      ],
+      "redirectlabel": [
+        "Jabatan Kerja Raya"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Public Works Department (JKR; Malay: Jabatan Kerja Raya <B>Malaysia</B>) is the federal"
+      ],
+      "label": [
+        "<B>Malaysian</B> Public Works Department"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Public_Works_Department"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1872_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Federal_ministries,_departments_and_agencies_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_1872",
+        "http://dbpedia.org/resource/Category:Malaysian_Public_Works_Department",
+        "http://dbpedia.org/resource/Category:Ministry_of_Works_(Malaysia)"
+      ]
+    },
+    {
+      "score": [
+        "3235.3918"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysians"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> people",
+        "<B>Malaysians</B> people",
+        "Msians",
+        "People of <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " residents and overseas <B>Malaysians</B> may also claim a <B>Malaysian</B> identity."
+      ],
+      "label": [
+        "<B>Malaysians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_people"
+      ]
+    },
+    {
+      "score": [
+        "3178.0088"
+      ],
+      "refCount": [
+        "122"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Federal_Route_1"
+      ],
+      "redirectlabel": [
+        "Jalan Gopeng, Perak",
+        "Jalan Gopeng",
+        "<B>Malaysian</B> JKR roads 1"
+      ],
+      "typeName": [
+        "Road",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure",
+        "RouteOfTransportation"
+      ],
+      "comment": [
+        "The Federal Route 1 is the first federal road in <B>Malaysia</B>, and also the oldest federal road in"
+      ],
+      "label": [
+        "<B>Malaysia</B> Federal Route 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Federal_Route_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Road",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure",
+        "http://dbpedia.org/ontology/RouteOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_Federal_Roads"
+      ]
+    },
+    {
+      "score": [
+        "3127.6458"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Chinese"
+      ],
+      "redirectlabel": [
+        "Chinese-<B>Malaysian</B>",
+        "Chinese Malay",
+        "Chinese Malays",
+        "Chinese <B>Malaysian</B>",
+        "Chinese <B>Malaysian</B> surname",
+        "Chinese <B>Malaysians</B>",
+        "Chinese community in <B>Malaysia</B>",
+        "Chinese from <B>Malaysia</B>",
+        "Chinese in Malaya",
+        "Chinese in <B>Malaysia</B>",
+        "Chinese malay",
+        "Chinese malays",
+        "Chinese people in <B>Malaysia</B>",
+        "Hakka <B>Malaysians</B>",
+        "History of the <B>Malaysian</B> Chinese",
+        "<B>Malaysian</B> Chinese people",
+        "<B>Malaysians</B> of Chinese origin",
+        "Orang Cina <B>Malaysia</B>",
+        "馬來西亞華人",
+        "马来西亚华人"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Chinese people or Chinese <B>Malaysians</B> (Chinese: 马来西亚华人) is a local ethnic group in"
+      ],
+      "label": [
+        "<B>Malaysian</B> Chinese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Chinese"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:China–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Chinese_diaspora_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Sabah",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Sarawak",
+        "http://dbpedia.org/resource/Category:Immigration_to_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Chinese_descent"
+      ]
+    },
+    {
+      "score": [
+        "3111.2798"
+      ],
+      "refCount": [
+        "76"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Federal_Route_5"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> JKR roads 5"
+      ],
+      "typeName": [
+        "Road",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure",
+        "RouteOfTransportation"
+      ],
+      "comment": [
+        " west coast of Peninsular <B>Malaysia</B>, <B>Malaysia</B>. The 655.85 kilometres (408 mi) federal highway runs from"
+      ],
+      "label": [
+        "<B>Malaysia</B> Federal Route 5"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Federal_Route_5"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Road",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure",
+        "http://dbpedia.org/ontology/RouteOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Expressways_and_highways_in_the_Klang_Valley",
+        "http://dbpedia.org/resource/Category:Malaysian_Federal_Roads",
+        "http://dbpedia.org/resource/Category:Roads_in_Selangor"
+      ]
+    },
+    {
+      "score": [
+        "3030.1426"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_cuisine"
+      ],
+      "redirectlabel": [
+        "Borneo cuisine",
+        "Cuisine - <B>Malaysia</B>",
+        "Cuisine of <B>Malaysia</B>",
+        "History of <B>Malaysian</B> cuisine",
+        "<B>Malaysian</B> Cuisine",
+        "<B>Malaysian</B> desserts",
+        "<B>Malaysian</B> desserts and sweets",
+        "<B>Malaysian</B> food"
+      ],
+      "comment": [
+        "<B>Malaysian</B> cuisine consists of cooking traditions and practices found in <B>Malaysia</B>, and reflects the"
+      ],
+      "label": [
+        "<B>Malaysian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_cuisine",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "3018.2283"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Mandarin"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> Chinese language",
+        "<B>Malaysian</B> Mandarin Chinese"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " Huáyǔ) is a variety of Mandarin Chinese spoken in <B>Malaysia</B> by ethnic Chinese in <B>Malaysia</B>. <B>Malaysian</B>"
+      ],
+      "label": [
+        "<B>Malaysian</B> Mandarin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Mandarin"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chinese-Malaysian_culture",
+        "http://dbpedia.org/resource/Category:Languages_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Mandarin_Chinese"
+      ]
+    },
+    {
+      "score": [
+        "2992.5576"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_ringgit"
+      ],
+      "redirectlabel": [
+        "10 sen",
+        "20 sen",
+        "50 sen",
+        "Commemorative banknotes of the <B>Malaysian</B> ringgit",
+        "Currency of <B>Malaysia</B>",
+        "ISO 4217:MYR",
+        "MYR",
+        "Malay ringgit",
+        "<B>Malaysia</B> Ringgits",
+        "<B>Malaysian</B> Ringgit",
+        "<B>Malaysian</B> dollar",
+        "<B>Malaysian</B> ringgits",
+        "<B>Malaysian</B> sen",
+        "Ringgit",
+        "Ringgit <B>Malaysia</B>",
+        "Ringgit Sign",
+        "Ringgits",
+        "மலேசியா ரின்க்கிட்",
+        "马来西亚令吉"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> ringgit (; plural: ringgit; symbol: RM; currency code: MYR; formerly the <B>Malaysian</B>"
+      ],
+      "label": [
+        "<B>Malaysian</B> ringgit"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_ringgit"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Circulating_currencies",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1967",
+        "http://dbpedia.org/resource/Category:Currencies_of_Asia",
+        "http://dbpedia.org/resource/Category:Currencies_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Dollar"
+      ]
+    },
+    {
+      "score": [
+        "2974.0537"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Peninsular_Malaysia"
+      ],
+      "redirectlabel": [
+        "Continental <B>Malaysia</B>",
+        "Mainland <B>Malaysia</B>",
+        "<B>Malaysian</B> Continent",
+        "<B>Malaysian</B> Mainland",
+        "<B>Malaysian</B> Peninsular",
+        "<B>Malaysian</B> continent",
+        "<B>Malaysian</B> mainland",
+        "Peninsula <B>Malaysia</B>",
+        "Peninsular Malaya",
+        "Semenanjung <B>Malaysia</B>",
+        "West <B>Malaysia</B>",
+        "Western <B>Malaysia</B>"
+      ],
+      "comment": [
+        "Peninsular <B>Malaysia</B>, also known as Malaya or West <B>Malaysia</B>, is the part of <B>Malaysia</B> which lies on"
+      ],
+      "label": [
+        "Peninsular <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Peninsular_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Geography_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Malay_Peninsula",
+        "http://dbpedia.org/resource/Category:Malaya",
+        "http://dbpedia.org/resource/Category:Metropolitan_or_continental_parts_of_states",
+        "http://dbpedia.org/resource/Category:Peninsular_Malaysia",
+        "http://dbpedia.org/resource/Category:Peninsulas_of_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2964.395"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Malaysian_Navy"
+      ],
+      "redirectlabel": [
+        "List of ships of the Royal <B>Malaysian</B> Navy",
+        "<B>Malaysian</B> Navy",
+        "<B>Malaysian</B> navy",
+        "<B>Maylasian</B> Navy",
+        "Military Scandals in the <B>Malaysian</B> Navy",
+        "Navy of <B>Malaysia</B>",
+        "Royal <B>Malaysian</B> Navy Offshore Bases",
+        "TLDM"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Malaysian</B> Navy (RMN) (Malay: Tentera Laut Diraja <B>Malaysia</B>; TLDM; Jawi:تنترا لاوت دراج مليسيا) is the naval arm of the <B>Malaysian</B> Armed Forces."
+      ],
+      "label": [
+        "Royal <B>Malaysian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Malaysian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1934_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Military_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1934",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defence_(Malaysia)",
+        "http://dbpedia.org/resource/Category:Royal_Malaysian_Navy"
+      ]
+    },
+    {
+      "score": [
+        "2897.8955"
+      ],
+      "refCount": [
+        "66"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Federal_Route_3"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> JKR roads 3"
+      ],
+      "typeName": [
+        "Road",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure",
+        "RouteOfTransportation"
+      ],
+      "comment": [
+        "Federal Route 3 is a main federal road running along the east coast of Peninsula <B>Malaysia</B>. The 739"
+      ],
+      "label": [
+        "<B>Malaysia</B> Federal Route 3"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Federal_Route_3"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Road",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure",
+        "http://dbpedia.org/ontology/RouteOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_Federal_Roads"
+      ]
+    },
+    {
+      "score": [
+        "2876.643"
+      ],
+      "refCount": [
+        "159"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indonesia–Malaysia_confrontation"
+      ],
+      "redirectlabel": [
+        "Borneo Confrontation",
+        "Indonesia-<B>Malaysia</B> Confrontation",
+        "Indonesia-<B>Malaysia</B> confrontation",
+        "Indonesian-<B>Malaysian</B> Confrontation",
+        "Indonesian Confrontation",
+        "Indonesian confrontation",
+        "Indonesia–<B>Malaysia</B> Confrontation",
+        "Konfrontasi",
+        "<B>Malaysia</B>-Indonesia Confrontation",
+        "<B>Malaysia</B>-Indonesia confrontation",
+        "<B>Malaysia</B>–Indonesia confrontation"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Indonesia–<B>Malaysia</B> confrontation or Borneo confrontation (also known by its Indonesian/Malay"
+      ],
+      "label": [
+        "Indonesia–<B>Malaysia</B> confrontation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indonesia–Malaysia_confrontation"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_conflicts",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Guided_Democracy_in_Indonesia",
+        "http://dbpedia.org/resource/Category:History_of_Borneo",
+        "http://dbpedia.org/resource/Category:History_of_the_Royal_Marines",
+        "http://dbpedia.org/resource/Category:Indonesia–Malaysia_confrontation",
+        "http://dbpedia.org/resource/Category:Military_history_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Military_history_of_Singapore",
+        "http://dbpedia.org/resource/Category:Protests_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Sukarno",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Indonesia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Malaysia",
+        "http://dbpedia.org/resource/Category:Wars_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2687.7576"
+      ],
+      "refCount": [
+        "125"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Petaling_Jaya_City_FC"
+      ],
+      "redirectlabel": [
+        "MISC-MIFA",
+        "MISC-MIFA F.C.",
+        "<B>Malaysian</B> Indian FA",
+        "Petaling Jaya City F.C."
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " division of <B>Malaysian</B> football, the <B>Malaysia</B> Premier League. The club is known by its current name since 2019."
+      ],
+      "label": [
+        "Petaling Jaya City FC"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Petaling_Jaya_City_FC"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_associations_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Malaysia",
+        "http://dbpedia.org/resource/Category:MISC-MIFA",
+        "http://dbpedia.org/resource/Category:Malaysia_Premier_League_clubs",
+        "http://dbpedia.org/resource/Category:Malaysia_Super_League_clubs",
+        "http://dbpedia.org/resource/Category:Petaling_Jaya_City_FC"
+      ]
+    },
+    {
+      "score": [
+        "2630.0452"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Education_in_Malaysia"
+      ],
+      "redirectlabel": [
+        "E2Malaysia",
+        "Education in <B>malaysia</B>",
+        "Higher education in <B>Malaysia</B>",
+        "History of education in <B>Malaysia</B>",
+        "Issues in <B>Malaysian</B> Education",
+        "<B>Malaysia</B> - Education System",
+        "<B>Malaysia</B> Education",
+        "<B>Malaysian</B> Skills Certificate",
+        "<B>Malaysian</B> Skills Certification System",
+        "<B>Malaysian</B> school uniforms",
+        "<B>Malaysian</B> schools",
+        "Polytechnics In <B>Malaysia</B>",
+        "SMJK",
+        "Secondary education in <B>Malaysia</B>",
+        "Sekolah Kebangsaan",
+        "Sekolah Menengah Kebangsaan",
+        "Tertiary education in <B>Malaysia</B>",
+        "Types of School in <B>Malaysia</B>"
+      ],
+      "comment": [
+        "Education in <B>Malaysia</B> is overseen by the Ministry of Education (Kementerian Pendidikan). Although"
+      ],
+      "label": [
+        "Education in <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Education_in_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Education_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "2622.0747"
+      ],
+      "refCount": [
+        "79"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_United_Indigenous_Party"
+      ],
+      "redirectlabel": [
+        "BERSATU",
+        "Bersatu",
+        "Bersatu (separatist organization)",
+        "MPRMP",
+        "<B>Malaysia</B> United Native Party",
+        "PPBM",
+        "Parti Pribumi Bersatu <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Malaysian</B> United Indigenous Party or Parti Pribumi Bersatu <B>Malaysia</B> (BERSATU, also known as PPBM"
+      ],
+      "label": [
+        "<B>Malaysian</B> United Indigenous Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_United_Indigenous_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Islamic_political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_United_Indigenous_Party",
+        "http://dbpedia.org/resource/Category:Malaysian_nationalism",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2016",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "2621.1665"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Trust_Party_(Malaysia)"
+      ],
+      "redirectlabel": [
+        "AMANAH",
+        "<B>Malaysian</B> Worker's Party",
+        "<B>Malaysian</B> Workers' Party",
+        "<B>Malaysian</B> Workers Party",
+        "<B>Malaysian</B> Workers’ Party",
+        "National Trust Islamic Party (<B>Malaysia</B>)",
+        "Parti Amanah Negara",
+        "Parti Pekerja-Pekerja <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " progressive Islamist leaders of the Pan-<B>Malaysian</B> Islamic Party (PAS) which lost in the June 2015 party"
+      ],
+      "label": [
+        "National Trust Party (<B>Malaysia</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Trust_Party_(Malaysia)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1978_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Islamic_political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:National_Trust_Party_(Malaysia)",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1978",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "2508.9043"
+      ],
+      "refCount": [
+        "328"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/University_of_Otago"
+      ],
+      "redirectlabel": [
+        "10.11157",
+        "Otago <B>Malaysian</B> Students' Association",
+        "Otago University",
+        "Otago uni",
+        "Otago university",
+        "Scarfie",
+        "The University of Otago",
+        "University Of Otago",
+        "University of Otago (UOC)-CDHB",
+        "University of Otago Library",
+        "University of otago"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "The University of Otago (Māori: Te Whare Wānanga o Otāgo) is a collegiate university based in Dunedin, Otago, New Zealand. It scores highly for average research quality, and in 2006 was second in New Zealand only to the University of Auckland in the number of A-rated academic researchers it employs. In the past it has topped the New Zealand Performance Based Research Fund evaluation."
+      ],
+      "label": [
+        "University of Otago"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/University_of_Otago"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1860s_in_Dunedin",
+        "http://dbpedia.org/resource/Category:1869_establishments_in_New_Zealand",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1869",
+        "http://dbpedia.org/resource/Category:University_of_Otago"
+      ]
+    },
+    {
+      "score": [
+        "2432.0405"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Premier_League"
+      ],
+      "redirectlabel": [
+        "2001 <B>Malaysia</B> Premier 1 League",
+        "Liga Premier",
+        "<B>Malaysian</B> Premier League",
+        "<B>Malaysian</B> Premiere League",
+        "Premier League <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Malaysia</B>. The league replaced the former second-tier league Liga Perdana 2 in <B>Malaysian</B> football league"
+      ],
+      "label": [
+        "<B>Malaysia</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysia_Premier_League",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2004"
+      ]
+    },
+    {
+      "score": [
+        "2311.5105"
+      ],
+      "refCount": [
+        "69"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Super_League"
+      ],
+      "redirectlabel": [
+        "Liga Super",
+        "Liga Super <B>Malaysia</B>",
+        "M.League",
+        "<B>Malayasia</B> Super League",
+        "<B>Malaysian</B> Super League",
+        "Super League <B>Malaysia</B>",
+        "TM Liga Super"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Malaysia</B> Super League (Malay: Liga Super <B>Malaysia</B>) is the men's top professional football"
+      ],
+      "label": [
+        "<B>Malaysia</B> Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Super_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysia_Super_League",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_2004",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2290.1106"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Indians"
+      ],
+      "redirectlabel": [
+        "History of <B>Malaysian</B> Indians",
+        "Indian <B>Malaysian</B>",
+        "Indian <B>Malaysians</B>",
+        "Indians in <B>Malaysia</B>",
+        "<B>Malaysian</B> Indian",
+        "<B>Malaysians</B> of Indian origin"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Indians or Indian <B>Malaysians</B> (Tamil: மலேசிய இந்தியர்கள்) is a local ethnic group in"
+      ],
+      "label": [
+        "<B>Malaysian</B> Indians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Indians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Immigration_to_Malaysia",
+        "http://dbpedia.org/resource/Category:Indian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Indian_diaspora_in_Malaysia",
+        "http://dbpedia.org/resource/Category:India–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Indian_descent"
+      ]
+    },
+    {
+      "score": [
+        "2277.0508"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_eared_nightjar"
+      ],
+      "redirectlabel": [
+        "Capped Nightjar",
+        "Eurostopodus temminckii",
+        "Lesser Eared-nightjar",
+        "Lesser Nightjar",
+        "Lyncornis temminckii",
+        "<B>Malaysian</B> Eared-Nightjar",
+        "<B>Malaysian</B> Eared-nightjar",
+        "<B>Malaysian</B> Eared Nightjar",
+        "<B>Malaysian</B> Nightjar",
+        "<B>Malaysian</B> eared-nightjar",
+        "<B>Malaysian</B> nightjar"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> eared nightjar (Lyncornis temminckii) is a species of nightjar in the family"
+      ],
+      "label": [
+        "<B>Malaysian</B> eared nightjar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_eared_nightjar"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1838",
+        "http://dbpedia.org/resource/Category:Birds_of_Borneo",
+        "http://dbpedia.org/resource/Category:Lyncornis",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "2272.4485"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Airlines"
+      ],
+      "redirectlabel": [
+        "Enrich Loyalty Programme",
+        "History of <B>Malaysia</B> Airlines",
+        "MAS-Sistem Penerbangan <B>Malaysia</B> Berhad",
+        "MAS (<B>Malaysia</B> Airlines)",
+        "MAS Golden Boutiques",
+        "MAS Golden Boutiques Sdn. Bhd.",
+        "MH370 and MH17",
+        "MHbuddy",
+        "MalaysiaAirlines",
+        "<B>Malaysia</B> (airline)",
+        "<B>Malaysia</B> Air",
+        "<B>Malaysia</B> Airline",
+        "<B>Malaysia</B> Airline System",
+        "<B>Malaysia</B> Airlines Bhd",
+        "<B>Malaysia</B> Airlines Subsidiaries",
+        "<B>Malaysia</B> Airlines Timeline",
+        "<B>Malaysia</B> Airlines crash",
+        "<B>Malaysia</B> Airlines subsidiaries",
+        "<B>Malaysia</B> airlines",
+        "Malaysiaairlines.com",
+        "<B>Malaysian</B> Air",
+        "<B>Malaysian</B> Airline System",
+        "<B>Malaysian</B> Airline System Berhad",
+        "<B>Malaysian</B> Airline System Sendiran Berhad",
+        "<B>Malaysian</B> Airlines",
+        "<B>Malaysian</B> Airlines Bhd.",
+        "<B>Malaysian</B> Airlines System",
+        "<B>Malaysian</B> airlines",
+        "Penerbangan <B>Malaysia</B>",
+        "Sistem Penerbangan <B>Malaysia</B>",
+        "Syarikat Penerbangan <B>Malaysia</B>"
+      ],
+      "comment": [
+        "<B>Malaysia</B> Airlines Berhad (MAB) (Malay: Penerbangan <B>Malaysia</B> Berhad), formerly known as <B>Malaysian</B>"
+      ],
+      "label": [
+        "<B>Malaysia</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Airlines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1947_establishments_in_Malaya",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1947",
+        "http://dbpedia.org/resource/Category:Airlines_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Association_of_Asia_Pacific_Airlines",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Sepang",
+        "http://dbpedia.org/resource/Category:Companies_formerly_listed_on_Bursa_Malaysia",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Khazanah_Nasional",
+        "http://dbpedia.org/resource/Category:Kuala_Lumpur_International_Airport",
+        "http://dbpedia.org/resource/Category:Malaysian_brands",
+        "http://dbpedia.org/resource/Category:Privately_held_companies_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "2243.399"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Indian_Congress"
+      ],
+      "redirectlabel": [
+        "Baba Budh Singh Ji",
+        "Kongres India Se-<B>Malaysia</B>",
+        "<B>Malayan</B> Indian Congress"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " kāṅkiras; formerly known as <B>Malayan</B> Indian Congress) is a <B>Malaysian</B> political party. It is one of the"
+      ],
+      "label": [
+        "<B>Malaysian</B> Indian Congress"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Indian_Congress"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Singapore",
+        "http://dbpedia.org/resource/Category:Dravidian_political_parties",
+        "http://dbpedia.org/resource/Category:Identity_politics",
+        "http://dbpedia.org/resource/Category:Indian-Malaysian_culture",
+        "http://dbpedia.org/resource/Category:Indian_National_Congress_breakaway_groups",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1946",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities"
+      ]
+    },
+    {
+      "score": [
+        "2221.3638"
+      ],
+      "refCount": [
+        "67"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armed_Forces_F.C."
+      ],
+      "redirectlabel": [
+        "ATM F.A.",
+        "ATM FA",
+        "ATM FC",
+        "ATM Football Association",
+        "Armed Forces FA",
+        "<B>Malaysian</B> Armed Forces FA",
+        "<B>Malaysian</B> Combined Services F.C.",
+        "Persatuan Bolasepak Angkatan Tentera <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " club currently plays in the 3rd division of <B>Malaysian</B> football, the <B>Malaysia</B> M3 League."
+      ],
+      "label": [
+        "Armed Forces F.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armed_Forces_F.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:ATM_FA",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysia_M3_League",
+        "http://dbpedia.org/resource/Category:Malaysia_Premier_League_clubs",
+        "http://dbpedia.org/resource/Category:Military_association_football_clubs_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "2205.452"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Time_in_Malaysia"
+      ],
+      "redirectlabel": [
+        "Asia/Kuala Lumpur",
+        "Asia/Kuching",
+        "<B>Malaysia</B> Standard Time",
+        "<B>Malaysia</B> Time",
+        "<B>Malaysian</B> Standard Time",
+        "<B>Malaysian</B> Time"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Standard Time (MST; Malay: Waktu Piawai <B>Malaysia</B>, WPM) or <B>Malaysian</B> Time (MYT) is the"
+      ],
+      "label": [
+        "Time in <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Time_in_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Time_in_Southeast_Asia",
+        "http://dbpedia.org/resource/Category:Time_zones"
+      ]
+    },
+    {
+      "score": [
+        "2203.0254"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_art"
+      ],
+      "redirectlabel": [
+        "Art of <B>Malaysia</B>",
+        "<B>Malaysian</B> ceramic art",
+        "<B>Malaysian</B> martial arts",
+        "<B>Malaysian</B> metalwork",
+        "<B>Malaysian</B> performing arts",
+        "<B>Malaysian</B> theatre",
+        "<B>Malaysian</B> wood carving",
+        "Performing arts of <B>Malaysia</B>"
+      ],
+      "label": [
+        "<B>Malaysian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Malaysian_art"
+      ]
+    },
+    {
+      "score": [
+        "2168.525"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "label": [
+        "Korean <B>Malaysian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Korean_Malaysian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Korean_Malaysian"
+      ],
+      "redirectlabel": [
+        "Korean-<B>Malaysian</B>",
+        "Korean-<B>Malaysians</B>",
+        "Korean <B>Malaysians</B>",
+        "<B>Malaysian</B>-Korean",
+        "<B>Malaysian</B>-Koreans",
+        "<B>Malaysian</B> Korean",
+        "<B>Malaysian</B> Koreans"
+      ]
+    },
+    {
+      "score": [
+        "2123.5166"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Malaysian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Malaysia</B>",
+        "Air Force of Maylasia",
+        "CTRM Eagle ARV",
+        "<B>Malaysia</B> Air Force",
+        "<B>Malaysian</B> Air Force",
+        "<B>Maylasian</B> Air Force",
+        "Military Scandals in the <B>Malaysian</B> Air Force",
+        "RMAF",
+        "Rmaf",
+        "Royal Malay Air Force",
+        "TUDM"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Royal <B>Malaysian</B> Air Force (RMAF; Malay: Tentera Udara Diraja <B>Malaysia</B> (TUDM); Jawi : تنترا"
+      ],
+      "label": [
+        "Royal <B>Malaysian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Malaysian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1958_establishments_in_Malaya",
+        "http://dbpedia.org/resource/Category:Lists_of_military_aircraft",
+        "http://dbpedia.org/resource/Category:Malaysia-related_lists",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1958",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defence_(Malaysia)",
+        "http://dbpedia.org/resource/Category:Royal_Malaysian_Air_Force"
+      ]
+    },
+    {
+      "score": [
+        "2105.459"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2020–2022_Malaysian_political_crisis"
+      ],
+      "redirectlabel": [
+        "2020-2021 <B>Malaysian</B> political crisis",
+        "2020-2022 <B>Malaysian</B> political crisis",
+        "2020-21 <B>Malaysian</B> political crisis",
+        "2020-22 <B>Malaysian</B> political crisis",
+        "2020-Present <B>Malaysian</B> political crisis",
+        "2020 <B>Malaysian</B> constitutional crisis",
+        "2020 <B>Malaysian</B> political crisis",
+        "2020–2021 <B>Malaysian</B> political crisis",
+        "2020–21 <B>Malaysian</B> political crisis",
+        "2020–22 <B>Malaysian</B> political crisis",
+        "2020–Present <B>Malaysian</B> political crisis",
+        "Sheraton move"
+      ],
+      "label": [
+        "2020–2022 <B>Malaysian</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2020–2022_Malaysian_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_controversies",
+        "http://dbpedia.org/resource/Category:2020_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2020_in_Malaysian_politics",
+        "http://dbpedia.org/resource/Category:2020s_in_Malaysian_politics",
+        "http://dbpedia.org/resource/Category:2021_controversies",
+        "http://dbpedia.org/resource/Category:2021_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2022_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2022_in_Malaysian_politics",
+        "http://dbpedia.org/resource/Category:COVID-19_pandemic_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Government_crises",
+        "http://dbpedia.org/resource/Category:Impact_of_the_COVID-19_pandemic_on_politics",
+        "http://dbpedia.org/resource/Category:Party_switching",
+        "http://dbpedia.org/resource/Category:Political_history_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Politics_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "2088.6394"
+      ],
+      "refCount": [
+        "65"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Airlines_Flight_370"
+      ],
+      "redirectlabel": [
+        "9M-MR0",
+        "9M-MRO",
+        "9MMR0",
+        "9MMRO",
+        "9M MR0",
+        "9M MRO",
+        "9M–MR0",
+        "9M–MRO",
+        "All right good night",
+        "CSN-748",
+        "CSN748",
+        "CSN 748",
+        "CZ-748",
+        "CZ748",
+        "CZ 748",
+        "Captain Zaharie Ahmad Shah",
+        "China Southern 748",
+        "China Southern Airlines Flight 748",
+        "Disappearance of MH370",
+        "Fariq Abdul Hamid",
+        "Fight MH370",
+        "Flight 370",
+        "Flight MH370",
+        "Flight MH370 Theft Theory",
+        "Flt. 370",
+        "MA370",
+        "MAL 370",
+        "MAS-370",
+        "MAS370",
+        "MAS 370",
+        "MAS Flight MH370",
+        "MAS–370",
+        "MA 370",
+        "MH-370",
+        "MH370/MAS370",
+        "MH370",
+        "MH 370",
+        "MH–370",
+        "<B>Malaysia</B> 370",
+        "<B>Malaysia</B> Air 370",
+        "<B>Malaysia</B> Air Flight 370",
+        "<B>Malaysia</B> Airlines 370",
+        "<B>Malaysia</B> Airlines Flight 370 disappearance",
+        "<B>Malaysia</B> Airlines Flight MH370",
+        "<B>Malaysia</B> Airlines MH370",
+        "<B>Malaysia</B> Airlines MH 370",
+        "<B>Malaysia</B> Airlines flight 370",
+        "<B>Malaysia</B> Airlines flight MH370",
+        "<B>Malaysia</B> Flight 370",
+        "<B>Malaysian</B> 370",
+        "<B>Malaysian</B> Air Flight 370",
+        "<B>Malaysian</B> Airline System Flight 370",
+        "<B>Malaysian</B> Airlines 370",
+        "<B>Malaysian</B> Airlines Flight 370",
+        "<B>Malaysian</B> Airlines Flight MH370",
+        "<B>Malaysian</B> Airlines MH370",
+        "<B>Malaysian</B> Airlines flight MH370",
+        "<B>Malaysian</B> Flight 370",
+        "Mh370",
+        "Mh 370",
+        "Penerbangan 370",
+        "Zaharie Ahmad Shah",
+        "Zaharie Shah",
+        "馬航370",
+        "马航370"
+      ],
+      "comment": [
+        "<B>Malaysia</B> Airlines Flight 370 (also known as MH370 or MAS370) was a scheduled international"
+      ],
+      "label": [
+        "<B>Malaysia</B> Airlines Flight 370"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Airlines_Flight_370"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_missing_person_cases",
+        "http://dbpedia.org/resource/Category:2014_in_Australia",
+        "http://dbpedia.org/resource/Category:2014_in_China",
+        "http://dbpedia.org/resource/Category:2014_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2014_in_international_relations",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_777",
+        "http://dbpedia.org/resource/Category:Airliner_accidents_and_incidents_with_an_unknown_cause",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Australia–China_relations",
+        "http://dbpedia.org/resource/Category:Australia–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2014",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_international_airspace",
+        "http://dbpedia.org/resource/Category:China–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Malaysia_Airlines_Flight_370",
+        "http://dbpedia.org/resource/Category:Malaysia_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:March_2014_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Missing_aircraft",
+        "http://dbpedia.org/resource/Category:People_lost_at_sea"
+      ]
+    },
+    {
+      "score": [
+        "1983.071"
+      ],
+      "refCount": [
+        "203"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malacca"
+      ],
+      "redirectlabel": [
+        "Government of Malacca",
+        "Hang Tuah State",
+        "History of Malacca",
+        "Institut Skill-Tech",
+        "Malacca, <B>Malaysia</B>",
+        "Mallaca",
+        "Melacca",
+        "Melaka, <B>Malaysia</B>",
+        "Melaka",
+        "Melaka (<B>Malaysian</B> state)",
+        "Melaka (state)",
+        "Melaka State, <B>Malaysia</B>",
+        "Melaka State",
+        "Melakaa",
+        "Negeri Bersejarah",
+        "Negeri Hang Tuah",
+        "Residents of Malacca",
+        "Skill-Tech Institute",
+        "The Hang Tuah State",
+        "The Historical State",
+        "Tourism in Malacca"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " local community. Malays, <B>Malaysian</B> Chinese, <B>Malaysian</B> Indians, Baba Nyonya, Kristang, Chitty and"
+      ],
+      "label": [
+        "Malacca"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malacca"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Malacca",
+        "http://dbpedia.org/resource/Category:Peninsular_Malaysia",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1948",
+        "http://dbpedia.org/resource/Category:States_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Strait_of_Malacca"
+      ]
+    },
+    {
+      "score": [
+        "1980.2207"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2018–2023)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2018-)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018-2021)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018-2022)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018-2023)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018-22)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018-present)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018–)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018–2021)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018–2022)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018–22)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2018–present)",
+        "<B>Malaysian</B> State Assembly Representatives (2018-)",
+        "Members of the 14th Johor State Legislative Assembly",
+        "Members of the 14th Kedah State Legislative Assembly",
+        "Members of the 14th Kelantan State Legislative Assembly",
+        "Members of the 14th Malacca State Legislative Assembly",
+        "Members of the 14th Negeri Sembilan State Legislative Assembly",
+        "Members of the 14th Pahang State Legislative Assembly",
+        "Members of the 14th Penang State Legislative Assembly",
+        "Members of the 14th Perak State Legislative Assembly",
+        "Members of the 14th Perlis State Legislative Assembly",
+        "Members of the 14th Selangor State Legislative Assembly",
+        "Members of the 14th Terengganu State Legislative Assembly",
+        "Members of the 15th Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2018–2023)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2018–2023)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1928.294"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "label": [
+        "<B>Malaysian</B> South Korean"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_South_Korean"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_South_Korean"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B>-South Korean",
+        "<B>Malaysian</B>-South Koreans",
+        "<B>Malaysian</B> South Koreans",
+        "South Korean-<B>Malaysian</B>",
+        "South Korean-<B>Malaysians</B>",
+        "South Korean <B>Malaysian</B>",
+        "South Korean <B>Malaysians</B>"
+      ]
+    },
+    {
+      "score": [
+        "1916.1643"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Expressway_System"
+      ],
+      "redirectlabel": [
+        "Chronology of <B>Malaysian</B> Expressway System Events",
+        "Expressway (<B>Malaysia</B>)",
+        "Lebuh raya",
+        "Lebuhraya",
+        "<B>Malaysian</B> Expressways",
+        "<B>Malaysian</B> expressway",
+        "<B>Malaysian</B> expressway system"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Expressway System (Malay: Sistem Lebuh Raya Ekspres <B>Malaysia</B>) is a network of"
+      ],
+      "label": [
+        "<B>Malaysian</B> Expressway System"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Expressway_System"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Expressways_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_Expressway_System",
+        "http://dbpedia.org/resource/Category:Malaysian_Public_Works_Department"
+      ]
+    },
+    {
+      "score": [
+        "1912.7255"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Americans"
+      ],
+      "redirectlabel": [
+        "History of <B>Malaysian</B> Americans",
+        "Malay American",
+        "<B>Malaysian</B>-American",
+        "<B>Malaysian</B> American",
+        "<B>Malaysian</B> Islamic Study Group"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Americans (Orang <B>Malaysia</B> di Amerika) are Americans of <B>Malaysian</B> ancestry. Rather than a"
+      ],
+      "label": [
+        "<B>Malaysian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Malaysian_descent",
+        "http://dbpedia.org/resource/Category:Asian-American_society",
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Malaysian_American",
+        "http://dbpedia.org/resource/Category:Malaysian_diaspora",
+        "http://dbpedia.org/resource/Category:Southeast_Asian_American"
+      ]
+    },
+    {
+      "score": [
+        "1905.9379"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Storyboard_artist"
+      ],
+      "redirectlabel": [
+        "Advertising in <B>Malaysia</B>",
+        "<B>Malaysian</B> advertising",
+        "Storyboard Artist",
+        "Storyboard revisionist",
+        "Visualizer (advertising)"
+      ],
+      "comment": [
+        "A storyboard artist (sometimes called a story artist or visualizer) creates storyboards for advertising agencies and film productions."
+      ],
+      "label": [
+        "Storyboard artist"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Storyboard_artist"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Advertising_occupations",
+        "http://dbpedia.org/resource/Category:Animation_techniques",
+        "http://dbpedia.org/resource/Category:Filmmaking_occupations",
+        "http://dbpedia.org/resource/Category:Storyboard_artists",
+        "http://dbpedia.org/resource/Category:Visual_arts_occupations"
+      ]
+    },
+    {
+      "score": [
+        "1895.941"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Parti_Gerakan_Rakyat_Malaysia"
+      ],
+      "redirectlabel": [
+        "Gerakan Rakyat <B>Malaysia</B>",
+        "<B>Malaysian</B> People's Movement Party",
+        "PGRM",
+        "Parti Gerakan"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> People's Movement Party (Malay: Parti Gerakan Rakyat <B>Malaysia</B>, commonly abbreviated"
+      ],
+      "label": [
+        "Parti Gerakan Rakyat <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Parti_Gerakan_Rakyat_Malaysia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Chinese-Malaysian_culture",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1968",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities"
+      ]
+    },
+    {
+      "score": [
+        "1870.975"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_State_Roads_system"
+      ],
+      "redirectlabel": [
+        "A roads in <B>Malaysia</B>",
+        "B roads in <B>Malaysia</B>",
+        "List of A roads in <B>Malaysia</B>",
+        "<B>Malaysia</B> Federal Route A--",
+        "<B>Malaysia</B> Federal Route B--",
+        "<B>Malaysia</B> Federal Route C--",
+        "<B>Malaysia</B> Federal Route D--",
+        "<B>Malaysia</B> Federal Route J--",
+        "<B>Malaysia</B> Federal Route K--",
+        "<B>Malaysia</B> Federal Route M--",
+        "<B>Malaysia</B> Federal Route N--",
+        "<B>Malaysia</B> Federal Route P--",
+        "<B>Malaysia</B> Federal Route R--",
+        "<B>Malaysia</B> Federal Route SA--",
+        "<B>Malaysia</B> Federal Route T--",
+        "<B>Malaysian</B> State Roads",
+        "<B>Malaysian</B> State Roads System"
+      ],
+      "comment": [
+        "<B>Malaysian</B> State Roads System (Malay: Sistem Laluan Negeri <B>Malaysia</B>) are the secondary roads in"
+      ],
+      "label": [
+        "<B>Malaysian</B> State Roads system"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_State_Roads_system"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_Public_Works_Department",
+        "http://dbpedia.org/resource/Category:Roads_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1866.4503"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_names"
+      ],
+      "redirectlabel": [
+        "Malay name",
+        "Malay names",
+        "<B>Malaysian</B> Chinese names",
+        "<B>Malaysian</B> Name",
+        "<B>Malaysian</B> name"
+      ],
+      "comment": [
+        " introduction of the National Registration Identity Card (NRIC). The <B>Malaysian</B> Chinese are the only major ethnic"
+      ],
+      "label": [
+        "<B>Malaysian</B> names"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_names"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_culture",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1861.1927"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_nationality_law"
+      ],
+      "redirectlabel": [
+        "Citizen of <B>Malaysia</B>",
+        "Citizens of <B>Malaysia</B>",
+        "Citizenship of <B>Malaysia</B>",
+        "History of <B>Malaysian</B> nationality law",
+        "<B>Malaysian</B> citizen",
+        "<B>Malaysian</B> citizenship"
+      ],
+      "comment": [
+        "<B>Malaysian</B> nationality law is the law of <B>Malaysia</B> that deals with citizenship and other forms of"
+      ],
+      "label": [
+        "<B>Malaysian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysia_and_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Malaysian_nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1814.9436"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Southern_Peninsular_Malaysian_Hokkien"
+      ],
+      "redirectlabel": [
+        "Riau Hokkien",
+        "Southern Malay Peninsular Hokkien",
+        "Southern <B>Malaysia</B> Hokkien",
+        "Southern <B>Malaysia</B> and Singapore Hokkien",
+        "Southern <B>Malaysian</B> Hokkien",
+        "Southern <B>Malaysian</B> Hokkien Chinese",
+        "Southern Peninsular <B>Malaysia</B> Hokkien",
+        "Southern Peninsular <B>Malaysian</B> Hokkien Chinese",
+        "Standard <B>Malaysian</B> Hokkien"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Southern <B>Malaysia</B> Hokkien (simplified Chinese: 南马福建话; traditional Chinese: 南馬福建話; pinyin: Nán Mǎ"
+      ],
+      "label": [
+        "Southern Peninsular <B>Malaysian</B> Hokkien"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Southern_Peninsular_Malaysian_Hokkien"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hokkien-language_dialects",
+        "http://dbpedia.org/resource/Category:Languages_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1805.9646"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Parliament_of_Malaysia"
+      ],
+      "redirectlabel": [
+        "10.54313",
+        "<B>Malaysian</B> Parliament",
+        "<B>Malaysian</B> parliament",
+        "Member of the <B>Malaysian</B> Parliament",
+        "Parliament of <B>malaysia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        " the third component of Parliament. The Parliament assembles in the <B>Malaysian</B> Houses of Parliament"
+      ],
+      "label": [
+        "Parliament of <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Parliament_of_Malaysia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1959_establishments_in_Malaya",
+        "http://dbpedia.org/resource/Category:Bicameral_legislatures",
+        "http://dbpedia.org/resource/Category:Government_of_Malaysia",
+        "http://dbpedia.org/resource/Category:National_legislatures",
+        "http://dbpedia.org/resource/Category:Parliament_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Parliaments_by_country",
+        "http://dbpedia.org/resource/Category:Prime_Minister's_Department_(Malaysia)",
+        "http://dbpedia.org/resource/Category:Westminster_system_parliaments"
+      ]
+    },
+    {
+      "score": [
+        "1780.1921"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Houses_of_Parliament"
+      ],
+      "redirectlabel": [
+        "<B>Malaysia</B> Houses of Parliament",
+        "<B>Malaysian</B> House of Parliament"
+      ],
+      "typeName": [
+        "Building",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Houses of Parliament (Malay: Bangunan Parlimen <B>Malaysia</B>; Chinese: 马来西亚国会大厦) is a"
+      ],
+      "label": [
+        "<B>Malaysian</B> Houses of Parliament"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Houses_of_Parliament"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Kuala_Lumpur",
+        "http://dbpedia.org/resource/Category:Government_buildings_completed_in_1963",
+        "http://dbpedia.org/resource/Category:Government_buildings_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Legislatures_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Modernist_architecture_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Parliament_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1777.1934"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Open_(golf)"
+      ],
+      "redirectlabel": [
+        "Bandar <B>Malaysia</B> Open",
+        "Benson & Hedges <B>Malaysian</B> Open",
+        "Benson and Hedges <B>Malaysian</B> Open",
+        "Carlsberg <B>Malaysian</B> Open",
+        "<B>Malayan</B> Open (golf)",
+        "Maybank <B>Malaysian</B> Open"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Open was a men's professional golf tournament. It was inaugurated in 1962 as the"
+      ],
+      "label": [
+        "<B>Malaysian</B> Open (golf)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Open_(golf)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asia_Golf_Circuit_events",
+        "http://dbpedia.org/resource/Category:Asian_Tour_events",
+        "http://dbpedia.org/resource/Category:Former_European_Tour_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1962"
+      ]
+    },
+    {
+      "score": [
+        "1775.4868"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008_Malaysian_general_election"
+      ],
+      "redirectlabel": [
+        "12th General Election of <B>Malaysia</B>",
+        "12th <B>Malaysian</B> general election",
+        "2008 <B>Malaysian</B> elections",
+        "<B>Malaysian</B> General Election, 2008",
+        "<B>Malaysian</B> General Election 2008",
+        "<B>Malaysian</B> general election, 2008",
+        "<B>Malaysian</B> general election 2008"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " <B>Malaysia</B>. Voting took place in all 222 parliamentary constituencies of <B>Malaysia</B>, each electing one Member"
+      ],
+      "label": [
+        "2008 <B>Malaysian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008_Malaysian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:General_elections_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1740.8689"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/East_Malaysia"
+      ],
+      "redirectlabel": [
+        "Borneo <B>malaysia</B>",
+        "Eastern <B>Malaysia</B>",
+        "<B>Malaysian</B> Borneo"
+      ],
+      "comment": [
+        ") or <B>Malaysian</B> Borneo, is the part of <B>Malaysia</B> on the island of Borneo, the world's third largest"
+      ],
+      "label": [
+        "East <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/East_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:East_Malaysia",
+        "http://dbpedia.org/resource/Category:Enclaves_and_exclaves",
+        "http://dbpedia.org/resource/Category:Maritime_Southeast_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1736.0823"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/States_and_federal_territories_of_Malaysia"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of <B>Malaysia</B>",
+        "Constituent monarchies of <B>Malaysia</B>",
+        "Constituent states of <B>Malaysia</B>",
+        "Erwterter",
+        "<B>Malaysian</B> state",
+        "<B>Malaysian</B> state code",
+        "<B>Malaysian</B> states",
+        "Negeri",
+        "Regions of <B>Malaysia</B>",
+        "State of <B>Malaysia</B>",
+        "States in <B>Malaysia</B>",
+        "States of <B>Malaysia</B>",
+        "Subdivisions of <B>Malaysia</B>"
+      ],
+      "comment": [
+        "The states and federal territories of <B>Malaysia</B> are the principal administrative divisions of"
+      ],
+      "label": [
+        "States and federal territories of <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/States_and_federal_territories_of_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Asia",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Malaysia",
+        "http://dbpedia.org/resource/Category:States_and_federal_territories_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1713.1671"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Open_(tennis)"
+      ],
+      "redirectlabel": [
+        "BMW <B>Malaysian</B> Open",
+        "<B>Malaysia</B> Classic",
+        "<B>Malaysian</B> Open (WTA)",
+        "<B>Malaysian</B> Women's Open",
+        "WTA <B>Malaysian</B> Open"
+      ],
+      "typeName": [
+        "WomensTennisAssociationTournament",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Open (formerly known as the <B>Malaysian</B> Tennis Classic) is a professional women's"
+      ],
+      "label": [
+        "<B>Malaysian</B> Open (tennis)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Open_(tennis)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WomensTennisAssociationTournament",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hard_court_tennis_tournaments",
+        "http://dbpedia.org/resource/Category:Indoor_tennis_tournaments",
+        "http://dbpedia.org/resource/Category:Malaysian_Open_(tennis)",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_disestablished_in_1993",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_disestablished_in_2018",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1992",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_2010",
+        "http://dbpedia.org/resource/Category:Sport_in_Kuala_Lumpur",
+        "http://dbpedia.org/resource/Category:Sport_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Tennis_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Tennis_tournaments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:WTA_Tour"
+      ]
+    },
+    {
+      "score": [
+        "1712.2023"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Re"
+      ],
+      "redirectlabel": [
+        "MNRB",
+        "MNRB Holdings",
+        "MNRB Holdings Berhad",
+        "<B>Malaysian</B> Reinsurance",
+        "<B>Malaysian</B> Reinsurance Berhad",
+        "Takaful Ikhlas"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Reinsurance Berhad (known as <B>Malaysian</B> Re) is a <B>Malaysian</B> reinsurance company. It is"
+      ],
+      "label": [
+        "<B>Malaysian</B> Re"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Re"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Kuala_Lumpur",
+        "http://dbpedia.org/resource/Category:Companies_listed_on_Bursa_Malaysia",
+        "http://dbpedia.org/resource/Category:Financial_services_companies_established_in_1973",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Insurance_companies_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_brands",
+        "http://dbpedia.org/resource/Category:Malaysian_companies_established_in_1973",
+        "http://dbpedia.org/resource/Category:Permodalan_Nasional_Berhad",
+        "http://dbpedia.org/resource/Category:Reinsurance_companies",
+        "http://dbpedia.org/resource/Category:Takaful_companies_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1703.4565"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Christopher_Lee_(Malaysian_actor)"
+      ],
+      "redirectlabel": [
+        "Christopher Lee (Mediacorp actor)",
+        "Christopher Lee (Singapore Actor)",
+        "Christopher Lee (Singapore actor)",
+        "Christopher Lee (Singaporean actor)",
+        "Christopher Lee Meng Soon",
+        "Christopher Lee Ming Shun",
+        "Christopher Shun",
+        "Christopher lee (singaporean actor)",
+        "Lee Ming Shun",
+        "Li Mingshun"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Christopher Lee Meng Soon (李铭顺 Li Ming Shun previous name) (born 23 July 1971) is a <B>Malaysian</B> actor"
+      ],
+      "label": [
+        "Christopher Lee (<B>Malaysian</B> actor)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Christopher_Lee_(Malaysian_actor)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1971_births",
+        "http://dbpedia.org/resource/Category:20th-century_Singaporean_male_actors",
+        "http://dbpedia.org/resource/Category:20th-century_Singaporean_male_singers",
+        "http://dbpedia.org/resource/Category:21st-century_Singaporean_male_actors",
+        "http://dbpedia.org/resource/Category:21st-century_Singaporean_male_singers",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Malaysian_emigrants_to_Singapore",
+        "http://dbpedia.org/resource/Category:Malaysian_expatriates_in_Taiwan",
+        "http://dbpedia.org/resource/Category:Malaysian_male_models",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Chinese_descent",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Teochew_descent",
+        "http://dbpedia.org/resource/Category:Mediacorp",
+        "http://dbpedia.org/resource/Category:People_from_Malacca",
+        "http://dbpedia.org/resource/Category:Singaporean_Buddhists",
+        "http://dbpedia.org/resource/Category:Singaporean_male_film_actors",
+        "http://dbpedia.org/resource/Category:Singaporean_male_television_actors"
+      ]
+    },
+    {
+      "score": [
+        "1661.1108"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Malaysia_Police"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> police",
+        "PDRM",
+        "Police of <B>Malaysia</B>",
+        "Polis Di-Raja <B>Malaysia</B>",
+        "Polis Di-raja <B>Malaysia</B>",
+        "Polis DiRaja <B>Malaysia</B>",
+        "Polis Diraja <B>Malaysia</B>",
+        "Royal <B>Malaysian</B> Police",
+        "Royal Police of <B>Malaysia</B>"
+      ],
+      "comment": [
+        "The Royal <B>Malaysia</B> Police (often abbreviated RMP) (Malay: Polis Diraja <B>Malaysia</B> (PDRM)), is a"
+      ],
+      "label": [
+        "Royal <B>Malaysia</B> Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Malaysia_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1807_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_1807",
+        "http://dbpedia.org/resource/Category:Ministry_of_Home_Affairs_(Malaysia)",
+        "http://dbpedia.org/resource/Category:National_Central_Bureaus_of_Interpol",
+        "http://dbpedia.org/resource/Category:Royal_Malaysia_Police"
+      ]
+    },
+    {
+      "score": [
+        "1652.4572"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_blue_flycatcher"
+      ],
+      "redirectlabel": [
+        "Cyornis turcosus",
+        "<B>Malaysian</B> Blue-Flycatcher",
+        "<B>Malaysian</B> Blue-flycatcher",
+        "<B>Malaysian</B> Blue Flycatcher",
+        "<B>Malaysian</B> blue-flycatcher"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> blue flycatcher (Cyornis turcosus) is a species of bird in the family Muscicapidae"
+      ],
+      "label": [
+        "<B>Malaysian</B> blue flycatcher"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_blue_flycatcher"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1877",
+        "http://dbpedia.org/resource/Category:Birds_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Cyornis",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1637.85"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/ATP_Malaysian_Open"
+      ],
+      "redirectlabel": [
+        "2008 <B>Malaysian</B> Open",
+        "2008 Proton <B>Malaysian</B> Open",
+        "ATP <B>Malaysian</B> Open (tennis)",
+        "<B>Malaysian</B> Open, Kuala Lumpur (tennis)",
+        "Proton <B>Malaysian</B> Open"
+      ],
+      "typeName": [
+        "WomensTennisAssociationTournament",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Open was a professional men's tennis tournament played on indoor hard courts. It was"
+      ],
+      "label": [
+        "ATP <B>Malaysian</B> Open"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/ATP_Malaysian_Open"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WomensTennisAssociationTournament",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:ATP_Tour_250",
+        "http://dbpedia.org/resource/Category:Defunct_sports_competitions_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Defunct_tennis_tournaments_in_Asia",
+        "http://dbpedia.org/resource/Category:Hard_court_tennis_tournaments",
+        "http://dbpedia.org/resource/Category:Indoor_tennis_tournaments",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_disestablished_in_2015",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_2009",
+        "http://dbpedia.org/resource/Category:Tennis_tournaments_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1622.7831"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Australians"
+      ],
+      "redirectlabel": [
+        "Malay Australian",
+        "<B>Malaysian</B> Australian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Australians refers to <B>Malaysians</B> who have migrated to Australia or Australian-born"
+      ],
+      "label": [
+        "<B>Malaysian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Australian",
+        "http://dbpedia.org/resource/Category:Australian_people_of_Malaysian_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Australia",
+        "http://dbpedia.org/resource/Category:Malaysian_Australian",
+        "http://dbpedia.org/resource/Category:Malaysian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1613.4662"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2013–2018)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2013-)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2013-18)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2013-2018)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2013–)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2013–18)",
+        "<B>Malaysian</B> State Assembly Representatives (2013-)",
+        "<B>Malaysian</B> State Assembly Representatives (2013–)",
+        "Members of the 13th Johor State Legislative Assembly",
+        "Members of the 13th Kedah State Legislative Assembly",
+        "Members of the 13th Kelantan State Legislative Assembly",
+        "Members of the 13th Malacca State Legislative Assembly",
+        "Members of the 13th Negeri Sembilan State Legislative Assembly",
+        "Members of the 13th Pahang State Legislative Assembly",
+        "Members of the 13th Penang State Legislative Assembly",
+        "Members of the 13th Perak State Legislative Assembly",
+        "Members of the 13th Perlis State Legislative Assembly",
+        "Members of the 13th Selangor State Legislative Assembly",
+        "Members of the 13th Terengganu State Legislative Assembly",
+        "Members of the 14th Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2013–2018)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2013–2018)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1604.1007"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysia_Airlines_Flight_17"
+      ],
+      "redirectlabel": [
+        "9M-MRD",
+        "Flight KL4103",
+        "Flight MAS17",
+        "Flight MH17",
+        "Flight MH17 Investigation",
+        "Grabove Massacre",
+        "Grabovo Massacre",
+        "Hrabove Massacre",
+        "KL4103",
+        "KLM4103",
+        "KLM Flight 4103",
+        "MAS017",
+        "MAS17",
+        "MAS 17",
+        "MAS Flight MH17",
+        "MH-17",
+        "MH-17 disaster",
+        "MH017",
+        "MH17/MAS17",
+        "MH17",
+        "MH 0017",
+        "MH 017",
+        "MH 17",
+        "<B>Malaysia</B> 17",
+        "<B>Malaysia</B> Air 17",
+        "<B>Malaysia</B> Airlines 17",
+        "<B>Malaysia</B> Airlines Flight 17 shootdown",
+        "<B>Malaysia</B> Airlines Flight 317",
+        "<B>Malaysia</B> Airlines Flight MH-17",
+        "<B>Malaysia</B> Airlines Flight MH17",
+        "<B>Malaysia</B> Airlines MH17",
+        "<B>Malaysia</B> Airlines MH 17",
+        "<B>Malaysia</B> Airlines flight 17",
+        "<B>Malaysia</B> Airlines flight MH17",
+        "<B>Malaysian</B> Airline System Flight 17",
+        "<B>Malaysian</B> Airlines 17",
+        "<B>Malaysian</B> Airlines Flight 17",
+        "<B>Malaysian</B> Airlines Flight MH17",
+        "<B>Malaysian</B> Airlines flight 17",
+        "Mh17",
+        "Penerbangan 17",
+        "Vlucht 17",
+        "Рейс 17"
+      ],
+      "comment": [
+        "<B>Malaysia</B> Airlines Flight 17 (MH17) was a scheduled passenger flight from Amsterdam to Kuala Lumpur"
+      ],
+      "label": [
+        "<B>Malaysia</B> Airlines Flight 17"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysia_Airlines_Flight_17"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_controversies",
+        "http://dbpedia.org/resource/Category:2014_in_Australia",
+        "http://dbpedia.org/resource/Category:2014_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2014_in_Ukraine",
+        "http://dbpedia.org/resource/Category:2014_in_international_relations",
+        "http://dbpedia.org/resource/Category:2014_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:21st-century_aircraft_shootdown_incidents",
+        "http://dbpedia.org/resource/Category:Accidents_and_incidents_involving_the_Boeing_777",
+        "http://dbpedia.org/resource/Category:Airliner_shootdown_incidents",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Attacks_in_Europe_in_2014",
+        "http://dbpedia.org/resource/Category:Australia–Malaysia_relations",
+        "http://dbpedia.org/resource/Category:Australia–Netherlands_relations",
+        "http://dbpedia.org/resource/Category:Australia–Russia_relations",
+        "http://dbpedia.org/resource/Category:Australia–Ukraine_relations",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2014",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Ukraine",
+        "http://dbpedia.org/resource/Category:Combat_incidents",
+        "http://dbpedia.org/resource/Category:Donetsk_People's_Republic",
+        "http://dbpedia.org/resource/Category:History_of_Donetsk_Oblast",
+        "http://dbpedia.org/resource/Category:International_Civil_Aviation_Organization",
+        "http://dbpedia.org/resource/Category:July_2014_events_in_Ukraine",
+        "http://dbpedia.org/resource/Category:Malaysia_Airlines_Flight_17",
+        "http://dbpedia.org/resource/Category:Malaysia_Airlines_accidents_and_incidents",
+        "http://dbpedia.org/resource/Category:Malaysia–Netherlands_relations",
+        "http://dbpedia.org/resource/Category:Malaysia–Russia_relations",
+        "http://dbpedia.org/resource/Category:Malaysia–Ukraine_relations",
+        "http://dbpedia.org/resource/Category:Netherlands–Russia_relations",
+        "http://dbpedia.org/resource/Category:Netherlands–Ukraine_relations",
+        "http://dbpedia.org/resource/Category:Russian_war_crimes_in_Ukraine",
+        "http://dbpedia.org/resource/Category:War_in_Donbas"
+      ]
+    },
+    {
+      "score": [
+        "1596.856"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Tamil_cinema"
+      ],
+      "redirectlabel": [
+        "Lists of <B>Malaysian</B> Tamil films",
+        "<B>Malaysia</B>/singapore tamil cinema",
+        "<B>Malaysian</B> Indian cinema",
+        "<B>Malaysian</B> Tamil Cinema",
+        "<B>Malaysian</B> and Singaporean Tamil cinema"
+      ],
+      "comment": [
+        " Raja, M. Baharudeen, Mukesh, Vijaya Gowri and <B>Malaysia</B> Vasudevan. It was shot in Golden Studio"
+      ],
+      "label": [
+        "<B>Malaysian</B> Tamil cinema"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Tamil_cinema"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Tamil_cinema",
+        "http://dbpedia.org/resource/Category:Tamil_diaspora_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1583.1125"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_passport"
+      ],
+      "redirectlabel": [
+        "Malay passport",
+        "<B>Malaysia</B> passport",
+        "<B>Malaysian</B> Passport",
+        "Pasport <B>Malaysia</B>"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> passport (Malay: Pasport <B>Malaysia</B>) is the passport issued to citizens of <B>Malaysia</B> by"
+      ],
+      "label": [
+        "<B>Malaysian</B> passport"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_passport"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Government_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_nationality_law",
+        "http://dbpedia.org/resource/Category:Passports_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1578.0127"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pan-Malaysian_Islamic_Front"
+      ],
+      "redirectlabel": [
+        "BERJASA",
+        "Barisan Jemaah Islamiah Se-<B>Malaysia</B>",
+        "Berjasa",
+        "Pan <B>Malaysian</B> Islamic Front"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Pan-<B>Malaysian</B> Islamic Front (Malay: Barisan Jemaah Islamiah Se-<B>Malaysia</B>, Jawi: باريسن جماعه"
+      ],
+      "label": [
+        "Pan-<B>Malaysian</B> Islamic Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pan-Malaysian_Islamic_Front"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1977_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Islamic_organisations_based_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Islamic_political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Pan-Malaysian_Islamic_Front",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1977",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "1576.9606"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Open_Squash_Championships"
+      ],
+      "redirectlabel": [
+        "CIMB <B>Malaysian</B> Open",
+        "CIMB <B>Malaysian</B> Open Squash",
+        "CIMB <B>Malaysian</B> Open Squash Championships",
+        "<B>Malaysian</B> Open (squash)",
+        "<B>Malaysian</B> Open Squash"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Open Squash Championships is an annual squash tournament that takes place in Kuala"
+      ],
+      "label": [
+        "<B>Malaysian</B> Open Squash Championships"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Open_Squash_Championships"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_2010",
+        "http://dbpedia.org/resource/Category:Squash_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Squash_tournaments_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1576.9242"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Siamese"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> Siamese people",
+        "<B>Malaysian</B> Siam"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Siamese, Siamese <B>Malaysians</B> or Thai <B>Malaysians</B> are people of full or partial Thai"
+      ],
+      "label": [
+        "<B>Malaysian</B> Siamese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Siamese"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Immigration_to_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Thai_descent",
+        "http://dbpedia.org/resource/Category:Thai_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Thai_diaspora_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1575.462"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Federal_Roads_System"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> Federal Roads",
+        "<B>Malaysian</B> Federal Roads system",
+        "<B>Malaysian</B> federal roads",
+        "Roads in <B>Malaysia</B>"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Federal Roads System (Malay: Sistem Jalan Persekutuan <B>Malaysia</B>), is the main national"
+      ],
+      "label": [
+        "<B>Malaysian</B> Federal Roads System"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Federal_Roads_System"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Malaysian_Federal_Roads",
+        "http://dbpedia.org/resource/Category:Malaysian_Public_Works_Department",
+        "http://dbpedia.org/resource/Category:Roads_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1566.6968"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Malaysia"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> <B>Malaysia</B>!"
+      ],
+      "comment": [
+        "The phrase \"<B>Malaysian</B> <B>Malaysia</B>\" was originally used in the early 1960s as the rallying motto of the"
+      ],
+      "label": [
+        "<B>Malaysian</B> <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Formation_of_Malaysia",
+        "http://dbpedia.org/resource/Category:History_of_Singapore",
+        "http://dbpedia.org/resource/Category:Malaysian_brands",
+        "http://dbpedia.org/resource/Category:Malaysian_political_slogans",
+        "http://dbpedia.org/resource/Category:Racial_and_religious_quotas_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Social_history_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Society_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1560.7357"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Maritime_Enforcement_Agency"
+      ],
+      "redirectlabel": [
+        "<B>Malaysia</B> Coast Guard",
+        "<B>Malaysia</B> Maritime Enforcement Agency",
+        "<B>Malaysian</B> Coast Guard",
+        "<B>Malaysian</B> Maritime Enforcement Agency (MMEA)"
+      ],
+      "comment": [
+        "The <B>Malaysian</B> Maritime Enforcement Agency (Abbr.; MMEA; Malay: Agensi Penguatkuasaan Maritim"
+      ],
+      "label": [
+        "<B>Malaysian</B> Maritime Enforcement Agency"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Maritime_Enforcement_Agency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Coast_guards",
+        "http://dbpedia.org/resource/Category:Federal_ministries,_departments_and_agencies_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Gendarmerie",
+        "http://dbpedia.org/resource/Category:Government_agencies_established_in_2004",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_Maritime_Enforcement_Agency",
+        "http://dbpedia.org/resource/Category:Maritime_law_enforcement_agencies",
+        "http://dbpedia.org/resource/Category:Prime_Minister's_Department_(Malaysia)",
+        "http://dbpedia.org/resource/Category:Sea_rescue_organizations"
+      ]
+    },
+    {
+      "score": [
+        "1554.1357"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Malays"
+      ],
+      "redirectlabel": [
+        "Genetic studies on <B>Malaysian</B> Malays",
+        "Malay <B>Malaysian</B>",
+        "Malay <B>Malaysians</B>",
+        "Malays in <B>Malaysia</B>"
+      ],
+      "label": [
+        "<B>Malaysian</B> Malays"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Malays"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Ethnoreligious_groups_in_Asia",
+        "http://dbpedia.org/resource/Category:Malay_people",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Malay_descent"
+      ]
+    },
+    {
+      "score": [
+        "1541.8246"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_contemporary_music"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> composers",
+        "<B>Malaysian</B> art music",
+        "<B>Malaysian</B> classical music",
+        "<B>Malaysian</B> composers"
+      ],
+      "comment": [
+        "<B>Malaysian</B> contemporary music (or \"art music\", \"notated music\") is an artistic phenomenon within"
+      ],
+      "label": [
+        "<B>Malaysian</B> contemporary music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_contemporary_music"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Contemporary_classical_music",
+        "http://dbpedia.org/resource/Category:Malaysian_styles_of_music"
+      ]
+    },
+    {
+      "score": [
+        "1537.7767"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2008–2013)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2008-13)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2008-2013)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2008–13)",
+        "<B>Malaysian</B> State Assembly Representatives (2008-13)",
+        "<B>Malaysian</B> State Assembly Representatives (2008-2013)",
+        "<B>Malaysian</B> State Assembly Representatives (2008–13)",
+        "Members of the 12th Johor State Legislative Assembly",
+        "Members of the 12th Kedah State Legislative Assembly",
+        "Members of the 12th Kelantan State Legislative Assembly",
+        "Members of the 12th Malacca State Legislative Assembly",
+        "Members of the 12th Negeri Sembilan State Legislative Assembly",
+        "Members of the 12th Pahang State Legislative Assembly",
+        "Members of the 12th Penang State Legislative Assembly",
+        "Members of the 12th Perak State Legislative Assembly",
+        "Members of the 12th Perlis State Legislative Assembly",
+        "Members of the 12th Selangor State Legislative Assembly",
+        "Members of the 12th Terengganu State Legislative Assembly",
+        "Members of the 13th Sabah State Legislative Assembly",
+        "Members of the 17th Sarawak State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2008–2013)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2008–2013)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1527.3732"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2020–2021_Malaysian_floods"
+      ],
+      "redirectlabel": [
+        "2020-2021 <B>Malaysian</B> floods",
+        "2020-21 <B>Malaysia</B> floods",
+        "2020-21 <B>Malaysian</B> floods",
+        "2020–21 <B>Malaysian</B> floods",
+        "2021 <B>Malaysian</B> floods"
+      ],
+      "label": [
+        "2020–2021 <B>Malaysian</B> floods"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2020–2021_Malaysian_floods"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_disasters_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2020_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2021_disasters_in_Malaysia",
+        "http://dbpedia.org/resource/Category:2021_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Floods_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Natural_disasters_in_Malaysia",
+        "http://dbpedia.org/resource/Category:November_2020_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1525.7445"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malay_Peninsula"
+      ],
+      "redirectlabel": [
+        "Ecology of the Malay Peninsula",
+        "Greater <B>Malaysia</B>",
+        "Kra Peninsula",
+        "Kra peninsula",
+        "Malacca Peninsula",
+        "Malay Peninsular",
+        "Malay peninsula",
+        "Malay peninsular",
+        "Malaya Peninsula",
+        "<B>Malayan</B> Peninsula",
+        "<B>Malayan</B> peninsula",
+        "<B>Malaysia</B> Peninsula",
+        "<B>Malaysia</B> Pennisula",
+        "<B>Malaysian</B> Peninsula",
+        "<B>Malaysian</B> peninsula",
+        "Malayu Peninsula",
+        "Semenanjung Tanah Melayu",
+        "Tanah Melayu",
+        "Tenasserim Peninsula",
+        "Thai-Malay Peninsula",
+        "Thai-Malay peninsula",
+        "Thai-<B>Malayan</B> peninsula",
+        "Thai-<B>Malaysian</B> peninsula",
+        "The Malay Peninsula"
+      ],
+      "typeName": [
+        "Place",
+        "Island",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " mainland. The area contains Peninsular <B>Malaysia</B>, Southern Thailand, and the southernmost tip of Myanmar"
+      ],
+      "label": [
+        "Malay Peninsula"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malay_Peninsula"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Island",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Andaman_Sea",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Flora_of_Malaya",
+        "http://dbpedia.org/resource/Category:Gulf_of_Thailand",
+        "http://dbpedia.org/resource/Category:Landforms_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Landforms_of_Myanmar",
+        "http://dbpedia.org/resource/Category:Landforms_of_Thailand",
+        "http://dbpedia.org/resource/Category:Landforms_of_the_South_China_Sea",
+        "http://dbpedia.org/resource/Category:Malay_Peninsula",
+        "http://dbpedia.org/resource/Category:Malaya",
+        "http://dbpedia.org/resource/Category:Malesia",
+        "http://dbpedia.org/resource/Category:Peninsulas_of_Asia",
+        "http://dbpedia.org/resource/Category:Regions_of_Asia",
+        "http://dbpedia.org/resource/Category:Southern_Thailand",
+        "http://dbpedia.org/resource/Category:Strait_of_Malacca"
+      ]
+    },
+    {
+      "score": [
+        "1512.0664"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B>-Canadian",
+        "<B>Malaysian</B>-Canadians",
+        "<B>Malaysian</B> Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Canadians are Canadian citizens who are of <B>Malaysian</B> descent. The 2016 Canada Census"
+      ],
+      "label": [
+        "<B>Malaysian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Malaysian_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Canada",
+        "http://dbpedia.org/resource/Category:Malaysian_Canadian",
+        "http://dbpedia.org/resource/Category:Malaysian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1503.4413"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_cities_and_towns_in_Malaysia_by_population"
+      ],
+      "redirectlabel": [
+        "Biggest <B>Malaysian</B> cities",
+        "Biggest cities in <B>Malaysia</B>",
+        "Largest <B>Malaysian</B> cities",
+        "Largest cities in <B>Malaysia</B>",
+        "List of <B>Malaysian</B> cities by population",
+        "List of urban areas in <B>Malaysia</B> by population"
+      ],
+      "comment": [
+        "The following is a list of cities and towns in <B>Malaysia</B> by population according to the latest national census, which was conducted in 2010."
+      ],
+      "label": [
+        "List of cities and towns in <B>Malaysia</B> by population"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_cities_and_towns_in_Malaysia_by_population"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_population",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_in_Asia",
+        "http://dbpedia.org/resource/Category:Lists_of_places_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1501.1991"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1969–1974)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1969-1974)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1969-74)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1969–74)",
+        "<B>Malaysian</B> State Assembly Representatives (1969-74)",
+        "<B>Malaysian</B> State Assembly Representatives (1969–74)",
+        "Members of the 3rd Johor State Legislative Assembly",
+        "Members of the 3rd Johore State Legislative Assembly",
+        "Members of the 3rd Kedah State Legislative Assembly",
+        "Members of the 3rd Kelantan State Legislative Assembly",
+        "Members of the 3rd Malacca State Legislative Assembly",
+        "Members of the 3rd Negeri Sembilan State Legislative Assembly",
+        "Members of the 3rd Negri Sembilan State Legislative Assembly",
+        "Members of the 3rd Pahang State Legislative Assembly",
+        "Members of the 3rd Penang State Legislative Assembly",
+        "Members of the 3rd Perak State Legislative Assembly",
+        "Members of the 3rd Perlis State Legislative Assembly",
+        "Members of the 3rd Selangor State Legislative Assembly",
+        "Members of the 3rd Terengganu State Legislative Assembly",
+        "Members of the 3rd Trengganu State Legislative Assembly",
+        "Members of the 4th Sabah State Legislative Assembly",
+        "Members of the 8th Sarawak State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1969–1974)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1969–1974)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1969_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1501.1991"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1974–1978)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1974-1978)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1974-78)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1974–78)",
+        "<B>Malaysian</B> State Assembly Representatives (1974-78)",
+        "<B>Malaysian</B> State Assembly Representatives (1974–78)",
+        "Members of the 4th Johor State Legislative Assembly",
+        "Members of the 4th Johore State Legislative Assembly",
+        "Members of the 4th Kedah State Legislative Assembly",
+        "Members of the 4th Kelantan State Legislative Assembly",
+        "Members of the 4th Malacca State Legislative Assembly",
+        "Members of the 4th Negeri Sembilan State Legislative Assembly",
+        "Members of the 4th Negri Sembilan State Legislative Assembly",
+        "Members of the 4th Pahang State Legislative Assembly",
+        "Members of the 4th Penang State Legislative Assembly",
+        "Members of the 4th Perak State Legislative Assembly",
+        "Members of the 4th Perlis State Legislative Assembly",
+        "Members of the 4th Selangor State Legislative Assembly",
+        "Members of the 4th Terengganu State Legislative Assembly",
+        "Members of the 4th Trengganu State Legislative Assembly",
+        "Members of the 5th Sabah State Legislative Assembly",
+        "Members of the 9th Sarawak State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1974–1978)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1974–1978)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1501.1991"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1964–1969)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1964-1969)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1964-69)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1964–69)",
+        "<B>Malaysian</B> State Assembly Representatives (1964-69)",
+        "<B>Malaysian</B> State Assembly Representatives (1964–69)",
+        "Members of the 2nd Johor State Legislative Assembly",
+        "Members of the 2nd Johore State Legislative Assembly",
+        "Members of the 2nd Kedah State Legislative Assembly",
+        "Members of the 2nd Kelantan State Legislative Assembly",
+        "Members of the 2nd Malacca State Legislative Assembly",
+        "Members of the 2nd Negeri Sembilan State Legislative Assembly",
+        "Members of the 2nd Negri Sembilan State Legislative Assembly",
+        "Members of the 2nd Pahang State Legislative Assembly",
+        "Members of the 2nd Penang State Legislative Assembly",
+        "Members of the 2nd Perak State Legislative Assembly",
+        "Members of the 2nd Perlis State Legislative Assembly",
+        "Members of the 2nd Selangor State Legislative Assembly",
+        "Members of the 2nd Terengganu State Legislative Assembly",
+        "Members of the 2nd Trengganu State Legislative Assembly",
+        "Members of the 3rd Legislative Assembly of Singapore",
+        "Members of the 3rd Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1964–1969)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1964–1969)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1964_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1501.1991"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1978–1982)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1978-1982)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1978-82)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1978–82)",
+        "<B>Malaysian</B> State Assembly Representatives (1978-82)",
+        "<B>Malaysian</B> State Assembly Representatives (1978–82)",
+        "Members of the 10th Sarawak State Legislative Assembly",
+        "Members of the 5th Johor State Legislative Assembly",
+        "Members of the 5th Johore State Legislative Assembly",
+        "Members of the 5th Kedah State Legislative Assembly",
+        "Members of the 5th Kelantan State Legislative Assembly",
+        "Members of the 5th Malacca State Legislative Assembly",
+        "Members of the 5th Negeri Sembilan State Legislative Assembly",
+        "Members of the 5th Negri Sembilan State Legislative Assembly",
+        "Members of the 5th Pahang State Legislative Assembly",
+        "Members of the 5th Penang State Legislative Assembly",
+        "Members of the 5th Perak State Legislative Assembly",
+        "Members of the 5th Perlis State Legislative Assembly",
+        "Members of the 5th Selangor State Legislative Assembly",
+        "Members of the 5th Terengganu State Legislative Assembly",
+        "Members of the 5th Trengganu State Legislative Assembly",
+        "Members of the 6th Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1978–1982)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1978–1982)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1978_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1501.1991"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1982–1986)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1982-1986)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1982-86)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1982–86)",
+        "<B>Malaysian</B> State Assembly Representatives (1982-86)",
+        "<B>Malaysian</B> State Assembly Representatives (1982–86)",
+        "Members of the 11th Sarawak State Legislative Assembly",
+        "Members of the 6th Johor State Legislative Assembly",
+        "Members of the 6th Johore State Legislative Assembly",
+        "Members of the 6th Kedah State Legislative Assembly",
+        "Members of the 6th Kelantan State Legislative Assembly",
+        "Members of the 6th Malacca State Legislative Assembly",
+        "Members of the 6th Negeri Sembilan State Legislative Assembly",
+        "Members of the 6th Negri Sembilan State Legislative Assembly",
+        "Members of the 6th Pahang State Legislative Assembly",
+        "Members of the 6th Penang State Legislative Assembly",
+        "Members of the 6th Perak State Legislative Assembly",
+        "Members of the 6th Perlis State Legislative Assembly",
+        "Members of the 6th Selangor State Legislative Assembly",
+        "Members of the 6th Terengganu State Legislative Assembly",
+        "Members of the 6th Trengganu State Legislative Assembly",
+        "Members of the 7th Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1982–1986)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1982–1986)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1500.6324"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Football_Association_of_Malaysia"
+      ],
+      "redirectlabel": [
+        "Football Association of Malaya",
+        "Football association of <B>malaysia</B>",
+        "<B>Malaysia</B> fa",
+        "<B>Malaysian</B> FA",
+        "<B>Malaysian</B> Football Association",
+        "Persatuan Bolasepak <B>Malaysia</B>"
+      ],
+      "comment": [
+        "The Football Association of <B>Malaysia</B> (FAM) (Malay: Persatuan Bola Sepak <B>Malaysia</B>) is the governing"
+      ],
+      "label": [
+        "Football Association of <B>Malaysia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Football_Association_of_Malaysia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1933_establishments_in_British_Malaya",
+        "http://dbpedia.org/resource/Category:Asian_Football_Confederation_member_associations",
+        "http://dbpedia.org/resource/Category:Association_football_governing_bodies_in_Asia",
+        "http://dbpedia.org/resource/Category:Football_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1933"
+      ]
+    },
+    {
+      "score": [
+        "1482.7375"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2022_Malaysian_general_election"
+      ],
+      "redirectlabel": [
+        "15th <B>Malaysian</B> general election",
+        "2022 Padang Serai by-election",
+        "GE15",
+        "<B>Malaysian</B> general election, 2022",
+        "Next <B>Malaysian</B> general election",
+        "Results of the <B>Malaysian</B> general election, 2022 by state constituency"
+      ],
+      "label": [
+        "2022 <B>Malaysian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2022_Malaysian_general_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2022_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2022_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:General_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:November_2022_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1472.9274"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Telugus"
+      ],
+      "redirectlabel": [
+        "<B>Malaysian</B> Telugu",
+        "<B>Malaysian</B> telugu",
+        "Telugu <B>Malaysians</B>"
+      ],
+      "label": [
+        "<B>Malaysian</B> Telugus"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Telugus"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Immigration_to_Malaysia",
+        "http://dbpedia.org/resource/Category:Telugu_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1454.2886"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1959–1964)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1959-1964)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1959-64)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1959–64)",
+        "<B>Malaysian</B> State Assembly Representatives (1959-64)",
+        "<B>Malaysian</B> State Assembly Representatives (1959–64)",
+        "Members of the 1st Johor State Legislative Assembly",
+        "Members of the 1st Johore State Legislative Assembly",
+        "Members of the 1st Kedah State Legislative Assembly",
+        "Members of the 1st Kelantan State Legislative Assembly",
+        "Members of the 1st Malacca State Legislative Assembly",
+        "Members of the 1st Negeri Sembilan State Legislative Assembly",
+        "Members of the 1st Negri Sembilan State Legislative Assembly",
+        "Members of the 1st Pahang State Legislative Assembly",
+        "Members of the 1st Penang State Legislative Assembly",
+        "Members of the 1st Perak State Legislative Assembly",
+        "Members of the 1st Perlis State Legislative Assembly",
+        "Members of the 1st Selangor State Legislative Assembly",
+        "Members of the 1st Terengganu State Legislative Assembly",
+        "Members of the 1st Trengganu State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1959–1964)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1959–1964)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1443.6967"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Shah_Alam_Expressway"
+      ],
+      "redirectlabel": [
+        "KESAS",
+        "<B>Malaysian</B> expressway systems 5"
+      ],
+      "typeName": [
+        "Road",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure",
+        "RouteOfTransportation"
+      ],
+      "comment": [
+        " <B>Malaysia</B> running between Pandamaran in Klang, Selangor to Sri Petaling in Kuala Lumpur. Shah Alam"
+      ],
+      "label": [
+        "Shah Alam Expressway"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Shah_Alam_Expressway"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Road",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure",
+        "http://dbpedia.org/ontology/RouteOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_establishments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Expressways_and_highways_in_the_Klang_Valley",
+        "http://dbpedia.org/resource/Category:Expressways_in_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1441.7181"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1990–1995)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1990-1995)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1990-95)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1990–95)",
+        "<B>Malaysian</B> State Assembly Representatives (1990-95)",
+        "<B>Malaysian</B> State Assembly Representatives (1990–95)",
+        "Members of the 13th Sarawak State Legislative Assembly",
+        "Members of the 8th Johor State Legislative Assembly",
+        "Members of the 8th Kedah State Legislative Assembly",
+        "Members of the 8th Kelantan State Legislative Assembly",
+        "Members of the 8th Malacca State Legislative Assembly",
+        "Members of the 8th Negeri Sembilan State Legislative Assembly",
+        "Members of the 8th Pahang State Legislative Assembly",
+        "Members of the 8th Penang State Legislative Assembly",
+        "Members of the 8th Perak State Legislative Assembly",
+        "Members of the 8th Perlis State Legislative Assembly",
+        "Members of the 8th Selangor State Legislative Assembly",
+        "Members of the 8th Terengganu State Legislative Assembly",
+        "Members of the 9th Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1990–1995)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1990–1995)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1441.7181"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1986–1990)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1986-1990)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1986-90)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1986–90)",
+        "<B>Malaysian</B> State Assembly Representatives (1986-90)",
+        "<B>Malaysian</B> State Assembly Representatives (1986–90)",
+        "Members of the 12th Sarawak State Legislative Assembly",
+        "Members of the 7th Johor State Legislative Assembly",
+        "Members of the 7th Kedah State Legislative Assembly",
+        "Members of the 7th Kelantan State Legislative Assembly",
+        "Members of the 7th Malacca State Legislative Assembly",
+        "Members of the 7th Negeri Sembilan State Legislative Assembly",
+        "Members of the 7th Pahang State Legislative Assembly",
+        "Members of the 7th Penang State Legislative Assembly",
+        "Members of the 7th Perak State Legislative Assembly",
+        "Members of the 7th Perlis State Legislative Assembly",
+        "Members of the 7th Selangor State Legislative Assembly",
+        "Members of the 7th Terengganu State Legislative Assembly",
+        "Members of the 8th Sabah State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1986–1990)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1986–1990)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1986_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1441.7181"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2004–2008)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2004-08)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2004-2008)",
+        "List of <B>Malaysian</B> State Assembly Representatives (2004–08)",
+        "<B>Malaysian</B> State Assembly Representatives (2004-08)",
+        "<B>Malaysian</B> State Assembly Representatives (2004–08)",
+        "Members of the 11th Johor State Legislative Assembly",
+        "Members of the 11th Kedah State Legislative Assembly",
+        "Members of the 11th Kelantan State Legislative Assembly",
+        "Members of the 11th Malacca State Legislative Assembly",
+        "Members of the 11th Negeri Sembilan State Legislative Assembly",
+        "Members of the 11th Pahang State Legislative Assembly",
+        "Members of the 11th Penang State Legislative Assembly",
+        "Members of the 11th Perak State Legislative Assembly",
+        "Members of the 11th Perlis State Legislative Assembly",
+        "Members of the 11th Selangor State Legislative Assembly",
+        "Members of the 11th Terengganu State Legislative Assembly",
+        "Members of the 12th Sabah State Legislative Assembly",
+        "Members of the 16th Sarawak State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (2004–2008)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(2004–2008)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1441.7181"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1995–1999)"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1995-1999)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1995-99)",
+        "List of <B>Malaysian</B> State Assembly Representatives (1995–99)",
+        "<B>Malaysian</B> State Assembly Representatives (1995-99)",
+        "<B>Malaysian</B> State Assembly Representatives (1995–99)",
+        "Members of the 10th Sabah State Legislative Assembly",
+        "Members of the 14th Sarawak State Legislative Assembly",
+        "Members of the 9th Johor State Legislative Assembly",
+        "Members of the 9th Kedah State Legislative Assembly",
+        "Members of the 9th Kelantan State Legislative Assembly",
+        "Members of the 9th Malacca State Legislative Assembly",
+        "Members of the 9th Negeri Sembilan State Legislative Assembly",
+        "Members of the 9th Pahang State Legislative Assembly",
+        "Members of the 9th Penang State Legislative Assembly",
+        "Members of the 9th Perak State Legislative Assembly",
+        "Members of the 9th Perlis State Legislative Assembly",
+        "Members of the 9th Selangor State Legislative Assembly",
+        "Members of the 9th Terengganu State Legislative Assembly"
+      ],
+      "label": [
+        "List of <B>Malaysian</B> State Assembly Representatives (1995–1999)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Malaysian_State_Assembly_Representatives_(1995–1999)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_elections_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_Malaysia"
+      ]
+    },
+    {
+      "score": [
+        "1441.1024"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tamil_Malaysians"
+      ],
+      "redirectlabel": [
+        "List of Tamil <B>Malaysians</B>",
+        "<B>Malaysian</B> Tamils",
+        "Tamil <B>Malaysian</B>",
+        "Tamils in <B>Malaysia</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Tamil <B>Malaysians</B>, also known as <B>Malaysian</B> Tamils, are people of full or partial Tamil descent who"
+      ],
+      "label": [
+        "Tamil <B>Malaysians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tamil_Malaysians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dravidian_peoples",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Immigration_to_Malaysia",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Indian_descent",
+        "http://dbpedia.org/resource/Category:Malaysian_people_of_Tamil_descent",
+        "http://dbpedia.org/resource/Category:Tamil_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Tamil_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Tamil_diaspora_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Tamil_people"
+      ]
+    },
+    {
+      "score": [
+        "1437.1263"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Dreamgirl"
+      ],
+      "redirectlabel": [
+        "List of <B>Malaysian</B> Dreamgirl contestants",
+        "MDG (show)",
+        "MYDG",
+        "<B>Malaysian</B> Dreamgirl: <B>Malaysia's</B> First Online Reality Model Search"
+      ],
+      "typeName": [
+        "TelevisionShow",
+        "Work"
+      ],
+      "comment": [
+        "<B>Malaysian</B> Dreamgirl (often abbreviated to MDG) was an online reality television show in which a"
+      ],
+      "label": [
+        "<B>Malaysian</B> Dreamgirl"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Dreamgirl"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/TelevisionShow",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_Malaysian_television_series_debuts",
+        "http://dbpedia.org/resource/Category:2009_Malaysian_television_series_endings",
+        "http://dbpedia.org/resource/Category:Malaysian_Dreamgirl"
+      ]
+    },
+    {
+      "score": [
+        "1425.5778"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Malaysian_Masters"
+      ],
+      "redirectlabel": [
+        "Dunhill <B>Malaysian</B> Masters",
+        "Fairway <B>Malaysian</B> Masters",
+        "Rothmans <B>Malaysian</B> Masters"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "label": [
+        "<B>Malaysian</B> Masters"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Malaysian_Masters"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Former_PGA_Tour_of_Australasia_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Malaysia",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_disestablished_in_1993",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1988"
+      ]
+    }
+  ]
+}

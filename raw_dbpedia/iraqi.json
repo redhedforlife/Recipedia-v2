@@ -1,0 +1,5047 @@
+{
+  "docs": [
+    {
+      "score": [
+        "12238.651"
+      ],
+      "refCount": [
+        "855"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraq_national_football_team"
+      ],
+      "redirectlabel": [
+        "History of the <B>Iraq</B> national football team",
+        "<B>Iraq</B> football",
+        "<B>Iraq</B> soccer",
+        "<B>Iraqi</B> football",
+        "<B>Iraqi</B> football team",
+        "<B>Iraqi</B> national football team",
+        "<B>Iraqi</B> soccer",
+        "<B>Iraqi</B> soccer team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " football in <B>Iraq</B>. Most of <B>Iraq's</B> home matches are played at the Basra International Stadium. In the decade"
+      ],
+      "label": [
+        "<B>Iraq</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraq_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:AFC_Asian_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraq_national_football_team",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1948"
+      ]
+    },
+    {
+      "score": [
+        "11152.655"
+      ],
+      "refCount": [
+        "1468"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraq_War"
+      ],
+      "redirectlabel": [
+        "2003-2011 <B>iraq</B> war",
+        "2003 Gulf War",
+        "2003 <B>Iraq</B> conflict",
+        "2003 conflict in <B>Iraq</B>",
+        "2nd Gulf War",
+        "Battle for <B>iraq</B>",
+        "Battle of <B>Iraq</B>",
+        "Conflict in <B>Iraq</B>",
+        "Economic cost of the <B>Iraq</B> War",
+        "Economic costs of the <B>Iraq</B> War",
+        "Foreign involvement in the <B>Iraq</B> War",
+        "Gulf War 2",
+        "Gulf War II",
+        "Gulf war 2",
+        "Gulf war II",
+        "Invasion and Occupation of <B>Iraq</B>",
+        "<B>Irak</B> War",
+        "<B>Iraq</B> 2003",
+        "<B>Iraq</B> Conflict",
+        "<B>Iraq</B> War (2003)",
+        "<B>Iraq</B> War (2003-11)",
+        "<B>Iraq</B> War (2003-2011)",
+        "<B>Iraq</B> War (2003–11)",
+        "<B>Iraq</B> War 2003",
+        "<B>Iraq</B> War Veteran",
+        "<B>Iraq</B> invasion",
+        "<B>Iraq</B> liberation",
+        "<B>Iraq</B> war",
+        "<B>Iraqi</B> Freedom",
+        "<B>Iraqi</B> War",
+        "No War For Oil",
+        "No war for oil",
+        "Oif soldier",
+        "Operation: <B>Iraqi</B> Freedom",
+        "Operation <B>Iraq</B> Freedom",
+        "Operation <B>Iraqi</B> Freedom",
+        "Operation <B>Iraqi</B> Freedom 3",
+        "Operation <B>Iraqi</B> Freedom I",
+        "Operation <B>Iraqi</B> Freedom II",
+        "Operation <B>Iraqi</B> Freedom III",
+        "Operation <B>Iraqi</B> Freedom VI",
+        "Operation <B>Iraqi</B> Freedom soldier",
+        "Operation New Dawn (<B>Iraq</B>, 2010-2011)",
+        "Operation New Dawn (<B>Iraq</B>, 2010–2011)",
+        "Operation <B>iraqi</B> freedom soldier",
+        "Persian Gulf War II",
+        "Second <B>Iraq</B> War",
+        "Second <B>Iraq</B> war",
+        "The <B>Iraq</B> War",
+        "The war in <B>iraq</B>",
+        "The war on <B>iraq</B>",
+        "Third Gulf War",
+        "Third Persian Gulf War",
+        "WAR IN <B>IRAQ</B>",
+        "War In <B>Iraq</B>",
+        "War crimes in the <B>Iraq</B> War",
+        "War in <B>iraq</B>",
+        "War of <B>Iraq</B>",
+        "War of <B>iraq</B>",
+        "War on <B>Iraq</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "-invasion <B>Iraqi</B> government. An estimated 151,000 to 600,000 <B>Iraqis</B> were killed in the first three to four"
+      ],
+      "label": [
+        "<B>Iraq</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraq_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_conflicts",
+        "http://dbpedia.org/resource/Category:2000s_in_Iraq",
+        "http://dbpedia.org/resource/Category:2000s_in_Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraq",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:George_W._Bush_administration_controversies",
+        "http://dbpedia.org/resource/Category:History_of_Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:Imperialism",
+        "http://dbpedia.org/resource/Category:Iraq_War",
+        "http://dbpedia.org/resource/Category:Iraq_War_legal_issues",
+        "http://dbpedia.org/resource/Category:Iraq–United_States_relations",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Iraq_and_the_Levant_in_Iraq",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Iraq",
+        "http://dbpedia.org/resource/Category:Occupation_of_Iraq",
+        "http://dbpedia.org/resource/Category:Politics_of_Iraq",
+        "http://dbpedia.org/resource/Category:Presidency_of_Barack_Obama",
+        "http://dbpedia.org/resource/Category:Presidency_of_George_W._Bush",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change",
+        "http://dbpedia.org/resource/Category:War_on_terror",
+        "http://dbpedia.org/resource/Category:Wars_involving_Albania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Armenia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bulgaria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Denmark",
+        "http://dbpedia.org/resource/Category:Wars_involving_El_Salvador",
+        "http://dbpedia.org/resource/Category:Wars_involving_Estonia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Honduras",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iceland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy",
+        "http://dbpedia.org/resource/Category:Wars_involving_Japan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kazakhstan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Latvia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Lithuania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Moldova",
+        "http://dbpedia.org/resource/Category:Wars_involving_Mongolia",
+        "http://dbpedia.org/resource/Category:Wars_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Wars_involving_Nicaragua",
+        "http://dbpedia.org/resource/Category:Wars_involving_North_Macedonia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Norway",
+        "http://dbpedia.org/resource/Category:Wars_involving_Poland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Portugal",
+        "http://dbpedia.org/resource/Category:Wars_involving_Romania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Singapore",
+        "http://dbpedia.org/resource/Category:Wars_involving_Slovakia",
+        "http://dbpedia.org/resource/Category:Wars_involving_South_Korea",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Thailand",
+        "http://dbpedia.org/resource/Category:Wars_involving_Tonga",
+        "http://dbpedia.org/resource/Category:Wars_involving_Ukraine",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Dominican_Republic",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Islamic_State_of_Iraq_and_the_Levant",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Philippines",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "7847.4126"
+      ],
+      "refCount": [
+        "132"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Kurdistan"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of <B>Iraqi</B> Kurdistan",
+        "Bashur",
+        "Bashur Kurdistan",
+        "Başûrê Kurdistanê",
+        "Culture of <B>Iraqi</B> Kurdistan",
+        "Demographics of <B>Iraqi</B> Kurdistan",
+        "Education in <B>Iraqi</B> Kurdistan",
+        "Education in Kurdistan",
+        "Geography of <B>Iraqi</B> Kurdistan",
+        "Herêmî Kurdistan",
+        "History of <B>Iraqi</B> Kurdistan",
+        "Immigration to <B>Iraqi</B> Kurdistan",
+        "<B>Iraqi</B> Kudistan",
+        "<B>Iraqi</B> Kurdish",
+        "<B>Iraqi</B> Kurdistan Region",
+        "<B>Iraqi</B> Kurdistan region",
+        "<B>Iraqi</B> kurdistan",
+        "Kurd (<B>Iraq</B>)",
+        "Kurdish Autonomous Republic",
+        "Kurdish Autonomous Zone",
+        "Kurdish <B>Iraq</B>",
+        "Kurdish autonomous zone",
+        "Kurdistan (<B>Iraq</B>)",
+        "Kurdistan Autonomous Region",
+        "Kurdistan Federal Region",
+        "Kurdistan region of <B>Iraq</B>",
+        "North of <B>Iraq</B>",
+        "Politics of the Kurdistan Regional Government",
+        "Politics of the Kurdistan autonomous region",
+        "Region of Kurdistan",
+        "Religion in <B>Iraqi</B> Kurdistan",
+        "South Kurdistan",
+        "Southern Kurdistan",
+        "The Kurdish experience in <B>Iraq</B>",
+        "The Kurdish experience in <B>iraq</B>"
+      ],
+      "comment": [
+        "<B>Iraqi</B> Kurdistan or Southern Kurdistan (Kurdish: Başûrê Kurdistanê ,باشووری کوردستان ,باشووری"
+      ],
+      "label": [
+        "<B>Iraqi</B> Kurdistan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Kurdistan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eastern_Mediterranean",
+        "http://dbpedia.org/resource/Category:Geography_of_Iraq",
+        "http://dbpedia.org/resource/Category:Geography_of_Kurdistan",
+        "http://dbpedia.org/resource/Category:Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:Kurdistan",
+        "http://dbpedia.org/resource/Category:Kurdistan_independence_movement",
+        "http://dbpedia.org/resource/Category:Kurds_in_Iraq",
+        "http://dbpedia.org/resource/Category:Levant",
+        "http://dbpedia.org/resource/Category:Politics_of_Iraq",
+        "http://dbpedia.org/resource/Category:Separatism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Iraq",
+        "http://dbpedia.org/resource/Category:Upper_Mesopotamia"
+      ]
+    },
+    {
+      "score": [
+        "6777.0444"
+      ],
+      "refCount": [
+        "96"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "Dawri Al-Nokba",
+        "Dawri Al-Nokhba",
+        "Football League of <B>Iraq</B>",
+        "<B>Iraq</B> Football League",
+        "<B>Iraq</B> Premier League",
+        "<B>Iraq</B> Super League",
+        "<B>Iraqi</B> Advanced League",
+        "<B>Iraqi</B> Elite League",
+        "<B>Iraqi</B> League",
+        "<B>Iraqi</B> National Clubs First Division",
+        "<B>Iraqi</B> National League",
+        "<B>Iraqi</B> Premier Division",
+        "<B>Iraqi</B> Super League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Premier League (Arabic: الدوري العراقي الممتاز‎, romanized: Al-Dawri Al-<B>Iraqi</B> Al-Mumtaz"
+      ],
+      "label": [
+        "<B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1974",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "6456.72"
+      ],
+      "refCount": [
+        "2489"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraq"
+      ],
+      "redirectlabel": [
+        "A'raq",
+        "Aj-Jumhuriyah Al-'<B>Iraqiyah</B>",
+        "Al-'<B>Iraq</B>",
+        "Al-‘<B>Irāq</B>",
+        "Central <B>Iraq</B>",
+        "Eragh",
+        "Eraq",
+        "Etymology of <B>Iraq</B>",
+        "Housing in <B>Iraq</B>",
+        "<B>IRAQ</B>",
+        "ISO 3166-1:IQ",
+        "<B>Irak</B>-Arabi",
+        "<B>Irak</B>",
+        "<B>Iraq</B> (name)",
+        "<B>Iraqe</B>",
+        "<B>Iraqê</B>",
+        "<B>Iraw</B>",
+        "<B>Irāq</B>",
+        "Islamic Republic of <B>Iraq</B>",
+        "Itaq",
+        "Jumhuriyyat ul-ʿIraq",
+        "Jumhūriyyat al-‘<B>Irāq</B>",
+        "Jumhūriyyat ul-ʿIrāq",
+        "Komara <B>Iraqe</B>",
+        "Komara <B>Iraqê</B>",
+        "Name of <B>Iraq</B>",
+        "Republic of <B>Iraq</B>",
+        "South <B>Iraq</B>",
+        "State of <B>Iraq</B>",
+        "Sunnistan, Shiastan and Kurdistan",
+        "Sunnistan",
+        "The <B>Iraq</B>",
+        "The <B>iraq</B>",
+        "الجمهورية العراقية",
+        "العراق",
+        "عيَراق",
+        "كۆماری عێراق"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Iraq</B> (,  () or ; Arabic: اَلْعِرَاق‎, al-ʿirāq; Kurdish: عێراق‎ Êraq), officially the Republic of"
+      ],
+      "label": [
+        "<B>Iraq</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraq"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Federal_republics",
+        "http://dbpedia.org/resource/Category:Iraq",
+        "http://dbpedia.org/resource/Category:Kurdish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Member_states_of_OPEC",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Arab_League",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Near_Eastern_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1932",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "5042.291"
+      ],
+      "refCount": [
+        "440"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iran–Iraq_War"
+      ],
+      "redirectlabel": [
+        "1980-1988 <B>Iran</B>-<B>Iraq</B> War",
+        "1980-88 <B>Iran</B>-<B>Iraq</B> War",
+        "1980 Middle East War",
+        "Aftermath of the <B>Iran</B>-<B>Iraq</B> War",
+        "Aftermath of the <B>Iran</B>–<B>Iraq</B> War",
+        "Casualties of the <B>Iran</B>-<B>Iraq</B> War",
+        "Casualties of the <B>Iran</B>–<B>Iraq</B> War",
+        "Economic effects of the <B>Iran</B>-<B>Iraq</B> War",
+        "Economic effects of the <B>Iran</B>–<B>Iraq</B> War",
+        "Economic impact of the <B>Iran</B>-<B>Iraq</B> War",
+        "Economic impact of the <B>Iran</B>–<B>Iraq</B> War",
+        "Holy defense",
+        "Imposed War",
+        "<B>Iran</B>-<B>Irak</B> War",
+        "<B>Iran</B>-<B>Iraq</B> War.",
+        "<B>Iran</B>-<B>Iraq</B> War",
+        "<B>Iran</B>-<B>Iraq</B> war",
+        "<B>Iran</B>-<B>iraq</B> war",
+        "<B>Iran</B>/<B>Iraq</B> War",
+        "<B>Iran</B>/<B>Iraq</B> war",
+        "<B>Iran</B> <B>Iraq</B> War",
+        "<B>Iran</B> <B>Iraq</B> war",
+        "<B>Iran</B> War",
+        "<B>Iran</B> <B>iraq</B> war",
+        "Iranian-<B>Iraqi</B> War",
+        "Iranian-<B>iraqi</B> war",
+        "Iranian <B>Iraqi</B> War",
+        "Iranian <B>iraqi</B> war",
+        "Iranian–<B>Iraqi</B> War",
+        "Iranian–<B>iraqi</B> war",
+        "<B>Iran</B>–<B>Iraq</B> War.",
+        "<B>Iran</B>–<B>Iraq</B> war",
+        "<B>Iran</B>–<B>iraq</B> war",
+        "<B>Iraq</B>-<B>Iran</B> War",
+        "<B>Iraq</B>-<B>Iran</B> war",
+        "<B>Iraq</B>-<B>iran</B> war",
+        "<B>Iraq</B> <B>Iran</B> War",
+        "<B>Iraq</B> and <B>Iran</B> War",
+        "<B>Iraqi</B>-Iranian War",
+        "<B>Iraqi</B>-Persian War",
+        "<B>Iraq</B>–<B>Iran</B> War",
+        "Operation Karbala 5 code words",
+        "Saddam's Qadisiyyah",
+        "Saddam's Qadissiyah",
+        "Saddam Hussein's military forces invaded <B>Iran</B>",
+        "Saddām's Qādisiyyah",
+        "U.S. involvement in the <B>Iran</B>-<B>Iraq</B> War",
+        "U.S. involvement in the <B>Iran</B>–<B>Iraq</B> War",
+        "United States involvement in the <B>Iran</B>-<B>Iraq</B> War",
+        "United States involvement in the <B>Iran</B>–<B>Iraq</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Iran</B>–<B>Iraq</B> War (Persian: جنگ ایران و عراق‎) (Arabic: حرب الخليج الأولى‎) began on 22 September"
+      ],
+      "label": [
+        "<B>Iran</B>–<B>Iraq</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iran–Iraq_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_conflicts",
+        "http://dbpedia.org/resource/Category:1980s_in_Iran",
+        "http://dbpedia.org/resource/Category:1980s_in_Iraq",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Conflicts_involving_the_People's_Mujahedin_of_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Islamic_Republic_of_Iran",
+        "http://dbpedia.org/resource/Category:History_of_the_Persian_Gulf",
+        "http://dbpedia.org/resource/Category:Invasions_by_Iraq",
+        "http://dbpedia.org/resource/Category:Invasions_of_Iran",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_War",
+        "http://dbpedia.org/resource/Category:Iran–Iraq_relations",
+        "http://dbpedia.org/resource/Category:Iran–Saudi_Arabia_relations",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Ruhollah_Khomeini",
+        "http://dbpedia.org/resource/Category:Saddam_Hussein",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga"
+      ]
+    },
+    {
+      "score": [
+        "3992.8828"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Turkmen"
+      ],
+      "redirectlabel": [
+        "History of the <B>Iraqi</B> Turkmens",
+        "<B>Iraqi</B> Turk",
+        "<B>Iraqi</B> Turkish",
+        "<B>Iraqi</B> Turkman",
+        "<B>Iraqi</B> Turkman language",
+        "<B>Iraqi</B> Turkmen language",
+        "<B>Iraqi</B> Turkmens",
+        "<B>Iraqi</B> Turkoman",
+        "<B>Iraqi</B> Turkomen",
+        "<B>Iraqi</B> Turks",
+        "Persecution of <B>Iraqi</B> Turkmens",
+        "Turkish <B>Iraqis</B>",
+        "Turkmen of <B>Iraq</B>",
+        "Turkmen of <B>iraq</B>",
+        "Turkomans of <B>Iraq</B>",
+        "Turks in <B>Iraq</B>",
+        "Turks of <B>Iraq</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " Türkmenleri), also referred to as <B>Iraqi</B> Turks or Turks of <B>Iraq</B> (Arabic: تركمان العراق‎; Turkish: <B>Irak</B>"
+      ],
+      "label": [
+        "<B>Iraqi</B> Turkmen"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Turkmen"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Demographics_of_Iraq",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iraq",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Arab_world",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:Iraqi_Turkmens",
+        "http://dbpedia.org/resource/Category:Muslim_communities_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "3902.609"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anglo-Iraqi_War"
+      ],
+      "redirectlabel": [
+        "Anglo <B>Iraqi</B> War",
+        "Anglo–<B>Iraqi</B> War",
+        "Battle of Basra (1941)",
+        "Battle of Fallujah (1941)",
+        "Battle of Habbaniya",
+        "Battle of Habbaniyah",
+        "Capture of Baghdad (1941)",
+        "<B>Iraq</B> 1941",
+        "<B>Iraq</B> in World War II",
+        "Operation Regatta",
+        "Operation Regulta",
+        "Operation Sabine",
+        "Siege of Habbaniya",
+        "Siege of Habbaniyah"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Anglo–<B>Iraqi</B> War (2–31 May 1941) was a British-led Allied military campaign against <B>Iraq</B> under"
+      ],
+      "label": [
+        "Anglo-<B>Iraqi</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anglo-Iraqi_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1941_in_Iraq",
+        "http://dbpedia.org/resource/Category:Campaigns,_operations_and_battles_of_World_War_II_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1941",
+        "http://dbpedia.org/resource/Category:Invasions_of_Iraq",
+        "http://dbpedia.org/resource/Category:Iraq_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Iraq–United_Kingdom_military_relations",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Iraq",
+        "http://dbpedia.org/resource/Category:May_1941_events",
+        "http://dbpedia.org/resource/Category:Middle_East_theatre_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Germany_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_India_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_Italy_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_United_Kingdom_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_British_India",
+        "http://dbpedia.org/resource/Category:Wars_involving_Germany",
+        "http://dbpedia.org/resource/Category:Wars_involving_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy",
+        "http://dbpedia.org/resource/Category:Wars_involving_Jordan",
+        "http://dbpedia.org/resource/Category:Wars_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "3608.8655"
+      ],
+      "refCount": [
+        "119"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ba'athist_Iraq"
+      ],
+      "redirectlabel": [
+        "Ba'ath regime",
+        "Ba'thist <B>Iraq</B>",
+        "Ba'thist regime",
+        "Baathist <B>Iraq</B>",
+        "Baʽathist <B>Iraq</B>",
+        "Government of Saddam Hussein",
+        "History of <B>Iraq</B> (1963-2003)",
+        "History of <B>Iraq</B> (1963–2003)",
+        "History of <B>Iraq</B> (1968-2003)",
+        "History of <B>Iraq</B> (1968–2003)",
+        "History of <B>Iraq</B> under Ba'ath rule",
+        "History of <B>Iraq</B> under Ba'athist rule",
+        "History of <B>Iraq</B> under Baath rule",
+        "History of <B>Iraq</B> under Baathist rule",
+        "History of Mesopotamia (1968-2003)",
+        "History of Mesopotamia (1968–2003)",
+        "<B>Iraq</B> Republic (1968-2003)",
+        "<B>Iraq</B> Republic (1968–2003)",
+        "<B>Iraq</B> under Ba'ath Party rule",
+        "<B>Iraq</B> under Ba'athist rule",
+        "<B>Iraq</B> under Saddam Hussein",
+        "<B>Iraqi</B> Ba'athism",
+        "<B>Iraqi</B> Ba'th Regime",
+        "<B>Iraqi</B> Ba'thi regime",
+        "<B>Iraqi</B> Bath Regime",
+        "<B>Iraqi</B> Bathi regime",
+        "<B>Iraqi</B> Ba’th Regime",
+        "<B>Iraqi</B> Ba’thi regime",
+        "<B>Iraqi</B> Republic (1968-2003)",
+        "<B>Iraqi</B> Republic (1968–2003)",
+        "<B>Iraqi</B> history (1968-2003)",
+        "<B>Iraqi</B> history (1968–2003)",
+        "Republic of <B>Iraq</B> (1968-2003)",
+        "Republic of <B>Iraq</B> (1968–2003)",
+        "Saddam-era",
+        "Saddam Hussein's <B>Iraq</B>",
+        "Saddam Hussein regime",
+        "Saddam regime",
+        "Saddamist Ba'athism",
+        "Saddamists"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Ba'athist <B>Iraq</B>, formally the <B>Iraqi</B> Republic, covers the history of <B>Iraq</B> between 1968 and 2003"
+      ],
+      "label": [
+        "Ba'athist <B>Iraq</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ba'athist_Iraq"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:2003_disestablishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_republics",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Ba'athism",
+        "http://dbpedia.org/resource/Category:Former_Arab_states",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:History_of_Iraq_(1958–present)",
+        "http://dbpedia.org/resource/Category:History_of_the_Ba'ath_Party",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_2003",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1968",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "3471.3044"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_nationalism"
+      ],
+      "redirectlabel": [
+        "Babylonian nationalism",
+        "Greater <B>Iraq</B>",
+        "<B>Iraqi</B> Irredentism",
+        "<B>Iraqi</B> nationalist",
+        "<B>Iraqism</B>",
+        "Mesopotamianism"
+      ],
+      "comment": [
+        "<B>Iraqi</B> nationalism is a form of nationalism which asserts the belief that <B>Iraqis</B> are a nation and"
+      ],
+      "label": [
+        "<B>Iraqi</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iraqi_nationalism",
+        "http://dbpedia.org/resource/Category:Politics_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "3428.2317"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Iraq</B>",
+        "History of the <B>Iraqi</B> Air Force",
+        "IQAF",
+        "<B>IrAF</B>",
+        "<B>Iraq</B> Air Force",
+        "<B>Iraqi</B> airforce",
+        "RIrAF",
+        "Royal <B>Iraqi</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Air Force (IQAF or <B>IrAF</B>; Arabic: القوات الجوية العراقية, Al Quwwat al Jawwiya al <B>Iraqiya</B>"
+      ],
+      "label": [
+        "<B>Iraqi</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1931_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Iraqi_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "3364.9219"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi–Kurdish_conflict"
+      ],
+      "redirectlabel": [
+        "Arab League and the <B>Iraqi</B>-Kurdish conflict",
+        "Arab League and the <B>Iraqi</B>–Kurdish conflict",
+        "<B>Iraqi</B>-Kurdish War",
+        "<B>Iraqi</B>-Kurdish conflict",
+        "<B>Iraqi</B> Kurdish War",
+        "Kurdish-<B>Iraqi</B> War",
+        "Kurdish-<B>Iraqi</B> conflict",
+        "Kurdish insurgency in northern <B>Iraq</B>",
+        "Kurdish–<B>Iraqi</B> conflict",
+        "Two-state solution (<B>Iraqi</B>-Kurdish negotiations)",
+        "Two-state solution (<B>Iraqi</B>–Kurdish negotiations)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " conflict lasted until the US invasion of <B>Iraq</B> in 2003, though tensions between the Kurdish autonomy and the central <B>Iraqi</B> government have continued."
+      ],
+      "label": [
+        "<B>Iraqi</B>–Kurdish conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi–Kurdish_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:History_of_Kurdistan",
+        "http://dbpedia.org/resource/Category:History_of_the_Kurdish_people",
+        "http://dbpedia.org/resource/Category:Iraqi–Kurdish_conflict",
+        "http://dbpedia.org/resource/Category:Kurdish_rebellions",
+        "http://dbpedia.org/resource/Category:Kurdish_separatism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Kurdistan_independence_movement",
+        "http://dbpedia.org/resource/Category:Military_history_of_Iraq",
+        "http://dbpedia.org/resource/Category:Military_history_of_Kurdistan_Region_(Iraq)",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Separatism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kurdistan_Region_(Iraq)"
+      ]
+    },
+    {
+      "score": [
+        "3329.6077"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_insurgency_(2011–2013)"
+      ],
+      "redirectlabel": [
+        "10 August 2013 <B>Iraq</B> attacks",
+        "16 January 2013 <B>Iraq</B> attacks",
+        "1 April 2013 <B>Iraq</B> attacks",
+        "20 July 2013 Baghdad attacks",
+        "21 December 2013 <B>Iraq</B> attacks",
+        "3 February 2013 <B>Iraq</B> attacks",
+        "3 September 2013 Baghdad attacks",
+        "Aftermath of the <B>Iraq</B> War",
+        "August 2013 <B>Iraq</B> attacks",
+        "December 2012 <B>Iraq</B> attacks",
+        "ISIL insurgency in <B>Iraq</B> (2011-2013)",
+        "ISIL insurgency in <B>Iraq</B> (2011–2013)",
+        "<B>Iraqi</B> insurgency (2011-13)",
+        "<B>Iraqi</B> insurgency (2011-14)",
+        "<B>Iraqi</B> insurgency (2011-2013)",
+        "<B>Iraqi</B> insurgency (2011-present)",
+        "<B>Iraqi</B> insurgency (2011–13)",
+        "<B>Iraqi</B> insurgency (2011–14)",
+        "<B>Iraqi</B> insurgency (2011–present)",
+        "<B>Iraqi</B> insurgency (post-U.S. withdrawal)",
+        "<B>Iraqi</B> insurgency (post U.S. withdrawal)",
+        "<B>Iraqi</B> insurgency (post US withdrawal)",
+        "<B>Iraqi</B> insurgency post-U.S. withdrawal",
+        "January 2013 Tuz Khormato bombing",
+        "September 2013 <B>Iraq</B> attacks",
+        "Timeline of the <B>Iraqi</B> insurgency (2012)"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> insurgency, later referred to as the <B>Iraq</B> Crisis, escalated in 2011, resulting in violent"
+      ],
+      "label": [
+        "<B>Iraqi</B> insurgency (2011–2013)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_insurgency_(2011–2013)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraq",
+        "http://dbpedia.org/resource/Category:Al-Qaeda_activities_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_Winter_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_insurgency_(2011–2013)",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Iraq_and_the_Levant_in_Iraq",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Religiously_motivated_violence_in_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran",
+        "http://dbpedia.org/resource/Category:Wars_involving_Syria",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Islamic_State_of_Iraq_and_the_Levant",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga"
+      ]
+    },
+    {
+      "score": [
+        "3239.237"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Ground_Forces"
+      ],
+      "redirectlabel": [
+        "1st <B>Iraqi</B> Armored Brigade",
+        "Army of <B>Iraq</B>",
+        "History of the <B>Iraqi</B> Army",
+        "<B>Iraq</B> army",
+        "<B>Iraqi</B> Army",
+        "<B>Iraqi</B> Army Aviation Corps",
+        "<B>Iraqi</B> Army Division",
+        "<B>Iraqi</B> Regular Army",
+        "<B>Iraqi</B> Soldiers",
+        "<B>Iraqi</B> army",
+        "<B>Iraqi</B> national guard",
+        "<B>Iraqi</B> soldier",
+        "<B>Iraqi</B> soldiers",
+        "<B>Iraqi</B> troops",
+        "New <B>Iraqi</B> Army",
+        "New <B>Iraqi</B> army",
+        "Old <B>Iraqi</B> army",
+        "Regular <B>Iraqi</B> Army",
+        "Royal <B>Iraqi</B> Army"
+      ],
+      "label": [
+        "<B>Iraqi</B> Ground Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Ground_Forces"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_Ground_Forces",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_the_Iraq_War"
+      ]
+    },
+    {
+      "score": [
+        "3227.7275"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–2018_Iraqi_protests"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Iraqi</B> protests",
+        "2015-17 <B>Iraqi</B> protests",
+        "2015-18 <B>Iraqi</B> protests",
+        "2015-19 <B>Iraqi</B> protests",
+        "2015-2016 <B>Iraqi</B> protests",
+        "2015-2017 <B>Iraqi</B> protests",
+        "2015-2018 <B>Iraqi</B> protests",
+        "2015-2019 <B>Iraqi</B> protests",
+        "2015 - 18 <B>Iraqi</B> protests",
+        "2015 <B>Iraqi</B> protests",
+        "2015–16 <B>Iraqi</B> protests",
+        "2015–17 <B>Iraqi</B> protests",
+        "2015–18 <B>Iraqi</B> protests",
+        "2015–19 <B>Iraqi</B> protests",
+        "2015–2016 <B>Iraqi</B> protests",
+        "2015–2017 <B>Iraqi</B> protests",
+        "2015–2019 <B>Iraqi</B> protests",
+        "2018-19 <B>Iraqi</B> protests",
+        "2018-2019 <B>Iraqi</B> protests",
+        "2018 <B>Iraqi</B> protests",
+        "2018 protests in <B>Iraq</B>",
+        "2018–19 <B>Iraqi</B> protests",
+        "2018–2019 <B>Iraqi</B> protests"
+      ],
+      "label": [
+        "2015–2018 <B>Iraqi</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–2018_Iraqi_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Baghdad",
+        "http://dbpedia.org/resource/Category:2015_in_Iraq",
+        "http://dbpedia.org/resource/Category:2015_protests",
+        "http://dbpedia.org/resource/Category:2016_in_Iraq",
+        "http://dbpedia.org/resource/Category:2016_protests",
+        "http://dbpedia.org/resource/Category:2017_in_Iraq",
+        "http://dbpedia.org/resource/Category:2017_protests",
+        "http://dbpedia.org/resource/Category:2018_in_Iraq",
+        "http://dbpedia.org/resource/Category:2018_protests",
+        "http://dbpedia.org/resource/Category:2018–2022_Arab_protests",
+        "http://dbpedia.org/resource/Category:2019_in_Iraq",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:Protests_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "3005.3801"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ba'ath_Party_(Iraqi-dominated_faction)"
+      ],
+      "redirectlabel": [
+        "Ba'ath Party (Baghdad)",
+        "Ba'ath Party (<B>Iraqi</B>-led faction)",
+        "Baath Party (Baghdad)",
+        "Baath Party (<B>Iraqi</B>-dominated faction)",
+        "Baʽath Party (<B>Iraqi</B>-dominated faction)",
+        "<B>Iraqi</B>-led Ba'ath Party",
+        "<B>Iraqi</B> Ba'ath movement",
+        "<B>Iraqi</B> Ba'thi",
+        "<B>Iraqi</B> Bathi",
+        "<B>Iraqi</B> Ba’thi",
+        "جمعية التجمع القومي الديمقراطي"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "-<B>Iraqi</B> Ba'ath movement, is a Ba'athist political party which was headquartered in Baghdad, <B>Iraq</B> until"
+      ],
+      "label": [
+        "Ba'ath Party (<B>Iraqi</B>-dominated faction)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ba'ath_Party_(Iraqi-dominated_faction)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1966_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Ba'ath_Party",
+        "http://dbpedia.org/resource/Category:Ba'athist_parties",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Banned_socialist_parties",
+        "http://dbpedia.org/resource/Category:History_of_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Egypt",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Syria",
+        "http://dbpedia.org/resource/Category:Pan-Arabist_political_parties",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1966",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Bahrain",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Egypt",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Jordan",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Libya",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Mauritania",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Sudan",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Syria",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Tunisia",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Yemen",
+        "http://dbpedia.org/resource/Category:Transnational_political_parties"
+      ]
+    },
+    {
+      "score": [
+        "2872.428"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Iraqi</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Iraqi</B> Premier League (Arabic: الدوري العراقي الممتاز 2018–19‎) was the 45th season of"
+      ],
+      "label": [
+        "2018–19 <B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Iraqi_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2018–19_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2739.9404"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_dinar"
+      ],
+      "redirectlabel": [
+        "Currency of <B>Iraq</B>",
+        "IQD",
+        "ISO 4217:IQD",
+        "Iqd",
+        "<B>Iraqi</B> Dinar",
+        "<B>Iraqi</B> currency",
+        "<B>Iraqi</B> money"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> dinar (Arabic pronunciation: [diːˈnɑːr]) (Arabic: دينار, (sign: د.ع; code: IQD) is the"
+      ],
+      "label": [
+        "<B>Iraqi</B> dinar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_dinar"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1932",
+        "http://dbpedia.org/resource/Category:Currencies_of_Iraq",
+        "http://dbpedia.org/resource/Category:Economy_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2739.2134"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Abdulhadi_al-Iraqi"
+      ],
+      "redirectlabel": [
+        "'Abd Al-Hadi Al-<B>Iraqi</B>",
+        "'Abd Al-Hadi Al <B>Iraqi</B>",
+        "Abd Al Hadi al-<B>Iraqi</B>",
+        "Abd al-Hadi al-<B>Iraqi</B>",
+        "Abd al Hadi al <B>Iraqi</B>",
+        "Abdal Hadi al-<B>Iraqi</B>",
+        "Abdel Hadi Al-<B>Iraqi</B>",
+        "Abdul Hadi Al-<B>Iraqi</B>",
+        "Abdul Hadi Al Araqi",
+        "Abdul Hadi Al <B>Iraqi</B>",
+        "Abdul Hadi al-<B>Iraqi</B>",
+        "Abdul Hadi al <B>Iraqi</B>",
+        "Abdul Hadj Al <B>Iraqi</B>",
+        "Guantanamo captive 10025",
+        "ISN 10025",
+        "Nashwan Abdulrazaq Abdulbaqi",
+        "Nashwan al Tamir"
+      ],
+      "label": [
+        "Abdulhadi al-<B>Iraqi</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Abdulhadi_al-Iraqi"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1961_births",
+        "http://dbpedia.org/resource/Category:Al-Qaeda_leaders",
+        "http://dbpedia.org/resource/Category:Al-Qaeda_members",
+        "http://dbpedia.org/resource/Category:Detainees_of_the_Guantanamo_Bay_detention_camp",
+        "http://dbpedia.org/resource/Category:Individuals_designated_as_terrorists_by_the_United_States_government",
+        "http://dbpedia.org/resource/Category:Iraqi_Sunni_Muslims",
+        "http://dbpedia.org/resource/Category:Iraqi_al-Qaeda_members",
+        "http://dbpedia.org/resource/Category:Iraqi_extrajudicial_prisoners_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:People_from_Mosul",
+        "http://dbpedia.org/resource/Category:People_subject_to_extraordinary_rendition_by_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2727.0232"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Revolt"
+      ],
+      "redirectlabel": [
+        "1920 <B>Iraqi</B> Revolt",
+        "1920 <B>Iraqi</B> revolt",
+        "1920 <B>iraqi</B> revolt",
+        "1920 rebellion",
+        "1920 revolution",
+        "Great <B>Iraqi</B> Revolt of 1920",
+        "Great <B>Iraqi</B> Revolution",
+        "Great <B>Iraqi</B> Revolution 1920",
+        "Great <B>Iraqi</B> Revolution of 1920",
+        "Great Uprising of 1920",
+        "<B>Iraqi</B> revolt against the British",
+        "<B>Iraqi</B> revolt of 1920",
+        "Mesopotamian Revolt",
+        "The <B>Iraqi</B> revolt of 1920"
+      ],
+      "label": [
+        "<B>Iraqi</B> Revolt"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Revolt"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_in_Iraq",
+        "http://dbpedia.org/resource/Category:1920s_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:20th-century_military_history_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1920",
+        "http://dbpedia.org/resource/Category:Iraqi_revolt_of_1920",
+        "http://dbpedia.org/resource/Category:Iraq–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Iraq",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Asia",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2710.6038"
+      ],
+      "refCount": [
+        "112"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kurdistan_Region"
+      ],
+      "redirectlabel": [
+        "Elections in <B>Iraqi</B> Kurdistan",
+        "Government of <B>Iraqi</B> Kurdistan",
+        "Government of Kurdistan",
+        "Halabja Boys College",
+        "History of Kurdistan Region",
+        "Human rights in the Kurdistan Region",
+        "<B>Iraqi</B> Kurdistan government",
+        "Kurdish Autonomous Regeon",
+        "Kurdish Autonomous Region",
+        "Kurdish Regional Government",
+        "Kurdistan Autonomous Republic",
+        "Kurdistan Government",
+        "Kurdistan Presidency Council",
+        "Kurdistan Region-<B>Iraq</B>",
+        "Kurdistan Region of <B>Iraq</B>",
+        "Kurdistan region",
+        "Kurdistan regional Government",
+        "Ministry of Education (<B>Iraqi</B> Kurdistan)",
+        "North <B>Iraq</B>",
+        "Politics of <B>Iraqi</B> Kurdistan",
+        "Politics of Kurdistan Region",
+        "Zanyari Agency",
+        "حکوومەتی هەرێمی کوردستان"
+      ],
+      "comment": [
+        " Kurdistan Region encompasses most of <B>Iraqi</B> Kurdistan but excludes Kurdish areas which <B>Iraq</B> has been"
+      ],
+      "label": [
+        "Kurdistan Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kurdistan_Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Autonomous_regions",
+        "http://dbpedia.org/resource/Category:Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:Kurdistan",
+        "http://dbpedia.org/resource/Category:Kurdistan_Region_(Iraq)",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "2708.6267"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017_Iraqi–Kurdish_conflict"
+      ],
+      "redirectlabel": [
+        "2017 <B>Iraqi</B>-Kurdish conflict",
+        "2017 <B>Iraqi</B> Kurdish conflict",
+        "<B>Iraqi</B> Kurdistan conflict (2017)",
+        "Third Arab-Kurdish War in <B>Iraq</B>",
+        "Third <B>Iraq</B>-Kurdish War",
+        "Third <B>Iraq</B>-Kurdistan War",
+        "Third <B>Iraqi</B>-Kurdish War",
+        "Third <B>Iraqi</B> Kurdish War",
+        "Third <B>Iraqi</B>–Kurdish War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2017 <B>Iraqi</B>–Kurdish conflict occurred in and around the Kurdish region of northern <B>Iraq</B>, and"
+      ],
+      "label": [
+        "2017 <B>Iraqi</B>–Kurdish conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017_Iraqi–Kurdish_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Iraq",
+        "http://dbpedia.org/resource/Category:2017_in_the_Iraqi_Civil_War",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2017",
+        "http://dbpedia.org/resource/Category:Iraqi–Kurdish_conflict",
+        "http://dbpedia.org/resource/Category:Kirkuk_Governorate",
+        "http://dbpedia.org/resource/Category:October_2017_events_in_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga"
+      ]
+    },
+    {
+      "score": [
+        "2696.8538"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqis"
+      ],
+      "redirectlabel": [
+        "Assyrian Arabs",
+        "Babylonian Arabs",
+        "Ethnic Mesopotamians",
+        "Genetic studies on <B>Iraqis</B>",
+        "<B>Iraki</B>",
+        "<B>Iraqi</B> Arabs",
+        "<B>Iraqi</B> Assyrian people",
+        "<B>Iraqi</B> people",
+        "<B>Iraqui</B>",
+        "Mesopotamian Arabs",
+        "Mesopotamian people",
+        "People of <B>Iraq</B>",
+        "People of Mesopotamia",
+        "The <B>Iraqis</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> people, sometimes colloquially, Mesopotamians, or the people of Mesopotamia (Arabic"
+      ],
+      "label": [
+        "<B>Iraqis</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iraq",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iraqi_people",
+        "http://dbpedia.org/resource/Category:Society_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2664.2598"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "label": [
+        "<B>Iraqi</B> insurgency"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_insurgency"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_insurgency"
+      ],
+      "redirectlabel": [
+        "History of <B>Iraqi</B> insurgency",
+        "History of <B>iraqi</B> insurgency",
+        "Insurgency in <B>Iraq</B>",
+        "<B>Iraq</B> Insurgency",
+        "<B>Iraq</B> insurgency",
+        "<B>Iraqi</B> Insurgency",
+        "<B>Iraqi</B> Insurgents",
+        "<B>Iraqi</B> insurgence",
+        "<B>Iraqi</B> insurgency (disambiguation)",
+        "<B>Iraqi</B> insurgent",
+        "<B>Iraqi</B> insurgents"
+      ]
+    },
+    {
+      "score": [
+        "2619.9558"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Iraqi_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "2010 <B>Iraq</B> election",
+        "2010 <B>Iraqi</B> Elections",
+        "2010 <B>Iraqi</B> election",
+        "2010 <B>Iraqi</B> elections",
+        "2010 <B>Iraqi</B> general election",
+        "2010 <B>Iraqi</B> legislative election",
+        "<B>Iraq</B> 2010 elections",
+        "<B>Iraqi</B> 2010 election",
+        "<B>Iraqi</B> general election, 2010",
+        "<B>Iraqi</B> legislative election, 2009",
+        "<B>Iraqi</B> legislative election, 2010",
+        "<B>Iraqi</B> legislative election of 2010",
+        "<B>Iraqi</B> parliamentary election, 2010",
+        "<B>Iraqi</B> parliamentary elections, 2010"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " the Council of Representatives of <B>Iraq</B> who would elect the <B>Iraqi</B> prime minister and president. The"
+      ],
+      "label": [
+        "2010 <B>Iraqi</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Iraqi_parliamentary_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2010_elections_in_Iraq",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Iraq",
+        "http://dbpedia.org/resource/Category:March_2010_events_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2583.23"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_cuisine"
+      ],
+      "redirectlabel": [
+        "Alcohol in <B>Iraq</B>",
+        "Ancient <B>Iraqi</B> cuisine",
+        "Cuisine - <B>Iraq</B>",
+        "Cuisine of <B>Iraq</B>",
+        "History of <B>Iraqi</B> cuisine",
+        "<B>Iraqi</B> Cuisine",
+        "<B>Iraqi</B> food",
+        "<B>Iraqi</B> sweets",
+        "List of <B>Iraqi</B> breads and pastries",
+        "Mesopotamian cuisine"
+      ],
+      "comment": [
+        "<B>Iraqi</B> cuisine or Mesopotamian cuisine has a long history going back some 10,000 years – to the"
+      ],
+      "label": [
+        "<B>Iraqi</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_cuisine",
+        "http://dbpedia.org/resource/Category:Iraqi_cuisine",
+        "http://dbpedia.org/resource/Category:Levantine_cuisine",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2539.7913"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "History of the <B>Iraqi</B> Armed Forces",
+        "<B>Iraq</B> Armed Forces",
+        "<B>Iraqi</B> armed forces",
+        "<B>Iraqi</B> military",
+        "Military of <B>Iraq</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Armed Forces are the military forces of the Republic of <B>Iraq</B>. They consist of the <B>Iraqi</B>"
+      ],
+      "label": [
+        "<B>Iraqi</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Iraq",
+        "http://dbpedia.org/resource/Category:Military_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2523.202"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2021_Iraqi_protests"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Iraqi</B> protests",
+        "2019-2021 <B>Iraqi</B> protests",
+        "2019-20 <B>Iraqi</B> protests",
+        "2019-21 <B>Iraqi</B> protests",
+        "2019 <B>Iraqi</B> October Revolution",
+        "2019 <B>Iraqi</B> protests",
+        "2019–2020 <B>Iraqi</B> protests",
+        "2019–21 <B>Iraqi</B> protests",
+        "<B>Iraqi</B> protests (2019-2021)",
+        "<B>Iraqi</B> protests (2019-present)",
+        "<B>Iraqi</B> protests (2019–2021)",
+        "<B>Iraqi</B> protests (2019–present)",
+        "October 2019 <B>Iraqi</B> protests",
+        "Violence against protestors in the 2019 <B>Iraq</B> protests"
+      ],
+      "label": [
+        "2019–2021 <B>Iraqi</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2021_Iraqi_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Baghdad",
+        "http://dbpedia.org/resource/Category:2018–2022_Arab_protests",
+        "http://dbpedia.org/resource/Category:2019_in_Iraq",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Iraq",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:2021_in_Iraq",
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:December_2019_events_in_Iraq",
+        "http://dbpedia.org/resource/Category:November_2019_events_in_Iraq",
+        "http://dbpedia.org/resource/Category:October_2019_events_in_Iraq",
+        "http://dbpedia.org/resource/Category:Protests_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2491.5957"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_insurgency_(2003–2011)"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Iraqi</B> Forces",
+        "<B>Iraq</B> resistance",
+        "<B>Iraqi</B> Resistance",
+        "<B>Iraqi</B> Resistance Movement",
+        "<B>Iraqi</B> insurgency (2003-11)",
+        "<B>Iraqi</B> insurgency (2003-2011)",
+        "<B>Iraqi</B> insurgency (2003–11)",
+        "<B>Iraqi</B> insurgency (<B>Iraq</B> War)",
+        "<B>Iraqi</B> opposition (post-occupation)",
+        "<B>Iraqi</B> resistance",
+        "<B>Iraqi</B> resistance movement",
+        "Liberating <B>Iraq's</B> Army"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " targeted the Multi-National Force – <B>Iraq</B>, while latterly <B>Iraqi</B> security forces, seen by <B>Iraqi</B>"
+      ],
+      "label": [
+        "<B>Iraqi</B> insurgency (2003–2011)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_insurgency_(2003–2011)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_conflicts",
+        "http://dbpedia.org/resource/Category:2000s_in_Iraq",
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraq",
+        "http://dbpedia.org/resource/Category:Al-Qaeda_activities_in_Iraq",
+        "http://dbpedia.org/resource/Category:Campaigns_of_the_Iraq_War",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_insurgency_(2003–2011)",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Iraq_and_the_Levant_in_Iraq",
+        "http://dbpedia.org/resource/Category:Islamic_terrorism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Political_neologisms",
+        "http://dbpedia.org/resource/Category:Politics_of_Iraq",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iraq",
+        "http://dbpedia.org/resource/Category:War_on_terror",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kurdistan_Region_(Iraq)",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Islamic_State_of_Iraq_and_the_Levant"
+      ]
+    },
+    {
+      "score": [
+        "2483.1926"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Iraqi_Alliance"
+      ],
+      "redirectlabel": [
+        "<B>Iraqi</B> National Alliance",
+        "<B>Iraqi</B> National Coalition",
+        "National Alliance (<B>Iraq</B>)",
+        "United <B>Iraqi</B> Alliance",
+        "United <B>Iraqi</B> Coalition"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " included all <B>Iraq's</B> major Shi'a parties. The United <B>Iraqi</B> Alliance won both those of elections"
+      ],
+      "label": [
+        "National <B>Iraqi</B> Alliance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Iraqi_Alliance"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islamism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Political_party_alliances_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2470.5132"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Americans"
+      ],
+      "redirectlabel": [
+        "American citizen of <B>Iraqi</B> origin",
+        "Demographics of <B>Iraqi</B> Americans",
+        "History of <B>Iraqi</B> Americans",
+        "<B>Iraqi</B>-American",
+        "<B>Iraqi</B> American",
+        "<B>Iraqi</B> refugees in the United States"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iraqi</B> Americans are Americans who identify as being of <B>Iraqi</B> ancestry. They may be of varying"
+      ],
+      "label": [
+        "<B>Iraqi</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Iraqi_descent",
+        "http://dbpedia.org/resource/Category:Iraqi-American_history",
+        "http://dbpedia.org/resource/Category:Iraqi_American",
+        "http://dbpedia.org/resource/Category:Iraqi_emigrants_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American"
+      ]
+    },
+    {
+      "score": [
+        "2424.6748"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Turkmen_Front"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B> Turcoman Front",
+        "<B>Iraq</B> Turkman Front",
+        "<B>Iraq</B> Turkmen Front",
+        "<B>Iraq</B> Turkoman Front",
+        "<B>Iraqi</B> Turcoman Front",
+        "<B>Iraqi</B> Turkman Front",
+        "<B>Iraqi</B> Turkoman Front",
+        "<B>Iraqi</B> Turkomen Front",
+        "Turkmen front",
+        "Turkoman Front of <B>Iraq</B>",
+        "Turkomen <B>Iraqi</B> Front"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Turkmen Front (ITF, Turkish: <B>Irak</B> Türkmen Cephesi, Arabic: الجبهة التركمانية العراقية‎ al"
+      ],
+      "label": [
+        "<B>Iraqi</B> Turkmen Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Turkmen_Front"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Anti-ISIL_factions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1995",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Kurdistan_Region",
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities",
+        "http://dbpedia.org/resource/Category:Political_party_alliances_in_Iraq",
+        "http://dbpedia.org/resource/Category:Regionalist_parties",
+        "http://dbpedia.org/resource/Category:Turkmen_political_parties_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2412.0798"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "label": [
+        "2005 <B>Iraqi</B> elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2005_Iraqi_elections"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2005_Iraqi_elections"
+      ],
+      "redirectlabel": [
+        "2005 <B>Iraq</B> election",
+        "2005 <B>Iraqi</B> election",
+        "2005 <B>Iraqi</B> elections (disambiguation)",
+        "<B>Iraq</B> National Assembly election, 2005",
+        "<B>Iraq</B> election, 2005",
+        "<B>Iraq</B> election 2005",
+        "<B>Iraqi</B> Legislative Election, 2005",
+        "<B>Iraqi</B> National Assembly election, 2005",
+        "<B>Iraqi</B> National Assembly elections, 2005",
+        "<B>Iraqi</B> election, 2005",
+        "<B>Iraqi</B> legislative election, 2005",
+        "<B>Iraqi</B> parliamentary election, 2005"
+      ]
+    },
+    {
+      "score": [
+        "2334.7922"
+      ],
+      "refCount": [
+        "138"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Iraq"
+      ],
+      "redirectlabel": [
+        "Al-Mamlaka al-<B>Iraq</B>",
+        "Al-Mamlakah Al-'Irāqiyyah",
+        "British occupation of Mesopotamia",
+        "Hashemite Kingdom of <B>Iraq</B>",
+        "<B>Iraqi</B> Kingdom",
+        "Kingdom of <B>Iraq</B> (1932-1958)",
+        "Kingdom of <B>Iraq</B> (1932-58)",
+        "Kingdom of <B>Iraq</B> (1932–1958)",
+        "Kingdom of <B>Iraq</B> (1932–58)",
+        "Queen of <B>Iraq</B>",
+        "The Kingdom of <B>Iraq</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " Nations mandate was awarded to the UK in 1920, the 1920 <B>Iraqi</B> revolt resulted in the scrapping of the"
+      ],
+      "label": [
+        "Kingdom of <B>Iraq</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Iraq"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1932_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Former_monarchies",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Asia",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Iraq",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1958",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1932"
+      ]
+    },
+    {
+      "score": [
+        "2309.5088"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_invasion_of_Kuwait"
+      ],
+      "redirectlabel": [
+        "Ba'athist <B>Iraqi</B> invasion of Kuwait",
+        "Invasion of Kuwait",
+        "Invasion of kuwait",
+        "<B>Iraq's</B> invasion of Kuwait in 1990",
+        "<B>Iraq's</B> occupation of Kuwait",
+        "<B>Iraq</B>-Kuwait War",
+        "<B>Iraq</B> invasion of Kuwait",
+        "<B>Iraqi</B> Invasion of Kuwait",
+        "<B>Iraqi</B> annexation of Kuwait",
+        "<B>Iraqi</B> invasion of kuwait",
+        "<B>Iraqi</B> occupation of Kuwait",
+        "<B>Iraq’s</B> invasion of Kuwait",
+        "Kuwait invasion",
+        "Kuwait occupation",
+        "Occupation of Kuwait",
+        "The invasion of kuwait",
+        "The <B>iraqi</B> invasion of kuwait"
+      ],
+      "label": [
+        "<B>Iraqi</B> invasion of Kuwait"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_invasion_of_Kuwait"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_in_Iraq",
+        "http://dbpedia.org/resource/Category:1990_in_Kuwait",
+        "http://dbpedia.org/resource/Category:Annexation",
+        "http://dbpedia.org/resource/Category:August_1990_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1990",
+        "http://dbpedia.org/resource/Category:Gulf_War",
+        "http://dbpedia.org/resource/Category:History_of_Kuwait",
+        "http://dbpedia.org/resource/Category:Invasions",
+        "http://dbpedia.org/resource/Category:Invasions_by_Iraq",
+        "http://dbpedia.org/resource/Category:Invasions_of_Kuwait",
+        "http://dbpedia.org/resource/Category:Iraq–Kuwait_military_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kuwait"
+      ]
+    },
+    {
+      "score": [
+        "2306.97"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Communist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Iraqi</B> Communists",
+        "<B>Iraqicp.com</B>",
+        "List of secretaries of the <B>Iraqi</B> Communist Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " <B>Iraqi</B> opposition and was a vocal opponent of the United Nations sanctions imposed on <B>Iraq</B> after the"
+      ],
+      "label": [
+        "<B>Iraqi</B> Communist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Communist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1934_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Anti-fascism_in_the_Arab_world",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:International_Meeting_of_Communist_and_Workers_Parties",
+        "http://dbpedia.org/resource/Category:Iraqi_Communist_Party",
+        "http://dbpedia.org/resource/Category:Opposition_to_antisemitism"
+      ]
+    },
+    {
+      "score": [
+        "2304.764"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Governing_Council"
+      ],
+      "redirectlabel": [
+        "Interim <B>Iraq</B> Governing Council",
+        "Interim government of <B>Iraq</B>",
+        "<B>Iraq</B> Governing Council",
+        "<B>Iraq</B> Interim Governing Council",
+        "<B>Iraq</B> interim governing council",
+        "<B>Iraqi</B> Interim Governing Council",
+        "<B>Iraqi</B> governing council",
+        "President of the Governing Council of <B>Iraq</B>"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Governing Council (IGC) was the provisional government of <B>Iraq</B> from July 13, 2003 to June"
+      ],
+      "label": [
+        "<B>Iraqi</B> Governing Council"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Governing_Council"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:2004_disestablishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Coalition_Provisional_Authority",
+        "http://dbpedia.org/resource/Category:Government_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2269.964"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Republic_(1958–1968)"
+      ],
+      "redirectlabel": [
+        "First <B>Iraqi</B> Republic",
+        "Founding of the Republic of <B>Iraq</B>",
+        "History of <B>Iraq</B> (1958-1963)",
+        "History of <B>Iraq</B> (1958-1968)",
+        "History of <B>Iraq</B> (1958–1963)",
+        "History of <B>Iraq</B> (1958–1968)",
+        "History of <B>Iraq</B> under Abd al-Karim Qasim",
+        "History of <B>Iraq</B> under Abdel Karim Qasim",
+        "History of <B>Iraq</B> under Qasim and the rise of Arab nationalism",
+        "History of Mesopotamia (1958-1968)",
+        "History of Mesopotamia (1958–1968)",
+        "<B>Iraq</B> (1958-1963)",
+        "<B>Iraq</B> (1958-1968)",
+        "<B>Iraq</B> (1958–1968)",
+        "<B>Iraq</B> Republic (1958-1968)",
+        "<B>Iraq</B> Republic (1958–1968)",
+        "<B>Iraqi</B> Republic (1958-1968)",
+        "<B>Iraqi</B> Republic (1958-68)",
+        "<B>Iraqi</B> Republic (1958–68)",
+        "Republic of <B>Iraq</B> (1958-1968)",
+        "Republic of <B>Iraq</B> (1958-68)",
+        "Republic of <B>Iraq</B> (1958–1968)",
+        "Republic of <B>Iraq</B> (1958–68)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "label": [
+        "<B>Iraqi</B> Republic (1958–1968)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Republic_(1958–1968)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1958_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:1960s_disestablishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_republics",
+        "http://dbpedia.org/resource/Category:Former_Arab_states",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1968",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1958"
+      ]
+    },
+    {
+      "score": [
+        "2263.154"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1991_Iraqi_uprisings"
+      ],
+      "redirectlabel": [
+        "1991 <B>Iraq</B> rebellion",
+        "1991 <B>Iraq</B> uprising",
+        "1991 <B>Iraqi</B> coup d'état attempt",
+        "1991 <B>Iraqi</B> uprising",
+        "1991 rebellion",
+        "1991 uprising",
+        "1991 uprising in <B>Iraq</B>",
+        "1991 uprisings in <B>Iraq</B>",
+        "<B>Iraq</B> rebellion",
+        "<B>Iraq</B> uprising",
+        "<B>Iraqi</B> Uprising of 1991",
+        "<B>Iraqi</B> Uprisings of 1991",
+        "Sha'aban Intifada"
+      ],
+      "label": [
+        "1991 <B>Iraqi</B> uprisings"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1991_Iraqi_uprisings"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_uprisings_in_Iraq",
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:April_1991_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Chemical_weapons_attacks",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Collective_punishment",
+        "http://dbpedia.org/resource/Category:Gulf_War",
+        "http://dbpedia.org/resource/Category:Iraqi_chemical_weapons_program",
+        "http://dbpedia.org/resource/Category:Islam_in_Iraq",
+        "http://dbpedia.org/resource/Category:March_1991_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Opposition_to_Arab_nationalism",
+        "http://dbpedia.org/resource/Category:Religion-based_wars",
+        "http://dbpedia.org/resource/Category:Shia–Sunni_relations",
+        "http://dbpedia.org/resource/Category:Shia–Sunni_sectarian_violence",
+        "http://dbpedia.org/resource/Category:Torture_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2260.1812"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Kurdish_Civil_War"
+      ],
+      "redirectlabel": [
+        "Battle of Erbil",
+        "Battle of Erbil (1996)",
+        "<B>Iraqi</B>-Kurdish Civil War",
+        "<B>Iraqi</B>–Kurdish Civil War",
+        "Kurdish Civil War",
+        "Kurdish <B>Iraqi</B> Civil War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Kurdish Civil War was a military conflict that took place between rival Kurdish factions"
+      ],
+      "label": [
+        "<B>Iraqi</B> Kurdish Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Kurdish_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_in_Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:1994_in_Iraq",
+        "http://dbpedia.org/resource/Category:1995_in_Iraq",
+        "http://dbpedia.org/resource/Category:1996_in_Iraq",
+        "http://dbpedia.org/resource/Category:1997_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1994",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1995",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1996",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1997",
+        "http://dbpedia.org/resource/Category:Iraqi–Kurdish_conflict",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kurdistan_Region_(Iraq)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Turkey",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2259.025"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Police"
+      ],
+      "redirectlabel": [
+        "History of the <B>Iraqi</B> Police",
+        "<B>Iraq</B> Police",
+        "<B>Iraqi</B> Federal Police",
+        "<B>Iraqi</B> National Police",
+        "<B>Iraqi</B> Police Force",
+        "<B>Iraqi</B> Police Service",
+        "<B>Iraqi</B> police",
+        "Provincial Director of Police"
+      ],
+      "comment": [
+        " Authority after the 2003 invasion of <B>Iraq</B>, and it is commanded by the reformed <B>Iraqi</B> Ministry of the"
+      ],
+      "label": [
+        "<B>Iraqi</B> Police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iraqi_Police"
+      ]
+    },
+    {
+      "score": [
+        "2243.2295"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_conflict_(2003–present)"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B> conflict",
+        "<B>Iraq</B> conflict (2003-present)",
+        "<B>Iraq</B> conflict (2003–present)",
+        "<B>Iraqi</B> conflict",
+        "<B>Iraqi</B> conflict (2003-2017)",
+        "<B>Iraqi</B> conflict (2003-present)",
+        "<B>Iraqi</B> conflict (2003–2017)",
+        "War in <B>Iraq</B>, 2003-present"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> conflict (2003–present) is a long-running armed conflict that began with the 2003"
+      ],
+      "label": [
+        "<B>Iraqi</B> conflict (2003–present)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_conflict_(2003–present)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_conflicts",
+        "http://dbpedia.org/resource/Category:2000s_in_Iraq",
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraq",
+        "http://dbpedia.org/resource/Category:21st-century_conflicts",
+        "http://dbpedia.org/resource/Category:21st_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:History_of_Iraq_(1958–present)",
+        "http://dbpedia.org/resource/Category:Operation_Inherent_Resolve",
+        "http://dbpedia.org/resource/Category:Religion-based_wars",
+        "http://dbpedia.org/resource/Category:Religiously_motivated_violence_in_Iraq",
+        "http://dbpedia.org/resource/Category:Shia–Sunni_sectarian_violence",
+        "http://dbpedia.org/resource/Category:War_on_terror",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iran",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kurdistan_Region_(Iraq)",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2232.9768"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Special_Operations_Forces"
+      ],
+      "redirectlabel": [
+        "Counter Terrorism Bureau",
+        "Golden Division",
+        "INCTF",
+        "ISOF",
+        "<B>Iraqi</B> Counter-Terrorism Service",
+        "<B>Iraqi</B> Counter Terrorism Service",
+        "<B>Iraqi</B> National Counter-Terrorism Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Iraqi</B> Special Operations Forces (ISOF) (Arabic: قوات العمليات الخاصة العراقية‎), commonly known as"
+      ],
+      "label": [
+        "<B>Iraqi</B> Special Operations Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Special_Operations_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Counterterrorist_organizations",
+        "http://dbpedia.org/resource/Category:Institutions_of_the_Iraqi_Council_of_Ministers",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_2003",
+        "http://dbpedia.org/resource/Category:Special_forces_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2217.0015"
+      ],
+      "refCount": [
+        "55"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Iraq_Region"
+      ],
+      "redirectlabel": [
+        "Arab Socialist Ba'ath Party (<B>Iraq</B>)",
+        "Arab Socialist Ba'ath Party - <B>Iraq</B> Region",
+        "Arab Socialist Ba'ath Party of <B>Iraq</B>",
+        "Arab Socialist Baath Party (<B>Iraq</B>)",
+        "Arab Socialist Baath Party - <B>Iraq</B> Region",
+        "Arab Socialist Baath Party of <B>Iraq</B>",
+        "Arab Socialist Baath Party – <B>Iraq</B> Region",
+        "Arab Socialist Baʽath Party - <B>Iraq</B> Region",
+        "Arab Socialist Baʽath Party – <B>Iraq</B> Region",
+        "Ba'ath Party (<B>Iraq</B>)",
+        "Ba'ath Party of <B>Iraq</B>",
+        "Ba'th Party (<B>Iraq</B>)",
+        "Baath Party (<B>Iraq</B>)",
+        "Baath Party of <B>Iraq</B>",
+        "Baghdad Citizens Gathering",
+        "<B>Iraqi</B> Arab Socialist Ba'ath Party",
+        "<B>Iraqi</B> Arab Socialist Baath Party",
+        "<B>Iraqi</B> Ba'ath Party",
+        "<B>Iraqi</B> Ba'th Party",
+        "<B>Iraqi</B> Baath Party",
+        "<B>Iraqi</B> Regional Command",
+        "Regional Command (<B>Iraq</B>)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " Al-Baath Al-'Arabi Al-Ishtiraki fi Al-'<B>Iraq</B>), officially the <B>Iraqi</B> Regional Branch, is an <B>Iraqi</B>"
+      ],
+      "label": [
+        "Arab Socialist Ba'ath Party – <B>Iraq</B> Region"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Iraq_Region"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Ba'athist_parties",
+        "http://dbpedia.org/resource/Category:Ba'athist_regional_branches",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Banned_socialist_parties",
+        "http://dbpedia.org/resource/Category:Factions_in_the_Iraq_War",
+        "http://dbpedia.org/resource/Category:History_of_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iraqi_insurgency_(2003–2011)",
+        "http://dbpedia.org/resource/Category:Iraqi_insurgency_(2011–2013)",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_history_of_Iraq",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1951",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:War_in_Iraq_(2013–2017)"
+      ]
+    },
+    {
+      "score": [
+        "2206.032"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Civil_War_(2006–2008)"
+      ],
+      "redirectlabel": [
+        "2006-2007 civil war in <B>Iraq</B>",
+        "Civil War in <B>Iraq</B> (2006-07)",
+        "Civil War in <B>Iraq</B> (2006–07)",
+        "Civil war in <B>Iraq</B> (2006-07)",
+        "Civil war in <B>Iraq</B> (2006–07)",
+        "First <B>Iraqi</B> Civil War",
+        "<B>Iraqi</B> Civil War (2006-08)",
+        "<B>Iraqi</B> Civil War (2006-2008)",
+        "<B>Iraqi</B> Civil War (2006-2009)",
+        "<B>Iraqi</B> Civil War (2006–08)",
+        "<B>Iraqi</B> Civil War (2006–2009)",
+        "Sectarian violence in <B>Iraq</B> (2006-07)",
+        "Sectarian violence in <B>Iraq</B> (2006-08)",
+        "Sectarian violence in <B>Iraq</B> (2006-2007)",
+        "Sectarian violence in <B>Iraq</B> (2006-2008)",
+        "Sectarian violence in <B>Iraq</B> (2006-2009)",
+        "Sectarian violence in <B>Iraq</B> (2006–07)",
+        "Sectarian violence in <B>Iraq</B> (2006–08)",
+        "Sectarian violence in <B>Iraq</B> (2006–2007)",
+        "Sectarian violence in <B>Iraq</B> (2006–2008)",
+        "Sectarian violence in <B>Iraq</B> (2006–2009)"
+      ],
+      "label": [
+        "<B>Iraqi</B> Civil War (2006–2008)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Civil_War_(2006–2008)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_in_Iraq",
+        "http://dbpedia.org/resource/Category:2005_in_Iraq",
+        "http://dbpedia.org/resource/Category:2006_in_Iraq",
+        "http://dbpedia.org/resource/Category:2007_in_Iraq",
+        "http://dbpedia.org/resource/Category:2008_in_Iraq",
+        "http://dbpedia.org/resource/Category:Al-Qaeda_activities_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Iraq_War",
+        "http://dbpedia.org/resource/Category:Iraqi_insurgency_(2003–2011)",
+        "http://dbpedia.org/resource/Category:Occupation_of_Iraq",
+        "http://dbpedia.org/resource/Category:Politics_of_Iraq",
+        "http://dbpedia.org/resource/Category:Religion-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Religiously_motivated_violence_in_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2165.4824"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Iraqi–Kurdish_War"
+      ],
+      "redirectlabel": [
+        "Second <B>Iraqi</B>-Kurdish War",
+        "Second Kurdish-<B>Iraqi</B> War",
+        "Second Kurdish <B>Iraqi</B> War",
+        "Second Kurdish–<B>Iraqi</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Second <B>Iraqi</B>–Kurdish War was the second chapter of the Barzani rebellion, initiated by the"
+      ],
+      "label": [
+        "Second <B>Iraqi</B>–Kurdish War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Iraqi–Kurdish_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_in_Iraq",
+        "http://dbpedia.org/resource/Category:1975_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1974",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1975",
+        "http://dbpedia.org/resource/Category:Iraqi–Kurdish_conflict",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga"
+      ]
+    },
+    {
+      "score": [
+        "2162.1694"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/War_in_Iraq_(2013–2017)"
+      ],
+      "redirectlabel": [
+        "2014-17 <B>Iraqi</B> conflict",
+        "2014 <B>Iraq</B> conflict",
+        "2014 <B>Iraq</B> crisis",
+        "2014 <B>Iraqi</B> conflict",
+        "Battle of Tigris River",
+        "Gulf War III",
+        "<B>Iraq</B>-ISIL War",
+        "<B>Iraq</B> Civil War (2014-17)",
+        "<B>Iraq</B> Civil War (2014-present)",
+        "<B>Iraq</B> Civil War (2014–17)",
+        "<B>Iraq</B> Civil War (2014–present)",
+        "<B>Iraq</B> War (2013-present)",
+        "<B>Iraq</B> War (2013–present)",
+        "<B>Iraq</B> War (2014-present)",
+        "<B>Iraq</B> War (2014–present)",
+        "<B>Iraq</B> War 2",
+        "<B>Iraq</B> war (2014-17)",
+        "<B>Iraqi</B> Civil War (2013-2017)",
+        "<B>Iraqi</B> Civil War (2013–2017)",
+        "<B>Iraqi</B> Civil War (2014-17)",
+        "<B>Iraqi</B> Civil War (2014-2017)",
+        "<B>Iraqi</B> Civil War (2014-present)",
+        "<B>Iraqi</B> Civil War (2014–17)",
+        "<B>Iraqi</B> Civil War (2014–2017)",
+        "<B>Iraqi</B> Civil War (2014–present)",
+        "<B>Iraqi</B> Kurdish-Islamic State War",
+        "<B>Iraqi</B> Kurdish-Islamic State War (2014-present)",
+        "<B>Iraqi</B> War (2014-2017)",
+        "<B>Iraqi</B> War (2014–2017)",
+        "<B>Iraqi</B> civil war (2014-present)",
+        "<B>Iraqi</B> civil war (2014–present)",
+        "<B>Iraq</B>–ISIL War",
+        "Syrian Civil War spillover in <B>Iraq</B>",
+        "Third <B>Iraq</B> War",
+        "Timeline of the <B>Iraqi</B> civil war (2014-present)",
+        "War in <B>Iraq</B> (2013-17)",
+        "War in <B>Iraq</B> (2013-2017)",
+        "War in <B>Iraq</B> (2013–17)",
+        "War in <B>Iraq</B> (2014-2017)",
+        "War in <B>Iraq</B> (2014 - 2017)",
+        "War in <B>Iraq</B> (2014 – 2017)",
+        "War in <B>Iraq</B> (2014–2017)"
+      ],
+      "label": [
+        "War in <B>Iraq</B> (2013–2017)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/War_in_Iraq_(2013–2017)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_civil_wars",
+        "http://dbpedia.org/resource/Category:2010s_conflicts",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraq",
+        "http://dbpedia.org/resource/Category:2010s_in_Iraqi_Kurdistan",
+        "http://dbpedia.org/resource/Category:Arab_Winter_in_Iraq",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Islamic_terrorism",
+        "http://dbpedia.org/resource/Category:Religion-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Spillover_of_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:War_in_Iraq_(2013–2017)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Islamic_State_of_Iraq_and_the_Levant",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Popular_Mobilization_Forces"
+      ]
+    },
+    {
+      "score": [
+        "2115.9138"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Islamic_Party"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B> Islamic Party",
+        "<B>Iraqi</B> Islamic party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Islamic Party is the largest Sunni Islamist political party in <B>Iraq</B> as well as the most"
+      ],
+      "label": [
+        "<B>Iraqi</B> Islamic Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Islamic_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Islamic_organizations_established_in_1960",
+        "http://dbpedia.org/resource/Category:Islamic_political_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Muslim_Brotherhood",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1960",
+        "http://dbpedia.org/resource/Category:Sunni_Islamic_political_parties"
+      ]
+    },
+    {
+      "score": [
+        "2115.038"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_diaspora"
+      ],
+      "redirectlabel": [
+        "Emigration from <B>Iraq</B>",
+        "<B>Iraq</B> diaspora",
+        "<B>Iraqi</B> exodus",
+        "<B>Iraqis</B> in India"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> diaspora refers to native <B>Iraqis</B> who have left for other countries as emigrants or"
+      ],
+      "label": [
+        "<B>Iraqi</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iraqi_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2082.946"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Most-wanted_Iraqi_playing_cards"
+      ],
+      "redirectlabel": [
+        "Deck of 52",
+        "Gulf War Playing Cards",
+        "<B>Iraq</B> Cards",
+        "<B>Iraq</B> Most Wanted Playing Cards",
+        "<B>Iraq</B> Playing Cards",
+        "<B>Iraqi</B> Most Wanted Playing Cards",
+        "<B>Iraqi</B> Playing Cards",
+        "<B>Iraqi</B> Top 55 list",
+        "<B>Iraqi</B> most-wanted playing cards",
+        "<B>Iraqi</B> playing cards",
+        "Most wanted <B>Iraqi</B> playing cards",
+        "Personality Identification Playing Cards"
+      ],
+      "comment": [
+        " Saddam Hussein's government, mostly high-ranking members of the <B>Iraqi</B> Regional Branch of the Arab"
+      ],
+      "label": [
+        "Most-wanted <B>Iraqi</B> playing cards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Most-wanted_Iraqi_playing_cards"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cultural_depictions_of_Saddam_Hussein",
+        "http://dbpedia.org/resource/Category:Defense_Intelligence_Agency",
+        "http://dbpedia.org/resource/Category:Iraq_War",
+        "http://dbpedia.org/resource/Category:Playing_cards"
+      ]
+    },
+    {
+      "score": [
+        "2081.036"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_chemical_weapons_program"
+      ],
+      "redirectlabel": [
+        "Chemical weapons in <B>Iraq</B>",
+        "<B>Iraq's</B> Chemical Warfare",
+        "<B>Iraqi</B> chemical warfare",
+        "<B>Iraqi</B> chemical weapons",
+        "<B>Iraqi</B> chemical weapons programme"
+      ],
+      "comment": [
+        "In violation of the Geneva Protocol of 1925, the <B>Iraqi</B> Army initiated two failed (1970–1974, 1974"
+      ],
+      "label": [
+        "<B>Iraqi</B> chemical weapons program"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_chemical_weapons_program"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iran–Iraq_War_crimes",
+        "http://dbpedia.org/resource/Category:Iraqi_chemical_weapons_program",
+        "http://dbpedia.org/resource/Category:Military_of_Iraq",
+        "http://dbpedia.org/resource/Category:Weapons_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "2069.2607"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Iraqi_First_Division"
+      ],
+      "redirectlabel": [
+        "1999-2000 <B>Iraqi</B> First Division",
+        "1999-2000 <B>Iraqi</B> First Division League",
+        "1999-2000 <B>Iraqi</B> League",
+        "1999–2000 <B>Iraqi</B> First Division League",
+        "1999–2000 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1999-00",
+        "<B>Iraqi</B> League 1999-00",
+        "<B>Iraqi</B> League 1999-2000",
+        "<B>Iraqi</B> League 1999–00",
+        "<B>Iraqi</B> League 1999–2000"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        ". They also won the <B>Iraq</B> FA Cup, the <B>Iraqi</B> Elite Cup and the <B>Iraqi</B> Super Cup in this season, completing"
+      ],
+      "label": [
+        "1999–2000 <B>Iraqi</B> First Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Iraqi_First_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1999–2000_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2068.579"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Airways"
+      ],
+      "redirectlabel": [
+        "Air <B>iraq</B>",
+        "<B>Iraq</B> air",
+        "<B>Iraqi</B> (airline)",
+        "<B>Iraqi</B> Airlines",
+        "<B>Iraqi</B> airways"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Airline",
+        "PublicTransitSystem",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Iraqi</B> Airways Company, operating as <B>Iraqi</B> Airways (Arabic: الخطوط الجوية العراقية‎ al-Xuṭūṭ al"
+      ],
+      "label": [
+        "<B>Iraqi</B> Airways"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Airways"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Airline",
+        "http://dbpedia.org/ontology/PublicTransitSystem",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1946",
+        "http://dbpedia.org/resource/Category:Airlines_of_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_Air_Carriers_Organization_members",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_Airways",
+        "http://dbpedia.org/resource/Category:Iraqi_brands"
+      ]
+    },
+    {
+      "score": [
+        "2048.602"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "label": [
+        "<B>Iraqi</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_coup_d'état"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1963 <B>Iraqi</B> coup d'etat",
+        "1963 <B>Iraqi</B> coup d'état",
+        "1963 <B>Iraqi</B> coup d'état (disambiguation)",
+        "February 1963 <B>Iraqi</B> coup d'etat",
+        "<B>Iraqi</B> coup",
+        "<B>Iraqi</B> coup d'etat",
+        "<B>Iraqi</B> coup d'état (disambiguation)",
+        "Military coups in <B>Iraq</B>"
+      ]
+    },
+    {
+      "score": [
+        "2032.8018"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Iraqi_governorate_elections"
+      ],
+      "redirectlabel": [
+        "2009 <B>Iraq</B> Elections",
+        "2009 <B>Iraq</B> election",
+        "2009 <B>Iraqi</B> Elections",
+        "2009 <B>Iraqi</B> elections",
+        "<B>Iraq</B> Governorate elections of 2008",
+        "<B>Iraqi</B> governorate elections, 2008",
+        "<B>Iraqi</B> governorate elections, 2009",
+        "<B>Iraqi</B> governorate elections of 2008",
+        "<B>Iraqi</B> governorate elections of 2009"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " councils in fourteen of the eighteen governorates of <B>Iraq</B> that were elected in the 2005 <B>Iraqi</B>"
+      ],
+      "label": [
+        "2009 <B>Iraqi</B> governorate elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Iraqi_governorate_elections"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_Iraqi_governorate_elections",
+        "http://dbpedia.org/resource/Category:January_2009_events_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1991.7615"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Accord_Front"
+      ],
+      "redirectlabel": [
+        "Accordance Front",
+        "Al-Tawafuq",
+        "<B>Iraqi</B> Accordance Front",
+        "<B>Iraqi</B> Concord Front",
+        "<B>Iraqi</B> Consensus Front",
+        "National Concord Front",
+        "Tawafuq",
+        "The Accordance Front"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " Al-'<B>Iraqiyah</B>) also known as Tawafuq is an <B>Iraqi</B> Sunni political coalition created on October 26, 2005"
+      ],
+      "label": [
+        "<B>Iraqi</B> Accord Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Accord_Front"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Political_parties_of_minorities",
+        "http://dbpedia.org/resource/Category:Political_party_alliances_in_Iraq",
+        "http://dbpedia.org/resource/Category:Sunni_Islamic_political_parties"
+      ]
+    },
+    {
+      "score": [
+        "1968.3162"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Republic_Railways"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B> Republic Railways",
+        "<B>Iraqi</B> Railroads",
+        "<B>Iraqi</B> Railways",
+        "<B>Iraqi</B> State Railways",
+        "Mesopotamian Railways",
+        "Rail transport in <B>Iraq</B>",
+        "Railroads in <B>Iraq</B>",
+        "Railways in <B>Iraq</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Iraqi</B> Republic Railways Company (IRR) (Arabic: الشركة العامة لسكك الحديد العراقية‎) is the national railway operator in <B>Iraq</B>."
+      ],
+      "label": [
+        "<B>Iraqi</B> Republic Railways"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Republic_Railways"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1905_establishments_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:2_ft_6_in_gauge_railways_in_Iraq",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_brands",
+        "http://dbpedia.org/resource/Category:Metre_gauge_railways_in_Iraq",
+        "http://dbpedia.org/resource/Category:Rail_transport_in_Iraq",
+        "http://dbpedia.org/resource/Category:Railway_companies_established_in_1905",
+        "http://dbpedia.org/resource/Category:Railway_companies_of_Iraq",
+        "http://dbpedia.org/resource/Category:Standard_gauge_railways_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1933.2357"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Saudi_Arabian–Iraqi_neutral_zone"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B>-S. Arabia Neutral Z",
+        "<B>Iraq</B>-S. Arabia Neutral Zone",
+        "<B>Iraq</B>-Saudi Arabia Neutral Zone",
+        "<B>Iraq</B>-Saudi Arabia neutral zone",
+        "<B>Iraq</B>-Saudi Arabian Neutral Zone",
+        "<B>Iraq</B>-Saudi Neutral Zone",
+        "<B>Iraq</B>-saudi arabia neutral zone",
+        "<B>Iraq</B> - Saudi Arabia Neutral Zone",
+        "<B>Iraqi</B>-Saudi neutral zone",
+        "Saudi-<B>Iraq</B> Neutral Zone",
+        "Saudi-<B>Iraqi</B> neutral zone",
+        "Saudi Arabia-<B>Iraq</B> neutral zone",
+        "Saudi Arabian-<B>Iraqi</B> neutral zone",
+        "Saudi–<B>Iraqi</B> neutral zone"
+      ],
+      "comment": [
+        "The Saudi–<B>Iraqi</B> neutral zone was an area of 7,044 km2 (2,720 sq mi) on the border between Saudi"
+      ],
+      "label": [
+        "Saudi Arabian–<B>Iraqi</B> neutral zone"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Saudi_Arabian–Iraqi_neutral_zone"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1981_disestablishments_in_Asia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Iraq",
+        "http://dbpedia.org/resource/Category:20th_century_in_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:Demilitarized_zones",
+        "http://dbpedia.org/resource/Category:Disputed_territories_in_the_Persian_Gulf",
+        "http://dbpedia.org/resource/Category:Iraq–Saudi_Arabia_border",
+        "http://dbpedia.org/resource/Category:Iraq–Saudi_Arabia_relations",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Iraq",
+        "http://dbpedia.org/resource/Category:Territorial_disputes_of_Saudi_Arabia"
+      ]
+    },
+    {
+      "score": [
+        "1914.4954"
+      ],
+      "refCount": [
+        "958"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Gulf_War"
+      ],
+      "redirectlabel": [
+        "1990-1991 Gulf War",
+        "1990-1991 <B>Iraq</B> War",
+        "1990/1991 Gulf Crisis",
+        "1990/1 Gulf War",
+        "1990 Gulf Crisis",
+        "1990 Gulf War",
+        "1990 <B>Iraq</B> War",
+        "1990 invasion of <B>Iraq</B>",
+        "1990–1991 <B>Iraq</B> War",
+        "1991 Arabian Gulf War",
+        "1991 Gulf Crisis",
+        "1991 Gulf War",
+        "1991 <B>Iraq</B> War",
+        "1991 <B>Iraq</B> war",
+        "1991 Middle East War",
+        "1991 Persian Gulf War",
+        "1991 Persian Gulf conflict",
+        "1st Gulf War",
+        "American Casualties in Operation Desert Storm",
+        "Arabian Gulf War",
+        "Casualties of the Gulf War",
+        "DESERT SHIELD",
+        "DESERT STORM",
+        "Desert Shield",
+        "Desert Shield and Storm",
+        "Desert Storm",
+        "Desert storm",
+        "First Gulf War",
+        "First <B>Iraq</B> War",
+        "First US-<B>Iraq</B> War",
+        "Golf War",
+        "Gulf-War",
+        "Gulf 1",
+        "Gulf Crisis",
+        "Gulf War 1",
+        "Gulf War I",
+        "Gulf War One",
+        "Gulf war",
+        "Gulf war 1",
+        "<B>Iraq</B> War (1991)",
+        "<B>Iraqi</B> wars",
+        "Kuwait War",
+        "Kuwait war",
+        "Naming the Gulf War",
+        "Naming the gulf war",
+        "Operation: Desert Storm",
+        "Operation Desert Sabre",
+        "Operation Desert Shield/Desert Storm",
+        "Operation Desert Shield/Operation Desert Storm",
+        "Operation Desert Shield/Storm",
+        "Operation Desert Shield",
+        "Operation Desert Shield (Gulf War)",
+        "Operation Desert Storm, 1990",
+        "Operation Desert Storm",
+        "Operation Desert Sword",
+        "Operation Desert storm",
+        "Operation desert shield",
+        "Operations Desert Shield",
+        "Operations Desert Shield and Desert Storm",
+        "Persain Gulf War",
+        "Persian Gulf War",
+        "Persian Gulf War of 1991",
+        "Persian Gulf crisis",
+        "Persian Gulf war",
+        "Stuart Lockwood",
+        "The Gulf War",
+        "The Persian Gulf War",
+        "UN-<B>Iraq</B> war",
+        "Video Game War",
+        "War of the Persian Gulf"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " coalition forces from 35 nations led by the United States against <B>Iraq</B> in response to <B>Iraq's</B> invasion"
+      ],
+      "label": [
+        "Gulf War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Gulf_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_in_Iraq",
+        "http://dbpedia.org/resource/Category:1990_in_Kuwait",
+        "http://dbpedia.org/resource/Category:1990_in_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:1990_in_the_United_States",
+        "http://dbpedia.org/resource/Category:1991_in_Iraq",
+        "http://dbpedia.org/resource/Category:1991_in_Kuwait",
+        "http://dbpedia.org/resource/Category:1991_in_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:1991_in_the_United_States",
+        "http://dbpedia.org/resource/Category:20th-century_military_history_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Gulf_Cooperation_Council",
+        "http://dbpedia.org/resource/Category:Gulf_War",
+        "http://dbpedia.org/resource/Category:Operations_involving_special_forces",
+        "http://dbpedia.org/resource/Category:Presidency_of_George_H._W._Bush",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:United_States_Marine_Corps_in_the_20th_century",
+        "http://dbpedia.org/resource/Category:Wars_involving_Argentina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bahrain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bangladesh",
+        "http://dbpedia.org/resource/Category:Wars_involving_Belgium",
+        "http://dbpedia.org/resource/Category:Wars_involving_Canada",
+        "http://dbpedia.org/resource/Category:Wars_involving_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Denmark",
+        "http://dbpedia.org/resource/Category:Wars_involving_Egypt",
+        "http://dbpedia.org/resource/Category:Wars_involving_France",
+        "http://dbpedia.org/resource/Category:Wars_involving_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hungary",
+        "http://dbpedia.org/resource/Category:Wars_involving_Iraq",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kuwait",
+        "http://dbpedia.org/resource/Category:Wars_involving_Morocco",
+        "http://dbpedia.org/resource/Category:Wars_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Wars_involving_Niger",
+        "http://dbpedia.org/resource/Category:Wars_involving_Norway",
+        "http://dbpedia.org/resource/Category:Wars_involving_Oman",
+        "http://dbpedia.org/resource/Category:Wars_involving_Pakistan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Poland",
+        "http://dbpedia.org/resource/Category:Wars_involving_Qatar",
+        "http://dbpedia.org/resource/Category:Wars_involving_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Senegal",
+        "http://dbpedia.org/resource/Category:Wars_involving_South_Korea",
+        "http://dbpedia.org/resource/Category:Wars_involving_Spain",
+        "http://dbpedia.org/resource/Category:Wars_involving_Sweden",
+        "http://dbpedia.org/resource/Category:Wars_involving_Syria",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1898.1576"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraq_Campaign_Medal"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B> Campaign Ribbon",
+        "<B>Iraq</B> Campaign medal",
+        "<B>Iraqi</B> Campaign Medal"
+      ],
+      "comment": [
+        "The <B>Iraq</B> Campaign Medal (ICM) is a military award of the United States Armed Forces which was"
+      ],
+      "label": [
+        "<B>Iraq</B> Campaign Medal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraq_Campaign_Medal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Awards_established_in_2004",
+        "http://dbpedia.org/resource/Category:United_States_campaign_medals"
+      ]
+    },
+    {
+      "score": [
+        "1873.4348"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Judeo-Iraqi_Arabic"
+      ],
+      "redirectlabel": [
+        "Arabic, Judeo-<B>Iraqi</B>",
+        "ISO 639:yhd",
+        "Judeo-<B>Iraqi</B> Arabic language",
+        "Yahudic",
+        "Yahudic language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " a variety of Arabic spoken by <B>Iraqi</B> Jews currently or formerly living in <B>Iraq</B>. It is estimated that"
+      ],
+      "label": [
+        "Judeo-<B>Iraqi</B> Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Judeo-Iraqi_Arabic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic_languages",
+        "http://dbpedia.org/resource/Category:Endangered_Afroasiatic_languages",
+        "http://dbpedia.org/resource/Category:Jewish_Iraqi_history",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Judeo-Arabic_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Iraq",
+        "http://dbpedia.org/resource/Category:Languages_of_Israel",
+        "http://dbpedia.org/resource/Category:Mashriqi_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "1851.6176"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/December_2005_Iraqi_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "Brotherhood and Peace List",
+        "Brotherhood and peace list",
+        "December 2005 <B>Iraqi</B> election",
+        "December 2005 <B>Iraqi</B> elections",
+        "December 2005 <B>Iraqi</B> legislative election",
+        "Furation-Human Rights",
+        "<B>Iraqi</B> legislative election, December 2005",
+        "<B>Iraqi</B> legislative election of December 2005",
+        "<B>Iraqi</B> parliamentary election, December 2005",
+        "Justice and Future Coalition"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " held on 15 December to elect a permanent 275-member <B>Iraqi</B> Council of Representatives. The elections"
+      ],
+      "label": [
+        "December 2005 <B>Iraqi</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/December_2005_Iraqi_parliamentary_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2005_elections_in_Iraq",
+        "http://dbpedia.org/resource/Category:December_2005_events_in_Iraq",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1843.8027"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1977–78_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1977-78 <B>Iraqi</B> League",
+        "1977-78 <B>Iraqi</B> National League",
+        "1977–78 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1977-78",
+        "<B>Iraqi</B> League 1977-78",
+        "<B>Iraqi</B> League 1977–78"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1977–78 <B>Iraqi</B> National League was the 4th season of the competition since its foundation in"
+      ],
+      "label": [
+        "1977–78 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1977–78_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1977–78_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1977–78_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1838.8673"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Iraqi_detainees_at_Guantanamo_Bay"
+      ],
+      "redirectlabel": [
+        "ABBAS HABID RUMI AL NAELY",
+        "ARKAN MOHAMMAD GHAFIL AL KARIM",
+        "Abbas Abid Rumi",
+        "Abbas Al-Naely",
+        "Abbas Habid Rumi Al Naely",
+        "Abbas Habid Rumi al Naely",
+        "Abbas al-Naely",
+        "Arkan Al-Karim",
+        "Arkan Mohammad Ghafil Al Karim",
+        "Arkan Mohammad Ghafil al Karim",
+        "Guantanamo captive 653",
+        "Guantanamo captive 758",
+        "Guantanamo detainee 435",
+        "Guantanamo detainee 758",
+        "Hassan, Abdbul Said",
+        "Hassan Abdul Said",
+        "ISN 435",
+        "ISN 653",
+        "ISN 758",
+        "<B>Iraq</B> captives held in Guantanamo",
+        "<B>Iraqi</B> captives in Guantanamo",
+        "<B>Iraqi</B> detainees at Guantanamo Bay",
+        "<B>Iraqi</B> detainees in Guantanamo"
+      ],
+      "comment": [
+        "There were initially 16 <B>Iraqi</B> detainees in Guantanamo. In 2005, nine <B>Iraqi</B> citizens were held in"
+      ],
+      "label": [
+        "List of <B>Iraqi</B> detainees at Guantanamo Bay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Iraqi_detainees_at_Guantanamo_Bay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iraqi_extrajudicial_prisoners_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Iraq–United_States_relations",
+        "http://dbpedia.org/resource/Category:Lists_of_Guantanamo_Bay_detainees_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "1834.6903"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_National_First_Division"
+      ],
+      "redirectlabel": [
+        "1973-74 <B>Iraq</B> Central FA First Division",
+        "1973-74 <B>Iraq</B> FA First Division",
+        "1973-74 <B>Iraqi</B> Central First Division",
+        "1973-74 <B>Iraqi</B> National League of Clubs and Institutions",
+        "1973–74 <B>Iraq</B> Central FA First Division",
+        "1973–74 <B>Iraq</B> FA First Division",
+        "1973–74 <B>Iraqi</B> Central First Division",
+        "1973–74 <B>Iraqi</B> National League of Clubs and Institutions",
+        "<B>Iraqi</B> National League (Institutions)",
+        "<B>Iraqi</B> National League of Clubs and Institutions"
+      ],
+      "label": [
+        "<B>Iraqi</B> National First Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_National_First_Division"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973–74_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1973–74_in_Iraqi_football"
+      ]
+    },
+    {
+      "score": [
+        "1833.671"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2000–01_Iraqi_Elite_League"
+      ],
+      "redirectlabel": [
+        "2000-01 <B>Iraqi</B> Elite League",
+        "2000-01 <B>Iraqi</B> Premier League",
+        "2000 Baghdad Region League",
+        "2000 Baghdad Regional League",
+        "2000–01 <B>Iraqi</B> Premier League",
+        "Baghdad Region League",
+        "Baghdad Regional League",
+        "<B>Iraq</B> Super League 2000-01",
+        "<B>Iraqi</B> Premier League 2000-01",
+        "<B>Iraqi</B> Premier League 2000–01"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2000–01 <B>Iraqi</B> Elite League was the 27th season of the competition since its foundation in 1974"
+      ],
+      "label": [
+        "2000–01 <B>Iraqi</B> Elite League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2000–01_Iraqi_Elite_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000–01_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2000–01_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1829.6011"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/January_2005_Iraqi_parliamentary_election"
+      ],
+      "redirectlabel": [
+        "<B>Iraqi</B> legislative election, January 2005",
+        "<B>Iraqi</B> legislative election of January 2005",
+        "<B>Iraqi</B> parliamentary election, January 2005",
+        "<B>Iraqi</B> parliamentary election of January 2005",
+        "<B>Iraqi</B> transitional parliamentary election",
+        "January 2005 <B>Iraqi</B> election",
+        "January 2005 <B>Iraqi</B> elections",
+        "January 2005 <B>Iraqi</B> legislative election"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " the new constitution came into effect. The elections also led to the formation of the <B>Iraqi</B> Transitional Government."
+      ],
+      "label": [
+        "January 2005 <B>Iraqi</B> parliamentary election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/January_2005_Iraqi_parliamentary_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2005_elections_in_Iraq",
+        "http://dbpedia.org/resource/Category:Elections_in_Iraq",
+        "http://dbpedia.org/resource/Category:January_2005_events_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1829.4419"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_National_Dialogue_Front"
+      ],
+      "redirectlabel": [
+        "Hewar National <B>Iraqi</B> Front",
+        "INDF",
+        "<B>Iraqi</B> Front for National Dialogue",
+        "National Dialogue Front",
+        "National <B>Iraqi</B> Project Gathering"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Front for National Dialogue (Arabic: الجبهة العراقية للحوار الوطني al-Jabha al-<B>Iraqia</B> li"
+      ],
+      "label": [
+        "<B>Iraqi</B> National Dialogue Front"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_National_Dialogue_Front"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Iraq",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2005",
+        "http://dbpedia.org/resource/Category:Political_party_alliances_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1824.7412"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012–2013_Iraqi_protests"
+      ],
+      "redirectlabel": [
+        "2012-13 <B>Iraqi</B> protests",
+        "2012-14 <B>Iraqi</B> protests",
+        "2012-2013 <B>Iraqi</B> protests",
+        "2012-2014 <B>Iraqi</B> protests",
+        "2012–13 <B>Iraqi</B> protests",
+        "2012–14 <B>Iraqi</B> protests",
+        "2012–2014 <B>Iraqi</B> protests"
+      ],
+      "label": [
+        "2012–2013 <B>Iraqi</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012–2013_Iraqi_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_in_Iraq",
+        "http://dbpedia.org/resource/Category:2012_protests",
+        "http://dbpedia.org/resource/Category:2013_in_Iraq",
+        "http://dbpedia.org/resource/Category:2013_protests",
+        "http://dbpedia.org/resource/Category:Arab_Spring_by_country",
+        "http://dbpedia.org/resource/Category:Arab_Winter_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_rebellions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_insurgency_(2011–2013)",
+        "http://dbpedia.org/resource/Category:Protests_in_Iraq",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1818.1207"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Iraqi–Kurdish_War"
+      ],
+      "redirectlabel": [
+        "Aylul revolts",
+        "First <B>Iraqi</B>-Kurdish War",
+        "First Kurdish-<B>Iraqi</B> War",
+        "First Kurdish <B>Iraqi</B> War",
+        "First Kurdish–<B>Iraqi</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " changes in <B>Iraq</B>. During the war, 80% of the <B>Iraqi</B> army was engaged in combat with the Kurds. The war"
+      ],
+      "label": [
+        "First <B>Iraqi</B>–Kurdish War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Iraqi–Kurdish_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_conflicts",
+        "http://dbpedia.org/resource/Category:1960s_in_Iraq",
+        "http://dbpedia.org/resource/Category:1970_in_Iraq",
+        "http://dbpedia.org/resource/Category:Civil_wars_in_Iraq",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1970",
+        "http://dbpedia.org/resource/Category:Iraqi–Kurdish_conflict",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_Syria",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Peshmerga"
+      ]
+    },
+    {
+      "score": [
+        "1814.2861"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009–10_Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Iraqi</B> Premier Division",
+        "2009-10 <B>Iraqi</B> Premier League",
+        "2009–10 <B>Iraqi</B> Premier Division",
+        "<B>Iraq</B> Premier League 2009-10",
+        "<B>Iraq</B> Super League 2009-10",
+        "<B>Iraq</B> super league 2009-10",
+        "<B>Iraqi</B> Premier League 2009-10",
+        "<B>Iraqi</B> Premier League 2009–10",
+        "<B>Iraqi</B> premier league 2009-10"
+      ],
+      "label": [
+        "2009–10 <B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009–10_Iraqi_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009–10_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2009–10_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1801.8281"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001–02_Iraqi_Elite_League"
+      ],
+      "redirectlabel": [
+        "2001-02 <B>Iraqi</B> Elite League",
+        "2001-02 <B>Iraqi</B> Premier League",
+        "2001–02 <B>Iraqi</B> Premier League",
+        "<B>Iraq</B> Super League 2001-02",
+        "<B>Iraqi</B> Premier League 2001-02",
+        "<B>Iraqi</B> Premier League 2001–02"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2001–02 <B>Iraqi</B> Elite League kicked off on September 22, 2001 and ended on May 17, 2002. Al"
+      ],
+      "label": [
+        "2001–02 <B>Iraqi</B> Elite League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001–02_Iraqi_Elite_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001–02_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2001–02_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1800.9218"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2002–03_Iraqi_First_Division"
+      ],
+      "redirectlabel": [
+        "2002-03 <B>Iraqi</B> First Division",
+        "2002-03 <B>Iraqi</B> First Division League",
+        "2002-03 <B>Iraqi</B> Premier League",
+        "2002–03 <B>Iraqi</B> First Division League",
+        "2002–03 <B>Iraqi</B> Premier League",
+        "<B>Iraq</B> Super League 2002-03",
+        "<B>Iraqi</B> Premier League 2002-03",
+        "<B>Iraqi</B> Premier League 2002–03"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2002–03 <B>Iraqi</B> First Division was the 29th season of the competition since its establishment in"
+      ],
+      "label": [
+        "2002–03 <B>Iraqi</B> First Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2002–03_Iraqi_First_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002–03_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2002–03_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1766.7109"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/14_July_Revolution"
+      ],
+      "redirectlabel": [
+        "14 July revolution",
+        "1958 <B>Iraq</B> Revolution",
+        "1958 <B>Iraqi</B> coup d'état",
+        "1958 Revolution of <B>Iraq</B>",
+        "1958 revolution of <B>Iraq</B>",
+        "1968 Revolution of <B>Iraq</B>",
+        "<B>Iraqi</B> 1968 Revolution",
+        "<B>Iraqi</B> 1968 revolution",
+        "<B>Iraqi</B> Revolution (1958)",
+        "<B>Iraqi</B> Revolution (1968)",
+        "<B>Iraqi</B> Revolution of 1958",
+        "<B>Iraqi</B> revolution (1958)",
+        "<B>Iraqi</B> revolution (1968)",
+        "<B>Iraqi</B> revolution of 1958",
+        "July 14 Revolution",
+        "July 1968 revolution",
+        "July revolution of 1968",
+        "Princess Nafeesa",
+        "Revolution of <B>Iraq</B> (1968)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 14 July Revolution, also known as the 1958 <B>Iraqi</B> coup d'état, took place on 14 July 1958 in"
+      ],
+      "label": [
+        "14 July Revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/14_July_Revolution"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1958_crimes_in_Iraq",
+        "http://dbpedia.org/resource/Category:1958_in_Iraq",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Iraq",
+        "http://dbpedia.org/resource/Category:Arab_nationalist_rebellions",
+        "http://dbpedia.org/resource/Category:Arab_rebellions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1958",
+        "http://dbpedia.org/resource/Category:History_of_the_Ba'ath_Party",
+        "http://dbpedia.org/resource/Category:Iraq–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:July_1958_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Iraq",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Iraq",
+        "http://dbpedia.org/resource/Category:Republicanism_in_the_Arab_world",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1765.1655"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–15_Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "2014-15 <B>Iraqi</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2014–15 <B>Iraqi</B> Premier League was the 41st season of the <B>Iraqi</B> Premier League since its"
+      ],
+      "label": [
+        "2014–15 <B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–15_Iraqi_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014–15_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2014–15_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1762.8383"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Basketball_League"
+      ],
+      "redirectlabel": [
+        "Dijla Al-Jamiea SC",
+        "<B>Iraq</B> Basketball League",
+        "<B>Iraqi</B> Division I Basketball League",
+        "<B>Iraqi</B> Premier League (basketball)"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Basketball League (IBL) is the highest professional basketball league in <B>Iraq</B>."
+      ],
+      "label": [
+        "<B>Iraqi</B> Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Basketball_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_in_Iraq",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Asia",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1761.5537"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mesopotamian_Arabic"
+      ],
+      "redirectlabel": [
+        "Babylonian Arabic",
+        "Gilit Mesopotamian Arabic",
+        "Gilit Mesopotamian Arabic language",
+        "Gilit dialect",
+        "ISO 639:acm",
+        "Iranian Arabic",
+        "<B>Iraqi</B> Arabic",
+        "<B>Iraqi</B> Arabic language",
+        "<B>Iraqi</B> arabic",
+        "<B>Iraqi</B> dialect",
+        "Mesopotamian Arabic language",
+        "Mesopotamian Colloquial Arabic language",
+        "Mesopotamian Spoken Arabic language",
+        "Persian Arabic"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " into Syria, <B>Iran</B>, southeastern Turkey, and spoken in <B>Iraqi</B> diaspora communities."
+      ],
+      "label": [
+        "Mesopotamian Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mesopotamian_Arabic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Cyprus",
+        "http://dbpedia.org/resource/Category:Languages_of_Iran",
+        "http://dbpedia.org/resource/Category:Languages_of_Iraq",
+        "http://dbpedia.org/resource/Category:Languages_of_Kuwait",
+        "http://dbpedia.org/resource/Category:Languages_of_Syria",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey",
+        "http://dbpedia.org/resource/Category:Mashriqi_Arabic",
+        "http://dbpedia.org/resource/Category:Mesopotamian_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "1752.1604"
+      ],
+      "refCount": [
+        "181"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_invasion_of_Iraq"
+      ],
+      "redirectlabel": [
+        "2003 American invasion of <B>Iraq</B>",
+        "2003 Invasion Of <B>Iraq</B>",
+        "2003 Invasion in <B>Iraq</B>",
+        "2003 Invasion of Baghdad",
+        "2003 Invasion of <B>Iraq</B>",
+        "2003 Invasion of <B>iraq</B>",
+        "2003 <B>Iraq</B> War",
+        "2003 <B>Iraq</B> confilct",
+        "2003 <B>Iraq</B> crisis",
+        "2003 <B>Iraq</B> invasion",
+        "2003 <B>Iraq</B> war",
+        "2003 Liberation Of <B>Iraq</B>",
+        "2003 Liberation of <B>Iraq</B>",
+        "2003 U.S. Invasion of <B>Iraq</B>",
+        "2003 U.S. invasion of <B>Iraq</B>",
+        "2003 US invasion of <B>Iraq</B>",
+        "2003 War in <B>Iraq</B>",
+        "2003 campaign in <B>Iraq</B>",
+        "2003 conquest of <B>Iraq</B>",
+        "2003 invasion",
+        "2003 invasion of <B>Iraq</B> 2",
+        "2003 invasion of <B>iraq</B>",
+        "2003 invasion to <B>Iraq</B>",
+        "2003 <B>iraq</B> war",
+        "2003 liberation of <B>Iraq</B>",
+        "2003 war in <B>Iraq</B>",
+        "2003 war on <B>Iraq</B>",
+        "2003invasionofiraq",
+        "2004 gulf war",
+        "2nd Persian Gulf War",
+        "American invasion of <B>Iraq</B>",
+        "Casualties of the 2003 invasion of <B>Iraq</B>",
+        "Gulf War Two",
+        "Invading <B>Iraq</B>",
+        "Invasion of <B>Iraq</B>, 2003",
+        "Invasion of <B>Iraq</B>",
+        "Invasion of <B>Iraq</B> (2003)",
+        "Invasion of <B>Iraq</B> in 2003",
+        "Invasion of <B>Iraqu</B>",
+        "Invasion of <B>iraq</B>",
+        "<B>Iraq</B> Invasion",
+        "<B>Iraq</B> War of 2003",
+        "<B>Iraq</B> invasion 2003",
+        "<B>Iraq</B> invasion of 2003",
+        "<B>Iraqi</B> invasion",
+        "Liberation of <B>Iraq</B>",
+        "Military preparations for 2003 invasion of <B>Iraq</B>",
+        "Mr. Bush's War",
+        "Operation <B>Iraqi</B> Liberation",
+        "Operation <B>Iraqui</B> Freedom",
+        "Order 81",
+        "Public relations plan for the war against <B>Iraq</B>",
+        "Public relations plan for war against <B>Iraq</B>",
+        "Public relations plans for war against <B>Iraq</B>",
+        "Public relations plans for war on <B>Iraq</B>",
+        "Public relations preparations for 2003 invasion of <B>Iraq</B>",
+        "The 2003 invasion of <B>Iraq</B>",
+        "The gulf war 2",
+        "U.S.-<B>Iraq</B> War of 2003",
+        "U.S.-led invasion of <B>Iraq</B>",
+        "U.S.-led military invasion of <B>Iraq</B>",
+        "U.S. Invasion of <B>Iraq</B>",
+        "U.S. <B>Iraq</B> War",
+        "U.S. <B>Iraq</B> War 2003",
+        "U.S. invasion of <B>Iraq</B>",
+        "U.S. plan to invade <B>Iraq</B>",
+        "U.S. war on <B>Iraq</B>",
+        "US-led invasion (<B>Iraq</B>)",
+        "US-led invasion of <B>Iraq</B>",
+        "US Invasion of <B>Iraq</B>",
+        "US attack on <B>Iraq</B>",
+        "US invasion and occupation of <B>Iraq</B>",
+        "US invasion of <B>Iraq</B>",
+        "US invasion of <B>Iraq</B> 2003",
+        "US military action in <B>Iraq</B>",
+        "US plan to invade <B>Iraq</B>",
+        "United States Invasion of <B>Iraq</B>",
+        "United States invasion of <B>Iraq</B>",
+        "War against <B>Iraq</B>",
+        "War crimes in the 2003 invasion of <B>Iraq</B>",
+        "War in <B>Iraq</B> (2003)",
+        "War on <B>Iraq</B>, 2003"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " leading up to the first <B>Iraqi</B> parliamentary election in January 2005. U.S. military forces later remained in <B>Iraq</B> until the withdrawal in 2011."
+      ],
+      "label": [
+        "2003 invasion of <B>Iraq</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_invasion_of_Iraq"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_in_Iraq",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Campaigns_of_the_Iraq_War",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2003",
+        "http://dbpedia.org/resource/Category:George_W._Bush_administration_controversies",
+        "http://dbpedia.org/resource/Category:Invasions_by_Australia",
+        "http://dbpedia.org/resource/Category:Invasions_by_Poland",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Invasions_by_the_United_States",
+        "http://dbpedia.org/resource/Category:Invasions_of_Iraq",
+        "http://dbpedia.org/resource/Category:Iraq_War",
+        "http://dbpedia.org/resource/Category:Iraq–United_States_relations",
+        "http://dbpedia.org/resource/Category:Operations_involving_special_forces",
+        "http://dbpedia.org/resource/Category:Presidency_of_George_W._Bush",
+        "http://dbpedia.org/resource/Category:United_States_Marine_Corps_in_the_Iraq_War",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change",
+        "http://dbpedia.org/resource/Category:Wars_involving_Australia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Denmark",
+        "http://dbpedia.org/resource/Category:Wars_involving_Kurdistan_Region_(Iraq)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Poland",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1745.4028"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Casualties_of_the_Iraqi_insurgency_(2011–present)"
+      ],
+      "redirectlabel": [
+        "Casualties of <B>Iraqi</B> insurgency (2011-2013)",
+        "Casualties of <B>Iraqi</B> insurgency (2011-2014)",
+        "Casualties of <B>Iraqi</B> insurgency (2011-present)",
+        "Casualties of <B>Iraqi</B> insurgency (2011–2013)",
+        "Casualties of <B>Iraqi</B> insurgency (2011–2014)",
+        "Casualties of <B>Iraqi</B> insurgency (2011–present)",
+        "Casualties of <B>Iraqi</B> insurgency (post-U.S. withdrawal)",
+        "Casualties of the <B>Iraqi</B> insurgency (2011-present)"
+      ],
+      "comment": [
+        "Casualties of the <B>Iraqi</B> insurgency (2011–present) refers to deaths and injuries in <B>Iraq</B> after the"
+      ],
+      "label": [
+        "Casualties of the <B>Iraqi</B> insurgency (2011–present)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Casualties_of_the_Iraqi_insurgency_(2011–present)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:People_of_the_Iraqi_insurgency_(2003–2011)",
+        "http://dbpedia.org/resource/Category:People_of_the_War_in_Iraq_(2013–2017)",
+        "http://dbpedia.org/resource/Category:War_casualties_by_war"
+      ]
+    },
+    {
+      "score": [
+        "1740.7041"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1988–89_Iraqi_Pan-National_League"
+      ],
+      "redirectlabel": [
+        "1988-89 <B>Iraqi</B> League",
+        "1988-89 <B>Iraqi</B> National League",
+        "1988-89 <B>Iraqi</B> Pan-National League",
+        "1988–89 <B>Iraqi</B> League",
+        "1988–89 <B>Iraqi</B> National League",
+        "<B>Iraq</B> Super League 1988-89",
+        "<B>Iraqi</B> League 1988-89",
+        "<B>Iraqi</B> League 1988–89"
+      ],
+      "label": [
+        "1988–89 <B>Iraqi</B> Pan-National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1988–89_Iraqi_Pan-National_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988–89_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1988–89_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1730.078"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Iraqis"
+      ],
+      "redirectlabel": [
+        "African-<B>Iraqi</B>",
+        "African-<B>Iraqis</B>",
+        "African <B>Iraqi</B>",
+        "African <B>Iraqis</B>",
+        "Afro-<B>Iraqi</B>",
+        "Afro <B>Iraqis</B>",
+        "Black <B>Iraqi</B>",
+        "Black <B>Iraqis</B>",
+        "Black people in <B>Iraq</B>",
+        "<B>Iraqi</B> Blacks",
+        "<B>Iraqi</B> black people",
+        "<B>Iraqis</B> of African descent"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Iraqis</B> are an ethnic group that is descended from people of Zanj heritage in <B>Iraq</B>. Most are"
+      ],
+      "label": [
+        "Afro-<B>Iraqis</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Iraqis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:African_diaspora_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_people_of_African_descent"
+      ]
+    },
+    {
+      "score": [
+        "1724.7325"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Circassians_in_Iraq"
+      ],
+      "redirectlabel": [
+        "Abkhaz in <B>Iraq</B>",
+        "Adyghe in <B>Iraq</B>",
+        "Chechens in <B>Iraq</B>",
+        "Circassians in Mesopotamia",
+        "Dagestanis in <B>Iraq</B>",
+        "History of the Circassians in <B>Iraq</B>",
+        "Ingush in <B>Iraq</B>",
+        "<B>Iraqi</B> Abkhaz",
+        "<B>Iraqi</B> Adyghe",
+        "<B>Iraqi</B> Avars",
+        "<B>Iraqi</B> Chechens",
+        "<B>Iraqi</B> Circassians",
+        "<B>Iraqi</B> Dagestanis",
+        "<B>Iraqi</B> Ingush",
+        "<B>Iraqi</B> Lezgins",
+        "North Caucasians in <B>Iraq</B>",
+        "Peoples of the Caucasus in <B>Iraq</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Circassians in <B>Iraq</B> are people of North Caucasian origin in <B>Iraq</B>, including Adyghes, Chechens and"
+      ],
+      "label": [
+        "Circassians in <B>Iraq</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Circassians_in_Iraq"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Circassian_diaspora_in_Asia",
+        "http://dbpedia.org/resource/Category:Demographics_of_Iraq",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iraq",
+        "http://dbpedia.org/resource/Category:Iraqi_people_of_Circassian_descent"
+      ]
+    },
+    {
+      "score": [
+        "1712.8602"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Interim_Government"
+      ],
+      "redirectlabel": [
+        "Interim <B>Iraqi</B> Government",
+        "<B>Iraq</B> Interim Government",
+        "<B>Iraq</B> interim government",
+        "<B>Iraq</B> provisional government",
+        "<B>Iraqi</B> interim government"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> Interim Government was created by the United States and its coalition allies as a"
+      ],
+      "label": [
+        "<B>Iraqi</B> Interim Government"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Interim_Government"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_establishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:2005_disestablishments_in_Iraq",
+        "http://dbpedia.org/resource/Category:Cabinets_of_Iraq",
+        "http://dbpedia.org/resource/Category:Provisional_governments"
+      ]
+    },
+    {
+      "score": [
+        "1699.263"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Iraq"
+      ],
+      "redirectlabel": [
+        "Babylonian Jew",
+        "Babylonian Jewry",
+        "Babylonian Jews",
+        "Bavlim",
+        "History of the jews in <B>iraq</B>",
+        "<B>Iraqi</B>-Jewish",
+        "<B>Iraqi</B> Jew",
+        "<B>Iraqi</B> Jewish",
+        "<B>Iraqi</B> Jews",
+        "<B>Iraqi</B> jew",
+        "<B>Iraqi</B> jews",
+        "Jewish-Babylonian",
+        "Jewish community of <B>Iraq</B>",
+        "Jews in Babylonia",
+        "Jews in <B>Iraq</B>",
+        "Jews of Babylonia",
+        "Jews of <B>Iraqi</B> descent",
+        "Persecution of Jews in <B>Iraq</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " Jewish communities. In the 20th century, <B>Iraqi</B> Jews played an important role in the early days of <B>Iraq's</B>"
+      ],
+      "label": [
+        "History of the Jews in <B>Iraq</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Iraq"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iraq",
+        "http://dbpedia.org/resource/Category:History_of_the_Jews_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iraqi_Jews",
+        "http://dbpedia.org/resource/Category:Iraqi_diaspora",
+        "http://dbpedia.org/resource/Category:Jewish_Iraqi_history",
+        "http://dbpedia.org/resource/Category:Jewish_ethnic_groups",
+        "http://dbpedia.org/resource/Category:Mizrahi_Jews",
+        "http://dbpedia.org/resource/Category:Sephardi_Jews_topics"
+      ]
+    },
+    {
+      "score": [
+        "1691.1056"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_maqam"
+      ],
+      "redirectlabel": [
+        "<B>Iraqi</B> Maqam",
+        "<B>Iraqi</B> Maqams",
+        "Maqam al-<B>Iraqi</B>",
+        "Maqam al-<B>iraqi</B>"
+      ],
+      "label": [
+        "<B>Iraqi</B> maqam"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_maqam"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic_music",
+        "http://dbpedia.org/resource/Category:Iraqi_music",
+        "http://dbpedia.org/resource/Category:Maqam-based_music_tradition",
+        "http://dbpedia.org/resource/Category:Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity"
+      ]
+    },
+    {
+      "score": [
+        "1688.8187"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008–09_Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Iraqi</B> Premier Division",
+        "2008-09 <B>Iraqi</B> Premier League",
+        "2008–09 <B>Iraqi</B> Premier Division",
+        "<B>Iraq</B> Super League 2008-09",
+        "<B>Iraq</B> Super League 2008 09",
+        "<B>Iraq</B> Super League 2008–09",
+        "<B>Iraqi</B> Premier League 2008-09",
+        "<B>Iraqi</B> Premier League 2008–09"
+      ],
+      "label": [
+        "2008–09 <B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008–09_Iraqi_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008–09_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2008–09_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1683.6945"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–11_Iraqi_Elite_League"
+      ],
+      "redirectlabel": [
+        "2010-11 <B>Iraqi</B> Elite League",
+        "2010-11 <B>Iraqi</B> Premier Division",
+        "2010-11 <B>Iraqi</B> Premier League",
+        "2010–11 <B>Iraqi</B> Premier Division",
+        "2010–11 <B>Iraqi</B> Premier League",
+        "<B>Iraqi</B> Premier League 2010-11",
+        "<B>Iraqi</B> Premier League 2010–11"
+      ],
+      "label": [
+        "2010–11 <B>Iraqi</B> Elite League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–11_Iraqi_Elite_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010–11_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2010–11_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1683.1636"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Iraqi</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2015–16 <B>Iraqi</B> Premier League (known officially as the Fuchs Premier League for sponsorship"
+      ],
+      "label": [
+        "2015–16 <B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_Iraqi_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015–16_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2015–16_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1669.3934"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iraqi_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadians of <B>Iraqi</B> descent",
+        "<B>Iraqi</B> Canadian",
+        "<B>Iraqis</B> in Canada",
+        "List of <B>Iraqi</B> Canadians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Iraqi</B> Canadians are Canadian citizens of full or partial <B>Iraqi</B> descent, as well as people from the"
+      ],
+      "label": [
+        "<B>Iraqi</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iraqi_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_Canadian",
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Iraqi_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Iraqi_emigrants_to_Canada",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_Canadians",
+        "http://dbpedia.org/resource/Category:West_Asian_Canadians"
+      ]
+    },
+    {
+      "score": [
+        "1657.722"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Fakhr_al-Din_Iraqi"
+      ],
+      "redirectlabel": [
+        "Fakhr-al-Din <B>Iraqi</B>",
+        "Fakhr al-Din Araqi",
+        "Fakhr al-Din Ibrahim <B>Iraqi</B>",
+        "Fakhr al-Dīn al-ʿIrāqī",
+        "Fakhr al-din Ibrahim",
+        "Fakhruddin '<B>Iraqi</B>",
+        "Fakhruddin <B>Iraqi</B>"
+      ],
+      "label": [
+        "Fakhr al-Din <B>Iraqi</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Fakhr_al-Din_Iraqi"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1210s_births",
+        "http://dbpedia.org/resource/Category:1289_deaths",
+        "http://dbpedia.org/resource/Category:13th-century_Iranian_philosophers",
+        "http://dbpedia.org/resource/Category:Ilkhanate-period_poets",
+        "http://dbpedia.org/resource/Category:Iranian_Sufis",
+        "http://dbpedia.org/resource/Category:People_from_the_Sultanate_of_Rum",
+        "http://dbpedia.org/resource/Category:Sufi_poets"
+      ]
+    },
+    {
+      "score": [
+        "1648.6411"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Supreme_Iraqi_Criminal_Tribunal"
+      ],
+      "redirectlabel": [
+        "<B>Iraq</B> Special Tribunal",
+        "<B>Iraqi</B> High Tribunal",
+        "<B>Iraqi</B> Special Tribunal",
+        "<B>Iraqi</B> special tribunal"
+      ],
+      "comment": [
+        "The <B>Iraqi</B> High Tribunal (IHT), formerly the <B>Iraqi</B> Special Tribunal and sometimes referred to as the"
+      ],
+      "label": [
+        "Supreme <B>Iraqi</B> Criminal Tribunal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Supreme_Iraqi_Criminal_Tribunal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Iraq",
+        "http://dbpedia.org/resource/Category:Iraq–United_States_relations",
+        "http://dbpedia.org/resource/Category:Judiciary_of_Iraq",
+        "http://dbpedia.org/resource/Category:Law_of_Iraq"
+      ]
+    },
+    {
+      "score": [
+        "1646.6038"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1996–97_Iraqi_Premier_League"
+      ],
+      "redirectlabel": [
+        "1996-97 <B>Iraqi</B> League",
+        "1996-97 <B>Iraqi</B> Premier League",
+        "1996–97 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1996-97",
+        "<B>Iraqi</B> League 1996-97",
+        "<B>Iraqi</B> League 1996–97"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1996–97 <B>Iraqi</B> Premier League was the 23rd season of the competition since its foundation in"
+      ],
+      "label": [
+        "1996–97 <B>Iraqi</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1996–97_Iraqi_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996–97_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1996–97_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1638.3845"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1974–75_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1974-75 <B>Iraqi</B> League",
+        "1974-75 <B>Iraqi</B> National League",
+        "1974–75 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1974-75",
+        "<B>Iraqi</B> League 1974-75",
+        "<B>Iraqi</B> League 1974–75"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1974–75 <B>Iraqi</B> National League was the 1st ever season of the competition since it replaced the"
+      ],
+      "label": [
+        "1974–75 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1974–75_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974–75_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1974–75_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1637.2655"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1995–96_Iraqi_Advanced_League"
+      ],
+      "redirectlabel": [
+        "1995-96 <B>Iraqi</B> Advanced League",
+        "1995-96 <B>Iraqi</B> League",
+        "1995–96 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1995-96",
+        "<B>Iraqi</B> League 1995-96",
+        "<B>Iraqi</B> League 1995–96"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1995–96 <B>Iraqi</B> Advanced League was the 22nd season of the competition since its foundation in"
+      ],
+      "label": [
+        "1995–96 <B>Iraqi</B> Advanced League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1995–96_Iraqi_Advanced_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995–96_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1995–96_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1635.6211"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1978–79_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1978-79 <B>Iraqi</B> League",
+        "1978-79 <B>Iraqi</B> National League",
+        "1978–79 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1978-79",
+        "<B>Iraqi</B> League 1978-79",
+        "<B>Iraqi</B> League 1978–79"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1978–79 <B>Iraqi</B> National League was the 5th season of the competition since its foundation in"
+      ],
+      "label": [
+        "1978–79 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1978–79_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1978–79_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1978–79_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1631.654"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1992–93_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1992-93 <B>Iraqi</B> League",
+        "1992-93 <B>Iraqi</B> National League",
+        "1992–93 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1992-93",
+        "<B>Iraqi</B> League 1992-93",
+        "<B>Iraqi</B> League 1992–93"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        " 828 matches) in total, the most rounds in any <B>Iraqi</B> League season in history. As a result, the <B>Iraq</B>"
+      ],
+      "label": [
+        "1992–93 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1992–93_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992–93_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1992–93_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1631.1143"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1981–82_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1981-82 <B>Iraqi</B> League",
+        "1981-82 <B>Iraqi</B> National League",
+        "1981–82 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1981-82",
+        "<B>Iraqi</B> League 1981-82",
+        "<B>Iraqi</B> League 1981–82"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1981–82 <B>Iraqi</B> National League was the 8th season of the competition since its foundation in"
+      ],
+      "label": [
+        "1981–82 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1981–82_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1981–82_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1981–82_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1630.6936"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1987–88_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1987-88 <B>Iraqi</B> League",
+        "1987-88 <B>Iraqi</B> National League",
+        "1987–88 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1987-88",
+        "<B>Iraqi</B> League 1987-88",
+        "<B>Iraqi</B> League 1987–88"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1987–88 <B>Iraqi</B> National League was the 14th season of the competition since its foundation in"
+      ],
+      "label": [
+        "1987–88 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1987–88_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987–88_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1987–88_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1630.5685"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1975–76_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1975-76 <B>Iraqi</B> League",
+        "1975-76 <B>Iraqi</B> National League",
+        "1975–76 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1975-76",
+        "<B>Iraqi</B> League 1975-76",
+        "<B>Iraqi</B> League 1975–76"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        " <B>Iraq</B> FA Cup to complete the first double ever in <B>Iraqi</B> football. The reason for Al-Zawraa's"
+      ],
+      "label": [
+        "1975–76 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1975–76_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1975–76_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1975–76_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1628.2686"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1984–85_Iraqi_National_League"
+      ],
+      "redirectlabel": [
+        "1984-85 <B>Iraqi</B> League",
+        "1984-85 <B>Iraqi</B> National League",
+        "1984–85 <B>Iraqi</B> League",
+        "<B>Iraq</B> Super League 1984-85",
+        "<B>Iraqi</B> League 1984-85",
+        "<B>Iraqi</B> League 1984–85"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1984–85 <B>Iraqi</B> National League was the 11th season of the competition since its foundation in"
+      ],
+      "label": [
+        "1984–85 <B>Iraqi</B> National League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1984–85_Iraqi_National_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1984–85_in_Asian_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1984–85_in_Iraqi_football",
+        "http://dbpedia.org/resource/Category:Iraqi_Premier_League_seasons"
+      ]
+    }
+  ]
+}

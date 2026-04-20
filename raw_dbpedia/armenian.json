@@ -1,0 +1,4457 @@
+{
+  "docs": [
+    {
+      "score": [
+        "15229.702"
+      ],
+      "refCount": [
+        "2574"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenia"
+      ],
+      "redirectlabel": [
+        "<B>ARMENIA</B>",
+        "<B>Armenai</B>",
+        "<B>Armenia</B> (Republic)",
+        "<B>Armenian</B> Hayastan",
+        "<B>Armenian</B> Republic",
+        "<B>Armenie</B>",
+        "<B>Armenien</B>",
+        "<B>Armeniya</B>",
+        "Arménie",
+        "Ermenistan",
+        "Etymology of <B>Armenia</B>",
+        "Harminuia",
+        "Hayasdan",
+        "Hayastan-Karastan",
+        "Hayastan",
+        "Hayastan Karastan",
+        "Hayastani Hanrapetut’yun",
+        "Haïastan",
+        "Hyester",
+        "ISO 3166-1:AM",
+        "Republic of <B>Armenia</B>",
+        "Tertiary education in <B>Armenia</B>",
+        "Zankezur",
+        "Արմէնիա",
+        "Հայաստան",
+        "Հայաստանի Հանրապետություն",
+        "სომხეთი"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Armenia</B> ( (); <B>Armenian</B>: Հայաստան, romanized: Hayastan, IPA: [hɑjɑsˈtɑn]), officially the Republic"
+      ],
+      "label": [
+        "<B>Armenia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1918_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1920_disestablishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1920_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Armenia",
+        "http://dbpedia.org/resource/Category:Armenian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Caucasus",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Eastern_European_countries",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Independent_States",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Russian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:South_Caucasus",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1920",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1991",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "11083.586"
+      ],
+      "refCount": [
+        "256"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_language"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B>-language",
+        "<B>Armenian</B> (family)",
+        "<B>Armenian</B> (language)",
+        "<B>Armenian</B> Grammar",
+        "<B>Armenian</B> Language",
+        "<B>Armenian</B> grammar",
+        "<B>Armenian</B> phonology",
+        "Ashkharhabar",
+        "Haieren",
+        "Hayeren",
+        "History of the <B>Armenian</B> language",
+        "Hwjtptu",
+        "ISO 639-1:hy",
+        "ISO 639:arm",
+        "ISO 639:hy",
+        "ISO 639:hye",
+        "ISO 639:hyx",
+        "Nuclear <B>Armenian</B> language",
+        "Zwjtptu",
+        "Հայերեն",
+        "Հայերէն"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "-European language that is the only language in the <B>Armenian</B> branch. It is the official language of <B>Armenia</B>"
+      ],
+      "label": [
+        "<B>Armenian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_language",
+        "http://dbpedia.org/resource/Category:Armenian_languages",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_5th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Armenia",
+        "http://dbpedia.org/resource/Category:Languages_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Languages_of_Cyprus",
+        "http://dbpedia.org/resource/Category:Languages_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Languages_of_Iran",
+        "http://dbpedia.org/resource/Category:Languages_of_Kazakhstan",
+        "http://dbpedia.org/resource/Category:Languages_of_Kurdistan",
+        "http://dbpedia.org/resource/Category:Languages_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Languages_of_Russia",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Caucasus",
+        "http://dbpedia.org/resource/Category:Subject–object–verb_languages"
+      ]
+    },
+    {
+      "score": [
+        "10862.8955"
+      ],
+      "refCount": [
+        "239"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Apostolic_Church"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B>-Gregorians",
+        "<B>Armenian</B> Apostolic",
+        "<B>Armenian</B> Apostolic Christians",
+        "<B>Armenian</B> Apostolic Church, <B>Armenia</B>",
+        "<B>Armenian</B> Apostolic Orthodox Church",
+        "<B>Armenian</B> Apostolic church",
+        "<B>Armenian</B> Christian",
+        "<B>Armenian</B> Christians",
+        "<B>Armenian</B> Church",
+        "<B>Armenian</B> Gregorian",
+        "<B>Armenian</B> Gregorians",
+        "<B>Armenian</B> Orthodox",
+        "<B>Armenian</B> Orthodox Apostolic Church",
+        "<B>Armenian</B> Orthodox Christian",
+        "<B>Armenian</B> Orthodox Church",
+        "<B>Armenian</B> Orthodox Patriarch",
+        "<B>Armenian</B> Orthodox Patriarchs",
+        "<B>Armenian</B> apostolic church",
+        "<B>Armenian</B> church",
+        "<B>Armenian</B> orthodoxy",
+        "Church of <B>Armenia</B>",
+        "Dzayrakooyn Vartabed",
+        "Dzayrakuyn Vartabed",
+        "Gregorian-<B>Armenian</B>",
+        "Gregorian Church",
+        "Gregorian church",
+        "Hay Arakelagan Yegeghetzi",
+        "Hay Aṙak’elakan Yekeġetsi",
+        "History of the <B>Armenian</B> Apostolic Church",
+        "One Holy Universal Apostolic Orthodox <B>Armenian</B> Church",
+        "Oriental Orthodox <B>Armenians</B>",
+        "Oriental Orthodoxy in <B>Armenia</B>",
+        "Հայ Առաքելական Եկեղեցի"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Apostolic Church (<B>Armenian</B>: Հայ Առաքելական Եկեղեցի, romanized: Hay Aṙak'elakan"
+      ],
+      "label": [
+        "<B>Armenian</B> Apostolic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Apostolic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:301_establishments",
+        "http://dbpedia.org/resource/Category:Apostolic_sees",
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_Church",
+        "http://dbpedia.org/resource/Category:Armenian_culture",
+        "http://dbpedia.org/resource/Category:Members_of_the_National_Council_of_Churches",
+        "http://dbpedia.org/resource/Category:Members_of_the_World_Council_of_Churches",
+        "http://dbpedia.org/resource/Category:National_churches",
+        "http://dbpedia.org/resource/Category:Religious_organizations_based_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "10054.439"
+      ],
+      "refCount": [
+        "388"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenians"
+      ],
+      "redirectlabel": [
+        "<B>Armanian</B> people",
+        "<B>Armeenians</B>",
+        "<B>Armenian</B> (people)",
+        "<B>Armenian</B> Origins",
+        "<B>Armenian</B> People",
+        "<B>Armenian</B> ethnogenesis",
+        "<B>Armenian</B> people",
+        "<B>Armenian</B> peoples",
+        "Ermanians",
+        "Ermeni",
+        "Ermenians",
+        "Ethnic <B>Armenian</B>",
+        "Ethnic <B>Armenian</B> people",
+        "Ethnic <B>Armenians</B>",
+        "Gaij",
+        "Hayastanis",
+        "Hayer",
+        "History of ethnic <B>Armenian</B> people",
+        "History of ethnic <B>Armenians</B>",
+        "Ormians",
+        "People of <B>Armenia</B>",
+        "Հայաստանցինէր",
+        "Հայեր"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Armenians</B> (<B>Armenian</B>: հայեր, hayer [hɑˈjɛɾ]) are an ethnic group native to the <B>Armenian</B> Highlands of"
+      ],
+      "label": [
+        "<B>Armenians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_peoples_of_the_Near_East",
+        "http://dbpedia.org/resource/Category:Armenian_people",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Armenia",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Modern_Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Peoples_of_the_Caucasus"
+      ]
+    },
+    {
+      "score": [
+        "6300.9517"
+      ],
+      "refCount": [
+        "144"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Soviet_Socialist_Republic"
+      ],
+      "redirectlabel": [
+        "1988 Yerevan Demonstrations",
+        "ArmSSR",
+        "<B>Armenia</B> SSR",
+        "<B>Armenian</B> SSR",
+        "<B>Armenian</B> Socialist Conciliar Republic",
+        "<B>Armenian</B> Socialist Soviet Republic",
+        "Armyanskaya SSR",
+        "Communist <B>Armenia</B>",
+        "Haykakan Sovetakan Soc'ialistakan Hanrapetut'yun",
+        "Red <B>Armenia</B>",
+        "Second <B>Armenian</B> Republic",
+        "Second Republic of <B>Armenia</B>",
+        "Socialist Soviet Republic of <B>Armenia</B>",
+        "Soviet <B>Armenia</B>",
+        "Soviet Republic of <B>Armenia</B>",
+        "Soviet Socialist Republic of <B>Armenia</B>",
+        "Soviet rule in <B>Armenia</B>",
+        "Yerevan demonstrations 1988",
+        "Հայաստանի Սովետական Սոցիալիստական Հանրապետություն"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Armenia</B> ( (); <B>Armenian</B>: Հայաստան, romanized: Hayastan, IPA: [hɑjɑsˈtɑn]; Russian: Армения; <B>Armeniya</B>"
+      ],
+      "label": [
+        "<B>Armenian</B> Soviet Socialist Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Soviet_Socialist_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_establishments_in_Russia",
+        "http://dbpedia.org/resource/Category:1991_disestablishments_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Armenian_Soviet_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Communism_in_Armenia",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:Republics_of_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1991",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1920"
+      ]
+    },
+    {
+      "score": [
+        "5593.6445"
+      ],
+      "refCount": [
+        "384"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenia_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B> football team",
+        "<B>Armenia</B> men's national football team",
+        "<B>Armenia</B> national soccer team",
+        "<B>Armenian</B> national football team",
+        "<B>Armenian</B> national soccer team",
+        "History of the <B>Armenia</B> national football team",
+        "List of <B>Armenia</B> national football team managers"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Armenia</B> national football team (<B>Armenian</B>: Հայաստանի ֆուտբոլի ազգային հավաքական, Hayastani"
+      ],
+      "label": [
+        "<B>Armenia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenia_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "5295.856"
+      ],
+      "refCount": [
+        "56"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_genocide"
+      ],
+      "redirectlabel": [
+        "1915 genocide",
+        "Aftermath of the <B>Armenian</B> Genocide",
+        "Aghed",
+        "Annihilation of the <B>Armenians</B>",
+        "<B>Armanian</B> Genocide",
+        "<B>Armenian</B> Genocide/Working Version",
+        "<B>Armenian</B> Genocide/Working version",
+        "<B>Armenian</B> Genocide/resources",
+        "<B>Armenian</B> Genocide",
+        "<B>Armenian</B> Genocide - Working Version",
+        "<B>Armenian</B> Genocide Claim",
+        "<B>Armenian</B> Genocide resources",
+        "<B>Armenian</B> Genocide ressources",
+        "<B>Armenian</B> Holocaust",
+        "<B>Armenian</B> Massacre",
+        "<B>Armenian</B> Massacres",
+        "<B>Armenian</B> Relocation",
+        "<B>Armenian</B> Tragedy",
+        "<B>Armenian</B> calamity",
+        "<B>Armenian</B> deportation",
+        "<B>Armenian</B> deportations",
+        "<B>Armenian</B> genicode",
+        "<B>Armenian</B> genocide rememberance day",
+        "<B>Armenian</B> holocaust",
+        "<B>Armenian</B> massacre",
+        "<B>Armenian</B> relocation",
+        "Armenocide",
+        "Ermeni Kirimi",
+        "Ermeni Kırımı",
+        "Ermeni Kıyımı",
+        "Ermeni Soykirimi",
+        "Ermeni Soykırımı",
+        "Ermeni Tehciri",
+        "Expulsion of the <B>Armenian</B> population",
+        "Genocide <B>armenien</B>",
+        "Genocide des <B>Armeniens</B>",
+        "Genocide of the <B>Armenians</B>",
+        "Genocide on the <B>Armenians</B>",
+        "Great Calamity",
+        "Génocide <B>arménien</B>",
+        "Génocide des Arméniens",
+        "Hayots Tseghaspanutyun",
+        "International reactions to the <B>Armenian</B> genocide",
+        "Meds Yeghern",
+        "Meds yeghern",
+        "Medz Yeghern",
+        "Mets Yeghern",
+        "Ottoman massacre",
+        "The <B>Armenian</B> genocide",
+        "The Extermination Of the <B>Armenians</B>",
+        "Turkish massacre",
+        "Yeghern",
+        "Հայոց Ցեղասպանութիւն",
+        "Հայոց Ցեղասպանություն",
+        "Մեծ Եղեռն"
+      ],
+      "label": [
+        "<B>Armenian</B> genocide"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_genocide"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1915_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_genocide",
+        "http://dbpedia.org/resource/Category:Armenia–Turkey_relations",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Committee_of_Union_and_Progress",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_in_Asia",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_in_Europe",
+        "http://dbpedia.org/resource/Category:Forced_marches",
+        "http://dbpedia.org/resource/Category:Genocides_in_Asia",
+        "http://dbpedia.org/resource/Category:Genocides_in_Europe",
+        "http://dbpedia.org/resource/Category:History_of_West_Azerbaijan_Province",
+        "http://dbpedia.org/resource/Category:Massacres_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Massacres_of_Armenians",
+        "http://dbpedia.org/resource/Category:Persecution_of_Christians_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:World_War_I_crimes_by_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "5084.511"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Americans"
+      ],
+      "redirectlabel": [
+        "American-<B>Armenian</B>",
+        "American <B>Armenian</B>",
+        "American–<B>Armenian</B>",
+        "<B>Armenian</B>-American",
+        "<B>Armenian</B>-Americans",
+        "<B>Armenian</B> American",
+        "<B>Armenian</B> American literature",
+        "<B>Armenian</B> american literature",
+        "<B>Armenians</B> in America",
+        "<B>Armenians</B> in the United States",
+        "<B>Armenians</B> of the United States",
+        "<B>Armerian</B>-American",
+        "History of <B>Armenian</B> American",
+        "History of <B>Armenians</B> in the United States",
+        "List of U.S. cities with large <B>Armenian</B> American populations",
+        "Martin the <B>Armenian</B>",
+        "Martin ye <B>Armenian</B>",
+        "Oriental Orthodox <B>Armenians</B> in the United States",
+        "Political views of <B>Armenian</B> Americans",
+        "The <B>Armenian</B> Church in America",
+        "Western <B>Armenian</B> American"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " <B>Armenian</B> diaspora after <B>Armenians</B> in Russia. The first major wave of <B>Armenian</B> immigration to the United"
+      ],
+      "label": [
+        "<B>Armenian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:American_people_of_Middle_Eastern_descent",
+        "http://dbpedia.org/resource/Category:Armenian-American_history",
+        "http://dbpedia.org/resource/Category:Armenian_American",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American"
+      ]
+    },
+    {
+      "score": [
+        "4446.766"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B>-Catholic",
+        "<B>Armenian</B>-Catholics",
+        "<B>Armenian</B> Catholic",
+        "<B>Armenian</B> Catholicism",
+        "<B>Armenian</B> Catholics",
+        "History of the <B>Armenian</B> Catholic Church",
+        "List of <B>Armenian</B> Catholic dioceses",
+        "List of <B>Armenian</B> dioceses"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Catholic Church (<B>Armenian</B>: Հայ Կաթողիկէ Եկեղեցի, romanized: Hay Kat’ołikē Ekełec’i"
+      ],
+      "label": [
+        "<B>Armenian</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1742_establishments_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Apostolic_sees",
+        "http://dbpedia.org/resource/Category:Armenian_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Christian_denominations_established_in_the_18th_century",
+        "http://dbpedia.org/resource/Category:Religious_organizations_established_in_1742"
+      ]
+    },
+    {
+      "score": [
+        "4341.935"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_alphabet"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> (script)",
+        "<B>Armenian</B> Alphabet",
+        "<B>Armenian</B> letters",
+        "<B>Armenian</B> punctuation",
+        "<B>Armenian</B> script",
+        "<B>Armeninan</B> alphabet",
+        "Armn (script)",
+        "Erkatagir",
+        "Ho (<B>Armenian</B>)",
+        "ISO 15924:Armn",
+        "Tiwn",
+        "Tyown",
+        "Այբուբեն",
+        "Գ",
+        "Դ",
+        "Է",
+        "Ժ",
+        "Լ",
+        "Խ",
+        "Ծ",
+        "Կ",
+        "Հ",
+        "Ձ",
+        "Ղ",
+        "Ճ",
+        "Մ",
+        "Յ",
+        "Ն",
+        "Շ",
+        "Ու",
+        "Չ",
+        "Ջ",
+        "Ռ",
+        "Վ",
+        "Տ",
+        "Ր",
+        "Ց",
+        "Ւ",
+        "Ք",
+        "Օ",
+        "Ֆ",
+        "՚",
+        "՛",
+        "՜",
+        "՝",
+        "՟"
+      ],
+      "comment": [
+        "The <B>Armenian</B> alphabet (<B>Armenian</B>: Հայոց գրեր, Hayots' grer or Հայոց այբուբեն, Hayots' aybuben"
+      ],
+      "label": [
+        "<B>Armenian</B> alphabet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_alphabet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:4th_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_alphabet",
+        "http://dbpedia.org/resource/Category:Keyboard_layouts",
+        "http://dbpedia.org/resource/Category:Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity"
+      ]
+    },
+    {
+      "score": [
+        "3471.0198"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_genocide_denial"
+      ],
+      "redirectlabel": [
+        "100 years of denial",
+        "Arguments against the <B>Armenian</B> Genocide theory",
+        "<B>Armenian</B> Genocide Denial",
+        "<B>Armenian</B> Genocide denial",
+        "<B>Armenian</B> Genocide deniers",
+        "<B>Armenian</B> Holocaust denial",
+        "<B>Armenian</B> Holocost denial",
+        "<B>Armenian</B> allegations",
+        "<B>Armenian</B> genocide debate",
+        "<B>Armenian</B> hoax",
+        "<B>Armenian</B> lie",
+        "<B>Armenian</B> lies",
+        "<B>Armenian</B> stab-in-the-back",
+        "Denial of <B>Armenian</B> Genocide",
+        "Denial of the <B>Armenian</B> Genocide",
+        "Denial of the <B>Armenian</B> genocide",
+        "Denial of the <B>armenian</B> genocide",
+        "Deny the <B>Armenain</B> genocide",
+        "Denying the <B>Armenian</B> Genocide",
+        "Denying the <B>Armenian</B> genocide",
+        "Evidence against <B>Armenian</B> Genocide",
+        "Fake <B>Armenian</B> genocide",
+        "Fictional <B>Armenian</B> genocide",
+        "Misinformation about the <B>Armenian</B> genocide",
+        "So-called <B>armenian</B> genocide",
+        "Views Against Genocide Allegations"
+      ],
+      "label": [
+        "<B>Armenian</B> genocide denial"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_genocide_denial"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_Armenian_genocide",
+        "http://dbpedia.org/resource/Category:Anti-Kurdish_sentiment",
+        "http://dbpedia.org/resource/Category:Armenian_genocide_denial",
+        "http://dbpedia.org/resource/Category:Conspiracy_theories_in_Turkey",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Turkey",
+        "http://dbpedia.org/resource/Category:Genocide_denial",
+        "http://dbpedia.org/resource/Category:Politics_of_Turkey",
+        "http://dbpedia.org/resource/Category:Turkish_nationalism"
+      ]
+    },
+    {
+      "score": [
+        "3331.7397"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Premier_League"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> STAR national league championship",
+        "<B>Armenian</B> highest football division",
+        "Bardzraguyn Khumb",
+        "Football Championship of the <B>Armenian</B> SSR",
+        "List of <B>Armenian</B> Premier League broadcasters"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Premier League (<B>Armenian</B>: Հայաստանի Բարձրագույն Խումբ) is the top football competition"
+      ],
+      "label": [
+        "<B>Armenian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_Premier_League",
+        "http://dbpedia.org/resource/Category:Football_competitions_in_Armenia",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "3242.9746"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Revolutionary_Federation"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Nationalist party",
+        "Dachnak",
+        "Dachnaktsoutioun",
+        "Dashnak",
+        "Dashnak Party",
+        "Dashnaks",
+        "Dashnaksutiun",
+        "Dashnaktsutiun",
+        "Dashnaktsutyun",
+        "Dashnaktsutyun Political Party of <B>Armenia</B>",
+        "Mshag Panvor",
+        "Society for Free <B>Armenia</B>",
+        "Tachnaq",
+        "Tachnaq party",
+        "Tashnag",
+        "Tashnags",
+        "Tashnagtsagan",
+        "Tashnagtsoutioun",
+        "Tashnak",
+        "Tashnaq",
+        "Taşnak"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Revolutionary Federation (ARF) (classical <B>Armenian</B>: Հայ Յեղափոխական Դաշնակցութիւն, ՀՅԴ"
+      ],
+      "label": [
+        "<B>Armenian</B> Revolutionary Federation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Revolutionary_Federation"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1890_establishments_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:Anti-communist_organizations",
+        "http://dbpedia.org/resource/Category:Armenian_Revolutionary_Federation",
+        "http://dbpedia.org/resource/Category:Armenian_national_liberation_movement",
+        "http://dbpedia.org/resource/Category:Party_of_European_Socialists_member_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1890",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Armenia",
+        "http://dbpedia.org/resource/Category:Transnational_political_parties"
+      ]
+    },
+    {
+      "score": [
+        "3215.7131"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_diaspora"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Diaspora",
+        "<B>Armenian</B> diaporsa",
+        "<B>Armenian</B> diaspora in Europe",
+        "<B>Armenian</B> diaspora in europe",
+        "<B>Armenian</B> diaspora in the Americas",
+        "<B>Armenian</B> diaspora in the americas",
+        "<B>Armenian</B> diaspora in the middle east",
+        "<B>Armenians</B> Diaspora",
+        "<B>Armenians</B> in Europe",
+        "<B>Armenians</B> in Venezuela",
+        "Armo diaspora",
+        "Diaspora <B>Armenian</B>",
+        "Emigration from <B>Armenia</B>",
+        "History of the <B>Armenian</B> diaspora",
+        "Levantine <B>Armenians</B>",
+        "Middle Eastern <B>Armenians</B>"
+      ],
+      "comment": [
+        "The <B>Armenian</B> diaspora refers to the communities of <B>Armenians</B> outside <B>Armenia</B> and other locations"
+      ],
+      "label": [
+        "<B>Armenian</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_diaspora",
+        "http://dbpedia.org/resource/Category:Diasporas_by_origin_country"
+      ]
+    },
+    {
+      "score": [
+        "2924.6765"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Iranian_Armenians"
+      ],
+      "redirectlabel": [
+        "<B>Arenian</B> Iranians",
+        "<B>Armenian</B>-Iranian",
+        "<B>Armenian</B>-Iranians",
+        "<B>Armenian</B>-Persian",
+        "<B>Armenian</B> Iranian",
+        "<B>Armenian</B> Iranians",
+        "<B>Armenians</B> in Iran",
+        "<B>Armenians</B> in Persia",
+        "Barsgahye",
+        "Hooys",
+        "Iranian-<B>Armenian</B>",
+        "Iranian-<B>Armenians</B>",
+        "Iranian <B>Armenian</B>",
+        "Parska-Hye",
+        "Parska Hye",
+        "Persian <B>Armenian</B>",
+        "Persian <B>Armenians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Iranian-<B>Armenians</B> (<B>Armenian</B>: իրանահայեր iranahayer) also known as Persian-<B>Armenians</B> (<B>Armenian</B>"
+      ],
+      "label": [
+        "Iranian <B>Armenians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Iranian_Armenians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Iran",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Iranian_people_of_Armenian_descent"
+      ]
+    },
+    {
+      "score": [
+        "2866.6758"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_studies"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Studies",
+        "<B>Armenianology</B>",
+        "Armenological",
+        "Armenologist",
+        "Armenologists",
+        "Armenology"
+      ],
+      "comment": [
+        "<B>Armenian</B> studies or Armenology (<B>Armenian</B>: հայագիտություն, pronounced [hɑjɑɡituˈtʰjun]) is a field"
+      ],
+      "label": [
+        "<B>Armenian</B> studies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_studies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_culture",
+        "http://dbpedia.org/resource/Category:Armenian_studies",
+        "http://dbpedia.org/resource/Category:Christianity_in_Armenia",
+        "http://dbpedia.org/resource/Category:European_studies",
+        "http://dbpedia.org/resource/Category:Indo-European_studies",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_studies",
+        "http://dbpedia.org/resource/Category:Society_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "2813.6687"
+      ],
+      "refCount": [
+        "486"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Glendale,_California"
+      ],
+      "redirectlabel": [
+        "Chamlian <B>Armenian</B> School",
+        "Glendale, CA",
+        "Glendale, Calif.",
+        "Glendale, Los Angeles",
+        "Glendale, ca",
+        "Glendale (CA)",
+        "Glendale (California)",
+        "Glendale california",
+        "Glendaleca.gov",
+        "History of Glendale, California",
+        "List of people from Glendale, California",
+        "North Glendale, California",
+        "Tropico, California",
+        "UN/LOCODE:USJGX",
+        "Verdugo City, California"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " miles (13 km) north of downtown Los Angeles. Glendale has one of the largest communities of <B>Armenian</B> descent in the United States."
+      ],
+      "label": [
+        "Glendale, California"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Glendale,_California"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1906_establishments_in_California",
+        "http://dbpedia.org/resource/Category:Armenian-American_culture_in_California",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_communities_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Cities_in_Los_Angeles_County,_California",
+        "http://dbpedia.org/resource/Category:Communities_in_the_San_Fernando_Valley",
+        "http://dbpedia.org/resource/Category:Crescenta_Valley",
+        "http://dbpedia.org/resource/Category:Glendale,_California",
+        "http://dbpedia.org/resource/Category:Incorporated_cities_and_towns_in_California",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1906",
+        "http://dbpedia.org/resource/Category:San_Rafael_Hills",
+        "http://dbpedia.org/resource/Category:Sundown_towns_in_California",
+        "http://dbpedia.org/resource/Category:Verdugo_Mountains"
+      ]
+    },
+    {
+      "score": [
+        "2750.035"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Evangelical_Church"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Evangelical",
+        "<B>Armenian</B> Evangelicals"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Evangelical Church (<B>Armenian</B>: Հայաստանեայց Աւետարանական Եկեղեցի) was established on"
+      ],
+      "label": [
+        "<B>Armenian</B> Evangelical Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Evangelical_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1846_establishments_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Armenian_Evangelical_Church",
+        "http://dbpedia.org/resource/Category:Christian_denominations_in_Asia",
+        "http://dbpedia.org/resource/Category:Evangelical_denominations_established_in_the_19th_century",
+        "http://dbpedia.org/resource/Category:Evangelical_denominations_in_Asia",
+        "http://dbpedia.org/resource/Category:Religious_organizations_established_in_1846"
+      ]
+    },
+    {
+      "score": [
+        "2749.6467"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_population_by_country"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Chileans",
+        "<B>Armenian</B> New Zealanders",
+        "<B>Armenian</B> Venezuelans",
+        "<B>Armenians</B> in Albania",
+        "<B>Armenians</B> in Chile",
+        "<B>Armenians</B> in Cuba",
+        "<B>Armenians</B> in Ecuador",
+        "<B>Armenians</B> in Finland",
+        "<B>Armenians</B> in Ireland",
+        "<B>Armenians</B> in Japan",
+        "<B>Armenians</B> in Luxembourg",
+        "<B>Armenians</B> in Morocco",
+        "<B>Armenians</B> in New Zealand",
+        "<B>Armenians</B> in Nicaragua",
+        "<B>Armenians</B> in Portugal",
+        "<B>Armenians</B> in Slovakia",
+        "<B>Armenians</B> in Slovenia",
+        "<B>Armenians</B> in South Africa",
+        "<B>Armenians</B> in Thailand",
+        "<B>Armenians</B> in albania",
+        "<B>Armenians</B> in finland",
+        "<B>Armenians</B> in norway",
+        "<B>Armenians</B> of Croatia",
+        "<B>Armenians</B> per country",
+        "List of <B>Armenian</B> population per country",
+        "List of <B>Armenian</B> populations by country",
+        "List of <B>Armenian</B> populations per country"
+      ],
+      "label": [
+        "<B>Armenian</B> population by country"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_population_by_country"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2744.7446"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Armenian_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Armenian</B>",
+        "Anti-<B>Armenian</B> sentiment in Georgia",
+        "Anti-<B>Armenian</B> sentiment in Israel",
+        "Anti-<B>Armenian</B> sentiment in Russia",
+        "Anti-<B>Armenian</B> sentiment in the United States",
+        "Anti-<B>Armenianism</B>",
+        "Anti-<B>Armenic</B>",
+        "Anti-<B>Armenism</B>",
+        "Anti-<B>armenian</B>",
+        "Anti-<B>armenian</B> senitment",
+        "Anti <B>Armenian</B> sentiment",
+        "Antiarmeniansim",
+        "Armenophobia",
+        "Persecution of <B>Armenians</B>"
+      ],
+      "comment": [
+        "Anti-<B>Armenian</B> sentiment, also known as anti-<B>Armenianism</B> and Armenophobia, is a diverse spectrum of"
+      ],
+      "label": [
+        "Anti-<B>Armenian</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Armenian_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Armenianism",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment",
+        "http://dbpedia.org/resource/Category:Racism"
+      ]
+    },
+    {
+      "score": [
+        "2726.7168"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_fedayi"
+      ],
+      "redirectlabel": [
+        "AArmenian militia",
+        "<B>Armenain</B> Militia",
+        "<B>Armenian</B> Militia",
+        "<B>Armenian</B> Millitia",
+        "<B>Armenian</B> fedayees",
+        "<B>Armenian</B> irregular units",
+        "<B>Armenian</B> militia",
+        "<B>Armenian</B> millitia",
+        "<B>Armenian</B> partisans",
+        "Fedayees",
+        "List of <B>Armenian</B> fedayees"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "Fedayi (Western <B>Armenian</B>: Ֆէտայի Fedayi; Eastern <B>Armenian</B>: Ֆիդայի Fidayi), also known as the"
+      ],
+      "label": [
+        "<B>Armenian</B> fedayi"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_fedayi"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_fedayi",
+        "http://dbpedia.org/resource/Category:Armenian_militant_groups",
+        "http://dbpedia.org/resource/Category:Armenian_national_liberation_movement",
+        "http://dbpedia.org/resource/Category:Military_history_of_Qajar_Iran",
+        "http://dbpedia.org/resource/Category:Military_history_of_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Militias_in_Asia",
+        "http://dbpedia.org/resource/Category:Militias_in_Europe",
+        "http://dbpedia.org/resource/Category:People_of_the_Armenian_genocide"
+      ]
+    },
+    {
+      "score": [
+        "2696.1438"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B>-Canadian",
+        "<B>Armenian</B>-Canadians",
+        "<B>Armenian</B> Canadian",
+        "<B>Armenian</B> canadian",
+        "<B>Armenians</B> in Canada",
+        "Canadian-<B>Armenian</B>",
+        "Canadians of <B>Armenian</B> descent",
+        "Canadians of <B>Armenians</B> descent",
+        "Canadians of <B>armenian</B> descent",
+        "History of <B>Armenian</B> Canadians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Armenian</B> Canadians (Western <B>Armenian</B>: գանատահայեր, Eastern <B>Armenian</B>: կանադահայեր, kanadahayer"
+      ],
+      "label": [
+        "<B>Armenian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Canadian",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Asian_Canadian",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_Canadians",
+        "http://dbpedia.org/resource/Category:West_Asian_Canadians"
+      ]
+    },
+    {
+      "score": [
+        "2673.6262"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_highlands"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B> (region)",
+        "<B>Armenian</B> Highland",
+        "<B>Armenian</B> Highlands",
+        "<B>Armenian</B> Plateau",
+        "<B>Armenian</B> Upland",
+        "<B>Armenian</B> highland",
+        "<B>Armenian</B> land",
+        "<B>Armenian</B> plateau",
+        "<B>Armenian</B> tableland",
+        "Eastern Anatolian highlands",
+        "Javakheti-<B>Armenian</B> Uplands",
+        "Հայկական լեռնաշխարհ"
+      ],
+      "label": [
+        "<B>Armenian</B> highlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_highlands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Highlands",
+        "http://dbpedia.org/resource/Category:Divided_regions",
+        "http://dbpedia.org/resource/Category:Highlands",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Armenia",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Iran",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Turkey",
+        "http://dbpedia.org/resource/Category:Plateaus_of_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2640.0615"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> cause",
+        "<B>Armenian</B> nationalist"
+      ],
+      "comment": [
+        ". The Russian <B>Armenia</B> followed with significant causes. The <B>Armenian</B> Apostolic Church has been a"
+      ],
+      "label": [
+        "<B>Armenian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_culture",
+        "http://dbpedia.org/resource/Category:Armenian_nationalism",
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Armenia",
+        "http://dbpedia.org/resource/Category:Politics_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "2579.669"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Western_Armenian"
+      ],
+      "redirectlabel": [
+        "ISO 639:hyw",
+        "Western <B>Armenian</B> dialect",
+        "Western <B>Armenian</B> language",
+        "Արեւմտահայերէն"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Western <B>Armenian</B> (Classical spelling: արեւմտահայերէն, arevmdahayerēn) is one of the two"
+      ],
+      "label": [
+        "Western <B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Western_Armenian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_languages",
+        "http://dbpedia.org/resource/Category:Endangered_diaspora_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Cyprus",
+        "http://dbpedia.org/resource/Category:Languages_of_France",
+        "http://dbpedia.org/resource/Category:Languages_of_Greece",
+        "http://dbpedia.org/resource/Category:Languages_of_Iraq",
+        "http://dbpedia.org/resource/Category:Languages_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Languages_of_Syria",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey"
+      ]
+    },
+    {
+      "score": [
+        "2570.5542"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2021_Armenian_political_crisis"
+      ],
+      "redirectlabel": [
+        "2021 <B>Armenia</B> coup",
+        "2021 <B>Armenian</B> coup",
+        "2021 <B>Armenian</B> coup d'état",
+        "2021 <B>Armenian</B> coup d'état attempt",
+        "2021 <B>Armenian</B> military memorandum",
+        "<B>Armenia</B> coup",
+        "<B>Armenia</B> coup 2021",
+        "<B>Armenia</B> military coup",
+        "<B>Armenian</B> coup",
+        "<B>Armenian</B> coup 2021",
+        "<B>Armenian</B> coup d'état",
+        "<B>Armenian</B> coup d'état attempt",
+        "<B>Armenian</B> military coup",
+        "Coup <B>Armenia</B>",
+        "Coup <B>Armenian</B>"
+      ],
+      "label": [
+        "2021 <B>Armenian</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2021_Armenian_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:2021_protests",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_2020_Nagorno-Karabakh_war",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2021",
+        "http://dbpedia.org/resource/Category:February_2021_events_in_Armenia",
+        "http://dbpedia.org/resource/Category:Government_crises",
+        "http://dbpedia.org/resource/Category:Nikol_Pashinyan",
+        "http://dbpedia.org/resource/Category:Protests_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "2509.072"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_national_movement"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> National Liberation Movement",
+        "<B>Armenian</B> National Movement",
+        "<B>Armenian</B> Revolutionary Movement",
+        "<B>Armenian</B> freedom movement",
+        "<B>Armenian</B> irredentism",
+        "<B>Armenian</B> national liberation movement",
+        "<B>Armenian</B> revolutionary movement"
+      ],
+      "label": [
+        "<B>Armenian</B> national movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_national_movement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:19th-century_conflicts",
+        "http://dbpedia.org/resource/Category:19th_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:20th-century_conflicts",
+        "http://dbpedia.org/resource/Category:20th_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_national_liberation_movement",
+        "http://dbpedia.org/resource/Category:Armenian_nationalism",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Armenia",
+        "http://dbpedia.org/resource/Category:National_liberation_movements"
+      ]
+    },
+    {
+      "score": [
+        "2496.1897"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_National_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "10.52526",
+        "10.52853",
+        "10.54503",
+        "10.55841",
+        "10.56549",
+        "10.56812",
+        "10.56813",
+        "10.56925",
+        "10.57236",
+        "Academy of Sciences of <B>Armenia</B>",
+        "Academy of Sciences of <B>Armenian</B> SSR",
+        "Academy of Sciences of the <B>Armenian</B> SSR",
+        "<B>Armenian</B> Academy of Sciences",
+        "<B>Armenian</B> academy of sciences",
+        "Fundamental Library of the National Academy of Sciences of RA",
+        "Institute of History of National Academy of Sciences of <B>Armenia</B>",
+        "Institute of Oriental Studies of the National Academy of Sciences",
+        "NAS RA",
+        "National Academy of Sciences of <B>Armenia</B>",
+        "National Academy of Sciences of the Republic of <B>Armenia</B>",
+        "Sci.am",
+        "Sciences Academy of <B>Armenia</B>",
+        "Soviet <B>Armenia's</B> Academy of Sciences"
+      ],
+      "comment": [
+        "The National Academy of Sciences of the Republic of <B>Armenia</B> (NAS RA) (<B>Armenian</B>: Հայաստանի"
+      ],
+      "label": [
+        "<B>Armenian</B> National Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_National_Academy_of_Sciences"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1943_establishments_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Armenian_studies",
+        "http://dbpedia.org/resource/Category:Language_regulators",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:National_academies_of_sciences",
+        "http://dbpedia.org/resource/Category:Research_institutes_in_Armenia",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_Armenia",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1943",
+        "http://dbpedia.org/resource/Category:USSR_Academy_of_Sciences"
+      ]
+    },
+    {
+      "score": [
+        "2479.731"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_resistance_during_the_Armenian_genocide"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Rebellions",
+        "<B>Armenian</B> Resistance",
+        "<B>Armenian</B> rebellions",
+        "<B>Armenian</B> rebellions in the Ottoman Empire",
+        "<B>Armenian</B> resistance",
+        "<B>Armenian</B> resistance (1914-18)",
+        "<B>Armenian</B> resistance (1914-1918)",
+        "<B>Armenian</B> resistance (1914–18)",
+        "<B>Armenian</B> resistance (1914–1918)",
+        "<B>Armenian</B> resistance during World War I",
+        "<B>Armenian</B> resistance during the <B>Armenian</B> Genocide",
+        "<B>Armenian</B> uprising"
+      ],
+      "label": [
+        "<B>Armenian</B> resistance during the <B>Armenian</B> genocide"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_resistance_during_the_Armenian_genocide"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_Armenia",
+        "http://dbpedia.org/resource/Category:1910s_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Armenian_resistance_during_the_Armenian_genocide",
+        "http://dbpedia.org/resource/Category:Armenians_from_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "2433.4148"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian–Azerbaijani_war_(1918–1920)"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B> azerbaijan war (1918-1920)",
+        "<B>Armenia</B> azerbaijan war 1918-1920",
+        "<B>Armenian</B>-Azerbaijani War (1918-1920)",
+        "<B>Armenian</B>-Azerbaijani War (1918–1920)",
+        "<B>Armenian</B>-Azerbaijani war (1918-1920)",
+        "<B>Armenian</B>-Azerbaijani war (1918 - 1920)",
+        "<B>Armenian</B>-Azerbaijani war (1918–1920)",
+        "<B>Armenian</B>-Azerbaijani war of 1918-1920",
+        "<B>Armenian</B>-Azeri war 1918",
+        "<B>Armenian</B> Azerbaijani war (1918-1920)",
+        "<B>Armenian</B> azerbaijan war (1918-1920)",
+        "<B>Armenian</B>–Azerbaijani War (1918–1920)",
+        "<B>Armenian</B>–Azerbaijani war (1918-1920)",
+        "<B>Armenian</B>–Azerbaijani war of 1918–1920",
+        "First <B>Armenian</B>-Azerbaijani war",
+        "First <B>Armenian</B>–Azerbaijani war",
+        "Jomardli genocide"
+      ],
+      "label": [
+        "<B>Armenian</B>–Azerbaijani war (1918–1920)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian–Azerbaijani_war_(1918–1920)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_in_Armenia",
+        "http://dbpedia.org/resource/Category:1918_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:1919_in_Armenia",
+        "http://dbpedia.org/resource/Category:1919_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:1920_in_Armenia",
+        "http://dbpedia.org/resource/Category:1920_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Armenian–Azerbaijani_war_(1918–1920)",
+        "http://dbpedia.org/resource/Category:Armenia–Azerbaijan_relations",
+        "http://dbpedia.org/resource/Category:Azerbaijan_Democratic_Republic",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1918",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1919",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1920",
+        "http://dbpedia.org/resource/Category:First_Republic_of_Armenia",
+        "http://dbpedia.org/resource/Category:History_of_Turkey",
+        "http://dbpedia.org/resource/Category:History_of_the_Republic_of_Artsakh",
+        "http://dbpedia.org/resource/Category:Military_conflicts_between_Armenia_and_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Russian_Civil_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Armenia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:World_War_I"
+      ]
+    },
+    {
+      "score": [
+        "2427.8882"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armed_Forces_of_Armenia"
+      ],
+      "redirectlabel": [
+        "Armed Forces of the Republic of <B>Armenia</B>",
+        "Armed forces of <B>Armenia</B>",
+        "Armed forces of <B>armenia</B>",
+        "<B>Armenia</B> Armed Forces",
+        "<B>Armenian</B> Armed Forces",
+        "<B>Armenian</B> Army",
+        "<B>Armenian</B> Navy",
+        "<B>Armenian</B> armed forces",
+        "<B>Armenian</B> army",
+        "<B>Armenian</B> military",
+        "<B>Armenian</B> soldier",
+        "Army of <B>Armenia</B>",
+        "History of the Armed Forces of <B>Armenia</B>",
+        "Military of <B>Armenia</B>",
+        "Navy of <B>Armenia</B>",
+        "Our name is <B>Armenian</B> Army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Armed Forces of <B>Armenia</B> (<B>Armenian</B>: Հայաստանի զինված ուժեր) comprise two services: the Army, and"
+      ],
+      "label": [
+        "Armed Forces of <B>Armenia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armed_Forces_of_Armenia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "2376.5166"
+      ],
+      "refCount": [
+        "57"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Armenia"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B>-Austria relations",
+        "<B>Armenia</B>-Belarus relations",
+        "<B>Armenia</B>-Bosnia and Herzegovina relations",
+        "<B>Armenia</B>-Czech Republic relations",
+        "<B>Armenia</B>-Estonia relations",
+        "<B>Armenia</B>-Finland relations",
+        "<B>Armenia</B>-Iceland relations",
+        "<B>Armenia</B>-Ireland relations",
+        "<B>Armenia</B>-Latvia relations",
+        "<B>Armenia</B>-Lithuania relations",
+        "<B>Armenia</B>-Moldova relations",
+        "<B>Armenia</B>-Netherlands relations",
+        "<B>Armenia</B>-Slovakia relations",
+        "<B>Armenia</B>-Sweden relations",
+        "<B>Armenia</B>-United Arab Emirates relations",
+        "<B>Armenia</B> - Belarus relations",
+        "<B>Armenia</B> - Czech Republic relations",
+        "<B>Armenia</B> - United Arab Emirates relations",
+        "<B>Armenia</B> Belarus relations",
+        "<B>Armenia</B> – Belarus relations",
+        "<B>Armenia</B> – Czech Republic relations",
+        "<B>Armenia</B> – United Arab Emirates relations",
+        "<B>Armenian</B>-Austrian relations",
+        "<B>Armenian</B>-Czech relations",
+        "<B>Armenian</B>-Dutch relations",
+        "<B>Armenian</B>-Emirati relations",
+        "<B>Armenian</B>-Estonian relations",
+        "<B>Armenian</B>-Finish relations",
+        "<B>Armenian</B>-Finnish relations",
+        "<B>Armenian</B>-Italian relations",
+        "<B>Armenian</B>-Latvian relations",
+        "<B>Armenian</B>-Lithuanian relations",
+        "<B>Armenian</B>-Moldovan relations",
+        "<B>Armenian</B>-Swedish relations",
+        "<B>Armenia</B>–Austria relations",
+        "<B>Armenia</B>–Belarus relations",
+        "<B>Armenia</B>–Bosnia and Herzegovina relations",
+        "<B>Armenia</B>–Czech Republic relations",
+        "<B>Armenia</B>–Estonia relations",
+        "<B>Armenia</B>–Finland relations",
+        "<B>Armenia</B>–Iceland relations",
+        "<B>Armenia</B>–Ireland relations",
+        "<B>Armenia</B>–Latvia relations",
+        "<B>Armenia</B>–Lithuania relations",
+        "<B>Armenia</B>–Moldova relations",
+        "<B>Armenia</B>–Netherlands relations",
+        "<B>Armenia</B>–Slovakia relations",
+        "<B>Armenia</B>–Sweden relations",
+        "Belarus-<B>Armenia</B> relations",
+        "Belarus - <B>Armenia</B> relations",
+        "Belarus <B>Armenia</B> relations",
+        "Belarus – <B>Armenia</B> relations",
+        "Belarus–<B>Armenia</B> relations",
+        "Foreign Relations of <B>Armenia</B>",
+        "Foreign relations of <B>armenia</B>",
+        "Slovakia-<B>Armenia</B> relations",
+        "Transnational issues of <B>Armenia</B>"
+      ],
+      "comment": [
+        " status, etc. in some others. However, the dispute over the <B>Armenian</B> Genocide of 1915 and the recent war"
+      ],
+      "label": [
+        "Foreign relations of <B>Armenia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Armenia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "2327.0535"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Cilicia",
+        "<B>Armenian</B> cilicia",
+        "<B>Armenian</B> kingdom of Cilicia",
+        "<B>Armenian</B> kingdom of cilicia",
+        "Cilician <B>Armenia</B>",
+        "Cilician Kingdom",
+        "Cilician Kingdom of <B>Armenia</B>",
+        "Kilikio Hayots Tagavorutyun",
+        "Kingdom of Cilicia",
+        "Kingdom of Cilician <B>Armenia</B>",
+        "Kingdom of Lesser <B>Armenia</B>",
+        "Le Royaume <B>arménien</B> de Cilicie",
+        "Lord of Cilicia",
+        "New <B>Armenia</B>",
+        "New <B>armenia</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "’ T’akavorut’iun), also known as Cilician <B>Armenia</B> (<B>Armenian</B>: Կիլիկեան Հայաստան, Giligian Hayastan), Lesser"
+      ],
+      "label": [
+        "<B>Armenian</B> Kingdom of Cilicia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1080_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1198_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:1375_disestablishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Armenian_Kingdom_of_Cilicia",
+        "http://dbpedia.org/resource/Category:Armenian_kingdoms",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Former_countries_in_Western_Asia",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Western_Asia",
+        "http://dbpedia.org/resource/Category:History_of_Adana_Province",
+        "http://dbpedia.org/resource/Category:Nobles_of_the_Crusader_states_by_title",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_the_14th_century",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1080",
+        "http://dbpedia.org/resource/Category:States_in_medieval_Anatolia"
+      ]
+    },
+    {
+      "score": [
+        "2267.7551"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Armenian_Premier_League"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Armenian</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Armenian</B> Premier League season was the 27th since its establishment. The season began on 4 August 2018 and ended on 30 May 2019."
+      ],
+      "label": [
+        "2018–19 <B>Armenian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Armenian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Armenian_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Armenian_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2228.452"
+      ],
+      "refCount": [
+        "54"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Artvin"
+      ],
+      "redirectlabel": [
+        "Ardvin",
+        "<B>Armenian</B> Catholic Eparchy of Artvin"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Artvin (Georgian: ართვინი, Artvini; Laz: ართვინი Artvini, <B>Armenian</B>: Արդվին Ardvin) is a city in"
+      ],
+      "label": [
+        "Artvin"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Artvin"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Artvin",
+        "http://dbpedia.org/resource/Category:Batum_Oblast",
+        "http://dbpedia.org/resource/Category:Catholic_titular_sees_in_Asia",
+        "http://dbpedia.org/resource/Category:Districts_of_Artvin_Province",
+        "http://dbpedia.org/resource/Category:Eastern_Catholic_titular_sees",
+        "http://dbpedia.org/resource/Category:Former_Eastern_Catholic_dioceses",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Artvin_Province"
+      ]
+    },
+    {
+      "score": [
+        "2225.6501"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenia–Turkey_relations"
+      ],
+      "redirectlabel": [
+        "2009 <B>Armenia</B>-Turkey Accord",
+        "2009 <B>Armenia</B>–Turkey Accord",
+        "<B>Armenia</B>-Turkey relations",
+        "<B>Armenia</B>-turkey relations",
+        "<B>Armenia</B> - Turkey relations",
+        "<B>Armenia</B> - turkey relations",
+        "<B>Armenia</B> Turkey relations",
+        "<B>Armenia</B> turkey relations",
+        "<B>Armenia</B> – Turkey relations",
+        "<B>Armenian</B>-Turkish Relations",
+        "<B>Armenian</B>-Turkish relations",
+        "<B>Armenian</B> - Turkish relations",
+        "<B>Armenian</B> Turkish Relations",
+        "<B>Armenian</B>–Turkish relations",
+        "Turco-<B>Armenian</B> relations",
+        "Turkey-<B>Armenia</B> Relations",
+        "Turkey-<B>Armenia</B> relations",
+        "Turkey-<B>armenia</B> relations",
+        "Turkey - <B>Armenia</B> relations",
+        "Turkey - <B>armenia</B> relations",
+        "Turkey <B>Armenia</B> relations",
+        "Turkey <B>armenia</B> relations",
+        "Turkey – <B>Armenia</B> relations",
+        "Turkey–<B>Armenia</B> relations",
+        "Turkish-<B>Armenian</B> Relations",
+        "Turkish-<B>Armenian</B> relations",
+        "Turkish - <B>Armenian</B> relations"
+      ],
+      "comment": [
+        " Turkey recognized the modern <B>Armenia</B> (in the borders of the <B>Armenian</B> Soviet Socialist Republic) shortly"
+      ],
+      "label": [
+        "<B>Armenia</B>–Turkey relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenia–Turkey_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenia–Turkey_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Armenia",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Turkey"
+      ]
+    },
+    {
+      "score": [
+        "2222.5676"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Graeco-Armenian"
+      ],
+      "redirectlabel": [
+        "Graeco-<B>Armenian</B> hypothesis",
+        "Graeco-<B>Armenian</B> language",
+        "Graeco-<B>Armenian</B> languages",
+        "Greco-<B>Armenian</B>",
+        "Greco-<B>Armenian</B> hypothesis",
+        "Greco-<B>Armenian</B> language",
+        "Helleno-<B>Armenian</B>",
+        "Helleno-<B>Armenian</B> languages"
+      ],
+      "comment": [
+        "Graeco-<B>Armenian</B> (or Helleno-<B>Armenian</B>) is the hypothetical common ancestor of Greek and <B>Armenian</B>"
+      ],
+      "label": [
+        "Graeco-<B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Graeco-Armenian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1924_introductions",
+        "http://dbpedia.org/resource/Category:Armenian_languages",
+        "http://dbpedia.org/resource/Category:Greek_language",
+        "http://dbpedia.org/resource/Category:Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Indo-European_linguistics"
+      ]
+    },
+    {
+      "score": [
+        "2221.0784"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "label": [
+        "<B>Armenian</B>–Azerbaijani war"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian–Azerbaijani_war"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian–Azerbaijani_war"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B>-Azerbaijan War",
+        "<B>Armenia</B> azerbaijan war (disambiguation)",
+        "<B>Armenian</B>-Azerbaijani War",
+        "<B>Armenian</B>-Azerbaijani war",
+        "<B>Armenian</B>-Azerbaijani war (disambiguation)",
+        "<B>Armenian</B>-Azeri War",
+        "<B>Armenian</B>-azerbaijani war (disambiguation)",
+        "<B>Armenian</B> Azerbaijani War",
+        "<B>Armenian</B>–Azerbaijani War",
+        "<B>Armenian</B>–Azerbaijani war (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "2194.7136"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_State_Pedagogical_University"
+      ],
+      "redirectlabel": [
+        "10.24234",
+        "<B>Armenian</B> State Pedagogical University after Khacatur Abovyan",
+        "Khachatur Abovian <B>Armenian</B> State Pedagogical University",
+        "Khachatur Abovyan <B>Armenian</B> State Pedagogical University",
+        "Yerevan State Pedagogical University"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Armenian</B> State Pedagogical University named after Khachatur Abovian  (ASPU) (<B>Armenian</B>: Խաչատուր"
+      ],
+      "label": [
+        "<B>Armenian</B> State Pedagogical University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_State_Pedagogical_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_State_Pedagogical_University",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1922",
+        "http://dbpedia.org/resource/Category:Universities_and_institutes_established_in_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "2191.0728"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_cuisine"
+      ],
+      "redirectlabel": [
+        "Apur",
+        "<B>Armenian</B> drinks",
+        "<B>Armenian</B> soup",
+        "<B>Armenian</B> soups",
+        "Cuisine of <B>Armenia</B>",
+        "Cuisine of Nagorno-Karabakh",
+        "Tan apur"
+      ],
+      "comment": [
+        " <B>Armenian</B> foods and dishes. The cuisine reflects the history and geography where <B>Armenians</B> have lived"
+      ],
+      "label": [
+        "<B>Armenian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_cuisine",
+        "http://dbpedia.org/resource/Category:Caucasian_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2188.0205"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Armenia</B>",
+        "Air defense of <B>Armenia</B>",
+        "Air force of <B>Armenia</B>",
+        "<B>Armenia</B> Air Force",
+        "<B>Armenian</B> Air Defense",
+        "<B>Armenian</B> Air and Air Defence Force",
+        "<B>Armenian</B> air defence",
+        "History of the <B>Armenian</B> Air Force",
+        "The <B>Armenian</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Air Force (<B>Armenian</B>: Հայաստանի Ռազմաօդային Ուժեր) is the air arm of the Armed Forces"
+      ],
+      "label": [
+        "<B>Armenian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "2183.678"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_volunteer_units"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> volunteer army",
+        "<B>Armenian</B> volunteer battalion",
+        "<B>Armenian</B> volunteer detachments",
+        "<B>Armenian</B> volunteer unit",
+        "<B>Armenian</B> volunteers",
+        "<B>Armenian</B> volunter units",
+        "Russian <B>Armenian</B> Volunteer Corps"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        ", though there were also a number of <B>Armenians</B> from the Ottoman Empire. The Russian-<B>Armenian</B> volunteer"
+      ],
+      "label": [
+        "<B>Armenian</B> volunteer units"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_volunteer_units"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Armenia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Armenia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Russia_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Volunteer_military_units_and_formations"
+      ]
+    },
+    {
+      "score": [
+        "2183.2327"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Genocide_Remembrance_Day"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Christian Martyr day",
+        "<B>Armenian</B> Genocide Day",
+        "<B>Armenian</B> Genocide Memorial Day",
+        "<B>Armenian</B> Martyr day",
+        "<B>Armenian</B> Memorial Day",
+        "<B>Armenian</B> Remembrance Day",
+        "<B>Armenian</B> genocide Day",
+        "<B>Armenian</B> genocide Remembrance Day",
+        "Genocide Memorial Day",
+        "Եղեռնի զոհերի հիշատակի օր"
+      ],
+      "typeName": [
+        "Holiday",
+        "TimeInterval"
+      ],
+      "comment": [
+        " hishataki or) or <B>Armenian</B> Genocide Memorial Day is a public holiday in <B>Armenia</B> and the Republic of"
+      ],
+      "label": [
+        "<B>Armenian</B> Genocide Remembrance Day"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Genocide_Remembrance_Day"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Holiday",
+        "http://dbpedia.org/ontology/TimeInterval"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:April_observances",
+        "http://dbpedia.org/resource/Category:Armenian_genocide_commemoration",
+        "http://dbpedia.org/resource/Category:Genocide_remembrance_days",
+        "http://dbpedia.org/resource/Category:Public_holidays_in_Armenia",
+        "http://dbpedia.org/resource/Category:Public_holidays_in_the_Republic_of_Artsakh"
+      ]
+    },
+    {
+      "score": [
+        "2174.0508"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romanization_of_Armenian"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> transliteration",
+        "BGN-PCGN romanization of <B>Armenian</B>",
+        "BGN/PCGN romanization of <B>Armenian</B>",
+        "BGN–PCGN romanization of <B>Armenian</B>",
+        "Hübschmann-Meillet",
+        "ISO 9985",
+        "Orthographic Latinisation of <B>Armenian</B>",
+        "Orthographic Latinization of <B>Armenian</B>",
+        "Romanisation of <B>Armenian</B>",
+        "Transliteration of <B>Armenian</B>"
+      ],
+      "comment": [
+        "There are various systems of romanization of the <B>Armenian</B> alphabet."
+      ],
+      "label": [
+        "Romanization of <B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romanization_of_Armenian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:ALA-LC_romanization",
+        "http://dbpedia.org/resource/Category:Armenian_alphabet",
+        "http://dbpedia.org/resource/Category:ISO_standards",
+        "http://dbpedia.org/resource/Category:Romanization_of_Armenian"
+      ]
+    },
+    {
+      "score": [
+        "2144.2449"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Armenian_Premier_League"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Armenian</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2019–20 <B>Armenian</B> Premier League season is the 28th since its establishment."
+      ],
+      "label": [
+        "2019–20 <B>Armenian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Armenian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_Armenian_football",
+        "http://dbpedia.org/resource/Category:2019–20_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Armenian_Premier_League_seasons",
+        "http://dbpedia.org/resource/Category:Association_football_events_postponed_due_to_the_COVID-19_pandemic"
+      ]
+    },
+    {
+      "score": [
+        "2127.7756"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Argentine"
+      ],
+      "redirectlabel": [
+        "Argentine-<B>Armenian</B>",
+        "Argentine <B>Armenian</B>",
+        "Argentinian-<B>Armenian</B>",
+        "<B>Armenian</B> Argentina",
+        "<B>Armenians</B> in Argentina",
+        "<B>Armenians</B> in argentina"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Armenian</B> Argentines are ethnic <B>Armenians</B> who live in Argentina. Between 70,000 and 135,000 people"
+      ],
+      "label": [
+        "<B>Armenian</B> Argentine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Argentine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:Armenian_Argentine",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Argentina"
+      ]
+    },
+    {
+      "score": [
+        "2098.1582"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian–Tatar_massacres_of_1905–1907"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B>-Azerbaijani massacres 1905-1907",
+        "<B>Armenian</B>-Azeri massacres 1905-1907",
+        "<B>Armenian</B>-Tartar Massacres",
+        "<B>Armenian</B>-Tartar massacres 1905-1907",
+        "<B>Armenian</B>-Tatar massacres",
+        "<B>Armenian</B>-Tatar massacres 1905-1907",
+        "<B>Armenian</B>-Tatar massacres 1905–1907",
+        "<B>Armenian</B>-Tatar massacres of 1905-07",
+        "<B>Armenian</B>-Tatar massacres of 1905-1907",
+        "<B>Armenian</B>–Azerbaijani massacres 1905-1907",
+        "<B>Armenian</B>–Tatar massacres 1905-1907",
+        "<B>Armenian</B>–Tatar massacres of 1905–07"
+      ],
+      "label": [
+        "<B>Armenian</B>–Tatar massacres of 1905–1907"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian–Tatar_massacres_of_1905–1907"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1905_in_Armenia",
+        "http://dbpedia.org/resource/Category:1905_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:1905_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1905_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:1906_in_Armenia",
+        "http://dbpedia.org/resource/Category:1906_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:1906_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1906_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:1907_in_Armenia",
+        "http://dbpedia.org/resource/Category:1907_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:1907_in_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:1907_in_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:Armenia–Azerbaijan_relations",
+        "http://dbpedia.org/resource/Category:History_of_the_Caucasus_under_the_Russian_Empire",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1905",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1906",
+        "http://dbpedia.org/resource/Category:Mass_murder_in_1907",
+        "http://dbpedia.org/resource/Category:Massacres_in_1905",
+        "http://dbpedia.org/resource/Category:Massacres_in_1906",
+        "http://dbpedia.org/resource/Category:Massacres_in_1907",
+        "http://dbpedia.org/resource/Category:Massacres_in_Armenia",
+        "http://dbpedia.org/resource/Category:Massacres_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Massacres_of_Armenians"
+      ]
+    },
+    {
+      "score": [
+        "2097.7542"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_orthography_reform"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> orthography reform of 1922-1924",
+        "<B>Armenian</B> orthography reform of 1922-24",
+        "<B>Armenian</B> orthography reform of 1922–1924",
+        "<B>Armenian</B> orthography reform of 1922–24",
+        "Reformed <B>Armenian</B>",
+        "Reformed <B>Armenian</B> Orthography",
+        "Reformed <B>Armenian</B> orthography",
+        "Spelling reform of the <B>Armenian</B> language 1922-1924",
+        "Spelling reform of the <B>Armenian</B> language 1922–1924"
+      ],
+      "comment": [
+        "The <B>Armenian</B> orthography reform occurred between 1922 and 1924 in Soviet <B>Armenia</B> and was partially"
+      ],
+      "label": [
+        "<B>Armenian</B> orthography reform"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_orthography_reform"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920s_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:1922_in_Armenia",
+        "http://dbpedia.org/resource/Category:1923_in_Armenia",
+        "http://dbpedia.org/resource/Category:1924_in_Armenia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_Soviet_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Armenian_alphabet",
+        "http://dbpedia.org/resource/Category:Orthography_reform",
+        "http://dbpedia.org/resource/Category:Reform_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Spelling_reform"
+      ]
+    },
+    {
+      "score": [
+        "2087.3606"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Classical_Armenian"
+      ],
+      "redirectlabel": [
+        "Classical-Middle <B>Armenian</B> language",
+        "Classical <B>Armenian</B> language",
+        "Grabar",
+        "ISO 639:xcl",
+        "Krapar",
+        "Old <B>Armenian</B>",
+        "Old <B>Armenian</B> language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Classical <B>Armenian</B> (<B>Armenian</B>: գրաբար, in Eastern <B>Armenian</B> pronunciation: Grabar, Western <B>Armenian</B>"
+      ],
+      "label": [
+        "Classical <B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Classical_Armenian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_Church",
+        "http://dbpedia.org/resource/Category:Armenian_languages",
+        "http://dbpedia.org/resource/Category:Christian_liturgical_languages",
+        "http://dbpedia.org/resource/Category:Classical_languages",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_5th_century",
+        "http://dbpedia.org/resource/Category:Medieval_languages"
+      ]
+    },
+    {
+      "score": [
+        "2065.6396"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Monastery_of_Saint_Saviour_(Jerusalem)"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Church of Saint Savior (Jerusalem)",
+        "<B>Armenian</B> Church of Saint Saviour (Jerusalem)",
+        "<B>Armenian</B> Church of St. Savior, Jerusalem",
+        "<B>Armenian</B> Convent of Saint Savior (Jerusalem)",
+        "<B>Armenian</B> Convent of Saint Saviour (Jerusalem)",
+        "<B>Armenian</B> Convent of St. Savior (Jerusalem)",
+        "<B>Armenian</B> Monastery of St. Savior (Jerusalem)",
+        "<B>Armenian</B> Monastery of St. Saviour (Jerusalem)",
+        "<B>Armenian</B> church, Mount Zion",
+        "<B>Armenian</B> convent, Mount Zion",
+        "<B>Armenian</B> monastery, Mount Zion",
+        "Caiaphas' house, Mount Zion",
+        "Dair Habs al-Masih",
+        "Dayr Ḥabs al-Masīḥ",
+        "House of Caiaphas, Mount Zion"
+      ],
+      "label": [
+        "<B>Armenian</B> Monastery of Saint Saviour (Jerusalem)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Monastery_of_Saint_Saviour_(Jerusalem)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_churches_in_Jerusalem"
+      ]
+    },
+    {
+      "score": [
+        "2050.3433"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_genocide_reparations"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Genocide reparation",
+        "<B>Armenian</B> Genocide reparation issue",
+        "<B>Armenian</B> Genocide reparations",
+        "<B>Armenian</B> Genocide reparations issue",
+        "Demands for <B>Armenian</B> Genocide reparations",
+        "Reparation for <B>Armenian</B> Genocide",
+        "Reparation for the <B>Armenian</B> Genocide",
+        "Reparations for <B>Armenian</B> Genocide",
+        "Reparations for the <B>Armenian</B> Genocide"
+      ],
+      "label": [
+        "<B>Armenian</B> genocide reparations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_genocide_reparations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:21st_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:Aftermath_of_the_Armenian_genocide",
+        "http://dbpedia.org/resource/Category:History_of_the_Republic_of_Turkey",
+        "http://dbpedia.org/resource/Category:Reparations"
+      ]
+    },
+    {
+      "score": [
+        "1990.0055"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Deportation_of_Armenian_intellectuals_on_24_April_1915"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> notables deported from Constantinople in 1915",
+        "<B>Armenian</B> notables deported from the Ottoman capital in 1915",
+        "Deportation of <B>Armenian</B> intellectuals",
+        "Deportation of <B>Armenian</B> intellectuals on April 14 1915",
+        "Deportation of <B>Armenian</B> intellectuals on April 24, 1915",
+        "Deportation of <B>Armenian</B> intellectuals on April 24 1915",
+        "Deportation of <B>Armenian</B> leaders",
+        "Deportation of <B>Armenian</B> notables in 1915",
+        "Deportation of <B>Armenian</B> notables on 24 April 1915",
+        "Deportation of <B>Armenian</B> notables on April 24",
+        "Notables <B>Armenians</B> deported during the <B>Armenian</B> Genocide",
+        "Notables <B>Armenians</B> deported during the <B>Armenian</B> genocide",
+        "Red Sunday",
+        "Կարմիր կիրակի"
+      ],
+      "comment": [
+        "The deportation of <B>Armenian</B> intellectuals, sometimes known as Red Sunday (Western <B>Armenian</B>: Կարմիր"
+      ],
+      "label": [
+        "Deportation of <B>Armenian</B> intellectuals on 24 April 1915"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Deportation_of_Armenian_intellectuals_on_24_April_1915"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s-related_lists",
+        "http://dbpedia.org/resource/Category:1915_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Anti-intellectualism",
+        "http://dbpedia.org/resource/Category:April_1915_events",
+        "http://dbpedia.org/resource/Category:Armenia_history-related_lists",
+        "http://dbpedia.org/resource/Category:Armenian_genocide",
+        "http://dbpedia.org/resource/Category:Armenians_from_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Deportation",
+        "http://dbpedia.org/resource/Category:Lists_of_20th-century_people",
+        "http://dbpedia.org/resource/Category:Lists_of_Armenian_people",
+        "http://dbpedia.org/resource/Category:Ottoman_Empire-related_lists",
+        "http://dbpedia.org/resource/Category:People_who_died_in_the_Armenian_genocide",
+        "http://dbpedia.org/resource/Category:Persecution_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Persecution_of_Christians_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Persecution_of_intellectuals",
+        "http://dbpedia.org/resource/Category:Political_and_cultural_purges"
+      ]
+    },
+    {
+      "score": [
+        "1982.0981"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018_Armenian_revolution"
+      ],
+      "redirectlabel": [
+        "2018 <B>Armenian</B> Velvet Revolution",
+        "2018 <B>Armenian</B> protests",
+        "<B>Armenian</B> Velvet Revolution",
+        "<B>Armenian</B> revolution",
+        "MerzhirSerzhin",
+        "My Step",
+        "RejectSerzh",
+        "Velvet Revolution (<B>Armenia</B>)"
+      ],
+      "comment": [
+        "The 2018 <B>Armenian</B> Revolution (most commonly known in <B>Armenia</B> as #MerzhirSerzhin (<B>Armenian</B>"
+      ],
+      "label": [
+        "2018 <B>Armenian</B> revolution"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018_Armenian_revolution"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_in_Armenia",
+        "http://dbpedia.org/resource/Category:2018_protests",
+        "http://dbpedia.org/resource/Category:21st-century_revolutions",
+        "http://dbpedia.org/resource/Category:April_2018_events_in_Asia",
+        "http://dbpedia.org/resource/Category:April_2018_events_in_Europe",
+        "http://dbpedia.org/resource/Category:Armenian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Colour_revolutions",
+        "http://dbpedia.org/resource/Category:Nikol_Pashinyan",
+        "http://dbpedia.org/resource/Category:Protests_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1980.341"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/July_2020_Armenian–Azerbaijani_clashes"
+      ],
+      "redirectlabel": [
+        "2020 <B>Armenian</B>-Azerbaijani clashes",
+        "2020 <B>Armenian</B>-Azerbaijani skirmishes",
+        "2020 <B>Armenian</B>–Azerbaijani clashes",
+        "2020 <B>Armenian</B>–Azerbaijani skirmishes",
+        "Garush Hambardzumyan",
+        "International reactions to the 2020 <B>Armenian</B>-Azerbaijani clashes",
+        "International reactions to the 2020 <B>Armenian</B>–Azerbaijani clashes",
+        "International reactions to the July 2020 <B>Armenian</B>-Azerbaijani clashes",
+        "International reactions to the July 2020 <B>Armenian</B>–Azerbaijani clashes",
+        "July 2020 <B>Armenian</B>-Azerbaijani clashes",
+        "Reactions to the 2020 <B>Armenian</B>-Azerbaijani clashes",
+        "Reactions to the 2020 <B>Armenian</B>–Azerbaijani clashes"
+      ],
+      "label": [
+        "July 2020 <B>Armenian</B>–Azerbaijani clashes"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/July_2020_Armenian–Azerbaijani_clashes"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_Armenian–Azerbaijani_skirmishes",
+        "http://dbpedia.org/resource/Category:2020_in_Armenia",
+        "http://dbpedia.org/resource/Category:2020_in_Azerbaijan",
+        "http://dbpedia.org/resource/Category:2020_in_international_relations",
+        "http://dbpedia.org/resource/Category:2020_in_the_Republic_of_Artsakh",
+        "http://dbpedia.org/resource/Category:Armenia–Azerbaijan_border",
+        "http://dbpedia.org/resource/Category:Battles_in_2020",
+        "http://dbpedia.org/resource/Category:Battles_involving_Armenia",
+        "http://dbpedia.org/resource/Category:Battles_involving_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Ilham_Aliyev",
+        "http://dbpedia.org/resource/Category:July_2020_events_in_Armenia",
+        "http://dbpedia.org/resource/Category:July_2020_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Nagorno-Karabakh_conflict",
+        "http://dbpedia.org/resource/Category:Nikol_Pashinyan"
+      ]
+    },
+    {
+      "score": [
+        "1960.5417"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_literature"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Literature",
+        "<B>Armenian</B> Romanticism",
+        "<B>Armenian</B> folk tales",
+        "Literature of <B>Armenia</B>"
+      ],
+      "comment": [
+        "<B>Armenian</B> literature begins around AD 400 with the invention of the <B>Armenian</B> alphabet by Mesrop Mashtots."
+      ],
+      "label": [
+        "<B>Armenian</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_literature"
+      ]
+    },
+    {
+      "score": [
+        "1940.7964"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_architecture"
+      ],
+      "redirectlabel": [
+        "Architecture of <B>Armenia</B>",
+        "Architecture of Nagorno-Karabakh",
+        "Architecture of <B>armenia</B>",
+        "<B>Armenian</B> Architecture",
+        "History of <B>Armenian</B> architecture",
+        "Hrazashen"
+      ],
+      "comment": [
+        "<B>Armenian</B> architecture comprises architectural works with an aesthetic or historical connection to"
+      ],
+      "label": [
+        "<B>Armenian</B> architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Architecture_of_Armenia",
+        "http://dbpedia.org/resource/Category:Christian_architecture",
+        "http://dbpedia.org/resource/Category:Church_architecture"
+      ]
+    },
+    {
+      "score": [
+        "1935.233"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_dialects"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> languages",
+        "Classification des dialectes <B>armeniens</B>",
+        "Classification des dialectes arméniens",
+        "Dialects of <B>Armenian</B> language",
+        "Historical dialects of <B>Armenian</B>",
+        "Historical dialects of <B>Armenian</B> language"
+      ],
+      "comment": [
+        " <B>Armenian</B> Genocide and other significant demographic changes that affected the <B>Armenians</B>, several"
+      ],
+      "label": [
+        "<B>Armenian</B> dialects"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_dialects"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_dialects",
+        "http://dbpedia.org/resource/Category:Dialectology"
+      ]
+    },
+    {
+      "score": [
+        "1926.9741"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_dram"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Dram",
+        "ISO 4217:AMD",
+        "Louma",
+        "Luma (monetary unit)",
+        "Դրամ",
+        "Հայկական Դրամ"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The dram (<B>Armenian</B>: դրամ; sign: ֏; code: AMD) is the monetary unit of <B>Armenia</B> and the neighboring"
+      ],
+      "label": [
+        "<B>Armenian</B> dram"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_dram"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1993",
+        "http://dbpedia.org/resource/Category:Currencies_of_Armenia",
+        "http://dbpedia.org/resource/Category:Economy_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1924.6472"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Armenia_(antiquity)"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B> Maior",
+        "<B>Armenia</B> Major",
+        "<B>Armenian</B> Empire",
+        "<B>Armenian</B> Kingdom",
+        "<B>Armenian</B> empire",
+        "Arsacid <B>Armenia</B>",
+        "Arsacid Kingdom of <B>Armenia</B>",
+        "Artaxiad <B>Armenia</B>",
+        "Artaxiad Kingdom of <B>Armenia</B>",
+        "Golden Age of <B>Armenia</B>",
+        "Golden age of <B>armenia</B>",
+        "Great <B>Armenia</B>",
+        "Greater <B>Armenia</B> (antiquity)",
+        "Kingdom of <B>Armenia</B> (Antiquity)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of <B>Armenia</B>, also the Kingdom of Greater <B>Armenia</B>, or simply Greater <B>Armenia</B> (<B>Armenian</B>"
+      ],
+      "label": [
+        "Kingdom of <B>Armenia</B> (antiquity)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Armenia_(antiquity)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_history_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Ancient_history_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Ancient_history_of_Turkey",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Armenia_(antiquity)",
+        "http://dbpedia.org/resource/Category:Roman_Anatolia",
+        "http://dbpedia.org/resource/Category:Seleucid_Empire_successor_states"
+      ]
+    },
+    {
+      "score": [
+        "1921.7916"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Patriarchate_of_Jerusalem"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Orthodox Church of Jerusalem",
+        "<B>Armenian</B> Orthodox Patriarchate of Jerusalem",
+        "<B>Armenian</B> Partriarchate of Jerusalem",
+        "<B>Armenian</B> Patriarchate in Jerusalem",
+        "<B>Armenian</B> Patriarchate of St. James",
+        "<B>Armenian</B> patriarch of Jerusalem",
+        "<B>Armenian</B> patriarchate of jerusalem",
+        "Oriental Orthodox Patriarchate of Jerusalem"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Patriarchate of Jerusalem also known as the <B>Armenian</B> Patriarchate of Saint James"
+      ],
+      "label": [
+        "<B>Armenian</B> Patriarchate of Jerusalem"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Patriarchate_of_Jerusalem"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_Church",
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_in_Jordan",
+        "http://dbpedia.org/resource/Category:Armenians_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:Christianity_in_Jerusalem",
+        "http://dbpedia.org/resource/Category:Oriental_Orthodox_patriarchs",
+        "http://dbpedia.org/resource/Category:Oriental_Orthodoxy_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1908.512"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_lizard"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Lizard",
+        "<B>Armenian</B> Rock Lizard",
+        "<B>Armenian</B> rock lizard",
+        "D. <B>armeniaca</B>",
+        "D <B>armeniaca</B>",
+        "Darevskia <B>armeniaca</B>"
+      ],
+      "comment": [
+        "Darevskia <B>armeniaca</B>, commonly known as the <B>Armenian</B> lizard or the <B>Armenian</B> rock lizard, is a"
+      ],
+      "label": [
+        "<B>Armenian</B> lizard"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_lizard"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Darevskia",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Armenia",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1909",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Armenia",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Lajos_Méhelÿ"
+      ]
+    },
+    {
+      "score": [
+        "1906.9794"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian"
+      ],
+      "redirectlabel": [
+        "<B>ARmenian</B>",
+        "<B>Armenian</B> (disambiguation)",
+        "<B>Armenian</B> (surname)",
+        "Հայ",
+        "Հայաստանցի"
+      ],
+      "label": [
+        "<B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1900.6204"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_tortoise"
+      ],
+      "redirectlabel": [
+        "Araxes tortoise",
+        "<B>Armenian</B> Tortoise",
+        "<B>Armenian</B> spur-thighed tortoise",
+        "Testudo Graeca <B>Armeniaca</B>",
+        "Testudo graeca <B>armeniaca</B>",
+        "The Araxes tortoise",
+        "The <B>Armenian</B> tortoise"
+      ],
+      "comment": [
+        "The <B>Armenian</B> tortoise (Testudo graeca <B>armeniaca</B>) or Araxes tortoise is a subspecies of the common tortoise."
+      ],
+      "label": [
+        "<B>Armenian</B> tortoise"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_tortoise"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Testudo_(genus)"
+      ]
+    },
+    {
+      "score": [
+        "1887.2522"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_art"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> metalwork",
+        "<B>Armenian</B> mosaics",
+        "<B>Armenian</B> sculpture",
+        "Art of <B>Armenia</B>",
+        "Art of <B>armenia</B>",
+        "Visual art of <B>Armenia</B>"
+      ],
+      "comment": [
+        "<B>Armenian</B> art is the unique form of art developed over the last five millennia in which the <B>Armenian</B>"
+      ],
+      "label": [
+        "<B>Armenian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_art",
+        "http://dbpedia.org/resource/Category:Art_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1875.1152"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_College_(Kolkata)"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> College & Philanthropic Academy",
+        "<B>Armenian</B> College (Calcutta)",
+        "<B>Armenian</B> College Of Calcutta",
+        "<B>Armenian</B> College and Philanthropic Academy",
+        "<B>Armenian</B> College of Calcutta",
+        "Calcutta <B>Armenian</B> Philanthropic Academy"
+      ],
+      "typeName": [
+        "Building",
+        "Museum",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "<B>Armenian</B> College and Philanthropic Academy (ACPA) is an <B>Armenian</B> school in Kolkata (formerly"
+      ],
+      "label": [
+        "<B>Armenian</B> College (Kolkata)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_College_(Kolkata)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Museum",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1821_establishments_in_India",
+        "http://dbpedia.org/resource/Category:19th_century_in_Kolkata",
+        "http://dbpedia.org/resource/Category:Armenian_schools",
+        "http://dbpedia.org/resource/Category:Boarding_schools_in_West_Bengal",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1821",
+        "http://dbpedia.org/resource/Category:Schools_in_Colonial_India",
+        "http://dbpedia.org/resource/Category:Schools_in_Kolkata"
+      ]
+    },
+    {
+      "score": [
+        "1874.7843"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Turkish–Armenian_War"
+      ],
+      "redirectlabel": [
+        "Eastern Front (Turkish War of Independence)",
+        "Kemalist Turkish invasion of <B>Armenia</B>",
+        "Turkish-<B>Armenian</B> War",
+        "Turkish-<B>Armenian</B> war",
+        "Turkish Invasion of <B>Armenia</B> (1920)",
+        "Turkish invasion of <B>Armenia</B>",
+        "Turkish invasion of <B>Armenia</B> (1920)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Turkish–<B>Armenian</B> war (<B>Armenian</B>: Թուրք-հայկական պատերազմ) known in Turkey as the Eastern"
+      ],
+      "label": [
+        "Turkish–<B>Armenian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Turkish–Armenian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_in_Armenia",
+        "http://dbpedia.org/resource/Category:1920_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1920",
+        "http://dbpedia.org/resource/Category:Invasions_of_Armenia",
+        "http://dbpedia.org/resource/Category:Turkish–Armenian_War",
+        "http://dbpedia.org/resource/Category:Wars_involving_Armenia",
+        "http://dbpedia.org/resource/Category:Wars_involving_Turkey"
+      ]
+    },
+    {
+      "score": [
+        "1868.2059"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Secret_Army_for_the_Liberation_of_Armenia"
+      ],
+      "redirectlabel": [
+        "3 October Organization",
+        "ASALA",
+        "<B>Armenian</B> Secret Liberation Army",
+        "<B>Armenian</B> secret army for the liberation of <B>armenia</B>",
+        "Hagop Tarakchian",
+        "New <B>Armenian</B> Resistance Organization",
+        "Ninth of June Organization",
+        "October 3 Commando",
+        "October 3rd Commando",
+        "The <B>Armenian</B> Secret Army for the Liberation of <B>Armenia</B>",
+        "The Orly Group"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Secret Army for the Liberation of <B>Armenia</B> (ASALA) (<B>Armenian</B>: Հայաստանի Ազատագրութեան"
+      ],
+      "label": [
+        "<B>Armenian</B> Secret Army for the Liberation of <B>Armenia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Secret_Army_for_the_Liberation_of_Armenia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1975_establishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_Secret_Army_for_the_Liberation_of_Armenia",
+        "http://dbpedia.org/resource/Category:Armenian_militant_groups",
+        "http://dbpedia.org/resource/Category:Defunct_Armenian_paramilitary_organizations",
+        "http://dbpedia.org/resource/Category:Far-left_politics",
+        "http://dbpedia.org/resource/Category:Guerrilla_organizations",
+        "http://dbpedia.org/resource/Category:Organizations_based_in_Europe_designated_as_terrorist",
+        "http://dbpedia.org/resource/Category:Organizations_designated_as_terrorist_by_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1851.0569"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Patriarchate_of_Constantinople"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Orthodox Archbishopric of Constantinople",
+        "<B>Armenian</B> Orthodox Archdiocese of Constantinople",
+        "<B>Armenian</B> Orthodox Patriarchate of Constantinople",
+        "<B>Armenian</B> Patriarchate of Istanbul",
+        "Oriental Orthodox Patriarchate of Constantinople"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Patriarchate of Constantinople (Turkish: İstanbul Ermeni Patrikhanesi, Western"
+      ],
+      "label": [
+        "<B>Armenian</B> Patriarchate of Constantinople"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Patriarchate_of_Constantinople"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_Church",
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_Church_in_Turkey",
+        "http://dbpedia.org/resource/Category:Armenian_Patriarchs_of_Constantinople"
+      ]
+    },
+    {
+      "score": [
+        "1839.9324"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pan-Armenian_National_Movement"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Allnational Movement",
+        "HHSh"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Pan-<B>Armenian</B> National Movement or <B>Armenian</B> All-national Movement (<B>Armenian</B>: Հայոց Համազգային"
+      ],
+      "label": [
+        "Pan-<B>Armenian</B> National Movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pan-Armenian_National_Movement"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_establishments_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:2013_disestablishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Alliance_of_Liberals_and_Democrats_for_Europe_Party_member_parties",
+        "http://dbpedia.org/resource/Category:Anti-communist_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Armenia",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Armenia",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Armenia",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2013",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1988",
+        "http://dbpedia.org/resource/Category:Pro-independence_parties_in_the_Soviet_Union"
+      ]
+    },
+    {
+      "score": [
+        "1814.2461"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_calendar"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> traditional chronology",
+        "<B>Armenian</B> year",
+        "Calendar of Vahagn",
+        "Old <B>Armenian</B> calendar",
+        "Թ.Հ.",
+        "ԹՎ"
+      ],
+      "comment": [
+        "The <B>Armenian</B> calendar is the calendar traditionally used in <B>Armenia</B>. The older <B>Armenian</B> calendar"
+      ],
+      "label": [
+        "<B>Armenian</B> calendar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_calendar"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_culture",
+        "http://dbpedia.org/resource/Category:Calendar_eras",
+        "http://dbpedia.org/resource/Category:Christianity_in_Armenia",
+        "http://dbpedia.org/resource/Category:Specific_calendars"
+      ]
+    },
+    {
+      "score": [
+        "1813.9441"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Church,_Brăila"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Church, Braila",
+        "Saint Mary <B>Armenian</B> Church, Braila",
+        "Saint Mary <B>Armenian</B> Church, Brăila",
+        "Saint Mary Church, Braila",
+        "Saint Mary Church, Brăila",
+        "St. Mary <B>Armenian</B> Church, Braila",
+        "St. Mary <B>Armenian</B> Church, Brăila",
+        "St. Mary Church, Braila",
+        "St. Mary Church, Brăila"
+      ],
+      "label": [
+        "<B>Armenian</B> Church, Brăila"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Church,_Brăila"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Apostolic_churches_in_Romania",
+        "http://dbpedia.org/resource/Category:Churches_completed_in_1872",
+        "http://dbpedia.org/resource/Category:Religious_buildings_and_structures_in_Brăila"
+      ]
+    },
+    {
+      "score": [
+        "1787.3477"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian–Kurdish_relations"
+      ],
+      "redirectlabel": [
+        "<B>Armenia</B>-Iraqi Kurdistan relations",
+        "<B>Armenia</B>-Kurdistan relations",
+        "<B>Armenian</B>-Kurdish relations",
+        "<B>Armenia</B>–Iraqi Kurdistan relations",
+        "<B>Armenia</B>–Kurdistan relations",
+        "Kurdish-<B>Armenian</B> relations"
+      ],
+      "comment": [
+        "<B>Armenian</B>–Kurdish relations covers the historical relations between the Kurds and the <B>Armenians</B>."
+      ],
+      "label": [
+        "<B>Armenian</B>–Kurdish relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian–Kurdish_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Armenia",
+        "http://dbpedia.org/resource/Category:Kurdish_relations",
+        "http://dbpedia.org/resource/Category:Yazidis_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1782.7484"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Şişli_Armenian_Cemetery"
+      ],
+      "redirectlabel": [
+        "Sisli <B>Armenian</B> Cemetery"
+      ],
+      "comment": [
+        "The Şişli <B>Armenian</B> Cemetery is an <B>Armenian</B> cemetery in the Şişli district of Istanbul, Turkey which"
+      ],
+      "label": [
+        "Şişli <B>Armenian</B> Cemetery"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Şişli_Armenian_Cemetery"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_cemeteries",
+        "http://dbpedia.org/resource/Category:Armenians_from_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Armenians_in_Istanbul",
+        "http://dbpedia.org/resource/Category:Cemeteries_in_Istanbul",
+        "http://dbpedia.org/resource/Category:Eastern_Orthodox_cemeteries",
+        "http://dbpedia.org/resource/Category:Şişli"
+      ]
+    },
+    {
+      "score": [
+        "1777.8096"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Armenian_monarchs"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> kings",
+        "King of <B>Armenia</B>",
+        "King of <B>armenia</B>",
+        "Kings of <B>Armenia</B>",
+        "List of <B>Armenian</B> Kings",
+        "List of <B>Armenian</B> kings",
+        "List of <B>armenian</B> kings",
+        "List of kings of <B>Armenia</B>"
+      ],
+      "label": [
+        "List of <B>Armenian</B> monarchs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Armenian_monarchs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_kings",
+        "http://dbpedia.org/resource/Category:Lists_of_Armenian_people",
+        "http://dbpedia.org/resource/Category:Lists_of_monarchs"
+      ]
+    },
+    {
+      "score": [
+        "1755.7048"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Armenia"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> classical music",
+        "<B>Armenian</B> music",
+        "<B>Armenian</B> pop music",
+        "<B>Armenian</B> religious music",
+        "Classical music of <B>Armenia</B>",
+        "Folk music of <B>Armenia</B>",
+        "Popular music in <B>Armenia</B>",
+        "Traditional music of <B>Armenia</B>"
+      ],
+      "comment": [
+        "The music of <B>Armenia</B> has its origins in the <B>Armenian</B> Highlands, where people traditionally sang"
+      ],
+      "label": [
+        "Music of <B>Armenia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Armenia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_music"
+      ]
+    },
+    {
+      "score": [
+        "1738.4464"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> citizenship",
+        "Nationality law of <B>Armenia</B>"
+      ],
+      "comment": [
+        "<B>Armenian</B> nationality law is based primarily on the principle of jus sanguinis. It was adopted on"
+      ],
+      "label": [
+        "<B>Armenian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_of_Armenia",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1731.4116"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_patriarch"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> patriarch (disambiguation)",
+        "<B>Armenian</B> patriarchs",
+        "Legendary <B>Armenian</B> patriarchs",
+        "List of <B>Armenian</B> Patriarchs",
+        "List of <B>Armenian</B> patriarchs"
+      ],
+      "label": [
+        "<B>Armenian</B> patriarch"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_patriarch"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Catholicoi_of_Armenia",
+        "http://dbpedia.org/resource/Category:Lists_of_Armenian_people",
+        "http://dbpedia.org/resource/Category:Lists_of_patriarchs"
+      ]
+    },
+    {
+      "score": [
+        "1730.6799"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_National_Congress"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> national congress",
+        "ՀԱԿ"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Armenian</B> National Congress (<B>Armenian</B>: Հայ Ազգային Կոնգրես, Hay Azgayin Kongres) is a political"
+      ],
+      "label": [
+        "<B>Armenian</B> National Congress"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_National_Congress"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_establishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Alliance_of_Liberals_and_Democrats_for_Europe_Party_member_parties",
+        "http://dbpedia.org/resource/Category:Armenian_democracy_movements",
+        "http://dbpedia.org/resource/Category:Classical_liberal_parties",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Armenia",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2008",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Armenia",
+        "http://dbpedia.org/resource/Category:Pro-European_political_parties_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1720.3982"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Armenian_Americans"
+      ],
+      "redirectlabel": [
+        "List of American <B>Armenians</B>",
+        "List of Americans of <B>Armenian</B> descent",
+        "List of <B>Armenian</B>-Americans",
+        "List of <B>Armenian</B> American actors",
+        "List of <B>Armenian</B> American musicians",
+        "List of <B>Armenian</B> American sportspeople"
+      ],
+      "comment": [
+        " <B>Armenia</B> to the U.S. since the late 19th century, with the biggest influx coming after the <B>Armenian</B>"
+      ],
+      "label": [
+        "List of <B>Armenian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Armenian_Americans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:Lists_of_American_people_by_ethnic_or_national_origin",
+        "http://dbpedia.org/resource/Category:Lists_of_Armenian_people",
+        "http://dbpedia.org/resource/Category:Lists_of_people_by_ethnicity"
+      ]
+    },
+    {
+      "score": [
+        "1708.9667"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Armenian_patriarchs_of_Constantinople"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Orthodox Archbishop of Constantinople",
+        "<B>Armenian</B> Orthodox Archbishops of Constantinople",
+        "<B>Armenian</B> Orthodox Patriarch of Constantinople",
+        "<B>Armenian</B> Patriarchs of Constantinople",
+        "Catholicos Nerses II",
+        "List of <B>Armenian</B> Patriarchs of Constantinople",
+        "List of <B>Armenian</B> Patriarchs of Istanbul",
+        "List of <B>Armenian</B> Patriarchs of İstanbul",
+        "The <B>Armenian</B> Patriarchate Of Constantinople"
+      ],
+      "label": [
+        "List of <B>Armenian</B> patriarchs of Constantinople"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Armenian_patriarchs_of_Constantinople"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_Patriarchs_of_Constantinople",
+        "http://dbpedia.org/resource/Category:Lists_of_Armenian_people",
+        "http://dbpedia.org/resource/Category:Lists_of_Oriental_Orthodox_Christians",
+        "http://dbpedia.org/resource/Category:Lists_of_patriarchs",
+        "http://dbpedia.org/resource/Category:Religion-related_lists",
+        "http://dbpedia.org/resource/Category:Turkey_religion-related_lists"
+      ]
+    },
+    {
+      "score": [
+        "1695.7153"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Catholic_Archeparchy_of_Istanbul"
+      ],
+      "redirectlabel": [
+        "Archdiocese of Istanbul",
+        "Archeparchy of Istanbul",
+        "Archeparchy of Istanbul (<B>Armenian</B>)",
+        "<B>Armenian</B> Catholic Archdiocese of Constantinople",
+        "<B>Armenian</B> Catholic Archdiocese of Constantinopole",
+        "<B>Armenian</B> Catholic Archdiocese of Istanbul",
+        "<B>Armenian</B> Catholic Archeparchy of Constantinople",
+        "Constantinople of the <B>Armenians</B>"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Diocese",
+        "Location",
+        "Region",
+        "ClericalAdministrativeRegion"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Catholic Archeparchy of Istanbul, also known as <B>Armenian</B> Catholic Archdiocese of"
+      ],
+      "label": [
+        "<B>Armenian</B> Catholic Archeparchy of Istanbul"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Catholic_Archeparchy_of_Istanbul"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Diocese",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region",
+        "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1860_establishments",
+        "http://dbpedia.org/resource/Category:Armenian_Catholic_Church_in_Turkey",
+        "http://dbpedia.org/resource/Category:Armenian_Catholic_eparchies",
+        "http://dbpedia.org/resource/Category:Armenian_culture",
+        "http://dbpedia.org/resource/Category:Christianity_in_Istanbul",
+        "http://dbpedia.org/resource/Category:Eastern_Catholic_dioceses_in_Turkey"
+      ]
+    },
+    {
+      "score": [
+        "1689.5393"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_newspapers"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Newspapers",
+        "<B>Armenian</B> newspaper",
+        "<B>Armenian</B> periodical",
+        "<B>Armenian</B> periodicals"
+      ],
+      "comment": [
+        " concentrations of <B>Armenians</B>. Usually the newspapers are in <B>Armenian</B> language, but many of the <B>Armenian</B>"
+      ],
+      "label": [
+        "<B>Armenian</B> newspapers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_newspapers"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian-language_newspapers",
+        "http://dbpedia.org/resource/Category:Lists_of_newspapers_by_country",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1688.1082"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_Armenian_Premier_League"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Armenian</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2015–16 <B>Armenian</B> Premier League season is the 24th since its establishment. The season began on"
+      ],
+      "label": [
+        "2015–16 <B>Armenian</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_Armenian_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015–16_in_Armenian_football",
+        "http://dbpedia.org/resource/Category:2015–16_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Armenian_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1687.7003"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Brazilians"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Brazilian",
+        "<B>Armenians</B> in Brazil",
+        "<B>Armenians</B> in brazil",
+        "List of <B>Armenian</B> Brazilians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Armenian</B> Brazilians (Portuguese: armeno-brasileiro, armênio-brasileiro) are Brazilian persons who"
+      ],
+      "label": [
+        "<B>Armenian</B> Brazilians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Armenia–Brazil_relations",
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1684.6383"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_Uruguayans"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Uruguayan",
+        "<B>Armenian</B> immigration to Uruguay",
+        "<B>Armenians</B> in Uruguay",
+        "<B>Armenians</B> in uruguay"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Armenian</B> Uruguayans number around 15,000-19,000 of the population, making Uruguay to have one of"
+      ],
+      "label": [
+        "<B>Armenian</B> Uruguayans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_Uruguayans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Armenian_immigration_to_Uruguay",
+        "http://dbpedia.org/resource/Category:Armenia–Uruguay_relations",
+        "http://dbpedia.org/resource/Category:Asian_Uruguayan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Uruguay",
+        "http://dbpedia.org/resource/Category:Immigration_to_Uruguay",
+        "http://dbpedia.org/resource/Category:Uruguayan_people_of_Armenian_descent"
+      ]
+    },
+    {
+      "score": [
+        "1682.5255"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Armenian_schools"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> school",
+        "<B>Armenian</B> schools",
+        "List of <B>Armenian</B> Schools worldwide",
+        "List of <B>armenian</B> schools worldwide"
+      ],
+      "comment": [
+        " \n* Yerevan State Medical University \n* Russian-<B>Armenian</B> State University Yerevan, <B>Armenia</B> \n* Université"
+      ],
+      "label": [
+        "List of <B>Armenian</B> schools"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Armenian_schools"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_schools",
+        "http://dbpedia.org/resource/Category:Schools_in_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1680.9574"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_illuminated_manuscripts"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Illuminated manuscript",
+        "<B>Armenian</B> illuminated manuscript",
+        "<B>Armenian</B> manuscript",
+        "<B>Armenian</B> miniature",
+        "<B>Armenian</B> miniatures of Illuminated manuscripts"
+      ],
+      "comment": [
+        "<B>Armenian</B> illuminated manuscripts form a separate tradition, related to other forms of Medieval"
+      ],
+      "label": [
+        "<B>Armenian</B> illuminated manuscripts"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_illuminated_manuscripts"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_art",
+        "http://dbpedia.org/resource/Category:Illuminated_manuscripts"
+      ]
+    },
+    {
+      "score": [
+        "1675.2766"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prunus_armeniaca"
+      ],
+      "redirectlabel": [
+        "Amygdalus <B>armeniaca</B>",
+        "Ansu apricot",
+        "<B>Armeniaca</B> ansu",
+        "<B>Armeniaca</B> <B>armeniaca</B>",
+        "<B>Armeniaca</B> holosericea",
+        "<B>Armeniaca</B> vulgaris",
+        "<B>Armenian</B> apple",
+        "<B>Armenian</B> apples",
+        "<B>Armenian</B> plum",
+        "<B>Armenian</B> plums",
+        "M. <B>armeniaca</B>",
+        "M <B>armeniaca</B>",
+        "Mala <B>armeniaca</B>",
+        "Prunus amarella",
+        "Prunus ansu",
+        "Prunus <B>armenica</B>",
+        "Prunus holosericea",
+        "Prunus tiliifolia",
+        "Prunus xanthocarpos"
+      ],
+      "comment": [
+        "Prunus <B>armeniaca</B> (meaning <B>Armenian</B> plum), the most commonly cultivated apricot species, also called"
+      ],
+      "label": [
+        "Prunus <B>armeniaca</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prunus_armeniaca"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Apricots",
+        "http://dbpedia.org/resource/Category:Crops_originating_from_China",
+        "http://dbpedia.org/resource/Category:Flora_of_Central_Asia",
+        "http://dbpedia.org/resource/Category:Flora_of_China",
+        "http://dbpedia.org/resource/Category:Fruit_trees",
+        "http://dbpedia.org/resource/Category:Fruits_originating_in_Asia",
+        "http://dbpedia.org/resource/Category:Garden_plants_of_Asia",
+        "http://dbpedia.org/resource/Category:Plants_described_in_1753",
+        "http://dbpedia.org/resource/Category:Prunus",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Carl_Linnaeus"
+      ]
+    },
+    {
+      "score": [
+        "1674.2483"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_modern_Armenian_history"
+      ],
+      "redirectlabel": [
+        "Post-<B>Armenian</B> Genocide timeline",
+        "Post-<B>Armenian</B> genocide timeline",
+        "Post <B>Armenian</B> Genocide chronology",
+        "Post <B>Armenian</B> Genocide timeline",
+        "Post–<B>Armenian</B> Genocide timeline",
+        "Post–<B>Armenian</B> genocide timeline",
+        "Timeline of <B>armenian</B> genocide"
+      ],
+      "label": [
+        "Timeline of modern <B>Armenian</B> history"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_modern_Armenian_history"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenia_history-related_lists",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1664.701"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_mouflon"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Mouflon",
+        "<B>Armenian</B> sheep",
+        "Iranian Red sheep",
+        "Iranian red sheep",
+        "Red Sheep",
+        "Red sheep"
+      ],
+      "comment": [
+        "The <B>Armenian</B> mouflon (Ovis orientalis gmelini) is an endangered subspecies of mouflon endemic to Iran, <B>Armenia</B>, and Nakhchivan (Azerbaijan)."
+      ],
+      "label": [
+        "<B>Armenian</B> mouflon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_mouflon"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fauna_of_Armenia",
+        "http://dbpedia.org/resource/Category:Fauna_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Fauna_of_Iran",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1841",
+        "http://dbpedia.org/resource/Category:Ovis",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Edward_Blyth"
+      ]
+    },
+    {
+      "score": [
+        "1660.2"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Armenia"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Government",
+        "Cabinet of <B>Armenia</B>",
+        "Cabinet of Ministers of <B>Armenia</B>",
+        "Council of Ministers of the <B>Armenian</B> Soviet Socialist Republic",
+        "Executive Branch of <B>Armenia</B>",
+        "Government of the Republic of <B>Armenia</B>"
+      ],
+      "comment": [
+        "The Government of the Republic of <B>Armenia</B> (<B>Armenian</B>: Հայաստանի Հանրապետության Կառավարություն) or"
+      ],
+      "label": [
+        "Government of <B>Armenia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Armenia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_governments",
+        "http://dbpedia.org/resource/Category:Government_of_Armenia"
+      ]
+    },
+    {
+      "score": [
+        "1657.9336"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Leo_V_the_Armenian"
+      ],
+      "redirectlabel": [
+        "Byzantine emperor Leo V",
+        "Emperor Leo V",
+        "Leo Armenus",
+        "Leo the <B>Armenian</B>"
+      ],
+      "typeName": [
+        "Person",
+        "Royalty",
+        "Agent"
+      ],
+      "comment": [
+        "Leo V the <B>Armenian</B> (Greek: Λέων ὁ ἐξ Ἀρμενίας, Leōn ho ex <B>Armenias</B>; 775 – 24 December 820) was"
+      ],
+      "label": [
+        "Leo V the <B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Leo_V_the_Armenian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Royalty",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:750s_births",
+        "http://dbpedia.org/resource/Category:810s_in_the_Byzantine_Empire",
+        "http://dbpedia.org/resource/Category:820_deaths",
+        "http://dbpedia.org/resource/Category:820s_in_the_Byzantine_Empire",
+        "http://dbpedia.org/resource/Category:8th-century_Armenian_people",
+        "http://dbpedia.org/resource/Category:8th-century_Byzantine_people",
+        "http://dbpedia.org/resource/Category:9th-century_Armenian_people",
+        "http://dbpedia.org/resource/Category:9th-century_Byzantine_emperors",
+        "http://dbpedia.org/resource/Category:9th-century_murdered_monarchs",
+        "http://dbpedia.org/resource/Category:Armenian_Byzantine_emperors",
+        "http://dbpedia.org/resource/Category:Assassinated_Byzantine_emperors",
+        "http://dbpedia.org/resource/Category:Byzantine_Iconoclasm",
+        "http://dbpedia.org/resource/Category:Byzantine_people_of_Armenian_descent",
+        "http://dbpedia.org/resource/Category:Deaths_by_blade_weapons",
+        "http://dbpedia.org/resource/Category:Governors_of_the_Anatolic_Theme",
+        "http://dbpedia.org/resource/Category:Protostratores"
+      ]
+    },
+    {
+      "score": [
+        "1649.5471"
+      ],
+      "refCount": [
+        "85"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sivas"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Catholic Eparchy of Sebaste",
+        "History of Sivas",
+        "Sebaste of the <B>Armenians</B>",
+        "Sebastea (see)",
+        "Sebasteia",
+        "Sebastia (Pontus)",
+        "Sebastia (see)",
+        "Sepastia",
+        "Sevasteia",
+        "Sewas",
+        "Sivas, Turkey",
+        "Sêwas",
+        "Sīwās"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Sivas (Latin and Greek: Sebastia, Sebastea, Sebasteia, Sebaste, Σεβάστεια, Σεβαστή; <B>Armenian</B>"
+      ],
+      "label": [
+        "Sivas"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sivas"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Turkey",
+        "http://dbpedia.org/resource/Category:Districts_of_Sivas_Province",
+        "http://dbpedia.org/resource/Category:Sivas",
+        "http://dbpedia.org/resource/Category:Sivas_District"
+      ]
+    },
+    {
+      "score": [
+        "1622.9983"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_General_Benevolent_Union"
+      ],
+      "redirectlabel": [
+        "AGBU",
+        "AGBU Uruguay Chapter",
+        "<B>Armenian</B> General Benevolent Union (aka AGBU)",
+        "Khosnag",
+        "The <B>Armenian</B> General Benevolent Union"
+      ],
+      "comment": [
+        "The <B>Armenian</B> General Benevolent Union (AGBU, <B>Armenian</B>: Հայկական Բարեգործական Ընդհանուր Միություն"
+      ],
+      "label": [
+        "<B>Armenian</B> General Benevolent Union"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_General_Benevolent_Union"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1906_establishments_in_Egypt",
+        "http://dbpedia.org/resource/Category:Armenian-American_culture_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Armenian-American_history",
+        "http://dbpedia.org/resource/Category:Armenian_General_Benevolent_Union",
+        "http://dbpedia.org/resource/Category:Armenian_culture",
+        "http://dbpedia.org/resource/Category:Non-profit_organizations_based_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1906"
+      ]
+    },
+    {
+      "score": [
+        "1621.0323"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Russian-Armenian_University"
+      ],
+      "redirectlabel": [
+        "Russian-<B>Armenian</B> (Slavic) University",
+        "Russian-<B>Armenian</B> (Slavic) university",
+        "Russian-<B>Armenian</B> (Slavonic) University",
+        "Russian-<B>Armenian</B> (Slavonic) university",
+        "Russian-<B>Armenian</B> State University"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "Russian-<B>Armenian</B> University (RAU) (Russian: Российско-Армянский университет, РАУ; <B>Armenian</B>: Հայ"
+      ],
+      "label": [
+        "Russian-<B>Armenian</B> University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Russian-Armenian_University"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1997_establishments_in_Armenia",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1997",
+        "http://dbpedia.org/resource/Category:Russian-Armenian_University"
+      ]
+    },
+    {
+      "score": [
+        "1607.2408"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tsitsernakaberd"
+      ],
+      "redirectlabel": [
+        "10.51442",
+        "<B>Armenian</B> Genocide Memorial",
+        "<B>Armenian</B> Genocide Memorial complex",
+        "<B>Armenian</B> Genocide Museum-Institute",
+        "<B>Armenian</B> Genocide Museum",
+        "<B>Armenian</B> Genocide memorial complex",
+        "<B>Armenian</B> Genocide museum",
+        "Dzidzernagapert",
+        "International Journal of <B>Armenian</B> Genocide Studies",
+        "Memorial Complex of Tsitsernakaberd",
+        "The <B>Armenian</B> Genocide Museum-institute",
+        "Tistsernakaberd <B>Armenia</B> Genocide Memorial",
+        "Tistsernakaberd <B>Armenian</B> Genocide Memorial",
+        "Tsitsernakaberd <B>Armenian</B> Genocide Memorial",
+        "Tsitsernakaberd Genocide Memorial",
+        "Tsitsernakaberd Hill",
+        "Tsitsernakaberd Memorial Complex",
+        "Tsitsernakaberd hill",
+        "Tsitsernakapert"
+      ],
+      "typeName": [
+        "Building",
+        "Museum",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Armenian</B> Genocide memorial complex (<B>Armenian</B>: Հայոց ցեղասպանության զոհերի հուշահամալիր, Hayots"
+      ],
+      "label": [
+        "Tsitsernakaberd"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tsitsernakaberd"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Museum",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_establishments_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Armenian_genocide_commemoration",
+        "http://dbpedia.org/resource/Category:Armenian_genocide_memorials",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1967",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Yerevan",
+        "http://dbpedia.org/resource/Category:Genocide_museums",
+        "http://dbpedia.org/resource/Category:History_museums_in_Armenia",
+        "http://dbpedia.org/resource/Category:Monuments_and_memorials_built_in_the_Soviet_Union",
+        "http://dbpedia.org/resource/Category:Monuments_and_memorials_in_Armenia",
+        "http://dbpedia.org/resource/Category:Museums_in_Yerevan"
+      ]
+    },
+    {
+      "score": [
+        "1599.2178"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Full_House_(Armenian_TV_series)"
+      ],
+      "redirectlabel": [
+        "Full House (<B>Armenian</B> TV series, season 1)",
+        "Full House (<B>Armenian</B> TV series, season 2)",
+        "Full House (<B>Armenian</B> TV series, season 3)",
+        "Full House (<B>Armenian</B> TV series, season 4)",
+        "Full House (<B>Armenian</B> TV series, season 5)",
+        "Mariam Melikyan",
+        "Mariam Meliqyan"
+      ],
+      "typeName": [
+        "TelevisionShow",
+        "Work"
+      ],
+      "comment": [
+        "Full House (<B>Armenian</B>: Ֆուլ Հաուս) is an <B>Armenian</B> sitcom television series developed by Armen"
+      ],
+      "label": [
+        "Full House (<B>Armenian</B> TV series)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Full_House_(Armenian_TV_series)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/TelevisionShow",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_Armenian_television_series",
+        "http://dbpedia.org/resource/Category:2010s_teen_sitcoms",
+        "http://dbpedia.org/resource/Category:2014_Armenian_television_series_debuts",
+        "http://dbpedia.org/resource/Category:2017_Armenian_television_series_endings",
+        "http://dbpedia.org/resource/Category:Armenia_TV_original_programming",
+        "http://dbpedia.org/resource/Category:Armenian-language_television_shows",
+        "http://dbpedia.org/resource/Category:Armenian_comedy_television_series",
+        "http://dbpedia.org/resource/Category:Full_House"
+      ]
+    },
+    {
+      "score": [
+        "1597.2107"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Surp_Pırgiç_Armenian_Hospital"
+      ],
+      "redirectlabel": [
+        "Sourp Prgich <B>Armenian</B> Hospital",
+        "Surp Pirgic <B>Armenian</B> Hospital",
+        "Surp Prgich <B>Armenian</B> Hospital",
+        "Surp Prgiç Hospital",
+        "Yedikule Surp Pirgic <B>Armenian</B> Hospital",
+        "Yedikule Surp Pırgiç <B>Armenian</B> Hospital"
+      ],
+      "typeName": [
+        "Building",
+        "Hospital",
+        "Place",
+        "ArchitecturalStructure",
+        "Location"
+      ],
+      "comment": [
+        "The Yedikule Surp Pırgiç <B>Armenian</B> Hospital (Turkish: Yedikule Surp Pırgiç Ermeni Hastanesi) is a"
+      ],
+      "label": [
+        "Surp Pırgiç <B>Armenian</B> Hospital"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Surp_Pırgiç_Armenian_Hospital"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Building",
+        "http://dbpedia.org/ontology/Hospital",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hospitals_established_in_1834",
+        "http://dbpedia.org/resource/Category:Hospitals_in_Istanbul",
+        "http://dbpedia.org/resource/Category:Ottoman_hospitals",
+        "http://dbpedia.org/resource/Category:Zeytinburnu"
+      ]
+    },
+    {
+      "score": [
+        "1595.317"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armenian_battalions"
+      ],
+      "redirectlabel": [
+        "<B>Armenian</B> Batallions in other armies against Ottoman Empire",
+        "<B>Armenian</B> Batallions in other armies during Balkan Wars and World War I",
+        "<B>Armenian</B> Batallions in other armies during World War I",
+        "<B>Armenian</B> Battalion",
+        "<B>Armenian</B> Battalions"
+      ],
+      "comment": [
+        "<B>Armenian</B> battalions refer to military units formed by <B>Armenian</B> volunteer conscripts, mostly"
+      ],
+      "label": [
+        "<B>Armenian</B> battalions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armenian_battalions"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Armenia",
+        "http://dbpedia.org/resource/Category:Expatriate_military_units_and_formations",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1912",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Armenia",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_World_War_I"
+      ]
+    },
+    {
+      "score": [
+        "1586.1487"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Eastern_Armenian"
+      ],
+      "redirectlabel": [
+        "Eastern <B>Armenian</B> language",
+        "Eastern <B>armenian</B> language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " community in Iran. Although the Eastern <B>Armenian</B> spoken by <B>Armenians</B> in <B>Armenia</B> and Iranian-<B>Armenians</B> are"
+      ],
+      "label": [
+        "Eastern <B>Armenian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Eastern_Armenian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armenian_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Armenia",
+        "http://dbpedia.org/resource/Category:Languages_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Languages_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Languages_of_Iran",
+        "http://dbpedia.org/resource/Category:Languages_of_Russia"
+      ]
+    }
+  ]
+}

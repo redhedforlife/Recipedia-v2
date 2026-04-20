@@ -1,0 +1,4784 @@
+{
+  "docs": [
+    {
+      "score": [
+        "21745.178"
+      ],
+      "refCount": [
+        "9258"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austria"
+      ],
+      "redirectlabel": [
+        "<B>AUSTRIA</B>",
+        "Administrative divisions of <B>Austria</B>",
+        "Alpine Deutschen",
+        "Architecture of <B>Austria</B>",
+        "<B>AustriA</B>",
+        "<B>Austria</B> (country)",
+        "<B>Austrian</B> Republic",
+        "<B>Austrian</B> architecture",
+        "Austurriki",
+        "Austurríki",
+        "Autriche",
+        "Avstria",
+        "Easterrealm",
+        "Eastreach",
+        "Etymology of <B>Austria</B>",
+        "ISO 3166-1:AT",
+        "Infrastructure in <B>Austria</B>",
+        "Klimaticket",
+        "Oesterreich",
+        "Oostenrijk",
+        "Osterreich",
+        "Ostria",
+        "Republic of <B>Austria</B>",
+        "Republik Oesterreich",
+        "Republik Osterreich",
+        "Republik Österreich",
+        "The Republic of <B>Austria</B>",
+        "Österreich",
+        "Österrike"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " nearly 9 million people. While German is the country's official language, many <B>Austrians</B> communicate informally in a variety of Bavarian dialects."
+      ],
+      "label": [
+        "<B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austria",
+        "http://dbpedia.org/resource/Category:Central_European_countries",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Federal_constitutional_republics",
+        "http://dbpedia.org/resource/Category:German-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Three_Seas_Initiative",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Nuclear-free_zones",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1955",
+        "http://dbpedia.org/resource/Category:Western_European_countries"
+      ]
+    },
+    {
+      "score": [
+        "17062.844"
+      ],
+      "refCount": [
+        "770"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Empire"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Empire (1804 - 1867)",
+        "<B>Austrian</B> empire",
+        "Bach's absolutism",
+        "Bach absolutism",
+        "Bach system",
+        "Bach’s absolutism",
+        "Empire of <B>Austria</B>",
+        "Imperial <B>Austria</B>",
+        "Imperial <B>Austrian</B>",
+        "Kaiserthum Oesterreich",
+        "Kaisertum Österreich",
+        "Neo-absolutism",
+        "Neo-absolutist era",
+        "Neoabsolutism",
+        "The <B>Austrian</B> Empire"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Empire (<B>Austrian</B> German: Kaiserthum Oesterreich, modern spelling Kaisertum Österreich"
+      ],
+      "label": [
+        "<B>Austrian</B> Empire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Empire"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1804_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1804_establishments_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:1867_disestablishments_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:19th_century_in_Austria",
+        "http://dbpedia.org/resource/Category:19th_century_in_Europe",
+        "http://dbpedia.org/resource/Category:Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Croatia_under_Habsburg_rule",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:Former_empires",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Germanic_empires",
+        "http://dbpedia.org/resource/Category:Habsburg_Bohemia",
+        "http://dbpedia.org/resource/Category:House_of_Habsburg-Lorraine",
+        "http://dbpedia.org/resource/Category:Hungary_under_Habsburg_rule",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Austria",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Italy",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Slovenia",
+        "http://dbpedia.org/resource/Category:Serbia_under_Habsburg_rule",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1867",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1804",
+        "http://dbpedia.org/resource/Category:States_of_the_German_Confederation"
+      ]
+    },
+    {
+      "score": [
+        "10208.323"
+      ],
+      "refCount": [
+        "3410"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austria-Hungary"
+      ],
+      "redirectlabel": [
+        "Austo-Hungarian empire",
+        "<B>Austria</B>-Hungarian",
+        "<B>Austria</B>-Hungarian Empire",
+        "<B>Austria</B>-Hungary Empire",
+        "<B>Austria</B>-Hungary during World War I",
+        "<B>Austria</B>-Hungary empire",
+        "<B>Austria</B>-hungary",
+        "<B>Austria</B> Hungary",
+        "<B>Austria</B> hungary",
+        "Austriahungary",
+        "Austrialia-Hungary",
+        "Austrialia–Hungary",
+        "<B>Austrian</B>-Hungarian",
+        "<B>Austrian</B>-Hungarian Empire",
+        "<B>Austrian</B>-Hungarian empire",
+        "<B>Austrian</B> Hungarian Kingdom",
+        "<B>Austria</B>–Hungary",
+        "Austro-Hungaria",
+        "Austro-Hungarian",
+        "Austro-Hungarian Empire",
+        "Austro-Hungarian Monarchy",
+        "Austro-Hungarian empire",
+        "Austro-Hungarian monarchy",
+        "Austro-Hungarians",
+        "Austro-Hungary",
+        "Austro-hungarian empire",
+        "Austro-hungary",
+        "Austro - Hungary",
+        "Austro Hungarian Empire",
+        "Austro Hungarian empire",
+        "Austro Hungarian monarchy",
+        "Austro Hungary",
+        "Austro hungarian",
+        "Austro hungarian monarchy",
+        "Austro–Hungarian Empire",
+        "Austro–Hungarian Monarchy",
+        "Autro-Hungarian empire",
+        "Avstro-Ogrska",
+        "Demographics of <B>Austria</B>-Hungary",
+        "Dual State",
+        "History of <B>Austria</B>-Hungary",
+        "History of <B>Austria</B>-Hungary during World War I",
+        "Osztrák-Magyar Birodalom",
+        "The Dual Monarchy",
+        "The Dual monarchy",
+        "The Kingdom and lands represented in the Imperial Council and the lands of the Holy Hungarian crown of Saint Stephen",
+        "The Kingdoms and Lands Represented in the Imperial Council and the Lands of the Holy Hungarian Crown of St. Stephen",
+        "The dual monarchy",
+        "Österreich-Ungarn",
+        "Österreich-ungarn",
+        "Österreichisch-Ungarisches Reich"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Austrian</B> Empire adopted a new constitution; as a result <B>Austria</B> (Cisleithania) and Hungary"
+      ],
+      "label": [
+        "<B>Austria</B>-Hungary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austria-Hungary"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1867_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:Former_empires",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Habsburg_monarchy",
+        "http://dbpedia.org/resource/Category:House_of_Habsburg-Lorraine",
+        "http://dbpedia.org/resource/Category:Hungary_under_Habsburg_rule",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Austria",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Hungary",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1867"
+      ]
+    },
+    {
+      "score": [
+        "8703.935"
+      ],
+      "refCount": [
+        "1277"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austria_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B> national under-16 football team",
+        "<B>Austrian</B> national football team",
+        "History of the <B>Austria</B> national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " <B>Austria</B> in men's international football competition and it's controlled by the <B>Austrian</B> Football"
+      ],
+      "label": [
+        "<B>Austria</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austria_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austria_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "8651.546"
+      ],
+      "refCount": [
+        "241"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/War_of_the_Austrian_Succession"
+      ],
+      "redirectlabel": [
+        "Anglo-French War (1744-48)",
+        "Anglo-French War (1744–48)",
+        "<B>Austrian</B> Succession",
+        "<B>Austrian</B> Succession War",
+        "<B>Austrian</B> War of Successcion",
+        "<B>Austrian</B> War of Succession",
+        "<B>Austrian</B> war of the Succession",
+        "Convention of saint petersburg",
+        "The War of the <B>Austrian</B> Succession",
+        "Treaty of Breslau (1741)",
+        "War Of The <B>Austrian</B> Succession",
+        "War of <B>Austrian</B> Succession",
+        "War of <B>Austrian</B> succession",
+        "War of the <B>Austrian</B> Succescion",
+        "War of the <B>Austrian</B> succession",
+        "War of the <B>austrian</B> succession",
+        "Wars of the <B>Austrian</B> Succession"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The War of the <B>Austrian</B> Succession (German: Österreichischer Erbfolgekrieg, 1740–1748) was a war"
+      ],
+      "label": [
+        "War of the <B>Austrian</B> Succession"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/War_of_the_Austrian_Succession"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1740s_conflicts",
+        "http://dbpedia.org/resource/Category:1740s_in_India",
+        "http://dbpedia.org/resource/Category:1740s_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:18th-century_conflicts",
+        "http://dbpedia.org/resource/Category:Global_conflicts",
+        "http://dbpedia.org/resource/Category:Maria_Theresa",
+        "http://dbpedia.org/resource/Category:Rebellions_against_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:War_of_the_Austrian_Succession",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Dutch_Republic",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:Wars_of_succession_involving_the_states_and_peoples_of_Europe"
+      ]
+    },
+    {
+      "score": [
+        "7702.154"
+      ],
+      "refCount": [
+        "19456"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Australian_rules_football"
+      ],
+      "redirectlabel": [
+        "Aussie Football",
+        "Aussie Rules",
+        "Aussie Rules Football",
+        "Aussie Rules football",
+        "Aussie rules",
+        "Aussie rules football",
+        "Australia rules football",
+        "<B>Australian</B>-rules football",
+        "<B>Australian</B> Football",
+        "<B>Australian</B> Handegg",
+        "<B>Australian</B> Rules",
+        "<B>Australian</B> Rules Football",
+        "<B>Australian</B> Rules Handegg",
+        "<B>Australian</B> Rules football",
+        "<B>Australian</B> Rules footballer",
+        "<B>Australian</B> Rules handegg",
+        "<B>Australian</B> football",
+        "<B>Australian</B> handegg",
+        "<B>Australian</B> rules",
+        "<B>Australian</B> rules football scoring",
+        "<B>Australian</B> rules footballer",
+        "<B>Australian</B> rules handegg",
+        "<B>Australian</B> rules soccer",
+        "Clearance (<B>Australian</B> rules football)",
+        "Football (<B>Australian</B> rules)",
+        "Footy practice",
+        "Kicking (<B>Australian</B> rules football)",
+        "Rules Football",
+        "Styles of kicking",
+        "Victorian rules football"
+      ],
+      "typeName": [
+        "Activity",
+        "Sport"
+      ],
+      "comment": [
+        "<B>Australian</B> rules football, officially known as <B>Australian</B> football, or simply called Aussie rules"
+      ],
+      "label": [
+        "<B>Australian</B> rules football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Australian_rules_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Activity",
+        "http://dbpedia.org/ontology/Sport"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1858_introductions",
+        "http://dbpedia.org/resource/Category:1859_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Australian_rules_football",
+        "http://dbpedia.org/resource/Category:Ball_games",
+        "http://dbpedia.org/resource/Category:Football_codes",
+        "http://dbpedia.org/resource/Category:Sports_originating_in_Australia",
+        "http://dbpedia.org/resource/Category:Team_sports",
+        "http://dbpedia.org/resource/Category:Turf_sports"
+      ]
+    },
+    {
+      "score": [
+        "7645.311"
+      ],
+      "refCount": [
+        "180"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_People's_Party"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> People's Party (2017)",
+        "<B>Austrian</B> Peoples Party",
+        "<B>Austrian</B> People’s Party",
+        "<B>Austrian</B> people's party",
+        "OEVP",
+        "OeVP",
+        "Oevp",
+        "Osterreichische Volks Partei",
+        "Osterreichische Volkspartei",
+        "Osterreichische Volksparteii",
+        "People's Party (<B>Austria</B>)",
+        "Young People's Party (<B>Austria</B>)",
+        "ÖVP",
+        "Österreichische Volks Partei",
+        "Österreichische Volkspartei"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " of <B>Austria</B> in 1945 and since then has been one of the two largest <B>Austrian</B> political parties with"
+      ],
+      "label": [
+        "<B>Austrian</B> People's Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_People's_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_which_contain_graphical_timelines",
+        "http://dbpedia.org/resource/Category:Austrian_People's_Party",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Liberal_conservative_parties",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Politics_of_Austria",
+        "http://dbpedia.org/resource/Category:Pro-European_political_parties_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "4804.956"
+      ],
+      "refCount": [
+        "582"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Upper_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B> above the Enns",
+        "Districts of Upper <B>Austria</B>",
+        "History of Upper <B>Austria</B>",
+        "Land ob der Enns",
+        "Oberoesterreich",
+        "Oberosterreich",
+        "Oberösterreich",
+        "Osterreich ob der Enns",
+        "Traungau",
+        "Upper-<B>Austria</B>",
+        "Upper <B>Austrian</B>",
+        "Österreich ob der Enns"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Austrian</B> states of Lower <B>Austria</B>, Styria, and Salzburg. With an area of 11,982 km2 (4,626 sq mi) and"
+      ],
+      "label": [
+        "Upper <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Upper_Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:States_of_Austria",
+        "http://dbpedia.org/resource/Category:Upper_Austria"
+      ]
+    },
+    {
+      "score": [
+        "4483.252"
+      ],
+      "refCount": [
+        "721"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Tyrol_(state)"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Tyrol",
+        "Districts of Tyrol",
+        "Regional government of Tirol",
+        "State of Tirol",
+        "State of Tyrol",
+        "Tirol, <B>Austria</B>",
+        "Tirol (Bundesland)",
+        "Tirol (state)",
+        "Tyrol, <B>Austria</B>",
+        "Tyrol (Bundesland)",
+        "Tyrol (State)",
+        "Tyrol state"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        ": Tirolsko) is a federal state (Bundesland) in western <B>Austria</B>. It comprises the <B>Austrian</B> part of the"
+      ],
+      "label": [
+        "Tyrol (state)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Tyrol_(state)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:States_of_Austria",
+        "http://dbpedia.org/resource/Category:Tyrol_(state)"
+      ]
+    },
+    {
+      "score": [
+        "4424.2397"
+      ],
+      "refCount": [
+        "94"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Austrian_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> First Republic",
+        "First Republic of <B>Austria</B>",
+        "Interwar <B>Austria</B>",
+        "May Constitution of 1934",
+        "Post-Austro-Hungarian <B>Austria</B>",
+        "Republic of <B>Austria</B> (1919-1934)",
+        "Republic of <B>Austria</B> (1919–1934)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The First <B>Austrian</B> Republic (German: Republik Österreich) was created after the signing of the"
+      ],
+      "label": [
+        "First <B>Austrian</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Austrian_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:1934_disestablishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Dissolution_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:First_Austrian_Republic",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1919"
+      ]
+    },
+    {
+      "score": [
+        "4400.843"
+      ],
+      "refCount": [
+        "45"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Netherlands"
+      ],
+      "redirectlabel": [
+        "The <B>Austrian</B> Netherlands"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Netherlands (Dutch: Oostenrijkse Nederlanden; French: Pays-Bas Autrichiens; German"
+      ],
+      "label": [
+        "<B>Austrian</B> Netherlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Netherlands"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1714_establishments_in_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:1797_disestablishments_in_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:18th_century_in_Austria",
+        "http://dbpedia.org/resource/Category:18th_century_in_Luxembourg",
+        "http://dbpedia.org/resource/Category:18th_century_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:18th_century_in_the_Southern_Netherlands",
+        "http://dbpedia.org/resource/Category:Austrian_Netherlands",
+        "http://dbpedia.org/resource/Category:Early_Modern_Luxembourg",
+        "http://dbpedia.org/resource/Category:Former_polities_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1797",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1714",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Habsburg_Monarchy"
+      ]
+    },
+    {
+      "score": [
+        "4172.5654"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Football_Bundesliga"
+      ],
+      "redirectlabel": [
+        "A. Bundesliga",
+        "<B>Austrian</B> Bundesliga",
+        "<B>Austrian</B> First Division",
+        "<B>Austrian</B> Fussball-Bundesliga",
+        "<B>Austrian</B> Fußball-Bundesliga",
+        "<B>Austrian</B> highest football division",
+        "Nationalliga",
+        "Osterreichische Fussball-Bundesliga",
+        "T-Mobile Bundesliga",
+        "Tipico Bundesliga",
+        "Tipp3-Bundesliga",
+        "Österreichische Fußball-Bundesliga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Football Bundesliga (German: Österreichische Fußball-Bundesliga [ˈøːstɐʁaɪ̯çɪʃə"
+      ],
+      "label": [
+        "<B>Austrian</B> Football Bundesliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Football_Bundesliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1974_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Austria",
+        "http://dbpedia.org/resource/Category:National_championships_in_Austria",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Austria",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1974",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "3909.181"
+      ],
+      "refCount": [
+        "224"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrians"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Chilean",
+        "<B>Austrian</B> Germans",
+        "<B>Austrian</B> people",
+        "<B>Austrians</B> in Belgium",
+        "<B>Austrians</B> in Bosnia and Herzegovina",
+        "<B>Austrians</B> in Denmark",
+        "<B>Austrians</B> in France",
+        "<B>Austrians</B> in Germany",
+        "<B>Austrians</B> in Greece",
+        "<B>Austrians</B> in Hungary",
+        "<B>Austrians</B> in Italy",
+        "<B>Austrians</B> in Liechtenstein",
+        "<B>Austrians</B> in Macedonia",
+        "<B>Austrians</B> in Poland",
+        "<B>Austrians</B> in Serbia",
+        "<B>Austrians</B> in Slovakia",
+        "<B>Austrians</B> in Slovenia",
+        "<B>Austrians</B> in South Africa",
+        "<B>Austrians</B> in Spain",
+        "<B>Austrians</B> in Sweden",
+        "<B>Austrians</B> in Switzerland",
+        "<B>Austrians</B> in Ukraine",
+        "<B>Austrians</B> in the Czech Republic",
+        "<B>Austrians</B> in the Netherlands",
+        "<B>Austrians</B> of Romania",
+        "History of the <B>Austrians</B>",
+        "People of <B>Austria</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " and South Tyrol that share a common <B>Austrian</B> culture, <B>Austrian</B> descent and <B>Austrian</B> history. The"
+      ],
+      "label": [
+        "<B>Austrians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_people",
+        "http://dbpedia.org/resource/Category:Baiuvarii",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Austria",
+        "http://dbpedia.org/resource/Category:Germanic_ethnic_groups"
+      ]
+    },
+    {
+      "score": [
+        "3902.4375"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_German"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B>/Language",
+        "AustriaLanguage",
+        "<B>Austrian</B>-German",
+        "<B>Austrian</B> Dialect",
+        "<B>Austrian</B> German language",
+        "<B>Austrian</B> High German",
+        "<B>Austrian</B> Language",
+        "<B>Austrian</B> Standard German",
+        "<B>Austrian</B> accent",
+        "De-at",
+        "ISO 639:de-AT",
+        "Standard <B>Austrian</B> German",
+        "Österreichisches Deutsch",
+        "Österreichisches Hochdeutsch",
+        "Österreichisches Standarddeutsch"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Austrian</B> German (German: Österreichisches Deutsch), <B>Austrian</B> Standard German (ASG), Standard"
+      ],
+      "label": [
+        "<B>Austrian</B> German"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_German"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bavarian_language",
+        "http://dbpedia.org/resource/Category:German_dialects",
+        "http://dbpedia.org/resource/Category:Languages_of_Austria",
+        "http://dbpedia.org/resource/Category:National_varieties_of_German"
+      ]
+    },
+    {
+      "score": [
+        "3712.106"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B>/Military",
+        "<B>Austrian</B> Army",
+        "<B>Austrian</B> Army (1st Republic)",
+        "<B>Austrian</B> Bundesheer",
+        "<B>Austrian</B> Defence Force",
+        "<B>Austrian</B> Federal Army",
+        "<B>Austrian</B> Land Forces",
+        "<B>Austrian</B> commando frogmen",
+        "<B>Austrian</B> military",
+        "Bundesheer",
+        "Military equipment of <B>Austria</B>",
+        "Military of <B>Austria</B>",
+        "Military of <B>austria</B>",
+        "Navy of <B>Austria</B>",
+        "Volkswehr",
+        "Www.bmlv.gv.at",
+        "Österreichisches Bundesheer",
+        "Österreichs Bundesheer"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Armed Forces (German: Bundesheer, literally \"Federal Army\") are the combined military"
+      ],
+      "label": [
+        "<B>Austrian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "3679.5845"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_School"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Economic",
+        "<B>Austrian</B> Economics",
+        "<B>Austrian</B> Economist",
+        "<B>Austrian</B> Economists",
+        "<B>Austrian</B> School Of Economics",
+        "<B>Austrian</B> School of Economics",
+        "<B>Austrian</B> School of economics",
+        "<B>Austrian</B> economic school",
+        "<B>Austrian</B> economics",
+        "<B>Austrian</B> economist",
+        "<B>Austrian</B> economists",
+        "<B>Austrian</B> school",
+        "<B>Austrian</B> school of economics",
+        "<B>Austrianism</B>",
+        "<B>Austrianist</B>",
+        "Austro-libertarian",
+        "Austro-libertarianism",
+        "Criticisms of <B>Austrian</B> School",
+        "Newtonian time in economics",
+        "Vienna School Of Economics"
+      ],
+      "comment": [
+        "The <B>Austrian</B> School is a heterodox school of economic thought that is based on methodological"
+      ],
+      "label": [
+        "<B>Austrian</B> School"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_School"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_School",
+        "http://dbpedia.org/resource/Category:Libertarian_theory",
+        "http://dbpedia.org/resource/Category:Schools_of_economic_thought"
+      ]
+    },
+    {
+      "score": [
+        "3245.4563"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Silesia"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B>-Silesia",
+        "Duchess of Upper and Lower Silesia",
+        "Duchy of Upper and Lower Silesia",
+        "Duke of Upper and Lower Silesia",
+        "Osterreichisch-Schlesien",
+        "Österreichisch-Schlesien"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Austrian</B> Silesia (German: Österreichisch-Schlesien (historically also Oesterreichisch-Schlesien"
+      ],
+      "label": [
+        "<B>Austrian</B> Silesia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Silesia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1742_establishments_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:1742_establishments_in_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:Former_Slavic_countries",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Habsburg_Silesia",
+        "http://dbpedia.org/resource/Category:History_of_Czech_Silesia",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Empire_of_Austria_(1867–1918)",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1742",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria-Hungary"
+      ]
+    },
+    {
+      "score": [
+        "3143.8306"
+      ],
+      "refCount": [
+        "137"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austro-Prussian_War"
+      ],
+      "redirectlabel": [
+        "7 weeks war",
+        "Anglo-Prussian war",
+        "<B>Austrian</B>-Prussian War",
+        "<B>Austrian</B>-Prussian war",
+        "Austro-Prussian War of 1866",
+        "Austro-Prussian war",
+        "Austro–Prussian War",
+        "Battles of the Austro-Prussian War",
+        "Deutscher Krieg",
+        "Fraternal War",
+        "German War",
+        "Prussia germany war",
+        "Prussian-<B>Austrian</B> War",
+        "Prussian-<B>Austrian</B> war",
+        "Prussian <B>Austrian</B> war",
+        "Prusso-<B>Austrian</B> War",
+        "Prusso-<B>Austrian</B> war",
+        "Second Austro-Prussian War",
+        "Seven Weeks' War",
+        "Seven Weeks War",
+        "Six Weeks War",
+        "Third Independence War",
+        "Unification War",
+        "War of 1866"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " names) was a war fought in 1866 between the <B>Austrian</B> Empire and the Kingdom of Prussia, with each"
+      ],
+      "label": [
+        "Austro-Prussian War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austro-Prussian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1866_in_Germany",
+        "http://dbpedia.org/resource/Category:1866_in_Prussia",
+        "http://dbpedia.org/resource/Category:1866_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Austria–Prussia_relations",
+        "http://dbpedia.org/resource/Category:Austro-Prussian_War",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1866",
+        "http://dbpedia.org/resource/Category:Franz_Joseph_I_of_Austria",
+        "http://dbpedia.org/resource/Category:History_of_Schleswig-Holstein",
+        "http://dbpedia.org/resource/Category:Wars_involving_Baden",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bavaria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hesse-Kassel",
+        "http://dbpedia.org/resource/Category:Wars_involving_Italy",
+        "http://dbpedia.org/resource/Category:Wars_involving_Liechtenstein",
+        "http://dbpedia.org/resource/Category:Wars_involving_Saxony",
+        "http://dbpedia.org/resource/Category:Wars_involving_Waldeck",
+        "http://dbpedia.org/resource/Category:Wars_involving_Württemberg",
+        "http://dbpedia.org/resource/Category:William_I,_German_Emperor"
+      ]
+    },
+    {
+      "score": [
+        "3070.5596"
+      ],
+      "refCount": [
+        "39510"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Australia"
+      ],
+      "redirectlabel": [
+        "AUSTRALIA",
+        "Ahitereiria",
+        "Asutralia",
+        "Ausrtalia",
+        "Austalia",
+        "Austraila",
+        "Austrailia",
+        "Australai",
+        "AustraliA",
+        "Australia's",
+        "Australia.",
+        "Australia (country)",
+        "<B>Australian</B> Commonwealth",
+        "Australias",
+        "Australie",
+        "Australiia",
+        "Australlia",
+        "Austraya",
+        "Austrlaia",
+        "<B>Austrlia</B>",
+        "Biodiversity in Australia",
+        "Commonwealth of Australia",
+        "Commonwealth of australia",
+        "Country of Australia",
+        "Dominion of Australia",
+        "Etymology of Australia",
+        "ISO 3166-1:AU",
+        "Ostralia",
+        "The Commonwealth of Australia"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " of the <B>Australian</B> continent, the island of Tasmania, and numerous smaller islands. It is the"
+      ],
+      "label": [
+        "Australia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Australia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australia",
+        "http://dbpedia.org/resource/Category:Countries_in_Australasia",
+        "http://dbpedia.org/resource/Category:Countries_in_Oceania",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:G20_nations",
+        "http://dbpedia.org/resource/Category:Geographical_articles_missing_image_alternative_text",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1901",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "2968.4563"
+      ],
+      "refCount": [
+        "153"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Social_Democratic_Party_of_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Social Democrat",
+        "<B>Austrian</B> Social Democratic Party",
+        "<B>Austrian</B> Socialist Party",
+        "SDAPO",
+        "SDAPÖ",
+        "SPOE",
+        "SPÖ",
+        "SPÖ Carinthia",
+        "SPÖ Vienna",
+        "Social Democratic Workers' Party of <B>Austria</B>",
+        "Social Democratic Workers Party of <B>Austria</B>",
+        "Social Democratic Workers Party of German <B>Austria</B>",
+        "Social Democrats (<B>Austria</B>)",
+        "Socialist Party of <B>Austria</B>",
+        "Sonja Steßl",
+        "Sozialdemokratische Partei Osterreichs",
+        "Sozialdemokratische Partei Österreichs",
+        "Spoe",
+        "Spö"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Social Democratic Party of <B>Austria</B> (German: Sozialdemokratische Partei Österreichs, SPÖ) is a"
+      ],
+      "label": [
+        "Social Democratic Party of <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Social_Democratic_Party_of_Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1889_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1889",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Pro-European_political_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Social_Democratic_Party_of_Austria",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2915.6116"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Cuisine",
+        "<B>Austrian</B> Food",
+        "<B>Austrian</B> coffee",
+        "<B>Austrian</B> cookery",
+        "<B>Austrian</B> desserts",
+        "<B>Austrian</B> drinks",
+        "<B>Austrian</B> food",
+        "<B>Austrian</B> sweets",
+        "Catalog of <B>Austrian</B> cuisine",
+        "Coffee in <B>Austria</B>",
+        "Cuisine of <B>Austria</B>",
+        "Regional cuisines of <B>Austria</B>"
+      ],
+      "comment": [
+        "<B>Austrian</B> cuisine is a style of cuisine native to <B>Austria</B> and composed of influences from Central"
+      ],
+      "label": [
+        "<B>Austrian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_cuisine",
+        "http://dbpedia.org/resource/Category:Austrian_culture"
+      ]
+    },
+    {
+      "score": [
+        "2808.1787"
+      ],
+      "refCount": [
+        "85"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Austria"
+      ],
+      "redirectlabel": [
+        "Australia - <B>Austria</B> relations",
+        "Australia <B>Austria</B> relations",
+        "Australia – <B>Austria</B> relations",
+        "<B>Australian</B>-<B>Austrian</B> relations",
+        "Australia–<B>Austria</B> relations",
+        "<B>Austria</B>-Australia relations",
+        "<B>Austria</B>-Belarus relations",
+        "<B>Austria</B>-Belgium relations",
+        "<B>Austria</B>-Bulgaria relations",
+        "<B>Austria</B>-Cyprus relations",
+        "<B>Austria</B>-Egypt relations",
+        "<B>Austria</B>-Estonia relations",
+        "<B>Austria</B>-Finland relations",
+        "<B>Austria</B>-Iceland relations",
+        "<B>Austria</B>-Ireland relations",
+        "<B>Austria</B>-Latvia relations",
+        "<B>Austria</B>-Lithuania relations",
+        "<B>Austria</B>-Malta relations",
+        "<B>Austria</B>-Montenegro relations",
+        "<B>Austria</B>-Netherlands relations",
+        "<B>Austria</B>-People's Republic of China relations",
+        "<B>Austria</B>-Portugal relations",
+        "<B>Austria</B>-Slovakia relations",
+        "<B>Austria</B>-South Korea relations",
+        "<B>Austria</B>-Sweden relations",
+        "<B>Austria</B>/Foreign relations",
+        "<B>Austria</B>/Transnational issues",
+        "<B>Austria</B> - Australia relations",
+        "<B>Austria</B> - Belgium relations",
+        "<B>Austria</B> - Egypt relations",
+        "<B>Austria</B> - People's Republic of China relations",
+        "<B>Austria</B> - South Korea relations",
+        "<B>Austria</B> Australia relations",
+        "<B>Austria</B> Belgium relations",
+        "<B>Austria</B> Egypt relations",
+        "<B>Austria</B> – Australia relations",
+        "<B>Austria</B> – Belgium relations",
+        "<B>Austria</B> – Egypt relations",
+        "<B>Austria</B> – People's Republic of China relations",
+        "<B>Austrian</B>-Belarussian relations",
+        "<B>Austrian</B>-Belgian relations",
+        "<B>Austrian</B>-Bulgarian relations",
+        "<B>Austrian</B>-Chinese relations",
+        "<B>Austrian</B>-Cyprus relations",
+        "<B>Austrian</B>-Dutch relations",
+        "<B>Austrian</B>-Egyptian relations",
+        "<B>Austrian</B>-Estonian relations",
+        "<B>Austrian</B>-Finish relations",
+        "<B>Austrian</B>-Finnish relations",
+        "<B>Austrian</B>-Irish relations",
+        "<B>Austrian</B>-Latvian relations",
+        "<B>Austrian</B>-Lithuanian relations",
+        "<B>Austrian</B>-Maltese relations",
+        "<B>Austrian</B>-Mexican relations",
+        "<B>Austrian</B>-Montenegrin relations",
+        "<B>Austrian</B>-Romanian relations",
+        "<B>Austrian</B>-Slovak relations",
+        "<B>Austrian</B>-South Korean relations",
+        "<B>Austria</B>–Australia relations",
+        "<B>Austria</B>–Belarus relations",
+        "<B>Austria</B>–Belgium relations",
+        "<B>Austria</B>–Cyprus relations",
+        "<B>Austria</B>–Egypt relations",
+        "<B>Austria</B>–Estonia relations",
+        "<B>Austria</B>–Iceland relations",
+        "<B>Austria</B>–Ireland relations",
+        "<B>Austria</B>–Latvia relations",
+        "<B>Austria</B>–Lithuania relations",
+        "<B>Austria</B>–Malta relations",
+        "<B>Austria</B>–People's Republic of China relations",
+        "<B>Austria</B>–Portugal relations",
+        "<B>Austria</B>–Slovakia relations",
+        "<B>Austria</B>–Sweden relations",
+        "Belgium-<B>Austria</B> relations",
+        "Belgium - <B>Austria</B> relations",
+        "Belgium <B>Austria</B> relations",
+        "Belgium – <B>Austria</B> relations",
+        "Belgium–<B>Austria</B> relations",
+        "Egypt-<B>Austria</B> relations",
+        "Egypt - <B>Austria</B> relations",
+        "Egypt <B>Austria</B> relations",
+        "Egypt – <B>Austria</B> relations",
+        "Egypt–<B>Austria</B> relations",
+        "Foreign relations of <B>austria</B>",
+        "Transnational issues of <B>Austria</B>"
+      ],
+      "comment": [
+        "The 1955 <B>Austrian</B> State Treaty ended the four-power occupation and recognized <B>Austria</B> as an"
+      ],
+      "label": [
+        "Foreign relations of <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_Austria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2740.2952"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Airlines"
+      ],
+      "redirectlabel": [
+        "@ <B>austrian</B>",
+        "AUA Group",
+        "Aua.com",
+        "<B>Austrian</B> (airline)",
+        "<B>Austrian</B> Airlines AG",
+        "<B>Austrian</B> Airlines Group",
+        "<B>Austrianairlines.co.at</B>",
+        "Lufthansa <B>Austria</B>",
+        "Osterreichische Luftverkehrs",
+        "Osterreichische Luftverkehrs AG",
+        "Österreichische Luftverkehrs",
+        "Österreichische Luftverkehrs AG"
+      ],
+      "comment": [
+        "<B>Austrian</B> Airlines AG, sometimes shortened to <B>Austrian</B>, is the flag carrier of <B>Austria</B> and a"
+      ],
+      "label": [
+        "<B>Austrian</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Airlines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1957",
+        "http://dbpedia.org/resource/Category:Airlines_of_Austria",
+        "http://dbpedia.org/resource/Category:Association_of_European_Airlines_members",
+        "http://dbpedia.org/resource/Category:Austrian_brands",
+        "http://dbpedia.org/resource/Category:Austrian_companies_established_in_1957",
+        "http://dbpedia.org/resource/Category:Lufthansa_Group",
+        "http://dbpedia.org/resource/Category:Star_Alliance"
+      ]
+    },
+    {
+      "score": [
+        "2737.1455"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Littoral"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Coast Land",
+        "<B>Austrian</B> Coastal Land",
+        "Austrijsko primorje",
+        "Avstrijsko primorje",
+        "Kuestenland",
+        "Kustenland",
+        "Küstenland",
+        "Litorale <B>Austriaco</B>",
+        "Tengermellék",
+        "Österreichisches Küstenland"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Littoral (German: Österreichisches Küstenland, Italian: Litorale <B>Austriaco</B>, Croatian"
+      ],
+      "label": [
+        "<B>Austrian</B> Littoral"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Littoral"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Austrian_Littoral",
+        "http://dbpedia.org/resource/Category:History_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Empire_of_Austria_(1867–1918)",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1919",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1813"
+      ]
+    },
+    {
+      "score": [
+        "2493.683"
+      ],
+      "refCount": [
+        "1077"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/FK_Austria_Wien"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B> Magna",
+        "<B>Austria</B> Viena",
+        "<B>Austria</B> Vienna",
+        "<B>Austria</B> Vienna II",
+        "<B>Austria</B> Wien",
+        "FC <B>Austria</B>",
+        "FK <B>Austria</B>",
+        "FK <B>Austria</B> Vien",
+        "FK <B>Austria</B> Vienna",
+        "FK <B>Austria</B> Wien II",
+        "Fc <B>austria</B>",
+        "SV Amateure",
+        "Wiener Amateure"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " Vienna, and usually shortened to <B>Austria</B> in German-speaking countries), is an <B>Austrian</B> association"
+      ],
+      "label": [
+        "FK <B>Austria</B> Wien"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/FK_Austria_Wien"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1911_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1911",
+        "http://dbpedia.org/resource/Category:FK_Austria_Wien",
+        "http://dbpedia.org/resource/Category:Football_clubs_from_former_German_territories",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Vienna"
+      ]
+    },
+    {
+      "score": [
+        "2471.2751"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_wine"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B> (wine)",
+        "<B>Austria</B> wine",
+        "<B>Austria</B> wines",
+        "<B>Austrian</B> (wine)",
+        "<B>Austrian</B> Wine",
+        "<B>Austrian</B> wines",
+        "Südsteiermark",
+        "Wine from <B>Austria</B>",
+        "Wines from <B>Austria</B>"
+      ],
+      "comment": [
+        " the market for <B>Austrian</B> wine and compelled <B>Austria</B> to tackle low standards of bulk wine production"
+      ],
+      "label": [
+        "<B>Austrian</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_wine",
+        "http://dbpedia.org/resource/Category:Wine_regions_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2432.0898"
+      ],
+      "refCount": [
+        "1535"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Australian"
+      ],
+      "redirectlabel": [
+        "<B>Australian</B> (disambiguation)"
+      ],
+      "label": [
+        "<B>Australian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Australian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "2339.4187"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Open_(golf)"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Golf Open",
+        "BA-CA Golf Open",
+        "BA-CA Golf Open presented by Telekom <B>Austria</B>",
+        "BA CA Golf Open",
+        "BA CA Golf Open presented by Telekom <B>Austria</B>",
+        "Bank <B>Austria</B> GolfOpen",
+        "Diners Club <B>Austrian</B> Open",
+        "Hohe Brucke <B>Austrian</B> Open",
+        "Hohe Brucke Open",
+        "Hohe Brücke <B>Austrian</B> Open",
+        "Hohe Brücke Open",
+        "Lyoness Open",
+        "Matchmaker <B>Austrian</B> Open",
+        "Mitsubishi <B>Austrian</B> Open",
+        "Mitsubishi <B>Austrian</B> Open sponsored by Denzel",
+        "Shot Clock Masters"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        " as the <B>Austrian</B> Open in 1990, and was a European Tour event for seven straight years up to 1996"
+      ],
+      "label": [
+        "<B>Austrian</B> Open (golf)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Open_(golf)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Former_European_Tour_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Austria",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1990"
+      ]
+    },
+    {
+      "score": [
+        "2324.3374"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Decoration_for_Science_and_Art"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Badge of Honour for Science and Art",
+        "<B>Austrian</B> Cross of Honor for Science and Art, 1st class",
+        "<B>Austrian</B> Cross of Honor for Science and Art",
+        "<B>Austrian</B> Cross of Honour for Science and Art, 1st class",
+        "<B>Austrian</B> Cross of Honour for Science and Art",
+        "<B>Austrian</B> Decoration of Honour for Science and Art",
+        "<B>Austrian</B> Honor Cross for Science and Art",
+        "<B>Austrian</B> Honorary Cross for Science and Art",
+        "<B>Austrian</B> Medal for Science and Art",
+        "<B>Austrian</B> decoration of honour for science and art",
+        "Cross of honour litteris et artibus",
+        "Ehrenkreuz für Wissenschaft und Kunst",
+        "Ehrenzeichen für Wissenschaft und Kunst",
+        "Österreichischen Ehrenkreuzes für Wissenschaft und Kunst",
+        "Österreichisches Ehrenzeichen für Wissenschaft und Kunst"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Decoration for Science and Art (German: Österreichisches Ehrenzeichen für Wissenschaft"
+      ],
+      "label": [
+        "<B>Austrian</B> Decoration for Science and Art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Decoration_for_Science_and_Art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1955",
+        "http://dbpedia.org/resource/Category:Lists_of_Austrian_people",
+        "http://dbpedia.org/resource/Category:Orders,_decorations,_and_medals_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2292.2385"
+      ],
+      "refCount": [
+        "64"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Dalmatia"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Dalmatia",
+        "Dalmatia (<B>Austrian</B> crown land)",
+        "King of Dalmatia",
+        "Queen consort of Dalmatia",
+        "Queen of Dalmatia"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        ": Regno di Dalmazia) was a crown land of the <B>Austrian</B> Empire (1815–1867) and the Cisleithanian half of"
+      ],
+      "label": [
+        "Kingdom of Dalmatia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Dalmatia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Former_Italian-speaking_countries",
+        "http://dbpedia.org/resource/Category:Former_Slavic_countries",
+        "http://dbpedia.org/resource/Category:Former_countries_in_the_Balkans",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:History_of_Dalmatia",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Dalmatia",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Empire_of_Austria_(1867–1918)",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1815",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria-Hungary"
+      ]
+    },
+    {
+      "score": [
+        "2277.7114"
+      ],
+      "refCount": [
+        "101"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Freedom_Party_of_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Freedom Party",
+        "FPÖ",
+        "Fpoe",
+        "Fpö",
+        "Freedom Party (<B>Austria</B>)",
+        "Freedom party of <B>austria</B>",
+        "Freiheitliche Partei Osterreichs",
+        "Freiheitliche Partei Österreichs"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Freedom Party of <B>Austria</B> (German: Freiheitliche Partei Österreichs, FPÖ) is a right-wing"
+      ],
+      "label": [
+        "Freedom Party of <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Freedom_Party_of_Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Anti-Islam_political_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Anti-Islam_sentiment_in_Austria",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Defunct_liberal_political_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Eurosceptic_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Far-right_political_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Freedom_Party_of_Austria",
+        "http://dbpedia.org/resource/Category:German_nationalism_in_Austria",
+        "http://dbpedia.org/resource/Category:German_nationalist_political_parties",
+        "http://dbpedia.org/resource/Category:Islamophobia_in_Europe",
+        "http://dbpedia.org/resource/Category:Member_parties_of_the_Identity_and_Democracy_Party",
+        "http://dbpedia.org/resource/Category:National_conservative_parties",
+        "http://dbpedia.org/resource/Category:National_liberal_parties",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Austria",
+        "http://dbpedia.org/resource/Category:Parties_represented_in_the_European_Parliament",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1956",
+        "http://dbpedia.org/resource/Category:Right-wing_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Right-wing_populism_in_Austria",
+        "http://dbpedia.org/resource/Category:Right-wing_populist_parties",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "2257.8767"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Nazism"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> National Socialism",
+        "<B>Austrian</B> National Socialist",
+        "<B>Austrian</B> National Socialist Party",
+        "<B>Austrian</B> National Socialists",
+        "<B>Austrian</B> Nazi",
+        "<B>Austrian</B> Nazi Party",
+        "<B>Austrian</B> Nazis",
+        "Deutsche Nationalsozialistische Arbeiterpartei",
+        "Early National Socialism",
+        "German National Socialist Workers' Party (1918-1933)",
+        "German National Socialist Workers' Party (<B>Austria</B>)"
+      ],
+      "label": [
+        "<B>Austrian</B> Nazism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Nazism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Banned_far-right_parties",
+        "http://dbpedia.org/resource/Category:German_nationalism_in_Austria",
+        "http://dbpedia.org/resource/Category:German_nationalist_political_parties",
+        "http://dbpedia.org/resource/Category:Nazi_parties",
+        "http://dbpedia.org/resource/Category:Political_history_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2240.1995"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Economic_Chamber"
+      ],
+      "redirectlabel": [
+        "Advantage <B>Austria</B>",
+        "<B>Austrian</B> Chamber of Commerce",
+        "<B>Austrian</B> Federal Chamber of Trade and Industry",
+        "<B>Austrian</B> Federal Economic Chamber",
+        "Bundeswirtschaftskammer",
+        "Economic Chamber",
+        "Economic Chamber of <B>Austria</B>",
+        "Federal <B>Austrian</B> Chamber of Trade and Industry",
+        "Federal Chamber of Trade and Industry",
+        "Federal Economic Chamber",
+        "Federal Economic Chamber of <B>Austria</B>",
+        "The <B>Austrian</B> Federal Economic Chamber",
+        "WKÖ",
+        "Wirtschaftskammer",
+        "Wirtschaftskammer Osterreich",
+        "Wirtschaftskammer Österreich"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Federal Economic Chamber (de: Wirtschaftskammer Österreich or WKO) functions as the"
+      ],
+      "label": [
+        "<B>Austrian</B> Economic Chamber"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Economic_Chamber"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Business_organisations_based_in_Austria",
+        "http://dbpedia.org/resource/Category:Chambers_of_commerce"
+      ]
+    },
+    {
+      "score": [
+        "2233.2612"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Open_Kitzbühel"
+      ],
+      "redirectlabel": [
+        "ATP Kitzbuehel",
+        "ATP Kitzbuhel",
+        "ATP Kitzbühel",
+        "<B>Austrian</B> International Championships",
+        "<B>Austrian</B> Open (tennis)",
+        "<B>Austrian</B> Open Kitzbuehel",
+        "<B>Austrian</B> Open Kitzbuhel",
+        "Bet-at-home Cup Kitzbühel",
+        "EA-Generali Open",
+        "Generali Open",
+        "Generali Open Kitzbühel",
+        "Interwetten <B>Austrian</B> Open Kitzbuehel",
+        "Interwetten <B>Austrian</B> Open Kitzbühel",
+        "The Hypo Group Tennis International"
+      ],
+      "typeName": [
+        "WomensTennisAssociationTournament",
+        "Event",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Open Kitzbühel (formally known as the Generali Open Kitzbühel) and originally known as"
+      ],
+      "label": [
+        "<B>Austrian</B> Open Kitzbühel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Open_Kitzbühel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WomensTennisAssociationTournament",
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1894_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:ATP_Challenger_Tour",
+        "http://dbpedia.org/resource/Category:ATP_Tour_250",
+        "http://dbpedia.org/resource/Category:Austrian_Open_Kitzbühel",
+        "http://dbpedia.org/resource/Category:Clay_court_tennis_tournaments",
+        "http://dbpedia.org/resource/Category:Kitzbühel",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1894",
+        "http://dbpedia.org/resource/Category:Sport_in_Tyrol_(state)",
+        "http://dbpedia.org/resource/Category:Tennis_tournaments_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "2206.8657"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "10.1553",
+        "Acoustics Research Institute",
+        "<B>Austrian</B> Academy of Sciences Press",
+        "<B>Austrian</B> academy of sciences",
+        "Imperial Academy of Sciences in Vienna",
+        "Mediev. Worlds",
+        "Mediev Worlds",
+        "Medieval Worlds",
+        "Medieval worlds",
+        "Osterreichische Akademie der Wissenschaften",
+        "Verlag der Österreichischen Akademie der Wissenschaften",
+        "Vienna Academy of Sciences",
+        "ÖAW",
+        "Österreichische Akademie der Wissenschaften",
+        "Österreichischen Akademie der Wissenschaften"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Academy of Sciences (German: Österreichische Akademie der Wissenschaften) is a legal"
+      ],
+      "label": [
+        "<B>Austrian</B> Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Academy_of_Sciences"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_Academy_of_Sciences",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Vienna",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1921"
+      ]
+    },
+    {
+      "score": [
+        "2175.4685"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Federal_State_of_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Fascism",
+        "<B>Austrian</B> Fascist",
+        "<B>Austrian</B> Federal State",
+        "<B>Austrian</B> fascism",
+        "Austro-fascism",
+        "Austro-fascist",
+        "Austrofaschismus",
+        "Austrofascist",
+        "Staendestaat",
+        "Standestaat",
+        "Ständestaat"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Federal State of <B>Austria</B> (<B>Austrian</B> German: Bundesstaat Österreich ; colloquially known as the"
+      ],
+      "label": [
+        "Federal State of <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Federal_State_of_Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1934_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:1938_disestablishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrofascism",
+        "http://dbpedia.org/resource/Category:Fascist_states",
+        "http://dbpedia.org/resource/Category:Former_countries",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1938",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1934"
+      ]
+    },
+    {
+      "score": [
+        "2170.3286"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Death_Machine"
+      ],
+      "redirectlabel": [
+        "A Very Brutal Christmas",
+        "A Very Brutal Christmas EP",
+        "Jingle All The Way (<B>Austrian</B> Death Machine album)",
+        "Jingle All The Way EP",
+        "Jingle All the Way (<B>Austrian</B> Death Machine album)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "<B>Austrian</B> Death Machine is an American thrash metal side project from San Diego, California, founded"
+      ],
+      "label": [
+        "<B>Austrian</B> Death Machine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Death_Machine"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_parodists",
+        "http://dbpedia.org/resource/Category:Comedy_rock_musical_groups",
+        "http://dbpedia.org/resource/Category:Cultural_depictions_of_Arnold_Schwarzenegger",
+        "http://dbpedia.org/resource/Category:Metal_Blade_Records_artists",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_2008",
+        "http://dbpedia.org/resource/Category:Musical_groups_from_San_Diego",
+        "http://dbpedia.org/resource/Category:Parody_musicians",
+        "http://dbpedia.org/resource/Category:Thrash_metal_musical_groups_from_California"
+      ]
+    },
+    {
+      "score": [
+        "2137.2117"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Austrian_Football_Second_League"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Austrian</B> Football 2.Bundesliga",
+        "2018-19 <B>Austrian</B> Football Second League",
+        "2018–19 <B>Austrian</B> Football 2.Bundesliga"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Austrian</B> Football Second League is the 45th season of the <B>Austrian</B> second-level"
+      ],
+      "label": [
+        "2018–19 <B>Austrian</B> Football Second League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Austrian_Football_Second_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2._Liga_(Austria)_seasons",
+        "http://dbpedia.org/resource/Category:2018–19_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_second_tier_association_football_leagues"
+      ]
+    },
+    {
+      "score": [
+        "2102.88"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Central_Eastern_Alps"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Alps",
+        "<B>Austrian</B> Central Alps",
+        "<B>Austrian</B> alps",
+        "Central <B>Austrian</B> Alps",
+        "Ortler, Oetzthal and Stubai Ranges",
+        "Tirolean Alps",
+        "Zentralalpen",
+        "Zentrale Ostalpen",
+        "Österreichische Zentralalpen"
+      ],
+      "typeName": [
+        "Place",
+        "Mountain",
+        "Location",
+        "NaturalPlace"
+      ],
+      "comment": [
+        "The Central Eastern Alps (German: Zentralalpen or Zentrale Ostalpen), also referred to as <B>Austrian</B>"
+      ],
+      "label": [
+        "Central Eastern Alps"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Central_Eastern_Alps"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Mountain",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/NaturalPlace"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Central_Alps",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Austria",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Italy",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Liechtenstein",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Slovenia",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_Switzerland",
+        "http://dbpedia.org/resource/Category:Mountain_ranges_of_the_Alps"
+      ]
+    },
+    {
+      "score": [
+        "2079.5144"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Austrian_Football_Bundesliga"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Austrian</B> Football Bundesliga"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Austrian</B> Football Bundesliga was the 107th season of top-tier football in <B>Austria</B>. Red"
+      ],
+      "label": [
+        "2018–19 <B>Austrian</B> Football Bundesliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Austrian_Football_Bundesliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2073.905"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_schilling"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Schilling",
+        "<B>Austrian</B> schiling",
+        "<B>Austrian</B> shilling",
+        "ISO 4217:ATS",
+        "Osterreichischer Schilling",
+        "Österreichischer Schilling"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The schilling (German: Schilling) was the currency of <B>Austria</B> from 1925 to 1938 and from 1945 to"
+      ],
+      "label": [
+        "<B>Austrian</B> schilling"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_schilling"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1924_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:2001_disestablishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Currencies_of_Austria",
+        "http://dbpedia.org/resource/Category:Currencies_replaced_by_the_euro",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Austria",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "2039.1636"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_nationality_law"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B> citizenship",
+        "<B>Austria</B> nationality law",
+        "<B>Austrian</B> citizen",
+        "<B>Austrian</B> citizens",
+        "<B>Austrian</B> citizenship",
+        "History of <B>Austrian</B> nationality law",
+        "Nationality law of <B>Austria</B>"
+      ],
+      "comment": [
+        " principle of jus sanguinis. In other words, one usually acquires <B>Austrian</B> citizenship if a parent is <B>Austrian</B>, irrespective of place of birth."
+      ],
+      "label": [
+        "<B>Austrian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austria_and_the_European_Union",
+        "http://dbpedia.org/resource/Category:Law_of_Austria",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "2030.9277"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B>-American",
+        "<B>Austrian</B>-Americans",
+        "<B>Austrian</B> American",
+        "<B>Austrian</B>–American",
+        "History of <B>Austrian</B> Americans",
+        "List of <B>Austrian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " ancestry can trace their roots from the Habsburg territories of <B>Austria</B>, the <B>Austrian</B> Empire, or Cisl"
+      ],
+      "label": [
+        "<B>Austrian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Austrian_descent",
+        "http://dbpedia.org/resource/Category:Austrian_American",
+        "http://dbpedia.org/resource/Category:Austrian_diaspora",
+        "http://dbpedia.org/resource/Category:Austrian_diaspora_in_North_America",
+        "http://dbpedia.org/resource/Category:European-American_society"
+      ]
+    },
+    {
+      "score": [
+        "2000.9668"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anglo-Austrian_Alliance"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Austrian</B>-Accord",
+        "Anglo-<B>Austrian</B> Allianc",
+        "Anglo-<B>Austrian</B> Entente",
+        "Anglo-<B>Austrian</B> Treaty",
+        "Anglo-<B>Austrian</B> alliance",
+        "Anglo–<B>Austrian</B> Alliance",
+        "<B>Austrian</B>-British Alliance",
+        "British-<B>Austrian</B> Alliance"
+      ],
+      "comment": [
+        "The Anglo-<B>Austrian</B> Alliance connected the Kingdom of Great Britain and the Habsburg Monarchy during"
+      ],
+      "label": [
+        "Anglo-<B>Austrian</B> Alliance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anglo-Austrian_Alliance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1731_in_Great_Britain",
+        "http://dbpedia.org/resource/Category:1731_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:1731_treaties",
+        "http://dbpedia.org/resource/Category:18th-century_military_alliances",
+        "http://dbpedia.org/resource/Category:18th_century_in_Austria",
+        "http://dbpedia.org/resource/Category:Austria–United_Kingdom_military_relations",
+        "http://dbpedia.org/resource/Category:Geopolitical_rivalry",
+        "http://dbpedia.org/resource/Category:Great_Britain–Habsburg_Monarchy_relations",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_Austria",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_the_Kingdom_of_Great_Britain",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:Treaties_of_the_Kingdom_of_Great_Britain"
+      ]
+    },
+    {
+      "score": [
+        "1995.4332"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_of_the_1960s"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> films of 1960",
+        "<B>Austrian</B> films of 1961",
+        "<B>Austrian</B> films of 1962",
+        "<B>Austrian</B> films of 1963",
+        "<B>Austrian</B> films of 1964",
+        "<B>Austrian</B> films of 1965",
+        "<B>Austrian</B> films of 1966",
+        "<B>Austrian</B> films of 1967",
+        "<B>Austrian</B> films of 1968",
+        "<B>Austrian</B> films of 1969",
+        "<B>Austrian</B> films of the 1960s",
+        "List of <B>Austrian</B> films: 1960s"
+      ],
+      "comment": [
+        " alphabetical list of articles on <B>Austrian</B> films see Category:Austrian films."
+      ],
+      "label": [
+        "List of <B>Austrian</B> films of the 1960s"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_of_the_1960s"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Austria",
+        "http://dbpedia.org/resource/Category:Lists_of_1960s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_Austrian_films_by_decade"
+      ]
+    },
+    {
+      "score": [
+        "1995.4332"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_of_the_1950s"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> films of 1950",
+        "<B>Austrian</B> films of 1951",
+        "<B>Austrian</B> films of 1952",
+        "<B>Austrian</B> films of 1953",
+        "<B>Austrian</B> films of 1954",
+        "<B>Austrian</B> films of 1955",
+        "<B>Austrian</B> films of 1956",
+        "<B>Austrian</B> films of 1957",
+        "<B>Austrian</B> films of 1958",
+        "<B>Austrian</B> films of 1959",
+        "<B>Austrian</B> films of the 1950s",
+        "List of <B>Austrian</B> films: 1950s"
+      ],
+      "comment": [
+        " alphabetical list of articles on <B>Austrian</B> films see Category:Austrian films."
+      ],
+      "label": [
+        "List of <B>Austrian</B> films of the 1950s"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_of_the_1950s"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1950s_in_Austria",
+        "http://dbpedia.org/resource/Category:Lists_of_1950s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_Austrian_films_by_decade"
+      ]
+    },
+    {
+      "score": [
+        "1995.4332"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_of_the_1920s"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> films of 1920",
+        "<B>Austrian</B> films of 1921",
+        "<B>Austrian</B> films of 1922",
+        "<B>Austrian</B> films of 1923",
+        "<B>Austrian</B> films of 1924",
+        "<B>Austrian</B> films of 1925",
+        "<B>Austrian</B> films of 1926",
+        "<B>Austrian</B> films of 1927",
+        "<B>Austrian</B> films of 1928",
+        "<B>Austrian</B> films of 1929",
+        "<B>Austrian</B> films of the 1920s",
+        "List of <B>Austrian</B> films: 1920s"
+      ],
+      "comment": [
+        " alphabetical list of articles on <B>Austrian</B> films see Category:Austrian films."
+      ],
+      "label": [
+        "List of <B>Austrian</B> films of the 1920s"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_of_the_1920s"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920s_in_Austria",
+        "http://dbpedia.org/resource/Category:Lists_of_1920s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_Austrian_films_by_decade"
+      ]
+    },
+    {
+      "score": [
+        "1993.7833"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Grand_Austrian_State_Prize"
+      ],
+      "redirectlabel": [
+        "Grand <B>Austrian</B> State Prize for Architecture",
+        "Grand <B>Austrian</B> State Prize for Literature",
+        "Grand <B>Austrian</B> State Prize for Music",
+        "Grand <B>Austrian</B> State Prize for Visual Art",
+        "Grand <B>Austrian</B> State Prize for Visual Arts",
+        "Great <B>Austrian</B> State Prize",
+        "Grosser Osterreichischer Staatspreis",
+        "Großer Österreichischer Staatspreis"
+      ],
+      "comment": [
+        " annually by <B>Austria</B> to an artist for exceptional work. The recipient must be an <B>Austrian</B> citizen"
+      ],
+      "label": [
+        "Grand <B>Austrian</B> State Prize"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Grand_Austrian_State_Prize"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Architecture_awards",
+        "http://dbpedia.org/resource/Category:Arts_awards_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_art"
+      ]
+    },
+    {
+      "score": [
+        "1989.5286"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Austria</B>",
+        "<B>Austria</B> Air Force",
+        "<B>Austrian</B> Army Aviation",
+        "<B>Austrian</B> air defence",
+        "History of the <B>Austrian</B> Air Force",
+        "Österreichische Luftstreitkräfte"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Air Force (German: Österreichische Luftstreitkräfte) is a component part of the <B>Austrian</B> armed forces (the Bundesheer)."
+      ],
+      "label": [
+        "<B>Austrian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Aviation_in_Austria",
+        "http://dbpedia.org/resource/Category:Military_of_Austria",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1955"
+      ]
+    },
+    {
+      "score": [
+        "1964.3082"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Peter_Alexander_(Austrian_performer)"
+      ],
+      "redirectlabel": [
+        "Peter Alexander (1926-2011)",
+        "Peter Alexander (1926–2011)",
+        "Peter Alexander (<B>Austrian</B> actor and singer)",
+        "Peter Alexander (<B>Austrian</B> singer)",
+        "Peter Alexander (performer)",
+        "Peter Alexander (singer)",
+        "Peter Alexander Ferdinand Maximilian Neumayer",
+        "Peter Alexander Neumayer",
+        "Peter Neumayer"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        " Peter Alexander, was an <B>Austrian</B> actor, singer and one of the most popular entertainers in the"
+      ],
+      "label": [
+        "Peter Alexander (<B>Austrian</B> performer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Peter_Alexander_(Austrian_performer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1926_births",
+        "http://dbpedia.org/resource/Category:2011_deaths",
+        "http://dbpedia.org/resource/Category:20th-century_Austrian_male_actors",
+        "http://dbpedia.org/resource/Category:20th-century_Austrian_male_singers",
+        "http://dbpedia.org/resource/Category:Austrian_male_film_actors",
+        "http://dbpedia.org/resource/Category:Luftwaffenhelfer",
+        "http://dbpedia.org/resource/Category:Musicians_from_Vienna",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Austrian_Cross_of_Honour_for_Science_and_Art,_1st_class",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Bambi_(prize)",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Grand_Decoration_for_Services_to_the_Republic_of_Austria",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Romy_(TV_award)",
+        "http://dbpedia.org/resource/Category:Schlager_musicians"
+      ]
+    },
+    {
+      "score": [
+        "1955.541"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Flags_and_coats_of_arms_of_the_Austrian_states"
+      ],
+      "redirectlabel": [
+        "Armorial of <B>Austria</B>",
+        "Armorial of <B>Austrian</B> states",
+        "<B>Austrian</B> flags",
+        "<B>Austrian</B> state flags",
+        "Coats of arms of the <B>Austrian</B> states",
+        "Coats of arms of the <B>austrian</B> states",
+        "Flags and coats of arms of <B>Austrian</B> states",
+        "Flags of <B>Austrian</B> states",
+        "Flags of <B>austrian</B> states",
+        "Flags of the <B>Austrian</B> states",
+        "Flags of the lands of <B>Austria</B>",
+        "Flags of the states of <B>Austria</B>",
+        "List of <B>Austrian</B> state flags",
+        "List of state flags of <B>Austria</B>",
+        "State flags of <B>Austria</B>"
+      ],
+      "comment": [
+        "The flags of the <B>Austrian</B> states show two (or three) stripes in the main colours of the respective"
+      ],
+      "label": [
+        "Flags and coats of arms of the <B>Austrian</B> states"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Flags_and_coats_of_arms_of_the_Austrian_states"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Armorials_by_country",
+        "http://dbpedia.org/resource/Category:Austria_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Austrian_coats_of_arms",
+        "http://dbpedia.org/resource/Category:Flags_of_Austria",
+        "http://dbpedia.org/resource/Category:Flags_of_country_subdivisions",
+        "http://dbpedia.org/resource/Category:Lists_and_galleries_of_flags"
+      ]
+    },
+    {
+      "score": [
+        "1911.1409"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Federation_of_Austrian_Industries"
+      ],
+      "redirectlabel": [
+        "Federation of <B>Austrian</B> Industry",
+        "Federation of Industries (<B>Austria</B>)",
+        "Federation of <B>austrian</B> industry",
+        "Industriellenvereinigung",
+        "Industrievereinigung",
+        "League of <B>Austrian</B> Industrialists",
+        "The Federation of <B>Austrian</B> Industries",
+        "VOeI",
+        "Vereinigung der Oesterreichischen Industrie",
+        "Vereinigung der Osterreichischen Industrie",
+        "Vereinigung der Österreichischen Industrie"
+      ],
+      "comment": [
+        "The Federation of <B>Austrian</B> Industries (de: Industriellenvereinigung, short form IV) is the"
+      ],
+      "label": [
+        "Federation of <B>Austrian</B> Industries"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Federation_of_Austrian_Industries"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Business_organisations_based_in_Austria",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Vienna"
+      ]
+    },
+    {
+      "score": [
+        "1863.076"
+      ],
+      "refCount": [
+        "952"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Australian_Army"
+      ],
+      "redirectlabel": [
+        "AUS Army",
+        "Army of Australia",
+        "<B>Australian</B> Army Journal",
+        "<B>Australian</B> Ground Forces",
+        "<B>Australian</B> Regular Army",
+        "<B>Australian</B> army",
+        "<B>Australian</B> soldier",
+        "<B>Australian</B> troops",
+        "Recruitment in the <B>Australian</B> Army",
+        "Royal <B>Australian</B> Army",
+        "Royal <B>Australian</B> Army Corps"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Australian</B> Army is Australia's military land force. Formed in 1901 through the amalgamation of"
+      ],
+      "label": [
+        "<B>Australian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Australian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1901_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Australian_Army",
+        "http://dbpedia.org/resource/Category:Cold_War_history_of_Australia"
+      ]
+    },
+    {
+      "score": [
+        "1843.3353"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Regionalliga"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Austrian</B> Football Regionalliga",
+        "2019–20 <B>Austrian</B> Football Regionalliga",
+        "<B>Austrian</B> Regional League",
+        "<B>Austrian</B> Regionalliga (football)",
+        "Osterreichische Fussball-Regionalliga",
+        "Regionalliga (<B>Austria</B>)",
+        "Österreichische Fußball-Regionalliga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Regionalliga (German: Regionalliga or plural Regionalligen, means Regional League) is"
+      ],
+      "label": [
+        "<B>Austrian</B> Regionalliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Regionalliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1959_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_Regionalliga",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Austria",
+        "http://dbpedia.org/resource/Category:Third_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1819.5673"
+      ],
+      "refCount": [
+        "167"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Galicia_and_Lodomeria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Galicia",
+        "<B>Austrian</B> Poland",
+        "Austro-Hungarian Galicia",
+        "Galicia-Lodomeria",
+        "Galicia and Lodomeria",
+        "Galicia and Ludomaria",
+        "Habsburg Galicia",
+        "King of Lodomeria",
+        "Kingdom of Galicia & Lodomeria",
+        "Królestwo Galicji i Lodomerii wraz z Wielkim Księstwem Krakowskim i Księstwem Oświęcimia i Zatoru",
+        "Königreich Galizien und Lodomerien mit dem Großherzogtum Krakau und den Herzogtümern Auschwitz und Zator",
+        "Poles in <B>Austria</B>-Hungary",
+        "Queen consort of Galicia and Lodomeria",
+        "Queen of Galicia",
+        "Queen of Lodomeria",
+        "Королівство Галичини і Лодомерії"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of Galicia and Lodomeria, also known simply as Galicia or <B>Austrian</B> Poland, was"
+      ],
+      "label": [
+        "Kingdom of Galicia and Lodomeria"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Galicia_and_Lodomeria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1772_establishments_in_Poland",
+        "http://dbpedia.org/resource/Category:1772_establishments_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Poland",
+        "http://dbpedia.org/resource/Category:Carpathians",
+        "http://dbpedia.org/resource/Category:Former_Slavic_countries",
+        "http://dbpedia.org/resource/Category:Former_countries",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Geographic_history_of_Ukraine",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_the_Kingdom_of_Hungary",
+        "http://dbpedia.org/resource/Category:History_of_Galicia_(Eastern_Europe)",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Galicia_and_Lodomeria",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Empire_of_Austria_(1867–1918)",
+        "http://dbpedia.org/resource/Category:Partitions_of_Poland",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1772",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Habsburg_Monarchy"
+      ]
+    },
+    {
+      "score": [
+        "1816.7749"
+      ],
+      "refCount": [
+        "1362"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Australian_rules_football_positions"
+      ],
+      "redirectlabel": [
+        "AFL positions",
+        "Afl position",
+        "Afl positions",
+        "<B>Australian</B> Rules Football positions",
+        "<B>Australian</B> Rules football positions",
+        "<B>Australian</B> rules football on-field positions",
+        "Back-pocket",
+        "Back pocket",
+        "Backline (football)",
+        "Defender (<B>Australian</B> rules football)",
+        "Football (<B>Australian</B> rules) positions",
+        "Forward-line",
+        "Forward (<B>Australian</B> rules football)",
+        "Forward line",
+        "Forward pocket",
+        "Full-back (<B>Australian</B> rules football)",
+        "Full back (<B>Australian</B> rules football)",
+        "Fullback (<B>Australian</B> rules football)",
+        "Handy utility",
+        "Midfielder (<B>Australian</B> Rules)",
+        "Midfielder (<B>Australian</B> rules football)",
+        "Power forward (<B>Australian</B> rules football)",
+        "Tagger (<B>Australian</B> rules football)",
+        "Utility (<B>Australian</B> rules football)"
+      ],
+      "comment": [
+        "In the sport of <B>Australian</B> rules football, each of the eighteen players in a team is assigned to a"
+      ],
+      "label": [
+        "<B>Australian</B> rules football positions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Australian_rules_football_positions"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_rules_football_terminology",
+        "http://dbpedia.org/resource/Category:Football_positions"
+      ]
+    },
+    {
+      "score": [
+        "1808.6064"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Question",
+        "History of <B>Austrian</B> nationalism"
+      ],
+      "comment": [
+        "<B>Austrian</B> nationalism is the nationalism that asserts that <B>Austrians</B> are a nation and promotes the"
+      ],
+      "label": [
+        "<B>Austrian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_nationalism",
+        "http://dbpedia.org/resource/Category:Politics_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1802.9397"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1911–12_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1911-12 <B>Austrian</B> First Class",
+        "1911-12 <B>Austrian</B> Football Championship",
+        "1911-12 <B>Austrian</B> football championship",
+        "1911–12 <B>Austrian</B> Football Championship",
+        "1911–12 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1911-12",
+        "<B>Austrian</B> Football Bundesliga 1911–12",
+        "<B>Austrian</B> football championship 1911-12",
+        "<B>Austrian</B> football championship 1911–12"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1911–12 <B>Austrian</B> First Class season was the first season of top-tier football in <B>Austria</B>. It"
+      ],
+      "label": [
+        "1911–12 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1911–12_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1911–12_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1911–12_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1801.283"
+      ],
+      "refCount": [
+        "1671"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Australian_Labor_Party"
+      ],
+      "redirectlabel": [
+        "ALP (Australia)",
+        "<B>Australian</B> Labor",
+        "<B>Australian</B> Labour",
+        "<B>Australian</B> Labour Party",
+        "Country Labor",
+        "Country Labor Party",
+        "Labor (Australia)",
+        "Labor Environment Action Network",
+        "Labor Party (Australia)",
+        "Labor Party of Australia",
+        "Labour Party (Australia)",
+        "Labour Party of Australia"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Australian</B> Labor Party (ALP), also simply known as Labor and historically spelt Labour, is a"
+      ],
+      "label": [
+        "<B>Australian</B> Labor Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Australian_Labor_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1891_establishments_in_Australia",
+        "http://dbpedia.org/resource/Category:Australian_Labor_Party",
+        "http://dbpedia.org/resource/Category:Australian_labour_movement",
+        "http://dbpedia.org/resource/Category:Centre-left_parties",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Oceania",
+        "http://dbpedia.org/resource/Category:Former_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Labour_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1891",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance",
+        "http://dbpedia.org/resource/Category:Republican_parties_in_Australia",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Oceania"
+      ]
+    },
+    {
+      "score": [
+        "1790.4099"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_colonial_policy"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Colonial History",
+        "<B>Austrian</B> Mozambique",
+        "<B>Austrian</B> colonial empire",
+        "Colonial policy of <B>Austria</B>-Hungary",
+        "Colonial policy of the <B>Austrian</B> Empire",
+        "Colonial policy of the Habsburg Monarchy",
+        "Habsburg Monarchy colonies",
+        "List of former <B>Austrian</B> colonies"
+      ],
+      "comment": [
+        "From the 17th century through to the 19th century, the Habsburg Monarchy, <B>Austrian</B> Empire, and"
+      ],
+      "label": [
+        "<B>Austrian</B> colonial policy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_colonial_policy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Colonial_history_of_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:European_colonisation_in_Asia",
+        "http://dbpedia.org/resource/Category:History_of_European_colonialism",
+        "http://dbpedia.org/resource/Category:Overseas_empires"
+      ]
+    },
+    {
+      "score": [
+        "1778.9434"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Football_League"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Bowl"
+      ],
+      "typeName": [
+        "Organisation",
+        "AmericanFootballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Football League (AFL) is the elite league of American football in <B>Austria</B>. The league"
+      ],
+      "label": [
+        "<B>Austrian</B> Football League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Football_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/AmericanFootballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1984_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:American_expatriate_sportspeople_in_Austria",
+        "http://dbpedia.org/resource/Category:American_football_in_Austria",
+        "http://dbpedia.org/resource/Category:American_football_in_Slovenia",
+        "http://dbpedia.org/resource/Category:American_football_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Austria",
+        "http://dbpedia.org/resource/Category:Sport_in_Austria",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1984"
+      ]
+    },
+    {
+      "score": [
+        "1775.3683"
+      ],
+      "refCount": [
+        "267"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bohemia"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Bohemia",
+        "Boehmen",
+        "Bohemia, Czech Republic",
+        "Bohemia, Czechia",
+        "Bohemia (Czech Republic)",
+        "Bohemia (Czechia)",
+        "Bohemia (region)",
+        "Bohemia proper",
+        "Bohemian (demonym)",
+        "Bohemian Czechia",
+        "Bohemian Czechs",
+        "Bohemians (Czechs)",
+        "Bohmen",
+        "Böhmen",
+        "Bōiohǽmum",
+        "Czechia, Bohemia",
+        "Czechia (Bohemia)",
+        "Czechs (Bohemians)",
+        "Habsburg Bohemia",
+        "History of Bohemia",
+        "History of bohemia",
+        "Northern Bohemia"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Bohemia ( boh-HEE-mee-ə; Czech: Čechy; German: ; Polish: Czechy; Latin: Bohemia; Hebrew: פּיהם‎, romanized: Pihm) is the westernmost and largest historical region of the Czech lands in the present-day Czech Republic. In a broader meaning, Bohemia sometimes refers to the entire Czech territory, including Moravia and Czech Silesia, especially in a historical context, such as the Lands of the Bohemian Crown ruled by Bohemian kings."
+      ],
+      "label": [
+        "Bohemia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bohemia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bohemia",
+        "http://dbpedia.org/resource/Category:Geography_of_Central_Europe",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Historical_regions",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:History_of_Bohemia"
+      ]
+    },
+    {
+      "score": [
+        "1770.1407"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_before_1920"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> films: 1907 - 1919",
+        "<B>Austrian</B> films of 1915",
+        "<B>Austrian</B> films of 1916",
+        "<B>Austrian</B> films of 1917",
+        "<B>Austrian</B> films of 1918",
+        "<B>Austrian</B> films of 1919",
+        "<B>Austrian</B> films to 1919",
+        "List of <B>Austrian</B> films: 1907-1919",
+        "List of <B>Austrian</B> films before 1919"
+      ],
+      "comment": [
+        " alphabetical list of articles on <B>Austrian</B> films see Category:Austrian films."
+      ],
+      "label": [
+        "List of <B>Austrian</B> films before 1920"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Austrian_films_before_1920"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1900s_in_Austria",
+        "http://dbpedia.org/resource/Category:1910s_in_Austria",
+        "http://dbpedia.org/resource/Category:Lists_of_1900s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_1910s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_Austrian_films_by_decade"
+      ]
+    },
+    {
+      "score": [
+        "1765.0049"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Journal_of_Austrian-American_History"
+      ],
+      "redirectlabel": [
+        "J. <B>Austrian</B>-Am. Hist.",
+        "J. <B>Austrian</B>-Amer. Hist.",
+        "J. <B>Austrian</B> Am. Hist.",
+        "J. <B>Austrian</B> Amer. Hist.",
+        "J <B>Austrian</B>-Am Hist",
+        "J <B>Austrian</B>-Amer Hist",
+        "J <B>Austrian</B> Am Hist",
+        "J <B>Austrian</B> Amer Hist"
+      ],
+      "typeName": [
+        "WrittenWork",
+        "AcademicJournal",
+        "Work",
+        "PeriodicalLiterature"
+      ],
+      "comment": [
+        "The Journal of <B>Austrian</B>-American History is a biannual, open access, peer-reviewed scholarly"
+      ],
+      "label": [
+        "Journal of <B>Austrian</B>-American History"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Journal_of_Austrian-American_History"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/AcademicJournal",
+        "http://dbpedia.org/ontology/Work",
+        "http://dbpedia.org/ontology/PeriodicalLiterature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Academic_Press_academic_journals",
+        "http://dbpedia.org/resource/Category:Austria–United_States_relations",
+        "http://dbpedia.org/resource/Category:Habsburg_monarchy",
+        "http://dbpedia.org/resource/Category:Penn_State_University_Press_academic_journals"
+      ]
+    },
+    {
+      "score": [
+        "1748.417"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Ladies_Open"
+      ],
+      "redirectlabel": [
+        "Chrysler Ladies <B>Austrian</B> Open",
+        "Glashütte Ladies' <B>Austrian</B> Open",
+        "Ladies <B>Austrian</B> Open",
+        "OVB Damen Open <B>Austria</B>",
+        "Siemens <B>Austrian</B> Ladies Golf Open",
+        "Siemens <B>Austrian</B> Ladies Open",
+        "UNIQA Ladies Golf Open"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Ladies Open was a professional golf tournament on the Ladies European Tour that is"
+      ],
+      "label": [
+        "<B>Austrian</B> Ladies Open"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Ladies_Open"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Former_Ladies_European_Tour_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1709.6982"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/New_Austrian_tunneling_method"
+      ],
+      "redirectlabel": [
+        "NATM",
+        "New <B>Austrian</B> Tunneling method",
+        "New <B>Austrian</B> Tunnelling Method",
+        "New <B>Austrian</B> Tunnelling method",
+        "New <B>Austrian</B> tunnelling method",
+        "New <B>austrian</B> tunnelling method",
+        "Sequential Excavation Method",
+        "Sequential excavation method"
+      ],
+      "label": [
+        "New <B>Austrian</B> tunneling method"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/New_Austrian_tunneling_method"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Rock_mass_classification",
+        "http://dbpedia.org/resource/Category:Tunnel_construction"
+      ]
+    },
+    {
+      "score": [
+        "1698.3861"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Partition"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> partition",
+        "<B>Austrian</B> partition of Poland",
+        "The <B>Austrian</B> Partition"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Partition (Polish: zabór austriacki) comprise the former territories of the Polish"
+      ],
+      "label": [
+        "<B>Austrian</B> Partition"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Partition"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1772_establishments_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:History_of_Poland_(1795–1918)",
+        "http://dbpedia.org/resource/Category:Partitions_of_Poland"
+      ]
+    },
+    {
+      "score": [
+        "1686.994"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Basketball_Bundesliga"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Basketball League",
+        "Osterreichische Basketball Bundesliga",
+        "SK Handelsministerium",
+        "Union Babenberg",
+        "Union SPI Basketball",
+        "Österreichische Basketball Bundesliga"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Basketball Bundesliga (in German: Österreichische Basketball Bundesliga) was the top"
+      ],
+      "label": [
+        "<B>Austrian</B> Basketball Bundesliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Basketball_Bundesliga"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1947_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Austria",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:National_championships_in_Austria",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1947",
+        "http://dbpedia.org/resource/Category:Österreichische_Basketball_Bundesliga"
+      ]
+    },
+    {
+      "score": [
+        "1684.6918"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–12_Austrian_Football_Bundesliga"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Austrian</B> Football Bundesliga",
+        "2011-12 <B>Austrian</B> Football Championship",
+        "2011-12 <B>Austrian</B> Football First League",
+        "2011-12 Regionalliga Mitte",
+        "2011-12 Regionalliga Ost season",
+        "2011-12 Regionalliga West",
+        "2011–12 <B>Austrian</B> Football Championship",
+        "2011–12 Regionalliga Mitte",
+        "2011–12 Regionalliga Ost season",
+        "2011–12 Regionalliga West"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2011–12 <B>Austrian</B> Football Bundesliga will be the 100th season of top-tier football in <B>Austria</B>"
+      ],
+      "label": [
+        "2011–12 <B>Austrian</B> Football Bundesliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–12_Austrian_Football_Bundesliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011–12_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:2011–12_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1684.611"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Pinscher"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Short Haired Pinscher",
+        "<B>Austrian</B> Shorthaired Pinscher",
+        "Osterreichischen Kurzhaanigen Pinscher",
+        "Osterreichischer Kurzhaariger Pinscher",
+        "Osterreichischer Kurzhaarpinscher",
+        "Österreichischen Kurzhaanigen Pinscher",
+        "Österreichischer Kurzhaarpinscher",
+        "Österreichischer Pinscher"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Pinscher (Österreichischer Pinscher, FCI No. 64) is a medium-sized breed of pinscher"
+      ],
+      "label": [
+        "<B>Austrian</B> Pinscher"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Pinscher"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dog_breeds_originating_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1675.4556"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1924–25_Austrian_First_League"
+      ],
+      "redirectlabel": [
+        "1924-25 <B>Austrian</B> First Class",
+        "1924-25 <B>Austrian</B> First League",
+        "1924-25 <B>Austrian</B> football championship",
+        "1924–25 <B>Austrian</B> First Class",
+        "1924–25 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1924-25",
+        "<B>Austrian</B> football championship 1924-25",
+        "<B>Austrian</B> football championship 1924–25"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "label": [
+        "1924–25 <B>Austrian</B> First League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1924–25_Austrian_First_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1924–25_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1924–25_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1673.2291"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Parliament"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> parliament",
+        "Federal Parliament of <B>Austria</B>",
+        "Parliament of <B>Austria</B>",
+        "Parliament of <B>austria</B>",
+        "Österreichisches Parlament"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Parliament (German: Österreichisches Parlament) is the bicameral federal legislature"
+      ],
+      "label": [
+        "<B>Austrian</B> Parliament"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Parliament"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_Parliament",
+        "http://dbpedia.org/resource/Category:Bicameral_legislatures",
+        "http://dbpedia.org/resource/Category:National_legislatures",
+        "http://dbpedia.org/resource/Category:Parliaments_by_country",
+        "http://dbpedia.org/resource/Category:Politics_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1672.2449"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_nobility"
+      ],
+      "redirectlabel": [
+        "Adelsaufhebungsgesetz",
+        "<B>Austrian</B> aristocracy",
+        "<B>Austrian</B> nobles",
+        "Erbsälzer"
+      ],
+      "comment": [
+        " abolished in 1919 after the fall of <B>Austria</B>-Hungary. The nobles are still part of <B>Austrian</B> society today"
+      ],
+      "label": [
+        "<B>Austrian</B> nobility"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_nobility"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_nobility"
+      ]
+    },
+    {
+      "score": [
+        "1664.9998"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003–04_Austrian_Hockey_League_season"
+      ],
+      "redirectlabel": [
+        "2003-04 <B>Austrian</B> Hockey League season",
+        "<B>Austrian</B> Hockey League season, 2003-04",
+        "<B>Austrian</B> Hockey League season, 2003–04",
+        "<B>Austrian</B> Hockey League season (2003-04)",
+        "<B>Austrian</B> Hockey League season (2003–04)",
+        "<B>Austrian</B> Hockey League season 2003-04",
+        "<B>Austrian</B> Hockey League season 2003–04",
+        "<B>Austrian</B> Hockey League season of 2003-04",
+        "<B>Austrian</B> Hockey League season of 2003–04"
+      ],
+      "comment": [
+        "The 2003–04 <B>Austrian</B> Hockey League season was the 74th season of the <B>Austrian</B> Hockey League, the"
+      ],
+      "label": [
+        "2003–04 <B>Austrian</B> Hockey League season"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003–04_Austrian_Hockey_League_season"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003–04_in_Austrian_ice_hockey_leagues",
+        "http://dbpedia.org/resource/Category:2003–04_in_European_ice_hockey_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Hockey_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1654.6625"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_Austrian_Regionalliga"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Austrian</B> Regional Leagues",
+        "2017-18 <B>Austrian</B> Regionalliga",
+        "2017–18 <B>Austrian</B> Regional Leagues"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2017–18 <B>Austrian</B> Regionalliga was the 59th season of the <B>Austrian</B> third-tier football league"
+      ],
+      "label": [
+        "2017–18 <B>Austrian</B> Regionalliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_Austrian_Regionalliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017–18_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:2017–18_in_European_third_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Regionalliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1650.0001"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Standards_International"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Standards",
+        "<B>Austrian</B> Standards Institute",
+        "OENORM",
+        "ON-Regel",
+        "ONORM",
+        "ONR (standard)",
+        "ÖNORM"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Austrian</B> Standards International (formerly German: Österreichisches Normungsinstitut), abbreviated"
+      ],
+      "label": [
+        "<B>Austrian</B> Standards International"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Standards_International"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Electrical_safety_standards_organizations",
+        "http://dbpedia.org/resource/Category:ISO_member_bodies",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Vienna"
+      ]
+    },
+    {
+      "score": [
+        "1639.5079"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/States_of_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Länder",
+        "<B>Austrian</B> state",
+        "<B>Austrian</B> states",
+        "Bundesland (<B>Austria</B>)",
+        "Constituent states of the Republic of <B>Austria</B>",
+        "Countries of <B>Austria</B>",
+        "Lander of <B>Austria</B>",
+        "List of <B>Austrian</B> states by area",
+        "List of regions of <B>Austria</B>",
+        "Local government in <B>Austria</B>",
+        "Länder of <B>Austria</B>",
+        "Ranked list of <B>Austrian</B> states",
+        "Regions of <B>Austria</B>",
+        "State (<B>Austria</B>)",
+        "State of <B>Austria</B>",
+        "States of <B>austria</B>"
+      ],
+      "comment": [
+        "<B>Austria</B> is a federal republic made up of nine states, known in German as Länder. Since Land is also"
+      ],
+      "label": [
+        "States of <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/States_of_Austria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:Austria_geography-related_lists",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_administrative_divisions",
+        "http://dbpedia.org/resource/Category:States_of_Austria",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1635.527"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> February Uprising",
+        "Koxfoho war",
+        "Österreichischer Bürgerkrieg"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Civil War (German: Österreichischer Bürgerkrieg), also known as the February Uprising"
+      ],
+      "label": [
+        "<B>Austrian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1934_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_Civil_War",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:February_1934_events"
+      ]
+    },
+    {
+      "score": [
+        "1602.2269"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1914–15_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1914-15 <B>Austrian</B> First Class",
+        "1914-15 <B>Austrian</B> football championship",
+        "1914–15 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1914-15",
+        "<B>Austrian</B> Football Bundesliga 1914–15",
+        "<B>Austrian</B> football championship 1914-15",
+        "<B>Austrian</B> football championship 1914–15"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1914–15 <B>Austrian</B> First Class season was the fourth season of top-tier football in <B>Austria</B>. It was won by Wiener AC."
+      ],
+      "label": [
+        "1914–15 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1914–15_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1914–15_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1914–15_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1601.3865"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B>-Jewish",
+        "<B>Austrian</B> Jew",
+        "<B>Austrian</B> Jewish",
+        "<B>Austrian</B> Jews",
+        "<B>Austrian</B> jew",
+        "Bundesverband der Israelitischen Kultusgemeinden Österreichs",
+        "History of Jews in <B>Austria</B>",
+        "History of the jews in <B>austria</B>",
+        "Holocaust in <B>Austria</B>",
+        "Jewish-<B>Austrian</B>",
+        "Jewish <B>Austrian</B>",
+        "Jewish <B>Austrians</B>",
+        "Jewish history of <B>Austria</B>",
+        "Jews in <B>Austria</B>",
+        "Jews of <B>Austria</B>",
+        "Judaism in <B>Austria</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The history of the Jews in <B>Austria</B> probably begins with the exodus of Jews from Judea under Roman"
+      ],
+      "label": [
+        "History of the Jews in <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austria–Israel_relations",
+        "http://dbpedia.org/resource/Category:Jewish_Austrian_history",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_diaspora_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1601.1873"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1918–19_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1918-19 <B>Austrian</B> First Class",
+        "1918-19 <B>Austrian</B> football championship",
+        "1918–19 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1918-19",
+        "<B>Austrian</B> Football Bundesliga 1918–19",
+        "<B>Austrian</B> football championship 1918-19",
+        "<B>Austrian</B> football championship 1918–19"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1918–19 <B>Austrian</B> First Class season was the eighth season of top-tier football in <B>Austria</B>. It was won by SK Rapid Wien by seven points over ."
+      ],
+      "label": [
+        "1918–19 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1918–19_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918–19_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1918–19_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1600.2374"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1912–13_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1912-13 <B>Austrian</B> First Class",
+        "1912-13 <B>Austrian</B> football championship",
+        "1912–13 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1912-13",
+        "<B>Austrian</B> Football Bundesliga 1912–13",
+        "<B>Austrian</B> football championship 1912-13",
+        "<B>Austrian</B> football championship 1912–13"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1912–13 <B>Austrian</B> First Class season was the second season of top-tier football in <B>Austria</B>. It"
+      ],
+      "label": [
+        "1912–13 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1912–13_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1912–13_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1912–13_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1600.0574"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1917–18_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1917-18 <B>Austrian</B> First Class",
+        "1917-18 <B>Austrian</B> football championship",
+        "1917–18 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1917-18",
+        "<B>Austrian</B> Football Bundesliga 1917–18",
+        "<B>Austrian</B> football championship 1917-18",
+        "<B>Austrian</B> football championship 1917–18"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1917–18 <B>Austrian</B> First Class season was the seventh season of top-tier football in <B>Austria</B>. It"
+      ],
+      "label": [
+        "1917–18 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1917–18_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1917–18_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1917–18_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1599.8802"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1915–16_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1915-16 <B>Austrian</B> First Class",
+        "1915-16 <B>Austrian</B> football championship",
+        "1915–16 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1915-16",
+        "<B>Austrian</B> Football Bundesliga 1915–16",
+        "<B>Austrian</B> football championship 1915-16",
+        "<B>Austrian</B> football championship 1915–16"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1915–16 <B>Austrian</B> First Class season was the fifth season of top-tier football in <B>Austria</B>. It"
+      ],
+      "label": [
+        "1915–16 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1915–16_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1915–16_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1915–16_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1599.8802"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1916–17_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1916-17 <B>Austrian</B> First Class",
+        "1916-17 <B>Austrian</B> football championship",
+        "1916–17 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1916-17",
+        "<B>Austrian</B> Football Bundesliga 1916–17",
+        "<B>Austrian</B> football championship 1916-17",
+        "<B>Austrian</B> football championship 1916–17"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1916–17 <B>Austrian</B> First Class season was the sixth season of top-tier football in <B>Austria</B>. It"
+      ],
+      "label": [
+        "1916–17 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1916–17_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1916–17_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1916–17_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1599.5349"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1913–14_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1913-14 <B>Austrian</B> First Class",
+        "1913-14 <B>Austrian</B> football championship",
+        "1913–14 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1913-14",
+        "<B>Austrian</B> Football Bundesliga 1913–14",
+        "<B>Austrian</B> football championship 1913-14",
+        "<B>Austrian</B> football championship 1913–14"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1913–14 <B>Austrian</B> First Class season was the third season of top-tier football in <B>Austria</B>. It"
+      ],
+      "label": [
+        "1913–14 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1913–14_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1913–14_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1913–14_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1599.2009"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1919–20_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1919-20 <B>Austrian</B> First Class",
+        "1919-20 <B>Austrian</B> football championship",
+        "1919–20 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1919-20",
+        "<B>Austrian</B> Football Bundesliga 1919–20",
+        "<B>Austrian</B> football championship 1919-20",
+        "<B>Austrian</B> football championship 1919–20"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1919–20 <B>Austrian</B> First Class season was the ninth season of top-tier football in <B>Austria</B>. With"
+      ],
+      "label": [
+        "1919–20 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1919–20_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919–20_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1919–20_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1597.1694"
+      ],
+      "refCount": [
+        "788"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lower_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austria</B> below the Enns",
+        "Districts of Lower <B>Austria</B>",
+        "Niedaöstareich",
+        "Nieder-Osterreich",
+        "Nieder-Österreich",
+        "Niederoesterreich",
+        "Niederosterreich",
+        "Niederösterreich",
+        "Osterreich unter der Enns",
+        "Province of Lower <B>Austria</B>",
+        "Pröllistan",
+        "Österreich unter der Enns"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Lower <B>Austria</B> (German: Niederösterreich [ˈniːdɐˌʔøːstɐʁaɪ̯ç] (); Czech: Dolní Rakousy; Slovak"
+      ],
+      "label": [
+        "Lower <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lower_Austria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lower_Austria",
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:States_of_Austria",
+        "http://dbpedia.org/resource/Category:Wine_regions_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1579.6077"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_State_Prize"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> State Prize for Architecture",
+        "<B>Austrian</B> State Prize for Graphics",
+        "<B>Austrian</B> State Prize for Literature",
+        "<B>Austrian</B> State Prize for Painting",
+        "<B>Austrian</B> State Prize for Science Policy",
+        "Konrad Lorenz National Award"
+      ],
+      "comment": [
+        "The <B>Austrian</B> State Prize is an award given annually or biennially in various artistic fields for"
+      ],
+      "label": [
+        "<B>Austrian</B> State Prize"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_State_Prize"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_awards",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Austrian_State_Prize"
+      ]
+    },
+    {
+      "score": [
+        "1569.1357"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_Austria"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Federal Government",
+        "<B>Austrian</B> Government",
+        "<B>Austrian</B> federal government",
+        "<B>Austrian</B> government",
+        "Cabinet (<B>Austria</B>)",
+        "Cabinet of <B>Austria</B>",
+        "Council of Ministers (<B>Austria</B>)",
+        "Federal Cabinet of <B>Austria</B>",
+        "Federal Government of <B>Austria</B>",
+        "Federal Government of the <B>Austrian</B> Republic",
+        "Federal Government of the Republic of <B>Austria</B>",
+        "Federal Ministries (<B>Austria</B>)",
+        "Federal Ministries of <B>Austria</B>",
+        "Federal cabinet of <B>Austria</B>",
+        "Federal government of <B>Austria</B>",
+        "Federal government of the <B>Austrian</B> Republic",
+        "Federal government of the Republic of <B>Austria</B>",
+        "Federal ministries (<B>Austria</B>)",
+        "Federal ministries of <B>Austria</B>",
+        "Government of the <B>Austrian</B> Republic",
+        "Government of the Republic of <B>Austria</B>",
+        "List of Ministries (<B>Austria</B>)",
+        "Ministries (<B>Austria</B>)",
+        "Ministries of <B>Austria</B>",
+        "Ministry (<B>Austria</B>)",
+        "State secretary (<B>Austria</B>)"
+      ],
+      "comment": [
+        "The Government of <B>Austria</B> (German: Österreichische Bundesregierung, lit. '<B>Austrian</B> Federal"
+      ],
+      "label": [
+        "Government of <B>Austria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_Austria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_governments",
+        "http://dbpedia.org/resource/Category:Government_of_Austria",
+        "http://dbpedia.org/resource/Category:National_cabinets",
+        "http://dbpedia.org/resource/Category:Politics_of_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1556.145"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012–13_Austrian_Football_Bundesliga"
+      ],
+      "redirectlabel": [
+        "2012-13 <B>Austrian</B> Football Bundesliga"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2012–13 <B>Austrian</B> Football Bundesliga was the 101st season of top-tier football in <B>Austria</B>. The"
+      ],
+      "label": [
+        "2012–13 <B>Austrian</B> Football Bundesliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012–13_Austrian_Football_Bundesliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012–13_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:2012–13_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1550.3379"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Ski_Association"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Ski Federation",
+        "<B>Austrian</B> Skiing Federation",
+        "Osterreichischer Skiverband",
+        "Ski <B>Austria</B>",
+        "ÖSV",
+        "Österreichischer Skiverband"
+      ],
+      "label": [
+        "<B>Austrian</B> Ski Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Ski_Association"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_members_of_the_International_Ski_Federation",
+        "http://dbpedia.org/resource/Category:Skiing_in_Austria",
+        "http://dbpedia.org/resource/Category:Skiing_organizations",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Austria",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1905"
+      ]
+    },
+    {
+      "score": [
+        "1546.5391"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_Students'_Association"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> National Union of Students",
+        "<B>Austrian</B> Students Association",
+        "<B>Austrian</B> national union of students",
+        "Osterreichische HochschuelerInnenschaft",
+        "Osterreichische HochschulerInnenschaft",
+        "Österreichische HochschülerInnenschaft"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Austrian</B> Students' Union by statutory body (German: Österreichische Hochschülerinnen- und"
+      ],
+      "label": [
+        "<B>Austrian</B> Students' Association"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_Students'_Association"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Education_in_Austria",
+        "http://dbpedia.org/resource/Category:Groups_of_students'_unions",
+        "http://dbpedia.org/resource/Category:National_postgraduate_representative_bodies",
+        "http://dbpedia.org/resource/Category:Non-profit_organisations_based_in_Austria",
+        "http://dbpedia.org/resource/Category:Student_organisations_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1536.1156"
+      ],
+      "refCount": [
+        "53"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/ORF_(broadcaster)"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> Broadcasting Corporation",
+        "ORF.at",
+        "ORF (television)",
+        "Orf.at",
+        "Osterreichischer Rundfunk",
+        "ÖRF",
+        "Österreichische Radioverkehrs AG",
+        "Österreichischer Rundfunk"
+      ],
+      "typeName": [
+        "Organisation",
+        "BroadcastNetwork",
+        "Agent",
+        "Broadcaster"
+      ],
+      "comment": [
+        " on-air advertising, ORF is the dominant player in the <B>Austrian</B> broadcast media. <B>Austria</B> was the"
+      ],
+      "label": [
+        "ORF (broadcaster)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/ORF_(broadcaster)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BroadcastNetwork",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Broadcaster"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1955_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_news_websites",
+        "http://dbpedia.org/resource/Category:European_Broadcasting_Union_members",
+        "http://dbpedia.org/resource/Category:German-language_television_networks",
+        "http://dbpedia.org/resource/Category:ORF_(broadcaster)",
+        "http://dbpedia.org/resource/Category:Organizations_established_in_1955",
+        "http://dbpedia.org/resource/Category:Publicly_funded_broadcasters",
+        "http://dbpedia.org/resource/Category:Radio_in_Austria",
+        "http://dbpedia.org/resource/Category:State_media",
+        "http://dbpedia.org/resource/Category:Television_in_Austria"
+      ]
+    },
+    {
+      "score": [
+        "1533.2954"
+      ],
+      "refCount": [
+        "80"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Italian_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "Armistice of Villafranca",
+        "<B>Austrian</B> War of 1859",
+        "Austro-Piedmontese War",
+        "Austro-Sardinian War",
+        "Conference of Villafranca",
+        "Franco-<B>Austrian</B> War",
+        "French campaign in Italy",
+        "Italian Second War of Independence",
+        "Italian Unification War",
+        "Italian War of 1859",
+        "Italian war (1859)",
+        "Peace of Villafranca",
+        "Sardinian War",
+        "Second Italian Independence War",
+        "Second Italian War of indipendence",
+        "Second War Of Italian Unification",
+        "Second War of Italian Independence",
+        "Second italian war of independence",
+        "The Franco-<B>Austrian</B> War",
+        "Treaty of Villafranca"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " French Empire and the Kingdom of Sardinia against the <B>Austrian</B> Empire in 1859 and played a crucial part in the process of Italian unification."
+      ],
+      "label": [
+        "Second Italian War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Italian_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1859_in_France",
+        "http://dbpedia.org/resource/Category:1859_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:1859_in_the_Kingdom_of_Sardinia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1859",
+        "http://dbpedia.org/resource/Category:France–Italy_relations",
+        "http://dbpedia.org/resource/Category:Second_Italian_War_of_Independence"
+      ]
+    },
+    {
+      "score": [
+        "1503.2471"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austrian_State_Prize_for_European_Literature"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> state prize for european literature",
+        "The <B>Austrian</B> State Prize for European Literature"
+      ],
+      "comment": [
+        "The <B>Austrian</B> State Prize for European Literature (German: Österreichischer Staatspreis für"
+      ],
+      "label": [
+        "<B>Austrian</B> State Prize for European Literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austrian_State_Prize_for_European_Literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austrian_literary_awards",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1965",
+        "http://dbpedia.org/resource/Category:European_literary_awards",
+        "http://dbpedia.org/resource/Category:Literary_awards_honoring_lifetime_achievement"
+      ]
+    },
+    {
+      "score": [
+        "1499.7284"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Austrian_states_by_Human_Development_Index"
+      ],
+      "redirectlabel": [
+        "<B>Austrian</B> states by HDI",
+        "<B>Austrian</B> states by Human Development Index",
+        "HDI of <B>Austrian</B> states",
+        "HDI of states of <B>Austria</B>",
+        "Human Development Index of <B>Austrian</B> states",
+        "Human Development Index of states of <B>Austria</B>",
+        "List of <B>Austrian</B> states by HDI",
+        "List of states of <B>Austria</B> by HDI",
+        "List of states of <B>Austria</B> by Human Development Index",
+        "States of <B>Austria</B> by HDI",
+        "States of <B>Austria</B> by Human Development Index"
+      ],
+      "comment": [
+        "This is a list of <B>Austrian</B> states by Human Development Index as of 2018."
+      ],
+      "label": [
+        "List of <B>Austrian</B> states by Human Development Index"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Austrian_states_by_Human_Development_Index"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economy_of_Austria-related_lists",
+        "http://dbpedia.org/resource/Category:Human_Development_Index",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1496.6674"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1921–22_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1921-22 <B>Austrian</B> First Class",
+        "1921-22 <B>Austrian</B> football championship",
+        "1921–22 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1921-22",
+        "<B>Austrian</B> football championship 1921-22",
+        "<B>Austrian</B> football championship 1921–22"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1921–22 <B>Austrian</B> First Class season was the eleventh season of top-tier football in <B>Austria</B>"
+      ],
+      "label": [
+        "1921–22 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1921–22_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921–22_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1921–22_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1491.7894"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1920–21_Austrian_First_Class"
+      ],
+      "redirectlabel": [
+        "1920-21 <B>Austrian</B> First Class",
+        "1920-21 <B>Austrian</B> football championship",
+        "1920–21 <B>Austrian</B> football championship",
+        "<B>Austrian</B> Football Bundesliga 1920-21",
+        "<B>Austrian</B> football championship 1920-21",
+        "<B>Austrian</B> football championship 1920–21"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1920–21 <B>Austrian</B> First Class season was the tenth season of top-tier football in <B>Austria</B>. Once"
+      ],
+      "label": [
+        "1920–21 <B>Austrian</B> First Class"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1920–21_Austrian_First_Class"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920–21_in_Austrian_football",
+        "http://dbpedia.org/resource/Category:1920–21_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Austrian_Football_Bundesliga_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1490.2983"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Joy_(Austrian_band)"
+      ],
+      "redirectlabel": [
+        "JOY (<B>Austrian</B> band)"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "Joy is an <B>Austrian</B> pop band, best known for the hits \"Touch by Touch\" and \"Valerie\"."
+      ],
+      "label": [
+        "Joy (<B>Austrian</B> band)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Joy_(Austrian_band)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1984_establishments_in_Austria",
+        "http://dbpedia.org/resource/Category:Austrian_pop_music_groups",
+        "http://dbpedia.org/resource/Category:Bertelsmann_Music_Group_artists",
+        "http://dbpedia.org/resource/Category:Eurodisco_groups",
+        "http://dbpedia.org/resource/Category:Musical_groups_established_in_1984"
+      ]
+    }
+  ]
+}

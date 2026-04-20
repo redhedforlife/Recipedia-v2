@@ -1,0 +1,4837 @@
+{
+  "docs": [
+    {
+      "score": [
+        "61668.76"
+      ],
+      "refCount": [
+        "9144"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic"
+      ],
+      "redirectlabel": [
+        "4esko",
+        "Administrative divisions of the <B>Czech</B> Republic",
+        "Bohemia-Moravia",
+        "<B>CZECH</B> REPUBLIC",
+        "CZR",
+        "Cech Republic",
+        "Cech republic",
+        "Cehia",
+        "Ceska Republic",
+        "Ceska Republika",
+        "Ceska republika",
+        "Cesko",
+        "Ceská Republika",
+        "Ceská republika",
+        "Check Republic",
+        "Checkia",
+        "Cheque Republic",
+        "Cheque republic",
+        "Chez republic",
+        "Climate change in the <B>Czech</B> Republic",
+        "Climate of the <B>Czech</B> Republic",
+        "Csehorszag",
+        "Csehország",
+        "Cyech Republic",
+        "Cyechia",
+        "<B>Czec</B> Republic",
+        "<B>Czec</B> republic",
+        "<B>Czech</B> Country",
+        "<B>Czech</B> Rep.",
+        "<B>Czech</B> Rep",
+        "<B>Czech</B> Republci",
+        "<B>Czech</B> Republic (<B>Czechia</B>)",
+        "<B>Czech</B> Republik",
+        "<B>Czech</B> rep.",
+        "<B>Czech</B> rep",
+        "<B>Czech</B> republic",
+        "<B>Czech</B> republik",
+        "<B>Czeche</B> Republic",
+        "<B>Czechi</B>",
+        "<B>Czechia</B>",
+        "<B>Czecho</B> Republic",
+        "<B>Czechomoravia</B>",
+        "<B>Czeck</B> Republic",
+        "<B>Czeck</B> republic",
+        "<B>Czek</B> Republic",
+        "Czesko",
+        "Environmental issues in the <B>Czech</B> Republic",
+        "Etymology of the <B>Czech</B> Republic",
+        "Human rights in the <B>Czech</B> Republic",
+        "ISO 3166-1:CZ",
+        "Republic <B>Czech</B>",
+        "Republic of <B>Czechia</B>",
+        "Republica Checa",
+        "Republique Tcheque",
+        "República Checa",
+        "République Tchèque",
+        "Science and technology in the <B>Czech</B> Republic",
+        "Subdivisions of <B>Czechia</B>",
+        "Subdivisions of the <B>Czech</B> Republic",
+        "Tcheque Republic",
+        "Tcheque Republique",
+        "The Cech Republic",
+        "The Cech republic",
+        "The <B>Czec</B> Republic",
+        "The <B>Czec</B> republic",
+        "The <B>Czech</B> Rep.",
+        "The <B>Czech</B> Rep",
+        "The <B>Czech</B> Republic",
+        "The <B>Czech</B> Republik",
+        "The <B>Czech</B> rep.",
+        "The <B>Czech</B> rep",
+        "The <B>Czech</B> republic",
+        "The <B>Czech</B> republik",
+        "The <B>Czechia</B>",
+        "The <B>Czeck</B> Republic",
+        "The <B>Czeck</B> republic",
+        "Tjech Republic",
+        "Tjech republic",
+        "Tschechien",
+        "ČR",
+        "Česko",
+        "Česká Republika",
+        "Česká republika",
+        "Češka"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "-form name, <B>Czechia</B> ( (); <B>Czech</B>: Česko [ˈtʃɛsko] ()), is a country in Central Europe bordered by"
+      ],
+      "label": [
+        "<B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Central_Europe",
+        "http://dbpedia.org/resource/Category:Central_European_countries",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Czech_Republic",
+        "http://dbpedia.org/resource/Category:Landlocked_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Three_Seas_Initiative",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1993"
+      ]
+    },
+    {
+      "score": [
+        "15566.433"
+      ],
+      "refCount": [
+        "5616"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czechoslovakia"
+      ],
+      "redirectlabel": [
+        "1918 <B>Czechoslovak</B> Constitution",
+        "Ceskoslovensko",
+        "Chechoslovakia",
+        "Checkeslovakia",
+        "Checkoslovakia",
+        "Checo-Slovakia",
+        "Chekhoslovakia",
+        "Chekoslovakia",
+        "Constituent peoples of <B>Czechoslovakia</B>",
+        "<B>Czech</B> -",
+        "<B>Czech</B> ~",
+        "<B>Czech</B> —",
+        "<B>Czechaslavakia</B>",
+        "<B>Czecheslovakia</B>",
+        "<B>Czechkoslovakia</B>",
+        "<B>Czecho</B>-Slovakia",
+        "<B>CzechoSlovakia</B>",
+        "<B>Czecho</B> Slovakia",
+        "<B>Czecholslovakia</B>",
+        "<B>Czechoslavakia</B>",
+        "<B>Czechoslavakian</B>",
+        "<B>Czechosloavkia</B>",
+        "<B>Czechoslovak</B> People's Republic",
+        "<B>Czechoslovak</B> state",
+        "<B>Czechoslovaka</B>",
+        "<B>Czechoslovakian</B>",
+        "<B>Czechoslovakians</B>",
+        "<B>Czechoslowakia</B>",
+        "<B>Czechslovakia</B>",
+        "<B>Czechsolvakia</B>",
+        "Czeckeslovakia",
+        "Czeckoslovakia",
+        "Federation of <B>Czechoslovakia</B>",
+        "List of diplomatic missions of <B>Czechoslovakia</B>",
+        "People's Republic of <B>Czechoslovakia</B>",
+        "Politics of <B>Czechoslovakia</B>",
+        "Republic of <B>Czechoslovakia</B>",
+        "RČS",
+        "Tschechoslowakei",
+        "Tsjekkoslovakia",
+        "Česko-Slovensko",
+        "Československo"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Czechoslovakia</B>, or <B>Czecho</B>-Slovakia (; <B>Czech</B> and Slovak: Československo, Česko-Slovensko), was a"
+      ],
+      "label": [
+        "<B>Czechoslovakia</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czechoslovakia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1918_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1918_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1939_disestablishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:20th_century_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc",
+        "http://dbpedia.org/resource/Category:Former_Slavic_countries",
+        "http://dbpedia.org/resource/Category:Former_member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:Geography_of_Central_Europe",
+        "http://dbpedia.org/resource/Category:History_of_Central_Europe",
+        "http://dbpedia.org/resource/Category:Soviet_satellite_states",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1939",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1992",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1945"
+      ]
+    },
+    {
+      "score": [
+        "13984.01"
+      ],
+      "refCount": [
+        "584"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Extraliga"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> First Ice Hockey League",
+        "<B>Czech</B> Ice Hockey Extra League",
+        "O2 Extraliga",
+        "Tipsport Extraliga",
+        "ČSHL"
+      ],
+      "typeName": [
+        "Organisation",
+        "IceHockeyLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " in the <B>Czech</B> Republic. It was created by the 1993 split of the <B>Czechoslovak</B> First Ice Hockey League"
+      ],
+      "label": [
+        "<B>Czech</B> Extraliga"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Extraliga"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/IceHockeyLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Extraliga",
+        "http://dbpedia.org/resource/Category:Professional_ice_hockey_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1993",
+        "http://dbpedia.org/resource/Category:Top_tier_ice_hockey_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "12466.522"
+      ],
+      "refCount": [
+        "414"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_language"
+      ],
+      "redirectlabel": [
+        "Bohemian language",
+        "Cesky",
+        "Cesky jazyk",
+        "Common <B>Czech</B>",
+        "<B>Czech</B> (language)",
+        "<B>Czech</B> Language",
+        "<B>Czech</B> dialects",
+        "<B>Czech</B> grammar",
+        "<B>Czechian</B> language",
+        "<B>Czekh</B> language",
+        "ISO 639-1:cs",
+        "ISO 639:ces",
+        "ISO 639:cs",
+        "ISO 639:<B>cze</B>",
+        "Lang-cs",
+        "Mutual intelligibility of <B>Czech</B> and Slovak",
+        "Česky",
+        "Český",
+        "Český jazyk",
+        "Čeština"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Czech</B> (; <B>Czech</B> čeština [ˈtʃɛʃcɪna]), historically also Bohemian (; lingua Bohemica in Latin) is a"
+      ],
+      "label": [
+        "<B>Czech</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_language",
+        "http://dbpedia.org/resource/Category:Languages_of_Slovakia",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Slavic_languages_written_in_Latin_script",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages",
+        "http://dbpedia.org/resource/Category:West_Slavic_languages"
+      ]
+    },
+    {
+      "score": [
+        "12074.122"
+      ],
+      "refCount": [
+        "2602"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prague"
+      ],
+      "redirectlabel": [
+        "CZPRG",
+        "Capital city of the <B>Czech</B> Republic",
+        "Capital of <B>Czech</B> Republic",
+        "Capital of <B>Czechia</B>",
+        "Capital of <B>Czechoslovakia</B>",
+        "Capital of the <B>Czech</B> Republic",
+        "Casurgis",
+        "Central Prague",
+        "City of Prague",
+        "Cuisine of Prague",
+        "Culture of Prague",
+        "Economy of Prague",
+        "Geography of Prague",
+        "Greater Prague",
+        "Historic Centre of Prague",
+        "Hlavní město Praha",
+        "NUTS Prague",
+        "NUTS Praha",
+        "Prague, Bohemia, <B>Czech</B> Republic",
+        "Prague, Bohemia",
+        "Prague, <B>Czech</B> Republic",
+        "Prague, <B>Czechia</B>",
+        "Prague, <B>Czechoslovakia</B>",
+        "Prague (<B>Czech</B> Republic)",
+        "Prague city centre",
+        "Prague tourism",
+        "Praha, <B>Czech</B> Republic",
+        "Praha",
+        "Prahou",
+        "Prahy",
+        "Praque",
+        "Prauge",
+        "Public transport in Prague",
+        "Science and technology in Prague",
+        "Sports in Prague",
+        "UN/LOCODE:CZPRG",
+        "Wards of Prague"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Prague (; <B>Czech</B>: Praha [ˈpraɦa] (), German: Prag, Latin: Praga) is the capital and largest city in"
+      ],
+      "label": [
+        "Prague"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prague"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:880s_establishments",
+        "http://dbpedia.org/resource/Category:Capitals_in_Europe",
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Landmarks_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_the_9th_century",
+        "http://dbpedia.org/resource/Category:Prague",
+        "http://dbpedia.org/resource/Category:Regions_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:World_Heritage_Sites_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "11499.784"
+      ],
+      "refCount": [
+        "19411"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Unincorporated_area"
+      ],
+      "redirectlabel": [
+        "Connecticut Unincorporated area",
+        "Unicorporated town",
+        "Unincoporated",
+        "Unincorperated area",
+        "Unincorporated Area",
+        "Unincorporated Areas of the <B>Czech</B> Republic",
+        "Unincorporated Communities",
+        "Unincorporated Community",
+        "Unincorporated Place",
+        "Unincorporated Town",
+        "Unincorporated Village",
+        "Unincorporated area (United States)",
+        "Unincorporated areas",
+        "Unincorporated city",
+        "Unincorporated communities",
+        "Unincorporated communities (United States)",
+        "Unincorporated community, North Carolina",
+        "Unincorporated community",
+        "Unincorporated community (United States)",
+        "Unincorporated district",
+        "Unincorporated hamlet",
+        "Unincorporated land",
+        "Unincorporated place",
+        "Unincorporated settlement",
+        "Unincorporated town",
+        "Unincorporated township",
+        "Unincorporated village"
+      ],
+      "comment": [
+        "In law, an unincorporated area is a region of land that is not governed by a local municipal corporation; similarly an unincorporated community is a settlement that is not governed by its own local municipal corporation, but rather is administered as part of larger administrative divisions, such as a township, parish, borough, county, city, canton, state, province or country. Occasionally, municipalities dissolve or disincorporate, which may happen if they become fiscally insolvent, and services become the responsibility of a higher administration. Widespread unincorporated communities and areas are a distinguishing feature of the United States and Canada. In most other countries of the world, there are either no unincorporated areas at all, or these are very rare; typically remote, outlyi"
+      ],
+      "label": [
+        "Unincorporated area"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Unincorporated_area"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Unincorporated_areas",
+        "http://dbpedia.org/resource/Category:Unincorporated_communities_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Urban_studies_and_planning_terminology"
+      ]
+    },
+    {
+      "score": [
+        "10850.473"
+      ],
+      "refCount": [
+        "561"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-21_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic U-21",
+        "<B>Czech</B> Republic national U-21 football team",
+        "<B>Czechia</B> national under-21 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic national under-21 football team is the national under-21 association football"
+      ],
+      "label": [
+        "<B>Czech</B> Republic national under-21 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-21_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_under-21_association_football_teams",
+        "http://dbpedia.org/resource/Category:Youth_football_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "10831.891"
+      ],
+      "refCount": [
+        "407"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic_national_football_team"
+      ],
+      "redirectlabel": [
+        "Bohemia national football team",
+        "<B>Czech</B> Football National Team",
+        "<B>Czech</B> Republic FC",
+        "<B>Czech</B> football team",
+        "<B>Czech</B> national football team",
+        "<B>Czechia</B> national football team",
+        "History of the <B>Czech</B> Republic national football team",
+        "The <B>Czech</B> Republic national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czech</B> national football team (<B>Czech</B>: Česká fotbalová reprezentace) represents the <B>Czech</B>"
+      ],
+      "label": [
+        "<B>Czech</B> Republic national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "8367.733"
+      ],
+      "refCount": [
+        "334"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-19_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic U-19",
+        "<B>Czech</B> Republic national under-20 football team",
+        "<B>Czechia</B> national under-19 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic national under-19 football team is the national under-19 football team of the"
+      ],
+      "label": [
+        "<B>Czech</B> Republic national under-19 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-19_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_under-19_association_football_teams",
+        "http://dbpedia.org/resource/Category:Youth_football_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "7963.0127"
+      ],
+      "refCount": [
+        "386"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-17_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic national under-16 football team",
+        "<B>Czechia</B> national under-17 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic national under-17 football team is the national under-17 football team of the"
+      ],
+      "label": [
+        "<B>Czech</B> Republic national under-17 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-17_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_under-17_association_football_teams",
+        "http://dbpedia.org/resource/Category:Youth_football_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "6494.707"
+      ],
+      "refCount": [
+        "237"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czechs"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> (people)",
+        "<B>Czech</B> ancestors",
+        "<B>Czech</B> people",
+        "<B>Czechians</B>",
+        "<B>Czechs</B> (ethnic group)",
+        "Ethnic <B>Czechs</B>",
+        "Genetic studies on <B>Czechs</B>",
+        "People of the <B>Czech</B> Republic",
+        "Čechové",
+        "Češi"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Czechs</B> (<B>Czech</B>: Češi, pronounced [ˈtʃɛʃɪ]; singular masculine: Čech [ˈtʃɛx], singular feminine"
+      ],
+      "label": [
+        "<B>Czechs</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czechs"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Slavic_ethnic_groups",
+        "http://dbpedia.org/resource/Category:West_Slavs"
+      ]
+    },
+    {
+      "score": [
+        "5530.2954"
+      ],
+      "refCount": [
+        "132"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic_women's_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> women's football team",
+        "<B>Czechia</B> women's national football team",
+        "The <B>Czech</B> Republic women's national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic women's national football team are the official football women's team for the"
+      ],
+      "label": [
+        "<B>Czech</B> Republic women's national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic_women's_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic_women's_national_football_team",
+        "http://dbpedia.org/resource/Category:European_women's_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "5401.885"
+      ],
+      "refCount": [
+        "481"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brno"
+      ],
+      "redirectlabel": [
+        "AUTOSALON Brno",
+        "Brne",
+        "Brno, <B>Czech</B>",
+        "Brno, <B>Czech</B> Republic",
+        "Brno, <B>Czechoslovakia</B>",
+        "Brno, Moravia, <B>Czech</B> Republic",
+        "Brno, Moravia",
+        "Brno-Centre",
+        "Brno City",
+        "Brně",
+        "Bruenn/Brno",
+        "Bruenn",
+        "Brunn/Brno",
+        "Brünn/Brno",
+        "Brünn",
+        "Exhibition Centre Brno",
+        "UN/LOCODE:CZBRQ"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Brno ( BUR-noh, <B>Czech</B>: [ˈbr̩no] (); German: Brünn [bʁʏn]) is a city in the South Moravian Region of"
+      ],
+      "label": [
+        "Brno"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brno"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brno-City_District",
+        "http://dbpedia.org/resource/Category:Brno",
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "5289.346"
+      ],
+      "refCount": [
+        "87"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Foreign_relations_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Dutch relations",
+        "<B>Czech</B>-Estonian relations",
+        "<B>Czech</B>-Finnish relations",
+        "<B>Czech</B>-Georgia relations",
+        "<B>Czech</B>-Hungary relations",
+        "<B>Czech</B>-Irish relations",
+        "<B>Czech</B>-Italy relations",
+        "<B>Czech</B>-Latvian relations",
+        "<B>Czech</B>-Lithuanian relations",
+        "<B>Czech</B>-Luxembourg relations",
+        "<B>Czech</B>-Maltese relations",
+        "<B>Czech</B>-Serbian relations",
+        "<B>Czech</B>-Ukrainian relations",
+        "<B>Czech</B> Republic-Estonia relations",
+        "<B>Czech</B> Republic-Finland relations",
+        "<B>Czech</B> Republic-France relations",
+        "<B>Czech</B> Republic-Georgia relations",
+        "<B>Czech</B> Republic-Hungarian relations",
+        "<B>Czech</B> Republic-Hungary relations",
+        "<B>Czech</B> Republic-Ireland relations",
+        "<B>Czech</B> Republic-Italy relations",
+        "<B>Czech</B> Republic-Latvia relations",
+        "<B>Czech</B> Republic-Lithuania relations",
+        "<B>Czech</B> Republic-Luxembourg relations",
+        "<B>Czech</B> Republic-Malta relations",
+        "<B>Czech</B> Republic-Myanmar relations",
+        "<B>Czech</B> Republic-Netherlands relations",
+        "<B>Czech</B> Republic-Romania relations",
+        "<B>Czech</B> Republic-Serbia relations",
+        "<B>Czech</B> Republic-Thailand relations",
+        "<B>Czech</B> Republic-Ukraine relations",
+        "<B>Czech</B> Republic/Foreign relations",
+        "<B>Czech</B> Republic/Transnational issues",
+        "<B>Czech</B> Republic - Estonia relations",
+        "<B>Czech</B> Republic - Finland relations",
+        "<B>Czech</B> Republic - Georgia relations",
+        "<B>Czech</B> Republic - Hungary relations",
+        "<B>Czech</B> Republic - Iraq relations",
+        "<B>Czech</B> Republic - Ireland relations",
+        "<B>Czech</B> Republic - Italy relations",
+        "<B>Czech</B> Republic - Latvia relations",
+        "<B>Czech</B> Republic - Lithuania relations",
+        "<B>Czech</B> Republic - Luxembourg relations",
+        "<B>Czech</B> Republic - Malta relations",
+        "<B>Czech</B> Republic - Netherlands relations",
+        "<B>Czech</B> Republic - Romania relations",
+        "<B>Czech</B> Republic - Serbia relations",
+        "<B>Czech</B> Republic - Ukraine relations",
+        "<B>Czech</B> Republic – Estonia relations",
+        "<B>Czech</B> Republic – Finland relations",
+        "<B>Czech</B> Republic – Georgia relations",
+        "<B>Czech</B> Republic – Hungary relations",
+        "<B>Czech</B> Republic – Iraq relations",
+        "<B>Czech</B> Republic – Ireland relations",
+        "<B>Czech</B> Republic – Italy relations",
+        "<B>Czech</B> Republic – Latvia relations",
+        "<B>Czech</B> Republic – Lithuania relations",
+        "<B>Czech</B> Republic – Luxembourg relations",
+        "<B>Czech</B> Republic – Malta relations",
+        "<B>Czech</B> Republic – Netherlands relations",
+        "<B>Czech</B> Republic – Romania relations",
+        "<B>Czech</B> Republic – Serbia relations",
+        "<B>Czech</B> Republic – Ukraine relations",
+        "<B>Czech</B> Republic–Estonia relations",
+        "<B>Czech</B> Republic–Finland relations",
+        "<B>Czech</B> Republic–Georgia relations",
+        "<B>Czech</B> Republic–Hungarian relations",
+        "<B>Czech</B> Republic–Hungary relations",
+        "<B>Czech</B> Republic–Ireland relations",
+        "<B>Czech</B> Republic–Italy relations",
+        "<B>Czech</B> Republic–Latvia relations",
+        "<B>Czech</B> Republic–Lithuania relations",
+        "<B>Czech</B> Republic–Luxembourg relations",
+        "<B>Czech</B> Republic–Malta relations",
+        "<B>Czech</B> Republic–Myanmar relations",
+        "<B>Czech</B> Republic–Netherlands relations",
+        "<B>Czech</B> Republic–Romania relations",
+        "<B>Czech</B> Republic–Serbia relations",
+        "<B>Czech</B> Republic–Thailand relations",
+        "<B>Czech</B> Republic–Ukraine relations",
+        "<B>Czech</B> republic/Transnational issues",
+        "Foreign policy of the <B>Czech</B> Republic",
+        "Foreign relations of <B>Czech</B> Republic",
+        "Foreign relations of <B>Czechia</B>",
+        "Foreign relations of the <B>czech</B> republic"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic is a Central European country, a member of the European Union, the Organisation"
+      ],
+      "label": [
+        "Foreign relations of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Foreign_relations_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Foreign_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Government_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "4638.013"
+      ],
+      "refCount": [
+        "80"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Districts_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Districts in the <B>Czech</B> Republic",
+        "Districts of <B>Czechia</B>",
+        "Districts of the <B>czech</B> republic",
+        "List of districts of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        " to traditional division and local relationships. In the area of the <B>Czech</B> Republic, there were 75"
+      ],
+      "label": [
+        "Districts of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Districts_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:Districts_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "4327.9365"
+      ],
+      "refCount": [
+        "357"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-18_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Czechia</B> national under-18 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic national under-18 football team are a feeder team for the main <B>Czech</B> Republic national football team."
+      ],
+      "label": [
+        "<B>Czech</B> Republic national under-18 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic_national_under-18_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic_national_football_team",
+        "http://dbpedia.org/resource/Category:European_national_under-18_association_football_teams",
+        "http://dbpedia.org/resource/Category:Youth_football_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "4289.1255"
+      ],
+      "refCount": [
+        "85"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Basketball_League_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Basketball Championship",
+        "<B>Czech</B> Republic Basketball League",
+        "KK Sokol Vyšehrad",
+        "Královští Sokoli Hradec Králové",
+        "Lions Jindřichův Hradec",
+        "Mattoni NBL"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic National Basketball League (NBL) (<B>Czech</B>: Národní Basketbalová Liga), known as"
+      ],
+      "label": [
+        "National Basketball League (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Basketball_League_(Czech_Republic)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:National_Basketball_League_(Czech_Republic)",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "4265.987"
+      ],
+      "refCount": [
+        "219"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Plzeň"
+      ],
+      "redirectlabel": [
+        "History of Plzeň",
+        "Pilisna",
+        "Pilsen, Bohemia",
+        "Pilsen, <B>Czech</B> Republic",
+        "Pilsen, <B>Czechia</B>",
+        "Pilsen (city)",
+        "Pilzen",
+        "Plze",
+        "PlzeN",
+        "Plzen, <B>Czech</B> Republic",
+        "Plzen",
+        "Plzeò",
+        "Plzeň, <B>Czech</B> Republic",
+        "Plzeň (Pilsen)"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Plzeň (<B>Czech</B> pronunciation: [ˈpl̩zɛɲ] (); German and English: Pilsen, ) is a city in the <B>Czech</B>"
+      ],
+      "label": [
+        "Plzeň"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Plzeň"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Plzeň",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Plzeň-City_District"
+      ]
+    },
+    {
+      "score": [
+        "4077.7905"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Fourth_Division"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> 4. Liga",
+        "<B>Czech</B> 4. Ligy"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Czech</B> Fourth Division (<B>Czech</B>: Divize) is the fourth tier of football in the <B>Czech</B> Republic. The"
+      ],
+      "label": [
+        "<B>Czech</B> Fourth Division"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Fourth_Division"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Fourth_level_football_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "3851.5295"
+      ],
+      "refCount": [
+        "109"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Social_Democratic_Party"
+      ],
+      "redirectlabel": [
+        "Ceská strana sociálne demokratická",
+        "<B>Czechoslovak</B> Social Democracy",
+        "<B>Czechoslovak</B> Social Democratic Party",
+        "Social Democratic <B>Czechoslavonic</B> party in Austria",
+        "Social Democratic Party (<B>Czech</B> Republic)",
+        "Social Democratic Party (<B>Czechoslovakia</B>)",
+        "ČSSD",
+        "Česká strana sociálně demokratická"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Czech</B> Social Democratic Party (<B>Czech</B>: Česká strana sociálně demokratická, ČSSD) is a social"
+      ],
+      "label": [
+        "<B>Czech</B> Social Democratic Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Social_Democratic_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1878_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Czech_Social_Democratic_Party",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1878",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "3798.023"
+      ],
+      "refCount": [
+        "177"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Moravia"
+      ],
+      "redirectlabel": [
+        "Habsburg Moravia",
+        "Maehrisch",
+        "Mahrisch",
+        "Morava (region)",
+        "Morava region",
+        "Moravia, <B>Czech</B> Republic",
+        "Moravia (<B>Czech</B> Republic)",
+        "Mährisch"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Moravia ( mə-RAY-vee-ə, also UK:  morr-AY-, US:  mor-AY-, moh-RAY-; <B>Czech</B>: Morava [ˈmorava"
+      ],
+      "label": [
+        "Moravia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Moravia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Counties_of_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:Geography_of_Central_Europe",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Historic_counties_in_Moravia",
+        "http://dbpedia.org/resource/Category:Historical_regions",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Moravia",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria-Hungary"
+      ]
+    },
+    {
+      "score": [
+        "3718.6187"
+      ],
+      "refCount": [
+        "267"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bohemia"
+      ],
+      "redirectlabel": [
+        "Austrian Bohemia",
+        "Boehmen",
+        "Bohemia, <B>Czech</B> Republic",
+        "Bohemia, <B>Czechia</B>",
+        "Bohemia (<B>Czech</B> Republic)",
+        "Bohemia (<B>Czechia</B>)",
+        "Bohemia (region)",
+        "Bohemia proper",
+        "Bohemian (demonym)",
+        "Bohemian <B>Czechia</B>",
+        "Bohemian <B>Czechs</B>",
+        "Bohemians (<B>Czechs</B>)",
+        "Bohmen",
+        "Böhmen",
+        "Bōiohǽmum",
+        "<B>Czechia</B>, Bohemia",
+        "<B>Czechia</B> (Bohemia)",
+        "<B>Czechs</B> (Bohemians)",
+        "Habsburg Bohemia",
+        "History of Bohemia",
+        "History of bohemia",
+        "Northern Bohemia"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Bohemia ( boh-HEE-mee-ə; <B>Czech</B>: Čechy; German: ; Polish: <B>Czechy</B>; Latin: Bohemia; Hebrew: פּיהם‎"
+      ],
+      "label": [
+        "Bohemia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bohemia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bohemia",
+        "http://dbpedia.org/resource/Category:Geography_of_Central_Europe",
+        "http://dbpedia.org/resource/Category:Geography_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Historical_regions",
+        "http://dbpedia.org/resource/Category:Historical_regions_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:History_of_Bohemia"
+      ]
+    },
+    {
+      "score": [
+        "3711.4194"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–United_Kingdom_relations"
+      ],
+      "redirectlabel": [
+        "British-<B>Czech</B> relations",
+        "<B>Czech</B> - British relations",
+        "<B>Czech</B> - UK relations",
+        "<B>Czech</B> Republic-U.K. relations",
+        "<B>Czech</B> Republic-U. K. relations",
+        "<B>Czech</B> Republic-UK relations",
+        "<B>Czech</B> Republic-United Kingdom relations",
+        "<B>Czech</B> Republic - U.K. relations",
+        "<B>Czech</B> Republic - U. K. relations",
+        "<B>Czech</B> Republic - UK relations",
+        "<B>Czech</B> Republic - United Kingdom relations",
+        "<B>Czech</B> Republic U.K. relations",
+        "<B>Czech</B> Republic U. K. relations",
+        "<B>Czech</B> Republic UK relations",
+        "<B>Czech</B> Republic United Kingdom relations",
+        "<B>Czech</B> Republic – U.K. relations",
+        "<B>Czech</B> Republic – U. K. relations",
+        "<B>Czech</B> Republic – UK relations",
+        "<B>Czech</B> Republic – United Kingdom relations",
+        "<B>Czech</B> Republic–U.K. relations",
+        "<B>Czech</B> Republic–U. K. relations",
+        "<B>Czech</B> Republic–UK relations",
+        "<B>Czechia</B>-United Kingdom relations",
+        "<B>Czechia</B>–United Kingdom relations",
+        "History of <B>Czech</B> Republic-United Kingdom relations",
+        "History of <B>Czech</B> Republic–United Kingdom relations",
+        "U.K.-<B>Czech</B> Republic relations",
+        "U.K. - <B>Czech</B> Republic relations",
+        "U.K. <B>Czech</B> Republic relations",
+        "U.K.–<B>Czech</B> Republic relations",
+        "U. K.-<B>Czech</B> Republic relations",
+        "U. K. - <B>Czech</B> Republic relations",
+        "U. K. <B>Czech</B> Republic relations",
+        "U. K.–<B>Czech</B> Republic relations",
+        "UK-<B>Czech</B> Republic relations",
+        "UK - <B>Czech</B> Republic relations",
+        "UK <B>Czech</B> Republic relations",
+        "UK–<B>Czech</B> Republic relations",
+        "United Kingdom-<B>Czech</B> Republic relations",
+        "United Kingdom - <B>Czech</B> Republic relations",
+        "United Kingdom <B>Czech</B> Republic relations",
+        "United Kingdom–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–United Kingdom relations are foreign relations between the <B>Czech</B> Republic and the"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–United Kingdom relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–United_Kingdom_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Czech_Republic–United_Kingdom_relations"
+      ]
+    },
+    {
+      "score": [
+        "3568.447"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_First_League"
+      ],
+      "redirectlabel": [
+        "1. Gambrinus liga",
+        "1. česká fotbalová liga",
+        "1 gambrinus liga",
+        "<B>Czech</B> 1. Liga",
+        "<B>Czech</B> Liga",
+        "<B>Czech</B> Premier League",
+        "<B>Czech</B> Republic Gambrinus League",
+        "<B>Czech</B> first football league",
+        "<B>Czech</B> highest football division",
+        "EPojisteni.cz liga",
+        "First <B>czech</B> football league",
+        "Gambrinus Liga",
+        "Gambrinus liga",
+        "HET liga",
+        "Synot Liga",
+        "Synot league",
+        "Synot liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Czech</B> First League, known as the Fortuna liga for sponsorship reasons, is a <B>Czech</B> professional"
+      ],
+      "label": [
+        "<B>Czech</B> First League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_First_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_First_League",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "3539.6228"
+      ],
+      "refCount": [
+        "102"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Civic_Democratic_Party_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "19th Congress of the Civic Democratic Party",
+        "Civic Democratic Party (<B>Czech</B> Republic) logo",
+        "Civic Democratic Party (<B>Czechia</B>)",
+        "Civic Democratic Party and Christian Democratic Party",
+        "Obcanska Demokraticka Strana",
+        "Obcanska demokraticka strana",
+        "Občanská demokratická strana"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Civic Democratic Party (<B>Czech</B>: Občanská demokratická strana, ODS) is a liberal-conservative"
+      ],
+      "label": [
+        "Civic Democratic Party (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Civic_Democratic_Party_(Czech_Republic)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Alliance_of_Conservatives_and_Reformists_in_Europe_member_parties",
+        "http://dbpedia.org/resource/Category:Civic_Democratic_Party_(Czech_Republic)",
+        "http://dbpedia.org/resource/Category:Civic_Forum_breakaway_groups",
+        "http://dbpedia.org/resource/Category:European_Conservatives_and_Reformists_member_parties",
+        "http://dbpedia.org/resource/Category:Eurosceptic_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:International_Democrat_Union_member_parties",
+        "http://dbpedia.org/resource/Category:Liberal_conservative_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1991",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Political_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Right-wing_parties_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "3497.5896"
+      ],
+      "refCount": [
+        "55"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lech,_Czech,_and_Rus'"
+      ],
+      "redirectlabel": [
+        "Bohemus",
+        "Cech, Lech, and Rus",
+        "Cech, Lech and Rus",
+        "Cech, Rus, and Lech",
+        "Cech, Rus and Lech",
+        "Cech and Lech",
+        "Cech and Rus",
+        "<B>Czech</B>, Lech, and Rus",
+        "<B>Czech</B>, Lech and Rus",
+        "<B>Czech</B>, Rus, and Lech",
+        "<B>Czech</B>, Rus and Lech",
+        "<B>Czech</B> and Lech",
+        "<B>Czech</B> and Rus",
+        "Forefather Cech",
+        "Forefather Čech",
+        "Lech, Cech, and Rus",
+        "Lech, Cech and Rus",
+        "Lech, <B>Czech</B>, and Rus",
+        "Lech, <B>Czech</B> and Rus",
+        "Lech, Rus, and Cech",
+        "Lech, Rus, and <B>Czech</B>",
+        "Lech, Rus, and Čech",
+        "Lech, Rus and Cech",
+        "Lech, Rus and <B>Czech</B>",
+        "Lech, Rus and Čech",
+        "Lech, founder of Poland",
+        "Lech, Čech, and Rus",
+        "Lech, Čech and Rus",
+        "Lech and Cech",
+        "Lech and <B>Czech</B>",
+        "Lech and Rus",
+        "Lech and Čech",
+        "Rus, Cech, and Lech",
+        "Rus, Cech and Lech",
+        "Rus, <B>Czech</B>, and Lech",
+        "Rus, <B>Czech</B> and Lech",
+        "Rus, Lech, and Cech",
+        "Rus, Lech, and <B>Czech</B>",
+        "Rus, Lech, and Čech",
+        "Rus, Lech and Cech",
+        "Rus, Lech and <B>Czech</B>",
+        "Rus, Lech and Čech",
+        "Rus, Čech, and Lech",
+        "Rus, Čech and Lech",
+        "Rus and Cech",
+        "Rus and <B>Czech</B>",
+        "Rus and Lech",
+        "Rus and Čech",
+        "Three Slavic Brothers",
+        "Čech, Lech, and Rus",
+        "Čech, Lech and Rus",
+        "Čech, Rus, and Lech",
+        "Čech, Rus and Lech",
+        "Čech and Lech",
+        "Čech and Rus"
+      ],
+      "label": [
+        "Lech, <B>Czech</B>, and Rus'"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lech,_Czech,_and_Rus'"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_legends",
+        "http://dbpedia.org/resource/Category:Founding_monarchs",
+        "http://dbpedia.org/resource/Category:History_of_the_Rus'_people",
+        "http://dbpedia.org/resource/Category:Legendary_Polish_monarchs",
+        "http://dbpedia.org/resource/Category:Legendary_progenitors",
+        "http://dbpedia.org/resource/Category:Mythical_Bohemian_princes",
+        "http://dbpedia.org/resource/Category:Mythological_city_founders",
+        "http://dbpedia.org/resource/Category:Origin_myths",
+        "http://dbpedia.org/resource/Category:Polish_legends",
+        "http://dbpedia.org/resource/Category:Russian_legends",
+        "http://dbpedia.org/resource/Category:Sibling_trios",
+        "http://dbpedia.org/resource/Category:West_Slavic_history"
+      ]
+    },
+    {
+      "score": [
+        "3404.273"
+      ],
+      "refCount": [
+        "234"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Bohemia"
+      ],
+      "redirectlabel": [
+        "Bohemian Kingdom",
+        "Bohemian kingdom",
+        "<B>Czech</B> Kingdom",
+        "Königreich Böhmen",
+        "Regnum Bohemiae",
+        "České království"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " (<B>Czech</B>: České království; German: Königreich Böhmen; Latin: Regnum Bohemiae, sometimes Regnum <B>Czechorum</B>"
+      ],
+      "label": [
+        "Kingdom of Bohemia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Bohemia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1190s_establishments_in_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:1198_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:1918_disestablishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:2nd_millennium_in_Bohemia",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Former_Slavic_countries",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:History_of_Bohemia",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Bohemia",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Bohemian_Crown",
+        "http://dbpedia.org/resource/Category:Lands_of_the_Empire_of_Austria_(1867–1918)",
+        "http://dbpedia.org/resource/Category:Medieval_Kingdom_of_Bohemia",
+        "http://dbpedia.org/resource/Category:Monarchy_of_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1918",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1198",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Austria-Hungary"
+      ]
+    },
+    {
+      "score": [
+        "3281.803"
+      ],
+      "refCount": [
+        "1290"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Sony_Music"
+      ],
+      "redirectlabel": [
+        "Arista France",
+        "CBS Associated Records",
+        "Columbia Recording Corporation",
+        "Epic Amsterdam",
+        "Filtr",
+        "Higher Ground Records",
+        "JIVE Epic France",
+        "Rolf Schmidt-Holtz",
+        "Sony - Spain",
+        "Sony BMG Canada",
+        "Sony International",
+        "Sony Music BMG Entertainment",
+        "Sony Music Brazil",
+        "Sony Music Canada",
+        "Sony Music Colombia",
+        "Sony Music <B>Czech</B> Republic",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment (Holland) B.V.",
+        "Sony Music Entertainment (SME)",
+        "Sony Music Entertainment China",
+        "Sony Music Entertainment <B>Czech</B> Republic",
+        "Sony Music Entertainment France",
+        "Sony Music Entertainment Holland B.V.",
+        "Sony Music Entertainment Inc.",
+        "Sony Music Entertainment UK",
+        "Sony Music Entertainment UK Limited",
+        "Sony Music Indonesia",
+        "Sony Music International",
+        "Sony Music Italy",
+        "Sony Music Media",
+        "Sony Music Spain",
+        "Sony Music Taiwan",
+        "Sony Music UK",
+        "Sony Music Video",
+        "Sony Music uk",
+        "Sony U.K.",
+        "Sony – Spain"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "Sony Music Entertainment (commonly referred to as Sony Music), is an American global music conglomerate owned by Sony Corporation of America and incorporated as a general partnership of Sony Music Holdings Inc. through Sony Entertainment, a subsidiary of the Japanese conglomerate Sony. On July 17, 2019, Sony announced that Sony Music Entertainment and Sony/ATV would merge to become Sony Music Group. The merger was completed on August 1, 2019."
+      ],
+      "label": [
+        "Sony Music"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Sony_Music"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_companies_established_in_1929",
+        "http://dbpedia.org/resource/Category:American_subsidiaries_of_foreign_companies",
+        "http://dbpedia.org/resource/Category:Companies_based_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Entertainment_companies_established_in_1929",
+        "http://dbpedia.org/resource/Category:IFPI_members",
+        "http://dbpedia.org/resource/Category:Record_label_distributors",
+        "http://dbpedia.org/resource/Category:Recording_Industry_Association_of_America",
+        "http://dbpedia.org/resource/Category:Sony_Music"
+      ]
+    },
+    {
+      "score": [
+        "3266.1147"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–United_States_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-American relations",
+        "<B>Czech</B>-United States relations",
+        "<B>Czech</B> Republic-U.S. relations",
+        "<B>Czech</B> Republic-US relations",
+        "<B>Czech</B> Republic-United States relations",
+        "<B>Czech</B> Republic - U.S. relations",
+        "<B>Czech</B> Republic - US relations",
+        "<B>Czech</B> Republic - United States relations",
+        "<B>Czech</B> Republic U.S. relations",
+        "<B>Czech</B> Republic US relations",
+        "<B>Czech</B> Republic United States relations",
+        "<B>Czech</B> Republic – U.S. relations",
+        "<B>Czech</B> Republic – US relations",
+        "<B>Czech</B> Republic – United States relations",
+        "<B>Czech</B> Republic–U.S. relations",
+        "<B>Czech</B> Republic–US relations",
+        "<B>Czechia</B>-United States relations",
+        "<B>Czech</B>–United States relations",
+        "History of <B>Czech</B> Republic-United States relations",
+        "History of <B>Czech</B> Republic–United States relations",
+        "U.S.-<B>Czech</B> Republic relations",
+        "U.S. - <B>Czech</B> Republic relations",
+        "U.S. <B>Czech</B> Republic relations",
+        "U.S.–<B>Czech</B> Republic relations",
+        "US-<B>Czech</B> Republic relations",
+        "US - <B>Czech</B> Republic relations",
+        "US <B>Czech</B> Republic relations",
+        "US–<B>Czech</B> Republic relations",
+        "United States-<B>Czech</B> Republic relations",
+        "United States - <B>Czech</B> Republic relations",
+        "United States <B>Czech</B> Republic relations",
+        "United States–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–United States relations are bilateral relations between the <B>Czech</B> Republic and the"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–United States relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–United_States_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Czech_Republic–United_States_relations"
+      ]
+    },
+    {
+      "score": [
+        "3205.133"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1st_Czech_Republic_Hockey_League"
+      ],
+      "redirectlabel": [
+        "1. Národní Hokejová Liga",
+        "1. hokejová liga České republiky",
+        "1. narodni hokejova liga",
+        "1. národní hokejová liga",
+        "<B>Czech2</B>",
+        "<B>Czech</B> 1. liga",
+        "<B>Czech</B> 1.liga",
+        "<B>Czech</B> První Liga",
+        "First National Hockey League",
+        "WSM Liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "IceHockeyLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Chance Liga is the second-highest level of professional ice hockey in the <B>Czech</B> Republic, after"
+      ],
+      "label": [
+        "1st <B>Czech</B> Republic Hockey League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1st_Czech_Republic_Hockey_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/IceHockeyLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_1._Liga",
+        "http://dbpedia.org/resource/Category:Professional_ice_hockey_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Second_tier_ice_hockey_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "3114.0808"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Airlines"
+      ],
+      "redirectlabel": [
+        "CSA Ceskoslovenské Aerolinie",
+        "CSA <B>Czech</B>",
+        "CSA <B>Czech</B> Airlines",
+        "CSA <B>Czechoslovak</B> Airlines",
+        "CSA Czezkoslovenske",
+        "Ceske aerolinie, a. s.",
+        "Ceske aerolinie, as",
+        "Ceske aerolinie",
+        "Ceskeaerolinie.cz",
+        "Ceskoslovenske Aerlinie",
+        "Ceskoslovenske aerolinie",
+        "Ceskoslovenske statni aerolinie",
+        "<B>Czech</B> (airline)",
+        "<B>Czech</B> Airlines j.s.c.",
+        "<B>Czech</B> airlines",
+        "<B>Czechoslovak</B> Airlines",
+        "<B>Czechoslovakian</B> Airlines",
+        "Holidays <B>Czech</B> Airlines",
+        "Holidays <B>Czech</B> Airlines destinations",
+        "List of Holidays <B>Czech</B> Airlines destinations",
+        "OK Plus",
+        "ČSA (Československé Státní Aerolinie)",
+        "Československé Státní Aerolinie",
+        "Československé aerolinie",
+        "Československé státní aerolinie",
+        "České aerolinie, a. s.",
+        "České aerolinie, as",
+        "České aerolinie"
+      ],
+      "comment": [
+        "<B>Czech</B> Airlines j.s.c. (abbreviation: ČSA, <B>Czech</B>: České Aerolinie, a.s.) is the flag carrier of the"
+      ],
+      "label": [
+        "<B>Czech</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Airlines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1923_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_1923",
+        "http://dbpedia.org/resource/Category:Airlines_of_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Airlines_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Association_of_European_Airlines_members",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Prague",
+        "http://dbpedia.org/resource/Category:Companies_of_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Czech_Airlines",
+        "http://dbpedia.org/resource/Category:Czech_brands",
+        "http://dbpedia.org/resource/Category:Government-owned_airlines",
+        "http://dbpedia.org/resource/Category:SkyTeam"
+      ]
+    },
+    {
+      "score": [
+        "3070.2634"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_koruna"
+      ],
+      "redirectlabel": [
+        "Banknotes of the <B>Czech</B> koruna",
+        "Banknotes of the <B>czech</B> koruna",
+        "CZK",
+        "Coins of the <B>Czech</B> koruna",
+        "Coins of the <B>czech</B> koruna",
+        "Commemorative banknotes of the <B>Czech</B> koruna",
+        "<B>Czech</B> Koruna",
+        "<B>Czech</B> Republic Koruna",
+        "<B>Czech</B> coins",
+        "<B>Czech</B> crown",
+        "<B>Czech</B> currency",
+        "<B>Czech</B> koruna coins",
+        "<B>Czech</B> koruna paper money",
+        "<B>Czech</B> krona",
+        "<B>Czech</B> krone",
+        "ISO 4217:CZK",
+        "Kč",
+        "Paper money of the <B>Czech</B> koruna"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The koruna (sign: Kč; code: CZK) is the currency of the <B>Czech</B> Republic since 1993, and in English"
+      ],
+      "label": [
+        "<B>Czech</B> koruna"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_koruna"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1993",
+        "http://dbpedia.org/resource/Category:Currencies_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Currency_symbols"
+      ]
+    },
+    {
+      "score": [
+        "3031.815"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Statutory_city_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "Cities of the <B>Czech</B> Republic",
+        "List of cities, towns and villages in the <B>Czech</B> Republic",
+        "List of cities and towns in the <B>Czech</B> republic",
+        "List of cities in <B>Czech</B> Republic",
+        "List of cities in <B>czech</B> republic",
+        "List of statutory cities (<B>Czech</B> Republic)"
+      ],
+      "comment": [
+        "In <B>Czech</B> politics, a statutory city (<B>Czech</B>: statutární město) is a municipal corporation which has"
+      ],
+      "label": [
+        "Statutory city (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Statutory_city_(Czech_Republic)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_cities_by_country",
+        "http://dbpedia.org/resource/Category:Populated_places_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2982.6257"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Pirate_Party"
+      ],
+      "redirectlabel": [
+        "Adéla Šípova",
+        "<B>Czech</B> Pirates",
+        "<B>Czech</B> Republic Pirate Party",
+        "Jakub Michálek",
+        "Klára Kocmanová",
+        "Pirate Party (<B>Czech</B> Republic)",
+        "Pirate Party <B>Czech</B> Republic",
+        "Pirate Party of the <B>Czech</B> Republic",
+        "Pirate party of <B>czech</B> republic",
+        "Pirati.cz",
+        "Piráti",
+        "ČPS",
+        "Česká pirátská strana"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Czech</B> Pirate Party (<B>Czech</B>: Česká pirátská strana) or Pirates (<B>Czech</B>: Piráti) is a liberal"
+      ],
+      "label": [
+        "<B>Czech</B> Pirate Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Pirate_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Centrist_political_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Civil_liberties_advocacy_groups",
+        "http://dbpedia.org/resource/Category:Computer_law_organizations",
+        "http://dbpedia.org/resource/Category:Czech_Pirate_Party",
+        "http://dbpedia.org/resource/Category:Digital_rights_organizations",
+        "http://dbpedia.org/resource/Category:Direct_democracy_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Environmentalism_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Intellectual_property_activism",
+        "http://dbpedia.org/resource/Category:Intellectual_property_organizations",
+        "http://dbpedia.org/resource/Category:Internet-related_activism",
+        "http://dbpedia.org/resource/Category:Internet_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Internet_privacy_organizations",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Pirate_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2009",
+        "http://dbpedia.org/resource/Category:Privacy_organizations",
+        "http://dbpedia.org/resource/Category:Progressive_parties"
+      ]
+    },
+    {
+      "score": [
+        "2933.3843"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_diaspora"
+      ],
+      "redirectlabel": [
+        "Bohemian diaspora",
+        "<B>Czech</B> Argentines",
+        "<B>Czech</B> Chileans",
+        "<B>Czech</B> Colombian",
+        "<B>Czech</B> Colombians",
+        "<B>Czech</B> New Zealanders",
+        "<B>Czechs</B> Colombians",
+        "<B>Czechs</B> in Bosnia and Herzegovina",
+        "<B>Czechs</B> in Germany",
+        "<B>Czechs</B> in Ireland",
+        "<B>Czechs</B> in Italy",
+        "<B>Czechs</B> in Kazakhstan",
+        "<B>Czechs</B> in Macedonia",
+        "<B>Czechs</B> in Russia",
+        "<B>Czechs</B> in Slovakia",
+        "<B>Czechs</B> in Slovenia",
+        "<B>Czechs</B> in South Africa",
+        "<B>Czechs</B> in Spain",
+        "<B>Czechs</B> in Sweden",
+        "<B>Czechs</B> in Switzerland",
+        "<B>Czechs</B> in the Netherlands",
+        "Emigration from the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        " well as from the former <B>Czechoslovakia</B> and the <B>Czech</B> lands (including Bohemia, Moravia and Silesia"
+      ],
+      "label": [
+        "<B>Czech</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_diaspora",
+        "http://dbpedia.org/resource/Category:European_diasporas"
+      ]
+    },
+    {
+      "score": [
+        "2863.0725"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "10.13060",
+        "10.23852",
+        "10.25225",
+        "10.46854",
+        "10.46938",
+        "10.46957",
+        "10.47046",
+        "10.47376",
+        "10.51133",
+        "10.51134",
+        "AV ČR",
+        "Academy of Sciences of <B>Czechia</B>",
+        "Academy of Sciences of the <B>Czech</B> Republic",
+        "Academy of sciences of the <B>czech</B> republic",
+        "Akademie věd České republiky",
+        "<B>Czech</B> Academy of Science",
+        "Institute of Contemporary History, <B>Czech</B> Academy of Sciences",
+        "Institute of Contemporary History, Prague",
+        "Institute of Philosophy of the <B>Czech</B> Academy of Sciences",
+        "Institute of Sociology of the Academy of Sciences of the <B>Czech</B> Republic",
+        "Library of the <B>Czech</B> Academy of Sciences"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        " established in 1992 by the <B>Czech</B> National Council as the <B>Czech</B> successor of the former <B>Czechoslovak</B>"
+      ],
+      "label": [
+        "<B>Czech</B> Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Academy_of_Sciences"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Czech_Academy_of_Sciences",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:National_academies_of_arts_and_humanities",
+        "http://dbpedia.org/resource/Category:National_academies_of_sciences",
+        "http://dbpedia.org/resource/Category:Science_and_technology_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1992"
+      ]
+    },
+    {
+      "score": [
+        "2829.1147"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Technical_University_in_Prague"
+      ],
+      "redirectlabel": [
+        "10.14311",
+        "CTU in Prague",
+        "CVUT",
+        "CVUT FEL",
+        "Ceske vysoke uceni technicke v Praze",
+        "<B>Czech</B> Tech U",
+        "<B>Czech</B> Technical University",
+        "<B>Czech</B> Technical University Faculty of Nuclear Sciences and Physical Engineering",
+        "<B>Czech</B> Technical University in Prague - Central Library",
+        "FNSPE CTU",
+        "Faculty of Nuclear Sciences and Physical Engineering CTU",
+        "German Polytechnic University in Prague",
+        "Prague Polytechnic",
+        "Prague Polytechnical Institute",
+        "Prague polytechnic",
+        "TU Prague",
+        "TU Praha",
+        "Technical University of Prague",
+        "ČVUT",
+        "České vysoké učení technické v Praze"
+      ],
+      "typeName": [
+        "Organisation",
+        "University",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Czech</B> Technical University in Prague (CTU, <B>Czech</B>: České vysoké učení technické v Praze, ČVUT) is"
+      ],
+      "label": [
+        "<B>Czech</B> Technical University in Prague"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Technical_University_in_Prague"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/University",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1707_establishments_in_the_Habsburg_Monarchy",
+        "http://dbpedia.org/resource/Category:1707_establishments_in_the_Holy_Roman_Empire",
+        "http://dbpedia.org/resource/Category:18th-century_establishments_in_Bohemia",
+        "http://dbpedia.org/resource/Category:Czech_Technical_University_in_Prague",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1707",
+        "http://dbpedia.org/resource/Category:Educational_institutions_in_Prague",
+        "http://dbpedia.org/resource/Category:Engineering_universities_and_colleges_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Technical_universities_and_colleges",
+        "http://dbpedia.org/resource/Category:Universities_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2669.4958"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/COVID-19_pandemic_in_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "2020 <B>Czech</B> Republic coronavirus lockdown",
+        "2020 coronavirus epidemic in the <B>Czech</B> Republic",
+        "2020 coronavirus outbreak in the <B>Czech</B> Republic",
+        "2020 coronavirus pandemic in <B>Czech</B> Republic",
+        "2020 coronavirus pandemic in <B>Czechia</B>",
+        "2020 coronavirus pandemic in the <B>Czech</B> Republic",
+        "COVID-19 <B>Czech</B> Republic",
+        "COVID-19 outbreak in the <B>Czech</B> Republic",
+        "COVID-19 pandemic in <B>Czech</B> Republic",
+        "COVID-19 pandemic in <B>Czechia</B>",
+        "COVID-19 pandemic in Prague",
+        "COVID-19 pandemic in the <B>Czechia</B>",
+        "COVID-19 vaccination in <B>Czech</B> Republic",
+        "COVID-19 vaccination in <B>Czechia</B>",
+        "COVID19 <B>Czech</B> Republic",
+        "COVID 19 <B>Czech</B> Republic",
+        "COVID‑19 pandemic in the <B>Czech</B> Republic",
+        "Coronavirus <B>Czech</B> Republic",
+        "Coronavirus in <B>Czech</B> Republic",
+        "Coronavirus in <B>Czechia</B>",
+        "Coronavirus in the <B>Czech</B> Republic",
+        "Coronavirus pandemic in the <B>Czech</B> Republic",
+        "Covid <B>Czech</B> Republic",
+        "<B>Czech</B> Republic COVID-19",
+        "<B>Czech</B> Republic COVID19",
+        "<B>Czech</B> Republic COVID 19",
+        "<B>Czech</B> Republic Covid",
+        "<B>Czech</B> Republic coronavirus"
+      ],
+      "label": [
+        "COVID-19 pandemic in the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/COVID-19_pandemic_in_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_disasters_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:2021_disasters_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:COVID-19_pandemic_by_country",
+        "http://dbpedia.org/resource/Category:COVID-19_pandemic_in_Europe",
+        "http://dbpedia.org/resource/Category:COVID-19_pandemic_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Disease_outbreaks_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2620.406"
+      ],
+      "refCount": [
+        "85"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mladá_Boleslav"
+      ],
+      "redirectlabel": [
+        "Bumsla",
+        "Jung-Bunzlau",
+        "Jungbunzlau",
+        "Mlada Boleslav, <B>Czech</B> Republic",
+        "Mlada Boleslav",
+        "Mladá Boleslav, Bohemia, <B>Czech</B> Republic",
+        "Mladá Boleslav, Bohemia",
+        "Mladá Boleslav, <B>Czech</B> Republic",
+        "Mláda Boleslav"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Mladá Boleslav (<B>Czech</B> pronunciation: [ˈmladaː ˈbolɛslaf]; German: Jungbunzlau; both meaning \"New"
+      ],
+      "label": [
+        "Mladá Boleslav"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mladá_Boleslav"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Mladá_Boleslav",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Mladá_Boleslav_District"
+      ]
+    },
+    {
+      "score": [
+        "2619.6604"
+      ],
+      "refCount": [
+        "102"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Zlín"
+      ],
+      "redirectlabel": [
+        "Gottwaldov",
+        "History of Zlín",
+        "Zlin, <B>Czech</B> Republic",
+        "Zlin"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Zlín (<B>Czech</B> pronunciation: [zliːn]; German: Zlin) is a city in southeastern Moravia in the <B>Czech</B>"
+      ],
+      "label": [
+        "Zlín"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Zlín"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Architecture_related_to_utopias",
+        "http://dbpedia.org/resource/Category:Bata_Corporation",
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Planned_cities",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Zlín_District",
+        "http://dbpedia.org/resource/Category:Zlín"
+      ]
+    },
+    {
+      "score": [
+        "2602.619"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/TV_Nova_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "CET 21",
+        "<B>Czech</B> TV Nova",
+        "List of programs broadcast by TV Nova",
+        "Nova (<B>Czech</B> Republic)",
+        "Nova (<B>Czech</B> TV)",
+        "Nova (<B>Czech</B> TV channel)",
+        "Nova TV (<B>Czech</B> Republic)",
+        "TV Nova (<B>Czech</B> TV channel)",
+        "TýTý Awards"
+      ],
+      "comment": [
+        "TV Nova is a <B>Czech</B> commercial television station. It began broadcasting in February 1994 as the"
+      ],
+      "label": [
+        "TV Nova (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/TV_Nova_(Czech_Republic)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Central_European_Media_Enterprises",
+        "http://dbpedia.org/resource/Category:Czech-language_television_stations",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1994",
+        "http://dbpedia.org/resource/Category:Television_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Television_stations_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2601.795"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Americans"
+      ],
+      "redirectlabel": [
+        "Bohemian American",
+        "Bohemians of the United States",
+        "<B>Czech</B>-American",
+        "<B>Czech</B>-American people",
+        "<B>Czech</B>-American peoples",
+        "<B>Czech</B>-Americans",
+        "<B>Czech</B> American",
+        "<B>Czechoslovakian</B> American",
+        "<B>Czechs</B> in the United States",
+        "History of <B>Czech</B> Americans",
+        "List of cities in the United States by <B>Czech</B>-American population",
+        "Moravian American"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ", including the Kingdom of Bohemia, the Austrian Empire, <B>Czechoslovakia</B>, and the <B>Czech</B> Republic. Germans"
+      ],
+      "label": [
+        "<B>Czech</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Czech_descent",
+        "http://dbpedia.org/resource/Category:American_people_of_Czechoslovak_descent",
+        "http://dbpedia.org/resource/Category:Czech_American",
+        "http://dbpedia.org/resource/Category:Czech_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:European-American_society"
+      ]
+    },
+    {
+      "score": [
+        "2591.7373"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_National_Football_League"
+      ],
+      "redirectlabel": [
+        "2. fotbalova liga",
+        "2. fotbalová liga",
+        "<B>Czech</B> 2. Liga",
+        "<B>Czech</B> 2. liga",
+        "<B>Czech</B> Second League",
+        "Fortuna národní liga",
+        "Fotbalova narodni liga",
+        "Fotbalová národní liga",
+        "Česká Narodni Liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Czech</B> National Football League (<B>Czech</B>: Fotbalová národní liga, FNL), currently known as Fortuna"
+      ],
+      "label": [
+        "<B>Czech</B> National Football League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_National_Football_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_National_Football_League",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1993"
+      ]
+    },
+    {
+      "score": [
+        "2556.5962"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_National_Social_Party"
+      ],
+      "redirectlabel": [
+        "Ceska strana narodne socialni",
+        "<B>Czech</B> National Socialism",
+        "<B>Czech</B> Socialist Party",
+        "<B>Czech</B> Socialistic Party",
+        "<B>Czechochoslovak</B> Socialist Party",
+        "<B>Czechoslovak</B> National Social Party",
+        "<B>Czechoslovak</B> National Socialist Party",
+        "<B>Czechoslovak</B> Socialist Party",
+        "Liberal National Social Party",
+        "National Social Party",
+        "ČSNS",
+        "Česká strana národně sociální"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Czech</B> National Social Party (<B>Czech</B>: Česká strana národně sociální, ČSNS) is a civic nationalist"
+      ],
+      "label": [
+        "<B>Czech</B> National Social Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_National_Social_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1897_establishments_in_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:Czech_National_Social_Party",
+        "http://dbpedia.org/resource/Category:Czech_Social_Democratic_Party_breakaway_groups",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1897",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2524.716"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Army_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Active Reserve (<B>Czech</B> Army)",
+        "Active reserve (<B>Czech</B> republic)",
+        "Army of <B>Czechia</B>",
+        "Armáda České republiky",
+        "<B>Czech</B> Armed Forces",
+        "<B>Czech</B> Army",
+        "<B>Czech</B> Republic/Military",
+        "<B>Czech</B> army",
+        "<B>Czech</B> military",
+        "<B>Czech</B> republic/Military",
+        "<B>Czechoslovakian</B> Army",
+        "Eastern <B>Czech</B> Army",
+        "Land Forces of the <B>Czechoslovak</B> People's Army",
+        "Military budget of the <B>Czech</B> Republic",
+        "Military history of the <B>Czech</B> Republic",
+        "Military of <B>Czech</B> Republic",
+        "Military of the <B>Czech</B> Republic"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The Army of the <B>Czech</B> Republic (<B>Czech</B>: Armáda České republiky, AČR), also known as the <B>Czech</B> Army"
+      ],
+      "label": [
+        "Army of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Army_of_the_Czech_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Permanent_Structured_Cooperation"
+      ]
+    },
+    {
+      "score": [
+        "2486.84"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ministry_of_Defence_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Minister of Defence",
+        "<B>Czech</B> Minister of Defense",
+        "<B>Czech</B> Ministry of Defence",
+        "<B>Czech</B> Ministry of Defense",
+        "Minister of Defence (<B>Czech</B> Republic)",
+        "Minister of Defence of the <B>Czech</B> Republic",
+        "Minister of Defense (<B>Czech</B> Republic)",
+        "Minister of Defense of the <B>Czech</B> Republic",
+        "Ministerstvo obrany České republiky",
+        "Ministry of Defence & Armed Forces (<B>Czech</B> Republic)",
+        "Ministry of Defence & Armed Forces of the <B>Czech</B> Republic",
+        "Ministry of Defence and Armed Forces (<B>Czech</B> Republic)",
+        "Ministry of Defence and Armed Forces of the <B>Czech</B> Republic",
+        "Ministry of Defence of the <B>Czech</B> Republic",
+        "Ministry of Defense & Armed Forces (<B>Czech</B> Republic)",
+        "Ministry of Defense & Armed Forces of the <B>Czech</B> Republic",
+        "Ministry of Defense (<B>Czech</B> Republic)",
+        "Ministry of Defense and Armed Forces (<B>Czech</B> Republic)",
+        "Ministry of Defense and Armed Forces of the <B>Czech</B> Republic",
+        "Ministry of Defense of the <B>Czech</B> Republic"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        "Ministry of Defence of the <B>Czech</B> Republic (<B>Czech</B>: Ministerstvo obrany České republiky, MO ČR) is"
+      ],
+      "label": [
+        "Ministry of Defence (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ministry_of_Defence_(Czech_Republic)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_ministries_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2482.3843"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/China–Czech_Republic_relations"
+      ],
+      "redirectlabel": [
+        "China-<B>Czech</B> Republic relations",
+        "China <B>Czech</B> relations",
+        "<B>Czech</B>-China relations",
+        "<B>Czech</B> China relations",
+        "<B>Czech</B> Republic-China relations",
+        "<B>Czech</B> Republic-PRC relations",
+        "<B>Czech</B> Republic–China relations",
+        "<B>Czech</B> Republic–PRC relations",
+        "History of China-<B>Czech</B> Republic relations",
+        "History of China–<B>Czech</B> Republic relations",
+        "People's Republic of China-<B>Czech</B> Republic relations",
+        "People's Republic of China - <B>Czech</B> Republic relations",
+        "People's Republic of China – <B>Czech</B> Republic relations",
+        "People's Republic of China–<B>Czech</B> Republic relations",
+        "Sino-<B>Czech</B> relations",
+        "Sino <B>Czech</B> relations",
+        "Sino–<B>Czech</B> relations"
+      ],
+      "comment": [
+        " followed on 6 October 1949 between <B>Czechoslovakia</B> and China. In 1993, the <B>Czech</B> Republic was established"
+      ],
+      "label": [
+        "China–<B>Czech</B> Republic relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/China–Czech_Republic_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_China",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:China–Czech_Republic_relations"
+      ]
+    },
+    {
+      "score": [
+        "2468.5825"
+      ],
+      "refCount": [
+        "98"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pardubice"
+      ],
+      "redirectlabel": [
+        "History of Pardubice",
+        "Pardubice, <B>Czech</B> Republic",
+        "Pardubitz",
+        "Semtin",
+        "Semtín"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Pardubice (<B>Czech</B> pronunciation: [ˈpardubɪtsɛ] (); German: Pardubitz) is a city in the <B>Czech</B>"
+      ],
+      "label": [
+        "Pardubice"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pardubice"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Oil_campaign_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Pardubice",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Pardubice_District",
+        "http://dbpedia.org/resource/Category:Populated_places_on_the_Elbe",
+        "http://dbpedia.org/resource/Category:Populated_riverside_places_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2434.221"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Television"
+      ],
+      "redirectlabel": [
+        "CT 1",
+        "Ceska Televize",
+        "Ceska televize",
+        "Ceskoslovenská televize",
+        "Ceská Televize",
+        "Ceská televize",
+        "<B>Czech</B> TV",
+        "<B>Czechoslovak</B> Television",
+        "<B>Czechoslovakia</B> Television",
+        "F1 (<B>Czechoslovak</B>)",
+        "Golden Croc",
+        "OK3 (television)",
+        "ČST",
+        "ČT3",
+        "ČT",
+        "ČTV",
+        "Československá televize",
+        "Česká Televize",
+        "Česká televize",
+        "Česká televize Brno",
+        "Česká televize Praha"
+      ],
+      "label": [
+        "<B>Czech</B> Television"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Television"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1953_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1992_disestablishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:1992_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Czech_Television",
+        "http://dbpedia.org/resource/Category:Defunct_mass_media_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Eastern_Bloc_mass_media",
+        "http://dbpedia.org/resource/Category:European_Broadcasting_Union_members",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Publicly_funded_broadcasters",
+        "http://dbpedia.org/resource/Category:State_media",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_disestablished_in_1992",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1953",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1992",
+        "http://dbpedia.org/resource/Category:Television_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Television_stations_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2416.3096"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_wine"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic (wine)",
+        "<B>Czech</B> Republic wine",
+        "<B>Czech</B> Republic wines",
+        "<B>Czech</B> Wine",
+        "<B>Czech</B> Wines",
+        "<B>Czech</B> wines",
+        "Moravia (wine region)",
+        "Moravian wine",
+        "Wine of Moravia",
+        "Wine of the <B>Czech</B> Republic",
+        "Wines of Moravia",
+        "Wines of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "Wine in the <B>Czech</B> Republic is produced mainly in southern Moravia, although a few vineyards are"
+      ],
+      "label": [
+        "<B>Czech</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_wine"
+      ]
+    },
+    {
+      "score": [
+        "2405.1611"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Japan_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Japan relations",
+        "<B>Czech</B>-Japanese relations",
+        "<B>Czech</B> Republic-Japan relations",
+        "<B>Czech</B> Republic - Japan relations",
+        "<B>Czech</B> Republic – Japan relations",
+        "<B>Czech</B>–Japan relations",
+        "<B>Czech</B>–Japanese relations",
+        "History of <B>Czech</B> Republic-Japan relations",
+        "History of <B>Czech</B> Republic–Japan relations",
+        "Japan-<B>Czech</B> Republic relations",
+        "Japan-<B>Czech</B> relations",
+        "Japanese-<B>Czech</B> relations",
+        "Japanese–<B>Czech</B> relations",
+        "Japan–<B>Czech</B> Republic relations",
+        "Japan–<B>Czech</B> relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–Japan relations are bilateral relations between the <B>Czech</B> Republic and Japan. They were established in 1919 by <B>Czechoslovakia</B> and Japan."
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Japan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Japan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic–Japan_relations"
+      ]
+    },
+    {
+      "score": [
+        "2385.632"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Regions_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Counties of <B>Czech</B> Republic",
+        "<B>Czech</B> regions",
+        "List of Regions of <B>Czechia</B>",
+        "List of regions of the <B>Czech</B> Republic",
+        "Regions of <B>Czechia</B>"
+      ],
+      "comment": [
+        " units (vyšší územní samosprávné celky), which implements Chapter VII of the <B>Czech</B> Constitution, the"
+      ],
+      "label": [
+        "Regions of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Regions_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:First-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Regions_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2367.5981"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_the_Czech_lands"
+      ],
+      "redirectlabel": [
+        "Bohemian-Jewish",
+        "Bohemian Jew",
+        "Bohemian Jewish",
+        "Bohemian Jews",
+        "<B>Czech</B>-Jewish",
+        "<B>Czech</B> Jew",
+        "<B>Czech</B> Jewish",
+        "<B>Czech</B> Jews",
+        "<B>Czechoslovakian</B> Jews",
+        "History of <B>Czech</B> Jews",
+        "History of Jews in the <B>Czech</B> lands",
+        "History of the Jews in Bohemia and Moravia",
+        "History of the Jews in <B>Czech</B> Republic",
+        "History of the Jews in <B>Czechia</B>",
+        "History of the Jews in the <B>Czech</B> Republic",
+        "History of the jews in the <B>czech</B> republic",
+        "Holocaust in the <B>Czech</B> Republic",
+        "Jewish minority in the <B>Czech</B> Republic",
+        "Jews in <B>Czech</B> Republic",
+        "Jews in the <B>Czech</B> Republic",
+        "Jews of Bohemia",
+        "Jews of Bohemia and Moravia",
+        "Judaism in <B>Czechia</B>",
+        "Judaism in the <B>Czech</B> Republic",
+        "The Holocaust in the <B>Czech</B> Republic"
+      ],
+      "label": [
+        "History of the Jews in the <B>Czech</B> lands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_the_Czech_lands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jewish_Czech_history"
+      ]
+    },
+    {
+      "score": [
+        "2356.7659"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech–Slovak_languages"
+      ],
+      "redirectlabel": [
+        "Comparison of <B>Czech</B> and Slovak",
+        "Comparison of Slovak and <B>Czech</B>",
+        "<B>Czech</B>-Slovak languages",
+        "<B>Czecho</B>-Slovak languages",
+        "<B>Czecho</B>–Slovak languages",
+        "<B>Czechslovak</B> languages",
+        "Differences between Slovak and <B>Czech</B>",
+        "Differences between Slovak and <B>Czech</B> languages",
+        "Differences between the Slovak and <B>Czech</B> languages"
+      ],
+      "comment": [
+        "The <B>Czech</B> and Slovak languages form the <B>Czech</B>–Slovak (or <B>Czecho</B>–Slovak) subgroup within the West"
+      ],
+      "label": [
+        "<B>Czech</B>–Slovak languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech–Slovak_languages"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Comparison_of_Slavic_languages",
+        "http://dbpedia.org/resource/Category:Czech_language",
+        "http://dbpedia.org/resource/Category:Slovak_language"
+      ]
+    },
+    {
+      "score": [
+        "2320.3198"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Russia_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Russia relations",
+        "<B>Czech</B> Republic-Russia relations",
+        "<B>Czech</B> Republic - Russia relations",
+        "<B>Czech</B> Republic – Russia relations",
+        "<B>Czech</B> Russian relations",
+        "<B>Czechoslovakia</B>-Soviet Union relations",
+        "<B>Czechoslovakia</B> - Soviet Union relations",
+        "<B>Czechoslovakia</B> – Soviet Union relations",
+        "<B>Czechoslovakia</B>–Soviet Union relations",
+        "History of <B>Czech</B> Republic-Russia relations",
+        "History of <B>Czech</B> Republic–Russia relations",
+        "Russia-<B>Czech</B> Republic relations",
+        "Russian espionage in the <B>Czech</B> Republic",
+        "Russia–<B>Czech</B> Republic relations",
+        "Soviet-<B>Czechoslovak</B> relations",
+        "Soviet-<B>Czechoslovakia</B> Treaty of Mutual Assistance",
+        "Soviet–<B>Czechoslovakia</B> Treaty of Mutual Assistance"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–Russia relations are the bilateral foreign relations between the <B>Czech</B> Republic and"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Russia relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Russia_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Russia",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Russia_relations"
+      ]
+    },
+    {
+      "score": [
+        "2304.714"
+      ],
+      "refCount": [
+        "154"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Olomouc"
+      ],
+      "redirectlabel": [
+        "Fortress of Olmütz",
+        "History of Olomouc",
+        "Holomóc",
+        "Olmuetz",
+        "Olmutz",
+        "Olmütz",
+        "Olomoc",
+        "Olomouc, <B>Czech</B> Republic",
+        "Olomouc, Moravia",
+        "Olomuc",
+        "Olomóc"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Olomouc (UK:  OL-ə-mohts, US:  OH-loh-, <B>Czech</B>: [ˈolomouts] (); locally Holomóc or Olomóc; German"
+      ],
+      "label": [
+        "Olomouc"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Olomouc"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Holocaust_locations_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Margraviate_of_Moravia",
+        "http://dbpedia.org/resource/Category:Olomouc",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Olomouc_District"
+      ]
+    },
+    {
+      "score": [
+        "2295.9954"
+      ],
+      "refCount": [
+        "75"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Karlovy_Vary"
+      ],
+      "redirectlabel": [
+        "Carlsbad, Bohemia",
+        "Carlsbad, <B>Czech</B> Republic",
+        "Karlovy Vary, <B>Czech</B> Republic",
+        "Karlsbad, Bohemia",
+        "Karlsbad (Bohemia)",
+        "Sprudel",
+        "Thermae Carolinae",
+        "Vridlo",
+        "Vřídlo"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Karlovy Vary (<B>Czech</B> pronunciation: [ˈkarlovɪ ˈvarɪ] (); German: Karlsbad) is a spa town situated in"
+      ],
+      "label": [
+        "Karlovy Vary"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Karlovy_Vary"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Karlovy_Vary",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Karlovy_Vary_District",
+        "http://dbpedia.org/resource/Category:Spa_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Towns_in_the_Ore_Mountains"
+      ]
+    },
+    {
+      "score": [
+        "2230.8354"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Germany_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-German relations",
+        "<B>Czech</B> Republic-Germany relations",
+        "<B>Czech</B> Republic - Germany relations",
+        "<B>Czech</B> Republic Germany relations",
+        "<B>Czech</B> Republic – Germany relations",
+        "<B>Czechia</B>-Germany relations",
+        "<B>Czechia</B>–Germany relations",
+        "<B>Czech</B>–German relations",
+        "Germany-<B>Czech</B> Republic relations",
+        "Germany - <B>Czech</B> Republic relations",
+        "Germany <B>Czech</B> Republic relations",
+        "Germany – <B>Czech</B> Republic relations",
+        "Germany–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B>–German relations date back some 1,500 years. Today, the two countries share 815 km of common"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Germany relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Germany_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Germany",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Germany_relations",
+        "http://dbpedia.org/resource/Category:Sudetenland"
+      ]
+    },
+    {
+      "score": [
+        "2216.4194"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic/Government",
+        "<B>Czech</B> Republic politics",
+        "<B>Czech</B> politician",
+        "<B>Czech</B> politicians",
+        "<B>Czech</B> politics",
+        "<B>Czech</B> republic/Government",
+        "<B>Czechia</B> politics",
+        "Government of <B>czech</B> republic",
+        "Politics of <B>Czech</B> Republic",
+        "Politics of <B>Czechia</B>",
+        "Politics of the <B>czech</B> republic"
+      ],
+      "comment": [
+        "The <B>Czech</B> Republic is a unitary parliamentary constitutional republic, in which the President is"
+      ],
+      "label": [
+        "Politics of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Politics_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2196.8508"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/O2_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Cesky Telecom",
+        "Cesky telekom",
+        "<B>Czech</B> Telecom",
+        "O2 (<B>Czech</B> Republic)",
+        "Telefonica <B>Czech</B> Republic",
+        "Telefonica O2 C.R.",
+        "Telefonica O2 <B>Czech</B> Republic",
+        "Telefónica <B>Czech</B> Republic",
+        "Telefónica O2 C.R.",
+        "Telefónica O2 <B>Czech</B> Republic",
+        "Český Telecom",
+        "Český telekom"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "O2 <B>Czech</B> Republic (operating under the O2 brand) is a major integrated operator in the <B>Czech</B>"
+      ],
+      "label": [
+        "O2 <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/O2_Czech_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Mobile_phone_companies_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:PPF_Group",
+        "http://dbpedia.org/resource/Category:Telecommunications_companies_established_in_2006",
+        "http://dbpedia.org/resource/Category:Telefónica"
+      ]
+    },
+    {
+      "score": [
+        "2188.7083"
+      ],
+      "refCount": [
+        "815"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czechoslovakia_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Czechoslovak</B> national football team",
+        "RCS national football team",
+        "Representation of <B>Czechs</B> and Slovaks",
+        "Representation of <B>Czechs</B> and Slovaks national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Czechoslovakia</B> national football team (<B>Czech</B>: Československá fotbalová reprezentace, Slovak"
+      ],
+      "label": [
+        "<B>Czechoslovakia</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czechoslovakia_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Czechoslovakia_national_football_team",
+        "http://dbpedia.org/resource/Category:Former_national_association_football_teams_in_Europe",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1920",
+        "http://dbpedia.org/resource/Category:UEFA_European_Championship-winning_countries"
+      ]
+    },
+    {
+      "score": [
+        "2185.647"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Demographics_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Demographics",
+        "<B>Czech</B> Republic/People",
+        "<B>Czech</B> republic/People",
+        "Demographics of <B>Czech</B> Republic",
+        "Demographics of <B>Czechia</B>",
+        "Demographics of <B>czechia</B>",
+        "Demographics of the <B>czech</B> republic",
+        "Ethnic groups in the <B>Czech</B> Republic",
+        "Immigration to <B>Czech</B> Republic",
+        "Immigration to the <B>Czech</B> Republic",
+        "Languages of <B>Czech</B> Republic",
+        "Languages of the <B>Czech</B> Republic",
+        "Population of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "This article is about the demographic features of the population of the <B>Czech</B> Republic, including"
+      ],
+      "label": [
+        "Demographics of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Demographics_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Demographics_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2183.9297"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kolín"
+      ],
+      "redirectlabel": [
+        "Kolin, <B>Czech</B> Republic"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Kolín (<B>Czech</B> pronunciation: [ˈkoliːn]; German: Kolin, Köllein, Collin) is a town in the Central"
+      ],
+      "label": [
+        "Kolín"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kolín"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Kolín",
+        "http://dbpedia.org/resource/Category:Oil_campaign_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Kolín_District",
+        "http://dbpedia.org/resource/Category:Populated_places_on_the_Elbe",
+        "http://dbpedia.org/resource/Category:Populated_riverside_places_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2179.7598"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Czech_First_League"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Czech</B> First League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Czech</B> First League, known as the Fortuna liga for sponsorship reasons, is the 26th"
+      ],
+      "label": [
+        "2018–19 <B>Czech</B> First League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Czech_First_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Czech_football",
+        "http://dbpedia.org/resource/Category:2018–19_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Czech_First_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2140.8245"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Flag_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "CR flag",
+        "<B>Czech</B> Flag",
+        "<B>Czech</B> Republic flag",
+        "<B>Czech</B> flag",
+        "<B>Czechia</B> flag",
+        "Flag of Bohemia and Moravia",
+        "Flag of <B>Czech</B>",
+        "Flag of <B>Czech</B> Republic",
+        "Flag of <B>Czechia</B>",
+        "Flag of <B>Czechoslovakia</B>",
+        "Flag of the <B>Czecho</B>-Slovakia",
+        "Flag of the <B>czech</B> republic",
+        "Presidential Standard of the <B>Czech</B> Republic",
+        "Standard of the President of the <B>Czech</B> Republic",
+        "🇨🇿"
+      ],
+      "comment": [
+        " flag of former <B>Czechoslovakia</B>. Upon the dissolution of <B>Czechoslovakia</B>, the <B>Czech</B> Republic kept the"
+      ],
+      "label": [
+        "Flag of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Flag_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Flags_introduced_in_1920",
+        "http://dbpedia.org/resource/Category:Flags_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:National_flags",
+        "http://dbpedia.org/resource/Category:National_symbols_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2127.2087"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Czech_lands"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic/History",
+        "<B>Czech</B> history",
+        "<B>Czech</B> republic/History",
+        "History of <B>Czech</B> Republic",
+        "History of <B>Czech</B> lands",
+        "History of <B>Czechia</B>",
+        "History of the <B>Czech</B> Lands",
+        "History of the <B>Czech</B> Republic",
+        "History of the <B>Czechia</B>",
+        "History of the <B>Czechs</B>",
+        "History of the <B>czech</B> lands",
+        "Prehistory of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "The history of what are now known as the <B>Czech</B> lands (<B>Czech</B>: České země) is very diverse. These"
+      ],
+      "label": [
+        "History of the <B>Czech</B> lands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Czech_lands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bohemistics",
+        "http://dbpedia.org/resource/Category:History_of_the_Czech_lands",
+        "http://dbpedia.org/resource/Category:Prehistory_of_the_Czech_lands"
+      ]
+    },
+    {
+      "score": [
+        "2122.0027"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine in <B>Czechia</B>",
+        "Cuisine of <B>Czechia</B>",
+        "Cuisine of the <B>Czech</B> Republic",
+        "<B>Czech</B> bread",
+        "<B>Czech</B> food",
+        "<B>Czech</B> pastries",
+        "History of <B>Czech</B> cuisine"
+      ],
+      "comment": [
+        "<B>Czech</B> cuisine (<B>Czech</B>: česká kuchyně) has both influenced and been influenced by the cuisines of"
+      ],
+      "label": [
+        "<B>Czech</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2102.0989"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mělník"
+      ],
+      "redirectlabel": [
+        "Melnik, <B>Czech</B> Republic",
+        "Melnik, <B>Czech</B> Republik",
+        "Melnik (<B>Czech</B> republic)",
+        "Mělník, <B>Czech</B> Republic"
+      ],
+      "typeName": [
+        "Settlement",
+        "Town",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Mělník (<B>Czech</B> pronunciation: [ˈmɲɛlɲiːk]; German: Melnik) is a town in the Central Bohemian Region"
+      ],
+      "label": [
+        "Mělník"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mělník"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Town",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Mělník_District",
+        "http://dbpedia.org/resource/Category:Populated_places_on_the_Elbe",
+        "http://dbpedia.org/resource/Category:Populated_riverside_places_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2098.2205"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Cinema of <B>Czech</B> Republic",
+        "Cinema of <B>Czechia</B>",
+        "Cinema of <B>Czechoslovakia</B>",
+        "Cinema of the <B>Czech</B> republic",
+        "Cinema of the <B>Czechoslovakia</B>",
+        "Cinema of the <B>czech</B> republic",
+        "<B>Czech</B> cinema",
+        "<B>Czech</B> film industry",
+        "<B>Czechoslovak</B> cinema",
+        "<B>Czechoslovakian</B> cinema",
+        "History of cinema in the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "<B>Czech</B> cinema is the name for cinematography of <B>Czech</B> Republic, as well as the <B>Czech</B> cinematography"
+      ],
+      "label": [
+        "Cinema of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Cinema_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "2087.1738"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Iran_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Iran relations",
+        "<B>Czech</B>-Iranian relations",
+        "<B>Czech</B> Republic-Iran relations",
+        "<B>Czech</B> Republic-Iranian relations",
+        "<B>Czech</B> Republic - Iran relations",
+        "<B>Czech</B> Republic – Iran relations",
+        "<B>Czech</B> Republic–Iranian relations",
+        "<B>Czech</B>–Iran relations",
+        "<B>Czech</B>–Iranian relations",
+        "Iran-<B>Czech</B> Republic relations",
+        "Iran–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–Iran relations are bilateral relations between the <B>Czech</B> Republic and Iran."
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Iran relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Iran_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Iran",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Iran_relations"
+      ]
+    },
+    {
+      "score": [
+        "2073.349"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Pakistan_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Pakistani relations",
+        "<B>Czech</B> Republic-Pakistan relations",
+        "<B>Czech</B> Republic-Pakistani relations",
+        "<B>Czech</B> Republic - Pakistan relations",
+        "<B>Czech</B> Republic – Pakistan relations",
+        "<B>Czech</B> Republic–Pakistani relations",
+        "<B>Czech</B>–Pakistani relations",
+        "Pakistan-<B>Czech</B> Republic relations",
+        "Pakistan - <B>Czech</B> Republic relations",
+        "Pakistan – <B>Czech</B> Republic relations",
+        "Pakistan–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        " <B>Czechoslovakia</B> and re-established by the <B>Czech</B> Republic in 1991. Pakistan has an embassy in Prague and the <B>Czech</B> Republic has an embassy in Islamabad."
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Pakistan relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Pakistan_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Pakistan_relations"
+      ]
+    },
+    {
+      "score": [
+        "2072.4036"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Green_Party_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Green Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Green Party (<B>Czech</B>: Strana zelených, literally Party of Greens) is a green political party in"
+      ],
+      "label": [
+        "Green Party (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Green_Party_(Czech_Republic)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Global_Greens_member_parties",
+        "http://dbpedia.org/resource/Category:Green_Party_(Czech_Republic)",
+        "http://dbpedia.org/resource/Category:Green_liberalism",
+        "http://dbpedia.org/resource/Category:Green_political_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1990",
+        "http://dbpedia.org/resource/Category:Pro-European_political_parties_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Social_liberal_parties"
+      ]
+    },
+    {
+      "score": [
+        "2069.6477"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Canada–Czech_Republic_relations"
+      ],
+      "redirectlabel": [
+        "Canada-<B>Czech</B> Republic relations",
+        "Canada - <B>Czech</B> Republic relations",
+        "Canada <B>Czech</B> Republic relations",
+        "Canada – <B>Czech</B> Republic relations",
+        "Canadan-<B>Czech</B> relations",
+        "Canadian-<B>Czech</B> relations",
+        "<B>Czech</B> Republic-Canada relations",
+        "<B>Czech</B> Republic - Canada relations",
+        "<B>Czech</B> Republic Canada relations",
+        "<B>Czech</B> Republic – Canada relations",
+        "<B>Czech</B> Republic–Canada relations"
+      ],
+      "comment": [
+        "Canada–<B>Czech</B> Republic relations are foreign relations between Canada and the <B>Czech</B> Republic. Canada"
+      ],
+      "label": [
+        "Canada–<B>Czech</B> Republic relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Canada–Czech_Republic_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Canada",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Canada–Czech_Republic_relations"
+      ]
+    },
+    {
+      "score": [
+        "2062.47"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–France_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-French relations",
+        "<B>Czech</B> Republic - France relations",
+        "<B>Czech</B> Republic France relations",
+        "<B>Czech</B> Republic – France relations",
+        "<B>Czechia</B>-France relations",
+        "<B>Czechia</B>–France relations",
+        "France-<B>Czech</B> Republic relations",
+        "France - <B>Czech</B> Republic relations",
+        "France <B>Czech</B> Republic relations",
+        "France – <B>Czech</B> Republic relations",
+        "France–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–France refers to the current and historical relationship between the <B>Czech</B> Republic"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–France relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–France_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_France",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–France_relations"
+      ]
+    },
+    {
+      "score": [
+        "2050.9343"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Poland_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Polish relations",
+        "<B>Czech</B> Republic-Poland relations",
+        "<B>Czech</B> Republic - Poland relations",
+        "<B>Czech</B> Republic – Poland relations",
+        "Poland-<B>Czech</B> Republic relations",
+        "Poland-<B>Czech</B> relations",
+        "Poland - <B>Czech</B> Republic relations",
+        "Poland – <B>Czech</B> Republic relations",
+        "Poland–<B>Czech</B> Republic relations",
+        "Poland–<B>Czech</B> relations",
+        "Polish invasion of <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "Poland and the <B>Czech</B> Republic are both members of the European Union and NATO. Both joined the EU"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Poland relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Poland_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Poland",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Poland_relations"
+      ]
+    },
+    {
+      "score": [
+        "2050.6235"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Economy_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic/Economy",
+        "<B>Czech</B> Republic economy",
+        "<B>Czech</B> economics",
+        "<B>Czech</B> economy",
+        "<B>Czech</B> republic/Economy",
+        "Economic history of the <B>Czech</B> Republic",
+        "Economy of <B>Czech</B> Republic",
+        "Economy of <B>Czechia</B>",
+        "Economy of the <B>Czech</B> Republic/table",
+        "Economy of the <B>Czechia</B>",
+        "Economy of the <B>czech</B> republic",
+        "Foreign trade of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "The economy of the <B>Czech</B> Republic is a developed export-oriented social market economy based in"
+      ],
+      "label": [
+        "Economy of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Economy_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Economies_of_Europe_by_country",
+        "http://dbpedia.org/resource/Category:Economy_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:European_Union_member_economies",
+        "http://dbpedia.org/resource/Category:OECD_member_economies"
+      ]
+    },
+    {
+      "score": [
+        "2033.5828"
+      ],
+      "refCount": [
+        "71"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Opava"
+      ],
+      "redirectlabel": [
+        "History of Opava",
+        "Opava, <B>Czech</B> Republic",
+        "Opava Silesia",
+        "Tropp",
+        "Troppau"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Opava (<B>Czech</B> pronunciation: [opˈava] (); German: Troppau, Lower Silesian: Tropp, Polish: Opawa"
+      ],
+      "label": [
+        "Opava"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Opava"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Cities_in_Silesia",
+        "http://dbpedia.org/resource/Category:Opava"
+      ]
+    },
+    {
+      "score": [
+        "2030.0416"
+      ],
+      "refCount": [
+        "98"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liberec"
+      ],
+      "redirectlabel": [
+        "History of Liberec",
+        "Liberce",
+        "Liberec, <B>Czech</B> Republic",
+        "Liberec, <B>Czechoslovakia</B>",
+        "Liberecky",
+        "Reichenberg (Bohemia)",
+        "Trams in Liberec"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Liberec (<B>Czech</B>: [ˈlɪbɛrɛts] (); German: Reichenberg [ˈʁaɪçn̩bɛɐ̯k]) is a city in the <B>Czech</B> Republic"
+      ],
+      "label": [
+        "Liberec"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liberec"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Holocaust_locations_in_Czechoslovakia",
+        "http://dbpedia.org/resource/Category:Liberec",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Liberec_District"
+      ]
+    },
+    {
+      "score": [
+        "2028.1661"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazil–Czech_Republic_relations"
+      ],
+      "redirectlabel": [
+        "Brazil-<B>Czech</B> Republic relations",
+        "Brazil - <B>Czech</B> Republic relations",
+        "Brazil <B>Czech</B> Republic relations",
+        "Brazil – <B>Czech</B> Republic relations",
+        "<B>Czech</B> Republic-Brazil relations",
+        "<B>Czech</B> Republic - Brazil relations",
+        "<B>Czech</B> Republic Brazil relations",
+        "<B>Czech</B> Republic – Brazil relations",
+        "<B>Czech</B> Republic–Brazil relations",
+        "History of Brazil-<B>Czech</B> Republic relations",
+        "History of Brazil–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "Brazil–<B>Czech</B> Republic relations refers to the diplomatic relations between the Federative Republic"
+      ],
+      "label": [
+        "Brazil–<B>Czech</B> Republic relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazil–Czech_Republic_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Brazil",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Brazil–Czech_Republic_relations"
+      ]
+    },
+    {
+      "score": [
+        "2028.0656"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bohemian_Football_League"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Football League",
+        "<B>Czech</B> football league",
+        "ČFL",
+        "Česká fotbalová liga"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "Bohemian Football League (ČFL) (<B>Czech</B>: Česká fotbalová liga) is one of the third level football"
+      ],
+      "label": [
+        "Bohemian Football League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bohemian_Football_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bohemian_Football_League",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Third_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2023.523"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Indonesia_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic-Indonesia relations",
+        "<B>Czech</B> Republic - Indonesia relations",
+        "<B>Czech</B> Republic Indonesia relations",
+        "<B>Czech</B> Republic – Indonesia relations",
+        "History of <B>Czech</B> Republic-Indonesia relations",
+        "History of <B>Czech</B> Republic–Indonesia relations",
+        "Indonesia-<B>Czech</B> Republic relations",
+        "Indonesia - <B>Czech</B> Republic relations",
+        "Indonesia <B>Czech</B> Republic relations",
+        "Indonesia – <B>Czech</B> Republic relations",
+        "Indonesia–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–Indonesia relations are foreign relations between the <B>Czech</B> Republic and Indonesia"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Indonesia relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Indonesia_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Indonesia",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Indonesia_relations"
+      ]
+    },
+    {
+      "score": [
+        "1998.3802"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Public_holidays_in_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Republic holiday",
+        "<B>Czech</B> Republic holidays",
+        "<B>Czech</B> Statehood Day",
+        "<B>Czech</B> holidays",
+        "Day of the Establishment of an Independent <B>Czecho</B>-Slovak State",
+        "Holiday <B>Czech</B> Republic",
+        "Holidays <B>Czech</B> Republic",
+        "Holidays in the <B>Czech</B> Republic",
+        "Jan Hus Day",
+        "Public holiday in the <B>Czech</B> Republic",
+        "Public holidays in <B>Czech</B> Republic",
+        "Public holidays in <B>Czechia</B>",
+        "Restoration Day of the Independent <B>Czech</B> State"
+      ],
+      "comment": [
+        "Public holidays in the <B>Czech</B> Republic:"
+      ],
+      "label": [
+        "Public holidays in the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Public_holidays_in_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_culture",
+        "http://dbpedia.org/resource/Category:Lists_of_events_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Lists_of_public_holidays_by_country",
+        "http://dbpedia.org/resource/Category:Public_holidays_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Society_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1991.8663"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "label": [
+        "<B>Czech</B> Mongolian"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Mongolian"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Mongolian"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Mongolian",
+        "<B>Czech</B>-Mongolians",
+        "<B>Czech</B> Mongolians",
+        "Mongolian-<B>Czech</B>",
+        "Mongolian-<B>Czechs</B>",
+        "Mongolian <B>Czech</B>",
+        "Mongolian <B>Czechs</B>"
+      ]
+    },
+    {
+      "score": [
+        "1990.0729"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Government_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Cabinet of the <B>Czech</B> Republic",
+        "Cabinet of the <B>czech</B> republic",
+        "<B>Czech</B> Republic's Cabinet",
+        "<B>Czech</B> Republic government",
+        "<B>Czech</B> government",
+        "<B>Czechia</B> Government",
+        "Government of <B>Czech</B> Republic",
+        "Government of <B>Czechia</B>"
+      ],
+      "comment": [
+        "The Government of the <B>Czech</B> Republic (<B>Czech</B>: Vláda České republiky) exercises executive power in"
+      ],
+      "label": [
+        "Government of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Government_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_governments",
+        "http://dbpedia.org/resource/Category:Government_ministers_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Government_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Politics_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1978.5525"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/D0_motorway_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "D0 expressway (<B>Czech</B> Republic)",
+        "D0 expressway (<B>Czechia</B>)",
+        "Městský okruh",
+        "Pražský okruh",
+        "R1 expressway (<B>Czech</B> Republic)"
+      ],
+      "typeName": [
+        "Road",
+        "Place",
+        "ArchitecturalStructure",
+        "Location",
+        "Infrastructure",
+        "RouteOfTransportation"
+      ],
+      "comment": [
+        "D0 motorway (<B>Czech</B>: Dálnice D0), formerly R1 expressway (<B>Czech</B>: Rychlostní silnice R1), also Prague"
+      ],
+      "label": [
+        "D0 motorway (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/D0_motorway_(Czech_Republic)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Road",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/ArchitecturalStructure",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Infrastructure",
+        "http://dbpedia.org/ontology/RouteOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Motorways_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Proposed_roads_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Ring_roads"
+      ]
+    },
+    {
+      "score": [
+        "1973.9685"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Denmark_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Danish relations",
+        "<B>Czech</B> Republic-Denmark relations",
+        "<B>Czech</B> Republic - Denmark relations",
+        "<B>Czech</B> Republic Denmark relations",
+        "<B>Czech</B> Republic – Denmark relations",
+        "Denmark-<B>Czech</B> Republic relations",
+        "Denmark - <B>Czech</B> Republic relations",
+        "Denmark <B>Czech</B> Republic relations",
+        "Denmark – <B>Czech</B> Republic relations",
+        "Denmark–<B>Czech</B> Republic relations"
+      ],
+      "comment": [
+        "<B>Czech</B> Republic–Denmark relations are the current and historical relations between <B>Czech</B> Republic"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Denmark relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Denmark_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Denmark",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Denmark_relations"
+      ]
+    },
+    {
+      "score": [
+        "1973.36"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Austria–Czech_Republic_relations"
+      ],
+      "redirectlabel": [
+        "Austria-<B>Czech</B> Republic relations",
+        "Austria - <B>Czech</B> Republic relations",
+        "Austria <B>Czech</B> Republic relations",
+        "Austria – <B>Czech</B> Republic relations",
+        "Austrian-<B>Czech</B> relations",
+        "<B>Czech</B> Republic-Austria relations",
+        "<B>Czech</B> Republic - Austria relations",
+        "<B>Czech</B> Republic Austria relations",
+        "<B>Czech</B> Republic – Austria relations",
+        "<B>Czech</B> Republic–Austria relations"
+      ],
+      "comment": [
+        "Austria – <B>Czech</B> Republic relations are the neighborly relations between Austria and the <B>Czech</B> Republic, two member states of the European Union."
+      ],
+      "label": [
+        "Austria–<B>Czech</B> Republic relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Austria–Czech_Republic_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Austria–Czech_Republic_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Austria",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1966.3801"
+      ],
+      "refCount": [
+        "224"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ostrava"
+      ],
+      "redirectlabel": [
+        "History of Ostrava",
+        "List of people from Ostrava",
+        "Maehrisch-Ostrau",
+        "Maehrisch Ostrau",
+        "Maehrisch ostrau",
+        "Mahrisch-Ostrau",
+        "Mahrisch Ostrau",
+        "Moravian Ostrava",
+        "Moravská Ostrava",
+        "Mährisch-Ostrau",
+        "Mährisch Ostrau",
+        "Mährish-Ostrau",
+        "Ostrava, <B>Czech</B> Republic",
+        "Ostrava, <B>Czechoslovakia</B>",
+        "Ostrava Moravian"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Ostrava (<B>Czech</B> pronunciation: [ˈostrava], locally: [oˈstrava] (); Polish: Ostrawa, German: Ostrau"
+      ],
+      "label": [
+        "Ostrava"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ostrava"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Cities_in_Silesia",
+        "http://dbpedia.org/resource/Category:Mining_communities_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Ostrava",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Ostrava-City_District"
+      ]
+    },
+    {
+      "score": [
+        "1960.0662"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_literature"
+      ],
+      "redirectlabel": [
+        "Bohemian literature",
+        "<B>Czech</B> Literature",
+        "<B>Czech</B> Republic/Literature",
+        "<B>Czech</B> poetry",
+        "Literature in <B>Czechia</B>",
+        "Literature of <B>Czechia</B>",
+        "Literature of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "<B>Czech</B> literature is the literature written in the <B>Czech</B> language.The earliest literary works"
+      ],
+      "label": [
+        "<B>Czech</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_literature",
+        "http://dbpedia.org/resource/Category:European_literature"
+      ]
+    },
+    {
+      "score": [
+        "1943.7065"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_national_identity_card"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> I.D.",
+        "<B>Czech</B> ID",
+        "<B>Czech</B> National Identification Card",
+        "Identity card (<B>Czech</B> Republic)",
+        "National identity card (<B>Czech</B> Republic)",
+        "National identity cards in the <B>Czech</B> Republic",
+        "Obcanka",
+        "Obcansky Prukaz",
+        "Obcansky prukaz",
+        "Občanka",
+        "Občanský průkaz"
+      ],
+      "comment": [
+        " (and formerly in <B>Czechoslovakia</B>), in addition to the <B>Czech</B> passport. It is issued to all citizens"
+      ],
+      "label": [
+        "<B>Czech</B> national identity card"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_national_identity_card"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_identity_cards_by_country",
+        "http://dbpedia.org/resource/Category:Society_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1941.9094"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> (disambiguation)",
+        "<B>Czechian</B>",
+        "<B>Czekh</B>"
+      ],
+      "label": [
+        "<B>Czech</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1932.2142"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Czech_National_Football_League"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Czech</B> National Football League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Czech</B> National Football League was the 26th season of the <B>Czech</B> Republic's second tier"
+      ],
+      "label": [
+        "2018–19 <B>Czech</B> National Football League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Czech_National_Football_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_European_second_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:Czech_National_Football_League",
+        "http://dbpedia.org/resource/Category:Czech_National_Football_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1932.006"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Socialist_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Socialist Republic (1969-1990)/<B>Czech</B> Republic (1990-1992)",
+        "<B>Czech</B> Socialist Republic (1969–1990)/<B>Czech</B> Republic (1990–1992)",
+        "<B>Czech</B> Socialistic Republic"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " republic within the <B>Czechoslovak</B> Socialist Republic that is now the independent <B>Czech</B> Republic. The name was used from 1 January 1969 to March 1990."
+      ],
+      "label": [
+        "<B>Czech</B> Socialist Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Socialist_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Communism_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czechoslovak_Socialist_Republic",
+        "http://dbpedia.org/resource/Category:Former_socialist_republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1993"
+      ]
+    },
+    {
+      "score": [
+        "1930.787"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prime_Minister_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Chairman of the Government of <B>Czechia</B>",
+        "Chairman of the Government of the <B>Czech</B> Republic",
+        "<B>Czech</B> PM",
+        "<B>Czech</B> Prime Minister",
+        "<B>Czech</B> prime minister",
+        "<B>Czechia</B> Prime Minister",
+        "PM of <B>Czechia</B>",
+        "PM of the <B>Czech</B> Republic",
+        "President of the <B>Czech</B> Government",
+        "Prime Minister of <B>Czech</B> Republic",
+        "Prime Minister of <B>Czechia</B>",
+        "Prime minister of the <B>Czech</B> Republic",
+        "The Chairman of the Government of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "The Chairman of the Government of the <B>Czech</B> Republic (<B>Czech</B>: Předseda vlády České republiky"
+      ],
+      "label": [
+        "Prime Minister of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prime_Minister_of_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Government_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Prime_Ministers_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1900.7377"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romani_people_in_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Roma",
+        "<B>Czech</B> gypsies",
+        "Gypsies in <B>Czechia</B>",
+        "Gypsies in the <B>Czech</B> Republic",
+        "History of the Romani people in the <B>Czech</B> Republic",
+        "Relations between ethnic <B>Czechs</B> and Roma",
+        "Roma in <B>Czechia</B>",
+        "Roma in the <B>Czech</B> Republic",
+        "Roma people in <B>Czechia</B>",
+        "Roma people in the <B>Czech</B> Republic",
+        "Romani in <B>Czechia</B>",
+        "Romani people in <B>Czechia</B>",
+        "The Romani people in the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        "Romani people (<B>Czech</B>: Romové, commonly known as Gypsies <B>Czech</B>: Cikáni) are an ethnic minority in"
+      ],
+      "label": [
+        "Romani people in the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romani_people_in_the_Czech_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Romani-related_controversies",
+        "http://dbpedia.org/resource/Category:Romani_in_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1899.8229"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_Republic–Greece_relations"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B>-Greece relations",
+        "<B>Czech</B>-Greek relations",
+        "<B>Czech</B> Republic-Greece relations",
+        "<B>Czech</B> Republic - Greece relations",
+        "<B>Czech</B> Republic – Greece relations",
+        "<B>Czechia</B>-Greece relations",
+        "<B>Czechia</B>–Greece relations",
+        "<B>Czech</B>–Greece relations",
+        "<B>Czech</B>–Greek relations"
+      ],
+      "comment": [
+        " <B>Czechoslovakia’s</B> foundation. <B>Czech</B> Republic and Greece established diplomatic relations on January 1, 1993"
+      ],
+      "label": [
+        "<B>Czech</B> Republic–Greece relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_Republic–Greece_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Greece",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Czech_Republic–Greece_relations"
+      ]
+    },
+    {
+      "score": [
+        "1896.6344"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chamber_of_Deputies_of_the_Czech_Republic"
+      ],
+      "redirectlabel": [
+        "Chamber of Deputies (<B>Czech</B> Republic)",
+        "Chamber of Deputies (<B>Czechia</B>)",
+        "Chamber of Deputies of <B>Czech</B> Republic",
+        "Chamber of Deputies of <B>Czechia</B>",
+        "Chamber of Deputies of the Parliament of the <B>Czech</B> Republic",
+        "Chamber of Deputies ofe <B>Czech</B> Republic",
+        "Chamber of deputies of the <B>czech</B> republic",
+        "<B>Czech</B> Chamber of Deputies",
+        "<B>Czechia</B> Chamber of Deputies",
+        "PS PČR",
+        "Poslanecka Snemovna",
+        "Poslanecká Sněmovna",
+        "Poslanecká sněmovna"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The Chamber of Deputies, officially the Chamber of Deputies of the Parliament of the <B>Czech</B> Republic"
+      ],
+      "label": [
+        "Chamber of Deputies of the <B>Czech</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chamber_of_Deputies_of_the_Czech_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_establishments_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Chamber_of_Deputies_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:National_lower_houses",
+        "http://dbpedia.org/resource/Category:Parliament_of_the_Czech_Republic"
+      ]
+    },
+    {
+      "score": [
+        "1896.0796"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Třinec"
+      ],
+      "redirectlabel": [
+        "Trinec",
+        "Trzyniec",
+        "Trzynietz",
+        "Třinec, <B>Czech</B> Republic"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Třinec (<B>Czech</B> pronunciation: [ˈtr̝̊ɪnɛts] (); Polish: , German: Trzynietz) is a statutory city in"
+      ],
+      "label": [
+        "Třinec"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Třinec"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_and_towns_in_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Třinec"
+      ]
+    },
+    {
+      "score": [
+        "1888.9612"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Czech_nationality_law"
+      ],
+      "redirectlabel": [
+        "Citizenship in the <B>Czech</B> Republic",
+        "<B>Czech</B> Republic citizenship",
+        "<B>Czech</B> Republic nationality law",
+        "<B>Czech</B> citizen",
+        "<B>Czech</B> citizenship",
+        "<B>Czech</B> citizenship law",
+        "Nationality law of the <B>Czech</B> Republic"
+      ],
+      "comment": [
+        " <B>Czechoslovakia</B>, and has been amended in 1993, 1995, 1996, 1999, 2002, 2003, and 2005. Since 1 January 2014, multiple citizenship under <B>Czech</B> law is allowed."
+      ],
+      "label": [
+        "<B>Czech</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Czech_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_Republic_and_the_European_Union",
+        "http://dbpedia.org/resource/Category:Law_of_the_Czech_Republic",
+        "http://dbpedia.org/resource/Category:Nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "1886.251"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Rádio_–_Top_100_(Czech_Republic)"
+      ],
+      "redirectlabel": [
+        "<B>Czech</B> Airplay Chart",
+        "<B>Czech</B> Singles Chart",
+        "Radio Top 100 (<B>Czech</B> Republic)",
+        "Radio Top 100 Oficialni",
+        "Rádio - Top 100 (<B>Czech</B> Republic)",
+        "Rádio CZ 50 Oficiální",
+        "Rádio Top 100 (<B>Czech</B> Republic)",
+        "Rádio Top 100 Oficiální",
+        "Rádio Top 20 Modern Rock",
+        "Rádio Top 50 (<B>Czech</B> Republic)",
+        "Rádio — Top 100",
+        "Rádio — Top 100 (<B>Czech</B> Republic)",
+        "Rádio — Top 50 CZ",
+        "TOP 50 reálných mobilních zvonění"
+      ],
+      "comment": [
+        "Rádio – Top 100 (originally Rádio Top 100 Oficiální) is the <B>Czech</B> national airplay chart published"
+      ],
+      "label": [
+        "Rádio – Top 100 (<B>Czech</B> Republic)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Rádio_–_Top_100_(Czech_Republic)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Czech_music",
+        "http://dbpedia.org/resource/Category:Record_charts"
+      ]
+    }
+  ]
+}

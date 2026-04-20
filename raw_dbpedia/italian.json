@@ -1,0 +1,4982 @@
+{
+  "docs": [
+    {
+      "score": [
+        "43709.066"
+      ],
+      "refCount": [
+        "35578"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italy"
+      ],
+      "redirectlabel": [
+        "Administrative divisions of Italy",
+        "Administrative subdivisions of Italy",
+        "Biodiversity in Italy",
+        "Biodiversity of Italy",
+        "Environment of Italy",
+        "Environmental issues in Italy",
+        "Etymology of Italy",
+        "ISO 3166-1:IT",
+        "ITALY",
+        "Infrastructure in Italy",
+        "ItalY",
+        "<B>Itali</B>",
+        "<B>Italia</B>",
+        "<B>Italian</B> Republic",
+        "<B>Italie</B>",
+        "<B>Italija</B>",
+        "<B>Italiën</B>",
+        "Itlay",
+        "<B>Itàlia</B>",
+        "Pollution in Italy",
+        "Repubblica <B>Italiana</B>",
+        "Republic of Italy",
+        "Subdivisions of Italy",
+        "The <B>Italian</B> Republic",
+        "The <B>Italian</B> republic"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Italy (<B>Italian</B>: <B>Italia</B> [iˈtaːlja] ()), officially the <B>Italian</B> Republic (<B>Italian</B>: Repubblica"
+      ],
+      "label": [
+        "Italy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1861_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:G20_nations",
+        "http://dbpedia.org/resource/Category:G7_nations",
+        "http://dbpedia.org/resource/Category:Italian-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Italy",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Southern_European_countries",
+        "http://dbpedia.org/resource/Category:Southwestern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1861",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "33676.14"
+      ],
+      "refCount": [
+        "2694"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_language"
+      ],
+      "redirectlabel": [
+        "Geographic distribution of <B>Italian</B>",
+        "History of <B>Italian</B>",
+        "History of the <B>Italian</B> language",
+        "ISO 639:it",
+        "ISO 639:ita",
+        "<B>Italian</B>-language",
+        "<B>Italian</B> (language)",
+        "<B>Italian</B> Language",
+        "<B>Italian</B> word",
+        "<B>Italianized</B>",
+        "<B>Italiano</B>",
+        "Italiophone",
+        "La lingua <B>italiana</B>",
+        "Lingua <B>italiana</B>",
+        "Medieval <B>Italian</B>",
+        "Modern <B>Italian</B>",
+        "Old <B>Italian</B>",
+        "Old <B>Italian</B> language",
+        "Standard <B>Italian</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Italian</B> (<B>italiano</B> [itaˈljaːno] () or lingua <B>italiana</B> [ˈliŋɡwa itaˈljaːna]) is a Romance language of"
+      ],
+      "label": [
+        "<B>Italian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fusional_languages",
+        "http://dbpedia.org/resource/Category:Italian_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_10th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Croatia",
+        "http://dbpedia.org/resource/Category:Languages_of_Italy",
+        "http://dbpedia.org/resource/Category:Languages_of_Monaco",
+        "http://dbpedia.org/resource/Category:Languages_of_San_Marino",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily",
+        "http://dbpedia.org/resource/Category:Languages_of_Slovenia",
+        "http://dbpedia.org/resource/Category:Languages_of_Switzerland",
+        "http://dbpedia.org/resource/Category:Languages_of_Vatican_City",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages"
+      ]
+    },
+    {
+      "score": [
+        "11721.779"
+      ],
+      "refCount": [
+        "790"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italians"
+      ],
+      "redirectlabel": [
+        "Ethnic <B>Italians</B>",
+        "<B>Italian</B> (people)",
+        "<B>Italian</B> (person)",
+        "<B>Italian</B> People",
+        "<B>Italian</B> people",
+        "<B>Italians</B> (ethnic group)",
+        "<B>Italians</B> (ethnonym)",
+        "People of Italy"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italians</B> (<B>Italian</B>: <B>italiani</B> [itaˈljaːni]) are a Romance ethnic group and nation native to the"
+      ],
+      "label": [
+        "<B>Italians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_people",
+        "http://dbpedia.org/resource/Category:Romance_peoples"
+      ]
+    },
+    {
+      "score": [
+        "10173.91"
+      ],
+      "refCount": [
+        "2595"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italianate_architecture"
+      ],
+      "redirectlabel": [
+        "Anglo-<B>Italian</B> Villa Style",
+        "Faux-Tuscan-style",
+        "<B>Italian</B> Villa style",
+        "<B>Italian</B> roof",
+        "<B>Italianate</B>-style",
+        "<B>Italianate</B>",
+        "<B>Italianate</B> (architectural style)",
+        "<B>Italianate</B> Style",
+        "<B>Italianate</B> Style architecture",
+        "<B>Italianate</B> architecture in the United States",
+        "<B>Italianate</B> garden",
+        "<B>Italianate</B> house",
+        "<B>Italianate</B> structure",
+        "<B>Italianate</B> style",
+        "<B>Italianate</B> style architecture",
+        "<B>Italianate</B> style in Britain",
+        "Italinate architecture",
+        "Tuscan-style",
+        "Tuscan architecture",
+        "Victorian <B>Italianate</B>"
+      ],
+      "comment": [
+        " <B>Italian</B> Renaissance architecture, which had served as inspiration for both Palladianism and Neoclassicism"
+      ],
+      "label": [
+        "<B>Italianate</B> architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italianate_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:House_styles",
+        "http://dbpedia.org/resource/Category:Italianate_architecture",
+        "http://dbpedia.org/resource/Category:Revival_architectural_styles",
+        "http://dbpedia.org/resource/Category:Victorian_architectural_styles"
+      ]
+    },
+    {
+      "score": [
+        "9447.91"
+      ],
+      "refCount": [
+        "2149"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italy_national_football_team"
+      ],
+      "redirectlabel": [
+        "Gli Azzurri",
+        "<B>Italian</B> football national team",
+        "<B>Italian</B> football team",
+        "<B>Italian</B> national football team",
+        "<B>Italian</B> national soccer team",
+        "<B>Italian</B> national team",
+        "Italy FC",
+        "Italy National Football Team",
+        "Italy football national team",
+        "Italy football team",
+        "Italy men's national football team",
+        "Italy men's national soccer team",
+        "Italy national football team kit",
+        "Italy national football team kit history",
+        "Italy national football team kits",
+        "Italy national soccer team",
+        "Italy national squad",
+        "Italy world cup 2006",
+        "Squadra Azzurra"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The Italy national football team (<B>Italian</B>: Nazionale di calcio dell'Italia) has officially"
+      ],
+      "label": [
+        "Italy national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italy_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1898_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:FIFA_World_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Football_teams_in_Italy",
+        "http://dbpedia.org/resource/Category:Italy_national_football_team",
+        "http://dbpedia.org/resource/Category:Laureus_World_Sports_Awards_winners",
+        "http://dbpedia.org/resource/Category:UEFA_European_Championship-winning_countries"
+      ]
+    },
+    {
+      "score": [
+        "9346.894"
+      ],
+      "refCount": [
+        "213"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Army"
+      ],
+      "redirectlabel": [
+        "Esercito <B>Italiano</B>",
+        "<B>Italian</B> army",
+        "<B>Italian</B> soldier"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Army (<B>Italian</B>: Esercito <B>Italiano</B>) is the land-based component of the <B>Italian</B> Armed"
+      ],
+      "label": [
+        "<B>Italian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1861_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1861"
+      ]
+    },
+    {
+      "score": [
+        "8231.148"
+      ],
+      "refCount": [
+        "721"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cinema_of_Italy"
+      ],
+      "redirectlabel": [
+        "Cinema of italy",
+        "Film History/Italy",
+        "Film history/Italy",
+        "Film in Italy",
+        "History of cinema in Italy",
+        "<B>Italian</B> Cinema",
+        "<B>Italian</B> Film",
+        "<B>Italian</B> Movies",
+        "<B>Italian</B> cinema",
+        "<B>Italian</B> film",
+        "<B>Italian</B> movie",
+        "Pink neorealism",
+        "Pink neorrealism",
+        "Timeline of <B>Italian</B> cinema"
+      ],
+      "comment": [
+        "The Cinema of Italy comprises the films made within Italy or by <B>Italian</B> directors. The first"
+      ],
+      "label": [
+        "Cinema of Italy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cinema_of_Italy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cinema_of_Italy"
+      ]
+    },
+    {
+      "score": [
+        "6417.134"
+      ],
+      "refCount": [
+        "145"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Socialist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Socialist Party (historical)",
+        "Italy Socialist Party",
+        "Leadership of the <B>Italian</B> Socialist Party",
+        "Partito Socialista <B>Italiano</B>",
+        "Partito dei Lavoratori <B>Italiani</B>",
+        "Secretary of the <B>Italian</B> Socialist Party",
+        "Socialist Party of <B>Italian</B> Workers (1893)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Socialist Party (<B>Italian</B>: Partito Socialista <B>Italiano</B>, PSI) was a socialist and later"
+      ],
+      "label": [
+        "<B>Italian</B> Socialist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Socialist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1892_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1994_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_social_democratic_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Former_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Formerly_banned_socialist_parties",
+        "http://dbpedia.org/resource/Category:Members_of_the_Labour_and_Socialist_International",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1994",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1892",
+        "http://dbpedia.org/resource/Category:Second_International"
+      ]
+    },
+    {
+      "score": [
+        "6210.7646"
+      ],
+      "refCount": [
+        "2391"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Progressive_rock"
+      ],
+      "redirectlabel": [
+        "1960s prog rock",
+        "1960s progressive rock",
+        "1970's British progressive rock band",
+        "1970s prog rock",
+        "1970s progressive rock",
+        "1980s prog rock",
+        "1980s progressive rock",
+        "1990s prog rock",
+        "1990s progressive rock",
+        "2000s prog rock",
+        "2000s progressive rock",
+        "Cello Rock",
+        "Characteristics of progressive rock",
+        "Classical Rock",
+        "Classical rock",
+        "Concept rock",
+        "Conceptual rock",
+        "Heavy cello",
+        "<B>Italian</B> Wave",
+        "<B>Italian</B> progressive rock",
+        "<B>Italian</B> symphonic rock",
+        "<B>Italian</B> wave",
+        "Metal cello",
+        "Neo-classical rock",
+        "Neoclassical rock",
+        "New-progressive rock",
+        "New Prog",
+        "New prog",
+        "New progressive",
+        "Nu prog",
+        "Orchestra rock",
+        "Orchestral rock",
+        "Prog-rock",
+        "Prog Rock",
+        "Prog rock",
+        "Progressive-rock",
+        "Progressive Rock",
+        "Progressive Rock in Mexico",
+        "Progressive rock'n'roll",
+        "Progressive rock band",
+        "Progressive rock in Mexico",
+        "Progrock",
+        "Rock Orchestras",
+        "Rock cellist",
+        "Rock cello",
+        "Rock fusion",
+        "Rock progressivo <B>italiano</B>",
+        "Scientific rock",
+        "String metal",
+        "Symphonic Rock",
+        "Symphonic prog",
+        "Symphonic rock",
+        "Technical rock"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Progressive rock (shortened as prog; sometimes called art rock, classical rock or symphonic rock) is a broad genre of rock music that developed in the United Kingdom and United States throughout the mid- to late 1960s. Initially termed \"progressive pop\", the style was an outgrowth of psychedelic bands who abandoned standard pop traditions in favour of instrumentation and compositional techniques more frequently associated with jazz, folk, or classical music. Additional elements contributed to its \"progressive\" label: lyrics were more poetic, technology was harnessed for new sounds, music approached the condition of \"art\", and the studio, rather than the stage, became the focus of musical activity, which often involved creating music for listening rather than dancing."
+      ],
+      "label": [
+        "Progressive rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Progressive_rock"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_rock_music_genres",
+        "http://dbpedia.org/resource/Category:American_styles_of_music",
+        "http://dbpedia.org/resource/Category:British_rock_music_genres",
+        "http://dbpedia.org/resource/Category:British_styles_of_music",
+        "http://dbpedia.org/resource/Category:Progressive_music_genres",
+        "http://dbpedia.org/resource/Category:Progressive_rock"
+      ]
+    },
+    {
+      "score": [
+        "5977.8047"
+      ],
+      "refCount": [
+        "119"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Basketball_Supercup"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Basketball SuperCup",
+        "<B>Italian</B> Basketball Super Cup",
+        "Supercoppa <B>Italiana</B> di Pallacanestro Maschile"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Basketball Supercup (<B>Italian</B>: Supercoppa <B>Italiana</B> di Pallacanestro), also known as"
+      ],
+      "label": [
+        "<B>Italian</B> Basketball Supercup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Basketball_Supercup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Annual_sporting_events_in_Italy",
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Italy",
+        "http://dbpedia.org/resource/Category:Basketball_supercup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Italian_Basketball_Supercup",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Italy",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1995"
+      ]
+    },
+    {
+      "score": [
+        "5723.9033"
+      ],
+      "refCount": [
+        "2111"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Kingdom_of_Italy"
+      ],
+      "redirectlabel": [
+        "Government of the Kingdom of Italy",
+        "History of Italy as a monarchy and in the World Wars",
+        "<B>Italian</B> Monarchy",
+        "<B>Italian</B> monarchy",
+        "Italy's monarchy",
+        "Italy under fascism",
+        "Kingdom of Italy (1861)",
+        "Kingdom of Italy (1861-1945)",
+        "Kingdom of Italy (1861-1946)",
+        "Kingdom of Italy (1861- 1946)",
+        "Kingdom of Italy (1861–1946)",
+        "Kingdom of Italy (19th century)",
+        "Kingdom of Italy (Savoy)",
+        "Kingdom of Italy (modern)",
+        "Kingdom of italy",
+        "Regno d'Italia",
+        "Reign of Italy"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Kingdom of Italy (<B>Italian</B>: Regno d'Italia) was a state which existed from 1861—when King Victor"
+      ],
+      "label": [
+        "Kingdom of Italy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Kingdom_of_Italy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1860s_in_Italy",
+        "http://dbpedia.org/resource/Category:1861_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1870s_in_Italy",
+        "http://dbpedia.org/resource/Category:1880s_in_Italy",
+        "http://dbpedia.org/resource/Category:1890s_in_Italy",
+        "http://dbpedia.org/resource/Category:1900s_in_Italy",
+        "http://dbpedia.org/resource/Category:1910s_in_Italy",
+        "http://dbpedia.org/resource/Category:1920s_in_Italy",
+        "http://dbpedia.org/resource/Category:1930s_in_Italy",
+        "http://dbpedia.org/resource/Category:1940s_in_Italy",
+        "http://dbpedia.org/resource/Category:1946_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Fascist_states",
+        "http://dbpedia.org/resource/Category:Former_countries",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe",
+        "http://dbpedia.org/resource/Category:Italian_states",
+        "http://dbpedia.org/resource/Category:Kingdom_of_Italy_(1861–1946)",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Italy",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1946",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1861"
+      ]
+    },
+    {
+      "score": [
+        "5581.442"
+      ],
+      "refCount": [
+        "5899"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Rome"
+      ],
+      "redirectlabel": [
+        "Capital city of italy",
+        "Capital of Italy",
+        "Capital of Lazio",
+        "Cecchignola",
+        "Città Eterna",
+        "City of Rome",
+        "City of the Seven Hills",
+        "Comune di Roma",
+        "Demographics of Rome",
+        "Education in Rome",
+        "Ethnic groups in Rome",
+        "Fascist architecture in Rome",
+        "Geography of Rome",
+        "Government of Rome",
+        "History of the city of Rome",
+        "<B>Italian</B> capital",
+        "ROME",
+        "Roma, <B>Italia</B>",
+        "Roma, Italy",
+        "Roma (city)",
+        "Rome,Italy",
+        "Rome, Italy",
+        "Rome, Lazio",
+        "Rome, Republic and Empire",
+        "Rome (Italy)",
+        "Rome Italy",
+        "Ruins of Rome",
+        "Rōma",
+        "Sport in Rome",
+        "Sports in Rome",
+        "Symbols and Trivia of Rome",
+        "Symbols and trivia of Rome",
+        "The weather in Rome",
+        "Transportation in Rome",
+        "UN/LOCODE:ITROM"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Rome (Latin and <B>Italian</B>: Roma [ˈroːma] ()), is the capital city and a special comune of Italy"
+      ],
+      "label": [
+        "Rome"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Rome"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:8th-century_BC_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Ancient_city_of_Rome",
+        "http://dbpedia.org/resource/Category:Capitals_in_Europe",
+        "http://dbpedia.org/resource/Category:Catholic_pilgrimage_sites",
+        "http://dbpedia.org/resource/Category:Holy_cities",
+        "http://dbpedia.org/resource/Category:Metropolitan_City_of_Rome_Capital",
+        "http://dbpedia.org/resource/Category:New_Testament_cities",
+        "http://dbpedia.org/resource/Category:Places_in_the_deuterocanonical_books",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_the_8th_century_BC",
+        "http://dbpedia.org/resource/Category:Rome",
+        "http://dbpedia.org/resource/Category:World_Heritage_Sites_in_Italy"
+      ]
+    },
+    {
+      "score": [
+        "5536.3296"
+      ],
+      "refCount": [
+        "91"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_nationality_law"
+      ],
+      "redirectlabel": [
+        "Citizenship of Italy",
+        "<B>Italian</B> Citizenship",
+        "<B>Italian</B> Citizenship Law",
+        "<B>Italian</B> citizen",
+        "<B>Italian</B> citizenship",
+        "<B>Italian</B> nationality",
+        "Nationality law of Italy"
+      ],
+      "comment": [
+        "<B>Italian</B> nationality law is the law of Italy governing the acquisition, transmission and loss of"
+      ],
+      "label": [
+        "<B>Italian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian_nationality_law",
+        "http://dbpedia.org/resource/Category:Italy_and_the_European_Union"
+      ]
+    },
+    {
+      "score": [
+        "5350.4526"
+      ],
+      "refCount": [
+        "510"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Renaissance_Revival_architecture"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Renaissance Revival",
+        "<B>Italian</B> Renaissance Revival architecture",
+        "<B>Italian</B> Renaissance Revival style",
+        "<B>Italian</B> Renaissance revival",
+        "<B>Italian</B> Renaissance revival architecture",
+        "Neo-Renaissance",
+        "Neo-Renaissance architecture",
+        "Neo-Renaissance style",
+        "Neo-renaissance",
+        "Neorenaissance",
+        "Renaissance Revival-style",
+        "Renaissance Revival",
+        "Renaissance Revival Architecture",
+        "Renaissance Revival style",
+        "Renaissance revival",
+        "Rennaissance Revival",
+        "Second Renaissance Revival",
+        "Second Renaissance Revival architecture"
+      ],
+      "comment": [
+        " instead drew inspiration from a wide range of classicizing <B>Italian</B> modes. Under the broad designation"
+      ],
+      "label": [
+        "Renaissance Revival architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Renaissance_Revival_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:19th-century_architectural_styles",
+        "http://dbpedia.org/resource/Category:20th-century_architectural_styles",
+        "http://dbpedia.org/resource/Category:Renaissance_Revival_architecture",
+        "http://dbpedia.org/resource/Category:Renaissance_architecture",
+        "http://dbpedia.org/resource/Category:Revival_architectural_styles",
+        "http://dbpedia.org/resource/Category:Victorian_architectural_styles"
+      ]
+    },
+    {
+      "score": [
+        "4998.352"
+      ],
+      "refCount": [
+        "88"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greco-Italian_War"
+      ],
+      "redirectlabel": [
+        "Greco-<B>Italian</B> war",
+        "Greco-Roman War",
+        "Greco <B>italian</B> war",
+        "Greco–<B>Italian</B> War",
+        "Greek-<B>Italian</B> War",
+        "Greek–<B>Italian</B> War",
+        "Guerra di Grecia",
+        "<B>Italian</B> attack on Greece",
+        "<B>Italian</B> invasion of Greece",
+        "Italo-Greek War",
+        "Mussolini's invasion of Greece",
+        "Pólemos tou Saránda",
+        "Ελληνοϊταλικός Πόλεμος",
+        "Πόλεμος του Σαράντα"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Greco-<B>Italian</B> War (Italo-Greek War, <B>Italian</B> Campaign in Greece; in Greece: War of '40 and Epic"
+      ],
+      "label": [
+        "Greco-<B>Italian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greco-Italian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940_in_Albania",
+        "http://dbpedia.org/resource/Category:1940_in_Greece",
+        "http://dbpedia.org/resource/Category:1941_in_Albania",
+        "http://dbpedia.org/resource/Category:1941_in_Greece",
+        "http://dbpedia.org/resource/Category:4th_of_August_Regime",
+        "http://dbpedia.org/resource/Category:Albania_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Balkans_campaign_(World_War_II)",
+        "http://dbpedia.org/resource/Category:Battles_of_World_War_II_involving_Italy",
+        "http://dbpedia.org/resource/Category:Campaigns,_operations_and_battles_of_World_War_II_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1940",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1941",
+        "http://dbpedia.org/resource/Category:Greco-Italian_War",
+        "http://dbpedia.org/resource/Category:Greece_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Invasions_of_Greece",
+        "http://dbpedia.org/resource/Category:Military_history_of_Greece_during_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "4625.627"
+      ],
+      "refCount": [
+        "1580"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Telugu_language"
+      ],
+      "redirectlabel": [
+        "Andhra language",
+        "Classical Telugu",
+        "Godavari Telugu",
+        "Historical Grammar of Telugu",
+        "History of the Telugu language",
+        "ISO 639:te",
+        "ISO 639:tel",
+        "<B>Italian</B> of the East",
+        "<B>Italian</B> of the east",
+        "Krishna Telugu",
+        "Old Telugu",
+        "Old Telugu language",
+        "Sri Lanka Gypsy Telugu",
+        "Sri Lankan Gypsy Telugu",
+        "Telagu",
+        "Telangana Telugu",
+        "Telegu language",
+        "Telgu",
+        "Teloogoo",
+        "Telougou",
+        "Telugu-language",
+        "Telugu (language)",
+        "Telugu Language",
+        "Telugu Words",
+        "Telugu dialects",
+        "Telugu languages",
+        "Telugu phonology",
+        "Telungu",
+        "Télougou",
+        "Yanadi language",
+        "తెలుగు"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Telugu (English: ; తెలుగు [teluɡu]) is a Dravidian language spoken predominantly in the Indian states of Andhra Pradesh and Telangana and the Union Territory of Puducherry (Yanam) by the Telugu people. It stands alongside Hindi and English as one of the few languages with primary official language status in more than one Indian state. Telugu is also a linguistic minority in the states of Orissa, Karnataka, Tamil Nadu, Kerala, Chattisgarh, Jarkandh and Maharashtra. It is one of six languages designated a classical language of India by the country's government."
+      ],
+      "label": [
+        "Telugu language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Telugu_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Agglutinative_languages",
+        "http://dbpedia.org/resource/Category:Ancient_languages",
+        "http://dbpedia.org/resource/Category:Classical_Language_in_India",
+        "http://dbpedia.org/resource/Category:Dravidian_languages",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_6th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Languages_of_Asia",
+        "http://dbpedia.org/resource/Category:Languages_of_Bahrain",
+        "http://dbpedia.org/resource/Category:Languages_of_Karnataka",
+        "http://dbpedia.org/resource/Category:Languages_of_Kerala",
+        "http://dbpedia.org/resource/Category:Languages_of_Kuwait",
+        "http://dbpedia.org/resource/Category:Languages_of_Maharashtra",
+        "http://dbpedia.org/resource/Category:Languages_of_Malaysia",
+        "http://dbpedia.org/resource/Category:Languages_of_Mauritius",
+        "http://dbpedia.org/resource/Category:Languages_of_Odisha",
+        "http://dbpedia.org/resource/Category:Languages_of_Puducherry",
+        "http://dbpedia.org/resource/Category:Languages_of_Qatar",
+        "http://dbpedia.org/resource/Category:Languages_of_South_Africa",
+        "http://dbpedia.org/resource/Category:Languages_of_Sri_Lanka",
+        "http://dbpedia.org/resource/Category:Languages_of_Tamil_Nadu",
+        "http://dbpedia.org/resource/Category:Languages_of_Telangana",
+        "http://dbpedia.org/resource/Category:Languages_of_West_Bengal",
+        "http://dbpedia.org/resource/Category:Languages_officially_written_in_Indic_scripts",
+        "http://dbpedia.org/resource/Category:Languages_with_own_distinct_writing_systems",
+        "http://dbpedia.org/resource/Category:Official_languages_of_India",
+        "http://dbpedia.org/resource/Category:Sahitya_Akademi_recognised_languages",
+        "http://dbpedia.org/resource/Category:Subject–object–verb_languages",
+        "http://dbpedia.org/resource/Category:Telugu_language",
+        "http://dbpedia.org/resource/Category:Vowel-harmony_languages"
+      ]
+    },
+    {
+      "score": [
+        "4468.6997"
+      ],
+      "refCount": [
+        "411"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Serie_A"
+      ],
+      "redirectlabel": [
+        "Calcio A",
+        "<B>Italia</B> Serie A",
+        "<B>Italian</B> Football Championship",
+        "<B>Italian</B> Football League Teams/Serie A",
+        "<B>Italian</B> Serie A",
+        "LNP Serie A",
+        "Lega Calcio Serie A",
+        "Seria A",
+        "Serie A Football League",
+        "Serie A TIM",
+        "Serie a",
+        "Series A Football League"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "Serie A (<B>Italian</B> pronunciation: [ˈsɛːrje ˈa]), also called Serie A TIM due to sponsorship by TIM"
+      ],
+      "label": [
+        "Serie A"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Serie_A"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1898_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Italy",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Italy",
+        "http://dbpedia.org/resource/Category:Serie_A",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1898",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "4446.091"
+      ],
+      "refCount": [
+        "72"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Social_Movement"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Movement of Social Unity",
+        "<B>Italian</B> Social Movement-National Right",
+        "<B>Italian</B> Social Movement - National Right",
+        "<B>Italian</B> Social Movement – National Right",
+        "<B>Italian</B> Social Movement–National Right",
+        "MSI-DN",
+        "MSI–DN",
+        "Movimento <B>Italiano</B> di Unità Sociale",
+        "Movimento Social <B>Italiano</B>",
+        "Movimento Sociale <B>Italiano</B>",
+        "Movimento Sociale <B>Italiano</B> - Destra Nazionale",
+        "Movimiento Social <B>Italiano</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Social Movement (<B>Italian</B>: Movimento Sociale <B>Italiano</B>, MSI), renamed in 1972 <B>Italian</B>"
+      ],
+      "label": [
+        "<B>Italian</B> Social Movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Social_Movement"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1995_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Anti-communist_parties",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_nationalist_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Far-right_politics_in_Italy",
+        "http://dbpedia.org/resource/Category:National_conservative_parties",
+        "http://dbpedia.org/resource/Category:Neo-fascist_organisations_in_Italy",
+        "http://dbpedia.org/resource/Category:Neo-fascist_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1995",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1946",
+        "http://dbpedia.org/resource/Category:Right-wing_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Right-wing_politics_in_Italy"
+      ]
+    },
+    {
+      "score": [
+        "4153.8574"
+      ],
+      "refCount": [
+        "80"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Italian_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "Armistice of Villafranca",
+        "Austrian War of 1859",
+        "Austro-Piedmontese War",
+        "Austro-Sardinian War",
+        "Conference of Villafranca",
+        "Franco-Austrian War",
+        "French campaign in Italy",
+        "<B>Italian</B> Second War of Independence",
+        "<B>Italian</B> Unification War",
+        "<B>Italian</B> War of 1859",
+        "<B>Italian</B> war (1859)",
+        "Peace of Villafranca",
+        "Sardinian War",
+        "Second <B>Italian</B> Independence War",
+        "Second <B>Italian</B> War of indipendence",
+        "Second War Of <B>Italian</B> Unification",
+        "Second War of <B>Italian</B> Independence",
+        "Second <B>italian</B> war of independence",
+        "The Franco-Austrian War",
+        "Treaty of Villafranca"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " (<B>Italian</B>: Seconda guerra d'indipendenza <B>italiana</B>; French: Campagne d'Italie), was fought by the"
+      ],
+      "label": [
+        "Second <B>Italian</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Italian_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1859_in_France",
+        "http://dbpedia.org/resource/Category:1859_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:1859_in_the_Kingdom_of_Sardinia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1859",
+        "http://dbpedia.org/resource/Category:France–Italy_relations",
+        "http://dbpedia.org/resource/Category:Second_Italian_War_of_Independence"
+      ]
+    },
+    {
+      "score": [
+        "3947.3696"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of Italy",
+        "Cuisine of Tuscany",
+        "Cusine of Italy",
+        "Drinking in Italy",
+        "Fette biscottate",
+        "Gastronomy of Italy",
+        "History of <B>Italian</B> cuisine",
+        "<B>Italalian</B> cuisine",
+        "<B>Italian</B> Cuisine",
+        "<B>Italian</B> cooking",
+        "<B>Italian</B> cusine",
+        "<B>Italian</B> food",
+        "<B>Italian</B> liqueur",
+        "<B>Italian</B> restaurant",
+        "<B>Italian</B> rice",
+        "Medieval <B>Italian</B> cuisine",
+        "Northern <B>Italian</B> cuisine",
+        "Regional cuisines of Italy",
+        "Ristorante",
+        "Tuscan cooking",
+        "Tuscan cuisine"
+      ],
+      "comment": [
+        "<B>Italian</B> cuisine is food typical of Italy. It has developed through centuries of social and economic"
+      ],
+      "label": [
+        "<B>Italian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian_cuisine",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "3863.445"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_People's_Party_(1994)"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> People's Party (1994-2002)",
+        "<B>Italian</B> People's Party (1994–2002)",
+        "Partito Popolare <B>Italiano</B> (1994)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> People's Party (<B>Italian</B>: Partito Popolare <B>Italiano</B>, PPI) was a Christian-democratic"
+      ],
+      "label": [
+        "<B>Italian</B> People's Party (1994)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_People's_Party_(1994)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:2002_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Catholic_political_parties",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_Christian_political_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2002",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1994"
+      ]
+    },
+    {
+      "score": [
+        "3851.4653"
+      ],
+      "refCount": [
+        "175"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Basketball_Cup"
+      ],
+      "redirectlabel": [
+        "Coppa <B>Italia</B> di pallacanestro maschile",
+        "Coppa <B>italia</B> di pallacanestro maschile"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Basketball Cup (<B>Italian</B>: Coppa <B>Italiana</B> di Pallacanestro), or Coppa <B>Italia</B>, is an"
+      ],
+      "label": [
+        "<B>Italian</B> Basketball Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Basketball_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_Basketball_Cup",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Italy"
+      ]
+    },
+    {
+      "score": [
+        "3849.912"
+      ],
+      "refCount": [
+        "177"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Communist_Party"
+      ],
+      "redirectlabel": [
+        "Communist Party of Italy",
+        "Communist Party of Italy (1921-1926)",
+        "Communist party of italy",
+        "PCd'I",
+        "Partito Comunista <B>Italiano</B>",
+        "Partito Comunista d'Italia",
+        "Pcd'i"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Communist Party (<B>Italian</B>: Partito Comunista <B>Italiano</B>, PCI) was a communist political"
+      ],
+      "label": [
+        "<B>Italian</B> Communist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Communist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1921_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1991_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Antonio_Gramsci",
+        "http://dbpedia.org/resource/Category:Comintern_sections",
+        "http://dbpedia.org/resource/Category:Defunct_communist_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Formerly_banned_communist_parties",
+        "http://dbpedia.org/resource/Category:Italy–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1991",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1921"
+      ]
+    },
+    {
+      "score": [
+        "3845.873"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Americans"
+      ],
+      "redirectlabel": [
+        "Demographics of <B>Italian</B> Americans",
+        "Discrimination against <B>Italian</B> Americans",
+        "History of <B>Italian</B> Americans",
+        "<B>Italian</B>-American",
+        "<B>Italian</B>-Americans",
+        "<B>Italian</B> American",
+        "<B>Italian</B> Americans in Los Angeles",
+        "<B>Italian</B> immigrants in the United States",
+        "<B>Italian</B> immigration to America",
+        "<B>Italian</B> immigration to the United States",
+        "<B>Italian</B> in the United States",
+        "<B>Italians</B> in the United States",
+        "<B>Italian</B>–American",
+        "Italo-American",
+        "Italo-Americani",
+        "Italo-Americans",
+        "Italo-americani",
+        "Italoamericani",
+        "List of U.S. cities with large <B>Italian</B> American populations",
+        "List of famous <B>Italian</B>-Americans",
+        "Political views of <B>Italian</B> Americans",
+        "Stereotypes of <B>Italian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Americans (<B>Italian</B>: italoamericani or italo-americani [ˌitalo.ameriˈkaːni]) are citizens of"
+      ],
+      "label": [
+        "<B>Italian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:Italian_American",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "3819.9697"
+      ],
+      "refCount": [
+        "68"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Renaissance"
+      ],
+      "redirectlabel": [
+        "Florentine Renaissance",
+        "<B>Italian</B> renaissance",
+        "<B>Italianate</B> Renaissance",
+        "Milanese Renaissance",
+        "Pax <B>Italica</B>",
+        "Renaissance Italy",
+        "Renaissance Venice",
+        "Renaissance in Italy",
+        "Rinacimento",
+        "Rinascimento"
+      ],
+      "comment": [
+        "The <B>Italian</B> Renaissance (<B>Italian</B>: Rinascimento [rinaʃʃiˈmento]) was a period in <B>Italian</B> history"
+      ],
+      "label": [
+        "<B>Italian</B> Renaissance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Renaissance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:14th-century_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:14th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:15th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:16th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:17th-century_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Architectural_history",
+        "http://dbpedia.org/resource/Category:Art_history",
+        "http://dbpedia.org/resource/Category:Cultural_history_of_Italy",
+        "http://dbpedia.org/resource/Category:Design_history",
+        "http://dbpedia.org/resource/Category:Environmental_design",
+        "http://dbpedia.org/resource/Category:Italian_Renaissance",
+        "http://dbpedia.org/resource/Category:Italian_Renaissance_gardens",
+        "http://dbpedia.org/resource/Category:Landscape_design_history",
+        "http://dbpedia.org/resource/Category:Renaissance",
+        "http://dbpedia.org/resource/Category:Renaissance_architecture",
+        "http://dbpedia.org/resource/Category:Renaissance_art"
+      ]
+    },
+    {
+      "score": [
+        "3747.2312"
+      ],
+      "refCount": [
+        "45"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Liberal_Party"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Liberal Party (1943)",
+        "<B>Italian</B> Liberal Party (historical)",
+        "Partito Liberale <B>Italiano</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Liberal Party (<B>Italian</B>: Partito Liberale <B>Italiano</B>, PLI) was a liberal and conservative"
+      ],
+      "label": [
+        "<B>Italian</B> Liberal Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Liberal_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1994_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Centre-right_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Classical_liberal_parties",
+        "http://dbpedia.org/resource/Category:Conservative_liberal_parties",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Formerly_banned_political_parties",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1994",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1922"
+      ]
+    },
+    {
+      "score": [
+        "3745.9216"
+      ],
+      "refCount": [
+        "53"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Libya"
+      ],
+      "redirectlabel": [
+        "4th Shore",
+        "Fourth shore of Italy",
+        "History of <B>Italian</B> Libya",
+        "History of Libya as an <B>Italian</B> colony",
+        "<B>Italian</B> North Africa",
+        "Libya during World War II",
+        "Quarta Sponda",
+        "World War II in Libya"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Italian</B> Libya (<B>Italian</B>: Libia <B>Italiana</B>; Arabic: ليبيا الإيطالية‎, Lībyā al-Īṭālīya) was a colony of"
+      ],
+      "label": [
+        "<B>Italian</B> Libya"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Libya"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_Libya",
+        "http://dbpedia.org/resource/Category:1911_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1920s_in_Libya",
+        "http://dbpedia.org/resource/Category:1930s_in_Libya",
+        "http://dbpedia.org/resource/Category:1940s_in_Libya",
+        "http://dbpedia.org/resource/Category:1943_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:Client_states_of_Fascist_Italy",
+        "http://dbpedia.org/resource/Category:Former_Italian-speaking_countries",
+        "http://dbpedia.org/resource/Category:Former_Italian_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Italian_Libya",
+        "http://dbpedia.org/resource/Category:Italian_colonisation_in_Africa",
+        "http://dbpedia.org/resource/Category:Italy–Libya_relations",
+        "http://dbpedia.org/resource/Category:World_War_II_occupied_territories"
+      ]
+    },
+    {
+      "score": [
+        "3649.4053"
+      ],
+      "refCount": [
+        "183"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Christian_Democracy_(Italy)"
+      ],
+      "redirectlabel": [
+        "Catholic Democratic Party",
+        "Christian Democracy (Italy, historical)",
+        "Democrazia Cristiana",
+        "Democrazia cristiana",
+        "<B>Italian</B> Christian Democracy",
+        "<B>Italian</B> Christian Democratic Party",
+        "<B>Italian</B> National Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "Christian Democracy (<B>Italian</B>: Democrazia Cristiana, DC) was a Christian democratic political party"
+      ],
+      "label": [
+        "Christian Democracy (Italy)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Christian_Democracy_(Italy)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1943_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1994_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Anti-communist_parties",
+        "http://dbpedia.org/resource/Category:Catholic_political_parties",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_Christian_political_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:History_of_the_Italian_Republic",
+        "http://dbpedia.org/resource/Category:History_of_the_Sicilian_Mafia",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1994",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1943",
+        "http://dbpedia.org/resource/Category:Social_conservative_parties"
+      ]
+    },
+    {
+      "score": [
+        "3591.2334"
+      ],
+      "refCount": [
+        "45"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Jews"
+      ],
+      "redirectlabel": [
+        "Bene Roma",
+        "Bené Roma",
+        "Genetic studies on <B>Italian</B> Jews",
+        "Itakim",
+        "Italchi",
+        "Italchi Jew",
+        "Italchi Jews",
+        "Italchi Judaism",
+        "Italchi rite",
+        "Italchic Judaism",
+        "Italchic rite",
+        "Italchim",
+        "Italchì",
+        "Italchì Jew",
+        "Italchì Jews",
+        "Italchì Judaism",
+        "Italchì rite",
+        "<B>Italian</B> Jew",
+        "<B>Italian</B> Jewish",
+        "<B>Italian</B> Jewry",
+        "<B>Italian</B> Judaism",
+        "<B>Italian</B> rite Jews",
+        "Italki Jew",
+        "Italki Jews",
+        "Italki Judaism",
+        "Italki rite",
+        "Italkic Judaism",
+        "Italkic rite",
+        "Italkim",
+        "Italqi",
+        "Italqi Jew",
+        "Italqi Jews",
+        "Italqi Judaism",
+        "Italqi rite",
+        "Italqic Judaism",
+        "Italqic rite",
+        "Italqim",
+        "Jewish-<B>Italian</B>",
+        "Jewish <B>Italian</B>",
+        "Jewish <B>Italians</B>",
+        "Jews and Judaism in Italy"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Jews (<B>Italian</B>: Ebrei <B>Italiani</B>, Hebrew: יהודים איטלקים Yehudim Italkim) or Roman Jews"
+      ],
+      "label": [
+        "<B>Italian</B> Jews"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Jews"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian_Jews",
+        "http://dbpedia.org/resource/Category:Italian_culture",
+        "http://dbpedia.org/resource/Category:Italki_Jews_topics",
+        "http://dbpedia.org/resource/Category:Jewish_Italian_history",
+        "http://dbpedia.org/resource/Category:Jewish_ethnic_groups",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Italy"
+      ]
+    },
+    {
+      "score": [
+        "3551.8545"
+      ],
+      "refCount": [
+        "308"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mogadishu"
+      ],
+      "redirectlabel": [
+        "Al-Imran primary school",
+        "Al Buruuj",
+        "Benadir Company",
+        "Capital of Somalia",
+        "Daru-Salam City",
+        "List of people from Mogadishu",
+        "Magadish",
+        "Magadoxa",
+        "Magadoxo",
+        "Makadishu",
+        "Maqad sjah",
+        "Maqadishu",
+        "Maqadīshū",
+        "Maqdīshū",
+        "Mogadischu",
+        "Mogadiscio",
+        "Mogadiscio under <B>Italian</B> rule",
+        "Mogadish",
+        "Mogadisho",
+        "Mogadishu, Banadir, Somalia",
+        "Mogadishu, Benadir",
+        "Mogadishu, <B>Italian</B> Somaliland",
+        "Mogadishu, Somalia",
+        "Mogadishu (<B>Italian</B> Somaliland)",
+        "Mogadishu under <B>Italian</B> rule",
+        "Mugadisho",
+        "Mukdishu",
+        "Muqdisho",
+        "The Mog",
+        "مقديشو"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " [muqaˈdiːʃuː]; <B>Italian</B>: Mogadiscio [moɡaˈdiʃʃo]), locally known as Xamar or Hamar, is the capital and most"
+      ],
+      "label": [
+        "Mogadishu"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mogadishu"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1st-millennium_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:Ajuran_Sultanate",
+        "http://dbpedia.org/resource/Category:Capitals_in_Africa",
+        "http://dbpedia.org/resource/Category:Cities_in_Somalia",
+        "http://dbpedia.org/resource/Category:Indian_Ocean",
+        "http://dbpedia.org/resource/Category:Mogadishu",
+        "http://dbpedia.org/resource/Category:Populated_coastal_places_in_Somalia",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_the_1st_millennium",
+        "http://dbpedia.org/resource/Category:Populated_places_in_Banaadir",
+        "http://dbpedia.org/resource/Category:Port_cities_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "3447.972"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Democratic_Socialist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Democratic Socialist Party (1947-1998)",
+        "<B>Italian</B> Democratic Socialist Party (1947–1998)",
+        "<B>Italian</B> Democratic Socialist Party (1952)",
+        "<B>Italian</B> Democratic Socialist Party (historical)",
+        "<B>Italian</B> Democratic Socialist Party (new)",
+        "<B>Italian</B> Democratic Socialist Party - Social Democracy",
+        "<B>Italian</B> Democratic Socialist Party – Social Democracy",
+        "<B>Italian</B> Social-Democratic Party",
+        "<B>Italian</B> Socialist Democratic Party",
+        "<B>Italian</B> Socialist Workers' Party",
+        "<B>Italian</B> Workers' Socialist Party",
+        "P.S.D.I.",
+        "PSDI",
+        "Partito Social Democratico <B>Italiano</B>",
+        "Partito Socialista Democratico <B>Italiano</B>",
+        "Psdi",
+        "Socialist Party (<B>Italian</B> Section of the Socialist International)",
+        "Socialist Party - <B>Italian</B> Section of the Workers' International",
+        "Socialist Party of <B>Italian</B> Workers (1947)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Democratic Socialist Party (<B>Italian</B>: Partito Socialista Democratico <B>Italiano</B>, PSDI) was"
+      ],
+      "label": [
+        "<B>Italian</B> Democratic Socialist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Democratic_Socialist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1952_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1998_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_social_democratic_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Former_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1998",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1952"
+      ]
+    },
+    {
+      "score": [
+        "3311.891"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_wine"
+      ],
+      "redirectlabel": [
+        "Aria of chianti classico",
+        "History of <B>Italian</B> wine",
+        "<B>Italian</B> (wine)",
+        "<B>Italian</B> Wine",
+        "<B>Italian</B> Wines",
+        "<B>Italian</B> wines",
+        "<B>Italians</B> (wine)",
+        "Italy (wine)",
+        "Italy (wines)",
+        "Italy wine",
+        "Italy wines",
+        "Salaparuta DOC",
+        "Vini da tavola",
+        "Wine from Italy",
+        "Wine of Italy",
+        "Wines from Italy"
+      ],
+      "comment": [
+        "<B>Italian</B> wine is produced in every region of Italy, home to some of the oldest wine-producing"
+      ],
+      "label": [
+        "<B>Italian</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian_wine"
+      ]
+    },
+    {
+      "score": [
+        "3237.6433"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Wars"
+      ],
+      "redirectlabel": [
+        "Anglo-French wars (16th century)",
+        "Belligerents of the <B>Italian</B> Wars",
+        "Franco-Habsburg War",
+        "French-Spanish Wars in Italy",
+        "French invasions of Italy (Renaissance Wars)",
+        "French–Spanish Wars in Italy",
+        "Great <B>Italian</B> Wars",
+        "Great Wars of Italy",
+        "Habsburg-Valois War",
+        "Habsburg-Valois Wars",
+        "Habsburg-Valois wars",
+        "Habsburg–Valois War",
+        "Habsburg–Valois wars",
+        "Hapsburg-Valois Wars",
+        "Hapsburg-Valois wars",
+        "<B>Italian</B> Renaissance Wars",
+        "<B>Italian</B> War",
+        "<B>Italian</B> wars",
+        "Renaissance Wars",
+        "Warfare in the <B>Italian</B> Wars",
+        "Wars of Italy"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Wars, often referred to as the Great Wars of Italy and sometimes as the Habsburg–Valois"
+      ],
+      "label": [
+        "<B>Italian</B> Wars"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Wars"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:15th-century_military_history_of_France",
+        "http://dbpedia.org/resource/Category:15th_century_in_France",
+        "http://dbpedia.org/resource/Category:15th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:16th-century_military_history_of_France",
+        "http://dbpedia.org/resource/Category:16th_century_in_France",
+        "http://dbpedia.org/resource/Category:16th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_Wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Europe"
+      ]
+    },
+    {
+      "score": [
+        "3210.851"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lists_of_Italian_films"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> films",
+        "<B>Italian</B> films of the 1910s",
+        "<B>Italian</B> films of the 1920s",
+        "<B>Italian</B> films of the 1930s",
+        "<B>Italian</B> films of the 1940s",
+        "<B>Italian</B> films of the 1950s",
+        "<B>Italian</B> films of the 1960s",
+        "<B>Italian</B> films of the 1970s",
+        "<B>Italian</B> films of the 1980s",
+        "<B>Italian</B> films of the 1990s",
+        "<B>Italian</B> films of the 2000s",
+        "<B>Italian</B> films of the 2010s",
+        "<B>Italian</B> movies",
+        "List of <B>Italian</B> films: 1940s",
+        "List of <B>Italian</B> films: 1950s",
+        "List of <B>Italian</B> films: 1960s",
+        "List of <B>Italian</B> films: 1970s",
+        "List of <B>Italian</B> films: 1980s",
+        "List of <B>Italian</B> films: 1990s",
+        "List of <B>Italian</B> films: 2000s",
+        "List of <B>Italian</B> films",
+        "List of <B>Italian</B> films of the 1910s",
+        "List of <B>Italian</B> films of the 1920s",
+        "List of <B>Italian</B> films of the 1930s",
+        "List of <B>Italian</B> films of the 1940s",
+        "List of <B>Italian</B> films of the 1950s",
+        "List of <B>Italian</B> films of the 1960s",
+        "List of <B>Italian</B> films of the 1970s",
+        "List of <B>Italian</B> films of the 1980s",
+        "List of <B>Italian</B> films of the 1990s",
+        "List of <B>Italian</B> films of the 2000s",
+        "List of <B>Italian</B> films of the 2010s",
+        "List of <B>Italian</B> movies",
+        "List of <B>italian</B> films",
+        "List of main <B>Italian</B> movies",
+        "Lists of <B>Italian</B> movies"
+      ],
+      "comment": [
+        " For an alphabetical list of articles on <B>Italian</B> films see Category:Italian films."
+      ],
+      "label": [
+        "Lists of <B>Italian</B> films"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lists_of_Italian_films"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Italian_films"
+      ]
+    },
+    {
+      "score": [
+        "3159.8745"
+      ],
+      "refCount": [
+        "68"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Order_of_Merit_of_the_Italian_Republic"
+      ],
+      "redirectlabel": [
+        "Cavaliere Ordine al Merito della Repubblica <B>Italiana</B>",
+        "Cavaliere Ufficiale al Merito della Repubblica <B>Italiana</B>",
+        "Cavaliere di Gran Croce",
+        "Commander of the Order of Merit of the <B>Italian</B> Republic",
+        "Commendatore of the <B>Italian</B> Republic",
+        "Grand Officer of the <B>Italian</B> Republic",
+        "Grand Officer of the Order of Merit of the <B>Italian</B> Republic",
+        "Grand Ufficiale Ordine al Merito della Repubblica <B>Italiana</B>",
+        "Knight Grand Cross of the Order of Merit of the <B>Italian</B> Republic",
+        "Knight Grand Cross with Collar of the Order of Merit of the <B>Italian</B> Republic",
+        "Knight of the Order of Merit of the <B>Italian</B> Republic",
+        "OMRI",
+        "Officer of the Order of Merit of the <B>Italian</B> Republic",
+        "Order of Merit of the Republic",
+        "Order of Merit of the Republic of Italy",
+        "Ordine al Merito della Repubblica <B>Italiana</B>"
+      ],
+      "comment": [
+        "The Order of Merit of the <B>Italian</B> Republic (<B>Italian</B>: Ordine al merito della Repubblica <B>Italiana</B>"
+      ],
+      "label": [
+        "Order of Merit of the <B>Italian</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Order_of_Merit_of_the_Italian_Republic"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1951_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1951",
+        "http://dbpedia.org/resource/Category:Civil_awards_and_decorations_of_Italy",
+        "http://dbpedia.org/resource/Category:Orders_of_chivalry_awarded_to_heads_of_state,_consorts_and_sovereign_family_members",
+        "http://dbpedia.org/resource/Category:Orders_of_merit",
+        "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Merit_of_the_Italian_Republic"
+      ]
+    },
+    {
+      "score": [
+        "3136.9846"
+      ],
+      "refCount": [
+        "138"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italo-Turkish_War"
+      ],
+      "redirectlabel": [
+        "Bombing of Libya (1911)",
+        "<B>Italian</B>-Turkish War",
+        "<B>Italian</B>-Turkish War of 1911-1912",
+        "<B>Italian</B>-Turkish war",
+        "<B>Italian</B> Conquest of Libya",
+        "<B>Italian</B> invasion of Lybia",
+        "Italo-Turkish War (1911-1912)",
+        "Italo-Turkish war",
+        "Italo-turk war",
+        "Italo-turkish war",
+        "Italo Turkish War",
+        "Italo–Turkish War",
+        "Trablusgarp Savaşı",
+        "Treaty of Lausanne (1912)",
+        "Treaty of Ouchy",
+        "Tripolitanian War",
+        "Turco-<B>Italian</B> War",
+        "Turco <B>Italian</B> War",
+        "Turkish-<B>Italian</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Italo-Turkish or Turco-<B>Italian</B> War (Turkish: Trablusgarp Savaşı, \"Tripolitanian War\"), also"
+      ],
+      "label": [
+        "Italo-Turkish War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italo-Turkish_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1911_in_Italy",
+        "http://dbpedia.org/resource/Category:1911_in_Libya",
+        "http://dbpedia.org/resource/Category:1911_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:1912_in_Italy",
+        "http://dbpedia.org/resource/Category:1912_in_Libya",
+        "http://dbpedia.org/resource/Category:1912_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1911",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1912",
+        "http://dbpedia.org/resource/Category:History_of_the_Dodecanese",
+        "http://dbpedia.org/resource/Category:Italo-Turkish_War",
+        "http://dbpedia.org/resource/Category:Italy–Libya_relations",
+        "http://dbpedia.org/resource/Category:Italy–Turkey_relations",
+        "http://dbpedia.org/resource/Category:Mustafa_Kemal_Atatürk"
+      ]
+    },
+    {
+      "score": [
+        "3097.4988"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Left"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Left-wing",
+        "Sinistra <B>Italiana</B>",
+        "Sinistra <B>italiana</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "<B>Italian</B> Left (<B>Italian</B>: Sinistra <B>Italiana</B>, SI) is a left-wing political party in Italy. SI was"
+      ],
+      "label": [
+        "<B>Italian</B> Left"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Left"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_Europe",
+        "http://dbpedia.org/resource/Category:Ecosocialist_parties",
+        "http://dbpedia.org/resource/Category:Green_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Left-wing_politics_in_Italy",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Rome",
+        "http://dbpedia.org/resource/Category:Party_of_the_European_Left_observer_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_2017",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Italy"
+      ]
+    },
+    {
+      "score": [
+        "3073.271"
+      ],
+      "refCount": [
+        "185"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pasta"
+      ],
+      "redirectlabel": [
+        "Chicken Pasta",
+        "Chicken pasta",
+        "Common pasta",
+        "Dried pasta",
+        "Dry pasta",
+        "Fresh pasta",
+        "History of pasta",
+        "<B>Italian</B> noodles",
+        "<B>Italian</B> pasta",
+        "<B>Italian</B> paste",
+        "Macaroni product",
+        "Morphing pasta",
+        "Pasta dish",
+        "Pasta in <B>Italian</B> cuisine",
+        "Pasta maker",
+        "Pasta secca",
+        "Pasta water",
+        "Pastas",
+        "Pastasciutta",
+        "The History of Pasta",
+        "Whole wheat pasta"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "Pasta (US: , UK: ; <B>Italian</B> pronunciation: [ˈpasta]) is a type of <B>Italian</B> food typically made from"
+      ],
+      "label": [
+        "Pasta"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pasta"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian_cuisine",
+        "http://dbpedia.org/resource/Category:Italian_words_and_phrases",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine",
+        "http://dbpedia.org/resource/Category:National_dishes",
+        "http://dbpedia.org/resource/Category:Pasta",
+        "http://dbpedia.org/resource/Category:Staple_foods",
+        "http://dbpedia.org/resource/Category:Wheat_dishes"
+      ]
+    },
+    {
+      "score": [
+        "3068.425"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Somaliland"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Somalia",
+        "<B>Italian</B> Somalialand",
+        "Somalia <B>Italiana</B>"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Italian</B> Somaliland (<B>Italian</B>: Somalia <B>italiana</B>, Arabic: الصومال الإيطالي‎ Al-Sumal Al-<B>Italiy</B>, Somali"
+      ],
+      "label": [
+        "<B>Italian</B> Somaliland"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Somaliland"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1889_establishments_in_Somalia",
+        "http://dbpedia.org/resource/Category:1889_establishments_in_the_Italian_Empire",
+        "http://dbpedia.org/resource/Category:1936_disestablishments_in_the_Italian_Empire",
+        "http://dbpedia.org/resource/Category:1941_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_Italian-speaking_countries",
+        "http://dbpedia.org/resource/Category:Former_Italian_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Italian_Somaliland",
+        "http://dbpedia.org/resource/Category:Italian_colonisation_in_Africa",
+        "http://dbpedia.org/resource/Category:Italy–Somalia_relations",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1889"
+      ]
+    },
+    {
+      "score": [
+        "3025.106"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Empire"
+      ],
+      "redirectlabel": [
+        "Evolution of the <B>Italian</B> Empire",
+        "Impero <B>italiano</B>",
+        "<B>Italian</B> Africa",
+        "<B>Italian</B> African Empire",
+        "<B>Italian</B> Colonial Empire",
+        "<B>Italian</B> Empire (entity, 1936-1943)",
+        "<B>Italian</B> Empire (entity, 1936–1943)",
+        "<B>Italian</B> colonial empire",
+        "<B>Italian</B> colonialism",
+        "<B>Italian</B> colonies",
+        "<B>Italian</B> empire",
+        "<B>Italian</B> imperialism",
+        "Italy's colonial campaigns",
+        "Kingdom of Italy (North Africa)",
+        "Mussolini's Empire",
+        "New Roman Empire",
+        "The <B>Italian</B> Empire",
+        "The <B>Italian</B> colonial empire"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Italian</B> colonial empire (<B>Italian</B>: Impero coloniale <B>italiano</B>), known as the <B>Italian</B> Empire"
+      ],
+      "label": [
+        "<B>Italian</B> Empire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Empire"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1882_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1960_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Historical_transcontinental_empires",
+        "http://dbpedia.org/resource/Category:History_of_European_colonialism",
+        "http://dbpedia.org/resource/Category:Italian_Empire",
+        "http://dbpedia.org/resource/Category:Italian_Fascism",
+        "http://dbpedia.org/resource/Category:Overseas_empires",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1960",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1882"
+      ]
+    },
+    {
+      "score": [
+        "3013.5525"
+      ],
+      "refCount": [
+        "94"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italy_national_athletics_team"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> athletics team",
+        "<B>Italian</B> national athletics team"
+      ],
+      "comment": [
+        "The Italy national athletics team represents Italy at the international athletics competitions such as Olympic Games or world athletics championships."
+      ],
+      "label": [
+        "Italy national athletics team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italy_national_athletics_team"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Athletics_in_Italy",
+        "http://dbpedia.org/resource/Category:Italy_national_athletics_team",
+        "http://dbpedia.org/resource/Category:National_athletics_teams"
+      ]
+    },
+    {
+      "score": [
+        "3011.3606"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_nationalism"
+      ],
+      "redirectlabel": [
+        "History of <B>Italian</B> nationalism",
+        "<B>Italian</B> Nationalism",
+        "<B>Italian</B> identity",
+        "<B>Italian</B> nationalist",
+        "<B>Italian</B> nationalists",
+        "Nationalism in Italy"
+      ],
+      "comment": [
+        " <B>Italian</B> nationalist perspective, <B>Italianness</B> is defined as claiming cultural and ethnic descent from the"
+      ],
+      "label": [
+        "<B>Italian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Europe",
+        "http://dbpedia.org/resource/Category:Italian_culture",
+        "http://dbpedia.org/resource/Category:Italian_nationalism",
+        "http://dbpedia.org/resource/Category:Italian_unification",
+        "http://dbpedia.org/resource/Category:Political_history_of_Italy"
+      ]
+    },
+    {
+      "score": [
+        "2992.9902"
+      ],
+      "refCount": [
+        "51"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Social_Republic"
+      ],
+      "redirectlabel": [
+        "German-occupied Italy",
+        "German puppet state in northern Italy",
+        "Military of the <B>Italian</B> Social Republic",
+        "Military of the <B>Italian</B> Socialist Republic",
+        "Minister of Foreign Affairs of the <B>Italian</B> Social Republic",
+        "Repubblica Sociale <B>Italiana</B>",
+        "Repubblica di Salò",
+        "Repubblica of Salo",
+        "Repubblica of Salò",
+        "Republic of Salo",
+        "Republic of Salò",
+        "Republic of salo",
+        "Salo Republic",
+        "Salo republic",
+        "Salò Republic",
+        "Salò republic",
+        "Saló Republic",
+        "Social Republic",
+        "Social Republic of Italy"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The <B>Italian</B> Social Republic (<B>Italian</B>: Repubblica Sociale <B>Italiana</B>, pronounced [reˈpubblika"
+      ],
+      "label": [
+        "<B>Italian</B> Social Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Social_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1943_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1944_in_Italy",
+        "http://dbpedia.org/resource/Category:1945_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:20th_century_rump_states",
+        "http://dbpedia.org/resource/Category:Axis_powers",
+        "http://dbpedia.org/resource/Category:Client_states_of_Nazi_Germany",
+        "http://dbpedia.org/resource/Category:Former_republics",
+        "http://dbpedia.org/resource/Category:Italian_Social_Republic",
+        "http://dbpedia.org/resource/Category:Italian_states",
+        "http://dbpedia.org/resource/Category:Military_history_of_Italy_during_World_War_II",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1945",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1943",
+        "http://dbpedia.org/resource/Category:Totalitarian_states"
+      ]
+    },
+    {
+      "score": [
+        "2978.7532"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Navy"
+      ],
+      "redirectlabel": [
+        "History of the <B>Italian</B> Navy",
+        "<B>Italian</B> navy",
+        "Italy Navy",
+        "Marina Militare",
+        "Marina Militare (identifier)",
+        "Marina Militare <B>Italiana</B>",
+        "Naval Jack of Italy",
+        "Navy of Italy"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Navy (<B>Italian</B>: Marina Militare, lit. \"Military Navy\"; abbreviated as MM) is the Navy of"
+      ],
+      "label": [
+        "<B>Italian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_Navy",
+        "http://dbpedia.org/resource/Category:Marina_Militare"
+      ]
+    },
+    {
+      "score": [
+        "2890.0195"
+      ],
+      "refCount": [
+        "180"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Swiss_people"
+      ],
+      "redirectlabel": [
+        "Alemannic Swiss",
+        "French-speaking Swiss",
+        "Genetic studies on Swiss people",
+        "German-speaking Swiss",
+        "German people in Switzerland",
+        "German speaking Swiss",
+        "<B>Italian</B>-speaking Swiss",
+        "<B>Italian</B> Swiss",
+        "People of Switzerland",
+        "Swiss-<B>Italian</B>",
+        "Swiss (nationality)",
+        "Swiss (people)",
+        "Swiss French people",
+        "Swiss German people",
+        "Swiss German speakers",
+        "Swiss <B>Italian</B> people",
+        "Swiss <B>Italians</B>",
+        "Swiss expatriate",
+        "Swiss identity",
+        "The Swiss"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The Swiss (German: die Schweizer, French: les Suisses, <B>Italian</B>: gli Svizzeri, Romansh: ils Svizzers"
+      ],
+      "label": [
+        "Swiss people"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Swiss_people"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Switzerland",
+        "http://dbpedia.org/resource/Category:Society_of_Switzerland",
+        "http://dbpedia.org/resource/Category:Swiss_people"
+      ]
+    },
+    {
+      "score": [
+        "2881.3828"
+      ],
+      "refCount": [
+        "192"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Renaissance_architecture"
+      ],
+      "redirectlabel": [
+        "Architecture of the Renaissance",
+        "<B>Italian</B> Renaissance and Mannerist architecture",
+        "<B>Italian</B> Renaissance architecture",
+        "Renaissance (architecture)",
+        "Renaissance Architecture",
+        "Renaissance architect",
+        "Renaissance architectural style",
+        "Renaissance church",
+        "Renaissance style"
+      ],
+      "comment": [
+        " other <B>Italian</B> cities. The style was carried to France, Germany, England, Russia and other parts of"
+      ],
+      "label": [
+        "Renaissance architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Renaissance_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:15th-century_architecture",
+        "http://dbpedia.org/resource/Category:16th-century_architecture",
+        "http://dbpedia.org/resource/Category:17th-century_architecture",
+        "http://dbpedia.org/resource/Category:Architectural_history",
+        "http://dbpedia.org/resource/Category:Architectural_styles",
+        "http://dbpedia.org/resource/Category:Architecture_of_Italy",
+        "http://dbpedia.org/resource/Category:European_architecture",
+        "http://dbpedia.org/resource/Category:Renaissance_architecture",
+        "http://dbpedia.org/resource/Category:Renaissance_art"
+      ]
+    },
+    {
+      "score": [
+        "2845.2007"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_fascism"
+      ],
+      "redirectlabel": [
+        "Ceka",
+        "Classical Fascism",
+        "Classical fascism",
+        "Fascism in Italy",
+        "Fascist <B>Italian</B>",
+        "Fascist <B>Italians</B>",
+        "Fascist Regime",
+        "Fascist era",
+        "<B>Italian</B> Facist",
+        "<B>Italian</B> Fascism",
+        "<B>Italian</B> Fascist",
+        "<B>Italian</B> Fascists",
+        "<B>Italian</B> fascist",
+        "Mussolini's Fascism",
+        "Mussolini's Fascist movement",
+        "Mussolini's Italy",
+        "Mussolinian Fascism",
+        "Mussolinism",
+        "Paleo-fascism",
+        "Sammarinese Fascism",
+        "Ventennio fascista"
+      ],
+      "label": [
+        "<B>Italian</B> fascism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_fascism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Authoritarianism",
+        "http://dbpedia.org/resource/Category:Fascism",
+        "http://dbpedia.org/resource/Category:Italian_Fascism",
+        "http://dbpedia.org/resource/Category:Italian_neo-fascism",
+        "http://dbpedia.org/resource/Category:Political_movements",
+        "http://dbpedia.org/resource/Category:Politics_of_Italy",
+        "http://dbpedia.org/resource/Category:Right-wing_populism_in_Italy",
+        "http://dbpedia.org/resource/Category:Totalitarianism"
+      ]
+    },
+    {
+      "score": [
+        "2824.9492"
+      ],
+      "refCount": [
+        "115"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provinces_of_Italy"
+      ],
+      "redirectlabel": [
+        "Autonomous provinces of Italy",
+        "<B>Italian</B> Provinces",
+        "<B>Italian</B> province",
+        "<B>Italian</B> provinces",
+        "List of <B>Italian</B> Provinces",
+        "Province of Italy",
+        "Provinces (Italy)",
+        "Provinces in Italy",
+        "Provinces of italy",
+        "Provinces of the Republic of Italy"
+      ],
+      "comment": [
+        "The provinces of Italy (<B>Italian</B>: province d'Italia) are administrative divisions of Italy of"
+      ],
+      "label": [
+        "Provinces of Italy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provinces_of_Italy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Europe",
+        "http://dbpedia.org/resource/Category:Lists_of_subdivisions_of_Italy",
+        "http://dbpedia.org/resource/Category:NUTS_2_statistical_regions_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Provinces_of_Italy",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Italy"
+      ]
+    },
+    {
+      "score": [
+        "2725.7354"
+      ],
+      "refCount": [
+        "54"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_campaign_(World_War_II)"
+      ],
+      "redirectlabel": [
+        "Advance to Tiber",
+        "Allied march on Rome",
+        "<B>Italian</B> Campaign (World War II)",
+        "<B>Italian</B> Campaign of the Second World War",
+        "<B>Italian</B> front World War 2",
+        "<B>Italian</B> front World War II",
+        "Italy, 1943-1945",
+        "Italy, 1943-45",
+        "Italy, 1943–1945",
+        "Italy, 1943–45",
+        "Italy, 1944-1945",
+        "Italy, 1944–1945",
+        "Italy 1943-1945",
+        "Italy 1943-44",
+        "Italy 1943-45",
+        "Italy 1943",
+        "Italy 1943–44",
+        "Italy 1943–45",
+        "Italy 1944-1945",
+        "Italy 1944-45",
+        "Italy 1944–1945",
+        "Italy 1944–45",
+        "Liberation of Italy"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Italian</B> campaign of World War II consisted of Allied and Axis operations in and around Italy"
+      ],
+      "label": [
+        "<B>Italian</B> campaign (World War II)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_campaign_(World_War_II)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_Australia",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_Brazil",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_Canada",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_France",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_Greece",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_India",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_Italy",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_New_Zealand",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_Poland",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_South_Africa",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_World_War_II_involving_the_United_States",
+        "http://dbpedia.org/resource/Category:Campaigns,_operations_and_battles_of_World_War_II_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Italian_campaign_(World_War_II)",
+        "http://dbpedia.org/resource/Category:Military_history_of_Canada_during_World_War_II",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Italy",
+        "http://dbpedia.org/resource/Category:World_War_II_campaigns_of_the_Mediterranean_Theatre"
+      ]
+    },
+    {
+      "score": [
+        "2691.415"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Line"
+      ],
+      "redirectlabel": [
+        "<B>Italia</B> Crociere",
+        "<B>Italia</B> Flotta Riunite",
+        "<B>Italia</B> Flotte Riunite",
+        "<B>Italia</B> Line",
+        "<B>Italia</B> Navigazione",
+        "<B>Italia</B> Societa Anonima di Navigazione",
+        "<B>Italia</B> Societa di Navigazione",
+        "<B>Italia</B> Società Anonima di Navigazione",
+        "<B>Italia</B> Società di Navigazione",
+        "<B>Italia</B> di Navigazione",
+        "<B>Italia</B> di Navigazione S.p.a.",
+        "<B>Italian</B> Cruises",
+        "<B>Italian</B> Line Cruises",
+        "Societa di navigazione <B>Italia</B>",
+        "Società di navigazione <B>Italia</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Line or <B>Italia</B> Line, whose official name was <B>Italia</B> di Navigazione S.p.A., was a"
+      ],
+      "label": [
+        "<B>Italian</B> Line"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Line"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Defunct_cruise_lines",
+        "http://dbpedia.org/resource/Category:Defunct_shipping_companies",
+        "http://dbpedia.org/resource/Category:Defunct_transport_companies_of_Italy",
+        "http://dbpedia.org/resource/Category:Italian_brands",
+        "http://dbpedia.org/resource/Category:Italian_companies_disestablished_in_2002",
+        "http://dbpedia.org/resource/Category:Italian_companies_established_in_1932",
+        "http://dbpedia.org/resource/Category:Shipping_companies_of_Italy",
+        "http://dbpedia.org/resource/Category:Transatlantic_shipping_companies",
+        "http://dbpedia.org/resource/Category:Transport_companies_disestablished_in_2002",
+        "http://dbpedia.org/resource/Category:Transport_companies_established_in_1932"
+      ]
+    },
+    {
+      "score": [
+        "2689.2854"
+      ],
+      "refCount": [
+        "3321"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Yale_University"
+      ],
+      "redirectlabel": [
+        "Association of Yale Alumni",
+        "Bulldog Productions",
+        "CancelYale",
+        "Collegiate School of Connecticut",
+        "Department of University Health",
+        "Eli Whitney Students Program",
+        "Elis (students)",
+        "History of Yale University",
+        "List of Yale University student organizations",
+        "The Yale Review of International Studies",
+        "Undergraduate Organizing Committee",
+        "Undergraduate organizing committee",
+        "University of Yale",
+        "Whitney Humanities Center",
+        "Whitney Humanities Center Fellowship",
+        "YALE",
+        "Yale.edu",
+        "Yale",
+        "YaleNews",
+        "Yale (University)",
+        "Yale Bulletin & Calendar",
+        "Yale College, Connecticut",
+        "Yale College Council",
+        "Yale College Democrats",
+        "Yale International Relations Association, Inc.",
+        "Yale International Relations Association",
+        "Yale International Relations Association (YIRA)",
+        "Yale International Relations association",
+        "Yale <B>Italian</B> Poetry",
+        "Yale Journal of Medicine & Law",
+        "Yale Journal of Medicine and Law",
+        "Yale Law & Tech",
+        "Yale Law & Technology",
+        "Yale Law Tech",
+        "Yale Law and Tech",
+        "Yale Law and Technology",
+        "Yale MUN (YMUN)",
+        "Yale Review of International Studies",
+        "Yale Sustainability",
+        "Yale U",
+        "Yale Univ.",
+        "Yale University, Connecticut",
+        "Yale University Department of Psychology",
+        "Yale model un",
+        "Yale model united nations",
+        "Yale psychology",
+        "Yale uni",
+        "Yale university",
+        "Ymun"
+      ],
+      "comment": [
+        "Yale University is a private Ivy League research university in New Haven, Connecticut. Founded in 1701, it is the third-oldest institution of higher education in the United States and one of the nine Colonial Colleges chartered before the American Revolution."
+      ],
+      "label": [
+        "Yale University"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Yale_University"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1701_establishments_in_Connecticut",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_New_Haven,_Connecticut",
+        "http://dbpedia.org/resource/Category:Colonial_colleges",
+        "http://dbpedia.org/resource/Category:Education_in_New_Haven,_Connecticut",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1701",
+        "http://dbpedia.org/resource/Category:Non-profit_organizations_based_in_Connecticut",
+        "http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_Connecticut",
+        "http://dbpedia.org/resource/Category:Tourist_attractions_in_New_Haven,_Connecticut",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_in_New_Haven_County,_Connecticut",
+        "http://dbpedia.org/resource/Category:Yale_University"
+      ]
+    },
+    {
+      "score": [
+        "2629.1587"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_irredentism"
+      ],
+      "redirectlabel": [
+        "Greater <B>Italia</B>",
+        "Greater Italy",
+        "Irredenzia",
+        "Irrendenta",
+        "<B>Italia</B> Irredenta",
+        "<B>Italia</B> irredenta",
+        "<B>Italia</B> irredentia",
+        "<B>Italian</B> iridentism",
+        "<B>Italian</B> irredenta",
+        "<B>Italian</B> irredentist",
+        "<B>Italian</B> irredentists",
+        "<B>Italian</B> irridentism",
+        "Terre irridente",
+        "Unredeemed Italy"
+      ],
+      "comment": [
+        "<B>Italian</B> irredentism (<B>Italian</B>: irredentismo <B>italiano</B>) was a nationalist movement during the late"
+      ],
+      "label": [
+        "<B>Italian</B> irredentism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_irredentism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:History_of_Austria-Hungary",
+        "http://dbpedia.org/resource/Category:History_of_Dalmatia",
+        "http://dbpedia.org/resource/Category:History_of_Istria",
+        "http://dbpedia.org/resource/Category:History_of_Malta",
+        "http://dbpedia.org/resource/Category:Italian_irredentism",
+        "http://dbpedia.org/resource/Category:National_unifications",
+        "http://dbpedia.org/resource/Category:Politics_of_World_War_I",
+        "http://dbpedia.org/resource/Category:Politics_of_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2617.1719"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_lira"
+      ],
+      "redirectlabel": [
+        "ISO 4217:ITL",
+        "<B>Italian</B> Lira",
+        "<B>Italian</B> lira sign",
+        "<B>Italian</B> lire",
+        "<B>Italian</B> pound",
+        "Lire (Italy)",
+        "₤10",
+        "₤1"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The lira (<B>Italian</B>: [ˈliːra]; plural lire [ˈliːre]) was the currency of Italy between 1861 and 2002"
+      ],
+      "label": [
+        "<B>Italian</B> lira"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_lira"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1861_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1861",
+        "http://dbpedia.org/resource/Category:Currencies_of_Europe",
+        "http://dbpedia.org/resource/Category:Currencies_of_Italy",
+        "http://dbpedia.org/resource/Category:Currencies_of_San_Marino",
+        "http://dbpedia.org/resource/Category:Currencies_of_Vatican_City",
+        "http://dbpedia.org/resource/Category:Currencies_replaced_by_the_euro",
+        "http://dbpedia.org/resource/Category:Finance_in_Italy",
+        "http://dbpedia.org/resource/Category:Franc",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies",
+        "http://dbpedia.org/resource/Category:Obsolete_Italian_currencies"
+      ]
+    },
+    {
+      "score": [
+        "2601.6123"
+      ],
+      "refCount": [
+        "481"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Audax_Italiano"
+      ],
+      "redirectlabel": [
+        "Audax Club Sportivo <B>Italiano</B>",
+        "Audax <B>Italiano</B> La Florida"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "Audax Club Sportivo <B>Italiano</B> (Spanish pronunciation: [ˈauðaks itaˈljano]) is a Chilean football"
+      ],
+      "label": [
+        "Audax <B>Italiano</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Audax_Italiano"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910_establishments_in_Chile",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1910",
+        "http://dbpedia.org/resource/Category:Audax_Italiano",
+        "http://dbpedia.org/resource/Category:Football_clubs_in_Chile",
+        "http://dbpedia.org/resource/Category:Italian_association_football_clubs_outside_Italy",
+        "http://dbpedia.org/resource/Category:Sport_in_Santiago"
+      ]
+    },
+    {
+      "score": [
+        "2599.4155"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_LNP_Cup"
+      ],
+      "redirectlabel": [
+        "Coppa <B>Italia</B> di Legadue",
+        "<B>Italian</B> Legadue Cup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> LNP Cup (<B>Italian</B>: Coppa <B>Italia</B> LNP), known as Turkish Airlines Cup for sponsorship"
+      ],
+      "label": [
+        "<B>Italian</B> LNP Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_LNP_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Italy",
+        "http://dbpedia.org/resource/Category:Basketball_league_cup_competitions_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2596.4243"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_resistance_movement"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Partisans",
+        "<B>Italian</B> Resistance",
+        "<B>Italian</B> Resistance Movement",
+        "<B>Italian</B> Resistence",
+        "<B>Italian</B> anti-fascist partisans",
+        "<B>Italian</B> partisan",
+        "<B>Italian</B> partisans",
+        "<B>Italian</B> resistance",
+        "<B>Italian</B> resistance in World War II",
+        "<B>Italian</B> resitence moviment",
+        "Partigiani",
+        "Partisans in war-time Italy",
+        "Resistenza",
+        "Resistenza <B>italiana</B>"
+      ],
+      "comment": [
+        "The <B>Italian</B> resistance movement (<B>Italian</B>: Resistenza <B>italiana</B> or just la Resistenza) is an umbrella"
+      ],
+      "label": [
+        "<B>Italian</B> resistance movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_resistance_movement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-fascism_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_resistance_movement",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Italy",
+        "http://dbpedia.org/resource/Category:World_War_II_resistance_movements"
+      ]
+    },
+    {
+      "score": [
+        "2569.3376"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Superturismo_Championship"
+      ],
+      "redirectlabel": [
+        "Campionato <B>Italiano</B> Turismo Endurance",
+        "<B>Italia</B> Superturismo Championship",
+        "<B>Italian</B> Super Touring Championship",
+        "<B>Italian</B> Supertourismo Championship",
+        "<B>Italian</B> Superturismo",
+        "<B>Italian</B> Touring Car Championship",
+        "TCR <B>Italian</B> Series"
+      ],
+      "comment": [
+        "The <B>Italian</B> Superturismo Championship (Campionato <B>Italiano</B> Superturismo) is Italy's national"
+      ],
+      "label": [
+        "<B>Italian</B> Superturismo Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Superturismo_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1987_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Italian_Superturismo_Championship",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1987",
+        "http://dbpedia.org/resource/Category:TCR_Series",
+        "http://dbpedia.org/resource/Category:Touring_car_racing_series"
+      ]
+    },
+    {
+      "score": [
+        "2569.103"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Italian_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "Armistice of Salasco",
+        "Armistice of Vigevano",
+        "Battle of Curtatone and Montanara",
+        "First <B>Italian</B> Independence War",
+        "First War of <B>Italian</B> Independence",
+        "First <B>italian</B> war of independence",
+        "Treaty of Milan (1849)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The First <B>Italian</B> War of Independence (<B>Italian</B>: Prima guerra d'indipendenza <B>italiana</B>) was part of"
+      ],
+      "label": [
+        "First <B>Italian</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Italian_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1848_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:1848_in_the_Kingdom_of_Sardinia",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1848",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1849",
+        "http://dbpedia.org/resource/Category:First_Italian_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Revolutions_of_1848_in_the_Italian_states"
+      ]
+    },
+    {
+      "score": [
+        "2542.7434"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Air_Force"
+      ],
+      "redirectlabel": [
+        "14º Stormo",
+        "6º Stormo",
+        "Aeronautica Militaire",
+        "Aeronautica Militare",
+        "Aeronautica Militare <B>Italiana</B>",
+        "Air Force of Italy",
+        "<B>Italian</B> Airforce",
+        "<B>Italian</B> aviation"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Air Force (<B>Italian</B>: Aeronautica Militare; AM) is the air force of the <B>Italian</B> Republic"
+      ],
+      "label": [
+        "<B>Italian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1923_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Aeronautica_Militare",
+        "http://dbpedia.org/resource/Category:Italian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1923"
+      ]
+    },
+    {
+      "score": [
+        "2488.2097"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Swiss_Italian"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Switzerland",
+        "<B>Italian</B> in Switzerland",
+        "<B>Italian</B> language in Switzerland",
+        "<B>Italian</B> language of Switzerland",
+        "<B>Italian</B> of Switzerland",
+        "<B>Italians</B> in Switzerland",
+        "Swiss-<B>Italians</B>",
+        "Swiss <B>Italian</B> (linguistics)",
+        "Swiss <B>italian</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "The <B>Italian</B> language in Switzerland or Swiss <B>Italian</B> (<B>Italian</B>: svizzero <B>italiano</B>) is the variety of"
+      ],
+      "label": [
+        "Swiss <B>Italian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Swiss_Italian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dialects_of_Italian",
+        "http://dbpedia.org/resource/Category:Geographical_distribution_of_the_Italian_language",
+        "http://dbpedia.org/resource/Category:Italian_language",
+        "http://dbpedia.org/resource/Category:Languages_of_Switzerland"
+      ]
+    },
+    {
+      "score": [
+        "2463.233"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Canadians"
+      ],
+      "redirectlabel": [
+        "Canadians of <B>Italian</B> descent",
+        "History of <B>Italian</B> Canadians",
+        "Il Cittadino Canadese",
+        "<B>Italian</B>-Canadian",
+        "<B>Italian</B> Canadian",
+        "<B>Italian</B> Quebeckers",
+        "<B>Italians</B> in Canada",
+        "Sicilian Canadian"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " full or partial <B>Italian</B> heritage and <B>Italians</B> who migrated from Italy or reside in Canada. According"
+      ],
+      "label": [
+        "<B>Italian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Canada–Italy_relations",
+        "http://dbpedia.org/resource/Category:Canadian_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_in_Canada"
+      ]
+    },
+    {
+      "score": [
+        "2448.4636"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Brazilians"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B>-Brazilian",
+        "<B>Italian</B>-Brazilians",
+        "<B>Italian</B> Brazilian",
+        "<B>Italian</B> immigration to Brazil",
+        "Italo-Brazilian",
+        "Italo-Brazilians",
+        "Italo Brazilian",
+        "Ítalo-brasileiro"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Brazilians (<B>Italian</B>: italobrasiliani, Portuguese: ítalo-brasileiros) are Brazilian citizens"
+      ],
+      "label": [
+        "<B>Italian</B> Brazilians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:Italian_Brazilian"
+      ]
+    },
+    {
+      "score": [
+        "2447.8035"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_East_Africa"
+      ],
+      "redirectlabel": [
+        "Africa Orientale <B>Italian</B>",
+        "Africa Orientale <B>Italiana</B>",
+        "Galla-Sidamo",
+        "<B>Italian</B> occupation of Ethiopia"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Italian</B> East Africa (<B>Italian</B>: Africa Orientale <B>Italiana</B>) was an <B>Italian</B> colony in the Horn of"
+      ],
+      "label": [
+        "<B>Italian</B> East Africa"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_East_Africa"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930s_in_Eritrea",
+        "http://dbpedia.org/resource/Category:1930s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1930s_in_Somalia",
+        "http://dbpedia.org/resource/Category:1936_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1936_establishments_in_the_Italian_Empire",
+        "http://dbpedia.org/resource/Category:1940s_in_Eritrea",
+        "http://dbpedia.org/resource/Category:1940s_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:1940s_in_Somalia",
+        "http://dbpedia.org/resource/Category:1941_disestablishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1941_disestablishments_in_the_Italian_Empire",
+        "http://dbpedia.org/resource/Category:20th_century_in_Africa",
+        "http://dbpedia.org/resource/Category:20th_century_in_Eritrea",
+        "http://dbpedia.org/resource/Category:20th_century_in_Ethiopia",
+        "http://dbpedia.org/resource/Category:20th_century_in_Somalia",
+        "http://dbpedia.org/resource/Category:Client_states_of_Fascist_Italy",
+        "http://dbpedia.org/resource/Category:East_Africa",
+        "http://dbpedia.org/resource/Category:Eritrea–Italy_relations",
+        "http://dbpedia.org/resource/Category:Ethiopia–Italy_relations",
+        "http://dbpedia.org/resource/Category:Former_Italian-speaking_countries",
+        "http://dbpedia.org/resource/Category:Former_Italian_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Africa",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:History_of_Eritrea",
+        "http://dbpedia.org/resource/Category:History_of_Ethiopia",
+        "http://dbpedia.org/resource/Category:Horn_of_Africa",
+        "http://dbpedia.org/resource/Category:Italian_East_Africa",
+        "http://dbpedia.org/resource/Category:Italian_colonisation_in_Africa",
+        "http://dbpedia.org/resource/Category:Italian_military_occupations",
+        "http://dbpedia.org/resource/Category:Italy–Somalia_relations",
+        "http://dbpedia.org/resource/Category:Real_unions",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1941",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1936",
+        "http://dbpedia.org/resource/Category:World_War_II_occupied_territories"
+      ]
+    },
+    {
+      "score": [
+        "2438.0046"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Wikipedia"
+      ],
+      "redirectlabel": [
+        "2011 <B>Italian</B> Wikipedia protest",
+        "ITWP",
+        "It.m.wikipedia.org",
+        "It.wiki",
+        "It.wikipedia.org",
+        "It wikipedia",
+        "<B>Italian</B>-language Wikipedia",
+        "<B>Italian</B> WP",
+        "<B>Italian</B> Wikipedia blackout",
+        "<B>Italic</B> Wikipedia",
+        "Itwiki",
+        "October 2011 <B>Italian</B> Wikipedia protest",
+        "Wikipedia <B>Italiano</B>",
+        "Wikipedia in <B>Italian</B>",
+        "Wikipedia in <B>italiano</B>"
+      ],
+      "typeName": [
+        "Website",
+        "Work"
+      ],
+      "comment": [
+        "The <B>Italian</B> Wikipedia (<B>Italian</B>: Wikipedia in <B>italiano</B>) is the <B>Italian</B>-language edition of Wikipedia"
+      ],
+      "label": [
+        "<B>Italian</B> Wikipedia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Wikipedia"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Website",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Internet_properties_established_in_2001",
+        "http://dbpedia.org/resource/Category:Italian-language_encyclopedias",
+        "http://dbpedia.org/resource/Category:Italian-language_websites",
+        "http://dbpedia.org/resource/Category:Wikipedias_by_language",
+        "http://dbpedia.org/resource/Category:Wikipedias_in_Romance_languages"
+      ]
+    },
+    {
+      "score": [
+        "2431.6873"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Royal_Italian_Army"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Royal Army",
+        "Regio Esercito",
+        "Royal Army (Italy)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " ended, the army changed its name to become the <B>Italian</B> Army (Esercito <B>Italiano</B>)."
+      ],
+      "label": [
+        "Royal <B>Italian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Royal_Italian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1861",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Italy_in_World_War_I",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_of_Italy_in_World_War_II",
+        "http://dbpedia.org/resource/Category:Royal_Italian_Army"
+      ]
+    },
+    {
+      "score": [
+        "2376.9062"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Formula_Three_Championship"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> F3",
+        "<B>Italian</B> Formula 3",
+        "<B>Italian</B> Formula Three"
+      ],
+      "comment": [
+        "The <B>Italian</B> Formula Three Championship was the Formula Three racing competition in Italy."
+      ],
+      "label": [
+        "<B>Italian</B> Formula Three Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Formula_Three_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1964_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:2012_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_auto_racing_series",
+        "http://dbpedia.org/resource/Category:Defunct_sports_competitions_in_Italy",
+        "http://dbpedia.org/resource/Category:Formula_Three_series",
+        "http://dbpedia.org/resource/Category:Italian_Formula_Three_Championship",
+        "http://dbpedia.org/resource/Category:Recurring_events_disestablished_in_2012",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1964"
+      ]
+    },
+    {
+      "score": [
+        "2366.462"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Internment_of_Italian_Americans"
+      ],
+      "redirectlabel": [
+        "American-<B>Italian</B> Internment",
+        "Internment of <B>Italians</B> in the United States",
+        "<B>Italian</B>-American Internment",
+        "<B>Italian</B>-American internment",
+        "<B>Italian</B>-american Internment",
+        "<B>Italian</B>-american internment",
+        "<B>Italian</B> American Internment",
+        "<B>Italian</B> American internment",
+        "<B>Italian</B> Internment",
+        "<B>Italian</B> american Internment",
+        "<B>Italian</B> american internment",
+        "<B>Italian</B> internment",
+        "<B>Italian</B> internment camps",
+        "<B>Italianamerican</B> Internment",
+        "<B>Italianamerican</B> internment",
+        "The Internment of <B>Italian</B> Americans",
+        "Una Storia Segreta"
+      ],
+      "comment": [
+        "The internment of <B>Italian</B> Americans refers to the government's internment of <B>Italian</B> nationals in"
+      ],
+      "label": [
+        "Internment of <B>Italian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Internment_of_Italian_Americans"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Italian_sentiment",
+        "http://dbpedia.org/resource/Category:Civil_detention_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Collective_punishment",
+        "http://dbpedia.org/resource/Category:Forced_migrations_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Internments_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Italian-American_history",
+        "http://dbpedia.org/resource/Category:Political_repression_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Presidency_of_Franklin_D._Roosevelt",
+        "http://dbpedia.org/resource/Category:United_States_home_front_during_World_War_II"
+      ]
+    },
+    {
+      "score": [
+        "2343.7815"
+      ],
+      "refCount": [
+        "58"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Futurism"
+      ],
+      "redirectlabel": [
+        "Aeropainting",
+        "Futurism (art)",
+        "Futurism movement",
+        "Futurismo",
+        "Futurist movement",
+        "<B>Italian</B> Futurism",
+        "<B>Italian</B> Futurist",
+        "<B>Italian</B> Futurists"
+      ],
+      "comment": [
+        "Futurism (<B>Italian</B>: Futurismo) was an artistic and social movement that originated in Italy in the"
+      ],
+      "label": [
+        "Futurism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Futurism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_movements",
+        "http://dbpedia.org/resource/Category:Avant-garde_art",
+        "http://dbpedia.org/resource/Category:Futurism",
+        "http://dbpedia.org/resource/Category:Italian_Fascism",
+        "http://dbpedia.org/resource/Category:Italian_Futurism",
+        "http://dbpedia.org/resource/Category:Italian_art_movements",
+        "http://dbpedia.org/resource/Category:Modern_art",
+        "http://dbpedia.org/resource/Category:Opposition_to_feminism"
+      ]
+    },
+    {
+      "score": [
+        "2339.2075"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Argentines"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Argentine",
+        "<B>Italian</B> Argentinian",
+        "<B>Italian</B> language in Argentina",
+        "<B>Italian</B> settlement in Argentina",
+        "<B>Italians</B> in Argentina",
+        "Italo-argentines",
+        "Italo-argentino",
+        "Italo argentino",
+        "List of <B>Italian</B> Argentines"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Argentines (<B>Italian</B>: italo-argentini, Spanish: ítalo-argentinos) are Argentine-born"
+      ],
+      "label": [
+        "<B>Italian</B> Argentines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Argentines"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Argentine_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:Immigration_to_Argentina",
+        "http://dbpedia.org/resource/Category:Italian_Argentine",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2321.4746"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Open_(golf)"
+      ],
+      "redirectlabel": [
+        "Atlanet <B>Italian</B> Open",
+        "BMW <B>Italian</B> Open",
+        "Conte Of Florence <B>Italian</B> Open",
+        "Conte of Florence <B>Italian</B> Open",
+        "DS Automobiles <B>Italian</B> Open",
+        "Fiat and Fila <B>Italian</B> Open",
+        "<B>Italian</B> Open Lindt",
+        "<B>Italian</B> Open Telecom <B>Italia</B>",
+        "Lancia <B>Italian</B> Open",
+        "Lancia Martini <B>Italian</B> Open",
+        "Methorios Capital <B>Italian</B> Open",
+        "Open d'Italia",
+        "Open d'Italia Lindt",
+        "Telecom <B>Italia</B> Open",
+        "Tisettanta <B>Italian</B> Open"
+      ],
+      "typeName": [
+        "Event",
+        "GolfTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The <B>Italian</B> Open is the <B>Italian</B> national open golf championship for men. It was founded in 1925 and"
+      ],
+      "label": [
+        "<B>Italian</B> Open (golf)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Open_(golf)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GolfTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1925_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:European_Tour_events",
+        "http://dbpedia.org/resource/Category:Golf_tournaments_in_Italy",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1925",
+        "http://dbpedia.org/resource/Category:Sport_in_Turin"
+      ]
+    },
+    {
+      "score": [
+        "2313.1174"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Judeo-Italian_languages"
+      ],
+      "redirectlabel": [
+        "Corfiot <B>Italkian</B>",
+        "Ghettaiolo",
+        "ISO 639:itk",
+        "<B>Italkian</B>",
+        "<B>Italkian</B> language",
+        "Judaeo-<B>Italian</B>",
+        "Judaeo-<B>Italian</B> languages",
+        "Judeo-<B>Italian</B>",
+        "Judeo-<B>Italian</B> language",
+        "Judeo-<B>Italian</B> language varieties",
+        "Judeo-Venetian",
+        "Judæo-<B>Italian</B>",
+        "Judæo-<B>Italian</B> languages"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Judeo-<B>Italian</B>, also referred to as <B>Italkian</B>, is an endangered Jewish language, with only about 200"
+      ],
+      "label": [
+        "Judeo-<B>Italian</B> languages"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Judeo-Italian_languages"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endangered_Romance_languages",
+        "http://dbpedia.org/resource/Category:Italo-Dalmatian_languages",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Italy",
+        "http://dbpedia.org/resource/Category:Judaeo-Italian_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Italy"
+      ]
+    },
+    {
+      "score": [
+        "2295.492"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Democratic_Socialists"
+      ],
+      "redirectlabel": [
+        "Alleanza Riformista",
+        "<B>Italian</B> Social Democrats",
+        "Reformist Alliance",
+        "Socialisti Democratici <B>Italiani</B>"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Democratic Socialists (<B>Italian</B>: Socialisti Democratici <B>Italiani</B>, SDI) were a social"
+      ],
+      "label": [
+        "<B>Italian</B> Democratic Socialists"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Democratic_Socialists"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1998_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:2007_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_social_democratic_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Former_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Party_of_European_Socialists_member_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_2007",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1998"
+      ]
+    },
+    {
+      "score": [
+        "2249.2278"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Italian_constituencies"
+      ],
+      "redirectlabel": [
+        "Constituencies in Italy",
+        "Electoral districts of Italy",
+        "<B>Italian</B> constituencies"
+      ],
+      "comment": [
+        "This is a list of <B>Italian</B> constituencies from 1946 to present. For the election of the <B>Italian</B>"
+      ],
+      "label": [
+        "List of <B>Italian</B> constituencies"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Italian_constituencies"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chamber_of_Deputies_(Italy)",
+        "http://dbpedia.org/resource/Category:Elections_in_Italy",
+        "http://dbpedia.org/resource/Category:Italy_politics-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_constituencies"
+      ]
+    },
+    {
+      "score": [
+        "2228.871"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Scots"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B>-Scots",
+        "<B>Italian</B> Scot",
+        "<B>Italian</B> Scottish",
+        "Scots-<B>Italian</B>",
+        "Scots <B>Italian</B>",
+        "Scottish-<B>Italian</B>",
+        "Scottish-<B>Italians</B>",
+        "Scottish <B>Italian</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Scots or Scots-<B>Italians</B> are people of <B>Italian</B> descent living in Scotland. These terms may"
+      ],
+      "label": [
+        "<B>Italian</B> Scots"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Scots"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Scotland",
+        "http://dbpedia.org/resource/Category:Immigration_to_Scotland",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Scottish_people_of_Italian_descent"
+      ]
+    },
+    {
+      "score": [
+        "2222.4006"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_in_Italian_football"
+      ],
+      "redirectlabel": [
+        "2015-16 in <B>Italian</B> football"
+      ],
+      "typeName": [
+        "Event"
+      ],
+      "comment": [
+        "The 2015–16 season was the 114th season of competitive football in Italy."
+      ],
+      "label": [
+        "2015–16 in <B>Italian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_in_Italian_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2015_in_association_football",
+        "http://dbpedia.org/resource/Category:2015–16_in_Italian_football",
+        "http://dbpedia.org/resource/Category:2016_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2016_in_association_football",
+        "http://dbpedia.org/resource/Category:Seasons_in_Italian_football"
+      ]
+    },
+    {
+      "score": [
+        "2222.4006"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_in_Italian_football"
+      ],
+      "redirectlabel": [
+        "2018-19 in <B>Italian</B> football"
+      ],
+      "typeName": [
+        "Event"
+      ],
+      "comment": [
+        "The 2018–19 season was the 117th season of competitive football in Italy."
+      ],
+      "label": [
+        "2018–19 in <B>Italian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_in_Italian_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2018_in_association_football",
+        "http://dbpedia.org/resource/Category:2018_sport-related_lists",
+        "http://dbpedia.org/resource/Category:2018–19_in_Italian_football",
+        "http://dbpedia.org/resource/Category:2019_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2019_in_association_football",
+        "http://dbpedia.org/resource/Category:Seasons_in_Italian_football"
+      ]
+    },
+    {
+      "score": [
+        "2222.4006"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016–17_in_Italian_football"
+      ],
+      "redirectlabel": [
+        "2016-17 in <B>Italian</B> football"
+      ],
+      "typeName": [
+        "Event"
+      ],
+      "comment": [
+        "The 2016–17 season is the 115th season of competitive football in Italy."
+      ],
+      "label": [
+        "2016–17 in <B>Italian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016–17_in_Italian_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2016_in_association_football",
+        "http://dbpedia.org/resource/Category:2016–17_in_Italian_football",
+        "http://dbpedia.org/resource/Category:2017_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2017_in_association_football",
+        "http://dbpedia.org/resource/Category:Seasons_in_Italian_football"
+      ]
+    },
+    {
+      "score": [
+        "2222.4006"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_in_Italian_football"
+      ],
+      "redirectlabel": [
+        "2017-18 in <B>Italian</B> football"
+      ],
+      "typeName": [
+        "Event"
+      ],
+      "comment": [
+        "The 2017–18 season was the 116th season of competitive football in Italy."
+      ],
+      "label": [
+        "2017–18 in <B>Italian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_in_Italian_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2017_in_association_football",
+        "http://dbpedia.org/resource/Category:2017–18_in_Italian_football",
+        "http://dbpedia.org/resource/Category:2018_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2018_in_association_football",
+        "http://dbpedia.org/resource/Category:Seasons_in_Italian_football"
+      ]
+    },
+    {
+      "score": [
+        "2202.201"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Championship"
+      ],
+      "redirectlabel": [
+        "Campionato <B>italiano</B>",
+        "<B>Italian</B> Championship (disambiguation)",
+        "<B>Italian</B> Championships",
+        "<B>Italian</B> National Championship",
+        "<B>Italian</B> National Championships",
+        "<B>Italian</B> champion",
+        "<B>Italian</B> championship",
+        "<B>Italian</B> championships",
+        "Italy Championship",
+        "Italy Championships",
+        "Italy National Championship",
+        "Italy National Championships"
+      ],
+      "label": [
+        "<B>Italian</B> Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_championships_in_Italy"
+      ]
+    },
+    {
+      "score": [
+        "2194.096"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pietro_Della_Valle_Italian_School"
+      ],
+      "redirectlabel": [
+        "\"Pietro Della Valle\" <B>Italian</B> School",
+        "\"Pietro Della Valle\" School",
+        "<B>Italian</B> School of Tehran",
+        "Pietro Della Valle School",
+        "Pietro della Valle <B>Italian</B> School",
+        "Pietro della Valle <B>Italian</B> School of Tehran",
+        "Scuola <B>Italiana</B> Di Tehran \"Pietro Della Valle\"",
+        "Scuola <B>Italiana</B> Di Tehran \" Pietro Della Valle \"",
+        "Scuola <B>Italiana</B> Di Tehran Pietro Della Valle",
+        "Scuola <B>Italiana</B> Di Tehran “Pietro Della Valle”",
+        "Scuola <B>Italiana</B> Pietro Della Valle",
+        "Scuola <B>Italiana</B> Pietro della Valle di Teheran",
+        "Scuola <B>Italiana</B> Teheran",
+        "Scuola <B>Italiana</B> Tehran",
+        "Scuola <B>Italiana</B> di Teheran",
+        "Scuola <B>Italiana</B> di Teheran \"Pietro Della Valle\"",
+        "Scuola <B>Italiana</B> di Teheran \"Pietro della Valle\"",
+        "Scuola <B>Italiana</B> di Teheran Pietro Della Valle",
+        "Scuola <B>Italiana</B> di Teheran Pietro della Valle",
+        "Scuola <B>Italiana</B> di Tehran",
+        "Scuola <B>Italiana</B> di Tehran \"Pietro della Valle\"",
+        "Scuola <B>Italiana</B> di Tehran Pietro della Valle",
+        "Scuola <B>Italiana</B> di Tehran “Pietro della Valle”",
+        "Scuola <B>Itliana</B> Tehran",
+        "Scuola <B>italiana</B> \"Pietro Della Valle\"",
+        "Scuola <B>italiana</B> Pietro Della Valle",
+        "Scuola <B>italiana</B> di Teheran Pietro della Valle",
+        "Scuola <B>italiana</B> di Tehran",
+        "Scuola <B>italiana</B> di Tehran Pietro della Valle",
+        "Scuola <B>italiana</B> “Pietro Della Valle”",
+        "Tehran <B>Italian</B> School",
+        "“Pietro Della Valle” <B>Italian</B> School",
+        "“Pietro Della Valle” School"
+      ],
+      "typeName": [
+        "Organisation",
+        "School",
+        "EducationalInstitution",
+        "Agent"
+      ],
+      "comment": [
+        "Pietro della Valle <B>Italian</B> School (<B>Italian</B>: Scuola <B>italiana</B> Pietro Della Valle) (Persian: مدرسه"
+      ],
+      "label": [
+        "Pietro Della Valle <B>Italian</B> School"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pietro_Della_Valle_Italian_School"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/School",
+        "http://dbpedia.org/ontology/EducationalInstitution",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Educational_institutions_with_year_of_establishment_missing",
+        "http://dbpedia.org/resource/Category:High_schools_in_Iran",
+        "http://dbpedia.org/resource/Category:International_schools_in_Tehran",
+        "http://dbpedia.org/resource/Category:Italian_international_schools_in_Iran"
+      ]
+    },
+    {
+      "score": [
+        "2186.9998"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Somalis"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Somali",
+        "<B>Italian</B> Somalians",
+        "<B>Italian</B> language in Somalia",
+        "<B>Italians</B> in Somalia",
+        "Somali <B>Italian</B>",
+        "Somali <B>Italians</B>",
+        "Somalian <B>Italian</B>",
+        "White Somalians",
+        "White Somalis"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Somalis (<B>Italian</B>: Italo-Somali) are Somali descendants from <B>Italian</B> colonists, as well as long-term <B>Italian</B> residents in Somalia."
+      ],
+      "label": [
+        "<B>Italian</B> Somalis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Somalis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Somalia",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_in_Africa",
+        "http://dbpedia.org/resource/Category:Italian_people_of_Somali_descent",
+        "http://dbpedia.org/resource/Category:Italy–Somalia_relations",
+        "http://dbpedia.org/resource/Category:People_of_former_Italian_colonies",
+        "http://dbpedia.org/resource/Category:Somalian_people_of_Italian_descent"
+      ]
+    },
+    {
+      "score": [
+        "2160.6199"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_diaspora"
+      ],
+      "redirectlabel": [
+        "Emigration from Italy",
+        "History of the <B>Italian</B> diaspora",
+        "<B>Italian</B> immigrants",
+        "<B>Italian</B> immigration",
+        "<B>Italians</B> abroad",
+        "<B>Italians</B> in Europe",
+        "<B>Italians</B> in South America",
+        "The <B>Italian</B> diaspora"
+      ],
+      "comment": [
+        "The <B>Italian</B> diaspora is the large-scale emigration of <B>Italians</B> from Italy. There are two major"
+      ],
+      "label": [
+        "<B>Italian</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_diasporas",
+        "http://dbpedia.org/resource/Category:Italian_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2160.4656"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Peninsula"
+      ],
+      "redirectlabel": [
+        "Apenine peninsula",
+        "Apennine Peninsula",
+        "Apennine peninsula",
+        "Appenine peninsula",
+        "<B>Italian</B> mainland",
+        "<B>Italian</B> peninsula",
+        "<B>Italic</B> Peninsula",
+        "Lo Stivale",
+        "Mainland Italy",
+        "Peninsular Italy",
+        "South-Central Europe"
+      ],
+      "comment": [
+        "The <B>Italian</B> Peninsula, also known as <B>Italic</B> Peninsula or Apennine Peninsula, is a peninsula"
+      ],
+      "label": [
+        "<B>Italian</B> Peninsula"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Peninsula"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Geography_of_Southern_Europe",
+        "http://dbpedia.org/resource/Category:Metropolitan_or_continental_parts_of_states",
+        "http://dbpedia.org/resource/Category:Peninsulas_of_Europe",
+        "http://dbpedia.org/resource/Category:Regions_of_Eurasia",
+        "http://dbpedia.org/resource/Category:Regions_of_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2150.7126"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Third_Italian_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "Third <B>Italian</B> Independence War",
+        "Third War of <B>Italian</B> Independence"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Third <B>Italian</B> War of Independence (<B>Italian</B>: Terza Guerra d'Indipendenza <B>Italiana</B>) was a war"
+      ],
+      "label": [
+        "Third <B>Italian</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Third_Italian_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1866_in_Italy",
+        "http://dbpedia.org/resource/Category:1866_in_the_Austrian_Empire",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1866",
+        "http://dbpedia.org/resource/Category:Third_Italian_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Wars_involving_Liechtenstein"
+      ]
+    },
+    {
+      "score": [
+        "2146.5325"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B>-Australian",
+        "<B>Italian</B> Australian",
+        "<B>Italian</B> australian",
+        "<B>Italian</B> australians"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Australians comprise the sixth largest ethnic group in Australia, with the 2016 census"
+      ],
+      "label": [
+        "<B>Italian</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:European_Australian",
+        "http://dbpedia.org/resource/Category:Immigration_to_Australia",
+        "http://dbpedia.org/resource/Category:Italian-Australian_culture",
+        "http://dbpedia.org/resource/Category:Italian_Australian",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2140.2925"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Renaissance_painting"
+      ],
+      "redirectlabel": [
+        "Canonical painting modes of the Renaissance",
+        "<B>Italian</B> Primitives",
+        "<B>Italian</B> Renaissance Painting",
+        "<B>Italian</B> Renaissance art",
+        "<B>Italian</B> Renaissance painter",
+        "<B>Italian</B> primitives",
+        "<B>Italian</B> school",
+        "Proto-Renaissance"
+      ],
+      "comment": [
+        "<B>Italian</B> Renaissance painting is the painting of the period beginning in the late 13th century and"
+      ],
+      "label": [
+        "<B>Italian</B> Renaissance painting"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Renaissance_painting"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_history",
+        "http://dbpedia.org/resource/Category:Italian_Renaissance",
+        "http://dbpedia.org/resource/Category:Italian_Renaissance_painters",
+        "http://dbpedia.org/resource/Category:Renaissance_paintings"
+      ]
+    },
+    {
+      "score": [
+        "2127.7866"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_in_Italian_football"
+      ],
+      "redirectlabel": [
+        "2019-20 in <B>Italian</B> football"
+      ],
+      "comment": [
+        "The 2019–20 season is the 118th season of competitive football in Italy."
+      ],
+      "label": [
+        "2019–20 in <B>Italian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_in_Italian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2019_in_association_football",
+        "http://dbpedia.org/resource/Category:2019_sport-related_lists",
+        "http://dbpedia.org/resource/Category:2019–20_in_Italian_football",
+        "http://dbpedia.org/resource/Category:2020_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2020_in_association_football",
+        "http://dbpedia.org/resource/Category:Seasons_in_Italian_football"
+      ]
+    },
+    {
+      "score": [
+        "2126.092"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_art"
+      ],
+      "redirectlabel": [
+        "Art in Italy",
+        "Art of Italy",
+        "Art of italy",
+        "History of <B>Italian</B> Art",
+        "<B>Italian</B> Art",
+        "<B>Italian</B> contemporary art",
+        "<B>Italian</B> masters",
+        "<B>Italian</B> modern art",
+        "List of art galleries in Italy",
+        "Medieval <B>Italian</B> art",
+        "Visual art of Italy"
+      ],
+      "comment": [
+        " <B>Italian</B> peninsula respectively. The very numerous Rock Drawings in Valcamonica go back to 8,000 BC"
+      ],
+      "label": [
+        "<B>Italian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Arts_in_Italy",
+        "http://dbpedia.org/resource/Category:European_art",
+        "http://dbpedia.org/resource/Category:Italian_art",
+        "http://dbpedia.org/resource/Category:Western_art"
+      ]
+    },
+    {
+      "score": [
+        "2108.3857"
+      ],
+      "refCount": [
+        "45"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Republican_Party"
+      ],
+      "redirectlabel": [
+        "Partito Repubblicano <B>Italiano</B>",
+        "Partito Repubblicato <B>Italiano</B>",
+        "Partito repubblicano (Italy)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Republican Party (<B>Italian</B>: Partito Repubblicano <B>Italiano</B>, PRI) is a liberal and social"
+      ],
+      "label": [
+        "<B>Italian</B> Republican Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Republican_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1895_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Anti-clerical_parties",
+        "http://dbpedia.org/resource/Category:Critics_of_the_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Italian_resistance_movement",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1895",
+        "http://dbpedia.org/resource/Category:Radical_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Republican_parties",
+        "http://dbpedia.org/resource/Category:Social_liberal_parties"
+      ]
+    },
+    {
+      "score": [
+        "2086.916"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Chileans"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B>-Chilean",
+        "<B>Italian</B> Chilean"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Italian</B> Chileans (in Spanish: Italochilenos, <B>Italian</B>: Italo-cileni) are Chileans of full or partly"
+      ],
+      "label": [
+        "<B>Italian</B> Chileans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Chileans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chilean_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:European_Chilean",
+        "http://dbpedia.org/resource/Category:Italian_Chilean",
+        "http://dbpedia.org/resource/Category:Italian_diaspora_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2078.8655"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–15_in_Italian_football"
+      ],
+      "redirectlabel": [
+        "2014-15 in <B>Italian</B> football"
+      ],
+      "typeName": [
+        "Event"
+      ],
+      "comment": [
+        "The 2014–15 season was the 113th season of competitive football in Italy."
+      ],
+      "label": [
+        "2014–15 in <B>Italian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–15_in_Italian_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2014_in_association_football",
+        "http://dbpedia.org/resource/Category:2014–15_in_Italian_football",
+        "http://dbpedia.org/resource/Category:2015_in_Italian_sport",
+        "http://dbpedia.org/resource/Category:2015_in_association_football",
+        "http://dbpedia.org/resource/Category:Seasons_in_Italian_football"
+      ]
+    },
+    {
+      "score": [
+        "2069.3665"
+      ],
+      "refCount": [
+        "153"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italo_disco"
+      ],
+      "redirectlabel": [
+        "Disco italo",
+        "<B>Italian</B> disco",
+        "Italo-Disco",
+        "Italo-disco",
+        "Italo Disco",
+        "Italodisco",
+        "Space Disco",
+        "Space disco",
+        "Spacesynth",
+        "Spaghetti disco"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        ", synthesizers, and occasionally vocoders. It is usually sung in English, and to a lesser extent in <B>Italian</B> and Spanish."
+      ],
+      "label": [
+        "Italo disco"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italo_disco"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_in_music",
+        "http://dbpedia.org/resource/Category:20th-century_music_genres",
+        "http://dbpedia.org/resource/Category:Disco_music_genres",
+        "http://dbpedia.org/resource/Category:Hi-NRG",
+        "http://dbpedia.org/resource/Category:Italian_popular_music",
+        "http://dbpedia.org/resource/Category:Italian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Italo_disco"
+      ]
+    },
+    {
+      "score": [
+        "2067.2476"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_governors_of_the_governorates_of_Italian_East_Africa"
+      ],
+      "redirectlabel": [
+        "Colonial Heads of Addis Ababa",
+        "Colonial Heads of Amhara",
+        "Colonial Heads of Galla-Sidama",
+        "Colonial Heads of Harar",
+        "Colonial Heads of Showa",
+        "Colonial heads of Addis Ababa",
+        "Colonial heads of Amhara",
+        "Colonial heads of Galla-Sidama",
+        "Colonial heads of Harar",
+        "Colonial heads of Showa",
+        "Governor of Addis Ababa",
+        "Governor of Amhara",
+        "Governor of Galla-Sidama",
+        "Governor of Harar",
+        "Governor of Showa",
+        "<B>Italian</B> Governors of Addis Ababa",
+        "<B>Italian</B> Governors of Addis Abeba",
+        "<B>Italian</B> Governors of Amhara",
+        "<B>Italian</B> Governors of Galla-Sidama",
+        "<B>Italian</B> Governors of Galla-Sidamo",
+        "<B>Italian</B> Governors of Harar",
+        "<B>Italian</B> Governors of Scioa",
+        "<B>Italian</B> Governors of Showa",
+        "List of Governors of the Governorates of <B>Italian</B> East Africa",
+        "List of <B>Italian</B> Governors of Addis Ababa",
+        "List of <B>Italian</B> Governors of Amhara",
+        "List of <B>Italian</B> Governors of Galla-Sidamo",
+        "List of <B>Italian</B> Governors of Harar",
+        "List of <B>Italian</B> Governors of Scioa",
+        "List of governors of the Governorates of <B>Italian</B> East Africa"
+      ],
+      "label": [
+        "List of governors of the governorates of <B>Italian</B> East Africa"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_governors_of_the_governorates_of_Italian_East_Africa"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eritrea_history-related_lists",
+        "http://dbpedia.org/resource/Category:Ethiopia_history-related_lists",
+        "http://dbpedia.org/resource/Category:Governorates_of_Italian_East_Africa",
+        "http://dbpedia.org/resource/Category:Italian_Empire-related_lists",
+        "http://dbpedia.org/resource/Category:Italian_colonial_governors_and_administrators",
+        "http://dbpedia.org/resource/Category:Somalia_history-related_lists"
+      ]
+    },
+    {
+      "score": [
+        "2067.019"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Baroque"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> baroque"
+      ],
+      "comment": [
+        "<B>Italian</B> Baroque (or Barocco) is a stylistic period in <B>Italian</B> history and art that spanned from the late 16th century to the early 18th century."
+      ],
+      "label": [
+        "<B>Italian</B> Baroque"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Baroque"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:17th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:18th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:Baroque_art_by_region",
+        "http://dbpedia.org/resource/Category:Early_Modern_Italy",
+        "http://dbpedia.org/resource/Category:Italian_Baroque",
+        "http://dbpedia.org/resource/Category:Italian_art_movements"
+      ]
+    },
+    {
+      "score": [
+        "2057.5806"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_People's_Party_(1919)"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> People's Party (1919-1926)",
+        "<B>Italian</B> People's Party (1919–1926)",
+        "<B>Italian</B> Popular Party",
+        "Partito Popolare <B>Italiano</B> (1919)",
+        "Popolare",
+        "Popolari"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> People's Party (<B>Italian</B>: Partito Popolare <B>Italiano</B>, PPI), sometimes called <B>Italian</B>"
+      ],
+      "label": [
+        "<B>Italian</B> People's Party (1919)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_People's_Party_(1919)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:1926_disestablishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Catholic_political_parties",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Defunct_Christian_political_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Italy",
+        "http://dbpedia.org/resource/Category:Formerly_banned_political_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1926",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1919"
+      ]
+    },
+    {
+      "score": [
+        "2054.362"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_playing_cards"
+      ],
+      "redirectlabel": [
+        "Fante (playing card)",
+        "<B>Italian</B>-suited",
+        "<B>Italian</B>-suited cards",
+        "<B>Italian</B>-suited pack",
+        "<B>Italian</B>-suited packs",
+        "<B>Italian</B>-suited playing cards",
+        "<B>Italian</B> Playing Cards",
+        "<B>Italian</B> cards",
+        "<B>Italian</B> deck",
+        "<B>Italian</B> pack",
+        "<B>Italian</B> suited cards"
+      ],
+      "comment": [
+        " to the development of various regional patterns of playing cards; \"<B>Italian</B> suited cards\" normally"
+      ],
+      "label": [
+        "<B>Italian</B> playing cards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_playing_cards"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Italian_card_games",
+        "http://dbpedia.org/resource/Category:Italian_inventions",
+        "http://dbpedia.org/resource/Category:Playing_card_decks",
+        "http://dbpedia.org/resource/Category:Playing_card_patterns"
+      ]
+    },
+    {
+      "score": [
+        "2031.0306"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Parliament"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> parliament",
+        "List of legislatures of the <B>Italian</B> Republic/Constituent Assembly",
+        "Parlamento <B>Italiano</B>",
+        "Parliament (Italy)",
+        "Parliament of Italy",
+        "Parliament of italy"
+      ],
+      "typeName": [
+        "Organisation",
+        "Legislature",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Parliament (<B>Italian</B>: Parlamento <B>italiano</B>) is the national parliament of the <B>Italian</B>"
+      ],
+      "label": [
+        "<B>Italian</B> Parliament"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Parliament"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Legislature",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1861_establishments_in_Italy",
+        "http://dbpedia.org/resource/Category:Bicameral_legislatures",
+        "http://dbpedia.org/resource/Category:Italian_Parliament",
+        "http://dbpedia.org/resource/Category:Italian_constitutional_institutions",
+        "http://dbpedia.org/resource/Category:National_legislatures",
+        "http://dbpedia.org/resource/Category:Parliaments_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2030.851"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Central_Italian"
+      ],
+      "redirectlabel": [
+        "Central <B>Italian</B> dialect",
+        "Central <B>Italian</B> dialects",
+        "Central <B>Italian</B> language",
+        "Central <B>Italian</B> languages",
+        "<B>Italiano</B> centrale",
+        "<B>Italiano</B> mediano",
+        "Umbro-Romanesco",
+        "Umbro-romanesco"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Central <B>Italian</B> (<B>italiano</B> centrale or mediano) is a group of Italo-Dalmatian Romance lects spoken"
+      ],
+      "label": [
+        "Central <B>Italian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Central_Italian"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dialects_of_Italian"
+      ]
+    },
+    {
+      "score": [
+        "1982.3057"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1961_Italian_Grand_Prix"
+      ],
+      "redirectlabel": [
+        "The 1961 <B>Italian</B> Grand Prix"
+      ],
+      "typeName": [
+        "Event",
+        "GrandPrix",
+        "SportsEvent",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1961 <B>Italian</B> Grand Prix was a Formula One motor race held on 10 September 1961 at Monza. It was"
+      ],
+      "label": [
+        "1961 <B>Italian</B> Grand Prix"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1961_Italian_Grand_Prix"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/GrandPrix",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1961_Formula_One_races",
+        "http://dbpedia.org/resource/Category:1961_in_Italian_motorsport",
+        "http://dbpedia.org/resource/Category:Italian_Grand_Prix"
+      ]
+    },
+    {
+      "score": [
+        "1982.039"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Italian</B> Civil war",
+        "<B>Italian</B> civil war"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Italian</B> Civil War (<B>Italian</B>: Guerra civile <B>italiana</B>) was a civil war in Italy fought by the"
+      ],
+      "label": [
+        "<B>Italian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Italy",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Italian_campaign_(World_War_II)",
+        "http://dbpedia.org/resource/Category:Italy_in_World_War_II"
+      ]
+    }
+  ]
+}

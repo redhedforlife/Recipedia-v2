@@ -1,0 +1,4531 @@
+{
+  "docs": [
+    {
+      "score": [
+        "20020.984"
+      ],
+      "refCount": [
+        "18696"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazil"
+      ],
+      "redirectlabel": [
+        "BRAZIL",
+        "Barzil",
+        "Biodiversity in Brazil",
+        "Brasil",
+        "Brazil (country)",
+        "<B>Brazilian</B> Federative Republic",
+        "<B>Brazilian</B> Republic",
+        "Brazl",
+        "Bresil",
+        "Brzil",
+        "Brésil",
+        "Federal Republic of Brazil",
+        "Federative Republic of Brazil",
+        "Federative republic of Brazil",
+        "ISO 3166-1:BR",
+        "Infrastructure of Brazil",
+        "Political system of Brazil",
+        "Public infrastructure in Brazil",
+        "Republic of Brazil",
+        "Republica Federativa do Brasil",
+        "República Federativa do Brasil"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Brazil (Portuguese: Brasil; Portuguese pronunciation: [bɾaˈziw]), officially the Federative Republic of Brazil (Portuguese: República Federativa do Brasil, ), is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states, the Federal District, and the 5,570 municipalities. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from aro"
+      ],
+      "label": [
+        "Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazil"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:BRICS_nations",
+        "http://dbpedia.org/resource/Category:Brazil",
+        "http://dbpedia.org/resource/Category:Countries_in_South_America",
+        "http://dbpedia.org/resource/Category:E7_nations",
+        "http://dbpedia.org/resource/Category:Federal_constitutional_republics",
+        "http://dbpedia.org/resource/Category:Former_Portuguese_colonies",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:G20_nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_Mercosur",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Community_of_Portuguese_Language_Countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Newly_industrializing_countries",
+        "http://dbpedia.org/resource/Category:Portuguese-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Southern_Cone_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1822"
+      ]
+    },
+    {
+      "score": [
+        "13153.84"
+      ],
+      "refCount": [
+        "2193"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazil_national_football_team"
+      ],
+      "redirectlabel": [
+        "BNFT",
+        "Brasil national football team",
+        "Brazil FC",
+        "Brazil National Football Team",
+        "Brazil football team",
+        "Brazil men's national football team",
+        "Brazil national football team kit",
+        "Brazil national football team kit history",
+        "Brazil national football team kits",
+        "Brazil national soccer team",
+        "Brazil soccer",
+        "Brazil soccer team",
+        "<B>Brazilian</B> Soccer Selection",
+        "<B>Brazilian</B> football national team",
+        "<B>Brazilian</B> football team",
+        "<B>Brazilian</B> men's soccer team",
+        "<B>Brazilian</B> national football team",
+        "<B>Brazilian</B> national soccer team",
+        "<B>Brazilian</B> soccer team",
+        "<B>Brazilian</B> team",
+        "Canarinho",
+        "Selecao",
+        "Seleção",
+        "Top all time goal scoreres in <B>Brazilian</B> national team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " men's international football and Brazil is administered by the <B>Brazilian</B> Football Confederation (CBF"
+      ],
+      "label": [
+        "Brazil national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazil_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazil_national_football_team",
+        "http://dbpedia.org/resource/Category:FIFA_Confederations_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:FIFA_World_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:South_American_national_association_football_teams"
+      ]
+    },
+    {
+      "score": [
+        "9382.521"
+      ],
+      "refCount": [
+        "3682"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Municipalities_of_Brazil"
+      ],
+      "redirectlabel": [
+        "Brasil cidade",
+        "Brasil cidades",
+        "Brasil cities",
+        "Brasil city",
+        "Brazil cities",
+        "Brazil city",
+        "Brazil municipalities",
+        "<B>Brazilian</B> municipalities",
+        "Cidade brasil",
+        "Cidades brasil",
+        "Cities brasil",
+        "Cities brazil",
+        "Cities in brazil",
+        "Cities of Brazil",
+        "City brasil",
+        "City brazil",
+        "List brazil cities",
+        "List <B>brazilian</B> cities",
+        "List of cities, towns and villages in Brazil",
+        "List of cities in brazil",
+        "Municipality (Brazil)"
+      ],
+      "comment": [
+        " <B>Brazilian</B> states. Brazil currently has 5,570 municipalities, which, given the 2019 population"
+      ],
+      "label": [
+        "Municipalities of Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Municipalities_of_Brazil"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_municipalities_in_Brazil",
+        "http://dbpedia.org/resource/Category:Municipalities_of_Brazil",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "9256.01"
+      ],
+      "refCount": [
+        "1608"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Telenovela"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> soap operas",
+        "<B>Brazilian</B> telenovela",
+        "Culebrones",
+        "Hispanic soap opera",
+        "Soap writer",
+        "Spanish soap opera",
+        "Spanish soap operas",
+        "Telenovelas",
+        "Telenovella",
+        "Teleserie",
+        "Teleseries",
+        "Telmundo Novelas"
+      ],
+      "comment": [
+        "A telenovela is a type of a limited-run television serial drama or soap opera produced primarily in Latin America. The word combines tele (for \"television\") and novela (meaning \"novel\"). Similar genres around the world include teleserye (Philippines), dorama (Japan), téléroman (Canada, specifically Quebec), or simply dramas (Asia and the rest of the Arab World). By 2018 some signs of fading popularity had emerged."
+      ],
+      "label": [
+        "Telenovela"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Telenovela"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Soap_operas_by_genre",
+        "http://dbpedia.org/resource/Category:Telenovelas",
+        "http://dbpedia.org/resource/Category:Television_genres"
+      ]
+    },
+    {
+      "score": [
+        "8830.85"
+      ],
+      "refCount": [
+        "1426"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Northeast_Region,_Brazil"
+      ],
+      "redirectlabel": [
+        "Brasil, Nordeste",
+        "Brazil, Northeast",
+        "Brazil, Northeast Region",
+        "<B>Brazilian</B> Northeast",
+        "<B>Brazilian</B> northeast",
+        "Nordeste, Azores Islands",
+        "Nordeste",
+        "Nordeste brasileiro",
+        "Northeast Brazil",
+        "Northeast of Brazil",
+        "Northeastern Brazil"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " and political regions of the country according to the <B>Brazilian</B> Institute of Geography and"
+      ],
+      "label": [
+        "Northeast Region, Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Northeast_Region,_Brazil"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Northeast_Region,_Brazil",
+        "http://dbpedia.org/resource/Category:Regions_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "8238.636"
+      ],
+      "refCount": [
+        "163"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Portuguese"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B>-Portuguese",
+        "<B>Brazilian</B> Portugese",
+        "<B>Brazilian</B> Portuguese Language",
+        "<B>Brazilian</B> Portuguese language",
+        "<B>Brazilian</B> and European Portuguese",
+        "<B>Brazilian</B> and Portuguese varieties",
+        "<B>Brazilian</B> portuguese",
+        "<B>Brazilian</B> portuguese language",
+        "Differences between <B>Brazilian</B> and European Portuguese dialects",
+        "Differences between <B>Brazilian</B> and European Portuguese varieties",
+        "History of <B>Brazilian</B> Portuguese",
+        "ISO 639:pt-BR",
+        "Loanwords in <B>Brazilian</B> Portuguese",
+        "Portugues do Brasil",
+        "Portuguese (Brazil)",
+        "Portuguese language in Brazil",
+        "Portuguese of Brazil",
+        "Português brasileiro",
+        "Português do Brasil",
+        "Pt-BR",
+        "Pt BR"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Brazilian</B> Portuguese (português do Brasil, [poɾtʊˈɡez dʊ bɾaˈziw] or português brasileiro"
+      ],
+      "label": [
+        "<B>Brazilian</B> Portuguese"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Portuguese"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_Portuguese",
+        "http://dbpedia.org/resource/Category:Languages_of_Brazil",
+        "http://dbpedia.org/resource/Category:Portuguese-Brazilian_culture"
+      ]
+    },
+    {
+      "score": [
+        "6705.6025"
+      ],
+      "refCount": [
+        "265"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Amazonas_(Brazilian_state)"
+      ],
+      "redirectlabel": [
+        "Amazonas, Brasil",
+        "Amazonas, Brazil",
+        "Amazonas (Brazil)",
+        "Amazonas (state, Brazil)",
+        "Amazonas State, Brazil",
+        "Amazonas State (Brazil)",
+        "BR-AM",
+        "Climate of Amazonas",
+        "Estado do Amazonas",
+        "Geography of Amazonas (<B>Brazilian</B> state)"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " corner of the country. It is the largest <B>Brazilian</B> state by area and the 9th largest country"
+      ],
+      "label": [
+        "Amazonas (<B>Brazilian</B> state)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Amazonas_(Brazilian_state)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1850_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Amazonas_(Brazilian_state)",
+        "http://dbpedia.org/resource/Category:North_Region,_Brazil",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1850",
+        "http://dbpedia.org/resource/Category:States_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "6406.1284"
+      ],
+      "refCount": [
+        "153"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Social_Democracy_Party"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Social Democratic Party",
+        "Luiz Piauhylino",
+        "PSDB",
+        "Partido da Social Democracia Brasileira",
+        "Party of <B>Brazilian</B> Social Democracy",
+        "Party of the <B>Brazilian</B> Social Democracy",
+        "Party of the <B>Brazilian</B> Social Democracy (PSDB)",
+        "Social Democratic Party of Brazil"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Social Democracy Party (Portuguese: Partido da Social Democracia Brasileira, PSDB"
+      ],
+      "label": [
+        "<B>Brazilian</B> Social Democracy Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Social_Democracy_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Christian_democratic_parties_in_South_America",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Neoliberal_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1988",
+        "http://dbpedia.org/resource/Category:Social_liberal_parties"
+      ]
+    },
+    {
+      "score": [
+        "5590.2534"
+      ],
+      "refCount": [
+        "1175"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Southeast_Region,_Brazil"
+      ],
+      "redirectlabel": [
+        "Brasil, Sudeste",
+        "Brazil, Southeast",
+        "Brazil, Southeast Region",
+        "Brazil Southeast Region",
+        "<B>Brazilian</B> Southeast Region",
+        "Southeast Brazil",
+        "Southeast Region of Brazil",
+        "Southeast brazil",
+        "Southeastern Brazil",
+        "Sudeste"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        ", responsible for approximately 60% of the <B>Brazilian</B> GDP. São Paulo, Rio de Janeiro, and Minas Gerais"
+      ],
+      "label": [
+        "Southeast Region, Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Southeast_Region,_Brazil"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Regions_of_Brazil",
+        "http://dbpedia.org/resource/Category:Southeast_Region,_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "5449.848"
+      ],
+      "refCount": [
+        "136"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilians"
+      ],
+      "redirectlabel": [
+        "<B>Brasilian</B>",
+        "<B>Brazilian</B> People",
+        "<B>Brazilian</B> descent",
+        "<B>Brazilian</B> people",
+        "Genetic studies on <B>Brazilians</B>",
+        "People of Brazil"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Brazilians</B> (brasileiros in Portuguese, IPA: [bɾaziˈlejɾus]) are citizens of Brazil. A <B>Brazilian</B> can"
+      ],
+      "label": [
+        "<B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:South_American_people_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "4705.5938"
+      ],
+      "refCount": [
+        "99"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Democratic_Movement"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Democratic Movement Party",
+        "Democratic Movement Party",
+        "Hamilton Barros",
+        "Movimento Democrático Brasileiro",
+        "PMBD",
+        "PMDB",
+        "Partido do Movimento Democratico Brasileiro",
+        "Partido do Movimento Democrático Brasileiro",
+        "Party of the <B>Brazilian</B> Democratic Movement",
+        "Paulo Duque",
+        "Régis Fichtner"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Democratic Movement (Portuguese: Movimento Democrático Brasileiro, MDB) is a <B>Brazilian</B> centrist political party."
+      ],
+      "label": [
+        "<B>Brazilian</B> Democratic Movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Democratic_Movement"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1981_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Centre-right_parties",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1981",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "4665.7773"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Army"
+      ],
+      "redirectlabel": [
+        "Army of Brazil",
+        "Brazil Army",
+        "<B>Brazilian</B> army",
+        "Exército Brasileiro",
+        "History of the <B>Brazilian</B> Army",
+        "Indigenous people in the <B>Brazilian</B> Army",
+        "National Guard (Brazil)"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Army (Portuguese: Exército Brasileiro) is the land arm of the <B>Brazilian</B> Armed Forces"
+      ],
+      "label": [
+        "<B>Brazilian</B> Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1822_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Armies_by_country",
+        "http://dbpedia.org/resource/Category:Brazilian_Army",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1822"
+      ]
+    },
+    {
+      "score": [
+        "4640.6084"
+      ],
+      "refCount": [
+        "71"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Labour_Party_(current)"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Labor Party (current)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Labour Party (Portuguese: Partido Trabalhista Brasileiro, PTB) is a political party"
+      ],
+      "label": [
+        "<B>Brazilian</B> Labour Party (current)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Labour_Party_(current)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1981_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Centrist_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Civic_nationalism",
+        "http://dbpedia.org/resource/Category:Federalist_parties",
+        "http://dbpedia.org/resource/Category:Labour_parties",
+        "http://dbpedia.org/resource/Category:Liberal_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1981",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Populist_parties",
+        "http://dbpedia.org/resource/Category:Vargas_Era"
+      ]
+    },
+    {
+      "score": [
+        "4420.3276"
+      ],
+      "refCount": [
+        "1505"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Time_in_Brazil"
+      ],
+      "redirectlabel": [
+        "Acre Time",
+        "Amazon Standard Time",
+        "Amazon Summer Time",
+        "Amazon Time",
+        "America/Araguaina",
+        "America/Bahia",
+        "America/Belem",
+        "America/Boa Vista",
+        "America/Campo Grande",
+        "America/Cuiaba",
+        "America/Eirunepe",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Manaus",
+        "America/Noronha",
+        "America/Porto Velho",
+        "America/Recife",
+        "America/Rio Branco",
+        "America/Santarem",
+        "America/Sao Paulo",
+        "Bahia Daylight Time",
+        "Bahia Standard Time",
+        "<B>Brasilia</B> Time",
+        "Brasília Summer Time",
+        "Brasília Time",
+        "Brasília time",
+        "Brazil time",
+        "Brazil time zones",
+        "Central <B>Brazilian</B> Daylight Time",
+        "Central <B>Brazilian</B> Standard Time",
+        "Fernando de Noronha Time",
+        "Time zones in Brazil",
+        "Tocantins Daylight Time",
+        "Tocantins Standard Time"
+      ],
+      "comment": [
+        "Time in Brazil is calculated using standard time, and the country (including its offshore islands) is divided into four standard time zones: UTC−02:00, UTC−03:00, UTC−04:00 and UTC−05:00."
+      ],
+      "label": [
+        "Time in Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Time_in_Brazil"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Time_in_Brazil",
+        "http://dbpedia.org/resource/Category:Time_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "4017.0388"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_jiu-jitsu"
+      ],
+      "redirectlabel": [
+        "BJJ",
+        "Bjj",
+        "<B>Brazilian</B>-jiu-jitsu",
+        "<B>Brazilian</B> Jiu-Jitsu",
+        "<B>Brazilian</B> Jiu-Jitsu training",
+        "<B>Brazilian</B> Jiu-Jutsu",
+        "<B>Brazilian</B> Jiu-jitsu",
+        "<B>Brazilian</B> JiuJitsu",
+        "<B>Brazilian</B> Jiu Jitsu",
+        "<B>Brazilian</B> Jiu Jitus",
+        "<B>Brazilian</B> Jiu Jiutsu",
+        "<B>Brazilian</B> Jiu jitsu",
+        "<B>Brazilian</B> Jiujitsu",
+        "<B>Brazilian</B> Ju-Jitsu",
+        "<B>Brazilian</B> Ju-Jutsu",
+        "<B>Brazilian</B> Jui Jitsu",
+        "<B>Brazilian</B> Jujitsu",
+        "<B>Brazilian</B> Jujutsu",
+        "<B>Brazilian</B> jiu-jitsuka",
+        "<B>Brazilian</B> jiu jitsu",
+        "<B>Brazilian</B> jiujitsu",
+        "<B>Brazilian</B> jujutsu",
+        "<B>Brazillian</B> Jiu-jitsu",
+        "<B>Brazillian</B> Jiu Jitsu",
+        "<B>Brazillian</B> Jiu Jiutsu",
+        "<B>Brazillian</B> jiujitsu",
+        "<B>Brazillian</B> jujitsu",
+        "GJJ",
+        "Gastao Gracie",
+        "Gracie Jiu-Jitsu",
+        "Gracie Jiu Jitsu",
+        "Gracie jiu-jitsu",
+        "Jiu-jitsu brasileiro"
+      ],
+      "comment": [
+        "<B>Brazilian</B> jiu-jitsu (; Portuguese: [ˈʒiw ˈʒit(i)su], [ˈʒu ˈʒit(i)su], [dʒiˈu dʒit(i)ˈsu]) (BJJ"
+      ],
+      "label": [
+        "<B>Brazilian</B> jiu-jitsu"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_jiu-jitsu"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Brazilian_jiu-jitsu",
+        "http://dbpedia.org/resource/Category:Brazilian_martial_arts",
+        "http://dbpedia.org/resource/Category:Combat_sports",
+        "http://dbpedia.org/resource/Category:Jujutsu",
+        "http://dbpedia.org/resource/Category:Mixed_martial_arts_styles",
+        "http://dbpedia.org/resource/Category:Sports_originating_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "3554.4863"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Navy"
+      ],
+      "redirectlabel": [
+        "Brazil Navy",
+        "<B>Brazilian</B> Navy Hydrographic Center",
+        "<B>Brazilian</B> navy",
+        "History of the <B>Brazilian</B> Navy",
+        "Marinha do Brasil",
+        "Navy of Brazil"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Navy (Portuguese: Marinha do Brasil) is the naval service branch of the <B>Brazilian</B>"
+      ],
+      "label": [
+        "<B>Brazilian</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_Navy"
+      ]
+    },
+    {
+      "score": [
+        "3451.7239"
+      ],
+      "refCount": [
+        "167"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Música_popular_brasileira"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Popular Music",
+        "<B>Brazilian</B> popular music",
+        "MPB: <B>Brazilian</B> popular music",
+        "MPB (Música Popular Brasileira)",
+        "Musica Popular Brasileira",
+        "Musica Popular Brasiliera",
+        "Musica popular brasileira",
+        "Música Popular Brasileira",
+        "Música popular Brasileira"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        " <B>Brazilian</B> Music) or MPB is a trend in post-bossa nova urban popular music in Brazil that revisits typical"
+      ],
+      "label": [
+        "Música popular brasileira"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Música_popular_brasileira"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Música_Popular_Brasileira",
+        "http://dbpedia.org/resource/Category:Popular_music_by_country"
+      ]
+    },
+    {
+      "score": [
+        "3335.5715"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_rock"
+      ],
+      "redirectlabel": [
+        "1959 in <B>Brazilian</B> rock and roll",
+        "1959 pioneers of the <B>Brazilian</B> rock and roll",
+        "<B>Brazilian</B> rock music",
+        "Iê-iê-iê",
+        "The pioneers of <B>Brazilian</B> rock and roll 1959"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "<B>Brazilian</B> rock refers to rock music produced in Brazil and usually sung in Portuguese. In the 1960s"
+      ],
+      "label": [
+        "<B>Brazilian</B> rock"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_rock"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_rock_music",
+        "http://dbpedia.org/resource/Category:Brazilian_styles_of_music"
+      ]
+    },
+    {
+      "score": [
+        "2985.1843"
+      ],
+      "refCount": [
+        "406"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/South_Region,_Brazil"
+      ],
+      "redirectlabel": [
+        "Brasil, Sul",
+        "Brazil, South",
+        "Brazil, South Region",
+        "Brazil Southern Region",
+        "<B>Brazilian</B> Southern Region",
+        "South Brazil",
+        "Southern Brazil",
+        "Southern Region, Brazil",
+        "United States of South Brazil"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        "The South Region of Brazil (Portuguese: Região Sul do Brasil) is one of the five regions of Brazil. It includes the states of Paraná, Santa Catarina and Rio Grande do Sul and covers 576,409.6 square kilometres (222,553.0 sq mi), being the smallest portion of the country, occupying only about 6.76% of the territory of Brazil. Its whole area is smaller than that of the state of Minas Gerais, in Southeast Brazil, for example.It is a great tourist, economic and cultural pole.It borders Uruguay, Argentina, and Paraguay as well as the Centre-West Region, the Southeast Region and the Atlantic Ocean. The region is considered the safest in Brazil to visit, having a lower crime rate than other regions in the country."
+      ],
+      "label": [
+        "South Region, Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/South_Region,_Brazil"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Proposed_countries",
+        "http://dbpedia.org/resource/Category:Regions_of_Brazil",
+        "http://dbpedia.org/resource/Category:South_Region,_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2962.7097"
+      ],
+      "refCount": [
+        "102"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_A"
+      ],
+      "redirectlabel": [
+        "Brasileirao",
+        "Brasileirão",
+        "Brasilerião",
+        "<B>Brazilian</B> Championship",
+        "<B>Brazilian</B> Serie A",
+        "<B>Brazilian</B> Série A",
+        "<B>Brazilian</B> highest football division",
+        "Campeonato Brasileiro Serie A",
+        "Campeonato Brasileiro da Série A",
+        "Liga do Brasil",
+        "Série A",
+        "Taça de Ouro"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Campeonato Brasileiro Série A (<B>Brazilian</B> Portuguese: [kãmpjoˈnatu braziˈlejɾu ˈsɛɾii ˈa"
+      ],
+      "label": [
+        "Campeonato Brasileiro Série A"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_A"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_(football)",
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_Série_A",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:National_championships_in_Brazil",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1959",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1971",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2929.1829"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_cuisine"
+      ],
+      "redirectlabel": [
+        "Brazil cuisine",
+        "<B>Brazilian</B> Cuisine",
+        "<B>Brazilian</B> desserts",
+        "<B>Brazilian</B> food",
+        "<B>Brazilian</B> gastronomy",
+        "Cuisine of Acre (state)",
+        "Cuisine of Alagoas",
+        "Cuisine of Amapá",
+        "Cuisine of Amazonas (<B>Brazilian</B> state)",
+        "Cuisine of Bahia",
+        "Cuisine of Brazil",
+        "Cuisine of Ceará",
+        "Cuisine of Espírito Santo",
+        "Cuisine of Goiás",
+        "Cuisine of Maranhão",
+        "Cuisine of Mato Grosso",
+        "Cuisine of Mato Grosso do Sul",
+        "Cuisine of Minas Gerais",
+        "Cuisine of Paraná (state)",
+        "Cuisine of Paraíba",
+        "Cuisine of Pernambuco",
+        "Cuisine of Piauí",
+        "Cuisine of Rio Grande do Norte",
+        "Cuisine of Rio Grande do Sul",
+        "Cuisine of Rio de Janeiro (state)",
+        "Cuisine of Rondônia",
+        "Cuisine of Roraima",
+        "Cuisine of Santa Catarina (state)",
+        "Cuisine of Sergipe",
+        "Cuisine of São Paulo (state)",
+        "Cuisine of Tocantins",
+        "Food of Brazil",
+        "Regional cuisines of Brazil"
+      ],
+      "comment": [
+        "<B>Brazilian</B> cuisine  is the set of cooking practices and traditions of Brazil, and is characterized"
+      ],
+      "label": [
+        "<B>Brazilian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_cuisine",
+        "http://dbpedia.org/resource/Category:Latin_American_cuisine",
+        "http://dbpedia.org/resource/Category:South_American_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2928.0068"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of Brazil",
+        "<B>Brasilian</B> Air Force",
+        "Brazil Air Force",
+        "Brazil air force",
+        "<B>Brazilian</B> Airforce",
+        "<B>Brazillian</B> Air Force",
+        "COMAer",
+        "FORCA AEREA BRASILEIRA",
+        "FORÇA AÉREA BRASILEIRA",
+        "Forca Aerea Brasileira",
+        "Força Aérea Brasileira",
+        "History of the <B>Brazilian</B> Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Air Force (Portuguese: Força Aérea Brasileira, FAB) is the air branch of the"
+      ],
+      "label": [
+        "<B>Brazilian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1941"
+      ]
+    },
+    {
+      "score": [
+        "2926.7722"
+      ],
+      "refCount": [
+        "228"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Federal_District_(Brazil)"
+      ],
+      "redirectlabel": [
+        "BR-DF",
+        "BR DF",
+        "<B>Brasilia</B> Distrito Federal",
+        "<B>Brazilian</B> Federal District",
+        "Distrito Federal, Brazil",
+        "Distrito Federal (Brazil)",
+        "Federal District of Brazil"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Location",
+        "Region"
+      ],
+      "comment": [
+        " federative units of Brazil. Located in the Center-West Region, it is the smallest <B>Brazilian</B> federal unit and"
+      ],
+      "label": [
+        "Federal District (Brazil)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Federal_District_(Brazil)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Capital_districts_and_territories",
+        "http://dbpedia.org/resource/Category:Federal_District_(Brazil)",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1960",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1960",
+        "http://dbpedia.org/resource/Category:States_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2799.0547"
+      ],
+      "refCount": [
+        "104"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Socialist_Party"
+      ],
+      "redirectlabel": [
+        "Beto Albuquerque",
+        "Domingos Leonelli",
+        "Jamil Haddad",
+        "Partido Socialista Brasileiro",
+        "Roberto Amaral (politician)",
+        "Roberto França",
+        "Sinval Palmeira"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Socialist Party (Portuguese: Partido Socialista Brasileiro, PSB) is a political party"
+      ],
+      "label": [
+        "<B>Brazilian</B> Socialist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Socialist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1947_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1947",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2775.0452"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_jazz"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Jazz",
+        "Jazz in Brazil"
+      ],
+      "comment": [
+        "<B>Brazilian</B> Jazz can refer to both a genre, largely influenced by bossa nova and samba, that exists"
+      ],
+      "label": [
+        "<B>Brazilian</B> jazz"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_jazz"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_jazz",
+        "http://dbpedia.org/resource/Category:Brazilian_music"
+      ]
+    },
+    {
+      "score": [
+        "2757.7766"
+      ],
+      "refCount": [
+        "121"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_D"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Série D",
+        "Campeonato Brasileiro Serie D",
+        "Série D"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Campeonato Brasileiro Série D is the fourth tier of the <B>Brazilian</B> Football League, and was"
+      ],
+      "label": [
+        "Campeonato Brasileiro Série D"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_D"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_(football)",
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_Série_D",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Fourth_level_football_leagues_of_South_America",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2637.5647"
+      ],
+      "refCount": [
+        "187"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Bossa_nova"
+      ],
+      "redirectlabel": [
+        "Bosa nova",
+        "Bossa",
+        "Bossa Nova",
+        "Bossa Nova (dance)",
+        "Bossa groove",
+        "Bossa nova (dance)",
+        "Bossanova",
+        "<B>Brazilian</B> bossa nova"
+      ],
+      "typeName": [
+        "MusicGenre",
+        "TopicalConcept",
+        "Genre"
+      ],
+      "comment": [
+        "Bossa nova is a style of <B>Brazilian</B> music, which was developed and popularized in the 1950s and"
+      ],
+      "label": [
+        "Bossa nova"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Bossa_nova"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/MusicGenre",
+        "http://dbpedia.org/ontology/TopicalConcept",
+        "http://dbpedia.org/ontology/Genre"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Latin_music",
+        "http://dbpedia.org/resource/Category:Bossa_nova",
+        "http://dbpedia.org/resource/Category:Brazilian_music",
+        "http://dbpedia.org/resource/Category:Brazilian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Lusophone_music",
+        "http://dbpedia.org/resource/Category:Portuguese_words_and_phrases",
+        "http://dbpedia.org/resource/Category:Samba_music_genres"
+      ]
+    },
+    {
+      "score": [
+        "2635.7583"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_nationality_law"
+      ],
+      "redirectlabel": [
+        "Brazil citizenship",
+        "Brazil nationality law",
+        "<B>Brazilian</B> Citizenship",
+        "<B>Brazilian</B> citizen",
+        "<B>Brazilian</B> citizens",
+        "<B>Brazilian</B> citizenship",
+        "Citizenship law of Brazil",
+        "History of <B>Brazilian</B> nationality law"
+      ],
+      "comment": [
+        "<B>Brazilian</B> nationality law is based on both the principles of jus soli and of jus sanguinis. As a"
+      ],
+      "label": [
+        "<B>Brazilian</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "2620.3472"
+      ],
+      "refCount": [
+        "171"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Workers'_Party_(Brazil)"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Worker's Party",
+        "<B>Brazilian</B> Workers Party",
+        "Eva Chiavon",
+        "Geraldo Cândido",
+        "Labour Party (Brazil)",
+        "Luiz Dulci",
+        "Partido dos Trabalhadores",
+        "Worker's Party (Brazil)",
+        "Worker's Party of Brazil",
+        "Workers Party (Brazil)",
+        "Workers’ Party (Brazil)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The Workers' Party (Portuguese: Partido dos Trabalhadores, PT) is a political party in Brazil. Some scholars classify its ideology as social democracy. Founded in 1980, it is one of the largest parties in Latin America. PT governed at the federal level in a coalition government with several other parties from 1 January 2003 to 31 August 2016. After the 2002 parliamentary election, PT became the largest party in the Chamber of Deputies and the largest in the Federal Senate for the first time With the highest approval rating in the history of the country, former President Luiz Inácio Lula da Silva is PT's most prominent member. His successor Dilma Rousseff, also a member of PT, took office on 1 January 2011 and was impeached in 2016."
+      ],
+      "label": [
+        "Workers' Party (Brazil)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Workers'_Party_(Brazil)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_South_America",
+        "http://dbpedia.org/resource/Category:Democratic_socialist_parties_in_South_America",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1980",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Workers'_Party_(Brazil)"
+      ]
+    },
+    {
+      "score": [
+        "2578.1687"
+      ],
+      "refCount": [
+        "176"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Empire_of_Brazil"
+      ],
+      "redirectlabel": [
+        "Brazil Empire",
+        "<B>Brazilian</B> Empire",
+        "<B>Brazilian</B> empire",
+        "<B>Brazillian</B> Empire",
+        "Council of State of the Empire of Brazil",
+        "Empire of brazil",
+        "Imperial Brazil",
+        "Independent Kingdom of Brazil",
+        "List of the Emperors of Brazil",
+        "Moderate Party (Brazil)",
+        "Restorationist Party",
+        "The Empire of Brazil"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " himself and his government in the <B>Brazilian</B> city of Rio de Janeiro. João VI later returned to Portugal"
+      ],
+      "label": [
+        "Empire of Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Empire_of_Brazil"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1822_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:1889_disestablishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:19th_century_in_Brazil",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Empire_of_Brazil",
+        "http://dbpedia.org/resource/Category:Former_empires_in_the_Americas",
+        "http://dbpedia.org/resource/Category:Former_monarchies",
+        "http://dbpedia.org/resource/Category:Irredentism",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1889",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1822"
+      ]
+    },
+    {
+      "score": [
+        "2511.553"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Afro-Brazilians"
+      ],
+      "redirectlabel": [
+        "African-<B>Brazilian</B>",
+        "African-<B>Brazilians</B>",
+        "African <B>Brazilian</B>",
+        "African <B>Brazilians</B>",
+        "Afro-Brazil",
+        "Afro-<B>Brazilian</B>",
+        "Afro-<B>Brazilian</B> Culture",
+        "Afro-<B>Brazilian</B> Literature",
+        "Afro-<B>Brazilian</B> cuisine",
+        "Afro-<B>Brazillian</B>",
+        "Afro <B>Brazilian</B>",
+        "Afro <B>Brazilians</B>",
+        "Black <B>Brazilian</B>",
+        "Black <B>Brazilian</B> people",
+        "Black <B>Brazilians</B>",
+        "<B>Brazilian</B> Black people",
+        "<B>Brazilian</B> Blacks",
+        "<B>Brazilian</B> black people",
+        "<B>Brazilian</B> blacks",
+        "Genetic studies of Afro-<B>Brazilians</B>",
+        "History of Afro-<B>Brazilians</B>",
+        "List of Afro-<B>Brazilians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Afro-<B>Brazilians</B> (Portuguese: afro-brasileiros; Portuguese pronunciation: [ˈafɾu bɾɐziˈle(j)ɾuz"
+      ],
+      "label": [
+        "Afro-<B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Afro-Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Afro-Brazilian",
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_African_descent",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:People_of_African_descent",
+        "http://dbpedia.org/resource/Category:Race_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2461.6226"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_real"
+      ],
+      "redirectlabel": [
+        "BRL",
+        "Brazil currency",
+        "Brazil real",
+        "<B>Brazilian</B> Real",
+        "<B>Brazilian</B> Reals",
+        "<B>Brazilian</B> reais",
+        "Commemorative banknotes of the <B>Brazilian</B> real",
+        "ISO 4217:BRL",
+        "Reai",
+        "Reais"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> real (; Portuguese: real, pl. reais; sign: R$; code: BRL) is the official currency of"
+      ],
+      "label": [
+        "<B>Brazilian</B> real"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_real"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Circulating_currencies",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1994",
+        "http://dbpedia.org/resource/Category:Currencies_of_Brazil",
+        "http://dbpedia.org/resource/Category:Currencies_of_South_America",
+        "http://dbpedia.org/resource/Category:Currency_symbols"
+      ]
+    },
+    {
+      "score": [
+        "2413.4543"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Carnival"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Carnaval",
+        "<B>Brazilian</B> Festival",
+        "<B>Brazilian</B> Street Carnaval",
+        "<B>Brazilian</B> Street Carnival",
+        "<B>Brazilian</B> canaval",
+        "<B>Brazilian</B> carnaval",
+        "<B>Brazilian</B> carnival",
+        "Carnaval brasileiro",
+        "Carnaval do Brasil",
+        "Carnival in Brazil",
+        "Samba Carnival",
+        "Samban Carnival"
+      ],
+      "comment": [
+        "The Carnival of Brazil (Portuguese: Carnaval do Brasil, IPA: [kaʁnaˈvaw]) is an annual <B>Brazilian</B>"
+      ],
+      "label": [
+        "<B>Brazilian</B> Carnival"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Carnival"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_Carnival"
+      ]
+    },
+    {
+      "score": [
+        "2392.4807"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Americans"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B>-American",
+        "<B>Brazilian</B>-Americans",
+        "<B>Brazilian</B> American",
+        "<B>Brazilian</B> Americans in Los Angeles",
+        "<B>Brazilian</B> immigrants in the United States",
+        "<B>Brazilians</B> in the United States",
+        "History of <B>Brazilian</B> Americans",
+        "Immigration from Brazil to the United States",
+        "List of <B>Brazilian</B>-American communities",
+        "Socioeconomic status of <B>Brazilian</B> Americans",
+        "Stereotypes of <B>Brazilian</B> Americans"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Brazilian</B> Americans (Portuguese: brasileiros-americanos, norte-americanos de origem brasileira or"
+      ],
+      "label": [
+        "<B>Brazilian</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Brazilian_descent",
+        "http://dbpedia.org/resource/Category:Brazilian-American_history",
+        "http://dbpedia.org/resource/Category:Brazilian_American",
+        "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American",
+        "http://dbpedia.org/resource/Category:Multiracial_ethnic_groups_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2346.2322"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ronaldo_(Brazilian_footballer)"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Ronaldo",
+        "International goals scored by Ronaldo",
+        "List of international goals scored by Ronaldo",
+        "Luis Nazario Ronaldo",
+        "Luiz Nazario Ronaldo",
+        "O Fenômeno",
+        "Originaldo",
+        "R9 Ronaldo",
+        "Ronaldo (footballer, born 1976)",
+        "Ronaldo Fenômeno",
+        "Ronaldo Luis Nazário de Lima",
+        "Ronaldo Luiz Nazario",
+        "Ronaldo Luiz Nazario de Lima",
+        "Ronaldo Luiz Nazário de Lima",
+        "Ronaldo Luís Nazario de Lima",
+        "Ronaldo Luís Nazário de Lima",
+        "Ronaldo Luíz Nazário de Lima",
+        "Ronaldo Nazario",
+        "Ronaldo Nazário",
+        "Ronaldo Nazário de Lima",
+        "Ronaldo Názario",
+        "Ronaldo de Lima"
+      ],
+      "typeName": [
+        "Person",
+        "Athlete",
+        "SoccerPlayer",
+        "Agent"
+      ],
+      "comment": [
+        "Ronaldo Luís Nazário de Lima (<B>Brazilian</B> Portuguese: [ʁoˈnawdu ˈlwis nɐˈzaɾju dʒi ˈɫĩmɐ]; born 18"
+      ],
+      "label": [
+        "Ronaldo (<B>Brazilian</B> footballer)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ronaldo_(Brazilian_footballer)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Athlete",
+        "http://dbpedia.org/ontology/SoccerPlayer",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1976_births",
+        "http://dbpedia.org/resource/Category:1994_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:1995_Copa_América_players",
+        "http://dbpedia.org/resource/Category:1997_Copa_América_players",
+        "http://dbpedia.org/resource/Category:1997_FIFA_Confederations_Cup_players",
+        "http://dbpedia.org/resource/Category:1998_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:1999_Copa_América_players",
+        "http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players",
+        "http://dbpedia.org/resource/Category:A.C._Milan_players",
+        "http://dbpedia.org/resource/Category:A1_Grand_Prix_team_owners",
+        "http://dbpedia.org/resource/Category:Afro-Brazilian_sportspeople",
+        "http://dbpedia.org/resource/Category:Association_football_forwards",
+        "http://dbpedia.org/resource/Category:BBC_Sports_Personality_World_Sport_Star_of_the_Year_winners",
+        "http://dbpedia.org/resource/Category:Ballon_d'Or_winners",
+        "http://dbpedia.org/resource/Category:Brazil_international_footballers",
+        "http://dbpedia.org/resource/Category:Brazil_youth_international_footballers",
+        "http://dbpedia.org/resource/Category:Brazilian_Roman_Catholics",
+        "http://dbpedia.org/resource/Category:Brazilian_emigrants_to_Spain",
+        "http://dbpedia.org/resource/Category:Brazilian_expatriate_footballers",
+        "http://dbpedia.org/resource/Category:Brazilian_expatriate_sportspeople_in_Italy",
+        "http://dbpedia.org/resource/Category:Brazilian_expatriate_sportspeople_in_Spain",
+        "http://dbpedia.org/resource/Category:Brazilian_expatriate_sportspeople_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:Brazilian_footballers",
+        "http://dbpedia.org/resource/Category:Copa_América-winning_players",
+        "http://dbpedia.org/resource/Category:Cruzeiro_Esporte_Clube_players",
+        "http://dbpedia.org/resource/Category:Eredivisie_players",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Italy",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_Spain",
+        "http://dbpedia.org/resource/Category:Expatriate_footballers_in_the_Netherlands",
+        "http://dbpedia.org/resource/Category:FC_Barcelona_players",
+        "http://dbpedia.org/resource/Category:FIFA_100",
+        "http://dbpedia.org/resource/Category:FIFA_Confederations_Cup-winning_players",
+        "http://dbpedia.org/resource/Category:FIFA_World_Cup-winning_players",
+        "http://dbpedia.org/resource/Category:FIFA_World_Player_of_the_Year_winners",
+        "http://dbpedia.org/resource/Category:Footballers_at_the_1996_Summer_Olympics",
+        "http://dbpedia.org/resource/Category:Footballers_from_Rio_de_Janeiro_(city)",
+        "http://dbpedia.org/resource/Category:Inter_Milan_players",
+        "http://dbpedia.org/resource/Category:La_Liga_players",
+        "http://dbpedia.org/resource/Category:Laureus_World_Sports_Awards_winners",
+        "http://dbpedia.org/resource/Category:Living_people",
+        "http://dbpedia.org/resource/Category:Medalists_at_the_1996_Summer_Olympics",
+        "http://dbpedia.org/resource/Category:Naturalised_citizens_of_Spain",
+        "http://dbpedia.org/resource/Category:North_American_Soccer_League_executives",
+        "http://dbpedia.org/resource/Category:Olympic_bronze_medalists_for_Brazil",
+        "http://dbpedia.org/resource/Category:Olympic_footballers_of_Brazil",
+        "http://dbpedia.org/resource/Category:Olympic_medalists_in_football",
+        "http://dbpedia.org/resource/Category:PSV_Eindhoven_players",
+        "http://dbpedia.org/resource/Category:Pichichi_Trophy_winners",
+        "http://dbpedia.org/resource/Category:Real_Madrid_CF_players",
+        "http://dbpedia.org/resource/Category:Serie_A_players",
+        "http://dbpedia.org/resource/Category:Sport_Club_Corinthians_Paulista_players",
+        "http://dbpedia.org/resource/Category:UEFA_Cup_winning_players",
+        "http://dbpedia.org/resource/Category:UEFA_Men's_Player_of_the_Year_Award_winners",
+        "http://dbpedia.org/resource/Category:World_Soccer_Magazine_World_Player_of_the_Year_winners"
+      ]
+    },
+    {
+      "score": [
+        "2337.2324"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_imperial_family"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Imperial Family",
+        "<B>Brazilian</B> Imperial House",
+        "<B>Brazilian</B> Royal Family",
+        "Head of the Imperial House of Brazil",
+        "House of Brazil",
+        "House of Orleans-Bragança",
+        "House of Orléans-Bragança",
+        "Imperial Family of Brazil",
+        "Imperial House of Brazil",
+        "List of Heads of the <B>Brazilian</B> Imperial House",
+        "List of heads of the <B>Brazilian</B> Imperial House",
+        "Orleans-Braganca",
+        "Orleans-Braganza",
+        "Orleans-Bragança",
+        "Orleans and Braganza",
+        "Orléans-Braganza",
+        "Prince of Orleans-Braganza",
+        "Prince of Orleans & Braganca",
+        "Prince of Orleans & Bragança",
+        "Princess of Grao Para",
+        "Princess of Orleans-Braganza",
+        "Royal Family of Brazil",
+        "Royal family of Brazil"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Imperial Family is a branch of the Portuguese Royal House of Braganza that ruled the"
+      ],
+      "label": [
+        "<B>Brazilian</B> imperial family"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_imperial_family"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1822_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Brazil_history-related_lists",
+        "http://dbpedia.org/resource/Category:Brazilian_monarchy",
+        "http://dbpedia.org/resource/Category:Brazilian_royalty",
+        "http://dbpedia.org/resource/Category:Royal_families_of_the_Americas"
+      ]
+    },
+    {
+      "score": [
+        "2333.06"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> nationalist",
+        "History of <B>Brazilian</B> nationalism"
+      ],
+      "comment": [
+        "<B>Brazilian</B> nationalism refers to the nationalism of <B>Brazilian</B> people and <B>Brazilian</B> culture. It"
+      ],
+      "label": [
+        "<B>Brazilian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_nationalism"
+      ]
+    },
+    {
+      "score": [
+        "2283.5796"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1964_Brazilian_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1964 Brazil coup d'état",
+        "1964 <B>Brazilian</B> coup d'etat",
+        "1964 Revolution",
+        "<B>Brazilian</B> 1964 Revolution",
+        "<B>Brazilian</B> 1964 coup d'etat",
+        "<B>Brazilian</B> 1964 coup d'état",
+        "<B>Brazilian</B> coup d'etat of 1964",
+        "<B>Brazilian</B> coup d'état of 1964",
+        "<B>Brazilian</B> military coup of 1964",
+        "CIA activities in Brazil",
+        "Cia activities in brazil",
+        "Foreign involvement in the 1964 <B>Brazilian</B> coup d'état",
+        "Golpe de 64",
+        "Golpe de estado no Brasil em 1964",
+        "Military coup d'etat of 1964",
+        "Military coup d'etat of 1964 (Brazil)",
+        "Military coup d'état of 1964 (Brazil)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1964 <B>Brazilian</B> coup d'état (Portuguese: Golpe de estado no Brasil em 1964 or, more colloquially"
+      ],
+      "label": [
+        "1964 <B>Brazilian</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1964_Brazilian_coup_d'état"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1964_in_Brazil",
+        "http://dbpedia.org/resource/Category:April_1964_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Brazil–United_States_relations",
+        "http://dbpedia.org/resource/Category:CIA_activities_in_the_Americas",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Cold_War_in_Latin_America",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1964",
+        "http://dbpedia.org/resource/Category:History_of_the_foreign_relations_of_the_United_States",
+        "http://dbpedia.org/resource/Category:March_1964_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Brazil",
+        "http://dbpedia.org/resource/Category:Military_dictatorship_in_Brazil",
+        "http://dbpedia.org/resource/Category:United_States_involvement_in_regime_change"
+      ]
+    },
+    {
+      "score": [
+        "2261.2668"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_jiu-jitsu_ranking_system"
+      ],
+      "redirectlabel": [
+        "BJJ belt",
+        "Bjj belt",
+        "Bjj rankings",
+        "Black belt (<B>Brazilian</B> Jiu-Jitsu)",
+        "Blue belt (<B>Brazilian</B> Jiu-Jitsu)",
+        "<B>Brazilian</B> Jiu-Jitsu Ranks",
+        "<B>Brazilian</B> Jiu-Jitsu black belt",
+        "<B>Brazilian</B> Jiu-Jitsu ranking system",
+        "<B>Brazilian</B> Jiu Jitsu black belt",
+        "<B>Brazilian</B> jiu-jitsu black belt",
+        "Brown belt (<B>Brazilian</B> Jiu-Jitsu)",
+        "Coral belt",
+        "Purple belt (<B>Brazilian</B> Jiu-Jitsu)",
+        "Red belt (<B>Brazilian</B> Jiu-Jitsu)",
+        "White belt (<B>Brazilian</B> Jiu-Jitsu)"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> jiu-jitsu ranking system signifies a practitioner's increasing level of technical"
+      ],
+      "label": [
+        "<B>Brazilian</B> jiu-jitsu ranking system"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_jiu-jitsu_ranking_system"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_jiu-jitsu",
+        "http://dbpedia.org/resource/Category:Martial_arts_ranking"
+      ]
+    },
+    {
+      "score": [
+        "2218.4663"
+      ],
+      "refCount": [
+        "79"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_C"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Serie C",
+        "<B>Brazilian</B> Série C",
+        "Campeonato Brasileiro Serie C",
+        "Campeonato Brasileiro de Futebol - Série C",
+        "Serie C Brazil",
+        "Série C"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Campeonato Brasileiro Série C is the third tier of the <B>Brazilian</B> football league system. Unlike"
+      ],
+      "label": [
+        "Campeonato Brasileiro Série C"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_C"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_(football)",
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_Série_C",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Third_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2158.5437"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Brazil"
+      ],
+      "redirectlabel": [
+        "Brazil Music",
+        "<B>Brazilian</B> Bass",
+        "<B>Brazilian</B> Bass (genre)",
+        "<B>Brazilian</B> Music",
+        "<B>Brazilian</B> folk music",
+        "<B>Brazilian</B> gospel",
+        "<B>Brazilian</B> heavy metal",
+        "<B>Brazilian</B> indigenous music",
+        "<B>Brazilian</B> metal",
+        "<B>Brazilian</B> music",
+        "<B>Brazillian</B> Music",
+        "<B>Brazillian</B> music",
+        "Folk music of Brazil",
+        "Heavy metal in Brazil",
+        "History of <B>Brazilian</B> music",
+        "Indigenous <B>Brazilian</B> music",
+        "Indigenous music of Brazil",
+        "Metal in Brazil",
+        "Music Brazil",
+        "Music history of Brazil",
+        "Music in Brazil",
+        "Popular music of Brazil"
+      ],
+      "comment": [
+        " Amerindian forms. <B>Brazilian</B> music developed some unique and original styles such as forró, , , axé"
+      ],
+      "label": [
+        "Music of Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Brazil"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_music"
+      ]
+    },
+    {
+      "score": [
+        "2127.6133"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_B"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Second Division",
+        "<B>Brazilian</B> Serie B",
+        "<B>Brazilian</B> Série B",
+        "Campeonato Brasileiro Serie B",
+        "Série B"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " second tier of the <B>Brazilian</B> football league system. The competition format has changed almost"
+      ],
+      "label": [
+        "Campeonato Brasileiro Série B"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Campeonato_Brasileiro_Série_B"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_(football)",
+        "http://dbpedia.org/resource/Category:Campeonato_Brasileiro_Série_B",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_of_South_America"
+      ]
+    },
+    {
+      "score": [
+        "2091.6865"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_real_(old)"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> réis",
+        "Old <B>Brazilian</B> real",
+        "Old <B>brazilian</B> real",
+        "Réis"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The first official currency of Brazil was the real (pronounced [ʁeˈaw]; pl. réis). Its sign was Rs$. As the currency of the Portuguese empire, it was in use in Brazil from the earliest days of the colonial period, and remained in use until 1942, when it was replaced by the cruzeiro. The name real was resurrected in 1994 for the new currency unit (but with the new plural form reais). This currency is still in use. One modern real is equivalent to 2.75 × 1018 (2.75 quintillion) of the old réis."
+      ],
+      "label": [
+        "<B>Brazilian</B> real (old)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_real_(old)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1942_disestablishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Historical_currencies_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2064.465"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014_Brazilian_economic_crisis"
+      ],
+      "redirectlabel": [
+        "2014-2016 <B>Brazilian</B> economic recession",
+        "2014-2017 <B>Brazilian</B> economic crisis",
+        "2014-2017 <B>Brazilian</B> economic recession",
+        "2014–2016 <B>Brazilian</B> economic recession",
+        "2014–2017 <B>Brazilian</B> economic crisis",
+        "2014–2017 <B>Brazilian</B> economic recession",
+        "2015-2016 <B>Brazilian</B> economic recession",
+        "2015-2016 <B>brazilian</B> economic recession",
+        "2015-2017 <B>Brazilian</B> economic crisis",
+        "2015-2018 <B>Brazilian</B> economic crisis",
+        "2015–2017 <B>Brazilian</B> economic crisis",
+        "2015–2018 <B>Brazilian</B> economic crisis"
+      ],
+      "comment": [
+        "From mid 2014 to 2016, Brazil experienced a severe economic crisis. The economic crisis became coupled with a political crisis in Brazil that resulted in the impeachment of president Dilma Rousseff and in widespread dissatisfaction with the political system."
+      ],
+      "label": [
+        "2014 <B>Brazilian</B> economic crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014_Brazilian_economic_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_in_Brazil",
+        "http://dbpedia.org/resource/Category:2014_in_economics",
+        "http://dbpedia.org/resource/Category:Economic_crises_in_Brazil",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Brazil",
+        "http://dbpedia.org/resource/Category:Government_of_Michel_Temer",
+        "http://dbpedia.org/resource/Category:Recessions"
+      ]
+    },
+    {
+      "score": [
+        "2035.2501"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Communist_Party"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Communist Party (1992)",
+        "<B>Brazilian</B> Comunist Party",
+        "Partido Comunista Brasileiro",
+        "Partido Comunista Brasiliero",
+        "Partito Comunista Brasileno",
+        "Partito Comunista Brasileño"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Communist Party (Portuguese: Partido Comunista Brasileiro), originally Partido"
+      ],
+      "label": [
+        "<B>Brazilian</B> Communist Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Communist_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1922_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Anti-imperialist_organizations",
+        "http://dbpedia.org/resource/Category:Anti-revisionist_organizations",
+        "http://dbpedia.org/resource/Category:Comintern_sections",
+        "http://dbpedia.org/resource/Category:Communist_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Far-left_political_parties",
+        "http://dbpedia.org/resource/Category:Far-left_politics_in_Brazil",
+        "http://dbpedia.org/resource/Category:Formerly_banned_communist_parties",
+        "http://dbpedia.org/resource/Category:Foro_de_São_Paulo",
+        "http://dbpedia.org/resource/Category:International_Meeting_of_Communist_and_Workers_Parties",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1922",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "2026.1453"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010_Brazilian_general_election"
+      ],
+      "redirectlabel": [
+        "2010 <B>Brazilian</B> Presidential Elections",
+        "2010 <B>Brazilian</B> legislative election",
+        "2010 <B>Brazilian</B> parliamentary election",
+        "2010 <B>Brazilian</B> presidential election",
+        "<B>Brazilian</B> general election, 2010",
+        "<B>Brazilian</B> general elections, 2010",
+        "<B>Brazilian</B> legislative election, 2010",
+        "<B>Brazilian</B> parliamentary election, 2010",
+        "<B>Brazilian</B> presidential election, 2010",
+        "Dilma vs Serra",
+        "Rousseff vs Serra"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The first round of the <B>Brazilian</B> general election of 2010 was held on Sunday, October 3, 2010. The"
+      ],
+      "label": [
+        "2010 <B>Brazilian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010_Brazilian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:2010_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:October_2010_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1952.6956"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Highlands"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Plateau",
+        "<B>Brazilian</B> highlands",
+        "<B>Brazilian</B> plateau",
+        "Planalto Central"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Highlands or <B>Brazilian</B> Plateau (Portuguese: Planalto Brasileiro) are an extensive"
+      ],
+      "label": [
+        "<B>Brazilian</B> Highlands"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Highlands"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Atlantic_Forest",
+        "http://dbpedia.org/resource/Category:Caatinga",
+        "http://dbpedia.org/resource/Category:Central-West_Region,_Brazil",
+        "http://dbpedia.org/resource/Category:Cerrado",
+        "http://dbpedia.org/resource/Category:Ecoregions_of_Brazil",
+        "http://dbpedia.org/resource/Category:Highlands",
+        "http://dbpedia.org/resource/Category:Large_igneous_provinces",
+        "http://dbpedia.org/resource/Category:Natural_regions_of_South_America",
+        "http://dbpedia.org/resource/Category:Neotropical_ecoregions",
+        "http://dbpedia.org/resource/Category:Northeast_Region,_Brazil",
+        "http://dbpedia.org/resource/Category:Physiographic_divisions",
+        "http://dbpedia.org/resource/Category:Plateaus_of_Brazil",
+        "http://dbpedia.org/resource/Category:Regions_of_Brazil",
+        "http://dbpedia.org/resource/Category:South_Region,_Brazil",
+        "http://dbpedia.org/resource/Category:Southeast_Region,_Brazil",
+        "http://dbpedia.org/resource/Category:Volcanism_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1905.5265"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Brazilian_general_election"
+      ],
+      "redirectlabel": [
+        "2006 <B>Brazilian</B> Presidential Elections",
+        "2006 <B>Brazilian</B> general elections",
+        "2006 <B>Brazilian</B> presidential election",
+        "2006 GENERAL ELECTIONS (BRAZIL)",
+        "2006 General Elections (Brazil)",
+        "2006 Presidential Elections (Brazil)",
+        "<B>Brazilian</B> General Elections, 2006",
+        "<B>Brazilian</B> general election, 2006",
+        "<B>Brazilian</B> general elections, 2006",
+        "<B>Brazilian</B> presidential election, 2006",
+        "Lula vs Alckmin"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in Brazil on 1 October 2006 to elect all seats in the Chamber of Deputies, one-third of the Federal Senate, and members of the Legislative Assemblies of the 26 states and the Federal District. As no candidate for president received over 50% of the vote, a second round run-off was held on 29 October between incumbent Luiz Inácio Lula da Silva and his challenger, Geraldo Alckmin. A second round was also required in 10 states where no candidate for governor received a majority. Lula won the second round with over 60% of the valid votes and secured a new four-year term."
+      ],
+      "label": [
+        "2006 <B>Brazilian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Brazilian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:2006_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:General_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:October_2006_events_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1890.844"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/White_Brazilians"
+      ],
+      "redirectlabel": [
+        "Euro-<B>Brazilians</B>",
+        "European-<B>Brazilians</B>",
+        "European <B>Brazilian</B>",
+        "European <B>Brazilians</B>",
+        "Genetic studies on White <B>Brazilians</B>",
+        "White <B>Brazilian</B>",
+        "White <B>brazilians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "White <B>Brazilians</B> (Portuguese: brasileiros brancos [bɾɐziˈle(j)ɾuz ˈbɾɐ̃kus]) refers to <B>Brazilian</B>"
+      ],
+      "label": [
+        "White <B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/White_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:European_Brazilian",
+        "http://dbpedia.org/resource/Category:European_diaspora_in_South_America",
+        "http://dbpedia.org/resource/Category:Race_in_Brazil",
+        "http://dbpedia.org/resource/Category:White_Brazilians"
+      ]
+    },
+    {
+      "score": [
+        "1876.541"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/First_Brazilian_Republic"
+      ],
+      "redirectlabel": [
+        "History of Brazil (1889-1930)",
+        "History of Brazil (1889–1930)",
+        "Republic of the United States of Brazil",
+        "Republica Velha",
+        "Republica dos Estados Unidos do Brasil",
+        "República Velha",
+        "República dos Estados Unidos do Brasil",
+        "U.S. Brazil",
+        "U.S. of Brazil",
+        "US Brazil",
+        "US of Brazil",
+        "United States of Brasil",
+        "United States of Brazil"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The First <B>Brazilian</B> Republic or República Velha (Portuguese pronunciation: [ʁeˈpublikɐ ˈvɛʎɐ], \"Old"
+      ],
+      "label": [
+        "First <B>Brazilian</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/First_Brazilian_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1889_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:1930_disestablishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:19th_century_in_Brazil",
+        "http://dbpedia.org/resource/Category:20th_century_in_Brazil",
+        "http://dbpedia.org/resource/Category:First_Brazilian_Republic",
+        "http://dbpedia.org/resource/Category:Former_countries_of_the_interwar_period",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1849.0913"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cisplatine_War"
+      ],
+      "redirectlabel": [
+        "Argentina-Brazil War",
+        "Argentina-<B>Brazilian</B> War",
+        "Argentina–Brazil War",
+        "Argentine-<B>Brazilian</B> War",
+        "Argentine–<B>Brazilian</B> War",
+        "Brazil-Argentina War",
+        "First Argentine-<B>Brazilian</B> War",
+        "The Cisplatine War",
+        "War of Cisplatina"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Cisplatine War (Portuguese: Guerra da Cisplatina), also known as the Argentine-<B>Brazilian</B> War"
+      ],
+      "label": [
+        "Cisplatine War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cisplatine_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1820s_in_Argentina",
+        "http://dbpedia.org/resource/Category:1820s_in_Brazil",
+        "http://dbpedia.org/resource/Category:1820s_in_Uruguay",
+        "http://dbpedia.org/resource/Category:Cisplatine_War",
+        "http://dbpedia.org/resource/Category:Colonial_Uruguay",
+        "http://dbpedia.org/resource/Category:Empire_of_Brazil",
+        "http://dbpedia.org/resource/Category:History_of_South_America",
+        "http://dbpedia.org/resource/Category:Invasions_by_Argentina",
+        "http://dbpedia.org/resource/Category:Maritime_history_of_Argentina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Argentina",
+        "http://dbpedia.org/resource/Category:Wars_involving_Brazil",
+        "http://dbpedia.org/resource/Category:Wars_involving_Uruguay"
+      ]
+    },
+    {
+      "score": [
+        "1848.8455"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Revolution_of_1930"
+      ],
+      "redirectlabel": [
+        "1930 <B>Brazilian</B> coup d'état",
+        "<B>Brazilian</B> revolution",
+        "Revolution of 1930"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Revolution of 1930 (Portuguese: Revolução de 1930), also known as the 1930 coup d'état or coup of 1930 was an armed movement in Brazil led by the states of Minas Gerais, Paraíba and Rio Grande do Sul, culminating in a coup. The revolution ousted President Washington Luís on October 24, 1930, prevented the inauguration of President-elect Júlio Prestes, and ended the Old Republic. Getúlio Vargas assumed the leadership of the provisional government on November 3, 1930, a date that marks the end of the Old Republic."
+      ],
+      "label": [
+        "<B>Brazilian</B> Revolution of 1930"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Revolution_of_1930"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930_in_Brazil",
+        "http://dbpedia.org/resource/Category:1930s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Coffee_with_milk_politics",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1930",
+        "http://dbpedia.org/resource/Category:First_Brazilian_Republic",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Brazil",
+        "http://dbpedia.org/resource/Category:October_1930_events",
+        "http://dbpedia.org/resource/Category:Revolutions_in_Brazil",
+        "http://dbpedia.org/resource/Category:Vargas_Era"
+      ]
+    },
+    {
+      "score": [
+        "1831.392"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Italian_Brazilians"
+      ],
+      "redirectlabel": [
+        "Italian-<B>Brazilian</B>",
+        "Italian-<B>Brazilians</B>",
+        "Italian <B>Brazilian</B>",
+        "Italian immigration to Brazil",
+        "Italo-<B>Brazilian</B>",
+        "Italo-<B>Brazilians</B>",
+        "Italo <B>Brazilian</B>",
+        "Ítalo-brasileiro"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Italian <B>Brazilians</B> (Italian: italobrasiliani, Portuguese: ítalo-brasileiros) are <B>Brazilian</B> citizens"
+      ],
+      "label": [
+        "Italian <B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Italian_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Italian_descent",
+        "http://dbpedia.org/resource/Category:Italian_Brazilian"
+      ]
+    },
+    {
+      "score": [
+        "1815.0448"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Academy_of_Sciences"
+      ],
+      "redirectlabel": [
+        "Academia Brasileira de Ciencias",
+        "Academia Brasileira de Ciências",
+        "An. Acad. Bras. Cienc.",
+        "An. Acad. Bras. Ciênc.",
+        "An Acad Bras Ciênc",
+        "Anais Academia Brasileira Ciencia",
+        "Anais da Academia Brasileira Ciencia (Annals of the <B>Brazilian</B> Academy of Sciences)",
+        "Anais da Academia Brasileira de Ciencias",
+        "Anais da Academia Brasileira de Ciências",
+        "Anais da Academia Brasileira de Ciências (Annals of the <B>Brazilian</B> Academy of Sciences)",
+        "Annals of the <B>Brazilian</B> Academy of Sciences",
+        "<B>Brazilian</B> National Academy of Sciences",
+        "<B>Brazilian</B> academy of sciences"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Academy of Sciences (Portuguese: Academia Brasileira de Ciências or ABC) is the"
+      ],
+      "label": [
+        "<B>Brazilian</B> Academy of Sciences"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Academy_of_Sciences"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1916_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Council_for_Science",
+        "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council",
+        "http://dbpedia.org/resource/Category:National_academies_of_sciences",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Rio_de_Janeiro_(city)",
+        "http://dbpedia.org/resource/Category:Scientific_organisations_based_in_Brazil",
+        "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1916"
+      ]
+    },
+    {
+      "score": [
+        "1808.1112"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014_Brazilian_general_election"
+      ],
+      "redirectlabel": [
+        "2014 <B>Brazilian</B> general elections",
+        "2014 <B>Brazilian</B> parliamentary election",
+        "2014 <B>Brazilian</B> presidential election",
+        "<B>Brazilian</B> general election, 2014",
+        "<B>Brazilian</B> general elections, 2014",
+        "<B>Brazilian</B> parliamentary election, 2014",
+        "<B>Brazilian</B> presidential election, 2014",
+        "Dilma vs Neves",
+        "Rousseff vs Neves"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in Brazil on 5 October 2014 to elect the President, the National Congress, state governors and state legislatures. As no candidate in the presidential and several gubernatorial elections received more than 50% of the vote, a second-round runoff was held on 26 October. In the first round of voting Dilma Rousseff won 41.6% of the vote, ahead of Aécio Neves with 33.6% and Marina Silva with 21.3%. Rousseff and Neves contested the runoff on 26 October and Rousseff won re-election by a narrow margin, 51.6% to Neves' 48.4%."
+      ],
+      "label": [
+        "2014 <B>Brazilian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014_Brazilian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:2014_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:General_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:October_2014_events_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1803.1233"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Girls"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> girls",
+        "The <B>Brazilian</B> Girls"
+      ],
+      "typeName": [
+        "Band",
+        "Organisation",
+        "Agent",
+        "Group"
+      ],
+      "comment": [
+        "<B>Brazilian</B> Girls is a band from New York, United States, known for their eclectic blend of"
+      ],
+      "label": [
+        "<B>Brazilian</B> Girls"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Girls"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Band",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/Group"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Alternative_dance_musical_groups",
+        "http://dbpedia.org/resource/Category:Downtempo_musicians",
+        "http://dbpedia.org/resource/Category:Electronic_music_groups_from_New_York_(state)",
+        "http://dbpedia.org/resource/Category:Fiction_Records_artists",
+        "http://dbpedia.org/resource/Category:Verve_Forecast_Records_artists"
+      ]
+    },
+    {
+      "score": [
+        "1796.0438"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Sign_Language"
+      ],
+      "redirectlabel": [
+        "<B>Brasilian</B> Sign Language",
+        "<B>Brazilian</B> Cities Sign Language",
+        "<B>Brazilian</B> Sign language",
+        "ISO 639:bzs",
+        "LIBRAS",
+        "LSCB (language)",
+        "Libras",
+        "Lingua Brasileira de Sinais",
+        "Língua Brasileira de Sinais",
+        "Sgn-BR",
+        "SgnBR",
+        "Sgn BR"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Brazilian</B> Sign Language (BSL) is the sign language used by deaf communities of urban Brazil. It is"
+      ],
+      "label": [
+        "<B>Brazilian</B> Sign Language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Sign_Language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Deaf_culture_in_Brazil",
+        "http://dbpedia.org/resource/Category:Languages_of_Brazil",
+        "http://dbpedia.org/resource/Category:Sign_language_isolates",
+        "http://dbpedia.org/resource/Category:Sign_languages_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1765.5073"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Armed_Forces"
+      ],
+      "redirectlabel": [
+        "Armed Forces of Brazil",
+        "Armed forces of Brazil",
+        "<B>Brazilian</B> Military",
+        "<B>Brazilian</B> armed forces",
+        "<B>Brazilian</B> military",
+        "Escola Superior de Guerra",
+        "Escola superior de guerra",
+        "Military budget of Brazil",
+        "Military of Brazil"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Armed Forces (Portuguese: Forças Armadas Brasileiras, IPA: [ˈfoʁsɐz ɐʁˈmadɐz"
+      ],
+      "label": [
+        "<B>Brazilian</B> Armed Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Armed_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Military_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1755.5658"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Society_of_Health_Informatics"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Congress of Health Informatics",
+        "<B>Brazilian</B> Congress on Health Informatics",
+        "<B>Brazilian</B> Congress on Health and Informatics",
+        "<B>Brazilian</B> Health Informatics Society",
+        "<B>Brazilian</B> Society for Health Informatics",
+        "<B>Brazilian</B> Society for Health Information",
+        "<B>Brazilian</B> congress on health informatics",
+        "<B>Brazilian</B> society of health informatics",
+        "Sociedade Brasileira de Informatica em Saude",
+        "Sociedade Brasileira de Informática em Saúde"
+      ],
+      "comment": [
+        "The Sociedade Brasileira de Informática em Saúde (<B>Brazilian</B> Society of Health Informatics"
+      ],
+      "label": [
+        "<B>Brazilian</B> Society of Health Informatics"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Society_of_Health_Informatics"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Health_informatics_and_eHealth_associations",
+        "http://dbpedia.org/resource/Category:Medical_and_health_organisations_based_in_Brazil",
+        "http://dbpedia.org/resource/Category:Organisations_based_in_Campinas"
+      ]
+    },
+    {
+      "score": [
+        "1746.826"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_literature"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Literature",
+        "<B>Brazilian</B> Realism",
+        "<B>Brazilian</B> poetry",
+        "Literary modernism in Brazil",
+        "Literature in Brazil",
+        "Literature of Brazil",
+        "Urda Alice Klueger"
+      ],
+      "comment": [
+        "<B>Brazilian</B> literature is the literature written in the Portuguese language by <B>Brazilians</B> or in"
+      ],
+      "label": [
+        "<B>Brazilian</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_literature",
+        "http://dbpedia.org/resource/Category:Latin_American_literature_by_country",
+        "http://dbpedia.org/resource/Category:South_American_literature"
+      ]
+    },
+    {
+      "score": [
+        "1744.832"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_shrew_mouse"
+      ],
+      "redirectlabel": [
+        "Blarinine Akodont",
+        "Blarinomys",
+        "Blarinomys breviceps",
+        "<B>Brazilian</B> Shrew-Mouse",
+        "<B>Brazilian</B> Shrew-mouse",
+        "<B>Brazilian</B> Shrew Mouse",
+        "<B>Brazilian</B> shrew-mouse"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> shrew mouse (Blarinomys breviceps), also known as the blarinine akodont, is a rodent"
+      ],
+      "label": [
+        "<B>Brazilian</B> shrew mouse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_shrew_mouse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Akodontini",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1888",
+        "http://dbpedia.org/resource/Category:Mammals_of_Brazil",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Herluf_Winge"
+      ]
+    },
+    {
+      "score": [
+        "1720.4929"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/German_Brazilians"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Germans",
+        "<B>Brazilian</B> of German descent",
+        "Deutschbrasilianer",
+        "Forced assimilation of German <B>Brazilians</B>",
+        "German-<B>Brazilian</B>",
+        "German-<B>Brazilians</B>",
+        "German <B>Brazilian</B>",
+        "Germans in Brazil"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        ", Portuguese: teuto-brasileiros) refers to <B>Brazilian</B> people of ethnic German ancestry or origin. German"
+      ],
+      "label": [
+        "German <B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/German_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazil–Germany_relations",
+        "http://dbpedia.org/resource/Category:European_Brazilian",
+        "http://dbpedia.org/resource/Category:German_Brazilian",
+        "http://dbpedia.org/resource/Category:German_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:German_minorities"
+      ]
+    },
+    {
+      "score": [
+        "1718.5109"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006–2007_Brazilian_aviation_crisis"
+      ],
+      "redirectlabel": [
+        "2006-07 <B>Brazilian</B> aviation crisis",
+        "2006-2007 <B>Brazilian</B> aviation crisis",
+        "2006-7 <B>Brazilian</B> aviation crisis",
+        "2006–07 <B>Brazilian</B> aviation crisis",
+        "Apagao Aereo",
+        "Apagão Aéreo",
+        "Brazil's 2006-2007 aviation crisis",
+        "Brazil's aviation crisis",
+        "Brazil 2006-2007 aviation crisis",
+        "<B>Brazilian</B> aviation crisis",
+        "Relax and enjoy",
+        "Relaxa e goza"
+      ],
+      "label": [
+        "2006–2007 <B>Brazilian</B> aviation crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006–2007_Brazilian_aviation_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_in_Brazil",
+        "http://dbpedia.org/resource/Category:2007_in_Brazil",
+        "http://dbpedia.org/resource/Category:Air_traffic_control_in_South_America",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2006",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_2007",
+        "http://dbpedia.org/resource/Category:Aviation_accidents_and_incidents_in_Brazil",
+        "http://dbpedia.org/resource/Category:Aviation_strikes",
+        "http://dbpedia.org/resource/Category:Labour_disputes_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1692.502"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–2017_Brazilian_drought"
+      ],
+      "redirectlabel": [
+        "2014-16 <B>Brazilian</B> drought",
+        "2014-17 <B>Brazilian</B> drought",
+        "2014-2017 <B>Brazilian</B> drought",
+        "2014–16 <B>Brazilian</B> drought",
+        "2014–17 <B>Brazilian</B> drought",
+        "2015 <B>Brazilian</B> drought",
+        "2015 Drought in Brazil",
+        "2015 Sao Paulo drought"
+      ],
+      "label": [
+        "2014–2017 <B>Brazilian</B> drought"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–2017_Brazilian_drought"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014_disasters_in_Brazil",
+        "http://dbpedia.org/resource/Category:2014_droughts",
+        "http://dbpedia.org/resource/Category:2014_in_the_environment",
+        "http://dbpedia.org/resource/Category:2014_natural_disasters",
+        "http://dbpedia.org/resource/Category:2015_disasters_in_Brazil",
+        "http://dbpedia.org/resource/Category:2015_droughts",
+        "http://dbpedia.org/resource/Category:2015_in_the_environment",
+        "http://dbpedia.org/resource/Category:2015_natural_disasters",
+        "http://dbpedia.org/resource/Category:2016_disasters_in_Brazil",
+        "http://dbpedia.org/resource/Category:2016_droughts",
+        "http://dbpedia.org/resource/Category:2016_in_the_environment",
+        "http://dbpedia.org/resource/Category:2016_natural_disasters",
+        "http://dbpedia.org/resource/Category:2017_disasters_in_Brazil",
+        "http://dbpedia.org/resource/Category:2017_droughts",
+        "http://dbpedia.org/resource/Category:2017_in_the_environment",
+        "http://dbpedia.org/resource/Category:2017_natural_disasters",
+        "http://dbpedia.org/resource/Category:Climate_of_Brazil",
+        "http://dbpedia.org/resource/Category:Droughts_in_South_America",
+        "http://dbpedia.org/resource/Category:Environment_of_Espírito_Santo",
+        "http://dbpedia.org/resource/Category:Environment_of_Minas_Gerais",
+        "http://dbpedia.org/resource/Category:Environment_of_Rio_de_Janeiro_(state)",
+        "http://dbpedia.org/resource/Category:Environment_of_São_Paulo_(state)",
+        "http://dbpedia.org/resource/Category:Natural_disasters_in_Brazil",
+        "http://dbpedia.org/resource/Category:Water_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1677.9314"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_teal"
+      ],
+      "redirectlabel": [
+        "Amazonetta",
+        "Amazonetta brasiliensis",
+        "<B>Brazilian</B> Duck",
+        "<B>Brazilian</B> Teal",
+        "<B>Brazilian</B> duck"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> teal or <B>Brazilian</B> duck (Amazonetta brasiliensis) is the only duck in the genus Amazonetta."
+      ],
+      "label": [
+        "<B>Brazilian</B> teal"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_teal"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anatinae",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1789",
+        "http://dbpedia.org/resource/Category:Birds_of_Argentina",
+        "http://dbpedia.org/resource/Category:Birds_of_Brazil",
+        "http://dbpedia.org/resource/Category:Birds_of_South_America",
+        "http://dbpedia.org/resource/Category:Birds_of_Uruguay",
+        "http://dbpedia.org/resource/Category:Birds_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Guianas",
+        "http://dbpedia.org/resource/Category:Ducks",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Johann_Friedrich_Gmelin"
+      ]
+    },
+    {
+      "score": [
+        "1665.7686"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_National_Anthem"
+      ],
+      "redirectlabel": [
+        "Anthem of Brazil",
+        "Brazil anthem",
+        "<B>Brazilian</B> national anthem",
+        "Hino Nacional Brasileiro",
+        "National Anthem of Brazil",
+        "National anthem of Brazil"
+      ],
+      "comment": [
+        "The \"<B>Brazilian</B> National Anthem\" (Portuguese: Hino Nacional Brasileiro; also known as \"They hear"
+      ],
+      "label": [
+        "<B>Brazilian</B> National Anthem"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_National_Anthem"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1831_songs",
+        "http://dbpedia.org/resource/Category:Brazilian_anthems",
+        "http://dbpedia.org/resource/Category:National_anthem_compositions_in_F_major",
+        "http://dbpedia.org/resource/Category:National_anthems",
+        "http://dbpedia.org/resource/Category:National_symbols_of_Brazil",
+        "http://dbpedia.org/resource/Category:Portuguese-language_songs",
+        "http://dbpedia.org/resource/Category:South_American_anthems"
+      ]
+    },
+    {
+      "score": [
+        "1662.3359"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018_Brazilian_general_election"
+      ],
+      "redirectlabel": [
+        "2018 <B>Brazilian</B> parliamentary election",
+        "2018 <B>Brazilian</B> presidential election",
+        "2018 presidential elections in Brazil",
+        "Bolsonaro vs Haddad",
+        "<B>Brazilian</B> general election, 2018",
+        "<B>Brazilian</B> legislative election, 2018",
+        "<B>Brazilian</B> presidential election, 2018"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in Brazil on 7 October 2018 to elect the President, Vice President and the National Congress. Elections for state governors and vice governors, state legislative assemblies and the Legislative Chamber of the Federal District were held at the same time. On 7 October 2018, Rio de Janeiro congressman Jair Bolsonaro came first in the first round of the presidential election. A run-off between him and former São Paulo mayor Fernando Haddad was held on 28 October 2018. At 22:06 GMT, with 88% reporting, Bolsonaro was declared the winner with over 50% of the popular vote."
+      ],
+      "label": [
+        "2018 <B>Brazilian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018_Brazilian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018_Brazilian_general_election",
+        "http://dbpedia.org/resource/Category:2018_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:General_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:October_2018_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1637.2084"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Integralism"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Integralists",
+        "<B>Brazilian</B> fascism",
+        "Neo-integralism"
+      ],
+      "comment": [
+        "<B>Brazilian</B> integralism (Portuguese: integralismo) was a fascist and nationalist political movement"
+      ],
+      "label": [
+        "<B>Brazilian</B> Integralism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Integralism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_nationalism",
+        "http://dbpedia.org/resource/Category:Fascism_in_Brazil",
+        "http://dbpedia.org/resource/Category:Integralism",
+        "http://dbpedia.org/resource/Category:Political_movements_in_Brazil",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1614.0105"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Progressistas"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Progressive Party",
+        "João Leão (<B>Brazilian</B> politician)",
+        "PP <B>BrazilianParty</B>",
+        "Partido Progressista (Brasil)",
+        "Partido Progressista Brasileiro",
+        "Progressist Party (Brazil)",
+        "Progressive (Brazil)",
+        "Progressive Party (Brazil)",
+        "Progressive Party of Brazil",
+        "Progressives (Brazil)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "Progressistas (Progressives; PP) is a right-wing and conservative-liberal political party in Brazil."
+      ],
+      "label": [
+        "Progressistas"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Progressistas"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1995_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Conservative_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1995"
+      ]
+    },
+    {
+      "score": [
+        "1597.3444"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Volleyball_Super_League_(Men)"
+      ],
+      "redirectlabel": [
+        "2016-17 <B>Brazilian</B> Men's Volleyball Superliga",
+        "2016–17 <B>Brazilian</B> Men's Volleyball Superliga",
+        "<B>Brazilian</B> Men's Volleyball Super League",
+        "<B>Brazilian</B> Men's Volleyball Superliga",
+        "<B>Brazilian</B> Volleyball Superleague",
+        "Superliga Brasileira de Voleibol",
+        "Superliga Feminina de Volei",
+        "Superliga Feminina de Vôlei",
+        "Superliga Masculina de Volei",
+        "Superliga Masculina de Vôlei"
+      ],
+      "label": [
+        "<B>Brazilian</B> Volleyball Super League (Men)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Volleyball_Super_League_(Men)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:National_volleyball_leagues",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1976",
+        "http://dbpedia.org/resource/Category:Sports_leagues_in_Brazil",
+        "http://dbpedia.org/resource/Category:Volleyball_competitions_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1575.419"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Brazilians"
+      ],
+      "redirectlabel": [
+        "Famous <B>Brazilians</B>",
+        "List of <B>Brazilian</B> architects and urbanists",
+        "List of <B>Brazilian</B> athletes",
+        "List of <B>Brazilian</B> explorers and discoverers",
+        "List of <B>Brazilian</B> fashion designers",
+        "List of <B>Brazilian</B> geologists",
+        "List of <B>Brazilian</B> heroes and historical figures",
+        "List of <B>Brazilian</B> intellectuals and thinkers",
+        "List of <B>Brazilian</B> models",
+        "List of <B>Brazilian</B> politicians",
+        "List of <B>Brazilian</B> religious leaders",
+        "List of famous <B>Brazilian</B> people",
+        "List of famous <B>Brazilians</B>",
+        "List of people from Brazil",
+        "Lists of <B>Brazilians</B>"
+      ],
+      "comment": [
+        "This is a list of <B>Brazilians</B>, people in some way notable that were either born in Brazil or"
+      ],
+      "label": [
+        "List of <B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Brazilians"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Brazilian_people"
+      ]
+    },
+    {
+      "score": [
+        "1575.3822"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Highway_System"
+      ],
+      "redirectlabel": [
+        "AL-220",
+        "Br 101",
+        "Brazil Highway System",
+        "List of <B>Brazilian</B> Highways",
+        "Roads in Brazil",
+        "Rodovia",
+        "Rodovia Longitudinal",
+        "Rodovia de ligação",
+        "Rodovia diagonal",
+        "Rodovia longitudinal",
+        "Rodovia radial",
+        "Rodovia transversal",
+        "Rodovias de Alagoas"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Highway System (Portuguese: Sistema Nacional de Rodovias) is the highway system of"
+      ],
+      "label": [
+        "<B>Brazilian</B> Highway System"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Highway_System"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Highways_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1563.12"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_spiny_tree-rat"
+      ],
+      "redirectlabel": [
+        "Armored Spiny Rat",
+        "<B>Brazilian</B> Spiny Tree Rat",
+        "Echimys armatus",
+        "Echimys castaneus",
+        "Echimys didelphoides",
+        "Echimys guianae",
+        "Echimys hispidus",
+        "Echimys longirostris",
+        "Makalata armata",
+        "Makalata armatus",
+        "Makalata castanea",
+        "Makalata castaneus",
+        "Makalata didelphoides",
+        "Makalata guianae",
+        "Makalata hispida",
+        "Makalata hispidus",
+        "Makalata longirostris",
+        "Mesomys didelphoides",
+        "Red-nosed Armored Tree-rat"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> spiny tree rat (Makalata didelphoides) is a species of rodent in the family"
+      ],
+      "label": [
+        "<B>Brazilian</B> spiny tree-rat"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_spiny_tree-rat"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Makalata",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1817",
+        "http://dbpedia.org/resource/Category:Mammals_of_Bolivia",
+        "http://dbpedia.org/resource/Category:Mammals_of_Brazil",
+        "http://dbpedia.org/resource/Category:Mammals_of_Trinidad_and_Tobago",
+        "http://dbpedia.org/resource/Category:Mammals_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Mammals_of_the_Caribbean",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1558.0554"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_schools_in_Japan"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> School in Japan",
+        "<B>Brazilian</B> school in Japan",
+        "<B>Brazilian</B> school in japan",
+        "Burajirujin gakko",
+        "Continho Brasileiro(Toyohashi)",
+        "EscolaNikken(Yokkaichi)",
+        "Hirogakuen",
+        "Mundo de Alegria(Hamamatsu)"
+      ],
+      "comment": [
+        "<B>Brazilian</B> schools in Japan (ブラジル学校, Burajiru gakkō) are schools that specifically cater to"
+      ],
+      "label": [
+        "<B>Brazilian</B> schools in Japan"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_schools_in_Japan"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_diaspora_in_Japan",
+        "http://dbpedia.org/resource/Category:Brazilian_international_schools",
+        "http://dbpedia.org/resource/Category:Brazil–Japan_relations",
+        "http://dbpedia.org/resource/Category:Japanese-Brazilian_culture",
+        "http://dbpedia.org/resource/Category:Schools_in_Japan"
+      ]
+    },
+    {
+      "score": [
+        "1544.3822"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "label": [
+        "<B>Brazilian</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_language"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_language"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Language",
+        "<B>Brazilian</B> language (disambiguation)",
+        "<B>Brazilian</B> languages",
+        "<B>Brazilian</B> languages (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "1535.8993"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Azul_Brazilian_Airlines"
+      ],
+      "redirectlabel": [
+        "Azul - Linhas Aereas Brasileiras",
+        "Azul - Linhas Aéreas Brasileiras",
+        "Azul Airlines",
+        "Azul <B>Brazilian</B> (airline)",
+        "Azul Linhas Aereas",
+        "Azul Linhas Aereas Brasileiras",
+        "Azul Linhas Aereas Brasileiras S.A.",
+        "Azul Linhas Aereas Brasileiras S/A",
+        "Azul Linhas Aereas Brasileiras SA",
+        "Azul Linhas Aéreas Brasileiras",
+        "Azul Linhas Aéreas Brasileiras S.A.",
+        "Azul Linhas Aéreas Brasileiras S/A",
+        "TudoAzul"
+      ],
+      "comment": [
+        "Azul Linhas Aéreas Brasileiras S/A (Azul <B>Brazilian</B> Airlines; or simply Azul) is a <B>Brazilian</B> carrier"
+      ],
+      "label": [
+        "Azul <B>Brazilian</B> Airlines"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Azul_Brazilian_Airlines"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Airlines_established_in_2008",
+        "http://dbpedia.org/resource/Category:Airlines_of_Brazil",
+        "http://dbpedia.org/resource/Category:Azul_Brazilian_Airlines",
+        "http://dbpedia.org/resource/Category:Brazilian_brands",
+        "http://dbpedia.org/resource/Category:HNA_Group",
+        "http://dbpedia.org/resource/Category:Low-cost_carriers",
+        "http://dbpedia.org/resource/Category:Private_equity_portfolio_companies"
+      ]
+    },
+    {
+      "score": [
+        "1522.154"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indigenous_peoples_in_Brazil"
+      ],
+      "redirectlabel": [
+        "Amazonian indian",
+        "Amazonian tribes",
+        "<B>Brazilian</B> Indian",
+        "<B>Brazilian</B> Indians",
+        "<B>Brazilian</B> indians",
+        "<B>Brazilian</B> indigenous group",
+        "<B>Brazilian</B> indigenous people",
+        "<B>Brazilian</B> indigenous peoples",
+        "<B>Brazilian</B> natives",
+        "Genetic studies on indigenous <B>Brazilians</B>",
+        "Genetic studies on indigenous peoples in Brazil",
+        "History of the indigenous peoples of Brazil",
+        "Indigenous <B>Brazilian</B>",
+        "Indigenous <B>Brazilians</B>",
+        "Indigenous People in Brazil",
+        "Indigenous people in Brazil",
+        "Indigenous people of Brazil",
+        "Indigenous peoples of Brazil",
+        "Native <B>Brazilian</B>",
+        "Native <B>Brazilians</B>",
+        "Native peoples of Brazil",
+        "Povos Indígenas no Brasil",
+        "Rainforest indians",
+        "Rainsforest indians",
+        "The Indigenous peoples in Brazil"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Indigenous peoples in Brazil (Portuguese: povos indígenas no Brasil) or Indigenous <B>Brazilians</B>"
+      ],
+      "label": [
+        "Indigenous peoples in Brazil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indigenous_peoples_in_Brazil"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Brazil",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_in_Brazil",
+        "http://dbpedia.org/resource/Category:Indigenous_peoples_of_South_America",
+        "http://dbpedia.org/resource/Category:Race_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1517.9261"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2022_Brazilian_general_election"
+      ],
+      "redirectlabel": [
+        "2022 <B>Brazilian</B> election",
+        "2022 <B>Brazilian</B> presidential election",
+        "2022 <B>Brazillian</B> general elections",
+        "<B>Brazilian</B> presidential election, 2022",
+        "Kunã Yporã Tremembé",
+        "Next <B>Brazilian</B> general election"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections are scheduled to be held in Brazil on 2 October 2022 to elect the President, Vice President and the National Congress. Elections for state Governors and Vice Governors, state Legislative Assemblies and the Federal District Legislative Chamber will be held at the same time."
+      ],
+      "label": [
+        "2022 <B>Brazilian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2022_Brazilian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2022_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:General_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:October_2022_events_in_South_America",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1507.0332"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_aircraft_carrier_São_Paulo"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> aircraft carrier Sao Paulo",
+        "<B>Brazilian</B> aircraft carrier Sao Paulo (A12)",
+        "<B>Brazilian</B> aircraft carrier São Paulo (A-12)",
+        "<B>Brazilian</B> aircraft carrier São Paulo (A12)",
+        "NAeL Sao Paulo",
+        "NAeL São Paulo",
+        "NAe Sao Paulo",
+        "NAe São Paulo",
+        "Sao Paulo A-12"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        " <B>Brazilian</B> Navy. São Paulo was first commissioned in 1963 by the French Navy as Foch and was transferred"
+      ],
+      "label": [
+        "<B>Brazilian</B> aircraft carrier São Paulo"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_aircraft_carrier_São_Paulo"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1959_ships",
+        "http://dbpedia.org/resource/Category:Aircraft_carriers_of_Brazil",
+        "http://dbpedia.org/resource/Category:Brazil–France_relations",
+        "http://dbpedia.org/resource/Category:Clemenceau-class_aircraft_carriers_of_the_Brazilian_Navy",
+        "http://dbpedia.org/resource/Category:Ships_built_in_France"
+      ]
+    },
+    {
+      "score": [
+        "1501.3438"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_coastal_defense_ship_Deodoro"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> battleship Deodoro",
+        "<B>Brazilian</B> battleship Marechal Deodoro",
+        "<B>Brazilian</B> coast-defense ship Marshal Deodoro",
+        "<B>Brazilian</B> coastal-defense ship Marshal Deodoro",
+        "<B>Brazilian</B> coastal defense ship Marshal Deodoro",
+        "Deodoro (ship)",
+        "Mexican cruiser Anáhuac"
+      ],
+      "typeName": [
+        "Ship",
+        "MeanOfTransportation"
+      ],
+      "comment": [
+        "Deodoro, also known as Marshal Deodoro, was a coastal defense ship built for the <B>Brazilian</B> Navy at"
+      ],
+      "label": [
+        "<B>Brazilian</B> coastal defense ship Deodoro"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_coastal_defense_ship_Deodoro"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Ship",
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1898_ships",
+        "http://dbpedia.org/resource/Category:Cruisers_of_Mexico",
+        "http://dbpedia.org/resource/Category:Marshal_Deodoro-class_coastal_defense_ship",
+        "http://dbpedia.org/resource/Category:Naval_ships_of_Mexico",
+        "http://dbpedia.org/resource/Category:Ships_built_in_France",
+        "http://dbpedia.org/resource/Category:Ships_of_the_Brazilian_Navy"
+      ]
+    },
+    {
+      "score": [
+        "1499.0387"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Polish_Brazilians"
+      ],
+      "redirectlabel": [
+        "Polish-<B>Brazilian</B>",
+        "Polish-<B>Brazilians</B>",
+        "Polish <B>Brazilian</B>",
+        "Polish minority in Brazil"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " Polish-born people permanently residing in Brazil. Also, a Polish <B>Brazilian</B> may have one Polish"
+      ],
+      "label": [
+        "Polish <B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Polish_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Polish_descent",
+        "http://dbpedia.org/resource/Category:European_Brazilian",
+        "http://dbpedia.org/resource/Category:Polish_diaspora_in_South_America",
+        "http://dbpedia.org/resource/Category:Polish_minorities"
+      ]
+    },
+    {
+      "score": [
+        "1496.9911"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Multishow_Brazilian_Music_Award"
+      ],
+      "redirectlabel": [
+        "2017 Multishow <B>Brazilian</B> Music Award",
+        "2018 Multishow <B>Brazilian</B> Music Award",
+        "2019 Multishow <B>Brazilian</B> Music Award",
+        "2020 Multishow <B>Brazilian</B> Music Award",
+        "Multishow Award"
+      ],
+      "typeName": [
+        "Award"
+      ],
+      "comment": [
+        "The Multishow <B>Brazilian</B> Music Award (in Portuguese: Prêmio Multishow de Música Brasileira) is an"
+      ],
+      "label": [
+        "Multishow <B>Brazilian</B> Music Award"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Multishow_Brazilian_Music_Award"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Award"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1994_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Annual_television_shows",
+        "http://dbpedia.org/resource/Category:Awards_established_in_1994",
+        "http://dbpedia.org/resource/Category:Recurring_events_established_in_1994",
+        "http://dbpedia.org/resource/Category:South_American_music_awards",
+        "http://dbpedia.org/resource/Category:Television_in_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1494.4668"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_cruzeiro"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> cruzeiro (disambiguation)",
+        "Cruzeiro (currency)",
+        "Cruzeiro (monetary unit)"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " reference to identify the south and is a common cultural icon in <B>Brazilian</B> history."
+      ],
+      "label": [
+        "<B>Brazilian</B> cruzeiro"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_cruzeiro"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1942_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:1986_disestablishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:1990_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:1993_disestablishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:20th_century_in_Brazil",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Historical_currencies_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1490.4111"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_jiu-jitsu_gi"
+      ],
+      "redirectlabel": [
+        "BJJ Gi",
+        "BJJ gi",
+        "<B>Brazilian</B> Jiu-Jitsu gi",
+        "<B>Brazilian</B> Jiu-jitsu gi",
+        "<B>Brazilian</B> Jiu Jitsu gi"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> jiu-jitsu gi is a uniform for training in <B>Brazilian</B> jiu-jitsu, adapted from the"
+      ],
+      "label": [
+        "<B>Brazilian</B> jiu-jitsu gi"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_jiu-jitsu_gi"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_jiu-jitsu",
+        "http://dbpedia.org/resource/Category:Keikogi",
+        "http://dbpedia.org/resource/Category:Martial_arts_uniforms",
+        "http://dbpedia.org/resource/Category:Sportswear"
+      ]
+    },
+    {
+      "score": [
+        "1480.8923"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_art"
+      ],
+      "redirectlabel": [
+        "Art in Brazil",
+        "Art of Brazil",
+        "Arts in Brazil",
+        "Indigenous <B>Brazilian</B> art",
+        "Pre-Columbian <B>Brazilian</B> art",
+        "Visual art of Brazil"
+      ],
+      "comment": [
+        " area was colonized by Portugal in the 16th century and given the modern name of Brazil. <B>Brazilian</B> art"
+      ],
+      "label": [
+        "<B>Brazilian</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Art_by_country",
+        "http://dbpedia.org/resource/Category:Brazilian_art"
+      ]
+    },
+    {
+      "score": [
+        "1475.5437"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Amaral's_Brazilian_gecko"
+      ],
+      "redirectlabel": [
+        "Amaral's <B>Brazilian</B> Gecko",
+        "Amaral's <B>brazilian</B> gecko",
+        "Briba",
+        "Briba <B>brasiliana</B>",
+        "Hemidactylus brasilianus"
+      ],
+      "comment": [
+        "Amaral's <B>Brazilian</B> gecko (Hemidactylus brasilianus) is a species of nocturnal geckos from the arid"
+      ],
+      "label": [
+        "Amaral's <B>Brazilian</B> gecko"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Amaral's_Brazilian_gecko"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hemidactylus",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1935",
+        "http://dbpedia.org/resource/Category:Reptiles_of_Brazil"
+      ]
+    },
+    {
+      "score": [
+        "1460.4534"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_guinea_pig"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Guinea Pig",
+        "<B>Brazilian</B> cavy",
+        "Cavia aperea",
+        "Prea",
+        "Preá"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> guinea pig (Cavia aperea) (preá in Portuguese) is a guinea pig species found in"
+      ],
+      "label": [
+        "<B>Brazilian</B> guinea pig"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_guinea_pig"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fauna_of_the_Cerrado",
+        "http://dbpedia.org/resource/Category:Guinea_pigs",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1777",
+        "http://dbpedia.org/resource/Category:Mammals_of_Argentina",
+        "http://dbpedia.org/resource/Category:Mammals_of_Brazil",
+        "http://dbpedia.org/resource/Category:Mammals_of_Colombia",
+        "http://dbpedia.org/resource/Category:Mammals_of_Paraguay",
+        "http://dbpedia.org/resource/Category:Mammals_of_Uruguay",
+        "http://dbpedia.org/resource/Category:Mammals_of_Venezuela",
+        "http://dbpedia.org/resource/Category:Rodents_of_South_America",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Johann_Christian_Polycarp_Erxleben"
+      ]
+    },
+    {
+      "score": [
+        "1459.1777"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> (disambiguation)",
+        "<B>Brazillian</B>"
+      ],
+      "label": [
+        "<B>Brazilian</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Language_and_nationality_disambiguation_pages"
+      ]
+    },
+    {
+      "score": [
+        "1454.7512"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Scandinavian_Brazilians"
+      ],
+      "redirectlabel": [
+        "Danish <B>Brazilian</B>",
+        "Danish <B>Brazilians</B>",
+        "History of Scandinavian <B>Brazilians</B>",
+        "Scandinavian <B>Brazilian</B>",
+        "Swedish <B>Brazilian</B>",
+        "Swedish <B>Brazilians</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Scandinavian <B>Brazilians</B> (Portuguese: escandinavo-brasileiro) refers to <B>Brazilians</B> of full or"
+      ],
+      "label": [
+        "Scandinavian <B>Brazilians</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Scandinavian_Brazilians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_people_of_Scandinavian_descent",
+        "http://dbpedia.org/resource/Category:European_Brazilian",
+        "http://dbpedia.org/resource/Category:Norwegian_diaspora",
+        "http://dbpedia.org/resource/Category:Scandinavian_diaspora",
+        "http://dbpedia.org/resource/Category:Swedish_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "1452.5414"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Labour_Party_(historical)"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Labor Party (historical)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Labour Party (Portuguese: Partido Trabalhista Brasileiro, PTB) was a centre-left"
+      ],
+      "label": [
+        "<B>Brazilian</B> Labour Party (historical)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Labour_Party_(historical)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1945_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:1964_disestablishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Banned_socialist_parties",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Labour_parties",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1965",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1945",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Brazil",
+        "http://dbpedia.org/resource/Category:Vargas_Era"
+      ]
+    },
+    {
+      "score": [
+        "1452.1277"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_gold_frog"
+      ],
+      "redirectlabel": [
+        "Brachycephalus didactylus",
+        "Brachydactylus didactylus",
+        "<B>Brazilian</B> Gold Frog",
+        "Gold Frog",
+        "Gold frog",
+        "Gold frogs",
+        "Izecksohn's Toad",
+        "Izecksohn's toads",
+        "Izecksohn’s Toad",
+        "Psyllophryne didactyla"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> gold frog (Brachycephalus didactylus), also known as Izecksohn's toad or flea-frog"
+      ],
+      "label": [
+        "<B>Brazilian</B> gold frog"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_gold_frog"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Amphibians_described_in_1971",
+        "http://dbpedia.org/resource/Category:Amphibians_of_Brazil",
+        "http://dbpedia.org/resource/Category:Brachycephalus",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Brazil",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Eugênio_Izecksohn"
+      ]
+    },
+    {
+      "score": [
+        "1450.4164"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_whiteknee_tarantula"
+      ],
+      "redirectlabel": [
+        "Acanthoscurria geniculata",
+        "<B>Brazilian</B> giant white knee",
+        "<B>Brazilian</B> giant white knee tarantula",
+        "Giant white knee tarantula",
+        "Giant whiteknee tarantula",
+        "Mygale geniculata",
+        "Scurria geniculata"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> whiteknee tarantula (Acanthoscurria geniculata) is a species of tarantula from Brazil that is commonly kept as a pet."
+      ],
+      "label": [
+        "<B>Brazilian</B> whiteknee tarantula"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_whiteknee_tarantula"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Spiders_of_Brazil",
+        "http://dbpedia.org/resource/Category:Theraphosidae"
+      ]
+    },
+    {
+      "score": [
+        "1447.55"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_laniisoma"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> Laniisoma",
+        "Elegant Mourner",
+        "Elegant mourner",
+        "Laniisoma elegans",
+        "Shrike-like Cotinga",
+        "Shrike-like Laniisoma",
+        "Shrike-like cotinga",
+        "Shrike-like laniisoma"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> laniisoma (Laniisoma elegans), also known as the shrike-like laniisoma, the shrike"
+      ],
+      "label": [
+        "<B>Brazilian</B> laniisoma"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_laniisoma"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1823",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Atlantic_Forest",
+        "http://dbpedia.org/resource/Category:Endemic_birds_of_Brazil",
+        "http://dbpedia.org/resource/Category:Laniisoma",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1441.6917"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Brazilian_federative_units_by_gross_regional_product"
+      ],
+      "redirectlabel": [
+        "List of <B>Brazilian</B> States by Per Capita Income",
+        "List of <B>Brazilian</B> federative units by gross domestic product",
+        "List of <B>Brazilian</B> states by GDP",
+        "List of <B>Brazilian</B> states by GDP participation",
+        "List of <B>Brazilian</B> states by GDP per capita",
+        "List of <B>Brazilian</B> states by Gross Domestic Product",
+        "List of <B>Brazilian</B> states by gross domestic product",
+        "List of <B>Brazilian</B> subdivisions by GDP",
+        "List of the states of Brazil by GDP",
+        "List of the states of Brazil by GDP participation",
+        "List of the states of Brazil by GDP per capita"
+      ],
+      "comment": [
+        " (PPP) terms, ranking 7th worldwide, according to the <B>Brazilian</B> Institute of Geography and Statistics"
+      ],
+      "label": [
+        "List of <B>Brazilian</B> federative units by gross regional product"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Brazilian_federative_units_by_gross_regional_product"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazil_economy-related_lists",
+        "http://dbpedia.org/resource/Category:Gross_state_product",
+        "http://dbpedia.org/resource/Category:Lists_of_states_of_Brazil",
+        "http://dbpedia.org/resource/Category:Ranked_lists_of_country_subdivisions"
+      ]
+    },
+    {
+      "score": [
+        "1436.1888"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2002_Brazilian_general_election"
+      ],
+      "redirectlabel": [
+        "2002 <B>Brazilian</B> presidential election",
+        "<B>Brazilian</B> general election, 2002",
+        "<B>Brazilian</B> general elections, 2002",
+        "<B>Brazilian</B> general elections (2002)",
+        "<B>Brazilian</B> presidential election, 2002"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in Brazil on 6 October 2002, with a second round on 27 October. After three previous attempts, Workers' Party leader Luiz Inácio Lula da Silva secured a landslide triumph in a presidential election. Nevertheless, he did not manage to obtain the majority of valid votes in the first round; this led the presidential election to a second round, which Lula won with 52.7 million votes (61.3% of the total), becoming at the time the second most voted-for president in the world after Ronald Reagan in the 1984 United States presidential election."
+      ],
+      "label": [
+        "2002 <B>Brazilian</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2002_Brazilian_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:2002_elections_in_South_America",
+        "http://dbpedia.org/resource/Category:General_elections_in_Brazil",
+        "http://dbpedia.org/resource/Category:October_2002_events_in_South_America"
+      ]
+    },
+    {
+      "score": [
+        "1413.9857"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Novo_Basquete_Brasil_awards"
+      ],
+      "redirectlabel": [
+        "All-<B>Brazilian</B> Basketball League Team",
+        "All-NBB Team",
+        "<B>Brazilian</B> Basketball League 6th Man of the Year",
+        "<B>Brazilian</B> Basketball League Best Foreign Player",
+        "<B>Brazilian</B> Basketball League Coach of the Year",
+        "<B>Brazilian</B> Basketball League Defender of the Year",
+        "<B>Brazilian</B> Basketball League Fan's Player of the Year",
+        "<B>Brazilian</B> Basketball League Finals MVP",
+        "<B>Brazilian</B> Basketball League Finals Most Valuable Player",
+        "<B>Brazilian</B> Basketball League MVP",
+        "<B>Brazilian</B> Basketball League Most Improved Player",
+        "<B>Brazilian</B> Basketball League Most Valuable Player",
+        "<B>Brazilian</B> Basketball League Revelation Player",
+        "<B>Brazilian</B> Basketball League Revelation of the Year",
+        "<B>Brazilian</B> Basketball League Sixth Man of the Year",
+        "NBB \"Craque da Galera\"",
+        "NBB \"Craque da Galera\" (Fan's Player of the Year)",
+        "NBB 6th Man of the Year",
+        "NBB All Team",
+        "NBB Best Defender",
+        "NBB Best Foreign Player",
+        "NBB Best Sixth Player",
+        "NBB Coach of the Year",
+        "NBB Craque da Galera",
+        "NBB Defender of the Year",
+        "NBB Fan's Player of the Year",
+        "NBB Finals MVP",
+        "NBB Finals MVP Award",
+        "NBB MVP",
+        "NBB MVP Award",
+        "NBB Most Improved Player",
+        "NBB Most Valuable Player",
+        "NBB Revelation Player",
+        "NBB Sixth Man of the Year",
+        "NBB Sixth Man of the year",
+        "New Basket Brazil Awards",
+        "New Basket Brazil awards",
+        "New Basketball Brazil Awards",
+        "New Basketball Brazil awards",
+        "Novo Basquete Brasil Awards"
+      ],
+      "comment": [
+        "The Novo Basquete Brasil awards (English: New Basketball Brazil awards) are the yearly individual awards that are given by Brazil's top-tier level men's professional club basketball league, the Novo Basquete Brasil (NBB) (New Basketball Brazil)."
+      ],
+      "label": [
+        "Novo Basquete Brasil awards"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Novo_Basquete_Brasil_awards"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_trophies_and_awards",
+        "http://dbpedia.org/resource/Category:Novo_Basquete_Brasil"
+      ]
+    },
+    {
+      "score": [
+        "1413.4822"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_Football_Confederation"
+      ],
+      "redirectlabel": [
+        "Brazil Football Confederation",
+        "Cbf.com.br",
+        "Confederacao Brasileira de Futebol",
+        "Confederation of <B>Brazilian</B> Football",
+        "Confederação Brasileira de Futebol",
+        "Confederação Brasileira de Fútebol",
+        "The <B>Brazilian</B> Football Confederation"
+      ],
+      "comment": [
+        "The <B>Brazilian</B> Football Confederation (Portuguese: Confederação Brasileira de Futebol; CBF) is the"
+      ],
+      "label": [
+        "<B>Brazilian</B> Football Confederation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_Football_Confederation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1914_establishments_in_Brazil",
+        "http://dbpedia.org/resource/Category:Brazilian_Football_Confederation",
+        "http://dbpedia.org/resource/Category:Football_governing_bodies_in_Brazil",
+        "http://dbpedia.org/resource/Category:National_members_of_CONMEBOL",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Brazil",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1914"
+      ]
+    },
+    {
+      "score": [
+        "1411.6971"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Brazilian_ship_Bahia"
+      ],
+      "redirectlabel": [
+        "Bahia (S-12)",
+        "Bahia (S12)",
+        "<B>Brazilian</B> submarine Bahia",
+        "<B>Brazilian</B> submarine Bahia (S-12)",
+        "<B>Brazilian</B> submarine Bahia (S12)"
+      ],
+      "label": [
+        "<B>Brazilian</B> ship Bahia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Brazilian_ship_Bahia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_Navy_ship_names"
+      ]
+    },
+    {
+      "score": [
+        "1409.5662"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/International_Brazilian_Jiu-Jitsu_Federation"
+      ],
+      "redirectlabel": [
+        "CBJJ",
+        "Confederacao Brasileira de Jiu-Jitsu",
+        "Confederacao Brasileira de Jiu-jitsu",
+        "Confederação Brasileira de Jiu-Jitsu",
+        "Confederação Brasileira de Jiu-jitsu",
+        "Florida Federation of <B>Brazilian</B> Jiu-Jitsu",
+        "IBJJF",
+        "International <B>Brazilian</B> jiu-jitsu Federation",
+        "International Federation of <B>Brazilian</B> Jiu-Jitsu"
+      ],
+      "typeName": [
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        "The International <B>Brazilian</B> Jiu-Jitsu Federation (IBJJF) is a for-profit company that hosts several"
+      ],
+      "label": [
+        "International <B>Brazilian</B> Jiu-Jitsu Federation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/International_Brazilian_Jiu-Jitsu_Federation"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Brazilian_jiu-jitsu_organizations",
+        "http://dbpedia.org/resource/Category:International_Brazilian_Jiu-Jitsu_Federation",
+        "http://dbpedia.org/resource/Category:International_sports_organizations",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_2002"
+      ]
+    },
+    {
+      "score": [
+        "1405.5735"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Brazilian_films_before_1920"
+      ],
+      "redirectlabel": [
+        "<B>Brazilian</B> films: 1908-1919",
+        "<B>Brazilian</B> films: 1908 - 1919",
+        "<B>Brazilian</B> films: 1908 – 1919",
+        "<B>Brazilian</B> films: 1908–1919",
+        "List of <B>Brazilian</B> films: Pre 1920",
+        "List of <B>Brazilian</B> films: Pre 1930"
+      ],
+      "comment": [
+        "An incomplete list of the earliest films produced in Brazil between 1908 and 1919. For an A-Z list of films currently on Wikipedia, see Category:Brazilian films"
+      ],
+      "label": [
+        "List of <B>Brazilian</B> films before 1920"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Brazilian_films_before_1920"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1900s_in_Brazil",
+        "http://dbpedia.org/resource/Category:1910s_in_Brazil",
+        "http://dbpedia.org/resource/Category:Lists_of_1900s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_1910s_films",
+        "http://dbpedia.org/resource/Category:Lists_of_Brazilian_films_by_decade"
+      ]
+    }
+  ]
+}

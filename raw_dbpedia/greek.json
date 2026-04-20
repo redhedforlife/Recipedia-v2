@@ -1,0 +1,5415 @@
+{
+  "docs": [
+    {
+      "score": [
+        "30391.61"
+      ],
+      "refCount": [
+        "3520"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Revival_architecture"
+      ],
+      "redirectlabel": [
+        "Doric Revival",
+        "<B>Greek</B>-revival",
+        "<B>Greek</B> Revival",
+        "<B>Greek</B> Revival Style",
+        "<B>Greek</B> Revival Style architecture",
+        "<B>Greek</B> Revival style",
+        "<B>Greek</B> revival",
+        "<B>Greek</B> revival architecture",
+        "Southern <B>Greek</B> Revival style architecture"
+      ],
+      "comment": [
+        "The <B>Greek</B> Revival was an architectural movement of the late 18th and early 19th centuries"
+      ],
+      "label": [
+        "<B>Greek</B> Revival architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Revival_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1840s_neologisms",
+        "http://dbpedia.org/resource/Category:Architectural_styles",
+        "http://dbpedia.org/resource/Category:Greek_Revival_architecture",
+        "http://dbpedia.org/resource/Category:House_styles",
+        "http://dbpedia.org/resource/Category:Neoclassical_architecture",
+        "http://dbpedia.org/resource/Category:Neoclassical_movements",
+        "http://dbpedia.org/resource/Category:Revival_architectural_styles"
+      ]
+    },
+    {
+      "score": [
+        "15258.526"
+      ],
+      "refCount": [
+        "791"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_mythology"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greece</B> Mythology",
+        "Ancient <B>Greek</B> Mythology",
+        "Ancient <B>Greek</B> myth",
+        "Ancient <B>Greek</B> mythology",
+        "Ancient <B>greek</B> deities",
+        "Archaeology and <B>Greek</B> mythology",
+        "Early <B>Greek</B> Beliefs",
+        "<B>GreekMythology</B>",
+        "<B>Greek</B> Early Beliefs",
+        "<B>Greek</B> Goddess",
+        "<B>Greek</B> Gods and Goddesses of <B>Greek</B> mythology",
+        "<B>Greek</B> Myth",
+        "<B>Greek</B> Mythology",
+        "<B>Greek</B> Mythology heroes",
+        "<B>Greek</B> Pantheon",
+        "<B>Greek</B> god goddess",
+        "<B>Greek</B> goddess",
+        "<B>Greek</B> legend",
+        "<B>Greek</B> legends",
+        "<B>Greek</B> myth",
+        "<B>Greek</B> mythologgy",
+        "<B>Greek</B> mythological",
+        "<B>Greek</B> mythological tradition",
+        "<B>Greek</B> mythology gods",
+        "<B>Greek</B> mythology history",
+        "<B>Greek</B> mythos",
+        "<B>Greek</B> myths",
+        "<B>Greek</B> myths and legends",
+        "<B>Greek</B> pantheon",
+        "Homeric gods",
+        "Legends from <B>greece</B>",
+        "Mythology of Cyprus",
+        "Mythology of <B>Greece</B>",
+        "Mythology of ancient <B>Greece</B>",
+        "Nikostratos <B>Greco</B>-Roman Warrior",
+        "Olympic god",
+        "Story of <B>Greek</B> Mythology",
+        "The <B>greek</B> pantheon",
+        "The stories of the <B>Greek</B> religion",
+        "Ελληνική μυθολογία"
+      ],
+      "comment": [
+        "<B>Greek</B> mythology is the body of myths originally told by the ancient <B>Greeks</B> and a genre of Ancient"
+      ],
+      "label": [
+        "<B>Greek</B> mythology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_mythology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_mythology"
+      ]
+    },
+    {
+      "score": [
+        "12633.806"
+      ],
+      "refCount": [
+        "607"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_language"
+      ],
+      "redirectlabel": [
+        "Ehhnvika",
+        "Elenika",
+        "Ellenika",
+        "Ellinika",
+        "Elliniki Glossa",
+        "Elliniki glossa",
+        "Ellnvika",
+        "Grecized",
+        "Grecophone",
+        "Grecophonie",
+        "Grecosphere",
+        "<B>Greece</B> language",
+        "<B>Greek</B>, Modern language",
+        "<B>Greek</B>-language",
+        "<B>Greek</B> (language)",
+        "<B>Greek</B> Language",
+        "<B>Greek</B> etymology",
+        "<B>Greek</B> tattos",
+        "<B>Greeklanguage</B>",
+        "Hellenic language",
+        "Latin <B>Greek</B>",
+        "Rumca",
+        "Ελληνικά"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Greek</B> (Modern <B>Greek</B>: ελληνικά, elliniká) is an independent branch of the Indo-European family of"
+      ],
+      "label": [
+        "<B>Greek</B> language"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_language"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fusional_languages",
+        "http://dbpedia.org/resource/Category:Graeco-Phrygian",
+        "http://dbpedia.org/resource/Category:Greek_alphabet",
+        "http://dbpedia.org/resource/Category:Greek_language",
+        "http://dbpedia.org/resource/Category:Languages_of_Albania",
+        "http://dbpedia.org/resource/Category:Languages_of_Apulia",
+        "http://dbpedia.org/resource/Category:Languages_of_Armenia",
+        "http://dbpedia.org/resource/Category:Languages_of_Calabria",
+        "http://dbpedia.org/resource/Category:Languages_of_Cyprus",
+        "http://dbpedia.org/resource/Category:Languages_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Languages_of_Greece",
+        "http://dbpedia.org/resource/Category:Languages_of_Hungary",
+        "http://dbpedia.org/resource/Category:Languages_of_Romania",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey",
+        "http://dbpedia.org/resource/Category:Languages_of_Ukraine",
+        "http://dbpedia.org/resource/Category:Languages_with_own_distinct_writing_systems",
+        "http://dbpedia.org/resource/Category:Subject–verb–object_languages"
+      ]
+    },
+    {
+      "score": [
+        "12319.403"
+      ],
+      "refCount": [
+        "8121"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece"
+      ],
+      "redirectlabel": [
+        "Eladha",
+        "Ellada",
+        "Elliniki Dimokratia",
+        "Elliniki Dimokratía",
+        "Elláda",
+        "Ellīnikī́ Dīmokratía",
+        "Eládha",
+        "Elás",
+        "Graecia",
+        "Grcija",
+        "Grcka",
+        "Grease (country)",
+        "Grecce",
+        "<B>Grece</B>",
+        "Greeece",
+        "<B>Greek</B> Republic",
+        "<B>Greek</B> law (Hellenic Republic)",
+        "<B>Greek</B> state",
+        "Grèce",
+        "Hellada",
+        "Hellenic Republic",
+        "Hellenic republic",
+        "Helláda",
+        "ISO 3166-1:GR",
+        "Law of <B>Greece</B>",
+        "Political history of <B>Greece</B>",
+        "Republic of <B>Greece</B>",
+        "Republique hellenique",
+        "République hellénique",
+        "Science and technology in <B>Greece</B>",
+        "Science in <B>Greece</B>",
+        "Social issues in <B>Greece</B>",
+        "The Hellenic Republic",
+        "Yananistan",
+        "Yunanistan",
+        "Ελλάδα",
+        "Ελλάς",
+        "Ελλαδα",
+        "Ελλας",
+        "Ελληνική Δημοκρατία"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Greece</B> (<B>Greek</B>: Ελλάδα), officially the Hellenic Republic (<B>Greek</B>: Ελληνική Δημοκρατία), historically"
+      ],
+      "label": [
+        "<B>Greece</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1821_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Balkan_countries",
+        "http://dbpedia.org/resource/Category:Christian_states",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Greece",
+        "http://dbpedia.org/resource/Category:Greek-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_internationale_de_la_Francophonie",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:New_Testament_places",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Southeastern_European_countries",
+        "http://dbpedia.org/resource/Category:Southern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1821",
+        "http://dbpedia.org/resource/Category:Transcontinental_countries"
+      ]
+    },
+    {
+      "score": [
+        "8369.098"
+      ],
+      "refCount": [
+        "475"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Basket_League"
+      ],
+      "redirectlabel": [
+        "A1 Basket",
+        "A1 ESAKE",
+        "A1 Ethniki",
+        "AE Chalkida",
+        "AE Emporoypallilon",
+        "AO Neochori Rodos",
+        "Aetos Thessaloniki",
+        "Basket League OPAP",
+        "Diagoras Rhodes",
+        "Dimokritos Thessaloniki",
+        "ESAKE A1",
+        "ESAKE A1 Ethniki",
+        "GS Faros Larissa",
+        "<B>Greek</B> A1 Basketball League",
+        "<B>Greek</B> Basket Championship",
+        "<B>Greek</B> Basket League OPAP",
+        "<B>Greek</B> Basketball Championship",
+        "<B>Greek</B> Basketball League",
+        "<B>Greek</B> Basketball Premier Division",
+        "HAN Athens",
+        "HAN Kokkinia",
+        "HAN Nikaia",
+        "HEBA A1",
+        "HEBA A1 Championship",
+        "HEBA A1 Ethniki",
+        "HEBA A1 National",
+        "HEBA <B>Greece</B>",
+        "Keravnos Cairo",
+        "Neoi Vironas",
+        "OPAP Basket League",
+        "Olympiacos Addis Ababa",
+        "PO Patras",
+        "Panhellenic Basketball Championship",
+        "Pierikos Katerini",
+        "Skagiopouleio Patras",
+        "Thyella Serres",
+        "Triton Athens",
+        "Triton Chalkida",
+        "Triton Maroussi",
+        "ΕΣΑΚΕ Α1"
+      ],
+      "comment": [
+        " basketball league in <B>Greece</B>. It is run by HEBA (<B>Greek</B>: ΕΣΑΚΕ), under the legal authority of the Hellenic"
+      ],
+      "label": [
+        "<B>Greek</B> Basket League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Basket_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_Basket_League",
+        "http://dbpedia.org/resource/Category:National_championships_in_Greece",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1927"
+      ]
+    },
+    {
+      "score": [
+        "8131.1914"
+      ],
+      "refCount": [
+        "276"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Basketball_Cup"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Basket Cup",
+        "<B>Greek</B> Basketball Cups",
+        "<B>Greek</B> basketball Cup",
+        "Hellenic Basketball Cup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Greek</B> Basketball Cup or Hellenic Basketball Cup (<B>Greek</B>: Κύπελλο Ελλάδος καλαθοσφαίρισης ανδρών"
+      ],
+      "label": [
+        "<B>Greek</B> Basketball Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Basketball_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_Basketball_Cup"
+      ]
+    },
+    {
+      "score": [
+        "7941.2505"
+      ],
+      "refCount": [
+        "1841"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cyprus"
+      ],
+      "redirectlabel": [
+        "Architecture of Cyprus",
+        "Art history of Cyprus",
+        "CYPRUS",
+        "Ciprus",
+        "Country CYP",
+        "Culture of Cyprus",
+        "Cypriot Republic",
+        "Cypriot art",
+        "Cypriot culture",
+        "Cyprus (Republic of)",
+        "Cyprus <B>Greek</B> Administration",
+        "Cyprus goods",
+        "Cyrpus",
+        "Etymology of Cyprus",
+        "GCASC",
+        "<B>Greek</B> Cypriot Administration of Southern Cyprus",
+        "<B>Greek</B> Cyprus",
+        "<B>Greek</B> Republic of Cyprus",
+        "ISO 3166-1:CY",
+        "Kibris",
+        "Kypros",
+        "Kıbrıs",
+        "Kıbrıs Cumhuriyeti",
+        "Name of Cyprus",
+        "Republic of Cyprus",
+        "South Cyprus",
+        "South Cyprus (<B>Greek</B> Cyprus)",
+        "South Cyprus <B>Greek</B> Administration",
+        "Southern Cyprus",
+        "Southern and Northern Cyprus",
+        "The Cypriot Republic",
+        "Κυπριακή Δημοκρατία",
+        "Κύπρος"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "Cyprus ( (); <B>Greek</B>: Κύπρος [ˈcipros]; Turkish: Kıbrıs [ˈkɯbɾɯs]), officially the Republic of Cyprus"
+      ],
+      "label": [
+        "Cyprus"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cyprus"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:Countries_of_Europe_with_multiple_official_languages",
+        "http://dbpedia.org/resource/Category:Cyprus",
+        "http://dbpedia.org/resource/Category:Eastern_Mediterranean",
+        "http://dbpedia.org/resource/Category:Greek-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:International_islands",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Islands_of_Asia",
+        "http://dbpedia.org/resource/Category:Islands_of_Europe",
+        "http://dbpedia.org/resource/Category:Mediterranean_islands",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_European_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Near_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Republics_in_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Southeastern_European_countries",
+        "http://dbpedia.org/resource/Category:Southern_European_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1960",
+        "http://dbpedia.org/resource/Category:Turkish-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "6193.128"
+      ],
+      "refCount": [
+        "4971"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Lawyer"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> lawyers",
+        "Ancient Roman lawyers",
+        "Counselor at law",
+        "Defence attorney",
+        "Defense attourney",
+        "Lawyeress",
+        "Lawyers",
+        "Laywer",
+        "Legal Profession",
+        "Legal Professions",
+        "Legal counsel",
+        "Legal practitioner",
+        "Legal practitioners",
+        "Legal professions",
+        "Professional attorneys association",
+        "Prosecuting attourney",
+        "Prosecution lawyer",
+        "Trial Lawyer",
+        "Trial attorney",
+        "Trial lawyer",
+        "Trial lawyers"
+      ],
+      "comment": [
+        "A lawyer or attorney is a person who practices law, as an advocate, attorney, attorney at law, barrister, barrister-at-law, bar-at-law, canonist, canon lawyer, civil law notary, counsel, counselor, counsellor, solicitor, legal executive, or public servant preparing, interpreting and applying law, but not as a paralegal or charter executive secretary. Working as a lawyer involves the practical application of abstract legal theories and knowledge to solve specific individualized problems, or to advance the interests of those who hire lawyers to perform legal services. The role of the lawyer varies greatly across different legal jurisdictions."
+      ],
+      "label": [
+        "Lawyer"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Lawyer"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_enforcement",
+        "http://dbpedia.org/resource/Category:Lawyers",
+        "http://dbpedia.org/resource/Category:Legal_ethics",
+        "http://dbpedia.org/resource/Category:Legal_professions",
+        "http://dbpedia.org/resource/Category:Positions_of_authority"
+      ]
+    },
+    {
+      "score": [
+        "5607.326"
+      ],
+      "refCount": [
+        "138"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_War_of_Independence"
+      ],
+      "redirectlabel": [
+        "1821 Revolution",
+        "1821 revolution",
+        "Agonas (war)",
+        "Elliniki Epanastasi",
+        "<B>Greek</B> Independence",
+        "<B>Greek</B> Liberation War",
+        "<B>Greek</B> Rebellion",
+        "<B>Greek</B> Revolt",
+        "<B>Greek</B> Revolution",
+        "<B>Greek</B> Revolution of 1821",
+        "<B>Greek</B> Uprising",
+        "<B>Greek</B> War for Independence",
+        "<B>Greek</B> independence",
+        "<B>Greek</B> insurrection",
+        "<B>Greek</B> revolution",
+        "<B>Greek</B> war of independence",
+        "Hellenic Revolution",
+        "Independence of <B>Greece</B>",
+        "Revolutionary <B>Greece</B>",
+        "War of <B>Greek</B> Independence",
+        "War of the <B>Greek</B> Revolution",
+        "Wars of the <B>Greek</B> Revolution",
+        "Yunan İsyanı",
+        "Ελληνική Επανάσταση",
+        "يونان عصياني"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " by <B>Greek</B> revolutionaries against the Ottoman Empire between 1821 and 1830. The <B>Greeks</B> were later"
+      ],
+      "label": [
+        "<B>Greek</B> War of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_War_of_Independence"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1820s_conflicts",
+        "http://dbpedia.org/resource/Category:1820s_in_Greece",
+        "http://dbpedia.org/resource/Category:1820s_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:19th-century_rebellions",
+        "http://dbpedia.org/resource/Category:19th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Greek_War_of_Independence",
+        "http://dbpedia.org/resource/Category:Greek_culture",
+        "http://dbpedia.org/resource/Category:History_of_Ayvalık",
+        "http://dbpedia.org/resource/Category:Mahmud_II",
+        "http://dbpedia.org/resource/Category:March_observances",
+        "http://dbpedia.org/resource/Category:Society_of_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_France",
+        "http://dbpedia.org/resource/Category:Wars_involving_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_Russia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "5592.361"
+      ],
+      "refCount": [
+        "117"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Orthodox_Church"
+      ],
+      "redirectlabel": [
+        "Christian - <B>Greek</B> Orthodox",
+        "<B>Greek</B>-Orthodox",
+        "<B>Greek</B> Christianity",
+        "<B>Greek</B> Christians",
+        "<B>Greek</B> Eastern Orthodox Church",
+        "<B>Greek</B> Orthadox",
+        "<B>Greek</B> Orthodox",
+        "<B>Greek</B> Orthodox Christian",
+        "<B>Greek</B> Orthodox Christianity",
+        "<B>Greek</B> Orthodox Christians",
+        "<B>Greek</B> Orthodox Churches",
+        "<B>Greek</B> Orthodox church",
+        "<B>Greek</B> Orthodoxy",
+        "<B>Greek</B> church",
+        "<B>Greek</B> orthodox church",
+        "<B>Greek</B> orthodox churches",
+        "Hellenic Orthodox",
+        "Hellenic Orthodox Church",
+        "Hellenorthodoxe Ekklesia",
+        "Hellēnorthódoxē Ekklēsía",
+        "Roman Orthodox",
+        "Ἑλληνορθόδοξη Ἐκκλησία"
+      ],
+      "comment": [
+        "The name <B>Greek</B> Orthodox Church (<B>Greek</B>: Ἑλληνορθόδοξη Ἑκκλησία, Ellinorthódoxi Ekklisía, IPA"
+      ],
+      "label": [
+        "<B>Greek</B> Orthodox Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Orthodox_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christian_groups_in_the_Middle_East",
+        "http://dbpedia.org/resource/Category:Christian_terminology",
+        "http://dbpedia.org/resource/Category:Eastern_Orthodoxy_in_Europe",
+        "http://dbpedia.org/resource/Category:Greek_Orthodoxy",
+        "http://dbpedia.org/resource/Category:Greek_culture"
+      ]
+    },
+    {
+      "score": [
+        "5213.4116"
+      ],
+      "refCount": [
+        "275"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greeks"
+      ],
+      "redirectlabel": [
+        "Ethnic <B>Greek</B>",
+        "Ethnic <B>Greeks</B>",
+        "Genetic history of <B>Greece</B>",
+        "Genetic studies on <B>Greeks</B>",
+        "Graius",
+        "Grecian",
+        "Grecians",
+        "<B>Greek</B> (People)",
+        "<B>Greek</B> People",
+        "<B>Greek</B> identity",
+        "<B>Greek</B> nation",
+        "<B>Greek</B> nationality",
+        "<B>Greek</B> people",
+        "<B>Greeknes</B>",
+        "<B>Greekness</B>",
+        "Hellene",
+        "Hellenes",
+        "Hellenic people",
+        "Hellenic peoples",
+        "History of <B>Greeks</B>",
+        "History of the <B>Greeks</B>",
+        "Modern <B>greeks</B>",
+        "Origin of the <B>Greeks</B>",
+        "People of <B>Greece</B>",
+        "Proto-<B>Greeks</B>",
+        "Rhomioi",
+        "Έλληνες",
+        "Ἕλληνες"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "The <B>Greeks</B> or Hellenes (; <B>Greek</B>: Έλληνες, Éllines [ˈelines]) are an ethnic group native to <B>Greece</B>"
+      ],
+      "label": [
+        "<B>Greeks</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greeks"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_peoples_of_Europe",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_people",
+        "http://dbpedia.org/resource/Category:Indo-European_peoples",
+        "http://dbpedia.org/resource/Category:Modern_Indo-European_peoples"
+      ]
+    },
+    {
+      "score": [
+        "5175.59"
+      ],
+      "refCount": [
+        "157"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_diacritics"
+      ],
+      "redirectlabel": [
+        "Bareia (accent)",
+        "Diacritics (<B>Greek</B> alphabet)",
+        "Dialytika",
+        "Dialytika tonos",
+        "Grave accent rule",
+        "<B>Greek</B> Diacritics",
+        "<B>Greek</B> diacritic",
+        "Monotonic <B>Greek</B>",
+        "Monotonic <B>Greek</B> orthography",
+        "Monotonic <B>Greek</B> script",
+        "Monotonic orthography",
+        "Oxeia (accent)",
+        "Perispomene",
+        "Perispomeni",
+        "Polytonic",
+        "Polytonic <B>Greek</B>",
+        "Polytonic <B>Greek</B> orthography",
+        "Polytonic <B>Greek</B> script",
+        "Polytonic orthography",
+        "Polytonic transcription",
+        "Tonos",
+        "͂",
+        "΄",
+        "΅",
+        "Ά",
+        "Άͅ",
+        "Έ",
+        "Ή",
+        "Ήͅ",
+        "Ί",
+        "Ό",
+        "Ύ",
+        "Ώ",
+        "Ώͅ",
+        "Α͂",
+        "Η͂",
+        "Ι͂",
+        "Ρ̓",
+        "Υ̓",
+        "Υ̓̀",
+        "Υ̓́",
+        "Υ̓͂",
+        "Υ͂",
+        "Ω͂",
+        "Ϊ",
+        "Ϊ̀",
+        "Ϊ́",
+        "Ϊ͂",
+        "Ϋ",
+        "Ϋ̀",
+        "Ϋ́",
+        "Ϋ͂",
+        "Ἀ",
+        "Ἁ",
+        "Ἂ",
+        "Ἃ",
+        "Ἄ",
+        "Ἅ",
+        "Ἆ",
+        "Ἇ",
+        "Ἐ",
+        "Ἑ",
+        "Ἒ",
+        "Ἓ",
+        "Ἔ",
+        "Ἕ",
+        "Ἠ",
+        "Ἡ",
+        "Ἢ",
+        "Ἣ",
+        "Ἤ",
+        "Ἥ",
+        "Ἦ",
+        "Ἧ",
+        "Ἰ",
+        "Ἱ",
+        "Ἲ",
+        "Ἳ",
+        "Ἴ",
+        "Ἵ",
+        "Ἶ",
+        "Ἷ",
+        "Ὀ",
+        "Ὁ",
+        "Ὂ",
+        "Ὃ",
+        "Ὄ",
+        "Ὅ",
+        "Ὑ",
+        "Ὓ",
+        "Ὕ",
+        "Ὗ",
+        "Ὠ",
+        "Ὡ",
+        "Ὢ",
+        "Ὣ",
+        "Ὤ",
+        "Ὥ",
+        "Ὦ",
+        "Ὧ",
+        "ᾈ",
+        "ᾉ",
+        "ᾊ",
+        "ᾋ",
+        "ᾌ",
+        "ᾍ",
+        "ᾎ",
+        "ᾏ",
+        "ᾘ",
+        "ᾙ",
+        "ᾚ",
+        "ᾛ",
+        "ᾜ",
+        "ᾝ",
+        "ᾞ",
+        "ᾟ",
+        "ᾨ",
+        "ᾩ",
+        "ᾪ",
+        "ᾫ",
+        "ᾬ",
+        "ᾭ",
+        "ᾮ",
+        "ᾯ",
+        "Ᾰ",
+        "Ᾱ",
+        "Ὰ",
+        "Ὰͅ",
+        "ᾼ",
+        "ᾼ͂",
+        "῀",
+        "῁",
+        "Ὲ",
+        "Ὴ",
+        "Ὴͅ",
+        "ῌ",
+        "ῌ͂",
+        "῍",
+        "῎",
+        "῏",
+        "Ῐ",
+        "Ῑ",
+        "Ὶ",
+        "῝",
+        "῞",
+        "῟",
+        "Ῠ",
+        "Ῡ",
+        "Ὺ",
+        "Ῥ",
+        "῭",
+        "Ὸ",
+        "Ὼ",
+        "Ὼͅ",
+        "ῼ",
+        "ῼ͂"
+      ],
+      "comment": [
+        "<B>Greek</B> orthography has used a variety of diacritics starting in the Hellenistic period. The more"
+      ],
+      "label": [
+        "<B>Greek</B> diacritics"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_diacritics"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek",
+        "http://dbpedia.org/resource/Category:Greek-script_diacritics",
+        "http://dbpedia.org/resource/Category:Greek_language",
+        "http://dbpedia.org/resource/Category:Hellenic_scripts",
+        "http://dbpedia.org/resource/Category:Keyboard_layouts",
+        "http://dbpedia.org/resource/Category:Koine_Greek",
+        "http://dbpedia.org/resource/Category:Orthographies_by_language",
+        "http://dbpedia.org/resource/Category:Orthography",
+        "http://dbpedia.org/resource/Category:Spelling_reform"
+      ]
+    },
+    {
+      "score": [
+        "5043.1997"
+      ],
+      "refCount": [
+        "917"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Greece</B> FC",
+        "<B>Greece</B> National Football Team",
+        "<B>Greek</B> National Football Team",
+        "<B>Greek</B> national football team",
+        "Hellenic national football team",
+        "History of the <B>Greece</B> national football team",
+        "National Football Team of <B>Greece</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Greece</B> national football team (<B>Greek</B>: Εθνική Ελλάδος, Ethniki Ellados) represents <B>Greece</B> in"
+      ],
+      "label": [
+        "<B>Greece</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1920_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Football_in_Greece",
+        "http://dbpedia.org/resource/Category:Greece_national_football_team",
+        "http://dbpedia.org/resource/Category:Laureus_World_Sports_Awards_winners",
+        "http://dbpedia.org/resource/Category:UEFA_European_Championship-winning_countries"
+      ]
+    },
+    {
+      "score": [
+        "4871.327"
+      ],
+      "refCount": [
+        "84"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> (to 1453)",
+        "Ancient <B>Greek</B> Language",
+        "Ancient <B>Greek</B> language",
+        "Ancient <B>Greek</B> language (to 1453)",
+        "Ancient Hellenic",
+        "Ancient <B>greek</B>",
+        "Ancient <B>greek</B> language",
+        "Classic <B>Greek</B>",
+        "Classical <B>Greek</B>",
+        "Classical <B>Greek</B> (language)",
+        "Classical <B>Greek</B> language",
+        "Classical <B>greek</B>",
+        "Exploring the Ancient <B>Greek</B> Language and Culture",
+        "Exploring the ancient <B>greek</B> language and culture",
+        "<B>Grec</B> ancien",
+        "Hellenic <B>Greek</B>",
+        "ISO 639:grc",
+        "Neoclassical <B>Greek</B>",
+        "Old <B>Greek</B> language",
+        "ʽΕλληνικός",
+        "Ἑλληνική ἀρχαία"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "label": [
+        "Ancient <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:9th-century_BC_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Ancient_Greece",
+        "http://dbpedia.org/resource/Category:Ancient_Greek",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_9th_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily"
+      ]
+    },
+    {
+      "score": [
+        "4520.217"
+      ],
+      "refCount": [
+        "528"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece_national_under-21_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Greece</B> U21",
+        "<B>Greece</B> under-21 football team",
+        "<B>Greek</B> National Under-21 Football Team",
+        "<B>Greek</B> national under-21 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Greece</B> national under-21 football team is the national under-21 football team of <B>Greece</B> and is"
+      ],
+      "label": [
+        "<B>Greece</B> national under-21 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece_national_under-21_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_national_under-21_association_football_teams",
+        "http://dbpedia.org/resource/Category:Greece_national_football_team",
+        "http://dbpedia.org/resource/Category:Youth_football_in_Greece"
+      ]
+    },
+    {
+      "score": [
+        "4511.2856"
+      ],
+      "refCount": [
+        "150"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_A2_Basket_League"
+      ],
+      "redirectlabel": [
+        "A2 Ethniki",
+        "A2 basketball league (<B>Greece</B>)",
+        "<B>Greek</B> A2 Basketball League",
+        "HEBA A2"
+      ],
+      "comment": [
+        "The <B>Greek</B> A2 Basket League (<B>Greek</B>: Ελληνική Α2 Μπάσκετ Λιγκ), is the 2nd-tier level professional"
+      ],
+      "label": [
+        "<B>Greek</B> A2 Basket League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_A2_Basket_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_A2_Basket_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Second_level_basketball_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1986"
+      ]
+    },
+    {
+      "score": [
+        "4096.5986"
+      ],
+      "refCount": [
+        "591"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece_national_under-19_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Greece</B> National Under 19 Football Team",
+        "<B>Greek</B> national under-19 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "The <B>Greece</B> national under-19 football team is the national football team of <B>Greece</B> and is"
+      ],
+      "label": [
+        "<B>Greece</B> national under-19 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece_national_under-19_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_national_under-19_association_football_teams",
+        "http://dbpedia.org/resource/Category:Greece_national_football_team",
+        "http://dbpedia.org/resource/Category:Youth_football_in_Greece"
+      ]
+    },
+    {
+      "score": [
+        "4036.4143"
+      ],
+      "refCount": [
+        "71859"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/United_Kingdom"
+      ],
+      "redirectlabel": [
+        "Britain (country)",
+        "Britain (sovereign state)",
+        "Britain (state)",
+        "British State",
+        "British United Kingdom",
+        "British state",
+        "Britland",
+        "Etymology of the United Kingdom",
+        "<B>Great</B> Britain & N.I.",
+        "<B>Great</B> Britain & Ulster",
+        "<B>Great</B> Britain and Northern Ireland",
+        "<B>Great</B> Britain and Ulster",
+        "<B>Great</B> britain and northern ireland",
+        "ISO 3166-1:GB",
+        "Kingdom of <B>Great</B> Britain and Northern Ireland",
+        "Regno Unito",
+        "Reino Unido",
+        "Royaume-Uni",
+        "Royaume Uni",
+        "TUKOGBANI",
+        "The U.K.",
+        "The UK",
+        "The United Kingdom",
+        "The United Kingdom of <B>Great</B> Britain & Ulster",
+        "The United Kingdom of <B>Great</B> Britain and Northern Ireland",
+        "The uk",
+        "The united kingdom",
+        "U-K",
+        "U.K.",
+        "U.K.G.B.N.I.",
+        "U.K",
+        "U. K. G. B. N. I.",
+        "U.k.",
+        "UK's",
+        "UK",
+        "UKGB",
+        "UKGBNI",
+        "UKGBR",
+        "UKOGBANI",
+        "UK (country)",
+        "UK (state)",
+        "UK of GB & NI",
+        "UK of GB and NI",
+        "UKoGBaNI",
+        "UNITED KINGDOM",
+        "U K",
+        "U k",
+        "Uk.",
+        "Uk",
+        "Union between <B>Great</B> Britain and Northern Ireland",
+        "United-Kingdom",
+        "UnitedKingdom",
+        "United Kindgom",
+        "United Kindom",
+        "United Kingdom's",
+        "United Kingdom (U.K.)",
+        "United Kingdom (UK)",
+        "United Kingdom (country)",
+        "United Kingdom (state)",
+        "United Kingdom of Britain",
+        "United Kingdom of England",
+        "United Kingdom of <B>Great</B> Britain & Northern Ireland",
+        "United Kingdom of <B>Great</B> Britain & Ulster",
+        "United Kingdom of <B>Great</B> Britain and North Ireland",
+        "United Kingdom of <B>Great</B> Britain and Northern Ireland",
+        "United Kingdom of <B>Great</B> Britain and Northern Island",
+        "United Kingdom of <B>Great</B> Britain and Ulster",
+        "United Kingdon",
+        "United Kingom",
+        "United Kingsom",
+        "United kingdom",
+        "United kingdom of <B>great</B> britain and northern ireland",
+        "United kingom",
+        "Unitit Kinrick",
+        "Untied Kingdom",
+        "Vereinigtes Königreich",
+        "Verenigd Koninkrijk",
+        "Y Deyrnas Unedig"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The United Kingdom of <B>Great</B> Britain and Northern Ireland, commonly known as the United Kingdom (UK"
+      ],
+      "label": [
+        "United Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/United_Kingdom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:British_Islands",
+        "http://dbpedia.org/resource/Category:Countries_in_Europe",
+        "http://dbpedia.org/resource/Category:English-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:G20_nations",
+        "http://dbpedia.org/resource/Category:G7_nations",
+        "http://dbpedia.org/resource/Category:Island_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_NATO",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Nations",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Council_of_Europe",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Northwestern_European_countries",
+        "http://dbpedia.org/resource/Category:United_Kingdom"
+      ]
+    },
+    {
+      "score": [
+        "3838.9675"
+      ],
+      "refCount": [
+        "536"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cavalry"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> cavalry",
+        "Calvalry",
+        "Cavalry officer",
+        "Cavalry regiments",
+        "Cavalry warfare",
+        "Cavalryman",
+        "Cavalrymen",
+        "<B>Greek</B> cavalry",
+        "Horse cavalry",
+        "Ippiko",
+        "Medieval cavalry",
+        "Medium cavalry",
+        "Mounted cavalry",
+        "Mounted troops",
+        "The Cavalry",
+        "Yellowleg"
+      ],
+      "comment": [
+        "Cavalry (from the French cavalerie, cf. cheval 'horse') or horsemen are soldiers or warriors who fight mounted on horseback. Cavalry were historically the most mobile of the combat arms. An individual soldier in the cavalry is known by a number of designations such as cavalryman, horseman, dragoon, or trooper. The designation of cavalry was not usually given to any military forces that used other animals, such as camels, mules or elephants. Infantry who moved on horseback, but dismounted to fight on foot, were known in the 17th and early 18th centuries as dragoons, a class of mounted infantry which later evolved into cavalry proper while retaining their historic title."
+      ],
+      "label": [
+        "Cavalry"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cavalry"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cavalry",
+        "http://dbpedia.org/resource/Category:Civil_War_military_equipment_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Combat_occupations",
+        "http://dbpedia.org/resource/Category:Indo-European_warfare",
+        "http://dbpedia.org/resource/Category:Obsolete_occupations",
+        "http://dbpedia.org/resource/Category:Warfare_of_the_Early_Modern_period",
+        "http://dbpedia.org/resource/Category:Warfare_of_the_Middle_Ages"
+      ]
+    },
+    {
+      "score": [
+        "3718.0378"
+      ],
+      "refCount": [
+        "72"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_Musical_Notation"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> Music (Unicode block)",
+        "Ancient <B>Greek</B> Musical Notation (Unicode block)",
+        "𝈀",
+        "𝈁",
+        "𝈂",
+        "𝈃",
+        "𝈄",
+        "𝈅",
+        "𝈆",
+        "𝈇",
+        "𝈈",
+        "𝈉",
+        "𝈊",
+        "𝈋",
+        "𝈌",
+        "𝈍",
+        "𝈎",
+        "𝈏",
+        "𝈐",
+        "𝈑",
+        "𝈒",
+        "𝈓",
+        "𝈔",
+        "𝈕",
+        "𝈖",
+        "𝈗",
+        "𝈘",
+        "𝈙",
+        "𝈚",
+        "𝈛",
+        "𝈜",
+        "𝈝",
+        "𝈞",
+        "𝈟",
+        "𝈠",
+        "𝈡",
+        "𝈢",
+        "𝈣",
+        "𝈤",
+        "𝈥",
+        "𝈦",
+        "𝈧",
+        "𝈨",
+        "𝈩",
+        "𝈪",
+        "𝈫",
+        "𝈬",
+        "𝈭",
+        "𝈮",
+        "𝈯",
+        "𝈰",
+        "𝈱",
+        "𝈲",
+        "𝈳",
+        "𝈴",
+        "𝈵",
+        "𝈶",
+        "𝈷",
+        "𝈸",
+        "𝈹",
+        "𝈺",
+        "𝈻",
+        "𝈼",
+        "𝈽",
+        "𝈾",
+        "𝈿",
+        "𝉀",
+        "𝉁",
+        "𝉂",
+        "𝉃",
+        "𝉄",
+        "𝉅"
+      ],
+      "comment": [
+        "Ancient <B>Greek</B> Musical Notation is a Unicode block containing symbols representing musical notations used in ancient <B>Greece</B>."
+      ],
+      "label": [
+        "Ancient <B>Greek</B> Musical Notation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_Musical_Notation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Unicode_blocks"
+      ]
+    },
+    {
+      "score": [
+        "3607.5918"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Civil_War"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> civil war",
+        "Hellenic Civil War",
+        "Paidomazoma (<B>Greek</B> Civil War)"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " civil war in <B>Greece</B> fought between the <B>Greek</B> government army (supported by the United Kingdom and the"
+      ],
+      "label": [
+        "<B>Greek</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1940s_in_Greek_politics",
+        "http://dbpedia.org/resource/Category:1946_in_Greece",
+        "http://dbpedia.org/resource/Category:1947_in_Greece",
+        "http://dbpedia.org/resource/Category:1948_in_Greece",
+        "http://dbpedia.org/resource/Category:1949_in_Greece",
+        "http://dbpedia.org/resource/Category:Aftermath_of_World_War_II",
+        "http://dbpedia.org/resource/Category:Anti-communism_in_Greece",
+        "http://dbpedia.org/resource/Category:Communism-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Communism_in_Greece",
+        "http://dbpedia.org/resource/Category:Communist_rebellions",
+        "http://dbpedia.org/resource/Category:Greece–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Greece–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:Greek_Civil_War",
+        "http://dbpedia.org/resource/Category:History_of_modern_Greece",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Revolution-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_Albania",
+        "http://dbpedia.org/resource/Category:Wars_involving_Bulgaria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Greece",
+        "http://dbpedia.org/resource/Category:Wars_involving_Yugoslavia",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "3322.3916"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Melkite_Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "Ar-Rūm al-Kathūlīk",
+        "Catholic Melkite",
+        "Catholic Melkites",
+        "Eastern Rite Catholic Patriarchate of Antioch",
+        "<B>Greek</B>-Catholic (Melkite) Church",
+        "<B>Greek</B>-Catholic Melkite Church",
+        "<B>Greek</B>-Melkite Catholic Church",
+        "<B>Greek</B>-Melkite Church",
+        "<B>Greek</B> Catholic Church of Antioch",
+        "<B>Greek</B> Catholic Melkite",
+        "<B>Greek</B> Melkite Catholic Church",
+        "Kanisaet ar-Rum al-Katulik",
+        "Kanisat ar-Rum al-Katulik",
+        "Kanīsat ar-Rūm al-Malakiyyīn al-Kāṯūlīk",
+        "Kanīsät ar-Rūm al-Kāṯūlīk",
+        "List of <B>Greek</B>-Melkite dioceses",
+        "List of Melkite <B>Greek</B> dioceses",
+        "Melchite <B>Greek</B> Church",
+        "Melkite-<B>Greek</B> Catholic Church",
+        "Melkite (<B>Greek</B> Catholic)",
+        "Melkite Byzantine Catholic Church",
+        "Melkite Byzantine Church",
+        "Melkite Catholic",
+        "Melkite Catholic Church",
+        "Melkite Catholics",
+        "Melkite <B>Greco</B>-Catholic Church",
+        "Melkite <B>Greek</B>-Catholic Church",
+        "Melkite <B>Greek</B>",
+        "Melkite <B>Greek</B> Catholic",
+        "Melkite <B>Greek</B> Catholicism",
+        "Melkite <B>Greek</B> Church",
+        "Melkite Rite",
+        "Melkite catholic",
+        "كنيسة الروم الكاثوليك"
+      ],
+      "comment": [
+        "The Melkite <B>Greek</B> Catholic Church (Arabic: كنيسة الروم الملكيين الكاثوليك‎, Kanīsat ar-Rūm al"
+      ],
+      "label": [
+        "Melkite <B>Greek</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Melkite_Greek_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Apostolic_sees",
+        "http://dbpedia.org/resource/Category:Catholic_organizations_established_in_the_18th_century",
+        "http://dbpedia.org/resource/Category:Melkite_Greek_Catholic_Church",
+        "http://dbpedia.org/resource/Category:Organizations_based_in_Damascus"
+      ]
+    },
+    {
+      "score": [
+        "3309.1963"
+      ],
+      "refCount": [
+        "41"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_philosophy"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> Philosophy",
+        "Ancient <B>Greek</B> philosopher",
+        "Ancient <B>Greek</B> philosophers",
+        "Ancient <B>Greek</B> philosophical",
+        "Ancient <B>Greek</B> thought",
+        "Ancient <B>greek</B> philosopher",
+        "Ancient <B>greek</B> philosophers",
+        "Ancient <B>greek</B> philosophy",
+        "Athenian tradition (philosophy)",
+        "Classical <B>Greek</B> philosopher",
+        "Classical <B>Greek</B> philosophy",
+        "Grecian philosophy",
+        "<B>Greek</B> Philosophy",
+        "<B>Greek</B> philosopher",
+        "<B>Greek</B> philosophers",
+        "<B>Greek</B> philosophies",
+        "<B>Greek</B> philosophy",
+        "History of ancient <B>Greek</B> philosophy",
+        "Philosophy in ancient <B>Greece</B>",
+        "Philosophy of ancient <B>Greece</B>"
+      ],
+      "comment": [
+        " period and the period in which <B>Greece</B> and most <B>Greek</B>-inhabited lands were part of the Roman Empire"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> philosophy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_philosophy"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_philosophy",
+        "http://dbpedia.org/resource/Category:Ancient_philosophy_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "3223.4985"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "Byzantine-rite Catholic Church",
+        "Byzantine-rite Catholic Churches",
+        "Byzantine Catholic",
+        "Byzantine Catholic Christian",
+        "Byzantine Catholic Church",
+        "Byzantine Catholic Churches",
+        "Byzantine Catholics",
+        "Byzantine Rite Catholic",
+        "Byzantine Rite Catholic Church",
+        "Byzantine Rite Catholic Churches",
+        "Christian - Byzantine Catholic",
+        "<B>Greco</B>-Catholic",
+        "<B>Greco</B>-Catholic Church",
+        "<B>Greco</B>-Catholic Churches",
+        "<B>Greco</B>-Catholicism",
+        "<B>Greek</B>-Catholic",
+        "<B>Greek</B>-Catholic Church",
+        "<B>Greek</B>-Catholic Churches",
+        "<B>Greek</B>-Catholic church",
+        "<B>Greek</B>-Catholic churches",
+        "<B>Greek</B>-Catholicism",
+        "<B>Greek</B>-Catholics",
+        "<B>Greek</B>-catholic",
+        "<B>Greek</B>-catholic church",
+        "<B>Greek</B>-catholic churches",
+        "<B>Greek</B>-catholicism",
+        "<B>Greek</B>-catholics",
+        "<B>Greek</B> Byzantine Catholicism",
+        "<B>Greek</B> Catholic",
+        "<B>Greek</B> Catholic Churches",
+        "<B>Greek</B> Catholic church",
+        "<B>Greek</B> Catholic churches",
+        "<B>Greek</B> Catholicism",
+        "<B>Greek</B> Catholics",
+        "<B>Greek</B> catholic",
+        "<B>Greek</B> catholic church",
+        "<B>Greek</B> catholic churches",
+        "<B>Greek</B> catholicism",
+        "<B>Greek</B> catholics",
+        "Uniate <B>Greeks</B>"
+      ],
+      "label": [
+        "<B>Greek</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_churches"
+      ]
+    },
+    {
+      "score": [
+        "3221.6987"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_alphabet"
+      ],
+      "redirectlabel": [
+        "Alphabeto",
+        "Alphaveto",
+        "English pronunciation of <B>Greek</B> letters",
+        "English pronunciation of <B>greek</B> letters",
+        "<B>Greek</B>-alphabet",
+        "<B>Greek</B> (alphabet)",
+        "<B>Greek</B> (script)",
+        "<B>Greek</B> Alphabet",
+        "<B>Greek</B> Letter",
+        "<B>Greek</B> alphabeta",
+        "<B>Greek</B> alphabets",
+        "<B>Greek</B> character",
+        "<B>Greek</B> characters in Unicode",
+        "<B>Greek</B> in Unicode",
+        "<B>Greek</B> letter",
+        "<B>Greek</B> letters",
+        "<B>Greek</B> script",
+        "<B>Greek</B> symbols",
+        "<B>Grek</B>",
+        "<B>Grek</B> (script)",
+        "Hellenic alphabet",
+        "ISO 15924:<B>Grek</B>",
+        "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ",
+        "Ελληνικό Αλφάβητο"
+      ],
+      "comment": [
+        "The <B>Greek</B> alphabet has been used to write the <B>Greek</B> language since the late ninth or early eighth"
+      ],
+      "label": [
+        "<B>Greek</B> alphabet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_alphabet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_alphabet",
+        "http://dbpedia.org/resource/Category:Greek_letters"
+      ]
+    },
+    {
+      "score": [
+        "3196.5671"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Koine_Greek"
+      ],
+      "redirectlabel": [
+        "Alexandrian dialect",
+        "Biblical <B>Greek</B>",
+        "Biblical <B>Greek</B> language",
+        "Coene <B>Greek</B>",
+        "Common Attic",
+        "Common <B>Greek</B>",
+        "Common <B>greek</B>",
+        "Ecclesiastical <B>Greek</B>",
+        "Hellenistic <B>Greek</B>",
+        "Hellenistic <B>Greek</B> language",
+        "Hellenistic Koine",
+        "Koine",
+        "Koine <B>Greek</B> dialect",
+        "Koine <B>Greek</B> language",
+        "Koine <B>greek</B>",
+        "Koiné <B>Greek</B>",
+        "Koinē <B>Greek</B>",
+        "Koinē <B>Greek</B> language",
+        "Koinḗ <B>Greek</B>",
+        "New Testament <B>Greek</B>",
+        "Patristic <B>Greek</B>",
+        "Patristic <B>Greek</B> language",
+        "Κοινή",
+        "Κοινῆς Ελληνικῆς"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " <B>Greek</B> following the conquests of Alexander the <B>Great</B> in the fourth century BC, and served as the"
+      ],
+      "label": [
+        "Koine <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Koine_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christian_liturgical_languages",
+        "http://dbpedia.org/resource/Category:Hellenism_and_Christianity",
+        "http://dbpedia.org/resource/Category:Hellenistic_civilization",
+        "http://dbpedia.org/resource/Category:Koine_Greek",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_3rd_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_of_Egypt",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily",
+        "http://dbpedia.org/resource/Category:Languages_of_Syria",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Macedonia",
+        "http://dbpedia.org/resource/Category:Standard_languages",
+        "http://dbpedia.org/resource/Category:Varieties_of_Ancient_Greek"
+      ]
+    },
+    {
+      "score": [
+        "3162.168"
+      ],
+      "refCount": [
+        "322"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece_national_under-17_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Greece</B> national under-16 football team",
+        "<B>Greek</B> national under-17 football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " football team. This team is for <B>Greek</B> players aged 17 or under at the start of the UEFA European"
+      ],
+      "label": [
+        "<B>Greece</B> national under-17 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece_national_under-17_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_national_under-17_association_football_teams",
+        "http://dbpedia.org/resource/Category:Greece_national_football_team",
+        "http://dbpedia.org/resource/Category:Youth_football_in_Greece"
+      ]
+    },
+    {
+      "score": [
+        "3158.2078"
+      ],
+      "refCount": [
+        "55"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ukrainian_Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "UHKTs",
+        "Ukrainian Byzantine-Catholic",
+        "Ukrainian Byzantine-Catholic Church",
+        "Ukrainian Byzantine-Catholics",
+        "Ukrainian Byzantine Catholic",
+        "Ukrainian Byzantine Catholic Church",
+        "Ukrainian Byzantine Catholicism",
+        "Ukrainian Byzantine Catholics",
+        "Ukrainian <B>Greco</B>-Catholic Church",
+        "Ukrainian <B>Greek</B>-Catholic",
+        "Ukrainian <B>Greek</B>-Catholic Church",
+        "Ukrainian <B>Greek</B>-Catholics",
+        "Ukrainian <B>Greek</B> Catholic",
+        "Ukrainian <B>Greek</B> Catholicism",
+        "Ukrainian <B>Greek</B> Catholics",
+        "Ukrainian <B>Greek</B> Church",
+        "Ukrainian Rite",
+        "Ukrainian rite"
+      ],
+      "comment": [
+        "The Ukrainian <B>Greek</B> Catholic Church (UGCC; Ukrainian <B>Greek</B>-Catholic Church: Українська Греко"
+      ],
+      "label": [
+        "Ukrainian <B>Greek</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ukrainian_Greek_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Christianity_in_Ukraine",
+        "http://dbpedia.org/resource/Category:Eastern_Catholic_Churches",
+        "http://dbpedia.org/resource/Category:Eastern_Catholicism",
+        "http://dbpedia.org/resource/Category:Ukrainian_Greek_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "3158.0034"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Basketball_Cup_MVP"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Basketball Cup Final MVP",
+        "<B>Greek</B> Basketball Cup Finals MVP",
+        "<B>Greek</B> Basketball Cup Finals Top Scorer"
+      ],
+      "comment": [
+        " professional men's basketball cup competition in the country of <B>Greece</B>. The <B>Greek</B> Basketball Cup is"
+      ],
+      "label": [
+        "<B>Greek</B> Basketball Cup MVP"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Basketball_Cup_MVP"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_most_valuable_player_awards",
+        "http://dbpedia.org/resource/Category:European_basketball_awards",
+        "http://dbpedia.org/resource/Category:Greek_Basketball_Cup"
+      ]
+    },
+    {
+      "score": [
+        "3102.071"
+      ],
+      "refCount": [
+        "180"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hellenic_Army"
+      ],
+      "redirectlabel": [
+        "Army of <B>Greece</B>",
+        "<B>Greek</B> Army",
+        "<B>Greek</B> army",
+        "Hellenic army",
+        "History of the Hellenic Army",
+        "History of the hellenic army",
+        "Royal <B>Greek</B> Army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "), formed in 1828, is the land force of <B>Greece</B> (with Hellenic being a synonym for <B>Greek</B>). Along with the"
+      ],
+      "label": [
+        "Hellenic Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hellenic_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1828_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Hellenic_Army",
+        "http://dbpedia.org/resource/Category:Ioannis_Kapodistrias",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1828"
+      ]
+    },
+    {
+      "score": [
+        "3024.332"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Basket_League_Pentad"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Basket League Best Five",
+        "<B>Greek</B> Basket League Pentada",
+        "<B>Greek</B> League Best Five Team"
+      ],
+      "comment": [
+        "The <B>Greek</B> Basket League Pentad, <B>Greek</B> Basket League Pentada, or <B>Greek</B> Basket League Best Five, is"
+      ],
+      "label": [
+        "<B>Greek</B> Basket League Pentad"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Basket_League_Pentad"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_basketball_awards",
+        "http://dbpedia.org/resource/Category:Greek_Basket_League",
+        "http://dbpedia.org/resource/Category:Greek_Basket_League_awards"
+      ]
+    },
+    {
+      "score": [
+        "2972.2412"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_religion"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greece</B> Religion",
+        "Ancient <B>Greece</B> religion",
+        "Ancient <B>Greek</B> Polytheism",
+        "Ancient <B>Greek</B> Religion",
+        "Ancient <B>Greek</B> religious beliefs",
+        "Ancient <B>greece</B> Religion",
+        "Ancient <B>greece</B> religion",
+        "Ancient <B>greek</B> Religion",
+        "Ancient <B>greek</B> religion",
+        "Decline of Hellenic Religion",
+        "End of Hellenic Religion",
+        "<B>Greek</B> Paganism",
+        "<B>Greek</B> Polytheism",
+        "<B>Greek</B> paganism",
+        "<B>Greek</B> polytheism",
+        "<B>Greek</B> sacrifice",
+        "Panhellenic cults",
+        "Polytheism in ancient <B>Greece</B>",
+        "Religion in Ancient <B>Greece</B>",
+        "Religion in ancient <B>Greece</B>",
+        "Religion in ancient <B>greece</B>",
+        "Religion of Ancient <B>Greece</B>",
+        "Religion of ancient <B>Greece</B>",
+        "Thyesthai"
+      ],
+      "comment": [
+        "Ancient <B>Greek</B> religion encompasses the collection of beliefs, rituals, and mythology originating in"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> religion"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_religion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_religion"
+      ]
+    },
+    {
+      "score": [
+        "2958.2747"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_American_AA"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> American Atlas",
+        "New York <B>Greek</B> American"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Greek</B> American Atlas Astoria, commonly known as New York <B>Greek</B> American, is an American soccer team"
+      ],
+      "label": [
+        "<B>Greek</B> American AA"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_American_AA"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1946_establishments_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1946",
+        "http://dbpedia.org/resource/Category:Cosmopolitan_Soccer_League",
+        "http://dbpedia.org/resource/Category:Diaspora_soccer_clubs_in_the_United_States",
+        "http://dbpedia.org/resource/Category:German-American_Soccer_League",
+        "http://dbpedia.org/resource/Category:Greek-American_culture_in_New_York_City",
+        "http://dbpedia.org/resource/Category:Men's_soccer_clubs_in_New_York_(state)",
+        "http://dbpedia.org/resource/Category:U.S._Open_Cup_winners",
+        "http://dbpedia.org/resource/Category:U.S._clubs_in_CONCACAF_Champions'_Cup",
+        "http://dbpedia.org/resource/Category:U.S._clubs_in_CONCACAF_Cup_Winners'_Cup"
+      ]
+    },
+    {
+      "score": [
+        "2929.0352"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Pontic_Greek"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B>-Pontic-language",
+        "<B>Greek</B>-Pontic language",
+        "<B>Greek</B> Pontic-language",
+        "<B>Greek</B> Pontic language",
+        "ISO 639:pnt",
+        "Pontiac <B>Greek</B>",
+        "Pontiaka",
+        "Pontian <B>Greek</B>",
+        "Pontian <B>Greek</B> language",
+        "Pontian Language",
+        "Pontian language",
+        "Pontic-<B>Greek</B>-language",
+        "Pontic-<B>Greek</B> language",
+        "Pontic-language",
+        "Pontic <B>Greek</B>-language",
+        "Pontic <B>Greek</B> language",
+        "Pontic Language",
+        "Pontic language",
+        "Romaika",
+        "Romeika",
+        "Romeyika",
+        "Romeyka",
+        "Rumja",
+        "Ποντιακά"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Pontic <B>Greek</B> (<B>Greek</B>: Ποντιακή διάλεκτος, Pontiakí diálektos; Pontic <B>Greek</B>: Ποντιακόν λαλίαν"
+      ],
+      "label": [
+        "Pontic <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Pontic_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endangered_Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Abkhazia",
+        "http://dbpedia.org/resource/Category:Languages_of_Armenia",
+        "http://dbpedia.org/resource/Category:Languages_of_Azerbaijan",
+        "http://dbpedia.org/resource/Category:Languages_of_Cyprus",
+        "http://dbpedia.org/resource/Category:Languages_of_Georgia_(country)",
+        "http://dbpedia.org/resource/Category:Languages_of_Greece",
+        "http://dbpedia.org/resource/Category:Languages_of_Kazakhstan",
+        "http://dbpedia.org/resource/Category:Languages_of_Russia",
+        "http://dbpedia.org/resource/Category:Languages_of_Turkey",
+        "http://dbpedia.org/resource/Category:Languages_of_Ukraine",
+        "http://dbpedia.org/resource/Category:Languages_of_Uzbekistan",
+        "http://dbpedia.org/resource/Category:Languages_of_the_Balkans",
+        "http://dbpedia.org/resource/Category:Pontic_Greek_culture",
+        "http://dbpedia.org/resource/Category:Pontic_Greeks",
+        "http://dbpedia.org/resource/Category:Varieties_of_Modern_Greek"
+      ]
+    },
+    {
+      "score": [
+        "2819.8987"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> nationalist",
+        "Hellenic nationalism",
+        "History of <B>Greek</B> nationalism",
+        "Panhellenic",
+        "Panhellenism"
+      ],
+      "comment": [
+        "<B>Greek</B> nationalism (or Hellenic nationalism) refers to the nationalism of <B>Greeks</B> and <B>Greek</B> culture"
+      ],
+      "label": [
+        "<B>Greek</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_nationalism",
+        "http://dbpedia.org/resource/Category:Politics_of_Greece"
+      ]
+    },
+    {
+      "score": [
+        "2735.172"
+      ],
+      "refCount": [
+        "28"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romanization_of_Greek"
+      ],
+      "redirectlabel": [
+        "ELOT 743",
+        "<B>Greek</B> Latinization",
+        "<B>Greek</B> Romanization",
+        "<B>Greek</B> romanizated",
+        "<B>Greek</B> romanization",
+        "<B>Greek</B> transliteration",
+        "Latinisation of <B>Greek</B>",
+        "Latinization of <B>Greek</B>",
+        "Latinized <B>Greek</B>",
+        "Orthographic Latinisation of <B>Greek</B>",
+        "Orthographic Latinization of <B>Greek</B>",
+        "Romanisation of Ancient <B>Greek</B>",
+        "Romanisation of <B>Greek</B>",
+        "Romanization of Ancient <B>Greek</B>",
+        "Romanization of Medieval <B>Greek</B>",
+        "Romanization of Modern <B>Greek</B>",
+        "Romanization of <B>greek</B>",
+        "Transcription of <B>greek</B> alphabet",
+        "Transliteration of Ancient <B>Greek</B>",
+        "Transliteration of Ancient <B>Greek</B> into English",
+        "Transliteration of <B>Greek</B>",
+        "Transliteration of <B>Greek</B> into English",
+        "Transliteration of <B>Greek</B> into the Latin Alphabet",
+        "Transliteration of <B>Greek</B> to the Latin Alphabet",
+        "Transliteration of <B>Greek</B> to the Latin alphabet",
+        "Transliteration of Medieval <B>Greek</B>",
+        "Transliteration of Modern <B>Greek</B>",
+        "Transliteration of <B>greek</B>"
+      ],
+      "comment": [
+        "Romanization of <B>Greek</B> is the transliteration (letter-mapping) or transcription (sound-mapping) of"
+      ],
+      "label": [
+        "Romanization of <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romanization_of_Greek"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_language",
+        "http://dbpedia.org/resource/Category:Hellenic_scripts",
+        "http://dbpedia.org/resource/Category:Romanization_of_Greek"
+      ]
+    },
+    {
+      "score": [
+        "2684.1814"
+      ],
+      "refCount": [
+        "30"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Modern_Greek"
+      ],
+      "redirectlabel": [
+        "Andriotis Dictionary",
+        "Andriotis dictionary",
+        "Common words and phrases in Modern <B>Greek</B>",
+        "ISO 639-1:el",
+        "ISO 639:el",
+        "ISO 639:ell",
+        "ISO 639:<B>gre</B>",
+        "Modern <B>Greek</B> (1453-)",
+        "Modern <B>Greek</B> (language)",
+        "Modern <B>Greek</B> Koine",
+        "Modern <B>Greek</B> language",
+        "Modern <B>Greek</B> language (1453-)",
+        "Modern Hellenic",
+        "Modern Hellenic language",
+        "Modern <B>greek</B>",
+        "Neo-Hellenic",
+        "Neo-Hellenic language",
+        "Neo Hellenic",
+        "Neo Hellenic language",
+        "New <B>Greek</B>",
+        "Νέα ελληνικά",
+        "Νεοελληνική γλώσσα"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Modern <B>Greek</B> (Νέα Ελληνικά or Νεοελληνική Γλώσσα) refers collectively to the dialects of the <B>Greek</B>"
+      ],
+      "label": [
+        "Modern <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Modern_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_15th_century",
+        "http://dbpedia.org/resource/Category:Modern_Greek_language"
+      ]
+    },
+    {
+      "score": [
+        "2676.1182"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_B_Basket_League"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> B Basketball League",
+        "<B>Greek</B> Basket B League",
+        "<B>Greek</B> Basketball B League"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Greek</B> B Basket League, or <B>Greek</B> B Basketball League (<B>Greek</B>: Ελληνική Β Μπασκετ Λιγκ), is a"
+      ],
+      "label": [
+        "<B>Greek</B> B Basket League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_B_Basket_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_B_Basket_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1961",
+        "http://dbpedia.org/resource/Category:Third_level_basketball_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2619.613"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_junta"
+      ],
+      "redirectlabel": [
+        "1967 <B>Greek</B> counter-coup",
+        "1967 <B>Greek</B> coup",
+        "1967 <B>Greek</B> coup d'état",
+        "21 April 1967 coup",
+        "Coup d'état of 21 April 1967",
+        "Coup of 21 April 1967",
+        "Dictatorship in <B>Greece</B>",
+        "<B>Greek</B> Coup d'état of 1967",
+        "<B>Greek</B> Dictatorship",
+        "<B>Greek</B> Junta",
+        "<B>Greek</B> Regime of the Colonels",
+        "<B>Greek</B> anti-junta movement",
+        "<B>Greek</B> colonels",
+        "<B>Greek</B> dictatorship",
+        "<B>Greek</B> military junta",
+        "<B>Greek</B> military junta (1967-74)",
+        "<B>Greek</B> military junta of 1967-1974",
+        "<B>Greek</B> military junta of 1967-74",
+        "<B>Greek</B> military junta of 1967–1974",
+        "<B>Greek</B> military junta of 1967–74",
+        "<B>Greek</B> regime of the colonels",
+        "Junta of Athens",
+        "Military Junta of <B>Greece</B> (1967-1974)",
+        "Military Junta of <B>Greece</B> (1967–1974)",
+        "Military junta in Athens",
+        "Nikos Dertilis",
+        "Regime of the Colonels",
+        "Regime of the Colonels (<B>Greece</B>)",
+        "The colonels (<B>Greece</B>)"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "label": [
+        "<B>Greek</B> junta"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_junta"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1960s_in_Greek_politics",
+        "http://dbpedia.org/resource/Category:1967_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:1967_in_Greece",
+        "http://dbpedia.org/resource/Category:1970s_in_Greek_politics",
+        "http://dbpedia.org/resource/Category:1974_disestablishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1967",
+        "http://dbpedia.org/resource/Category:Fascism_in_Greece",
+        "http://dbpedia.org/resource/Category:Fascist_states",
+        "http://dbpedia.org/resource/Category:Greek_junta",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Greece",
+        "http://dbpedia.org/resource/Category:Military_dictatorships",
+        "http://dbpedia.org/resource/Category:Neo-fascism",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1974",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1967"
+      ]
+    },
+    {
+      "score": [
+        "2592.6404"
+      ],
+      "refCount": [
+        "26"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_genocide"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Genocide",
+        "<B>Greek</B> Pontian Genocide",
+        "<B>Greek</B> massacre",
+        "Hellenic Genocide",
+        "Hellenic genocide",
+        "Persecution of <B>Greeks</B> in Turkey (1914-1923)",
+        "Persecution of Ottoman <B>Greeks</B>, 1913-1923",
+        "Pontian-<B>Greek</B> genocide",
+        "Pontian Genocide",
+        "Pontian <B>Greek</B> Genocide",
+        "Pontian <B>Greek</B> Genocide Remembrance Day",
+        "Pontian <B>Greek</B> genocide",
+        "Pontian <B>Greeks</B> Genocide",
+        "Pontian genocide",
+        "Pontic Genocide",
+        "Pontic <B>Greek</B> Genocide",
+        "Pontic <B>Greek</B> genocide",
+        "Pontic <B>Greek</B> massacre",
+        "Pontic Tragedy",
+        "Pontic annihilation",
+        "Pontic genocide",
+        "Pontic tragedy",
+        "Tragedy of Pontus",
+        "Turkish atrocities in Pontos and Asia Minor"
+      ],
+      "comment": [
+        "The <B>Greek</B> genocide, including the Pontic genocide, was the systematic killing of the Christian"
+      ],
+      "label": [
+        "<B>Greek</B> genocide"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_genocide"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1910s_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:1920s_in_Turkey",
+        "http://dbpedia.org/resource/Category:1920s_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Anti-Christian_sentiment_in_Asia",
+        "http://dbpedia.org/resource/Category:Anti-Christian_sentiment_in_Europe",
+        "http://dbpedia.org/resource/Category:Anti-Greek_sentiment",
+        "http://dbpedia.org/resource/Category:Committee_of_Union_and_Progress",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_in_Asia",
+        "http://dbpedia.org/resource/Category:Ethnic_cleansing_in_Europe",
+        "http://dbpedia.org/resource/Category:Forced_marches",
+        "http://dbpedia.org/resource/Category:Greco-Turkish_War_(1919–1922)",
+        "http://dbpedia.org/resource/Category:Greece–Turkey_relations",
+        "http://dbpedia.org/resource/Category:Greek_genocide",
+        "http://dbpedia.org/resource/Category:Greeks_from_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:History_of_Greece_(1909–1924)",
+        "http://dbpedia.org/resource/Category:Massacres_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Massacres_of_Christians",
+        "http://dbpedia.org/resource/Category:Modern_history_of_Turkey",
+        "http://dbpedia.org/resource/Category:Ottoman_Pontus",
+        "http://dbpedia.org/resource/Category:Persecution_by_Muslims",
+        "http://dbpedia.org/resource/Category:Persecution_of_Christians_in_the_Ottoman_Empire",
+        "http://dbpedia.org/resource/Category:Persecution_of_Greeks_in_Turkey",
+        "http://dbpedia.org/resource/Category:Persecution_of_Greeks_in_the_Ottoman_Empire_in_the_20th_century",
+        "http://dbpedia.org/resource/Category:Turkish_War_of_Independence",
+        "http://dbpedia.org/resource/Category:World_War_I_crimes_by_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "2557.8396"
+      ],
+      "refCount": [
+        "2001"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Green_Bay_Packers"
+      ],
+      "redirectlabel": [
+        "2022 <B>Green</B> Bay Packers football team",
+        "Acme Packers",
+        "GB Packers",
+        "<B>Green</B> Bay Blues",
+        "<B>Green</B> Bay Football Team",
+        "<B>Green</B> Bay Packer",
+        "<B>Green</B> Bay packers",
+        "<B>Green</B> bay packers",
+        "Greenbay Packers",
+        "Greenbay packers",
+        "Packers.com",
+        "Packers",
+        "Packers Pro Shop",
+        "Packers fan",
+        "The <B>Green</B> Bay Packers"
+      ],
+      "typeName": [
+        "Organisation",
+        "SportsTeam",
+        "AmericanFootballTeam",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Green</B> Bay Packers are a professional American football team based in <B>Green</B> Bay, Wisconsin. They"
+      ],
+      "label": [
+        "<B>Green</B> Bay Packers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Green_Bay_Packers"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SportsTeam",
+        "http://dbpedia.org/ontology/AmericanFootballTeam",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1919_establishments_in_Wisconsin",
+        "http://dbpedia.org/resource/Category:American_football_teams_established_in_1919",
+        "http://dbpedia.org/resource/Category:Fan-owned_sports_teams",
+        "http://dbpedia.org/resource/Category:Green_Bay_Packers",
+        "http://dbpedia.org/resource/Category:National_Football_League_teams",
+        "http://dbpedia.org/resource/Category:Publicly_traded_sports_companies",
+        "http://dbpedia.org/resource/Category:Sports_in_Green_Bay,_Wisconsin",
+        "http://dbpedia.org/resource/Category:Tourist_attractions_in_Brown_County,_Wisconsin"
+      ]
+    },
+    {
+      "score": [
+        "2553.77"
+      ],
+      "refCount": [
+        "31"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_drachma"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> drachma",
+        "Ancient drachma",
+        "Athenian coinage",
+        "Cretan drachma",
+        "Didrachm",
+        "Didrachma",
+        "Didrachms",
+        "Drachma",
+        "Drachmae",
+        "Drachmas",
+        "Drahma",
+        "<B>Greek</B> Drachma",
+        "<B>Greek</B> money",
+        "ISO 4217:GRD",
+        "Octadrachm",
+        "Tetrobol",
+        "Tridrachm",
+        "Δραχμή",
+        "Ελληνική δραχμή",
+        "₯",
+        "𐅂"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " drachmas) was the currency used in <B>Greece</B> during several periods in its history: 1.  \n* An ancient <B>Greek</B>"
+      ],
+      "label": [
+        "<B>Greek</B> drachma"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_drachma"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Coins_of_ancient_Greece",
+        "http://dbpedia.org/resource/Category:Currencies_of_Europe",
+        "http://dbpedia.org/resource/Category:Currencies_of_Greece",
+        "http://dbpedia.org/resource/Category:Currencies_replaced_by_the_euro",
+        "http://dbpedia.org/resource/Category:Currency_symbols",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Greece",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "2544.1067"
+      ],
+      "refCount": [
+        "217"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Gamma_Ethniki"
+      ],
+      "redirectlabel": [
+        "Football League 2 (<B>Greece</B>)",
+        "Gama Ethniki",
+        "<B>Greek</B> Football League 2",
+        "Third Division (<B>Greece</B>)"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "Gamma Ethniki (<B>Greek</B>: Γ΄ Εθνική Ερασιτεχνική Κατηγορία, C National Amateur Division) is the fourth highest football league in <B>Greece</B>."
+      ],
+      "label": [
+        "Gamma Ethniki"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Gamma_Ethniki"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Gamma_Ethniki",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Third_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2524.3474"
+      ],
+      "refCount": [
+        "97"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greece"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> Civilization",
+        "Ancient <B>Greek</B> Government",
+        "Ancient <B>Greek</B> civilisation",
+        "Ancient <B>Greek</B> civilization",
+        "Ancient <B>Greek</B> culture",
+        "Ancient <B>Greek</B> politics",
+        "Ancient <B>Greek</B> science",
+        "Ancient <B>Greek</B> world",
+        "Ancient <B>Greeks</B>",
+        "Ancient <B>greece</B>",
+        "Ancient greecians",
+        "Ancient history of <B>Greece</B>",
+        "Ancint <B>greece</B>",
+        "Anient <B>Greece</B>",
+        "Culture of ancient <B>Greece</B>",
+        "Government in <B>Greek</B> Antiquity",
+        "Government in ancient <B>Greece</B>",
+        "Government of Ancient <B>Greece</B>",
+        "Grecian runes",
+        "Grecianity",
+        "<B>Greece</B> in 4th century BC",
+        "<B>Greek</B> Antiquity",
+        "<B>Greek</B> Society",
+        "<B>Greek</B> antiquity",
+        "<B>Greek</B> era",
+        "<B>Greek</B> society",
+        "Hellenic Civilization",
+        "Hellenic civilisation",
+        "Hellenic civilization",
+        "Hellenic world",
+        "History of Ancient <B>Greece</B>",
+        "Science and technology in ancient <B>Greece</B>",
+        "Science in ancient <B>Greece</B>",
+        "The Ancient <B>Greeks</B>"
+      ],
+      "comment": [
+        "Ancient <B>Greece</B> (<B>Greek</B>: Ἑλλάς, romanized: Hellás) was a civilization belonging to a period of <B>Greek</B>"
+      ],
+      "label": [
+        "Ancient <B>Greece</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greece"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greece",
+        "http://dbpedia.org/resource/Category:Articles_which_contain_graphical_timelines",
+        "http://dbpedia.org/resource/Category:European_civilizations"
+      ]
+    },
+    {
+      "score": [
+        "2432.3816"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_government-debt_crisis"
+      ],
+      "redirectlabel": [
+        "2010 <B>Greek</B> economic crisis",
+        "2010 <B>Greek</B> sovereign debt crisis",
+        "2011 <B>Greek</B> debt crisis",
+        "Economic crisis in <B>Greece</B>",
+        "Financial collapse of <B>Greece</B>",
+        "<B>Greece</B> banking shutdown",
+        "<B>Greece</B> debt crisis",
+        "<B>Greece</B> debt crisis 2010",
+        "<B>Greece</B> default",
+        "<B>Greece</B> financial crisis",
+        "<B>Greece</B> government debt crisis",
+        "<B>Greece</B> run on the banks",
+        "<B>Greek</B> Bond Crisis",
+        "<B>Greek</B> banking shutdown",
+        "<B>Greek</B> credit crisis",
+        "<B>Greek</B> crisis",
+        "<B>Greek</B> crisis of 2013",
+        "<B>Greek</B> debt crisis",
+        "<B>Greek</B> debt crisis of 2010",
+        "<B>Greek</B> default",
+        "<B>Greek</B> depression",
+        "<B>Greek</B> economic crisis",
+        "<B>Greek</B> financial crisis",
+        "<B>Greek</B> government debt crisis",
+        "<B>Greek</B> public debt crisis",
+        "<B>Greek</B> run on the banks"
+      ],
+      "comment": [
+        "The <B>Greek</B> government-debt crisis was the sovereign debt crisis faced by <B>Greece</B> in the aftermath of"
+      ],
+      "label": [
+        "<B>Greek</B> government-debt crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_government-debt_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_in_Greece",
+        "http://dbpedia.org/resource/Category:2009_in_economics",
+        "http://dbpedia.org/resource/Category:2010s_economic_history",
+        "http://dbpedia.org/resource/Category:2010s_in_Greece",
+        "http://dbpedia.org/resource/Category:Athens_Exchange",
+        "http://dbpedia.org/resource/Category:Economic_history_of_Greece",
+        "http://dbpedia.org/resource/Category:Eurozone_crisis",
+        "http://dbpedia.org/resource/Category:Financial_crises",
+        "http://dbpedia.org/resource/Category:Government_debt_by_country",
+        "http://dbpedia.org/resource/Category:Government_finances_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_government-debt_crisis",
+        "http://dbpedia.org/resource/Category:History_of_Greece_since_1974",
+        "http://dbpedia.org/resource/Category:Poverty_in_Europe",
+        "http://dbpedia.org/resource/Category:Sovereign_default"
+      ]
+    },
+    {
+      "score": [
+        "2343.122"
+      ],
+      "refCount": [
+        "103207"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arthropod"
+      ],
+      "redirectlabel": [
+        "ARTHROPOD",
+        "Arthopods",
+        "Arthropod venom",
+        "Arthropod venoms",
+        "Arthropoda.",
+        "Arthropoda",
+        "Arthropodae",
+        "Arthropods",
+        "Euarthropod",
+        "Euarthropoda",
+        "Euarthropods",
+        "Evolution of arthropods",
+        "Evolutionary history of arthropods",
+        "Excretory systems of arthropods",
+        "Gnathopoda",
+        "Internal organs of arthropods",
+        "Microarthropod",
+        "Microarthropods",
+        "Minibeasts",
+        "Nervous systems of arthropods",
+        "Phylum arthropoda",
+        "Reproductive organs of arthropods",
+        "Reproductive systems of arthropods",
+        "Sex organs of arthropods"
+      ],
+      "comment": [
+        "An arthropod (, from <B>Greek</B> ἄρθρον arthron, \"joint\" and πούς pous, \"foot\" (gen. ποδός)) is an"
+      ],
+      "label": [
+        "Arthropod"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arthropod"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arthropods",
+        "http://dbpedia.org/resource/Category:Extant_Cambrian_first_appearances"
+      ]
+    },
+    {
+      "score": [
+        "2330.207"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_cuisine"
+      ],
+      "redirectlabel": [
+        "Cleftico",
+        "Cuisine of <B>Greece</B>",
+        "Food of <B>Greece</B>",
+        "<B>Greek</B> Food",
+        "<B>Greek</B> cusine",
+        "<B>Greek</B> dietary triad",
+        "<B>Greek</B> food",
+        "<B>Greek</B> foods",
+        "History of <B>Greek</B> cuisine",
+        "Kleftico",
+        "Kleftiko",
+        "Klephtico",
+        "Klephtiko",
+        "Kléftiko",
+        "Stifado",
+        "The <B>Greek</B> triad"
+      ],
+      "comment": [
+        "<B>Greek</B> cuisine (<B>Greek</B>: Ελληνική κουζίνα, romanized: Elliniki kouzina) is a Mediterranean cuisine"
+      ],
+      "label": [
+        "<B>Greek</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2301.649"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Doric_Greek"
+      ],
+      "redirectlabel": [
+        "Corinthian <B>Greek</B>",
+        "Dorian <B>Greek</B>",
+        "Doric <B>Greek</B> Glossary",
+        "Doric <B>Greek</B> language",
+        "Doric dialect (<B>Greece</B>)",
+        "Doric dialect (<B>Greek</B>)",
+        "Megarian Doric <B>Greek</B>",
+        "NW <B>Greek</B>",
+        "North-West <B>Greek</B>",
+        "North-Western <B>Greek</B>",
+        "Northwest <B>Greek</B>",
+        "Northwestern <B>Greek</B>",
+        "Phocian <B>Greek</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Doric, or Dorian (Ancient <B>Greek</B>: Δωρισμός, romanized: Dōrismós) was an Ancient <B>Greek</B> dialect. Its"
+      ],
+      "label": [
+        "Doric <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Doric_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1st-century_BC_disestablishments",
+        "http://dbpedia.org/resource/Category:8th-century_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:Ancient_Greek",
+        "http://dbpedia.org/resource/Category:Ancient_Greek_culture",
+        "http://dbpedia.org/resource/Category:Doric_Greek",
+        "http://dbpedia.org/resource/Category:Greek_language",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_8th_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_extinct_in_the_1st_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_of_Greece",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Anatolia",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Crete",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Italy",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Macedonia"
+      ]
+    },
+    {
+      "score": [
+        "2274.0186"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek-American_A.C."
+      ],
+      "redirectlabel": [
+        "1993-94 <B>Greek</B>-American A.C. season",
+        "1993–94 <B>Greek</B>-American A.C. season",
+        "1994-95 <B>Greek</B>-American A.C. season",
+        "1994-95 <B>Greek</B> American A.C. season",
+        "1994–95 <B>Greek</B>-American A.C. season",
+        "1994–95 <B>Greek</B> American A.C. season"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        "<B>Greek</B>-American Athletic Club was a semi-professional soccer club from San Francisco, California"
+      ],
+      "label": [
+        "<B>Greek</B>-American A.C."
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek-American_A.C."
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1949_establishments_in_California",
+        "http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1949",
+        "http://dbpedia.org/resource/Category:Diaspora_soccer_clubs_in_the_United_States",
+        "http://dbpedia.org/resource/Category:European-American_culture_in_San_Francisco",
+        "http://dbpedia.org/resource/Category:Greek-American_culture_in_California",
+        "http://dbpedia.org/resource/Category:Soccer_clubs_in_San_Francisco",
+        "http://dbpedia.org/resource/Category:U.S._Open_Cup_winners",
+        "http://dbpedia.org/resource/Category:U.S._clubs_in_CONCACAF_Champions'_Cup"
+      ]
+    },
+    {
+      "score": [
+        "2223.386"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_(TV_series)"
+      ],
+      "redirectlabel": [
+        "Amphora Society",
+        "Cyprus-Rhodes University",
+        "<B>GRΣΣK</B>",
+        "<B>Greek</B> (T.V.)",
+        "<B>Greek</B> (T.V. show)",
+        "<B>Greek</B> (TV)",
+        "<B>Greek</B> (TV Series)",
+        "<B>Greek</B> (TV show)",
+        "<B>Greek</B> (series)",
+        "<B>Greek</B> (show)",
+        "<B>Greek</B> (television series)",
+        "<B>Greek</B> (television show)",
+        "<B>Greek</B> Pilot Episode",
+        "<B>Greek</B> TV",
+        "<B>Greek</B> Uncovered",
+        "<B>Greek</B> tv",
+        "<B>Greek</B> tv show"
+      ],
+      "typeName": [
+        "TelevisionShow",
+        "Work"
+      ],
+      "comment": [
+        "<B>Greek</B> (typographically stylized as <B>GRΣΣK</B>) is an American comedy-drama television series that aired"
+      ],
+      "label": [
+        "<B>Greek</B> (TV series)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_(TV_series)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/TelevisionShow",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000s_American_LGBT-related_drama_television_series",
+        "http://dbpedia.org/resource/Category:2000s_American_college_television_series",
+        "http://dbpedia.org/resource/Category:2000s_American_comedy-drama_television_series",
+        "http://dbpedia.org/resource/Category:2000s_American_romantic_comedy_television_series",
+        "http://dbpedia.org/resource/Category:2000s_American_teen_drama_television_series",
+        "http://dbpedia.org/resource/Category:2007_American_television_series_debuts",
+        "http://dbpedia.org/resource/Category:2010s_American_LGBT-related_drama_television_series",
+        "http://dbpedia.org/resource/Category:2010s_American_college_television_series",
+        "http://dbpedia.org/resource/Category:2010s_American_comedy-drama_television_series",
+        "http://dbpedia.org/resource/Category:2010s_American_romantic_comedy_television_series",
+        "http://dbpedia.org/resource/Category:2010s_American_teen_drama_television_series",
+        "http://dbpedia.org/resource/Category:2011_American_television_series_endings",
+        "http://dbpedia.org/resource/Category:ABC_Family_original_programming",
+        "http://dbpedia.org/resource/Category:English-language_television_shows",
+        "http://dbpedia.org/resource/Category:Television_series_about_teenagers",
+        "http://dbpedia.org/resource/Category:Television_series_by_Disney–ABC_Domestic_Television",
+        "http://dbpedia.org/resource/Category:Television_shows_filmed_in_North_Carolina",
+        "http://dbpedia.org/resource/Category:Television_shows_set_in_Ohio"
+      ]
+    },
+    {
+      "score": [
+        "2217.674"
+      ],
+      "refCount": [
+        "782"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Satire"
+      ],
+      "redirectlabel": [
+        "Ancient Egyptian satire",
+        "Ancient <B>Greek</B> satire",
+        "Comic satire",
+        "Contemporary satire",
+        "Contemporary satirist",
+        "Dark satire",
+        "History of Satire",
+        "Juvenalian Satire",
+        "Juvenalian satire",
+        "Latin satire",
+        "Roman satire",
+        "Roman satirists",
+        "SATIRE",
+        "Satires",
+        "Satiric",
+        "Satiric tone",
+        "Satirical",
+        "Satirical Humour",
+        "Satirical articles",
+        "Satirical comedy",
+        "Satirical novel",
+        "Satirically",
+        "Satirise",
+        "Satirised",
+        "Satirises",
+        "Satirising",
+        "Satirize",
+        "Satirized",
+        "Satirizes",
+        "Satirizing",
+        "Satura"
+      ],
+      "comment": [
+        "In fiction and less frequently in non-fiction, satire is a genre of literature and performing arts, in which vices, follies, abuses and shortcomings are held up to ridicule, ideally with the intent of shaming individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society."
+      ],
+      "label": [
+        "Satire"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Satire"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Film_genres",
+        "http://dbpedia.org/resource/Category:Genres",
+        "http://dbpedia.org/resource/Category:Humanities",
+        "http://dbpedia.org/resource/Category:Humour",
+        "http://dbpedia.org/resource/Category:Literary_genres",
+        "http://dbpedia.org/resource/Category:Rhetoric",
+        "http://dbpedia.org/resource/Category:Satire",
+        "http://dbpedia.org/resource/Category:Television_genres",
+        "http://dbpedia.org/resource/Category:Theatrical_genres"
+      ]
+    },
+    {
+      "score": [
+        "2207.037"
+      ],
+      "refCount": [
+        "560"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/University_of_Georgia"
+      ],
+      "redirectlabel": [
+        "CCQC",
+        "Center for Computational Chemistry",
+        "Center for Computational Quantum Chemistry",
+        "Center for computational chemistry",
+        "Coastal Plain Research Arboretum",
+        "Georgia University",
+        "<B>Greek</B> life at the University of Georgia",
+        "History of UGA",
+        "List of fraternities and sororities at the University of Georgia",
+        "Myers Hall (University of Georgia)",
+        "Order of the <B>Greek</B> Horsemen",
+        "Payne Hall",
+        "Payne Hall (UGA)",
+        "Rutherford Hall",
+        "Tate Student Center",
+        "The Order of the <B>Greek</B> Horsemen",
+        "The University of Georgia",
+        "UGA COE",
+        "UGA College of Education",
+        "UGA FOOD SERVICES",
+        "UGA Griffin Campus",
+        "U Georgia",
+        "U of Georgia",
+        "Uga.edu",
+        "Univ. of Georgia",
+        "Univ of Georgia",
+        "University Of Georgia",
+        "University of Georgia (UGA)",
+        "University of Georgia College of Education",
+        "University of Georgia Research Foundation, Inc.",
+        "University of Georgia at Athens",
+        "Univesity of Georgia"
+      ],
+      "comment": [
+        "The University of Georgia (UGA or Georgia) is a public research university with its main campus in Athens, Georgia. Founded in 1785, it is one of the oldest public universities in the United States. The university is classified among \"R1: Doctoral Universities – Very high research activity,\" and as having \"more selective\" undergraduate admissions, its most selective admissions category, while the ACT Assessment Student Report places UGA admissions in the \"Highly Selective\" category, the highest classification. In keeping with the teaching portion of its motto, the university has a student-to-faculty ratio of 17 students per faculty member, and 46 percent of its classes have fewer than 20 students. In its 2020 rankings, U.S. News & World Report ranked the university tied for 50th among all "
+      ],
+      "label": [
+        "University of Georgia"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/University_of_Georgia"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1785_establishments_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Education_in_Clarke_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Education_in_Tift_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1785",
+        "http://dbpedia.org/resource/Category:Flagship_universities_in_the_United_States",
+        "http://dbpedia.org/resource/Category:Historic_districts_on_the_National_Register_of_Historic_Places_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Land-grant_universities_and_colleges",
+        "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Tift_County,_Georgia",
+        "http://dbpedia.org/resource/Category:Public_universities_and_colleges_in_Georgia_(U.S._state)",
+        "http://dbpedia.org/resource/Category:Tourist_attractions_in_Athens,_Georgia",
+        "http://dbpedia.org/resource/Category:Universities_and_colleges_accredited_by_the_Southern_Association_of_Colleges_and_Schools",
+        "http://dbpedia.org/resource/Category:University_of_Georgia"
+      ]
+    },
+    {
+      "score": [
+        "2198.6616"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_dances"
+      ],
+      "redirectlabel": [
+        "Choros (dance)",
+        "Chorós",
+        "Dance in <B>Greece</B>",
+        "Dance in ancient <B>Greece</B>",
+        "Galanogalani",
+        "<B>Greek</B> Dance",
+        "<B>Greek</B> Dances",
+        "<B>Greek</B> Folk Dances",
+        "<B>Greek</B> Folk Dancing",
+        "<B>Greek</B> dance",
+        "Horos",
+        "Horos (dance)",
+        "Horós",
+        "Khoros (dance)",
+        "Khorós",
+        "Moustambeiko"
+      ],
+      "comment": [
+        " regions of <B>Greece</B>. There are also pan-Hellenic dances, which have been adopted throughout the <B>Greek</B>"
+      ],
+      "label": [
+        "<B>Greek</B> dances"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_dances"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_culture",
+        "http://dbpedia.org/resource/Category:Greek_dances",
+        "http://dbpedia.org/resource/Category:Greek_music"
+      ]
+    },
+    {
+      "score": [
+        "2182.9065"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_diaspora"
+      ],
+      "redirectlabel": [
+        "Emigration from <B>Greece</B>",
+        "<B>Greek</B> Diaspora",
+        "<B>Greeks</B> Diaspora in India",
+        "<B>Greeks</B> in Belarus",
+        "<B>Greeks</B> in Bosnia and Herzegovina",
+        "<B>Greeks</B> in Colombia",
+        "<B>Greeks</B> in Costa Rica",
+        "<B>Greeks</B> in Ecuador",
+        "<B>Greeks</B> in India",
+        "<B>Greeks</B> in Iran",
+        "<B>Greeks</B> in Latvia",
+        "<B>Greeks</B> in Lithuania",
+        "<B>Greeks</B> in Luxembourg",
+        "<B>Greeks</B> in Oman",
+        "<B>Greeks</B> in Panama",
+        "<B>Greeks</B> in Peru",
+        "<B>Greeks</B> in Saudi Arabia",
+        "<B>Greeks</B> in Slovakia",
+        "<B>Greeks</B> in Slovenia",
+        "<B>Greeks</B> in Spain",
+        "<B>Greeks</B> in Switzerland",
+        "<B>Greeks</B> in Tajikistan",
+        "<B>Greeks</B> in Uganda",
+        "<B>Greeks</B> of Croatia",
+        "Hellenic diaspora",
+        "History of the <B>Greek</B> diaspora",
+        "Omogenia",
+        "Ομογένεια"
+      ],
+      "comment": [
+        " <B>Greek</B> people living outside <B>Greece</B>, Cyprus which are the traditional <B>Greek</B> homelands, Albania, North"
+      ],
+      "label": [
+        "<B>Greek</B> diaspora"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_diaspora"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_diasporas",
+        "http://dbpedia.org/resource/Category:Greek_diaspora"
+      ]
+    },
+    {
+      "score": [
+        "2173.0664"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Women's_Basketball_League"
+      ],
+      "redirectlabel": [
+        "A1 Ethniki Women's Basketball",
+        "A1 Ethniki Women",
+        "<B>Greek</B> Women's Basket League"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Greek</B> women’s Basketball League, also known as A1 Ethniki (A1 National) Women's Basketball is"
+      ],
+      "label": [
+        "<B>Greek</B> Women's Basketball League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Women's_Basketball_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:National_championships_in_Greece",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1967",
+        "http://dbpedia.org/resource/Category:Women's_basketball_competitions_in_Greece"
+      ]
+    },
+    {
+      "score": [
+        "2171.238"
+      ],
+      "refCount": [
+        "114"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Latin_and_Greek_words_commonly_used_in_systematic_names"
+      ],
+      "redirectlabel": [
+        "Acaulis",
+        "Africanum",
+        "Alpinum",
+        "Americanum",
+        "Amurensis",
+        "Angolensis",
+        "Angustifolia",
+        "Aromatica",
+        "Asiatica",
+        "Aurantiaca",
+        "Aurantium",
+        "Brasiliensis",
+        "Brevirostris",
+        "Californica",
+        "Californicus",
+        "Californiensis",
+        "Canadense",
+        "Caprae",
+        "Chinense",
+        "Citri",
+        "Clusii",
+        "Common species names",
+        "Cordifolia",
+        "Coronatus (species)",
+        "Diffusa",
+        "Digitatum",
+        "Digitatus",
+        "Dioica",
+        "Elegans",
+        "Elegantissima",
+        "Ensiformis",
+        "Erecta",
+        "Erosus",
+        "Esculent",
+        "Esculenta",
+        "Esculentum",
+        "Esculentus",
+        "Europaea",
+        "Europaeus",
+        "Excelsus",
+        "Giganteum",
+        "Glabra",
+        "Glabrum",
+        "Glandulosa",
+        "Glossary of scientific names",
+        "Graveolens",
+        "<B>Greek</B> and Latin words found in species names",
+        "Hemisphaerica",
+        "Hybridum",
+        "Imbricata",
+        "Inaequalis",
+        "Innotata",
+        "Irregulare",
+        "Irregularis",
+        "Japonicum",
+        "Japonicus",
+        "Laevis",
+        "Limosus",
+        "List of <B>Greek</B> and Latin words commonly used in systematic names",
+        "List of Latin & <B>Greek</B> words commonly used in systematic names",
+        "List of common species names",
+        "Maculatum",
+        "Madagascariensis",
+        "Marginata",
+        "Marginatus",
+        "Minuta",
+        "Monoica",
+        "Monosperma",
+        "Monospermum",
+        "Monspeliense",
+        "Monspeliensis",
+        "Monspessulana",
+        "Monspessulanum",
+        "Monspessulanus",
+        "Nigrescens",
+        "Nigrum",
+        "Nigrus",
+        "Nucifera",
+        "Obsoletus",
+        "Occidentalis",
+        "Ovata",
+        "Pallida",
+        "Pallidus",
+        "Phenolica",
+        "Phenolicus",
+        "Plumosum",
+        "Pubescens",
+        "Purpurascens",
+        "Radicans",
+        "Reticulata",
+        "Sarawakensis",
+        "Setosus",
+        "Similis",
+        "Sinense",
+        "Stemless",
+        "Striata",
+        "Striatus",
+        "Sulcata",
+        "Syriaca",
+        "Syriacus",
+        "Terrestris",
+        "Tinctoria",
+        "Tinctorium",
+        "Tinctorius",
+        "Tinctorum",
+        "Tristis",
+        "Tropicalis",
+        "Variegata",
+        "Variegatus",
+        "Vernicosa",
+        "Verticillata",
+        "Victoriae",
+        "Viticola",
+        "Vulgare"
+      ],
+      "comment": [
+        "This list of Latin and <B>Greek</B> words commonly used in systematic names is intended to help those"
+      ],
+      "label": [
+        "List of Latin and <B>Greek</B> words commonly used in systematic names"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Latin_and_Greek_words_commonly_used_in_systematic_names"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Etymologies",
+        "http://dbpedia.org/resource/Category:Glossaries_of_biology",
+        "http://dbpedia.org/resource/Category:Greek_words_and_phrases",
+        "http://dbpedia.org/resource/Category:Latin_words_and_phrases",
+        "http://dbpedia.org/resource/Category:Lists_of_words",
+        "http://dbpedia.org/resource/Category:Taxonomy_(biology)"
+      ]
+    },
+    {
+      "score": [
+        "2169.999"
+      ],
+      "refCount": [
+        "175"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dasari_Narayana_Rao"
+      ],
+      "redirectlabel": [
+        "Dasari Narayan Rao",
+        "Dasari narayana",
+        "Dasari narayanarao",
+        "Dasari narayanrao",
+        "Dasari rao",
+        "Dasarinarayana",
+        "Dasarinarayana rao",
+        "Dasarinarayanarao",
+        "Dasarirao",
+        "Dr. Dasari Narayan Rao",
+        "<B>Greek</B> Veerudu",
+        "<B>Greek</B> Veerudu (1998 film)",
+        "<B>Greeku</B> Veerudu (1998 film)",
+        "Narayana Rao Dasari"
+      ],
+      "typeName": [
+        "Person",
+        "Agent"
+      ],
+      "comment": [
+        "Dasari Narayana Rao (4 May 1947 – 30 May 2017) was an Indian film director, producer, screenwriter, dialogue writer, actor, lyricist, and politician known for his works predominantly in Telugu cinema, Television, and Bollywood. He has directed more than one hundred and fifty feature films in a variety of genres. His works emphasize social injustice, corruption and gender discrimination. Rao has received two National Film Awards, nine state Nandi Awards including the Raghupathi Venkaiah Award, and four Filmfare Awards South including the lifetime Achievement. During his career he has also acted in Telugu, Tamil, and Kannada languages."
+      ],
+      "label": [
+        "Dasari Narayana Rao"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dasari_Narayana_Rao"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Person",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1942_births",
+        "http://dbpedia.org/resource/Category:2017_deaths",
+        "http://dbpedia.org/resource/Category:20th-century_Indian_dramatists_and_playwrights",
+        "http://dbpedia.org/resource/Category:20th-century_Indian_film_directors",
+        "http://dbpedia.org/resource/Category:20th-century_Indian_male_actors",
+        "http://dbpedia.org/resource/Category:20th-century_Indian_musicians",
+        "http://dbpedia.org/resource/Category:20th-century_male_musicians",
+        "http://dbpedia.org/resource/Category:21st-century_Indian_dramatists_and_playwrights",
+        "http://dbpedia.org/resource/Category:21st-century_Indian_film_directors",
+        "http://dbpedia.org/resource/Category:21st-century_Indian_male_actors",
+        "http://dbpedia.org/resource/Category:21st-century_Indian_musicians",
+        "http://dbpedia.org/resource/Category:21st-century_male_musicians",
+        "http://dbpedia.org/resource/Category:Coal_block_allocation_scam",
+        "http://dbpedia.org/resource/Category:Dancers_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Film_producers_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Filmfare_Awards_South_winners",
+        "http://dbpedia.org/resource/Category:Hindi-language_film_directors",
+        "http://dbpedia.org/resource/Category:Hindi-language_lyricists",
+        "http://dbpedia.org/resource/Category:Indian_National_Congress_politicians_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Indian_actor-politicians",
+        "http://dbpedia.org/resource/Category:Indian_film_choreographers",
+        "http://dbpedia.org/resource/Category:Indian_male_film_actors",
+        "http://dbpedia.org/resource/Category:Indian_male_songwriters",
+        "http://dbpedia.org/resource/Category:Kannada_film_directors",
+        "http://dbpedia.org/resource/Category:Male_actors_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Male_actors_in_Telugu_cinema",
+        "http://dbpedia.org/resource/Category:Musicians_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Nandi_Award_winners",
+        "http://dbpedia.org/resource/Category:People_charged_with_corruption",
+        "http://dbpedia.org/resource/Category:People_from_Palakollu",
+        "http://dbpedia.org/resource/Category:People_from_West_Godavari_district",
+        "http://dbpedia.org/resource/Category:Rajya_Sabha_members_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Screenwriters_from_Andhra_Pradesh",
+        "http://dbpedia.org/resource/Category:Special_Mention_(feature_film)_National_Film_Award_winners",
+        "http://dbpedia.org/resource/Category:Tamil_film_directors",
+        "http://dbpedia.org/resource/Category:Telugu-language_lyricists",
+        "http://dbpedia.org/resource/Category:Telugu_film_directors",
+        "http://dbpedia.org/resource/Category:Telugu_film_producers",
+        "http://dbpedia.org/resource/Category:Telugu_politicians",
+        "http://dbpedia.org/resource/Category:Telugu_screenwriters",
+        "http://dbpedia.org/resource/Category:Union_ministers_of_state_of_India"
+      ]
+    },
+    {
+      "score": [
+        "2160.6155"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Indo-Greek_Kingdom"
+      ],
+      "redirectlabel": [
+        "Graeco-India",
+        "Graeco-Indian Kingdom",
+        "Graeco-Indians",
+        "<B>Greco</B>-India",
+        "<B>Greco</B>-Indian",
+        "<B>Greco</B>-Indian Kingdom",
+        "<B>Greco</B>-Indians",
+        "<B>Greco</B>-indian",
+        "Indo-<B>Greek</B>",
+        "Indo-<B>Greek</B> Kingdoms",
+        "Indo-<B>Greek</B> kingdom",
+        "Indo-<B>Greek</B> kingdoms",
+        "Indo-<B>Greek</B> ruler",
+        "Indo-<B>Greeks</B>",
+        "Indo-<B>greek</B>",
+        "Indo-<B>greek</B> kingdom",
+        "Indo <B>Greek</B> Kingdom",
+        "Indo <B>Greeks</B>",
+        "Yavana Kingdom"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Indo-<B>Greek</B> Kingdom or Graeco-Indian Kingdom was a Hellenistic kingdom spanning modern-day"
+      ],
+      "label": [
+        "Indo-<B>Greek</B> Kingdom"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Indo-Greek_Kingdom"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:10s_disestablishments",
+        "http://dbpedia.org/resource/Category:180s_BC_establishments",
+        "http://dbpedia.org/resource/Category:1st-century_disestablishments",
+        "http://dbpedia.org/resource/Category:Ancient_India",
+        "http://dbpedia.org/resource/Category:Ancient_history_of_Afghanistan",
+        "http://dbpedia.org/resource/Category:Ancient_peoples_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_India",
+        "http://dbpedia.org/resource/Category:Former_kingdoms",
+        "http://dbpedia.org/resource/Category:Hellenistic_states",
+        "http://dbpedia.org/resource/Category:Indo-Greeks",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_the_1st_century",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_the_2nd_century_BC"
+      ]
+    },
+    {
+      "score": [
+        "2128.9316"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Greek_mythological_figures"
+      ],
+      "redirectlabel": [
+        "All the <B>greek</B> gods",
+        "Ancient <B>greece</B> gods",
+        "Corymbus",
+        "<B>Greek</B> God",
+        "<B>Greek</B> Gods",
+        "<B>Greek</B> Mythological characters",
+        "<B>Greek</B> deities",
+        "<B>Greek</B> god",
+        "<B>Greek</B> gods",
+        "<B>Greek</B> gods and goddesses",
+        "<B>Greek</B> mythological characters",
+        "<B>Greek</B> mythological figures",
+        "List of <B>Greek</B> deities",
+        "List of <B>Greek</B> gods",
+        "List of <B>Greek</B> mythical figures",
+        "List of <B>Greek</B> mythological characters",
+        "List of all <B>greek</B> god and goddesses",
+        "List of <B>greek</B> gods",
+        "List of <B>greek</B> mythological figures",
+        "The Gods of Ancient <B>Greece</B>",
+        "The names of all the <B>greek</B> gods, spirits, and heroes"
+      ],
+      "comment": [
+        " ancient <B>Greek</B> mythology and ancient <B>Greek</B> religion. The list does not include creatures; for these, see List of <B>Greek</B> mythological creatures."
+      ],
+      "label": [
+        "List of <B>Greek</B> mythological figures"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Greek_mythological_figures"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Characters_in_Greek_mythology",
+        "http://dbpedia.org/resource/Category:Greek_mythology-related_lists",
+        "http://dbpedia.org/resource/Category:Lists_of_deities"
+      ]
+    },
+    {
+      "score": [
+        "2118.7622"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Cypriots"
+      ],
+      "redirectlabel": [
+        "Cypriot <B>Greeks</B>",
+        "Genetic studies on <B>Greek</B> Cypriots",
+        "<B>Greek</B>-Cypriot",
+        "<B>Greek</B>-Cypriots",
+        "<B>Greek</B> Cypriot",
+        "Southern Cypriots"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Greek</B> Cypriots (<B>Greek</B>: Ελληνοκύπριοι, Turkish: Kıbrıs Rumları or Kıbrıs Yunanları) are the ethnic"
+      ],
+      "label": [
+        "<B>Greek</B> Cypriots"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Cypriots"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cyprus–Greece_relations",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Cyprus",
+        "http://dbpedia.org/resource/Category:Greek_Cypriot_people"
+      ]
+    },
+    {
+      "score": [
+        "2095.3171"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_football_clubs_in_European_competitions"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Football Clubs in European Competitions",
+        "<B>Greek</B> Football Clubs in European Competitions 1959-68",
+        "<B>Greek</B> Football Clubs in European Competitions 1959-69",
+        "<B>Greek</B> Football Clubs in European Competitions 1969-78",
+        "<B>Greek</B> Football Clubs in European Competitions 1979-88",
+        "<B>Greek</B> Football Clubs in European Competitions 1989-98",
+        "<B>Greek</B> Football Clubs in European Competitions 1999-08",
+        "<B>Greek</B> Football Clubs in European Competitions 1999-2008",
+        "<B>Greek</B> football clubs in Europe",
+        "<B>Greek</B> football clubs in European competitions 1959-68",
+        "<B>Greek</B> football clubs in European competitions 1960-69",
+        "<B>Greek</B> football clubs in European competitions 1960–69",
+        "<B>Greek</B> football clubs in European competitions 1969-78",
+        "<B>Greek</B> football clubs in European competitions 1970-79",
+        "<B>Greek</B> football clubs in European competitions 1970–79",
+        "<B>Greek</B> football clubs in European competitions 1979-88",
+        "<B>Greek</B> football clubs in European competitions 1980-89",
+        "<B>Greek</B> football clubs in European competitions 1980–89",
+        "<B>Greek</B> football clubs in European competitions 1989-98",
+        "<B>Greek</B> football clubs in European competitions 1990-99",
+        "<B>Greek</B> football clubs in European competitions 1990–99",
+        "<B>Greek</B> football clubs in European competitions 1999-08",
+        "<B>Greek</B> football clubs in European competitions 1999-2008",
+        "<B>Greek</B> football clubs in European competitions 2000-09",
+        "<B>Greek</B> football clubs in European competitions 2000–09",
+        "<B>Greek</B> football clubs in European competitions 2010-19",
+        "<B>Greek</B> football clubs in European competitions 2010–19"
+      ],
+      "comment": [
+        " 1959, when Olympiacos took part in the European Cup. In total, twenty <B>Greek</B> clubs have taken part in"
+      ],
+      "label": [
+        "<B>Greek</B> football clubs in European competitions"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_football_clubs_in_European_competitions"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:European_football_clubs_in_international_competitions",
+        "http://dbpedia.org/resource/Category:Greek_football_clubs_in_international_competitions"
+      ]
+    },
+    {
+      "score": [
+        "2092.4233"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Americans"
+      ],
+      "redirectlabel": [
+        "American-<B>Greek</B>",
+        "Demographics of <B>Greek</B> Americans",
+        "<B>Greek</B>-American",
+        "<B>Greek</B>-Americans",
+        "<B>Greek</B> American",
+        "<B>Greek</B> diner",
+        "<B>Greek</B> immigration to the United States",
+        "<B>Greek</B> language in the United States",
+        "<B>Greeks</B> in the United States",
+        "<B>Greek</B>–American",
+        "History of <B>Greek</B> Americans",
+        "List of U.S. cities with large <B>Greek</B> American populations"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Greek</B> Americans (<B>Greek</B>: Ελληνοαμερικανοί, Ellinoamerikanoi) are Americans of full or partial <B>Greek</B>"
+      ],
+      "label": [
+        "<B>Greek</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:American_people_of_Greek_descent",
+        "http://dbpedia.org/resource/Category:European-American_society",
+        "http://dbpedia.org/resource/Category:Greek_American"
+      ]
+    },
+    {
+      "score": [
+        "2082.4043"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Medieval_Greek"
+      ],
+      "redirectlabel": [
+        "Byzantine <B>Greek</B>",
+        "Byzantine <B>Greek</B> language",
+        "Byzantine script",
+        "Constantinopolitan <B>Greek</B>",
+        "Constantinopolitan <B>Greek</B> Language",
+        "Constantinopolitan <B>Greek</B> language",
+        "Mediaeval <B>Greek</B>",
+        "Medieval <B>Greek</B> language",
+        "Middle <B>Greek</B>",
+        "Middle <B>Greek</B> language",
+        "Romaic",
+        "Vernacular <B>Greek</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Medieval <B>Greek</B>, also known as Byzantine <B>Greek</B>, is the stage of the <B>Greek</B> language between the end"
+      ],
+      "label": [
+        "Medieval <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Medieval_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:15th-century_disestablishments_in_Europe",
+        "http://dbpedia.org/resource/Category:4th-century_establishments",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_4th_century",
+        "http://dbpedia.org/resource/Category:Languages_extinct_in_the_15th_century",
+        "http://dbpedia.org/resource/Category:Languages_of_Egypt",
+        "http://dbpedia.org/resource/Category:Languages_of_Sicily",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Italy",
+        "http://dbpedia.org/resource/Category:Medieval_Greek"
+      ]
+    },
+    {
+      "score": [
+        "2072.7297"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Romanian_Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "<B>Greco</B>-Catholic Church of Romania",
+        "<B>Greek</B>-Catholic Church of Romania",
+        "<B>Greek</B>-Catholic Romanian Church",
+        "Romanian Byzantine Catholic Church",
+        "Romanian Catholic",
+        "Romanian Church United with Rome, <B>Greek</B>-Catholic",
+        "Romanian Church United with Rome, <B>Greek</B> Catholic",
+        "Romanian Church United with Rome",
+        "Romanian <B>Greco</B>-Catholic Church",
+        "Romanian <B>Greek</B>-Catholic",
+        "Romanian <B>Greek</B>-Catholic Church",
+        "Romanian <B>Greek</B>-Catholic Uniate Church",
+        "Romanian <B>Greek</B> Catholic",
+        "Romanian <B>Greek</B> Catholic Church United with Rome",
+        "Romanian <B>Greek</B> Church",
+        "Romanian Rite",
+        "Romanian Uniate Church",
+        "Uniate Romanian Church"
+      ],
+      "typeName": [
+        "AdministrativeRegion",
+        "Place",
+        "PopulatedPlace",
+        "Diocese",
+        "Location",
+        "Region",
+        "ClericalAdministrativeRegion"
+      ],
+      "comment": [
+        "The Romanian <B>Greek</B> Catholic Church or Romanian Church United with Rome, <B>Greek</B>-Catholic (Romanian"
+      ],
+      "label": [
+        "Romanian <B>Greek</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Romanian_Greek_Catholic_Church"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/AdministrativeRegion",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Diocese",
+        "http://dbpedia.org/ontology/Location",
+        "http://dbpedia.org/ontology/Region",
+        "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1701_establishments_in_Europe",
+        "http://dbpedia.org/resource/Category:18th-century_Eastern_Catholicism",
+        "http://dbpedia.org/resource/Category:Christian_denominations_established_in_the_18th_century",
+        "http://dbpedia.org/resource/Category:Religious_organizations_established_in_1701",
+        "http://dbpedia.org/resource/Category:Romanian_Greek_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "2040.48"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_nationality_law"
+      ],
+      "redirectlabel": [
+        "Citizen of <B>Greece</B>",
+        "Citizenship law of <B>Greece</B>",
+        "Citizenship laws of <B>Greece</B>",
+        "<B>Greece</B> citizenship",
+        "<B>Greece</B> nationality law",
+        "<B>Greek</B> Nationality Law",
+        "<B>Greek</B> citizen",
+        "<B>Greek</B> citizens",
+        "<B>Greek</B> citizenship",
+        "<B>Greek</B> citizenship law",
+        "<B>Greek</B> citizenship laws",
+        "<B>Greek</B> nationality laws",
+        "Nationality law of <B>Greece</B>",
+        "Nationality laws of <B>Greece</B>"
+      ],
+      "comment": [
+        "Nationality law of <B>Greece</B> is based on the principle of jus sanguinis. <B>Greek</B> citizenship may be"
+      ],
+      "label": [
+        "<B>Greek</B> nationality law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_nationality_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greece_and_the_European_Union",
+        "http://dbpedia.org/resource/Category:Greek_nationality_law"
+      ]
+    },
+    {
+      "score": [
+        "2040.1106"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Greek_sentiment"
+      ],
+      "redirectlabel": [
+        "Anti-<B>Greek</B>",
+        "Anti-<B>Greek</B> sentiment in Australia",
+        "Anti-<B>Greek</B> sentiment in Turkey",
+        "Anti-<B>Greek</B> sentiment in the United States",
+        "Anti-Hellenic",
+        "Anti-Hellenism",
+        "Anti-Hellenist",
+        "Antigreek",
+        "Antihellenic",
+        "Antihellenism",
+        "Antihellenist",
+        "Discrimination against <B>Greeks</B>",
+        "Hellenophobe",
+        "Hellenophobia",
+        "Hellenophobic",
+        "Mishellenic",
+        "Mishellenism",
+        "Mishellenist",
+        "Mishellenists",
+        "Persecution of <B>Greeks</B>"
+      ],
+      "comment": [
+        "Anti-<B>Greek</B> sentiment (also known as Hellenophobia (<B>Greek</B>: ελληνοφοβία, romanized: ellēnophobía"
+      ],
+      "label": [
+        "Anti-<B>Greek</B> sentiment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Greek_sentiment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Greek_sentiment",
+        "http://dbpedia.org/resource/Category:Anti-national_sentiment"
+      ]
+    },
+    {
+      "score": [
+        "2030.608"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_chorus"
+      ],
+      "redirectlabel": [
+        "Choros (<B>Greek</B> drama)",
+        "Chorus (<B>Greek</B> drama)",
+        "<B>Greek</B> Chorus",
+        "<B>Greek</B> choros",
+        "<B>Greek</B> horos",
+        "<B>Greek</B> horus",
+        "<B>Greek</B> khoros",
+        "<B>Greek</B> khorus",
+        "Horos (<B>Greek</B> drama)",
+        "Horus (<B>Greek</B> drama)",
+        "Khoros (<B>Greek</B> drama)",
+        "Khorus (<B>Greek</B> drama)"
+      ],
+      "comment": [
+        "A <B>Greek</B> chorus, or simply chorus (<B>Greek</B>: χορός, khoros) in the context of Ancient <B>Greek</B> tragedy"
+      ],
+      "label": [
+        "<B>Greek</B> chorus"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_chorus"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_theatre",
+        "http://dbpedia.org/resource/Category:Stock_characters_in_ancient_Greek_comedy"
+      ]
+    },
+    {
+      "score": [
+        "2030.0343"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_C_Basket_League"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Basket C League",
+        "<B>Greek</B> Basketball C League",
+        "<B>Greek</B> C Basketball League"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Greek</B> C Basket League, or <B>Greek</B> C Basketball League (<B>Greek</B>: Ελληνική Γ Μπάσκετ Λιγκ) is the"
+      ],
+      "label": [
+        "<B>Greek</B> C Basket League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_C_Basket_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Fourth_level_basketball_leagues_in_Europe",
+        "http://dbpedia.org/resource/Category:Greek_C_Basket_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1985"
+      ]
+    },
+    {
+      "score": [
+        "2016.4318"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_literature"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Literature",
+        "<B>Greek</B> poetry",
+        "Literature of <B>Greece</B>"
+      ],
+      "comment": [
+        "<B>Greek</B> literature dates back from the ancient <B>Greek</B> literature, beginning in 800 BC, to the modern"
+      ],
+      "label": [
+        "<B>Greek</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_literature",
+        "http://dbpedia.org/resource/Category:History_of_literature",
+        "http://dbpedia.org/resource/Category:Literature_of_languages_with_own_distinct_writing_systems"
+      ]
+    },
+    {
+      "score": [
+        "2009.4484"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Attic_Greek"
+      ],
+      "redirectlabel": [
+        "Ancient Attic <B>Greek</B>",
+        "Attic Dialect",
+        "Attic <B>Greek</B> language",
+        "Attic alphabet",
+        "Attic dialect",
+        "Classical Athenian",
+        "Classical Attic",
+        "Hyphaeresis"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Attic <B>Greek</B> is the <B>Greek</B> dialect of the ancient city-state of Athens. Of the ancient dialects, it"
+      ],
+      "label": [
+        "Attic <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Attic_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:5th-century_BC_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Classical_languages",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_5th_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_extinct_in_the_3rd_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Macedonia",
+        "http://dbpedia.org/resource/Category:Varieties_of_Ancient_Greek"
+      ]
+    },
+    {
+      "score": [
+        "1997.328"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_colonisation"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> colonies",
+        "Ancient <B>Greek</B> colonisation",
+        "Ancient <B>Greek</B> colonization",
+        "Apoika",
+        "Apoikia",
+        "Apoikiai",
+        "Black Sea Colonies",
+        "Colonies of Ancient <B>Greece</B>",
+        "Colonies of ancient <B>Greece</B>",
+        "<B>Greek</B> colonies",
+        "<B>Greek</B> colonization",
+        "<B>Greek</B> colony",
+        "Hellenic colonies",
+        "Second <B>Greek</B> colonisation"
+      ],
+      "comment": [
+        "<B>Greek</B> colonisation was an organised colonial expansion by the Archaic <B>Greeks</B> into the Mediterranean"
+      ],
+      "label": [
+        "<B>Greek</B> colonisation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_colonisation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Archaic_Greece",
+        "http://dbpedia.org/resource/Category:Greek_colonies"
+      ]
+    },
+    {
+      "score": [
+        "1984.4066"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Aeolic_Greek"
+      ],
+      "redirectlabel": [
+        "Aeolian <B>Greek</B>",
+        "Aeolian dialect",
+        "Aeolic",
+        "Aeolic Dialect",
+        "Aeolic <B>Greek</B> language",
+        "Aeolic dialect",
+        "Boeotian <B>Greek</B>",
+        "Boiotic <B>Greek</B>",
+        "Lesbian <B>Greek</B>",
+        "Lesbic <B>Greek</B>",
+        "Sapphic <B>Greek</B>",
+        "Thessalian <B>Greek</B>"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        " dialects of Ancient <B>Greek</B> spoken mainly in Boeotia (a region in Central <B>Greece</B>); in Thessaly; in"
+      ],
+      "label": [
+        "Aeolic <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Aeolic_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Culture_of_ancient_Thessaly",
+        "http://dbpedia.org/resource/Category:Languages_attested_from_the_8th_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_extinct_in_the_3rd_century_BC",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Anatolia",
+        "http://dbpedia.org/resource/Category:Languages_of_ancient_Thessaly",
+        "http://dbpedia.org/resource/Category:Varieties_of_Ancient_Greek"
+      ]
+    },
+    {
+      "score": [
+        "1964.7173"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_phonology"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> phonetics",
+        "Ancient <B>Greek</B> pronunciation",
+        "Ancient <B>Greek</B> sandhi",
+        "Ancient <B>Greek</B> vowels",
+        "Ancient <B>greek</B> phonology",
+        "Attic-Ionic vowel shift",
+        "Attic <B>Greek</B> phonology",
+        "Attic–Ionic vowel shift",
+        "History of <B>Greek</B> phonology",
+        "Phonology of ancient <B>Greek</B>",
+        "Pronunciation of <B>Greek</B>",
+        "Reconstructed pronunciation of ancient <B>Greek</B>",
+        "The 19th century reconstructed pronunciation of ancient <B>Greek</B>",
+        "The reconstructed pronunciation of ancient <B>Greek</B>"
+      ],
+      "comment": [
+        "Ancient <B>Greek</B> phonology is the reconstructed phonology or pronunciation of Ancient <B>Greek</B>. This"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> phonology"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_phonology"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek",
+        "http://dbpedia.org/resource/Category:Greek_phonologies"
+      ]
+    },
+    {
+      "score": [
+        "1941.3317"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_mathematics"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> mathematicians",
+        "Ancient <B>Greek</B> mathematics",
+        "<B>Greek</B> Mathematics",
+        "<B>Greek</B> mathematician",
+        "<B>Greek</B> maths",
+        "Hellenistic mathematics",
+        "Mathematics of <B>Greece</B>"
+      ],
+      "comment": [
+        "<B>Greek</B> mathematics refers to mathematics texts written during and ideas stemming from the Classical"
+      ],
+      "label": [
+        "<B>Greek</B> mathematics"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_mathematics"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_mathematics"
+      ]
+    },
+    {
+      "score": [
+        "1899.6193"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Cypriot_Greek"
+      ],
+      "redirectlabel": [
+        "Cypriot-<B>Greek</B>",
+        "Cypriot-<B>greek</B>",
+        "Cypriot <B>Greek</B> dialect",
+        "Cypriot <B>Greek</B> language",
+        "El-CY",
+        "<B>Greek</B>-Cypriot Dialect",
+        "<B>Greek</B> Cypriot Dialect"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Cypriot <B>Greek</B> (<B>Greek</B>: κυπριακά ελληνικά or κυπριακά) is the variety of Modern <B>Greek</B> that is spoken"
+      ],
+      "label": [
+        "Cypriot <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Cypriot_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cyprus–Greece_relations",
+        "http://dbpedia.org/resource/Category:Languages_of_Cyprus",
+        "http://dbpedia.org/resource/Category:Varieties_of_Modern_Greek"
+      ]
+    },
+    {
+      "score": [
+        "1898.8589"
+      ],
+      "refCount": [
+        "37"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Orthodox_Patriarchate_of_Alexandria"
+      ],
+      "redirectlabel": [
+        "African Eastern-Orthodox Church",
+        "African Eastern Orthodox Church",
+        "African <B>Greek</B>-Orthodox Church",
+        "African <B>Greek</B> Orthodox Church",
+        "Alexandrian Eastern-Orthodox",
+        "Alexandrian Eastern-Orthodox Church",
+        "Alexandrian Eastern-Orthodox Patriarchate",
+        "Alexandrian Eastern Orthodox",
+        "Alexandrian Eastern Orthodox Church",
+        "Alexandrian Eastern Orthodox Patriarchate",
+        "Alexandrian Orthodox",
+        "Alexandrian Orthodoxy",
+        "Alexandrian orthodox",
+        "Alexandrian orthodoxy",
+        "Byzantine Orthodox Church of Alexandria",
+        "Byzantine Orthodox Patriarchate of Alexandria",
+        "Chalcedonian Church of Alexandria",
+        "Chalcedonian Patriarchate of Alexandria",
+        "Chalcedonian See of Alexandria",
+        "Eastern-Orthodox Church of Alexandria",
+        "Eastern-Orthodox Patriarchate of Alexandria",
+        "Eastern Orthodox Christianity in Egypt",
+        "Eastern Orthodox Christians in Egypt",
+        "Eastern Orthodox Church of Alexandria",
+        "Eastern Orthodox Patriarchate of Alexandria",
+        "Eastern Orthodox Patriarchate of Alexandria and all Africa",
+        "Eastern Orthodoxy in Egypt",
+        "Eparchies of the Eastern Orthodox Patriarchate of Alexandria",
+        "Eparchies of the <B>Greek</B> Orthodox Patriarchate of Alexandria",
+        "<B>Greek</B>-Orthodox Church of Alexandria",
+        "<B>Greek</B>-Orthodox Patriarchate of Alexandria",
+        "<B>Greek</B> Church of Alexandria",
+        "<B>Greek</B> Orthodox Church of Alexandria",
+        "<B>Greek</B> Orthodox Patriarchate of Alexandria and all Africa",
+        "Melkite Orthodox Church of Alexandria",
+        "Melkite Orthodox Patriarchate of Alexandria",
+        "Pope and Patriarch of Alexandria and All Africa"
+      ],
+      "label": [
+        "<B>Greek</B> Orthodox Patriarchate of Alexandria"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Orthodox_Patriarchate_of_Alexandria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_Orthodox_Church_of_Alexandria"
+      ]
+    },
+    {
+      "score": [
+        "1896.5695"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_numerals"
+      ],
+      "redirectlabel": [
+        "Alexandrian numerals",
+        "<B>Greek</B> Numerals",
+        "<B>Greek</B> number mark",
+        "<B>Greek</B> number sign",
+        "<B>Greek</B> numeral",
+        "<B>Greek</B> numeral system",
+        "Ionian numerals",
+        "Ionian numeration",
+        "Ionic numeral system",
+        "Ionic numerals",
+        "Milesian numerals",
+        "͵",
+        "𐆊"
+      ],
+      "comment": [
+        " writing numbers using the letters of the <B>Greek</B> alphabet. In modern <B>Greece</B>, they are still used for"
+      ],
+      "label": [
+        "<B>Greek</B> numerals"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_numerals"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_mathematics",
+        "http://dbpedia.org/resource/Category:Numeral_systems",
+        "http://dbpedia.org/resource/Category:Numerals"
+      ]
+    },
+    {
+      "score": [
+        "1879.1022"
+      ],
+      "refCount": [
+        "52"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Super_League_Greece"
+      ],
+      "redirectlabel": [
+        "Alpha Ethniki",
+        "Alpha ethniki",
+        "<B>Greece</B> Super League",
+        "<B>Greek</B> Championship",
+        "<B>Greek</B> Championships",
+        "<B>Greek</B> League",
+        "<B>Greek</B> National 1st Division Championship",
+        "<B>Greek</B> Super League",
+        "<B>Greek</B> Superleague",
+        "<B>Greek</B> football by seasons",
+        "<B>Greek</B> highest football division",
+        "<B>Greek</B> league",
+        "Hellenic Championship",
+        "Hellenic First Division",
+        "List of Super League <B>Greece</B> broadcasters",
+        "Panhellenic Championship",
+        "SuperLeague (<B>Greece</B>)",
+        "Super League(<B>Greece</B>)",
+        "Superleague <B>Greece</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The Super League (<B>Greece</B>) (<B>Greek</B>: Σούπερ Λίγκα) or Super League 1, is the highest professional"
+      ],
+      "label": [
+        "Super League <B>Greece</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Super_League_Greece"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1927_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:1959_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:National_championships_in_Greece",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Greece",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1927",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1959",
+        "http://dbpedia.org/resource/Category:Super_League_Greece",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "1873.7853"
+      ],
+      "refCount": [
+        "720"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Green"
+      ],
+      "redirectlabel": [
+        "(0, 255, 0)",
+        "008000",
+        "008800",
+        "00FF00",
+        "<B>Greeen</B>",
+        "<B>Green</B> (color)",
+        "<B>Green</B> (colour)",
+        "Greenness",
+        "Guignet <B>green</B>",
+        "List of terms associated with the color <B>green</B>",
+        "Pastel <B>green</B>",
+        "Rgb(0, 255, 0)",
+        "Symbolism of <B>green</B>",
+        "The color <B>green</B>",
+        "The colour <B>green</B>"
+      ],
+      "typeName": [
+        "Colour"
+      ],
+      "comment": [
+        "<B>Green</B> is the color between blue and yellow on the visible spectrum. It is evoked by light which has"
+      ],
+      "label": [
+        "<B>Green</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Green"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Colour"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Optical_spectrum",
+        "http://dbpedia.org/resource/Category:Primary_colors",
+        "http://dbpedia.org/resource/Category:Rainbow_colors",
+        "http://dbpedia.org/resource/Category:Secondary_colors",
+        "http://dbpedia.org/resource/Category:Shades_of_green",
+        "http://dbpedia.org/resource/Category:Web_colors"
+      ]
+    },
+    {
+      "score": [
+        "1866.2986"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_coinage"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> coins",
+        "Ancient <B>greek</B> coinage",
+        "Archaic period of ancient <B>Greek</B> coinage",
+        "Coinage of ancient <B>Greece</B>",
+        "Decadrachm",
+        "<B>Greek</B> Coins",
+        "<B>Greek</B> coinage",
+        "<B>Greek</B> coins",
+        "<B>Greek</B> currency",
+        "Macedonian coins",
+        "Trihemitetartemorion"
+      ],
+      "comment": [
+        "The history of ancient <B>Greek</B> coinage can be divided (along with most other <B>Greek</B> art forms) into"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> coinage"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_coinage"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Coins_of_ancient_Greece"
+      ]
+    },
+    {
+      "score": [
+        "1851.9156"
+      ],
+      "refCount": [
+        "60"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greece_men's_national_volleyball_team"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> National Volleyball Team"
+      ],
+      "comment": [
+        "The <B>Greece</B> men's national volleyball team is the national team of <B>Greece</B>. It is governed by the"
+      ],
+      "label": [
+        "<B>Greece</B> men's national volleyball team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greece_men's_national_volleyball_team"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Men's_sport_in_Greece",
+        "http://dbpedia.org/resource/Category:National_men's_volleyball_teams",
+        "http://dbpedia.org/resource/Category:National_sports_teams_of_Greece",
+        "http://dbpedia.org/resource/Category:Volleyball_in_Greece"
+      ]
+    },
+    {
+      "score": [
+        "1847.659"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Australians"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B>-Australian",
+        "<B>Greek</B>-Australians",
+        "<B>Greek</B> Australian",
+        "<B>Greek</B> community in Australia",
+        "<B>Greek</B> language in Australia",
+        "<B>Greeks</B> in Australia",
+        "History of the <B>Greeks</B> in Australia",
+        "Paroikiako Vema"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " from <B>Greece</B> and reside in Australia. The 2016 census recorded 397,431 people of <B>Greek</B> ancestry, and"
+      ],
+      "label": [
+        "<B>Greek</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Greek_descent",
+        "http://dbpedia.org/resource/Category:European_Australian",
+        "http://dbpedia.org/resource/Category:Greek_Australian",
+        "http://dbpedia.org/resource/Category:Greek_diaspora_by_country",
+        "http://dbpedia.org/resource/Category:Immigration_to_Australia"
+      ]
+    },
+    {
+      "score": [
+        "1840.7343"
+      ],
+      "refCount": [
+        "131"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Jewellery"
+      ],
+      "redirectlabel": [
+        "Ancient <B>greek</B> jewellery",
+        "Chinese jewellery",
+        "<B>Greek</B> jewellery",
+        "History of jewellery",
+        "Indian jewellery",
+        "Jewelery",
+        "Jewellary",
+        "Jewellers",
+        "Jewellery company",
+        "Jewellery of India",
+        "Jewellry",
+        "Jewelry",
+        "Jewelry industry",
+        "Jewlery",
+        "Native American jewellery",
+        "Solitaire (jewellery)"
+      ],
+      "comment": [
+        "Jewellery or jewelry (American English; see spelling differences) consists of decorative items worn for personal adornment, such as brooches, rings, necklaces, earrings, pendants, bracelets, and cufflinks. Jewellery may be attached to the body or the clothes. From a western perspective, the term is restricted to durable ornaments, excluding flowers for example. For many centuries metal, often combined with gemstones, has been the normal material for jewellery, but other materials such as shells and other plant materials may be used. It is one of the oldest type of archaeological artefact – with 100,000-year-old beads made from Nassarius shells thought to be the oldest known jewellery. The basic forms of jewellery vary between cultures but are often extremely long-lived; in European culture"
+      ],
+      "label": [
+        "Jewellery"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Jewellery"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Fashion_accessories",
+        "http://dbpedia.org/resource/Category:Human_appearance",
+        "http://dbpedia.org/resource/Category:Jewellery"
+      ]
+    },
+    {
+      "score": [
+        "1820.5796"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_Orthodox_Patriarchate_of_Antioch"
+      ],
+      "redirectlabel": [
+        "Antiochian Eastern-Orthodox",
+        "Antiochian Eastern-Orthodox Church",
+        "Antiochian Eastern Orthodox",
+        "Antiochian Eastern Orthodox Church",
+        "Antiochian Orthodox",
+        "Antiochian Orthodox Christianity",
+        "Antiochian Orthodox Christians",
+        "Antiochian Orthodox Church",
+        "Antiochian Orthodox Churches",
+        "Antiochian Orthodox Patriarchate",
+        "Antiochian Orthodoxy",
+        "Antiochian orthodox",
+        "Antiochian orthodox church",
+        "Antiochian orthodox churches",
+        "Antiochian orthodoxy",
+        "Byzantine Orthodox Church of Antioch",
+        "Byzantine Orthodox Patriarchate of Antioch",
+        "Chalcedonian Church of Antioch",
+        "Chalcedonian Patriarchate of Antioch",
+        "Eastern Orthodox Archdiocese of Baghdad",
+        "Eastern Orthodox Archeparchy of Baghdad",
+        "Eastern Orthodox Church of Antioch",
+        "Eastern Orthodox Church of Antioch and All the East",
+        "Eastern Orthodox Metropolis of Baghdad",
+        "Eastern Orthodox Metropolitanate of Baghdad",
+        "Eastern Orthodox Patriarchate of Antioch",
+        "Eastern Orthodox Patriarchate of Antioch and All the East",
+        "Eparchies of the Eastern Orthodox Patriarchate of Antioch",
+        "Eparchies of the Eastern Orthodox Patriarchate of Antiochia",
+        "Eparchies of the <B>Greek</B> Orthodox Patriarchate of Antioch",
+        "Eparchies of the <B>Greek</B> Orthodox Patriarchate of Antiochia",
+        "<B>Greek</B> Orthodox Church of Antioch",
+        "<B>Greek</B> Orthodox Church of Antioch and All the East",
+        "<B>Greek</B> Orthodox Patriarchate of Antioch and All the East",
+        "List of <B>Greek</B> Orthodox Antiochian Churches in North America",
+        "Melkite Orthodox Church of Antioch",
+        "Melkite Orthodox Patriarchate of Antioch",
+        "Orthodox Church of Antioch",
+        "Orthodox Churches of Antioch",
+        "Orthodox church of Antioch",
+        "Orthodox churches of Antioch",
+        "Roman Orthodox Patriarchate of Antioch and All the East",
+        "Rum Orthodox"
+      ],
+      "label": [
+        "<B>Greek</B> Orthodox Patriarchate of Antioch"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_Orthodox_Patriarchate_of_Antioch"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eastern_Orthodox_Church_bodies_in_Asia",
+        "http://dbpedia.org/resource/Category:Greek_Orthodox_Church_of_Antioch",
+        "http://dbpedia.org/resource/Category:Greek_Orthodoxy_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Greek_Orthodoxy_in_Syria",
+        "http://dbpedia.org/resource/Category:Greek_Orthodoxy_in_Turkey",
+        "http://dbpedia.org/resource/Category:Members_of_the_World_Council_of_Churches",
+        "http://dbpedia.org/resource/Category:Organizations_based_in_Damascus"
+      ]
+    },
+    {
+      "score": [
+        "1808.8839"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ruthenian_Greek_Catholic_Church"
+      ],
+      "redirectlabel": [
+        "Rusyn Byzantine Catholic Church",
+        "Rusyn Catholic",
+        "Rusyn Catholics",
+        "Rusyn <B>Greco</B>-Catholic Church",
+        "Rusyn <B>Greek</B> Catholic",
+        "Rusyn <B>Greek</B> Catholic Church",
+        "Rusyn <B>Greek</B> Catholics",
+        "Ruthenian Byzantine Catholic Church",
+        "Ruthenian Catholic",
+        "Ruthenian Catholics",
+        "Ruthenian <B>Greco</B>-Catholic Church",
+        "Ruthenian <B>Greek</B>-Catholic Church",
+        "Ruthenian <B>Greek</B> Church",
+        "Ruthenian Rite Catholic"
+      ],
+      "comment": [
+        "The Ruthenian <B>Greek</B> Catholic Church, also known in the United States as the Byzantine Catholic"
+      ],
+      "label": [
+        "Ruthenian <B>Greek</B> Catholic Church"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ruthenian_Greek_Catholic_Church"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1646_establishments_in_the_Polish–Lithuanian_Commonwealth",
+        "http://dbpedia.org/resource/Category:Carpathian_Ruthenia",
+        "http://dbpedia.org/resource/Category:Eastern_Catholic_Churches",
+        "http://dbpedia.org/resource/Category:Eastern_Catholicism",
+        "http://dbpedia.org/resource/Category:Eastern_Christianity_in_Ukraine",
+        "http://dbpedia.org/resource/Category:Ruthenian_Catholic_Church"
+      ]
+    },
+    {
+      "score": [
+        "1803.36"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Dartmouth_College_Greek_organizations"
+      ],
+      "redirectlabel": [
+        "Alpha Delta (Dartmouth)",
+        "Beta Alpha Omega",
+        "Bones Gate",
+        "Chi Delta (local)",
+        "Dartmouth's <B>Greek</B> Organizations",
+        "Dartmouth College Delta Beta",
+        "Dartmouth College <B>Greek</B> Organizations",
+        "Dartmouth college <B>greek</B> organizations",
+        "Delta Psi Delta (Dartmouth)",
+        "Epsilon Kappa Theta",
+        "Gamma Delta Chi",
+        "Harold Parmington Foundation",
+        "Kappa Delta Epsilon (local)",
+        "List of dartmouth college <B>greek</B> organizations",
+        "Phi Delta Alpha",
+        "Phi Sigma Psi",
+        "Psi Upsilon Zeta Chapter",
+        "Pukwana Club",
+        "The Tabard (<B>Greek</B> organization)",
+        "The Tabard (fraternity)",
+        "Xi Kappa Chi",
+        "Zeta Beta Chi",
+        "ΞΚΧ"
+      ],
+      "comment": [
+        "Dartmouth College is host to many <B>Greek</B> organizations, and a significant percentage of the"
+      ],
+      "label": [
+        "Dartmouth College <B>Greek</B> organizations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Dartmouth_College_Greek_organizations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Dartmouth_College_Greek_organizations",
+        "http://dbpedia.org/resource/Category:Lists_of_chapters_of_United_States_student_societies_by_college"
+      ]
+    },
+    {
+      "score": [
+        "1802.0327"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Greek_Orthodox_patriarchs_of_Antioch"
+      ],
+      "redirectlabel": [
+        "Byzantine Orthodox Patriarch of Antioch",
+        "Byzantine Orthodox Patriarchs of Antioch",
+        "Dorotheus II",
+        "Dorotheus III",
+        "Dorotheus IV",
+        "Eastern Orthodox Patriarch of Antioch",
+        "Eastern Orthodox Patriarchs of Antioch",
+        "Eastern Orthodox patriarch of Antioch",
+        "Eastern Orthodox patriarchs of Antioch",
+        "<B>Greek</B> Orthodox Patriarch of Antioch",
+        "<B>Greek</B> Orthodox Patriarchs of Antioch",
+        "<B>Greek</B> Orthodox patriarch in Antioch",
+        "<B>Greek</B> Orthodox patriarch of Antioch",
+        "<B>Greek</B> Patriarch of Antioch",
+        "<B>Greek</B> Patriarchs of Antioch",
+        "<B>Greek</B> patriarch of Antioch",
+        "List of <B>Greek</B> Orthodox Patriarchs of Antioch",
+        "List of <B>Greek</B> Patriarchs of Antioch before 1724",
+        "Macarius II of Antioch",
+        "Melkite Orthodox Patriarch of Antioch",
+        "Melkite Orthodox Patriarchs of Antioch",
+        "Patriarch Dorotheus II",
+        "Patriarch Dorotheus III",
+        "Patriarch Dorotheus IV",
+        "Patriarch Macarius II",
+        "Patriarch Macarius II of Antioch",
+        "Theodosios IV",
+        "Theodosios VI",
+        "Theodosios V of Antioch",
+        "Theodosius IV",
+        "Theodosius VI",
+        "Theodosius V of Antioch"
+      ],
+      "label": [
+        "List of <B>Greek</B> Orthodox patriarchs of Antioch"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Greek_Orthodox_patriarchs_of_Antioch"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_Orthodox_Patriarchs_of_Antioch",
+        "http://dbpedia.org/resource/Category:Lists_of_Eastern_Orthodox_bishops_and_archbishops",
+        "http://dbpedia.org/resource/Category:Lists_of_patriarchs",
+        "http://dbpedia.org/resource/Category:Syria_religion-related_lists",
+        "http://dbpedia.org/resource/Category:Turkey_religion-related_lists"
+      ]
+    },
+    {
+      "score": [
+        "1801.0782"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_sculpture"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> statue",
+        "Ancient <B>greek</B> sculpture",
+        "<B>Greek</B> Statue",
+        "<B>Greek</B> sculpture",
+        "<B>Greek</B> statuary",
+        "<B>Greek</B> statue",
+        "Sculpture in Ancient <B>Greece</B>",
+        "Sculpture in ancient <B>Greece</B>",
+        "Sculpture of Ancient <B>Greece</B>",
+        "Sculpture of ancient <B>Greece</B>"
+      ],
+      "comment": [
+        "The sculpture of ancient <B>Greece</B> is the main surviving type of fine ancient <B>Greek</B> art as, with the"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> sculpture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_sculpture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_sculpture"
+      ]
+    },
+    {
+      "score": [
+        "1799.7251"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Archaic_Greek_alphabets"
+      ],
+      "redirectlabel": [
+        "Ancient <B>greek</B> alphabets",
+        "Chalcidian Alphabet",
+        "Chalcidian alphabet",
+        "Corinthian alphabet",
+        "Cumae alphabet",
+        "Cumaean alphabet",
+        "Cumæ alphabet",
+        "Epichoric alphabet",
+        "Epichoric alphabets",
+        "Euboean alphabet",
+        "<B>Greek</B> epichoric alphabets",
+        "Old Attic alphabet",
+        "Pre-Euclidean alphabet",
+        "Preeuclidean alphabet",
+        "Western <B>Greek</B> alphabet",
+        "Western <B>Greek</B> alphabets"
+      ],
+      "comment": [
+        "Many local variants of the <B>Greek</B> alphabet were employed in ancient <B>Greece</B> during the archaic and"
+      ],
+      "label": [
+        "Archaic <B>Greek</B> alphabets"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Archaic_Greek_alphabets"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Archaic_Greece",
+        "http://dbpedia.org/resource/Category:Greek_alphabet"
+      ]
+    },
+    {
+      "score": [
+        "1794.3873"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_art"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> Art",
+        "Ancient <B>Greek</B> metalwork",
+        "Ancient <B>Greek</B> mosaics",
+        "Ancient <B>Greek</B> painting",
+        "Ancient <B>Greek</B> polychromy",
+        "Art in Ancient <B>Greece</B>",
+        "Art in ancient <B>Greece</B>",
+        "Art in ancient <B>greece</B>",
+        "Art of Ancient <B>Greece</B>",
+        "Art of ancient <B>Greece</B>",
+        "Classical Arts",
+        "Classical <B>Greek</B> art",
+        "Classical art",
+        "<B>Greek</B> Art and Architecture",
+        "Visual art of ancient <B>Greece</B>"
+      ],
+      "comment": [
+        "Ancient <B>Greek</B> art stands out among that of other ancient cultures for its development of"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> art"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_art"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_art",
+        "http://dbpedia.org/resource/Category:Arts_in_Greece",
+        "http://dbpedia.org/resource/Category:Greek_art"
+      ]
+    },
+    {
+      "score": [
+        "1788.1707"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Modern_Greek_Enlightenment"
+      ],
+      "redirectlabel": [
+        "Diafotismos",
+        "<B>Greek</B> Enlightenment",
+        "Modern <B>Greek</B> enlightenment",
+        "Neo-Hellenic Enlightenment",
+        "Neohellenic Enlightenment"
+      ],
+      "comment": [
+        "The Modern <B>Greek</B> Enlightenment (<B>Greek</B>: Διαφωτισμός, Diafotismos, \"enlightenment,\" \"illumination"
+      ],
+      "label": [
+        "Modern <B>Greek</B> Enlightenment"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Modern_Greek_Enlightenment"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Age_of_Enlightenment",
+        "http://dbpedia.org/resource/Category:History_of_philosophy",
+        "http://dbpedia.org/resource/Category:Modern_Greek_Enlightenment"
+      ]
+    },
+    {
+      "score": [
+        "1786.6316"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/A_Greek–English_Lexicon"
+      ],
+      "redirectlabel": [
+        "A <B>Greek</B>-English Lexicon",
+        "<B>Greek</B>-English Lexicon",
+        "<B>Greek</B>–English Lexicon",
+        "LSJ",
+        "Liddell-Scott-Jones",
+        "Liddell-Scott",
+        "Liddell-Scott <B>Greek</B> Lexicon",
+        "Liddell & Scott",
+        "Liddell Scott",
+        "Liddell Scott <B>Greek</B> Lexicon",
+        "Liddell and Scott's <B>Greek</B>-English Lexicon",
+        "Liddell and Scott",
+        "Liddell–Scott",
+        "Liddell–Scott <B>Greek</B> Lexicon",
+        "Liddell–Scott–Jones",
+        "Liddle Scott Lexicon"
+      ],
+      "typeName": [
+        "Book",
+        "WrittenWork",
+        "Work"
+      ],
+      "comment": [
+        "A <B>Greek</B>–English Lexicon, often referred to as Liddell & Scott (), Liddell–Scott–Jones, or LSJ, is a"
+      ],
+      "label": [
+        "A <B>Greek</B>–English Lexicon"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/A_Greek–English_Lexicon"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Book",
+        "http://dbpedia.org/ontology/WrittenWork",
+        "http://dbpedia.org/ontology/Work"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1819_non-fiction_books",
+        "http://dbpedia.org/resource/Category:Ancient_Greek",
+        "http://dbpedia.org/resource/Category:Ancient_Greek_dictionaries",
+        "http://dbpedia.org/resource/Category:Oxford_dictionaries"
+      ]
+    },
+    {
+      "score": [
+        "1773.3556"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Giants_(Greek_mythology)"
+      ],
+      "redirectlabel": [
+        "Abseus",
+        "Aigaion (Gigas)",
+        "Aigaion (giant)",
+        "Alkyonios",
+        "Astarias",
+        "Asterius (Giant)",
+        "Asterus",
+        "Battle of the Gods and Giants",
+        "Clytias",
+        "Ephialtes (Giant)",
+        "Eurymedon (Giant)",
+        "Eurytion (Gigas)",
+        "Eurytion (giant)",
+        "Giant (<B>Greek</B> mythology)",
+        "Gigantes",
+        "Gigantes (<B>Greek</B> mythology)",
+        "Gigantomach",
+        "Gigantomachia",
+        "Gigantomachy",
+        "Gigantês",
+        "Gigas (mythology)",
+        "Klytias",
+        "Rhaion",
+        "Thoas (Gigas)"
+      ],
+      "comment": [
+        "; <B>Greek</B>: Γίγαντες, Gígantes, singular: Γίγας, Gígas), were a race of <B>great</B> strength and aggression"
+      ],
+      "label": [
+        "Giants (<B>Greek</B> mythology)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Giants_(Greek_mythology)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_military_art",
+        "http://dbpedia.org/resource/Category:Characters_in_Greek_mythology",
+        "http://dbpedia.org/resource/Category:Children_of_Gaia",
+        "http://dbpedia.org/resource/Category:Deeds_of_Aphrodite",
+        "http://dbpedia.org/resource/Category:Deeds_of_Apollo",
+        "http://dbpedia.org/resource/Category:Deeds_of_Artemis",
+        "http://dbpedia.org/resource/Category:Deeds_of_Athena",
+        "http://dbpedia.org/resource/Category:Deeds_of_Demeter",
+        "http://dbpedia.org/resource/Category:Deeds_of_Gaia",
+        "http://dbpedia.org/resource/Category:Deeds_of_Hera",
+        "http://dbpedia.org/resource/Category:Deeds_of_Poseidon",
+        "http://dbpedia.org/resource/Category:Deeds_of_Zeus",
+        "http://dbpedia.org/resource/Category:Dionysus_in_mythology",
+        "http://dbpedia.org/resource/Category:Gigantes",
+        "http://dbpedia.org/resource/Category:Helios_in_mythology",
+        "http://dbpedia.org/resource/Category:Mythology_of_Heracles"
+      ]
+    },
+    {
+      "score": [
+        "1765.9407"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_dialects"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> dialect",
+        "Ancient <B>greek</B> dialects",
+        "Attic-Ionic",
+        "Dialects of Ancient <B>Greek</B>",
+        "Dialects of Ancient <B>Greek</B> language"
+      ],
+      "comment": [
+        "Ancient <B>Greek</B> in classical antiquity, before the development of the common Koine <B>Greek</B> of the"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> dialects"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_dialects"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Iron_Age_Greece",
+        "http://dbpedia.org/resource/Category:Varieties_of_Ancient_Greek"
+      ]
+    },
+    {
+      "score": [
+        "1758.5739"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_wine"
+      ],
+      "redirectlabel": [
+        "Cava (<B>Greek</B> wine)",
+        "<B>Greece</B> (wine)",
+        "<B>Greece</B> wine",
+        "<B>Greece</B> wines",
+        "<B>Greek</B> (wine)",
+        "<B>Greek</B> wines",
+        "History of <B>Greek</B> wine",
+        "Wine from <B>Greece</B>",
+        "Wine in <B>Greece</B>",
+        "Wines from <B>Greece</B>"
+      ],
+      "comment": [
+        " territories in Europe. The earliest evidence of <B>Greek</B> wine has been dated to 6,500 years ago where"
+      ],
+      "label": [
+        "<B>Greek</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek_wine"
+      ]
+    },
+    {
+      "score": [
+        "1748.7465"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Calabrian_Greek"
+      ],
+      "redirectlabel": [
+        "Calabrian <B>Greek</B> dialect",
+        "Calabrian dialect (<B>Greek</B>)",
+        "<B>Greek</B>-Bovesian",
+        "<B>Greek</B>-Calabrian dialect",
+        "<B>Greek</B> Calabrian dialect",
+        "<B>Greek</B> calabrian dialect",
+        "<B>Greek</B>–Calabrian dialect"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "The Calabrian dialect of <B>Greek</B>, or Grecanico is the variety of Italiot <B>Greek</B> used by the ethnic"
+      ],
+      "label": [
+        "Calabrian <B>Greek</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Calabrian_Greek"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endangered_Indo-European_languages",
+        "http://dbpedia.org/resource/Category:Greece–Italy_relations",
+        "http://dbpedia.org/resource/Category:Languages_of_Calabria",
+        "http://dbpedia.org/resource/Category:Magna_Graecia",
+        "http://dbpedia.org/resource/Category:Varieties_of_Modern_Greek"
+      ]
+    },
+    {
+      "score": [
+        "1747.9373"
+      ],
+      "refCount": [
+        "40"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Hellenic_Navy"
+      ],
+      "redirectlabel": [
+        "<B>Greece</B> Navy",
+        "<B>Greek</B> Fleet",
+        "<B>Greek</B> Navy",
+        "<B>Greek</B> fleet",
+        "Navy of <B>Greece</B>",
+        "Royal <B>Greek</B> Navy",
+        "Royal Hellenic Navy",
+        "ΠΝ"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " force of <B>Greece</B>, part of the Hellenic Armed Forces. The modern <B>Greek</B> navy has its roots in the naval"
+      ],
+      "label": [
+        "Hellenic Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Hellenic_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1828_establishments_in_Greece",
+        "http://dbpedia.org/resource/Category:Hellenic_Navy",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1828",
+        "http://dbpedia.org/resource/Category:Navies_by_country"
+      ]
+    },
+    {
+      "score": [
+        "1745.1913"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_name"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> given names",
+        "<B>Greek</B> names",
+        "<B>Greek</B> personal name",
+        "<B>Greek</B> surname",
+        "<B>Greek</B> surnames",
+        "Opoulos"
+      ],
+      "comment": [
+        "In the modern world, personal names among people of <B>Greek</B> language and culture generally consist of a given name, a patronymic and a family name."
+      ],
+      "label": [
+        "<B>Greek</B> name"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_name"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Greek-language_given_names",
+        "http://dbpedia.org/resource/Category:Greek-language_surnames",
+        "http://dbpedia.org/resource/Category:Greek_culture",
+        "http://dbpedia.org/resource/Category:Greek_given_names",
+        "http://dbpedia.org/resource/Category:Names_by_culture"
+      ]
+    },
+    {
+      "score": [
+        "1729.5353"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ancient_Greek_architecture"
+      ],
+      "redirectlabel": [
+        "Ancient <B>Greek</B> Architecture",
+        "Architecture of Ancient <B>Greece</B>",
+        "Architecture of <B>Greece</B>",
+        "Architecture of ancient <B>Greece</B>",
+        "Architecture of ancient <B>greece</B>",
+        "<B>Greek</B> Architecture",
+        "<B>Greek</B> architects",
+        "<B>Greek</B> architecture"
+      ],
+      "comment": [
+        "The architecture of ancient <B>Greece</B> is the architecture produced by the <B>Greek</B>-speaking people"
+      ],
+      "label": [
+        "Ancient <B>Greek</B> architecture"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ancient_Greek_architecture"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_architecture",
+        "http://dbpedia.org/resource/Category:Architectural_history"
+      ]
+    },
+    {
+      "score": [
+        "1721.2837"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Greek_primordial_deities"
+      ],
+      "redirectlabel": [
+        "<B>Greek</B> Primordial Deities",
+        "<B>Greek</B> Primordial Gods",
+        "<B>Greek</B> primordial gods",
+        "<B>Greek</B> protogenoi",
+        "<B>Greek</B> protogenos",
+        "Primordial <B>Greek</B> gods",
+        "Primordial deities",
+        "Primordial deity",
+        "Primordial gods of <B>Greek</B> mythology",
+        "Protogenoi",
+        "Protogenos"
+      ],
+      "comment": [
+        "In <B>Greek</B> mythology, the primordial deities, are the first gods and goddesses born from the void of"
+      ],
+      "label": [
+        "<B>Greek</B> primordial deities"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Greek_primordial_deities"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ancient_Greek_religion",
+        "http://dbpedia.org/resource/Category:Greek_primordial_deities",
+        "http://dbpedia.org/resource/Category:Mythology-related_lists"
+      ]
+    }
+  ]
+}

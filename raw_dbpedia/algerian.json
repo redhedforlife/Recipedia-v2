@@ -1,0 +1,4111 @@
+{
+  "docs": [
+    {
+      "score": [
+        "21915.803"
+      ],
+      "refCount": [
+        "4244"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algeria"
+      ],
+      "redirectlabel": [
+        "Ad-Dimuqratiyah ash-Sha'biyah",
+        "Ad-Dīmuqrāṭīyah ash-Sha’bīyah",
+        "Administrative divisions of <B>Algeria</B>",
+        "Al-Jumhuriyah al-Jaza'iriyah",
+        "Al-Jumhūrīyah al-Jazā’irīyah",
+        "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Shabiyah",
+        "<B>AlgeriA</B>",
+        "<B>Algeria</B> country",
+        "<B>Algerian</B> People's Democratic Republic",
+        "<B>Algerian</B> Peoples Democratic Republic",
+        "<B>Algerian</B> Republic",
+        "<B>Algerian</B> State",
+        "<B>Algerian</B> country",
+        "<B>Algerian</B> state",
+        "<B>Algerie</B>",
+        "Algery",
+        "Algérie",
+        "Dzayer",
+        "Etymology of <B>Algeria</B>",
+        "ISO 3166-1:DZ",
+        "Name of <B>Algeria</B>",
+        "People's Democratic <B>Algerian</B> Republic",
+        "People's Democratic Republic of <B>Algeria</B>",
+        "People's Republic of <B>Algeria</B>",
+        "People’s Democratic Republic of <B>Algeria</B>",
+        "Popular Democratic Republic of <B>Algeria</B>",
+        "Republic of <B>Algeria</B>",
+        "République algérienne démocratique et populaire",
+        "République démocratique populaire d'Algérie",
+        "Subdivision of <B>Algeria</B>",
+        "Subdivisions of <B>Algeria</B>",
+        "ǲayer",
+        "الجمهورية الجزائرية الديمقراطية الشعبية"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Algeria</B> ( () al-JEER-ee-ə) is a country in the Maghreb region of North Africa. The capital and most"
+      ],
+      "label": [
+        "<B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algeria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Africa",
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algeria",
+        "http://dbpedia.org/resource/Category:Arab_republics",
+        "http://dbpedia.org/resource/Category:Arabic-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Berber-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Countries_in_Africa",
+        "http://dbpedia.org/resource/Category:French-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:G15_nations",
+        "http://dbpedia.org/resource/Category:Maghrebi_countries",
+        "http://dbpedia.org/resource/Category:Member_states_of_OPEC",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_African_Union",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Arab_League",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Organisation_of_Islamic_Cooperation",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:North_African_countries",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:Saharan_countries",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1962"
+      ]
+    },
+    {
+      "score": [
+        "11490.501"
+      ],
+      "refCount": [
+        "1004"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algeria_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B> FC",
+        "<B>Algeria</B> National Football Team",
+        "<B>Algeria</B> football team",
+        "<B>Algeria</B> national football team kit history",
+        "<B>Algerian</B> national football team",
+        "<B>Algerian</B> national soccer team",
+        "<B>Algerian</B> soccer team",
+        "Desert Foxes",
+        "The Desert Foxes"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " and it's controlled by the <B>Algerian</B> Football Federation. The team plays its home games especially at"
+      ],
+      "label": [
+        "<B>Algeria</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algeria_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1963_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Africa_Cup_of_Nations-winning_countries",
+        "http://dbpedia.org/resource/Category:African_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Algeria_national_football_team"
+      ]
+    },
+    {
+      "score": [
+        "10450.119"
+      ],
+      "refCount": [
+        "179"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_War"
+      ],
+      "redirectlabel": [
+        "<B>Algeria's</B> independence",
+        "<B>Algeria's</B> independence from France",
+        "<B>Algeria</B> Campaign",
+        "<B>Algeria</B> War",
+        "<B>Algerian</B> Crisis",
+        "<B>Algerian</B> Resistance",
+        "<B>Algerian</B> Revolution",
+        "<B>Algerian</B> Revolutionary War",
+        "<B>Algerian</B> War of Independence",
+        "<B>Algerian</B> War of Liberation",
+        "<B>Algerian</B> War of National Liberation",
+        "<B>Algerian</B> independence war",
+        "<B>Algerian</B> revolution",
+        "<B>Algerian</B> war",
+        "<B>Algerian</B> war for independence",
+        "<B>Algerian</B> war of independence",
+        "Franco-<B>Algerian</B> conflict",
+        "French-<B>Algerian</B> War",
+        "Historiography of the <B>Algerian</B> War",
+        "Start of the <B>Algerian</B> Revolution",
+        "War crimes during the <B>Algerian</B> War",
+        "War of <B>Algeria</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Algerian</B> War, also known as the <B>Algerian</B> War of Independence or the <B>Algerian</B> Revolution (Arabic"
+      ],
+      "label": [
+        "<B>Algerian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_conflicts",
+        "http://dbpedia.org/resource/Category:20th_century_in_France",
+        "http://dbpedia.org/resource/Category:Algerian_War",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Public_holidays_in_Algeria",
+        "http://dbpedia.org/resource/Category:Rebellions_in_Africa",
+        "http://dbpedia.org/resource/Category:Separatism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Separatism_in_France",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_states_and_peoples_of_Africa",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "9005.699"
+      ],
+      "refCount": [
+        "193"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Championnat National",
+        "<B>Algerian</B> Ligue Professionelle 1"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Ligue Professionnelle 1 (Arabic: الرابطة الجزائرية المحترفة الأولى لكرة القدم‎); known"
+      ],
+      "label": [
+        "<B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Algeria",
+        "http://dbpedia.org/resource/Category:National_championships_in_Algeria",
+        "http://dbpedia.org/resource/Category:Sports_leagues_established_in_1962",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "4574.0405"
+      ],
+      "refCount": [
+        "281"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/French_Algeria"
+      ],
+      "redirectlabel": [
+        "1836 Constantine expedition",
+        "Accusations of French genocide against <B>Algerians</B>",
+        "<B>Algeria</B> (French)",
+        "<B>Algerie</B>-francaise",
+        "<B>Algerie</B> francaise",
+        "Algérie-française",
+        "Algérie française",
+        "Colonial <B>Algeria</B>",
+        "Colonization of <B>Algeria</B>",
+        "Cottenest Expedition",
+        "France in <B>Algeria</B>",
+        "French <B>Algerian</B>",
+        "French Sahara",
+        "French <B>algerian</B>",
+        "French colonization of <B>Algeria</B>",
+        "French in <B>Algeria</B>",
+        "French occupation of <B>Algeria</B>",
+        "French rule in <B>Algeria</B>: Post colonial relations",
+        "French rule in <B>Algeria</B>",
+        "French rule in <B>algeria</B>",
+        "Great Kabyle Revolt",
+        "Kabyle Revolt"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Algerian</B> War of Independence concluded in 1962. While the administration of <B>Algeria</B> changed significantly"
+      ],
+      "label": [
+        "French <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/French_Algeria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1830_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:1830_establishments_in_the_French_colonial_empire",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_the_French_colonial_empire",
+        "http://dbpedia.org/resource/Category:19th_century_in_Algeria",
+        "http://dbpedia.org/resource/Category:20th_century_in_Algeria",
+        "http://dbpedia.org/resource/Category:Contemporary_French_history",
+        "http://dbpedia.org/resource/Category:Former_French_colonies",
+        "http://dbpedia.org/resource/Category:Former_colonies_in_Africa",
+        "http://dbpedia.org/resource/Category:French_Algeria",
+        "http://dbpedia.org/resource/Category:French_Union",
+        "http://dbpedia.org/resource/Category:French_colonisation_in_Africa",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1962",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1830"
+      ]
+    },
+    {
+      "score": [
+        "4199.792"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Arabic"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Arabic language",
+        "<B>Algerian</B> Saharan Spoken Arabic language",
+        "<B>Algerian</B> Spoken Arabic language",
+        "<B>Algerian</B> arabic",
+        "Algerisch",
+        "Arabic dialects of <B>Algeria</B>",
+        "Arabic language (<B>Algerian</B>)",
+        "Dziria",
+        "ISO 639:arq",
+        "Western Colloquial Arabic language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Algerian</B> Arabic (known as Darja or Daridja in <B>Algeria</B>) is a dialect derived from the form of Arabic"
+      ],
+      "label": [
+        "<B>Algerian</B> Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Arabic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_Arabic",
+        "http://dbpedia.org/resource/Category:Arabic_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Algeria",
+        "http://dbpedia.org/resource/Category:Maghrebi_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "3118.409"
+      ],
+      "refCount": [
+        "1140"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Communes_of_Algeria"
+      ],
+      "redirectlabel": [
+        "List communes in <B>Algeria</B>",
+        "List of communes in <B>Algeria</B>",
+        "List of communes of <B>Algeria</B>",
+        "List of municipalities in <B>Algeria</B>",
+        "List of municipalities of <B>Algeria</B>",
+        "Municipalities in <B>Algeria</B>",
+        "Municipalities of <B>Algeria</B>"
+      ],
+      "comment": [
+        "The municipalities of <B>Algeria</B> (Arabic: baladiyah (singular); French: commune) form the second level"
+      ],
+      "label": [
+        "Communes of <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Communes_of_Algeria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Africa",
+        "http://dbpedia.org/resource/Category:Algeria_geography-related_lists",
+        "http://dbpedia.org/resource/Category:Communes_of_Algeria",
+        "http://dbpedia.org/resource/Category:Second-level_administrative_divisions_by_country",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "3034.476"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Algerian</B> Ligue Professionnelle 1 was the 55th season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2018–19 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2018–19_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2803.4087"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_People's_National_Army"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B>/Military",
+        "<B>Algeria</B> Armed Forces",
+        "<B>Algerian</B> Armed Forces",
+        "<B>Algerian</B> Army",
+        "<B>Algerian</B> People's National Armed Forces",
+        "<B>Algerian</B> armed forces",
+        "<B>Algerian</B> army",
+        "<B>Algerian</B> military",
+        "<B>Algerian</B> ministry of defence",
+        "Armed Forces of <B>Algeria</B>",
+        "Army of <B>Algeria</B>",
+        "Armée Nationale Populaire",
+        "Military of <B>Algeria</B>",
+        "Ministry of defence of <B>Algeria</B>",
+        "People's National Army",
+        "People's National Army (<B>Algeria</B>)",
+        "Popular National Army"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " Terrestres) are the land forces of the <B>Algerian</B> People's National Armed Forces. The Armée Nationale"
+      ],
+      "label": [
+        "<B>Algerian</B> People's National Army"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_People's_National_Army"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1954_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Military_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "2784.2258"
+      ],
+      "refCount": [
+        "59"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/National_Liberation_Front_(Algeria)"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> FLN",
+        "<B>Algerian</B> Liberation Front",
+        "<B>Algerian</B> National Liberation Front",
+        "FLN (<B>Algeria</B>)",
+        "Front de Liberation National",
+        "Front de Libération National",
+        "Front de libération nationale (Algérie)",
+        "National Liberation Front (<B>Algerian</B>)",
+        "National Liberation Front of <B>Algeria</B>",
+        "Party of FLN",
+        "جبهة التحرير الوطني"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " nationalist movement during the <B>Algerian</B> War and the sole legal and the ruling political party of the"
+      ],
+      "label": [
+        "National Liberation Front (<B>Algeria</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/National_Liberation_Front_(Algeria)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1954_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algerian_Civil_War",
+        "http://dbpedia.org/resource/Category:Algerian_War",
+        "http://dbpedia.org/resource/Category:Algerian_nationalism",
+        "http://dbpedia.org/resource/Category:Arab_nationalism",
+        "http://dbpedia.org/resource/Category:Consultative_member_parties_of_the_Socialist_International",
+        "http://dbpedia.org/resource/Category:Left-wing_parties",
+        "http://dbpedia.org/resource/Category:National_Liberation_Front_(Algeria)",
+        "http://dbpedia.org/resource/Category:National_liberation_armies",
+        "http://dbpedia.org/resource/Category:National_liberation_movements",
+        "http://dbpedia.org/resource/Category:Parties_of_one-party_systems",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1954",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Algeria",
+        "http://dbpedia.org/resource/Category:Separatism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Separatism_in_France",
+        "http://dbpedia.org/resource/Category:Socialism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "2700.5625"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_nationalism"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> independence movement",
+        "<B>Algerian</B> independentism",
+        "<B>Algerian</B> nationalist",
+        "<B>Algerianism</B>",
+        "<B>Algerianist</B>",
+        "Nationalism & resistance in <B>Algeria</B>",
+        "Nationalism and resistance in <B>Algeria</B>",
+        "Nationalism and resistance in <B>algeria</B>"
+      ],
+      "comment": [
+        "<B>Algerian</B> nationalism has been shaped by <B>Algerian</B>-French dichotomies; tensions between the French"
+      ],
+      "label": [
+        "<B>Algerian</B> nationalism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_nationalism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_War",
+        "http://dbpedia.org/resource/Category:Algerian_nationalism",
+        "http://dbpedia.org/resource/Category:National_liberation_movements",
+        "http://dbpedia.org/resource/Category:Resistance_movements"
+      ]
+    },
+    {
+      "score": [
+        "2578.178"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2015-16 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2015–16 season will be the 55th season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2015–16 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015–16_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2487.192"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Civil_War"
+      ],
+      "redirectlabel": [
+        "1992 <B>Algerian</B> coup d'état",
+        "<B>Algerian</B> civil conflict",
+        "<B>Algerian</B> civil war",
+        "Civil war in <B>Algeria</B>",
+        "Massacres during the <B>Algerian</B> Civil War",
+        "Salafist terrorism",
+        "Salafist terrorism in <B>Algeria</B>"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Civil War was a civil war in <B>Algeria</B> fought between the <B>Algerian</B> Government and"
+      ],
+      "label": [
+        "<B>Algerian</B> Civil War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Civil_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_in_Algeria",
+        "http://dbpedia.org/resource/Category:2000s_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algerian_Civil_War",
+        "http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_Africa",
+        "http://dbpedia.org/resource/Category:Civil_wars_post-1945",
+        "http://dbpedia.org/resource/Category:Coup-based_civil_wars",
+        "http://dbpedia.org/resource/Category:Dirty_wars",
+        "http://dbpedia.org/resource/Category:Guerrilla_wars",
+        "http://dbpedia.org/resource/Category:Proxy_wars",
+        "http://dbpedia.org/resource/Category:Religion-based_civil_wars"
+      ]
+    },
+    {
+      "score": [
+        "2453.275"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Algerian</B> Ligue Professionnelle 1",
+        "The 2015-16 <B>Algerian</B> Ligue Professionnelle 1",
+        "The 2015–16 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2015–16 <B>Algerian</B> Ligue Professionnelle 1 will be the 54th season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2015–16 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015–16_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2015–16_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2445.868"
+      ],
+      "refCount": [
+        "48"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Algerian_detainees_at_Guantanamo_Bay"
+      ],
+      "redirectlabel": [
+        "ABDALLAH HUSSEINI",
+        "Abdallah Husseini",
+        "Abdelli Faghoul",
+        "Abdul Khaled Ahmed Sahleh Al Bedani",
+        "Abdul Khaleq Ahmed Sahleh Al-Baidhani",
+        "Abdul Khaleq Ahmed Sahleh Al Baidhani",
+        "Abdul Khaliq Al Baidhani",
+        "Abdul Raham Houari",
+        "Ahmed Al-Delebany",
+        "Ahmed Bel Bacha",
+        "Ahmed Belbacha",
+        "Ahmed Beltacha",
+        "Ahmed Ben Bacha (Belbacha)",
+        "Ahmed Bin Kadr Labed",
+        "Ahmed bin Kadr Labed",
+        "Ahmed bin kadr labed",
+        "Al Baidhani",
+        "<B>Algeria</B> captives held in Guantanamo",
+        "<B>Algerian</B> captives in Guantanamo",
+        "<B>Algerian</B> captives in guantanamo",
+        "<B>Algerian</B> detainees at Guantanamo Bay",
+        "<B>Algerian</B> detainees in Guantanamo",
+        "Ameur Mammar",
+        "Farhi Saeed bin Mohammed",
+        "Guantanamo captive 284",
+        "Guantanamo captive 553",
+        "Guantanamo captive 703",
+        "Guantanamo captive 705",
+        "Guantanamo captive 939",
+        "Guantanamo detainee 939",
+        "Hamlily",
+        "ISN 284",
+        "ISN 533",
+        "ISN 553",
+        "ISN 703",
+        "ISN 705",
+        "ISN 939",
+        "Labed",
+        "Labed Ahmed",
+        "MAMMAR AMEUR",
+        "MUSTAFA AHMED HAMLILY",
+        "Mammar Ameur",
+        "Mohammad Abd Al Qadir",
+        "Mohammed Abd Al Al Qadir",
+        "Mohammed Abd al al Qadir",
+        "Mustafa Ahmed Hamlily",
+        "Mustafa Hamlily",
+        "Nabil Hadjarab"
+      ],
+      "comment": [
+        "The United States Department of Defense acknowledges holding approximately one dozen <B>Algerian</B>"
+      ],
+      "label": [
+        "List of <B>Algerian</B> detainees at Guantanamo Bay"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Algerian_detainees_at_Guantanamo_Bay"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_extrajudicial_prisoners_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Algeria–United_States_relations",
+        "http://dbpedia.org/resource/Category:Lists_of_Guantanamo_Bay_detainees_by_nationality"
+      ]
+    },
+    {
+      "score": [
+        "2413.364"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–11_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2010-11 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2010–11 <B>Algerian</B> Ligue Professionnelle 1 was the forty-seventh season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2010–11 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–11_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010–11_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2010–11_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2395.9534"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013–14_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2013-14 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2013–14 season will be the 53rd season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2013–14 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013–14_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013–14_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2395.9534"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2017-18 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2017–18 season will be the 57th season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2017–18 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017–18_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2332.0496"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–12_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2011-12 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2011–12 season will be the 51st season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2011–12 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–12_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011–12_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2332.0496"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016–17_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2016-17 in <B>Algerian</B> football"
+      ],
+      "typeName": [
+        "Event"
+      ],
+      "comment": [
+        "The 2016–17 season will be the 56th season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2016–17 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016–17_in_Algerian_football"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016–17_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2332.0496"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–15_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2014-15 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2014–15 season will be the 54th season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2014–15 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–15_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014–15_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2324.1562"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2019-20 in <B>Algerian</B> football"
+      ],
+      "label": [
+        "2019–20 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2301.7551"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2017–18 <B>Algerian</B> Ligue Professionnelle 1 will be the 54th season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2017–18 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017–18_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2017–18_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2299.6711"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–2012_Algerian_protests"
+      ],
+      "redirectlabel": [
+        "2010-11 <B>Algerian</B> protests",
+        "2010-12 <B>Algerian</B> protests",
+        "2010-2011 <B>Algerian</B> protests",
+        "2010-2012 <B>Algerian</B> protests",
+        "2010–12 <B>Algerian</B> protests",
+        "2010–2011 <B>Algerian</B> protests",
+        "2011 <B>Algeria</B> riots",
+        "2011 <B>Algerian</B> civil unrest",
+        "2011 <B>Algerian</B> protests",
+        "2011 <B>Algerian</B> riots",
+        "Jasmine Revolution in <B>Algeria</B>"
+      ],
+      "label": [
+        "2010–2012 <B>Algerian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–2012_Algerian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010_in_Algeria",
+        "http://dbpedia.org/resource/Category:2010_protests",
+        "http://dbpedia.org/resource/Category:2010_riots",
+        "http://dbpedia.org/resource/Category:2010–2012_Algerian_protests",
+        "http://dbpedia.org/resource/Category:2011_in_Algeria",
+        "http://dbpedia.org/resource/Category:2011_protests",
+        "http://dbpedia.org/resource/Category:2011_riots",
+        "http://dbpedia.org/resource/Category:2012_in_Algeria",
+        "http://dbpedia.org/resource/Category:2012_protests",
+        "http://dbpedia.org/resource/Category:2012_riots",
+        "http://dbpedia.org/resource/Category:Arab_Spring_by_country",
+        "http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "2266.345"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012–13_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2012-13 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2012–13 season will be the 52nd season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2012–13 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012–13_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012–13_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2258.674"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2018-19 in <B>Algerian</B> football"
+      ],
+      "label": [
+        "2018–19 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2240.364"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016–17_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2016-17 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2016–17 <B>Algerian</B> Ligue Professionnelle 1 will be the 53rd season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2016–17 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016–17_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016–17_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2016–17_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2235.2703"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014–15_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2014-15 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2014–15 <B>Algerian</B> Ligue Professionnelle 1 will be the 51st season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2014–15 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014–15_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2014–15_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2014–15_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2234.341"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012–13_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2012-13 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2012–13 <B>Algerian</B> Ligue Professionnelle 1 will be the forty-ninth season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2012–13 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012–13_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012–13_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2012–13_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2233.15"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013–14_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2013-14 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2013–14 <B>Algerian</B> Ligue Professionnelle 1 will be the 50th season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2013–14 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013–14_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013–14_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2013–14_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2227.3628"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2021_Algerian_protests"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Algerian</B> protests",
+        "2019-2021 <B>Algerian</B> protests",
+        "2019-20 <B>Algerian</B> protests",
+        "2019-21 <B>Algerian</B> protests",
+        "2019 <B>Algerian</B> protests",
+        "2019–2020 <B>Algerian</B> protests",
+        "2019–20 <B>Algerian</B> protests",
+        "2019–21 <B>Algerian</B> protests",
+        "Hirak in <B>Algeria</B>",
+        "Revolution of smiles",
+        "Smile revolution"
+      ],
+      "label": [
+        "2019–2021 <B>Algerian</B> protests"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2021_Algerian_protests"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–2022_Arab_protests",
+        "http://dbpedia.org/resource/Category:2019_in_Algeria",
+        "http://dbpedia.org/resource/Category:2019_protests",
+        "http://dbpedia.org/resource/Category:2019–2021_Algerian_protests",
+        "http://dbpedia.org/resource/Category:2020_in_Algeria",
+        "http://dbpedia.org/resource/Category:2020_protests",
+        "http://dbpedia.org/resource/Category:February_2019_events_in_Africa",
+        "http://dbpedia.org/resource/Category:March_2019_events_in_Africa",
+        "http://dbpedia.org/resource/Category:October_2020_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Politics_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "2225.4666"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–20_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2019-20 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2019–20 <B>Algerian</B> Ligue Professionnelle 1 was the 56th season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2019–20 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–20_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019–20_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2019–20_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons",
+        "http://dbpedia.org/resource/Category:Association_football_events_curtailed_due_to_the_COVID-19_pandemic"
+      ]
+    },
+    {
+      "score": [
+        "2223.021"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011–12_Algerian_Ligue_Professionnelle_1"
+      ],
+      "redirectlabel": [
+        "2011-12 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2011–12 <B>Algerian</B> Ligue Professionnelle 1 will be the forty-eighth season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2011–12 <B>Algerian</B> Ligue Professionnelle 1"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011–12_Algerian_Ligue_Professionnelle_1"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011–12_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2011–12_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2128.8604"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2010–11_in_Algerian_football"
+      ],
+      "redirectlabel": [
+        "2010-11 in <B>Algerian</B> football"
+      ],
+      "comment": [
+        "The 2010–11 season will be the 50th season of competitive association football in <B>Algeria</B>."
+      ],
+      "label": [
+        "2010–11 in <B>Algerian</B> football"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2010–11_in_Algerian_football"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010–11_in_Algerian_football"
+      ]
+    },
+    {
+      "score": [
+        "2043.5272"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Algerian_Ligue_Professionnelle_2"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Algerian</B> Ligue Professionnelle 2"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2018–19 <B>Algerian</B> Ligue Professionnelle 2 was the 55th season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2018–19 <B>Algerian</B> Ligue Professionnelle 2"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Algerian_Ligue_Professionnelle_2"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_African_second_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2018–19_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_2_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2016.4537"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_dinar"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B> dinar",
+        "<B>Algerian</B> Dinar",
+        "<B>Algerian</B> dinars",
+        "DZD",
+        "ISO 4217:DZD"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        ": DZD) is the monetary currency of <B>Algeria</B> and it is subdivided into 100 centimes. Centimes are now obsolete due to their extremely low value."
+      ],
+      "label": [
+        "<B>Algerian</B> dinar"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_dinar"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Circulating_currencies",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1964",
+        "http://dbpedia.org/resource/Category:Currencies_of_Algeria",
+        "http://dbpedia.org/resource/Category:Economy_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "2007.3394"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Second_Barbary_War"
+      ],
+      "redirectlabel": [
+        "<B>Algerine</B> War",
+        "<B>Algerine</B> war",
+        "U.S.-<B>Algerian</B> War",
+        "U.S.–<B>Algerian</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Second Barbary War (1815) or the U.S.–<B>Algerian</B> war was fought between the United States and the"
+      ],
+      "label": [
+        "Second Barbary War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Second_Barbary_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1815_in_Africa",
+        "http://dbpedia.org/resource/Category:19th_century_in_Algeria",
+        "http://dbpedia.org/resource/Category:Barbary_Wars",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1815",
+        "http://dbpedia.org/resource/Category:Wars_involving_Algeria",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1974.2292"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Chaabi_(Algeria)"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Chaabi",
+        "<B>Algerian</B> chaabi"
+      ],
+      "comment": [
+        "Chaabi is a traditional music of Algiers (<B>Algeria</B>), formalized by El Hadj M'Hamed El Anka"
+      ],
+      "label": [
+        "Chaabi (<B>Algeria</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Chaabi_(Algeria)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th-century_music_genres",
+        "http://dbpedia.org/resource/Category:21st-century_music_genres",
+        "http://dbpedia.org/resource/Category:Algerian_styles_of_music",
+        "http://dbpedia.org/resource/Category:Berber_music"
+      ]
+    },
+    {
+      "score": [
+        "1956.9006"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_mandole"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> mandola",
+        "Mandol (instrument)",
+        "Mandole",
+        "Mondol"
+      ],
+      "comment": [
+        "The <B>Algerian</B> mandole (mandol, mondol) is steel-string fretted instrument resembling an elongated"
+      ],
+      "label": [
+        "<B>Algerian</B> mandole"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_mandole"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_musical_instruments",
+        "http://dbpedia.org/resource/Category:Arabic_musical_instruments",
+        "http://dbpedia.org/resource/Category:Berber_musical_instruments",
+        "http://dbpedia.org/resource/Category:Mandolin_family_instruments"
+      ]
+    },
+    {
+      "score": [
+        "1896.6626"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Football_Federation"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B> Football Federation",
+        "<B>Algeria</B> fa",
+        "<B>Algerian</B> Football Association",
+        "Federation Algerienne de Football",
+        "Fédération Algérienne de Football"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Football Federation (Arabic: الإتحادية الجزائرية لكرة القدم‎, French: Fédération"
+      ],
+      "label": [
+        "<B>Algerian</B> Football Federation"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Football_Federation"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_governing_bodies_in_Algeria",
+        "http://dbpedia.org/resource/Category:National_members_of_the_Confederation_of_African_Football",
+        "http://dbpedia.org/resource/Category:Sports_governing_bodies_in_Algeria",
+        "http://dbpedia.org/resource/Category:Sports_organizations_established_in_1962"
+      ]
+    },
+    {
+      "score": [
+        "1842.6005"
+      ],
+      "refCount": [
+        "38"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Basketball_Championship"
+      ],
+      "redirectlabel": [
+        "AB Skikda",
+        "ASM Blida",
+        "ASM Oran (basketball)",
+        "AS PTT Alger (basketball)",
+        "AU Annaba",
+        "COBB Oran",
+        "CRB Temouchent",
+        "CRM Birkhadem",
+        "CSC Gué de Constantine",
+        "CSMBB Ouargla",
+        "CSS Kouba",
+        "DRB Staouéli",
+        "Darak El-Watani",
+        "IRB Alger",
+        "IRB Bordj Bou Arreridj",
+        "MS Cherchell",
+        "MT El Eulma",
+        "NB Staouéli",
+        "OC Alger (basketball)",
+        "OMB Bel Abbés",
+        "OMS Miliana",
+        "OS Bordj Bou Arréridj",
+        "Printemps Sportve d'El Eulma",
+        "RAM Alger",
+        "RAM Alger (basketball)",
+        "RC Kouba (basketball)"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Basketball Championship, now called the ABC National 1, formally known as the ABC"
+      ],
+      "label": [
+        "<B>Algerian</B> Basketball Championship"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Basketball_Championship"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algerian_Basketball_Championship",
+        "http://dbpedia.org/resource/Category:Basketball_competitions_in_Algeria",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Africa",
+        "http://dbpedia.org/resource/Category:National_championships_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1808.0787"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1962_Algerian_independence_referendum"
+      ],
+      "redirectlabel": [
+        "1962 <B>Algerian</B> self-determination referendum",
+        "1962 <B>Algerian</B> Évian Accords referendum",
+        "<B>Algerian</B> Evian Accords referendum, 1962",
+        "<B>Algerian</B> independence",
+        "<B>Algerian</B> independence referendum, 1962",
+        "<B>Algerian</B> self-determination referendum, 1962",
+        "<B>Algerian</B> Évian Accords referendum, 1962"
+      ],
+      "comment": [
+        "An independence referendum was held in French <B>Algeria</B> on 1 July 1962. It followed French approval"
+      ],
+      "label": [
+        "1962 <B>Algerian</B> independence referendum"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1962_Algerian_independence_referendum"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_in_Algeria",
+        "http://dbpedia.org/resource/Category:1962_in_the_European_Economic_Community",
+        "http://dbpedia.org/resource/Category:1962_referendums",
+        "http://dbpedia.org/resource/Category:Independence_referendums",
+        "http://dbpedia.org/resource/Category:Referendums_in_Algeria",
+        "http://dbpedia.org/resource/Category:Referendums_in_Overseas_France",
+        "http://dbpedia.org/resource/Category:Referendums_related_to_the_European_Union",
+        "http://dbpedia.org/resource/Category:Withdrawal_from_the_European_Union"
+      ]
+    },
+    {
+      "score": [
+        "1803.0573"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Danish–Algerian_War"
+      ],
+      "redirectlabel": [
+        "Bombardment of Algiers (1770)",
+        "Danish-<B>Algerian</B> War",
+        "Danish-Norwegian <B>Algerian</B> Expedition",
+        "Danish-Norwegian <B>Algerian</B> Expedition (1770)",
+        "Danish <B>Algerian</B> Expedition (1770)",
+        "War between Denmark-Norway and Algiers"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " of Algiers which was a province of the Ottoman Empire. It is also known as the <B>Algerian</B> Expedition, or \"The War Against <B>Algeria</B>\"."
+      ],
+      "label": [
+        "Danish–<B>Algerian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Danish–Algerian_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:18th_century_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algeria–Denmark_relations",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1769",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1770",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1771",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1772",
+        "http://dbpedia.org/resource/Category:Wars_involving_Algeria",
+        "http://dbpedia.org/resource/Category:Wars_involving_Denmark",
+        "http://dbpedia.org/resource/Category:Wars_involving_Norway",
+        "http://dbpedia.org/resource/Category:Wars_involving_the_Ottoman_Empire"
+      ]
+    },
+    {
+      "score": [
+        "1752.4902"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_People's_Party"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> People Party",
+        "Parti du Peuple <B>Algerien</B>",
+        "Parti du Peuple <B>Algérien</B>",
+        "Parti du peuple <B>Algerien</B>",
+        "Parti du peuple <B>Algérien</B>",
+        "Parti du peuple <B>algerien</B>",
+        "Parti du peuple <B>algérien</B>",
+        "Party of the <B>Algerian</B> People"
+      ],
+      "comment": [
+        "The <B>Algerian</B> People's Party (in French, Parti du Peuple <B>Algerien</B> PPA), was a successor organization"
+      ],
+      "label": [
+        "<B>Algerian</B> People's Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_People's_Party"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1937_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:1946_disestablishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_France",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1946",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1937"
+      ]
+    },
+    {
+      "score": [
+        "1705.4558"
+      ],
+      "refCount": [
+        "49"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Adrar_Province"
+      ],
+      "redirectlabel": [
+        "Adrar (<B>Algerian</B> province)",
+        "Adrar Province, <B>Algeria</B>",
+        "Adrar province, <B>Algeria</B>",
+        "List of municipalities in Adrar",
+        "Wilaya of Adrar"
+      ],
+      "typeName": [
+        "Settlement",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " <B>Algeria</B>, named after its capital Adrar. It is the second-largest province, with an area of 424,948 km"
+      ],
+      "label": [
+        "Adrar Province"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Adrar_Province"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Adrar_Province",
+        "http://dbpedia.org/resource/Category:Provinces_of_Algeria",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1974"
+      ]
+    },
+    {
+      "score": [
+        "1618.5767"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Armed_Islamic_Group_of_Algeria"
+      ],
+      "redirectlabel": [
+        "Al-Jama'ah al-Islamiyah al-Musallaha",
+        "<B>Algerian</B> Armed Islamic Group",
+        "<B>Algerian</B> Groupe Islamique Arme",
+        "<B>Algerian</B> Groupement Islamique Arme",
+        "<B>Algerian</B> Groupement Islamique Armé",
+        "<B>Algerian</B> Islamic terrorist group",
+        "Antar Zouabri",
+        "Antar zouabri",
+        "Armed Islamic Group",
+        "Armed Islamic Group (GIA)",
+        "Armed Islamic Groups",
+        "Armed islamic group of <B>algeria</B>",
+        "GIA <B>Algeria</B>",
+        "Group Islamic <B>Algerian</B>",
+        "Group Islamique Armee",
+        "Group Islamique Armée",
+        "Groupe Islamique Arme",
+        "Groupe Islamique Armee",
+        "Groupe Islamique Armé",
+        "Groupe Islamique Armée",
+        "Groupement Islamique Arme",
+        "Groupement Islamique Armé",
+        "Islamic Armed Group",
+        "Nourredine Boudiafi",
+        "Soldiers of Mercy",
+        "Zouabri"
+      ],
+      "comment": [
+        " المسلّحة‎), was one of the two main Islamist insurgents groups that fought the <B>Algerian</B> government and army"
+      ],
+      "label": [
+        "Armed Islamic Group of <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Armed_Islamic_Group_of_Algeria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algeria–France_relations",
+        "http://dbpedia.org/resource/Category:Armed_Islamic_Group_of_Algeria",
+        "http://dbpedia.org/resource/Category:Factions_of_the_Algerian_Civil_War",
+        "http://dbpedia.org/resource/Category:Islamic_terrorism_in_France",
+        "http://dbpedia.org/resource/Category:Jihadist_groups_in_Algeria",
+        "http://dbpedia.org/resource/Category:Organisations_designated_as_terrorist_by_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Organizations_based_in_Africa_designated_as_terrorist",
+        "http://dbpedia.org/resource/Category:Organizations_designated_as_terrorist_by_Canada",
+        "http://dbpedia.org/resource/Category:Organizations_formerly_designated_as_terrorist_by_the_United_States",
+        "http://dbpedia.org/resource/Category:Qutbism",
+        "http://dbpedia.org/resource/Category:Qutbist_organisations",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1602.2028"
+      ],
+      "refCount": [
+        "76"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Crested_lark"
+      ],
+      "redirectlabel": [
+        "Alauda cristata",
+        "Baluchistan Crested Lark",
+        "Baluchistan crested lark",
+        "Caucasian Crested Lark",
+        "Caucasian crested lark",
+        "Central European Crested Lark",
+        "Central European crested lark",
+        "Central Turkey Crested Lark",
+        "Central Turkey crested lark",
+        "Coastal Levant Crested Lark",
+        "Coastal Levant crested lark",
+        "Crested Lark",
+        "Cyprus Crested Lark",
+        "Cyprus crested lark",
+        "Cyrenaica Crested Lark",
+        "Cyrenaica crested lark",
+        "Dongola Crested Lark",
+        "Dongola crested lark",
+        "East Levant Crested Lark",
+        "East Levant crested lark",
+        "Galerida cristata",
+        "Gilgit Crested Lark",
+        "Gilgit crested lark",
+        "Greecian Crested Lark",
+        "Greecian crested lark",
+        "Iberian Crested Lark",
+        "Iberian crested lark",
+        "Indian Crested Lark",
+        "Indian crested lark",
+        "Kazakhstan Crested Lark",
+        "Kazakhstan crested lark",
+        "Nigerian Crested Lark",
+        "Nigerian crested lark",
+        "Nile Delta Crested Lark",
+        "Nile Delta crested lark",
+        "North-East <B>Algerian</B> Crested Lark",
+        "North-East Libyan Crested Lark",
+        "North-West Moroccan Crested Lark",
+        "North-east <B>Algerian</B> Crested Lark",
+        "North-east <B>Algerian</B> crested lark",
+        "North-east Libyan Crested Lark",
+        "North-east Libyan crested lark",
+        "North-west Moroccan Crested Lark",
+        "North-west Moroccan crested lark",
+        "North <B>Algerian</B> Crested Lark",
+        "North <B>Algerian</B> crested lark",
+        "Northeast <B>Algerian</B> Crested Lark",
+        "Northeast <B>Algerian</B> crested lark",
+        "Northeast Libyan Crested Lark",
+        "Northeast Libyan crested lark",
+        "Northern Nile Valley Crested Lark",
+        "Northern Nile Valley crested lark",
+        "Northwest Moroccan Crested Lark",
+        "Northwest Moroccan crested lark",
+        "Senegal Crested Lark",
+        "Senegal crested lark",
+        "Somali Crested Lark",
+        "Somali crested lark",
+        "South-East <B>Algerian</B> Crested Lark",
+        "South-East European Crested Lark",
+        "South-east <B>Algerian</B> Crested Lark",
+        "South-east <B>Algerian</B> crested lark",
+        "South-east European Crested Lark",
+        "South-east European crested lark",
+        "Southeast <B>Algerian</B> Crested Lark",
+        "Southeast <B>Algerian</B> crested lark",
+        "Southeast European Crested Lark",
+        "Southeast European crested lark",
+        "Southern Nile Valley Crested Lark",
+        "Southern Nile Valley crested lark",
+        "Sudan Crested Lark",
+        "Sudan crested lark",
+        "West Italian Crested Lark",
+        "West Italian crested lark",
+        "West Moroccan Crested Lark",
+        "West Moroccan crested lark"
+      ],
+      "comment": [
+        "The crested lark (Galerida cristata) is a species of lark distinguished from the other 81 species of lark by the crest of feathers that rise up in territorial or courtship displays and when singing. Common to mainland Europe, the birds can also be found in northern Africa and in parts of western Asia and China. It is a non-migratory bird, but can occasionally be found as a vagrant in Great Britain."
+      ],
+      "label": [
+        "Crested lark"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Crested_lark"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1758",
+        "http://dbpedia.org/resource/Category:Birds_of_Eurasia",
+        "http://dbpedia.org/resource/Category:Birds_of_North_Africa",
+        "http://dbpedia.org/resource/Category:Galerida",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Carl_Linnaeus"
+      ]
+    },
+    {
+      "score": [
+        "1596.2861"
+      ],
+      "refCount": [
+        "332"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Districts_of_Algeria"
+      ],
+      "redirectlabel": [
+        "Daïra of <B>Algeria</B>"
+      ],
+      "comment": [
+        "The provinces of <B>Algeria</B> are divided into 547 districts (daïras). The capital of a district is"
+      ],
+      "label": [
+        "Districts of <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Districts_of_Algeria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Administrative_divisions_in_Africa",
+        "http://dbpedia.org/resource/Category:Districts_of_Algeria",
+        "http://dbpedia.org/resource/Category:Subdivisions_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1566.2812"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_National_Movement"
+      ],
+      "redirectlabel": [
+        "Mouvement National <B>Algerien</B>",
+        "Mouvement National <B>Algérien</B>",
+        "Mouvement national <B>algerien</B>",
+        "Mouvement national <B>algérien</B>",
+        "National <B>Algerian</B> Movement"
+      ],
+      "comment": [
+        "The <B>Algerian</B> National Movement (French: Mouvement national <B>algérien</B>, or MNA, Tamazight: Amussu"
+      ],
+      "label": [
+        "<B>Algerian</B> National Movement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_National_Movement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_War",
+        "http://dbpedia.org/resource/Category:Arab_militant_groups",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_France",
+        "http://dbpedia.org/resource/Category:National_liberation_movements",
+        "http://dbpedia.org/resource/Category:Political_parties_with_year_of_disestablishment_missing",
+        "http://dbpedia.org/resource/Category:Political_parties_with_year_of_establishment_missing",
+        "http://dbpedia.org/resource/Category:Rebel_groups_in_Algeria",
+        "http://dbpedia.org/resource/Category:Separatism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Separatism_in_France",
+        "http://dbpedia.org/resource/Category:Terrorism_in_France"
+      ]
+    },
+    {
+      "score": [
+        "1565.4631"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/TV1_(Algerian_TV_channel)"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Television",
+        "<B>Algerian</B> Television (TV network)",
+        "<B>Algerian</B> Television (Terrestrial channel)",
+        "EPTV (TV network)",
+        "Radiodiffusion Télévision Algérienne",
+        "Télévision Algérienne"
+      ],
+      "label": [
+        "TV1 (<B>Algerian</B> TV channel)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/TV1_(Algerian_TV_channel)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Arabic-language_television_stations",
+        "http://dbpedia.org/resource/Category:State_media",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1956",
+        "http://dbpedia.org/resource/Category:Television_stations_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1540.947"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Provisional_Government_of_the_Algerian_Republic"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Provisional Government",
+        "<B>Algerian</B> provisional government",
+        "Gouvernement Provisionel de la Republique Algerienne",
+        "Gouvernement Provisionel de la République Algérienne",
+        "Gouvernement Provisoire de la Republique Algerienne",
+        "Gouvernement Provisoire de la République Algérienne",
+        "Gouvernement provisoire de la republique algerienne",
+        "Gouvernement provisoire de la republique algérienne",
+        "Gouvernement provisoire de la république algérienne",
+        "Government Day",
+        "Provisional government of the <B>algerian</B> republic"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "The Provisional Government of the <B>Algerian</B> Republic (Arabic: الحكومة المؤقتة للجمهورية الجزائرية‎"
+      ],
+      "label": [
+        "Provisional Government of the <B>Algerian</B> Republic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Provisional_Government_of_the_Algerian_Republic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_War",
+        "http://dbpedia.org/resource/Category:Algerian_exiles",
+        "http://dbpedia.org/resource/Category:Algeria–Egypt_relations",
+        "http://dbpedia.org/resource/Category:Former_governments_in_exile",
+        "http://dbpedia.org/resource/Category:National_Liberation_Front_(Algeria)",
+        "http://dbpedia.org/resource/Category:Provisional_governments",
+        "http://dbpedia.org/resource/Category:Separatism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Separatism_in_France"
+      ]
+    },
+    {
+      "score": [
+        "1528.3474"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Torture_during_the_Algerian_War"
+      ],
+      "redirectlabel": [
+        "Torture during the <B>Algerian</B> War of Independence",
+        "Torture during the <B>Algerian</B> war",
+        "Torture in the <B>Algerian</B> War",
+        "Torture in the <B>Algerian</B> war",
+        "Use of torture during the <B>Algerian</B> war"
+      ],
+      "label": [
+        "Torture during the <B>Algerian</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Torture_during_the_Algerian_War"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_War",
+        "http://dbpedia.org/resource/Category:Algerian_war_crimes",
+        "http://dbpedia.org/resource/Category:French_war_crimes",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_France",
+        "http://dbpedia.org/resource/Category:Military_scandals",
+        "http://dbpedia.org/resource/Category:Torture_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1515.8823"
+      ],
+      "refCount": [
+        "6"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_police"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> National Police",
+        "Direction Generale de la Surete Nationale",
+        "Police of <B>Algeria</B>",
+        "Surete Nationale (<B>Algeria</B>)",
+        "Sûreté Nationale (<B>Algeria</B>)"
+      ],
+      "comment": [
+        ", Sûreté nationale, or Sûreté) is the civil police of <B>Algeria</B>. It polices <B>Algeria's</B> larger cities and"
+      ],
+      "label": [
+        "<B>Algerian</B> police"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_police"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Algeria",
+        "http://dbpedia.org/resource/Category:National_Central_Bureaus_of_Interpol"
+      ]
+    },
+    {
+      "score": [
+        "1506.514"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Algeria</B>",
+        "<B>Algerian</B> Air Forces",
+        "<B>Algerian</B> National Air Force"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Air Force (AAF) (Arabic: القوات الجوية الجزائرية‎, Al Quwwat aljawwiya aljaza'eriiya"
+      ],
+      "label": [
+        "<B>Algerian</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Air_forces_by_country",
+        "http://dbpedia.org/resource/Category:Algerian_Air_Force",
+        "http://dbpedia.org/resource/Category:Aviation_in_Algeria",
+        "http://dbpedia.org/resource/Category:Military_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1481.9923"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_three-toed_skink"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Three-Toed Skink",
+        "<B>Algerian</B> Three-toed Skink",
+        "<B>Algerian</B> three-Toed skink",
+        "Chalcides mertensi",
+        "Seps Tridactyle De L'Algerie"
+      ],
+      "comment": [
+        "The <B>Algerian</B> three-toed skink (Chalcides mertensi) is a species of \"grass-swimming\" skink with an"
+      ],
+      "label": [
+        "<B>Algerian</B> three-toed skink"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_three-toed_skink"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Chalcides",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1954",
+        "http://dbpedia.org/resource/Category:Reptiles_of_North_Africa",
+        "http://dbpedia.org/resource/Category:Skinks_of_Africa",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Wolfgang_Klausewitz",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1471.7097"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Algerian_Championnat_National"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Algerian</B> Championnat National",
+        "1999-2000 <B>Algerian</B> Championnat National",
+        "1999–00 <B>Algerian</B> Championnat National"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1999–2000 <B>Algerian</B> Championnat National was the 38th season of the <B>Algerian</B> Championnat"
+      ],
+      "label": [
+        "1999–2000 <B>Algerian</B> Championnat National"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Algerian_Championnat_National"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1999–2000_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1455.9388"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/French-Algerian_War_1681–1688"
+      ],
+      "redirectlabel": [
+        "French-<B>Algerian</B> War 1681-1688",
+        "French-<B>Algerian</B> War 1681-1690",
+        "French-<B>Algerian</B> War 1681-88",
+        "French-<B>Algerian</B> War 1681–1690",
+        "French-<B>Algerian</B> War 1681–88"
+      ],
+      "label": [
+        "French-<B>Algerian</B> War 1681–1688"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/French-Algerian_War_1681–1688"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Barbary_pirates",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1681",
+        "http://dbpedia.org/resource/Category:History_of_Algiers",
+        "http://dbpedia.org/resource/Category:Janissaries",
+        "http://dbpedia.org/resource/Category:Wars_involving_Algeria",
+        "http://dbpedia.org/resource/Category:Wars_involving_France"
+      ]
+    },
+    {
+      "score": [
+        "1445.6853"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algeria–France_relations"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B>-France relations",
+        "<B>Algeria</B> - France relations",
+        "<B>Algeria</B> France relations",
+        "<B>Algeria</B> – France relations",
+        "<B>Algerian</B>-French relations",
+        "<B>Algerian</B>–French relations",
+        "France-<B>Algeria</B> relations",
+        "France - <B>Algeria</B> relations",
+        "France <B>Algeria</B> relations",
+        "France – <B>Algeria</B> relations",
+        "France–<B>Algeria</B> relations",
+        "Franco-<B>Algerian</B> relations",
+        "Franco–<B>Algerian</B> relations"
+      ],
+      "comment": [
+        " strengthen. Today the relationship between French and <B>Algeria</B> is strong. France has an <B>Algerian</B> embassy in"
+      ],
+      "label": [
+        "<B>Algeria</B>–France relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algeria–France_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algeria–France_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Algeria",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_France",
+        "http://dbpedia.org/resource/Category:Relations_of_colonizer_and_former_colony"
+      ]
+    },
+    {
+      "score": [
+        "1440.7318"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2007_Algerian_legislative_election"
+      ],
+      "redirectlabel": [
+        "2007 <B>Algerian</B> parliamentary election",
+        "<B>Algerian</B> legislative election, 2007",
+        "<B>Algerian</B> parliamentary election, 2007",
+        "<B>Algerian</B> parliamentary elections, 2007"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " People's Assembly. While most <B>Algerians</B> voted on May 17, immigrants from <B>Algeria</B> to other countries"
+      ],
+      "label": [
+        "2007 <B>Algerian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2007_Algerian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2007_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:2007_in_Algeria",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1433.3882"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009–10_Algerian_Championnat_National"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Algerian</B> Championnat National",
+        "2009-10 Championnat d'Algérie de football",
+        "2009–10 Championnat d'Algérie de football",
+        "<B>Algerian</B> Championnat National 2009-10",
+        "Championnat d'Algérie de football 2009-10",
+        "Championnat d'Algérie de football 2009–10"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2009–10 <B>Algerian</B> Championnat National, referred to as the Nedjma <B>Algerian</B> Championnat National"
+      ],
+      "label": [
+        "2009–10 <B>Algerian</B> Championnat National"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009–10_Algerian_Championnat_National"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009–10_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2009–10_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1425.1268"
+      ],
+      "refCount": [
+        "47"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Desert_lark"
+      ],
+      "redirectlabel": [
+        "Alauda deserti",
+        "<B>Algerian</B> Desert Lark",
+        "<B>Algerian</B> desert lark",
+        "Ammomanes deserti",
+        "Central <B>Algerian</B> Desert Lark",
+        "Central <B>Algerian</B> desert lark",
+        "Damergu Desert Lark",
+        "Damergu desert lark",
+        "Danakil Desert Lark",
+        "Danakil desert lark",
+        "Desert Finch-Lark",
+        "Desert Finch-lark",
+        "Desert Finch Lark",
+        "Desert Lark",
+        "Desert finch-lark",
+        "Desert finch lark",
+        "Eastern Iraqi Desert Lark",
+        "Eastern Iraqi desert lark",
+        "Eritrea Desert Lark",
+        "Eritrea desert lark",
+        "Indian Desert Finch-Lark",
+        "Indian Desert Finch-lark",
+        "Indian Desert Finch Lark",
+        "Indian Desert Lark",
+        "Indian desert finch-lark",
+        "Indian desert finch lark",
+        "Indian desert lark",
+        "Jordanian Desert Lark",
+        "Jordanian desert lark",
+        "Khartoum Desert Lark",
+        "Khartoum desert lark",
+        "Middle East Desert Lark",
+        "Middle East desert lark",
+        "North <B>Algerian</B> Desert Lark",
+        "North <B>Algerian</B> desert lark",
+        "Red Sea Desert Lark",
+        "Red Sea desert lark",
+        "Saharan Desert Lark",
+        "Saharan desert lark",
+        "Sinai Desert Lark",
+        "Sinai desert lark",
+        "Somali Desert Lark",
+        "Somali desert lark",
+        "South <B>Algerian</B> Desert Lark",
+        "South <B>Algerian</B> desert lark",
+        "Southern Moroccan Desert Lark",
+        "Southern Moroccan desert lark"
+      ],
+      "comment": [
+        "The desert lark (Ammomanes deserti) breeds in deserts and semi-deserts from Morocco to western India. It has a very wide distribution and faces no obvious threats, and surveys have shown that it is slowly increasing in numbers as it expands its range. The International Union for Conservation of Nature has rated its conservation status as being of \"least concern\"."
+      ],
+      "label": [
+        "Desert lark"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Desert_lark"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Ammomanes",
+        "http://dbpedia.org/resource/Category:Birds_described_in_1823",
+        "http://dbpedia.org/resource/Category:Birds_of_North_Africa",
+        "http://dbpedia.org/resource/Category:Birds_of_Pakistan",
+        "http://dbpedia.org/resource/Category:Birds_of_the_Middle_East"
+      ]
+    },
+    {
+      "score": [
+        "1409.3143"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_cuisine"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> desserts",
+        "Cuisine of <B>Algeria</B>"
+      ],
+      "comment": [
+        " products. Conquests or demographic movement towards the <B>Algerian</B> territory were two of the main factors of"
+      ],
+      "label": [
+        "<B>Algerian</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_cuisine",
+        "http://dbpedia.org/resource/Category:Algerian_culture",
+        "http://dbpedia.org/resource/Category:Arab_cuisine",
+        "http://dbpedia.org/resource/Category:Maghrebi_cuisine",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine",
+        "http://dbpedia.org/resource/Category:North_African_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "1407.0902"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1991_Algerian_legislative_election"
+      ],
+      "redirectlabel": [
+        "1991 <B>Algerian</B> National Assembly elections",
+        "<B>Algerian</B> National Assembly elections, 1991",
+        "<B>Algerian</B> legislative election, 1991"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        ". The annulling of the elections led to the outbreak of the <B>Algerian</B> Civil War."
+      ],
+      "label": [
+        "1991 <B>Algerian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1991_Algerian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1991_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:1991_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algerian_Civil_War",
+        "http://dbpedia.org/resource/Category:Annulled_elections",
+        "http://dbpedia.org/resource/Category:Elections_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1403.9768"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Minister_of_Algerian_Affairs"
+      ],
+      "redirectlabel": [
+        "Minister for <B>Algerian</B> Affairs",
+        "Ministry for <B>Algerian</B> Affairs",
+        "Ministry of <B>Algerian</B> Affairs",
+        "Secretary of State for <B>Algerian</B> affairs"
+      ],
+      "label": [
+        "Minister of <B>Algerian</B> Affairs"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Minister_of_Algerian_Affairs"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1858_establishments_in_France",
+        "http://dbpedia.org/resource/Category:1962_disestablishments_in_France",
+        "http://dbpedia.org/resource/Category:French_Algeria",
+        "http://dbpedia.org/resource/Category:Government_ministries_of_France",
+        "http://dbpedia.org/resource/Category:Ministries_established_in_1858"
+      ]
+    },
+    {
+      "score": [
+        "1382.2472"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_nuthatch"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Nuthatch",
+        "Kabylie Nuthatch",
+        "Kabylie nuthatch",
+        "Sitta ledanti"
+      ],
+      "comment": [
+        "The <B>Algerian</B> nuthatch (Sitta ledanti) is a small passerine bird which is the only bird species"
+      ],
+      "label": [
+        "<B>Algerian</B> nuthatch"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_nuthatch"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Birds_described_in_1976",
+        "http://dbpedia.org/resource/Category:Birds_of_North_Africa",
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Algeria",
+        "http://dbpedia.org/resource/Category:Nuthatches"
+      ]
+    },
+    {
+      "score": [
+        "1380.5916"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_National_Navy"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Navy",
+        "List of current ships of the <B>Algerian</B> Navy",
+        "Navy of <B>Algeria</B>",
+        "Navy of the Republic of <B>Algeria</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Naval Force (ANF; Arabic: القوات البحرية الجزائرية‎, French: Forces navales"
+      ],
+      "label": [
+        "<B>Algerian</B> National Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_National_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_National_Navy",
+        "http://dbpedia.org/resource/Category:Military_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1375.673"
+      ],
+      "refCount": [
+        "43"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algeria–United_States_relations"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B>-U.S. relations",
+        "<B>Algeria</B>-USA relations",
+        "<B>Algeria</B>-US relations",
+        "<B>Algeria</B>-United States military relations",
+        "<B>Algeria</B>-United States of America relations",
+        "<B>Algeria</B>-United States relations",
+        "<B>Algeria</B> - U.S. relations",
+        "<B>Algeria</B> - USA relations",
+        "<B>Algeria</B> - US relations",
+        "<B>Algeria</B> - United States of America relations",
+        "<B>Algeria</B> - United States relations",
+        "<B>Algeria</B> U.S. relations",
+        "<B>Algeria</B> US relations",
+        "<B>Algeria</B> United States relations",
+        "<B>Algeria</B> – U.S. relations",
+        "<B>Algeria</B> – US relations",
+        "<B>Algeria</B> – United States relations",
+        "<B>Algerian</B>-US relations",
+        "<B>Algeria</B>–U.S. relations",
+        "<B>Algeria</B>–US relations",
+        "<B>Algeria</B>–United States military relations",
+        "History of <B>Algeria</B>-United States relations",
+        "History of <B>Algeria</B>–United States relations",
+        "Military cooperation between the United States and <B>Algeria</B>",
+        "U.S.-<B>Algeria</B> relations",
+        "U.S. - <B>Algeria</B> relations",
+        "U.S. <B>Algeria</B> relations",
+        "U.S.–<B>Algeria</B> relations",
+        "US-<B>Algeria</B> relations",
+        "US-<B>Algerian</B> relations",
+        "USA-<B>Algeria</B> relations",
+        "USA - <B>Algeria</B> relations",
+        "US - <B>Algeria</B> relations",
+        "US <B>Algeria</B> relations",
+        "US–<B>Algeria</B> relations",
+        "US–<B>Algerian</B> relations",
+        "United States-<B>Algeria</B> relations",
+        "United States - <B>Algeria</B> relations",
+        "United States <B>Algeria</B> relations",
+        "United States of America-<B>Algeria</B> relations",
+        "United States of America - <B>Algeria</B> relations",
+        "United States – <B>Algeria</B> relations",
+        "United States–<B>Algeria</B> relations"
+      ],
+      "comment": [
+        " became the first <B>Algerian</B> President to visit the White House since 1985. This visit, followed by a"
+      ],
+      "label": [
+        "<B>Algeria</B>–United States relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algeria–United_States_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algeria–United_States_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Algeria",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "1336.0284"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_ribbed_newt"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Ribbed Newt",
+        "Pleurodeles nebulosus",
+        "Triton D'Algerie",
+        "Triton D'algerie",
+        "Triton Dalgerie"
+      ],
+      "comment": [
+        "The <B>Algerian</B> ribbed newt (Pleurodeles nebulosus) is a species of salamander in the family"
+      ],
+      "label": [
+        "<B>Algerian</B> ribbed newt"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_ribbed_newt"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Amphibians_described_in_1850",
+        "http://dbpedia.org/resource/Category:Amphibians_of_North_Africa",
+        "http://dbpedia.org/resource/Category:Newts",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1315.8788"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Algeria"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Jewish",
+        "<B>Algerian</B> Jewish community",
+        "<B>Algerian</B> Jews",
+        "<B>Algerian</B> Jews in Israel",
+        "Genetic studies on Jews in <B>Algeria</B>",
+        "History of the jews in <B>algeria</B>",
+        "Jews in <B>Algeria</B>",
+        "Jews of <B>Algeria</B>",
+        "Judaism in <B>Algeria</B>",
+        "List of <B>Algerian</B> Jews"
+      ],
+      "comment": [
+        "The History of the Jews in <B>Algeria</B> refers to the history of the Jewish community of <B>Algeria</B>, which"
+      ],
+      "label": [
+        "History of the Jews in <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/History_of_the_Jews_in_Algeria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Jewish_Algerian_history"
+      ]
+    },
+    {
+      "score": [
+        "1310.6935"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Saharan_Arabic"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Saharan Arabic language",
+        "ISO 639:aao",
+        "Saharan Arabic",
+        "Saharan Arabic language"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "<B>Algerian</B> Saharan Arabic (also known as Saharan Arabic, Tamanrasset Arabic, Tamanghasset Arabic) is"
+      ],
+      "label": [
+        "<B>Algerian</B> Saharan Arabic"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Saharan_Arabic"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arabic_languages",
+        "http://dbpedia.org/resource/Category:Languages_of_Algeria",
+        "http://dbpedia.org/resource/Category:Languages_of_Libya",
+        "http://dbpedia.org/resource/Category:Languages_of_Mali",
+        "http://dbpedia.org/resource/Category:Languages_of_Mauritania",
+        "http://dbpedia.org/resource/Category:Languages_of_Morocco",
+        "http://dbpedia.org/resource/Category:Languages_of_Niger",
+        "http://dbpedia.org/resource/Category:Maghrebi_Arabic"
+      ]
+    },
+    {
+      "score": [
+        "1303.8192"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_(typeface)"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> (font)",
+        "<B>Algerian</B> (virtual typeface)"
+      ],
+      "comment": [
+        "<B>Algerian</B> is a decorative serif digital font family, originally produced in the early 20th century"
+      ],
+      "label": [
+        "<B>Algerian</B> (typeface)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_(typeface)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Digital_typefaces",
+        "http://dbpedia.org/resource/Category:Display_typefaces",
+        "http://dbpedia.org/resource/Category:Linotype_typefaces",
+        "http://dbpedia.org/resource/Category:Serif_typefaces",
+        "http://dbpedia.org/resource/Category:Stephenson_Blake_typefaces",
+        "http://dbpedia.org/resource/Category:Typefaces_and_fonts_introduced_in_1908",
+        "http://dbpedia.org/resource/Category:Typefaces_and_fonts_introduced_in_1988"
+      ]
+    },
+    {
+      "score": [
+        "1302.7947"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Algerian_Cup"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Algerian</B> Cup",
+        "1999-2000 <B>Algerian</B> Cup",
+        "1999–00 <B>Algerian</B> Cup"
+      ],
+      "typeName": [
+        "Event",
+        "SoccerTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The 1999–2000 <B>Algerian</B> Cup was the 35th edition of the <B>Algerian</B> Cup. CR Beni Thour won the Cup by"
+      ],
+      "label": [
+        "1999–2000 <B>Algerian</B> Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Algerian_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SoccerTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:Algerian_Cup"
+      ]
+    },
+    {
+      "score": [
+        "1295.408"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_barb"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Barb",
+        "Barbus callensis",
+        "Luciobarbus callensis"
+      ],
+      "comment": [
+        "The <B>Algerian</B> barb or Tunisian barb (Luciobarbus callensis), is a ray-finned fish species in the"
+      ],
+      "label": [
+        "<B>Algerian</B> barb"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_barb"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cyprinid_fish_of_Africa",
+        "http://dbpedia.org/resource/Category:Fish_described_in_1842",
+        "http://dbpedia.org/resource/Category:Freshwater_fish_of_North_Africa",
+        "http://dbpedia.org/resource/Category:Luciobarbus",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Achille_Valenciennes",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1293.167"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2020–21_Algerian_Ligue_2"
+      ],
+      "redirectlabel": [
+        "2020-21 <B>Algerian</B> Ligue 2",
+        "2020-21 <B>Algerian</B> National Amateur",
+        "2020-21 Amateur Division Two",
+        "2020–21 <B>Algerian</B> National Amateur",
+        "2020–21 Amateur Division Two"
+      ],
+      "label": [
+        "2020–21 <B>Algerian</B> Ligue 2"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2020–21_Algerian_Ligue_2"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020–21_in_African_second_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2020–21_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_2_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1293.031"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2002_Algerian_legislative_election"
+      ],
+      "redirectlabel": [
+        "2002 <B>Algerian</B> parliamentary election",
+        "<B>Algerian</B> legislative election, 2002",
+        "<B>Algerian</B> parliamentary election, 2002"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2002 <B>Algerian</B> Legislative election was held in <B>Algeria</B> on 30 May 2002 to elect members of the"
+      ],
+      "label": [
+        "2002 <B>Algerian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2002_Algerian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:2002_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algerian_Civil_War",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Algeria",
+        "http://dbpedia.org/resource/Category:May_2002_events_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1292.6426"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_Algerian_Ligue_Professionnelle_2"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Algerian</B> Ligue Professionnelle 2"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2015–16 <B>Algerian</B> Ligue Professionnelle 2 was the 52nd season of the <B>Algerian</B> Ligue"
+      ],
+      "label": [
+        "2015–16 <B>Algerian</B> Ligue Professionnelle 2"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_Algerian_Ligue_Professionnelle_2"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015–16_in_African_second_tier_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2015–16_in_Algerian_football_leagues",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_2_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1290.8591"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Six"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> 6",
+        "The <B>Algerian</B> Six"
+      ],
+      "comment": [
+        "The <B>Algerian</B> Six were six Bosnian men (five of whom had dual nationality), all born in <B>Algeria</B>, who"
+      ],
+      "label": [
+        "<B>Algerian</B> Six"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Six"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_emigrants_to_Bosnia_and_Herzegovina",
+        "http://dbpedia.org/resource/Category:Algerian_extrajudicial_prisoners_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Algeria–United_States_relations",
+        "http://dbpedia.org/resource/Category:Bosnia_and_Herzegovina–United_States_relations",
+        "http://dbpedia.org/resource/Category:Combatant_Status_Review_Tribunals",
+        "http://dbpedia.org/resource/Category:Lists_of_Guantanamo_Bay_detainees",
+        "http://dbpedia.org/resource/Category:Quantified_groups_of_defendants",
+        "http://dbpedia.org/resource/Category:Terrorism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Wilmer_Cutler_Pickering_Hale_and_Dorr"
+      ]
+    },
+    {
+      "score": [
+        "1284.31"
+      ],
+      "refCount": [
+        "227"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algeria_national_under-23_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B> Olympic football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " during the Olympic Games where the use of three overage players is allowed. The team is controlled by the <B>Algerian</B> Football Federation."
+      ],
+      "label": [
+        "<B>Algeria</B> national under-23 football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algeria_national_under-23_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_national_under-23_association_football_teams",
+        "http://dbpedia.org/resource/Category:Algeria_national_football_team",
+        "http://dbpedia.org/resource/Category:Algeria_national_under-23_football_team"
+      ]
+    },
+    {
+      "score": [
+        "1274.2842"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Algeria"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B>/Government",
+        "<B>Algerian</B> Government",
+        "<B>Algerian</B> government",
+        "<B>Algerian</B> politics",
+        "Government of <B>Algeria</B>",
+        "International organization membership of <B>Algeria</B>",
+        "Politics of <B>algeria</B>"
+      ],
+      "comment": [
+        " <B>Algerians</B> were killed) is a powerful military and security apparatus that put a high value on secrecy"
+      ],
+      "label": [
+        "Politics of <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Algeria"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Politics_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1270.8823"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2012_Algerian_legislative_election"
+      ],
+      "redirectlabel": [
+        "2012 <B>Algerian</B> general election",
+        "<B>Algerian</B> general election, 2012",
+        "<B>Algerian</B> legislative election, 2012"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "A legislative election was held in <B>Algeria</B> on 10 May 2012. The incumbent coalition, consisting of"
+      ],
+      "label": [
+        "2012 <B>Algerian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2012_Algerian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2012_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:2012_in_Algeria",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Algeria",
+        "http://dbpedia.org/resource/Category:May_2012_events_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1270.3761"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999_Algerian_presidential_election"
+      ],
+      "redirectlabel": [
+        "1999 <B>Algerian</B> presidential elections",
+        "<B>Algerian</B> presidential election, 1999",
+        "<B>Algerian</B> presidential elections, 1999"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Presidential elections were held in <B>Algeria</B> on 15 April 1999. Abdelaziz Bouteflika was elected with"
+      ],
+      "label": [
+        "1999 <B>Algerian</B> presidential election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999_Algerian_presidential_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:1999_in_Algeria",
+        "http://dbpedia.org/resource/Category:Algerian_Civil_War",
+        "http://dbpedia.org/resource/Category:Presidential_elections_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1270.1412"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017_Algerian_legislative_election"
+      ],
+      "redirectlabel": [
+        "2017 <B>Algerian</B> parliamentary election",
+        "<B>Algerian</B> legislative election, 2017",
+        "<B>Algerian</B> parliamentary election, 2017"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Parliamentary elections were held in <B>Algeria</B> on 4 May 2017 to elect all 462 members of the People's"
+      ],
+      "label": [
+        "2017 <B>Algerian</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017_Algerian_legislative_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:2017_in_Algeria",
+        "http://dbpedia.org/resource/Category:Election_and_referendum_articles_with_incomplete_results",
+        "http://dbpedia.org/resource/Category:Elections_in_Algeria",
+        "http://dbpedia.org/resource/Category:May_2017_events_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1269.7991"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1990_Algerian_local_elections"
+      ],
+      "redirectlabel": [
+        "1990 <B>Algerian</B> local election",
+        "<B>Algerian</B> local election, 1990",
+        "<B>Algerian</B> local elections, 1990"
+      ],
+      "comment": [
+        "Local elections were held in <B>Algeria</B> on 12 June 1990, the first multi-party elections since"
+      ],
+      "label": [
+        "1990 <B>Algerian</B> local elections"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1990_Algerian_local_elections"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990_elections_in_Africa",
+        "http://dbpedia.org/resource/Category:1990_in_Algeria",
+        "http://dbpedia.org/resource/Category:June_1990_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Local_elections_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1258.876"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2000–01_Algerian_Championnat_National"
+      ],
+      "redirectlabel": [
+        "2000-01 <B>Algerian</B> Championnat National"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2000–01 <B>Algerian</B> Championnat National was the 39th season of the <B>Algerian</B> Championnat National"
+      ],
+      "label": [
+        "2000–01 <B>Algerian</B> Championnat National"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2000–01_Algerian_Championnat_National"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000–01_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2000–01_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1258.876"
+      ],
+      "refCount": [
+        "4"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1982–83_Algerian_Championnat_National"
+      ],
+      "redirectlabel": [
+        "1982-83 <B>Algerian</B> Championnat National"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1982–83 <B>Algerian</B> Championnat National was the 21st season of the <B>Algerian</B> Championnat National"
+      ],
+      "label": [
+        "1982–83 <B>Algerian</B> Championnat National"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1982–83_Algerian_Championnat_National"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982–83_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1982–83_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1237.9735"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/El_Oued"
+      ],
+      "redirectlabel": [
+        "El-Oued",
+        "History of El Oued",
+        "Oued Souf",
+        "Souf (<B>Algerian</B> city)"
+      ],
+      "typeName": [
+        "Settlement",
+        "City",
+        "Place",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        ", and the capital of El Oued Province, in <B>Algeria</B>. The oasis town is watered by an underground river"
+      ],
+      "label": [
+        "El Oued"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/El_Oued"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Settlement",
+        "http://dbpedia.org/ontology/City",
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Cities_in_Algeria",
+        "http://dbpedia.org/resource/Category:Communes_of_El_Oued_Province",
+        "http://dbpedia.org/resource/Category:Oases_of_Algeria",
+        "http://dbpedia.org/resource/Category:Province_seats_of_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1235.1213"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Canadians"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Canadian",
+        "<B>Algerians</B> in Canada"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Algerian</B> Canadians are Canadian citizens of <B>Algerian</B> ancestry or <B>Algeria</B>-born people residing in"
+      ],
+      "label": [
+        "<B>Algerian</B> Canadians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Canadians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:African_Canadian",
+        "http://dbpedia.org/resource/Category:Algerian_diaspora",
+        "http://dbpedia.org/resource/Category:Algerian_emigrants_to_Canada",
+        "http://dbpedia.org/resource/Category:Arab_Canadian",
+        "http://dbpedia.org/resource/Category:Ethnic_groups_in_Canada",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_Canadians"
+      ]
+    },
+    {
+      "score": [
+        "1209.2528"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999–2000_Algerian_League_Cup"
+      ],
+      "redirectlabel": [
+        "1999-00 <B>Algerian</B> League Cup",
+        "1999-2000 <B>Algerian</B> League Cup",
+        "1999–00 <B>Algerian</B> League Cup"
+      ],
+      "typeName": [
+        "Event",
+        "SoccerTournament",
+        "SportsEvent",
+        "SocietalEvent",
+        "Tournament"
+      ],
+      "comment": [
+        "The 1999–00 <B>Algerian</B> League Cup is the 3rd season of the <B>Algerian</B> League Cup. The competition is"
+      ],
+      "label": [
+        "1999–2000 <B>Algerian</B> League Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999–2000_Algerian_League_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/SoccerTournament",
+        "http://dbpedia.org/ontology/SportsEvent",
+        "http://dbpedia.org/ontology/SocietalEvent",
+        "http://dbpedia.org/ontology/Tournament"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999–2000_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:2000_in_African_football",
+        "http://dbpedia.org/resource/Category:Algerian_League_Cup"
+      ]
+    },
+    {
+      "score": [
+        "1184.3531"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Eumeces_algeriensis"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Orange-Tailed Skink",
+        "<B>Algerian</B> Orange-tailed Skink",
+        "<B>Algerian</B> orange-tailed skink",
+        "<B>Algerian</B> skink",
+        "BulAN",
+        "BulÁN",
+        "Bulán",
+        "Eumece D'Algerie",
+        "Novoeumeces algeriensis"
+      ],
+      "comment": [
+        "Eumeces algeriensis, commonly called the <B>Algerian</B> skink, <B>Algerian</B> orange-tailed skink, Berber's"
+      ],
+      "label": [
+        "Eumeces algeriensis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Eumeces_algeriensis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Eumeces",
+        "http://dbpedia.org/resource/Category:Reptiles_described_in_1864",
+        "http://dbpedia.org/resource/Category:Skinks_of_Africa",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Wilhelm_Peters",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1183.9677"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_gerbil"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Gerbil",
+        "Gerbillus garamantis"
+      ],
+      "comment": [
+        "<B>Algerian</B> gerbil (Gerbillus garamantis) is a species of gerbil distributed mainly in <B>Algeria</B>. It is sometimes considered a subspecies of the dwarf gerbil."
+      ],
+      "label": [
+        "<B>Algerian</B> gerbil"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_gerbil"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Endemic_fauna_of_Algeria",
+        "http://dbpedia.org/resource/Category:Gerbillus",
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1881",
+        "http://dbpedia.org/resource/Category:Rodents_of_North_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1181.429"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Abies_numidica"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Fir",
+        "<B>Algerian</B> Silver Fir",
+        "<B>Algerian</B> fir",
+        "<B>Algerian</B> silver fir",
+        "Sapin D'Algerie",
+        "Sapin De Babors",
+        "Sapin De Numidie",
+        "Sapin d'Algerie",
+        "Sapin de Babors",
+        "Sapin de Numidie",
+        "Sapin de babors",
+        "Sapin de numidie"
+      ],
+      "comment": [
+        "Abies numidica, the <B>Algerian</B> fir, is a species of fir found only in <B>Algeria</B>, where it is endemic on"
+      ],
+      "label": [
+        "Abies numidica"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Abies_numidica"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Abies",
+        "http://dbpedia.org/resource/Category:Critically_endangered_flora_of_Africa",
+        "http://dbpedia.org/resource/Category:Drought-tolerant_trees",
+        "http://dbpedia.org/resource/Category:Endemic_flora_of_Algeria",
+        "http://dbpedia.org/resource/Category:Garden_plants_of_Africa",
+        "http://dbpedia.org/resource/Category:Ornamental_trees",
+        "http://dbpedia.org/resource/Category:Taxa_named_by_Élie-Abel_Carrière",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1179.7747"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_mouse"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Mouse",
+        "Mus spretus"
+      ],
+      "comment": [
+        "The <B>Algerian</B> mouse, or western Mediterranean mouse, (Mus spretus) is a wild species of mouse"
+      ],
+      "label": [
+        "<B>Algerian</B> mouse"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_mouse"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Mammals_described_in_1883",
+        "http://dbpedia.org/resource/Category:Mus_(rodent)",
+        "http://dbpedia.org/resource/Category:Rodents_of_Africa",
+        "http://dbpedia.org/resource/Category:Rodents_of_Europe",
+        "http://dbpedia.org/resource/Category:Taxonomy_articles_created_by_Polbot"
+      ]
+    },
+    {
+      "score": [
+        "1170.7936"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_of_Algeria"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Arab Socialist Ba'ath Party",
+        "<B>Algerian</B> Arab Socialist Baath Party",
+        "<B>Algerian</B> Ba'ath Party",
+        "<B>Algerian</B> Baath Party",
+        "Arab Socialist Ba'ath Party (<B>Algeria</B>)",
+        "Arab Socialist Ba'ath Party - <B>Algeria</B> Region",
+        "Arab Socialist Ba'ath Party – <B>Algeria</B> Region",
+        "Arab Socialist Baath Party (<B>Algeria</B>)",
+        "Ba'ath Party (<B>Algeria</B>)",
+        "Baath Party (<B>Algeria</B>)"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " political party in <B>Algeria</B>. It is the <B>Algerian</B> regional branch of the Iraqi-led Ba'ath Party. It is led by Ahmed Choutri."
+      ],
+      "label": [
+        "Arab Socialist Ba'ath Party of <B>Algeria</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_of_Algeria"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1988_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Arab_nationalism_in_Algeria",
+        "http://dbpedia.org/resource/Category:Ba'athist_parties",
+        "http://dbpedia.org/resource/Category:Ba'athist_regional_branches",
+        "http://dbpedia.org/resource/Category:Banned_political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Banned_socialist_parties",
+        "http://dbpedia.org/resource/Category:Nationalist_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1988",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Algeria",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1164.9824"
+      ],
+      "refCount": [
+        "25"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Public_Establishment_of_Television"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> National Television Establishment",
+        "<B>Algerian</B> television",
+        "Canal <B>Algerie</B>",
+        "ENTV",
+        "Entreprise Nationale de la Television -ENTV-",
+        "Entreprise Nationale de la Télévision",
+        "Entreprise nationale de Télévision",
+        "Entreprise nationale de television",
+        "Entreprise nationale de télévision",
+        "Hamraoui Habib Chawki",
+        "Public Establishment Of Television",
+        "TV9 (<B>Algerian</B> TV channel)",
+        "Thalitha TV",
+        "Établissement public de télévision",
+        "تلفزيون جزائري"
+      ],
+      "typeName": [
+        "Organisation",
+        "Company",
+        "Agent"
+      ],
+      "comment": [
+        " television in <B>Algeria</B>, going from production to broadcasting. It is the oldest broadcasting service in"
+      ],
+      "label": [
+        "Public Establishment of Television"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Public_Establishment_of_Television"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Company",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:1986_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:1991_establishments_in_Algeria",
+        "http://dbpedia.org/resource/Category:Companies_based_in_Algiers",
+        "http://dbpedia.org/resource/Category:European_Broadcasting_Union_members",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Algeria",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1962",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1986",
+        "http://dbpedia.org/resource/Category:Mass_media_companies_established_in_1991",
+        "http://dbpedia.org/resource/Category:Multilingual_broadcasters",
+        "http://dbpedia.org/resource/Category:Publicly_funded_broadcasters"
+      ]
+    },
+    {
+      "score": [
+        "1143.7808"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algeria–Greece_relations"
+      ],
+      "redirectlabel": [
+        "<B>Algeria</B>-Greece relations",
+        "<B>Algeria</B>-Greek relations",
+        "<B>Algeria</B> - Greece relations",
+        "<B>Algeria</B> Greece relations",
+        "<B>Algeria</B> – Greece relations",
+        "<B>Algerian</B>-Greek relations",
+        "<B>Algerian</B>–Greek relations",
+        "<B>Algeria</B>–Greek relations",
+        "Greece-<B>Algeria</B> relations",
+        "Greece - <B>Algeria</B> relations",
+        "Greece <B>Algeria</B> relations",
+        "Greece – <B>Algeria</B> relations",
+        "Greece–<B>Algeria</B> relations"
+      ],
+      "comment": [
+        " immigration from <B>Algeria</B> to Greece in recent years, and with <B>Algerian</B> trafficking of Sub Saharan Africans seeking to enter the European Union."
+      ],
+      "label": [
+        "<B>Algeria</B>–Greece relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algeria–Greece_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algeria–Greece_relations",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Algeria",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Greece"
+      ]
+    },
+    {
+      "score": [
+        "1137.2601"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Standard_Algerian_Berber"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Standard Berber"
+      ],
+      "typeName": [
+        "Language"
+      ],
+      "comment": [
+        "Standard <B>Algerian</B> Berber (Tamazight) is the standardized national variety of Berber spoken in"
+      ],
+      "label": [
+        "Standard <B>Algerian</B> Berber"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Standard_Algerian_Berber"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Language"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Languages_of_Algeria",
+        "http://dbpedia.org/resource/Category:Northern_Berber_languages",
+        "http://dbpedia.org/resource/Category:Standard_languages"
+      ]
+    },
+    {
+      "score": [
+        "1134.283"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Algerian_Ligue_2"
+      ],
+      "redirectlabel": [
+        "<B>Algerian</B> Championnat National 2",
+        "<B>Algerian</B> Ligue Professionnelle 2"
+      ],
+      "label": [
+        "<B>Algerian</B> Ligue 2"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Algerian_Ligue_2"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_2",
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Algeria",
+        "http://dbpedia.org/resource/Category:Second_level_football_leagues_in_Africa"
+      ]
+    },
+    {
+      "score": [
+        "1129.2334"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1962–63_Algerian_Championnat_National"
+      ],
+      "redirectlabel": [
+        "1962-63 <B>Algerian</B> Championnat National"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 1962–63 <B>Algerian</B> Championnat National was the first season of the <B>Algerian</B> Championnat National"
+      ],
+      "label": [
+        "1962–63 <B>Algerian</B> Championnat National"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1962–63_Algerian_Championnat_National"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1962–63_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:1962–63_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1126.6082"
+      ],
+      "refCount": [
+        "2"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1965_Algerian_coup_d'état"
+      ],
+      "redirectlabel": [
+        "1965 <B>Algerian</B> coup",
+        "1965 <B>Algerian</B> coup d'etat"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1965 <B>Algerian</B> coup d'état brought Colonel Houari Boumédiène to power as Chairman of the"
+      ],
+      "label": [
+        "1965 <B>Algerian</B> coup d'état"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1965_Algerian_coup_d'état"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_coups_d'état_and_coup_attempts",
+        "http://dbpedia.org/resource/Category:1965_in_Algeria",
+        "http://dbpedia.org/resource/Category:1965_in_military_history",
+        "http://dbpedia.org/resource/Category:20th-century_revolutions",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1965",
+        "http://dbpedia.org/resource/Category:June_1965_events_in_Africa",
+        "http://dbpedia.org/resource/Category:Military_coups_in_Algeria"
+      ]
+    },
+    {
+      "score": [
+        "1125.9729"
+      ],
+      "refCount": [
+        "3"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2001–02_Algerian_Championnat_National"
+      ],
+      "redirectlabel": [
+        "2001-02 <B>Algerian</B> Championnat National"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2001–02 <B>Algerian</B> Championnat National was the 40th season of the <B>Algerian</B> Championnat National"
+      ],
+      "label": [
+        "2001–02 <B>Algerian</B> Championnat National"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2001–02_Algerian_Championnat_National"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001–02_in_African_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2001–02_in_Algerian_football",
+        "http://dbpedia.org/resource/Category:Algerian_Ligue_Professionnelle_1_seasons"
+      ]
+    }
+  ]
+}

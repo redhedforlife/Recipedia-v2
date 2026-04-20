@@ -1,0 +1,5046 @@
+{
+  "docs": [
+    {
+      "score": [
+        "17444.617"
+      ],
+      "refCount": [
+        "5565"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel"
+      ],
+      "redirectlabel": [
+        "Dawlat <B>Isra'il</B>",
+        "Dawlat Isrā'īl",
+        "Etymology of <B>Israel</B>",
+        "ISO 3166-1:IL",
+        "<B>ISRAEL</B>",
+        "<B>ISrael</B>",
+        "<B>Israel</B> (country)",
+        "<B>Israel</B> (nation)",
+        "<B>Israeli</B> (nation)",
+        "<B>Israeli</B> Republic",
+        "<B>Israeli</B> state",
+        "<B>Israil</B>",
+        "<B>Israyl</B>",
+        "<B>Israël</B>",
+        "<B>Isreael</B>",
+        "<B>Isreal</B>",
+        "Isræl",
+        "<B>Istrael</B>",
+        "Izrael (state)",
+        "M'dinat Yisrael",
+        "Medinat <B>Israel</B>",
+        "Medinat Yisra'el",
+        "Medinat Yisrael",
+        "Medīnat Yisrā'el",
+        "Modern <B>Israel</B>",
+        "Name of <B>Israel</B>",
+        "Republic of <B>Israel</B>",
+        "State Of <B>Israel</B>",
+        "State Of <B>israel</B>",
+        "State of <B>Israel</B>",
+        "State of <B>israel</B>",
+        "The State of <B>Israel</B>",
+        "The state of <B>Israel</B>",
+        "Yisra'el",
+        "Yisrael",
+        "Yisraél",
+        "Yisroeil",
+        "Ysrael",
+        "<B>İsrail</B>",
+        "יִשְׂרָאֵל",
+        "יִשְרָאֵל",
+        "ישראל",
+        "מְדִינַת יִשְׂרָאֵל",
+        "מדינת ישראל",
+        "إسرائيل",
+        "دولة إسرائيل",
+        "دَوْلَة إِسْرَائِيل"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        "<B>Israel</B> (; Hebrew: יִשְׂרָאֵל; Arabic: إِسْرَائِيل‎), formally known as the State of <B>Israel</B> (Hebrew"
+      ],
+      "label": [
+        "<B>Israel</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Asia",
+        "http://dbpedia.org/resource/Category:Arabic-speaking_countries_and_territories",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Countries_in_Asia",
+        "http://dbpedia.org/resource/Category:Eastern_Mediterranean",
+        "http://dbpedia.org/resource/Category:Israel",
+        "http://dbpedia.org/resource/Category:Jewish_polities",
+        "http://dbpedia.org/resource/Category:Levant",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean",
+        "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Near_Eastern_countries",
+        "http://dbpedia.org/resource/Category:Palestine_(region)",
+        "http://dbpedia.org/resource/Category:Political_entities_in_the_Land_of_Israel",
+        "http://dbpedia.org/resource/Category:Republics",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1948",
+        "http://dbpedia.org/resource/Category:Western_Asian_countries"
+      ]
+    },
+    {
+      "score": [
+        "9082.82"
+      ],
+      "refCount": [
+        "271"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B> Basketball Premier League",
+        "<B>Israel</B> Basketball Super League",
+        "<B>Israel</B> Basketball Superleague",
+        "<B>Israeli</B> Basketball Premiere League",
+        "<B>Israeli</B> Basketball Super League",
+        "<B>Israeli</B> Premier Basketball League",
+        "<B>Israeli</B> bsl",
+        "Ligat HaAl",
+        "Ligat HaAl (basketball)",
+        "Ligat Loto",
+        "Ligat ha'Al (basketball)"
+      ],
+      "comment": [
+        "Ligat HaAl (Hebrew: ליגת העל‎, lit., Super League or Premier League), or the <B>Israeli</B> Basketball"
+      ],
+      "label": [
+        "<B>Israeli</B> Basketball Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1954_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Israel",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "9053.614"
+      ],
+      "refCount": [
+        "749"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel_national_football_team"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B> men's national football team",
+        "<B>Israel</B> national men's football team",
+        "<B>Israeli</B> football team",
+        "<B>Israeli</B> national football team"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerClub",
+        "Agent",
+        "SportsClub"
+      ],
+      "comment": [
+        " Football Association. <B>Israel</B> football is a part of the UEFA in 1994 as well. The <B>Israeli</B> side qualified for their only FIFA World Cup to date in 1970."
+      ],
+      "label": [
+        "<B>Israel</B> national football team"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel_national_football_team"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerClub",
+        "http://dbpedia.org/ontology/Agent",
+        "http://dbpedia.org/ontology/SportsClub"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:AFC_Asian_Cup-winning_countries",
+        "http://dbpedia.org/resource/Category:Asian_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:European_national_association_football_teams",
+        "http://dbpedia.org/resource/Category:Israel_national_football_team",
+        "http://dbpedia.org/resource/Category:National_sports_teams_established_in_1948"
+      ]
+    },
+    {
+      "score": [
+        "6796.4634"
+      ],
+      "refCount": [
+        "284"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israelis"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B>-Palestinian",
+        "<B>Israeli</B> people",
+        "<B>Israelim</B>",
+        "People Of <B>Israel</B>",
+        "People of <B>Israel</B>",
+        "The people of <B>Israel</B>",
+        "ישראלים"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " other minorities (5%). Among the <B>Israeli</B> Jewish population, hundreds of thousands of Jews born in <B>Israel</B>"
+      ],
+      "label": [
+        "<B>Israelis</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israelis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_people",
+        "http://dbpedia.org/resource/Category:Semitic-speaking_peoples",
+        "http://dbpedia.org/resource/Category:Society_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "6590.546"
+      ],
+      "refCount": [
+        "116"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1948_Arab–Israeli_War"
+      ],
+      "redirectlabel": [
+        "1948-1949 Arab-<B>Israeli</B> War",
+        "1948 Arab-<B>Israel</B> war",
+        "1948 Arab-<B>Israeli</B> War",
+        "1948 Arab-<B>Israeli</B> conflict",
+        "1948 Arab-<B>Israeli</B> war",
+        "1948 Arab <B>Israeli</B> War",
+        "1948 Arab–<B>Israeli</B> war",
+        "1948 <B>Israel</B>-Lebanon war",
+        "1948 <B>Israeli</B>-Arab War",
+        "1948 arab-<B>Israeli</B> war",
+        "1948 arab-<B>israeli</B> war",
+        "1948 arab <B>israeli</B> war",
+        "Arab-<B>Israeli</B> War of 1948",
+        "Casualties of the 1948 Arab-<B>Israeli</B> War",
+        "First Arab-<B>Israeli</B> War",
+        "First Arab-<B>Israeli</B> war",
+        "First Arab–<B>Israeli</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 1948 (or First) Arab–<B>Israeli</B> War was the second and final stage of the 1947–49 Palestine war"
+      ],
+      "label": [
+        "1948 Arab–<B>Israeli</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1948_Arab–Israeli_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_Arab–Israeli_War",
+        "http://dbpedia.org/resource/Category:1948_Palestinian_exodus",
+        "http://dbpedia.org/resource/Category:1948_in_Egypt",
+        "http://dbpedia.org/resource/Category:1948_in_Israel",
+        "http://dbpedia.org/resource/Category:1948_in_Syria",
+        "http://dbpedia.org/resource/Category:Battles_and_operations_of_the_1948_Arab–Israeli_War",
+        "http://dbpedia.org/resource/Category:Invasions_of_Israel",
+        "http://dbpedia.org/resource/Category:Wars_of_independence"
+      ]
+    },
+    {
+      "score": [
+        "6195.8306"
+      ],
+      "refCount": [
+        "107"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Basketball_State_Cup"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Basketball Cup",
+        "<B>Israeli</B> State Basketball Cup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        " professional basketball competition in <B>Israel</B>, after the <B>Israeli</B> Super League. It is the national"
+      ],
+      "label": [
+        "<B>Israeli</B> Basketball State Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Basketball_State_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_cup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_State_Cup"
+      ]
+    },
+    {
+      "score": [
+        "5901.6123"
+      ],
+      "refCount": [
+        "86"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli–Palestinian_conflict"
+      ],
+      "redirectlabel": [
+        "Casualties of the <B>Israeli</B>-Palestinian conflict",
+        "Casualties of the <B>Israeli</B>–Palestinian conflict",
+        "Conflict between <B>Israel</B> and the Palestinians",
+        "Fatalties during the <B>Israeli</B>-Palestinian conflict",
+        "Fatalties during the <B>Israeli</B>–Palestinian conflict",
+        "<B>Israel</B>-Palestine Conflict",
+        "<B>Israel</B>-Palestine civil war",
+        "<B>Israel</B>-Palestine conflict",
+        "<B>Israel</B>-Palestinian confict",
+        "<B>Israel</B>-Palestinian conflict",
+        "<B>Israel</B>-Palestinian conflict (Current)",
+        "<B>Israel</B>-palestine conflict",
+        "<B>Israel</B>/Palestine",
+        "<B>Israel</B> Palestine conflict",
+        "<B>Israel</B> Palestinian conflict",
+        "<B>Israel</B> palestine conflict",
+        "<B>Israeli</B>-Palestine Conflict",
+        "<B>Israeli</B>-Palestine conflict",
+        "<B>Israeli</B>-Palestinian Conflict",
+        "<B>Israeli</B>-Palestinian War",
+        "<B>Israeli</B>-Palestinian conflict",
+        "<B>Israeli</B>-Palestinian conflict (Current)",
+        "<B>Israeli</B>-Palestinian conflict (current)",
+        "<B>Israeli</B>-Palestinian conflict 1948-1992",
+        "<B>Israeli</B>-Palestinian conflict summary",
+        "<B>Israeli</B>-Palestinian conflicts",
+        "<B>Israeli</B>-Palestinian dispute",
+        "<B>Israeli</B>-palestine",
+        "<B>Israeli</B> Palestinian War",
+        "<B>Israeli</B> Palestinian conflict",
+        "<B>Israeli</B> palestinian conflict",
+        "<B>Israeli</B>–Palestinian Conflict",
+        "<B>Israeli</B>–Palestinian War",
+        "<B>Israeli</B>–Palestinian conflict summary",
+        "<B>Israel</B>–Palestine conflict",
+        "List of Palestinian militant groups",
+        "Palestine-<B>Israel</B> Conflict",
+        "Palestine-<B>Israel</B> conflict",
+        "Palestine <B>israel</B> conflict",
+        "Palestinian-<B>Israeli</B> Conflict",
+        "Palestinian-<B>Israeli</B> War",
+        "Palestinian-<B>Israeli</B> conflict",
+        "Palestinian-<B>Isreali</B> Conflict",
+        "Palestinian - <B>Israeli</B> conflict",
+        "Palestinian Arab militants",
+        "Palestinian <B>Israeli</B> Conflict",
+        "Palestinian <B>Israeli</B> War",
+        "Palestinian militancy",
+        "Palestinian people's struggle",
+        "Palestinian struggle",
+        "Palestinians' cause",
+        "Palestinian–<B>Israeli</B> War",
+        "Palestinian–<B>Israeli</B> conflict",
+        "Resistance of the Palestinians",
+        "Societal attitudes toward the <B>Israeli</B>-Palestinian conflict",
+        "Struggle for Palestine",
+        "Struggle over Palestine",
+        "The Palestinian-<B>Isreali</B> Conflict"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Israeli</B>–Palestinian conflict (Hebrew: הסכסוך הישראלי-פלסטיני‎, romanized: Ha'Sikhsukh"
+      ],
+      "label": [
+        "<B>Israeli</B>–Palestinian conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli–Palestinian_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Zionism",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1948",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1949",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1950",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1951",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1952",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1953",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1954",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1955",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1956",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1957",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1958",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1959",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1960",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1961",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1962",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1963",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1964",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1965",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1966",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1967",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1968",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1969",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1970",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1971",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1972",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1973",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1974",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1975",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1976",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1977",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1978",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1979",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1980",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1981",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1982",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1983",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1984",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1985",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1986",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1987",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1988",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1989",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1990",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1991",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1992",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1993",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1994",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1995",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1996",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1997",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1998",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1999",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2000",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2001",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2002",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2003",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2004",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2005",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2006",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2007",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2008",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2009",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2010",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2011",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2012",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2013",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2014",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2015",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2016",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2017",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2018",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2019",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2020",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2021",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2022",
+        "http://dbpedia.org/resource/Category:Islam-related_controversies",
+        "http://dbpedia.org/resource/Category:Israeli_irredentism",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict",
+        "http://dbpedia.org/resource/Category:Jewish_nationalism",
+        "http://dbpedia.org/resource/Category:Palestinian_nationalism",
+        "http://dbpedia.org/resource/Category:Religion-based_wars",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel",
+        "http://dbpedia.org/resource/Category:Zionism"
+      ]
+    },
+    {
+      "score": [
+        "4754.629"
+      ],
+      "refCount": [
+        "154"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel_Defense_Forces"
+      ],
+      "redirectlabel": [
+        "Armed forces of <B>israel</B>",
+        "Defense Military of <B>Israel</B>",
+        "<B>Israel's</B> army",
+        "<B>Israel</B>/Military",
+        "<B>Israel</B> Army",
+        "<B>Israel</B> Defence Force",
+        "<B>Israel</B> Defence Forces",
+        "<B>Israel</B> Defense Force",
+        "<B>Israel</B> Defense Forces Code of Conduct",
+        "<B>Israel</B> Defense forces",
+        "<B>Israel</B> Occupation Forces",
+        "<B>Israel</B> armed forces",
+        "<B>Israel</B> army",
+        "<B>Israel</B> military",
+        "<B>Israeli</B> Armed Forces",
+        "<B>Israeli</B> Defence Force",
+        "<B>Israeli</B> Defence Forces",
+        "<B>Israeli</B> Defense Force",
+        "<B>Israeli</B> Defense Forces",
+        "<B>Israeli</B> Iran Command",
+        "<B>Israeli</B> Military",
+        "<B>Israeli</B> Occupation Forces",
+        "<B>Israeli</B> armed forces",
+        "<B>Israeli</B> army",
+        "<B>Israeli</B> defence Forces",
+        "<B>Israeli</B> defence force",
+        "<B>Israeli</B> defence forces",
+        "<B>Israeli</B> defense",
+        "<B>Israeli</B> defense force",
+        "<B>Israeli</B> defense forces",
+        "<B>Israeli</B> forces",
+        "<B>Israeli</B> military",
+        "<B>Israeli</B> military forces",
+        "<B>Israeli</B> occupation army",
+        "<B>Israeli</B> soldier",
+        "<B>Israeli</B> soldiers",
+        "<B>Israeli</B> troops",
+        "<B>Isreal</B> Defense Forces",
+        "<B>Isreali</B> Military",
+        "Military budget of <B>Israel</B>",
+        "Military of <B>Israel</B>",
+        "National Service in <B>Israel</B>",
+        "Non-Jewish minorities in the <B>Israel</B> Defense Forces",
+        "Non-Jewish minorities in the <B>Israeli</B> Defense Forces",
+        "Prayer for the IDF",
+        "The Army of Defence for <B>Israel</B>",
+        "The Army of Defense for <B>Israel</B>",
+        "Tsahal",
+        "Tsva ha-Hagana le-Yisra'el",
+        "Tzahal",
+        "Youth and Nahal Center",
+        "Zahal",
+        "צְבָא הַהֲגָנָה לְיִשְׂרָאֵל",
+        "צה\"ל",
+        "צהל",
+        "جيش الدفاع الإسرائيلي"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        ", and navy. It is the sole military wing of the <B>Israeli</B> security forces, and has no civilian"
+      ],
+      "label": [
+        "<B>Israel</B> Defense Forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel_Defense_Forces"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Israel_Defense_Forces",
+        "http://dbpedia.org/resource/Category:Israel_Prize_in_education_recipients",
+        "http://dbpedia.org/resource/Category:Israel_Prize_recipients_that_are_organizations",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1948"
+      ]
+    },
+    {
+      "score": [
+        "4420.7935"
+      ],
+      "refCount": [
+        "46"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab–Israeli_conflict"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Israel</B> conflict",
+        "Arab-<B>Israeli</B> Conflict",
+        "Arab-<B>Israeli</B> War",
+        "Arab-<B>Israeli</B> conflict",
+        "Arab-<B>Israeli</B> conflicts",
+        "Arab-<B>Israeli</B> struggle",
+        "Arab-Jewish tensions",
+        "Arab-<B>israeli</B> conflict",
+        "Arab <B>Israeli</B> Conflict",
+        "Arab <B>Israeli</B> conflict",
+        "Arab <B>israeli</B> conflict",
+        "Arab–<B>Israeli</B> Conflict",
+        "As-Sira al-Arabi al-<B>Israili</B>",
+        "Aṣ-Ṣirāʿ al-ʿArabī al-'Isrā'īlī",
+        "Financial cost of the Arab-<B>Israeli</B> conflict",
+        "Financial cost of the Arab–<B>Israeli</B> conflict",
+        "<B>Israel</B>-Arab conflict",
+        "<B>Israeli</B>-Arab Conflict",
+        "<B>Israeli</B>-Arab conflict",
+        "<B>Israeli</B> Arab conflict",
+        "<B>Israeli</B>–Arab conflict",
+        "Religious aspects of the Arab-<B>Israeli</B> conflict",
+        "Religious aspects of the Arab–<B>Israeli</B> conflict",
+        "הסכסוך הישראלי ערבי"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The ongoing Arab–<B>Israeli</B> conflict refers to the political tension, military conflicts and disputes"
+      ],
+      "label": [
+        "Arab–<B>Israeli</B> conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab–Israeli_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:20th_century_in_Asia",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict"
+      ]
+    },
+    {
+      "score": [
+        "4019.8005"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Basketball Premier League stats leaders",
+        "<B>Israeli</B> Basketball Super League Statistical Leaders"
+      ],
+      "comment": [
+        " league in <B>Israel</B>, the <B>Israeli</B> Premier Basketball League."
+      ],
+      "label": [
+        "<B>Israeli</B> Basketball Premier League Statistical Leaders"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League"
+      ]
+    },
+    {
+      "score": [
+        "3787.235"
+      ],
+      "refCount": [
+        "264"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Yom_Kippur_War"
+      ],
+      "redirectlabel": [
+        "1973 Arab-<B>Israeli</B> (Yom Kippur) War",
+        "1973 Arab-<B>Israeli</B> War",
+        "1973 Arab-<B>Israeli</B> war",
+        "1973 Arab <B>Israeli</B> War",
+        "1973 Arab–<B>Israeli</B> War",
+        "1973 Invasion of <B>Israel</B>",
+        "1973 <B>Israeli</B>-Arab war",
+        "1973 Middle East War",
+        "1973 October War",
+        "1973 War",
+        "1973 War between Egypt and <B>Israel</B>",
+        "1973 Yom Kippur War",
+        "6th October War",
+        "6th October war",
+        "6th october war",
+        "6th of October war",
+        "Arab-<B>Israeli</B> War 1973",
+        "Arab-<B>Israeli</B> War of 1973",
+        "Arab-<B>Israeli</B> conflict of October 6-October 24, 1973",
+        "Arab-<B>Israeli</B> conflict of October 6–October 24, 1973",
+        "Arab-<B>Israeli</B> war of 1973",
+        "Badr Operation",
+        "Battle of Sinai",
+        "Casualties of the Yom Kippur War",
+        "Fourth Arab-<B>Israeli</B> War",
+        "Fourth Arab–<B>Israeli</B> War",
+        "<B>Israeli</B> Airlift of 1973",
+        "Kilometer 101",
+        "Kippur War",
+        "Milkhemet Yom HaKipurim",
+        "Milkhemet Yom Kipur",
+        "Milẖemet Yom HaKipurim",
+        "Milẖemet Yom Kipur",
+        "October 1973 War",
+        "October 1973 war",
+        "October War",
+        "October War of 1973",
+        "October war",
+        "Ramadan War",
+        "Ramadan war",
+        "Syrian Front (Yom Kippur War)",
+        "The October War",
+        "The Yom Kippur War",
+        "Tishreen Liberation Day",
+        "War of Ramadan",
+        "Yom-Kippur War",
+        "Yom HaKipurim War",
+        "Yom Kippor War",
+        "Yom Kippur War/October War",
+        "Yom Kippur war",
+        "Yom Kipur War",
+        "Yom hakipurim war",
+        "Yom kippur war",
+        "Ħarb October",
+        "Ħarb Tishrin",
+        "מלחמת יום הכיפורים",
+        "מלחמת יום כיפור",
+        "حرب أكتوبر",
+        "حرب تشرين",
+        "Ḥarb Tišrīn",
+        "Ḥarb ʾUktōbar"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Tišrīn), also known as the 1973 Arab–<B>Israeli</B> War, was a war fought from October 6 to 25, 1973, by a"
+      ],
+      "label": [
+        "Yom Kippur War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Yom_Kippur_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1973_in_Egypt",
+        "http://dbpedia.org/resource/Category:1973_in_Israel",
+        "http://dbpedia.org/resource/Category:1973_in_Syria",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1973",
+        "http://dbpedia.org/resource/Category:Invasions_of_Israel",
+        "http://dbpedia.org/resource/Category:October_1973_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Yom_Kippur_War"
+      ]
+    },
+    {
+      "score": [
+        "3686.8867"
+      ],
+      "refCount": [
+        "55"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Labor_Party"
+      ],
+      "redirectlabel": [
+        "Ha'Avoda",
+        "HaAvoda",
+        "Haavoda.org.il",
+        "Havodah",
+        "Ha‘Avoda",
+        "<B>Israel</B> Labor Party",
+        "<B>Israel</B> Labour Party",
+        "<B>Israel</B> labor party",
+        "<B>Israeli</B> Labor party",
+        "<B>Israeli</B> Labour Party",
+        "Labor-Meimad",
+        "Labor (<B>Israel</B>)",
+        "Labor Party (<B>Israel</B>)",
+        "Labor Party of <B>Israel</B>",
+        "Labour (<B>Israel</B>)",
+        "Labour Party (<B>Israel</B>)",
+        "Labour Party of <B>Israel</B>",
+        "Mifleget Ha-Avodah Ha-Yisraelit"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        " party in <B>Israel</B>. The <B>Israeli</B> Labor Party was established in 1968 by a merger of Mapai, Ahdut HaAvoda and"
+      ],
+      "label": [
+        "<B>Israeli</B> Labor Party"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Labor_Party"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1968_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Centre-left_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Israeli_Labor_Party",
+        "http://dbpedia.org/resource/Category:Labour_parties",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Parties_related_to_the_Party_of_European_Socialists",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1968",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Israel",
+        "http://dbpedia.org/resource/Category:Progressive_Alliance",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties",
+        "http://dbpedia.org/resource/Category:Social_democratic_parties_in_Asia",
+        "http://dbpedia.org/resource/Category:Zionist_political_parties_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "3498.727"
+      ],
+      "refCount": [
+        "44"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Quintet"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Basketball Super League Quintet"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Basketball Premier League Quintet, or <B>Israeli</B> Basketball Super League Quintet, is an"
+      ],
+      "label": [
+        "<B>Israeli</B> Basketball Premier League Quintet"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Quintet"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League"
+      ]
+    },
+    {
+      "score": [
+        "3464.739"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_settlement"
+      ],
+      "redirectlabel": [
+        "Demographics of <B>Israeli</B> settlements",
+        "Dismantling of <B>Israeli</B> settlements",
+        "Gaza Strip <B>Israeli</B> Settlements",
+        "History of the <B>Israeli</B> settlements",
+        "<B>Israel's</B> settlement movement",
+        "<B>Israel</B> settlement",
+        "<B>Israel</B> settlements",
+        "<B>Israeli</B> Settlement",
+        "<B>Israeli</B> Settlements",
+        "<B>Israeli</B> Settlers",
+        "<B>Israeli</B> settlement movement",
+        "<B>Israeli</B> settlements",
+        "<B>Israeli</B> settler",
+        "<B>Israeli</B> settlers",
+        "Jewish settler",
+        "Jewish settlers",
+        "Jewish settlers in the West Bank",
+        "Legal status of <B>Israeli</B> settlements",
+        "Settlements in <B>Israel</B>",
+        "Unauthorized <B>Israeli</B> settlement",
+        "Unauthorized settlement",
+        "West Bank settlement"
+      ],
+      "comment": [
+        " Jewish ethnicity, built on lands occupied by <B>Israel</B> in the 1967 Six-Day War. <B>Israeli</B> settlements"
+      ],
+      "label": [
+        "<B>Israeli</B> settlement"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_settlement"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Israeli-occupied_territories",
+        "http://dbpedia.org/resource/Category:Israeli_settlement",
+        "http://dbpedia.org/resource/Category:Populated_places_established_in_1967"
+      ]
+    },
+    {
+      "score": [
+        "3445.6196"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Air_Force"
+      ],
+      "redirectlabel": [
+        "Air Force of <B>Israel</B>",
+        "Heyl Ha'Avir",
+        "Idf/af",
+        "<B>Israel</B> Air Force",
+        "<B>Israel</B> Defense Force Air Force",
+        "<B>Israel</B> airforce",
+        "<B>Israeli</B> Air and Space Force",
+        "<B>Israeli</B> Airforce",
+        "<B>Israeli</B> air force",
+        "<B>Israeli</B> airforce",
+        "Ranks and Insignia of <B>Israel</B> Defense Forces/OF/<B>Israeli</B> Air Force",
+        "Ranks and Insignia of <B>Israel</B> Defense Forces/OF/USAF equivalent"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        " branch of the <B>Israel</B> Defense Forces. It was founded on May 28, 1948, shortly after the <B>Israeli</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> Air Force"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Air_Force"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Israeli_Air_Force",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1948"
+      ]
+    },
+    {
+      "score": [
+        "3316.6162"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_West_Bank_barrier"
+      ],
+      "redirectlabel": [
+        "Economic impact of the <B>Israeli</B> West Bank barrier",
+        "Effects of the <B>Israeli</B> West Bank barrier on Palestinians",
+        "Hafrada Wall",
+        "Hafrada wall",
+        "<B>Israel's</B> security fence",
+        "<B>Israel</B>-West Bank barrier",
+        "<B>Israel</B> West Bank wall",
+        "<B>Israeli</B> Apartheid Wall",
+        "<B>Israeli</B> Segregation Wall",
+        "<B>Israeli</B> Wall",
+        "<B>Israeli</B> West Bank Barrier",
+        "<B>Israeli</B> West Bank Fence",
+        "<B>Israeli</B> West Bank Wall",
+        "<B>Israeli</B> West Bank fence",
+        "<B>Israeli</B> West Bank wall",
+        "<B>Israeli</B> segregation Wall",
+        "<B>Israeli</B> separation fence",
+        "<B>Israeli</B> separation wall",
+        "<B>Israeli</B> wall",
+        "<B>Israeli</B> wall in the West Bank",
+        "Segregation Wall",
+        "Segregation wall",
+        "Separation Barrier",
+        "Separation Wall",
+        "The Palestinian Wall",
+        "Wall / Protective Barrier between <B>Israel</B> and Palestina",
+        "West Bank Barrier",
+        "West Bank Security Barrier",
+        "West Bank Security Fence",
+        "West Bank Wall",
+        "West Bank barrier",
+        "West Bank security barrier",
+        "West Bank security fence",
+        "West Bank separation barrier",
+        "West Bank wall"
+      ],
+      "comment": [
+        "The <B>Israeli</B> West Bank barrier or wall (for further names see ) is a separation barrier in the West"
+      ],
+      "label": [
+        "<B>Israeli</B> West Bank barrier"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_West_Bank_barrier"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Buildings_and_structures_in_the_West_Bank",
+        "http://dbpedia.org/resource/Category:Counterterrorism_in_Israel",
+        "http://dbpedia.org/resource/Category:Fortifications_in_Israel",
+        "http://dbpedia.org/resource/Category:Fortifications_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Human_rights_abuses_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:International_Court_of_Justice_cases",
+        "http://dbpedia.org/resource/Category:Israeli_West_Bank_barrier"
+      ]
+    },
+    {
+      "score": [
+        "3267.489"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_new_shekel"
+      ],
+      "redirectlabel": [
+        "Currency of <B>Israel</B>",
+        "ISO 4217:ILS",
+        "<B>Israel</B> new shekel",
+        "<B>Israeli</B> New Shekel",
+        "<B>Israeli</B> New Sheqel",
+        "<B>Israeli</B> Shekel",
+        "<B>Israeli</B> banknotes",
+        "<B>Israeli</B> new sheqel",
+        "<B>Israeli</B> shekel",
+        "<B>Israeli</B> sheqel",
+        "Money of <B>Israel</B>",
+        "New <B>Israel</B> Shekel",
+        "New <B>Israeli</B> Shekel",
+        "New <B>Israeli</B> Shekels",
+        "New <B>Israeli</B> Sheqel",
+        "New <B>Israeli</B> shekel",
+        "New <B>Israeli</B> sheqel",
+        "New Shekel",
+        "New shekel"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        "The <B>Israeli</B> new shekel (Hebrew: שֶׁקֶל חָדָשׁ ; Arabic: شيكل جديد‎ šēkal jadīd; sign: ₪; code: ILS"
+      ],
+      "label": [
+        "<B>Israeli</B> new shekel"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_new_shekel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1985_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Circulating_currencies",
+        "http://dbpedia.org/resource/Category:Cultural_depictions_of_Golda_Meir",
+        "http://dbpedia.org/resource/Category:Currencies_introduced_in_1986",
+        "http://dbpedia.org/resource/Category:Currencies_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "3109.149"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli-occupied_territories"
+      ],
+      "redirectlabel": [
+        "Administered territories",
+        "Disputed Territories (<B>Israel</B>)",
+        "Disputed territories of <B>Isreal</B>",
+        "<B>Israel</B> occupied territories",
+        "<B>Israeli</B>-occupied",
+        "<B>Israeli</B>-occupied Territories",
+        "<B>Israeli</B>-occupied territory",
+        "<B>Israeli</B> Occupation of Palestine",
+        "<B>Israeli</B> military occupation",
+        "<B>Israeli</B> occupation",
+        "<B>Israeli</B> occupation forces",
+        "<B>Israeli</B> occupation of Palestine",
+        "<B>Israeli</B> occupation of Palestinian territories",
+        "<B>Israeli</B> occupation of the Gaza Strip",
+        "<B>Israeli</B> occupied territories",
+        "Occupation of Sinai",
+        "Occupation of the Sinai Peninsula",
+        "Occupied jordan",
+        "Occupied territories by <B>Israel</B>",
+        "Territorial disputes of <B>Israel</B>"
+      ],
+      "comment": [
+        "The <B>Israeli</B>-occupied territories refers to the territories occupied by <B>Israel</B> during the Six-Day"
+      ],
+      "label": [
+        "<B>Israeli</B>-occupied territories"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli-occupied_territories"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli-occupied_territories",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict",
+        "http://dbpedia.org/resource/Category:Western_Asia"
+      ]
+    },
+    {
+      "score": [
+        "3053.3352"
+      ],
+      "refCount": [
+        "87"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Liga_Leumit_(basketball)"
+      ],
+      "redirectlabel": [
+        "Elitzur Shomron",
+        "<B>Israel</B> National League",
+        "<B>Israeli</B> Basketball Leumit Cup",
+        "<B>Israeli</B> Basketball National League"
+      ],
+      "comment": [
+        " basketball competition in <B>Israel</B>. It is the league level that is below the first tier <B>Israeli</B> Premier League."
+      ],
+      "label": [
+        "Liga Leumit (basketball)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Liga_Leumit_(basketball)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_leagues_in_Israel",
+        "http://dbpedia.org/resource/Category:Liga_Leumit_(basketball)",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Israel",
+        "http://dbpedia.org/resource/Category:Second_level_basketball_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "3041.6292"
+      ],
+      "refCount": [
+        "23"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli–Lebanese_conflict"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B>-Lebanon Confict",
+        "<B>Israel</B>-Lebanon Conflict",
+        "<B>Israel</B>-Lebanon confict",
+        "<B>Israel</B>-Lebanon conflict",
+        "<B>Israel</B>-Lebanon crisis",
+        "<B>Israel</B> Lebanon Conflict",
+        "<B>Israel</B> Lebanon conflict",
+        "<B>Israeli</B>-Lebanese Conflict",
+        "<B>Israeli</B>-Lebanese conflict",
+        "<B>Israeli</B>-lebanon conflict",
+        "<B>Israeli</B> incursions into Lebanon",
+        "<B>Israeli</B> overflights of Lebanese territory",
+        "<B>Israeli</B> violations of Lebanese airspace",
+        "<B>Israeli</B> violations of Lebanese sovereignity",
+        "<B>Israeli</B> violations of Lebanese sovereignty",
+        "<B>Israeli</B> violations of Lebanese territory",
+        "<B>Israel</B>–Lebanon conflict",
+        "Lebanon-<B>Israel</B> war",
+        "Lebanon-<B>Israeli</B> War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The <B>Israeli</B>–Lebanese conflict, or the South Lebanon conflict, refers to a series of military"
+      ],
+      "label": [
+        "<B>Israeli</B>–Lebanese conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli–Lebanese_conflict"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Hezbollah–Israel_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Israeli–Lebanese_conflict",
+        "http://dbpedia.org/resource/Category:Israel–Lebanon_military_relations",
+        "http://dbpedia.org/resource/Category:Israel–Lebanon_relations",
+        "http://dbpedia.org/resource/Category:Military_history_of_Israel",
+        "http://dbpedia.org/resource/Category:Military_history_of_Lebanon"
+      ]
+    },
+    {
+      "score": [
+        "3013.5908"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Criticism_of_the_Israeli_government"
+      ],
+      "redirectlabel": [
+        "Comparison of <B>Israel</B> and Nazi Germany",
+        "Comparison of Nazi Germany and <B>Israel</B>",
+        "Condemnation of <B>Israeli</B> governments",
+        "Criticism of Government of <B>Israel</B>",
+        "Criticism of <B>Israel</B>",
+        "Criticism of <B>Israel</B> Government",
+        "Criticism of <B>Israel</B> government",
+        "Criticism of <B>Israeli</B> Government",
+        "Criticism of <B>Israeli</B> Government Policies",
+        "Criticism of <B>Israeli</B> administrations",
+        "Criticism of <B>Israeli</B> government",
+        "Criticism of <B>Israeli</B> government policies",
+        "Criticism of <B>Israeli</B> government policy",
+        "Criticism of <B>Israeli</B> governments",
+        "Criticism of government of <B>Israel</B>",
+        "Criticism of government of <B>israel</B>",
+        "Criticism of <B>israel</B>",
+        "Criticism of <B>israel</B> government",
+        "Criticism of <B>israeli</B> government",
+        "Criticism of the <B>Israeli</B> Government",
+        "Criticism of the government of <B>Israel</B>",
+        "Criticism of the <B>israeli</B> government",
+        "Critics of <B>Israel</B>",
+        "International criticism of <B>Israel</B>",
+        "<B>Israel</B>-Nazi comparison",
+        "<B>Israel</B> Criticism",
+        "<B>Israel</B> criticism",
+        "<B>Israeli</B> war crimes",
+        "<B>Israel</B>–Nazi comparison",
+        "Opposition to <B>Israeli</B> government policies",
+        "Suppression of criticism of <B>Israel</B>"
+      ],
+      "comment": [
+        "Criticism of the <B>Israeli</B> government, often referred to simply as criticism of <B>Israel</B>, is an ongoing"
+      ],
+      "label": [
+        "Criticism of the <B>Israeli</B> government"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Criticism_of_the_Israeli_government"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Zionism",
+        "http://dbpedia.org/resource/Category:Criticisms_of_political_philosophy",
+        "http://dbpedia.org/resource/Category:Human_rights_in_Israel",
+        "http://dbpedia.org/resource/Category:Mass_media_about_the_Arab–Israeli_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2942.9556"
+      ],
+      "refCount": [
+        "210"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Six-Day_War"
+      ],
+      "redirectlabel": [
+        "1967 Arab-<B>Israeli</B> War",
+        "1967 Arab-<B>Israeli</B> conflict",
+        "1967 Arab-<B>Israeli</B> war",
+        "1967 Arab War",
+        "1967 Arab–<B>Israeli</B> War",
+        "1967 Arab–<B>Israeli</B> war",
+        "1967 <B>Israeli</B>-Arab war",
+        "1967 Middle East war",
+        "1967 Six-Day War",
+        "1967 Six Day War",
+        "1967 War",
+        "1967 ceasefire",
+        "6-Day War",
+        "6-Days War",
+        "6-day War",
+        "6DW",
+        "6 Day War",
+        "6 Day war",
+        "6 day war",
+        "6 days war",
+        "Accusations on the Six-Day War",
+        "Accusations regarding the Six-Day War",
+        "An-Naksah",
+        "An‑Naksah",
+        "Background to Six-Day War",
+        "Battle of Jerusalem (1967)",
+        "Casualties of the Six-Day War",
+        "Golan Heights campaign (1967)",
+        "<B>Israeli</B> conquest of Sinai",
+        "June 1967 war",
+        "June War",
+        "Milhemet Sheshet Ha Yamim",
+        "Milhemet Sheshet Ha‑Yamim",
+        "Six-Day Arab-<B>Israeli</B> War",
+        "Six-Day War of 1967",
+        "Six-Day war",
+        "Six-Days War",
+        "Six-day War",
+        "Six-day war",
+        "Six-days war",
+        "Six Day War",
+        "Six Day War (1967)",
+        "Six Day war",
+        "Six Days War",
+        "Six day war",
+        "Six days' war",
+        "Six days war",
+        "The Six-Day War",
+        "The Six Day War",
+        "Third Arab-<B>Israeli</B> War",
+        "Third Arab–<B>Israeli</B> War",
+        "מלחמת ששת הימים",
+        "حرب 1967",
+        "حرب الأيام الستة",
+        "Ḥarb 1967",
+        "Ḥarb al‑Ayyam",
+        "Ḥarb al‑Ayyam as‑Sitta"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "–<B>Israeli</B> War, or Third Arab–<B>Israeli</B> War, was fought between 5 and 10 June 1967 by <B>Israel</B> and the"
+      ],
+      "label": [
+        "Six-Day War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Six-Day_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1967_in_Egypt",
+        "http://dbpedia.org/resource/Category:1967_in_Israel",
+        "http://dbpedia.org/resource/Category:1967_in_Jordan",
+        "http://dbpedia.org/resource/Category:1967_in_Syria",
+        "http://dbpedia.org/resource/Category:1967_in_the_Israeli_Military_Governorate",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Cold_War_conflicts",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1967",
+        "http://dbpedia.org/resource/Category:Invasions_by_Israel",
+        "http://dbpedia.org/resource/Category:Invasions_of_Egypt",
+        "http://dbpedia.org/resource/Category:Invasions_of_Syria",
+        "http://dbpedia.org/resource/Category:June_1967_events_in_Africa",
+        "http://dbpedia.org/resource/Category:June_1967_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Six-Day_War",
+        "http://dbpedia.org/resource/Category:Six-day_events",
+        "http://dbpedia.org/resource/Category:Wars_involving_Egypt",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel",
+        "http://dbpedia.org/resource/Category:Wars_involving_Jordan",
+        "http://dbpedia.org/resource/Category:Wars_involving_Syria"
+      ]
+    },
+    {
+      "score": [
+        "2928.975"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "label": [
+        "Arab–<B>Israeli</B> War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab–Israeli_War"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab–Israeli_War"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Israeli</B> War (disambiguation)",
+        "Arab-<B>Israeli</B> Wars",
+        "Arab-<B>Israeli</B> Wars (disambiguation)",
+        "Arab-<B>Israeli</B> dispute",
+        "Arab-<B>Israeli</B> war",
+        "Arab-<B>Israeli</B> wars",
+        "Arab-Jewish conflict",
+        "Arab-Jewish conflict in the Middle East",
+        "Arab <B>Israeli</B> War",
+        "Arab <B>Israeli</B> Wars",
+        "Arab <B>Israeli</B> war",
+        "Arab vs <B>Israel</B>",
+        "Arab–<B>Israeli</B> War (disambiguation)",
+        "Arab–<B>Israeli</B> Wars",
+        "Arab–<B>Israeli</B> Wars (disambiguation)",
+        "Arab–<B>Israeli</B> war",
+        "Arab–Jewish conflict in the Middle East",
+        "<B>Israeli</B>-Arab Wars",
+        "<B>Israeli</B>-Arab relations",
+        "The Arab-<B>Israeli</B> Wars",
+        "الصراع العربي الإسرائيلي"
+      ]
+    },
+    {
+      "score": [
+        "2858.6921"
+      ],
+      "refCount": [
+        "39"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_disengagement_from_Gaza"
+      ],
+      "redirectlabel": [
+        "2004 disengagement plan",
+        "2005 Gaza Disengagement",
+        "2005 Gaza disengagement",
+        "2005 disengagement plan",
+        "Ariel Sharon's unilateral disengagement plan",
+        "Disengagement Plan Implementation Law",
+        "Disengagement from Gaza",
+        "Evacuation (<B>Israeli</B> politics)",
+        "Expulsion from Gaza",
+        "Gaza Disengagement",
+        "Gaza Pullout",
+        "Gaza Strip Pullout",
+        "Gaza disengagement",
+        "Gaza pullout",
+        "Gaza pullout plan",
+        "Gaza withdrawal",
+        "Hitnatkut",
+        "IUDP",
+        "<B>Israel's</B> 2005 disengagement",
+        "<B>Israel's</B> 2005 disengagement plan",
+        "<B>Israel's</B> unilateral disengagement",
+        "<B>Israel's</B> unilateral disengagement plan",
+        "<B>Israel's</B> unilateral disengagement plan of 2004",
+        "<B>Israel</B> disengagement from Gaza",
+        "<B>Israel</B> unilateral disengagement plan",
+        "<B>Israel</B> unilateral disengagement plan of 2004",
+        "<B>Israeli</B> disengagement from the Gaza Strip",
+        "<B>Israeli</B> retreat from the entire Gaza Strip",
+        "<B>Israeli</B> unilateral disengagement plan",
+        "Operation Yad La'ahim",
+        "The 2004 <B>israeli</B> disengagement",
+        "Tokhnit HaHinatkut",
+        "Tokhnit HaHitnatkut",
+        "Yad La'ahim operation",
+        "תוכנית ההינתקות",
+        "תוכנית ההתנתקות"
+      ],
+      "comment": [
+        "The <B>Israeli</B> disengagement from Gaza (Hebrew: תוכנית ההתנתקות, Tokhnit HaHitnatkut) was the"
+      ],
+      "label": [
+        "<B>Israeli</B> disengagement from Gaza"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_disengagement_from_Gaza"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_in_Israel",
+        "http://dbpedia.org/resource/Category:2005_in_the_Gaza_Strip",
+        "http://dbpedia.org/resource/Category:2005_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Forced_migration",
+        "http://dbpedia.org/resource/Category:Israeli_disengagement_from_Gaza",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_peace_process",
+        "http://dbpedia.org/resource/Category:Military_withdrawals",
+        "http://dbpedia.org/resource/Category:Politics_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "2805.3955"
+      ],
+      "refCount": [
+        "24"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli–Palestinian_peace_process"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B>-Palestine peace process",
+        "<B>Israel</B>-Palestinian peace",
+        "<B>Israel</B>-Palestinian peace process",
+        "<B>Israel</B> palestine peace",
+        "<B>Israel</B> palestine peace process",
+        "<B>Israel</B> peace process",
+        "<B>Israeli</B>-Palestinian Plan",
+        "<B>Israeli</B>-Palestinian negotiations",
+        "<B>Israeli</B>-Palestinian peace accord",
+        "<B>Israeli</B>-Palestinian peace process",
+        "<B>Israeli</B>-Palestinian peace talks",
+        "<B>Israeli</B>–Palestinian Plan",
+        "<B>Israeli</B>–Palestinian peace accord",
+        "<B>Israel</B>–Palestinian peace process",
+        "Jewish-Arab co-existence",
+        "Jewish-Arab coexistence",
+        "Jewish–Arab coexistence",
+        "Middle East peace process",
+        "Palestine <B>israel</B> peace",
+        "Palestine <B>israel</B> peace process",
+        "Peace Process in the <B>Israeli</B>-Palestinian Conflict",
+        "Peace process in the <B>Israeli</B>-Palestinian conflict",
+        "Peace process in the <B>Israeli</B>–Palestinian conflict"
+      ],
+      "comment": [
+        "The <B>Israeli</B>–Palestinian peace process refers to the intermittent discussions held by various"
+      ],
+      "label": [
+        "<B>Israeli</B>–Palestinian peace process"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli–Palestinian_peace_process"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_peace_process"
+      ]
+    },
+    {
+      "score": [
+        "2804.8904"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Jews"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B> Jew",
+        "<B>Israel</B> Jews",
+        "<B>Israeli</B>-Jew",
+        "<B>Israeli</B>-Jewish",
+        "<B>Israeli</B> Jew",
+        "<B>Israeli</B> Jewish",
+        "Jewish-<B>Israeli</B>",
+        "Jewish-<B>Israelis</B>",
+        "Jewish <B>Israeli</B>",
+        "Jewish <B>Israelis</B>",
+        "Jewish citizens of <B>Israel</B>",
+        "Jews in <B>Israel</B>",
+        "Judaism in <B>Israel</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "<B>Israeli</B> Jews (Hebrew: יהודים ישראלים, Yehudim Yisraelim), also known as Jewish <B>Israelis</B>, refers"
+      ],
+      "label": [
+        "<B>Israeli</B> Jews"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Jews"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_Jews",
+        "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Israel",
+        "http://dbpedia.org/resource/Category:Semitic-speaking_peoples"
+      ]
+    },
+    {
+      "score": [
+        "2728.122"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_cuisine"
+      ],
+      "redirectlabel": [
+        "Cuisine of <B>Israel</B>",
+        "History of <B>Israeli</B> cuisine",
+        "<B>Israeli</B> baked dishes",
+        "<B>Israeli</B> food",
+        "<B>Israeli</B> holiday cuisine",
+        "<B>Israeli</B> pickles",
+        "<B>Israeli</B> salads",
+        "<B>Isreali</B> food"
+      ],
+      "comment": [
+        " <B>Israel</B> in 1948, and particularly since the late 1970s, an <B>Israeli</B> Jewish fusion cuisine has developed"
+      ],
+      "label": [
+        "<B>Israeli</B> cuisine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_cuisine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_cuisine",
+        "http://dbpedia.org/resource/Category:Jewish_cuisine",
+        "http://dbpedia.org/resource/Category:Jewish_culture",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_cuisine"
+      ]
+    },
+    {
+      "score": [
+        "2666.6748"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "label": [
+        "2019 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019_Israeli_legislative_election"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "2019 <B>Israeli</B> election",
+        "2019 <B>Israeli</B> elections",
+        "2019 <B>Israeli</B> legislative election (disambiguation)",
+        "2019 <B>Israeli</B> legislative elections",
+        "2019 <B>Israeli</B> parliamentary election",
+        "2019 elections in <B>Israel</B>",
+        "2019 general election (<B>Israel</B>)",
+        "2019 general elections in <B>Israel</B>",
+        "<B>Israel</B> Elections 2019",
+        "<B>Israel</B> election, 2019",
+        "<B>Israel</B> election 2019",
+        "<B>Israel</B> elections, 2019",
+        "<B>Israel</B> elections 2019",
+        "<B>Israeli</B> election, 2019",
+        "<B>Israeli</B> elections, 2019",
+        "<B>Israeli</B> general election, 2019",
+        "<B>Israeli</B> legislative election, 2019",
+        "<B>Israeli</B> legislative elections, 2019",
+        "<B>Israeli</B> parliamentary election, 2019",
+        "Knesset election, 2019"
+      ]
+    },
+    {
+      "score": [
+        "2639.514"
+      ],
+      "refCount": [
+        "20"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Premier_League"
+      ],
+      "redirectlabel": [
+        "All-time <B>Israeli</B> Premier League table",
+        "<B>Israel</B> Premier League",
+        "<B>Israeli</B> First League",
+        "<B>Israeli</B> Premier League 2010-11",
+        "<B>Israeli</B> Super League",
+        "Ligat Ha'al",
+        "Ligat Toto",
+        "Ligat Winner",
+        "Ligat ha'Al",
+        "Ligat haal",
+        "ליגת העל"
+      ],
+      "typeName": [
+        "Organisation",
+        "SoccerLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Premier League (Hebrew: ליגת העל‎, Ligat Ha`Al, lit. The Super League), officially The"
+      ],
+      "label": [
+        "<B>Israeli</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/SoccerLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Football_leagues_in_Israel",
+        "http://dbpedia.org/resource/Category:Israeli_Premier_League",
+        "http://dbpedia.org/resource/Category:Professional_sports_leagues_in_Israel",
+        "http://dbpedia.org/resource/Category:Top_level_football_leagues_in_Europe"
+      ]
+    },
+    {
+      "score": [
+        "2597.7725"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Navy"
+      ],
+      "redirectlabel": [
+        "History of the <B>Israeli</B> Navy",
+        "<B>Israel</B> Navy",
+        "<B>Israel</B> Sea Corps",
+        "<B>Israeli</B> Sea Corps",
+        "<B>Israeli</B> navy",
+        "Navy of <B>Israel</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "MilitaryUnit",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Navy (Hebrew: חיל הים הישראלי‎, Ḥeil HaYam HaYisraeli (English: Sea Corps of <B>Israel</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> Navy"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Navy"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/MilitaryUnit",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Israeli_Navy",
+        "http://dbpedia.org/resource/Category:Military_units_and_formations_established_in_1948"
+      ]
+    },
+    {
+      "score": [
+        "2586.9658"
+      ],
+      "refCount": [
+        "88"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/War_of_Attrition"
+      ],
+      "redirectlabel": [
+        "1970 War of Attrition",
+        "<B>Israeli</B>-Egyptian War"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " of the Arab–<B>Israeli</B> conflict. In September 1967, the Arab states formulated the \"three nos\" policy"
+      ],
+      "label": [
+        "War of Attrition"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/War_of_Attrition"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1960s_in_Egypt",
+        "http://dbpedia.org/resource/Category:1960s_in_Israel",
+        "http://dbpedia.org/resource/Category:1970s_in_Egypt",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1967",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1968",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1969",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1970",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict",
+        "http://dbpedia.org/resource/Category:Jewish_Egyptian_history",
+        "http://dbpedia.org/resource/Category:War_of_Attrition"
+      ]
+    },
+    {
+      "score": [
+        "2548.8955"
+      ],
+      "refCount": [
+        "32"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Declaration_of_Independence"
+      ],
+      "redirectlabel": [
+        "Creation of the State of <B>Israel</B>",
+        "Declaration of Establishment of State of <B>Israel</B>",
+        "Declaration of Independence (<B>Israel</B>)",
+        "Declaration of Independence of <B>Israel</B>",
+        "Declaration of Independence of the State of <B>Israel</B>",
+        "Declaration of <B>Israeli</B> Independence",
+        "Declaration of <B>Israeli</B> independence",
+        "Declaration of State of <B>Israel</B>",
+        "Declaration of independence (<B>Israel</B>)",
+        "Declaration of <B>israel</B>",
+        "Declaration of the Establishment of the State of <B>Israel</B>, May 14, 1948",
+        "Declaration of the Establishment of the State of <B>Israel</B>",
+        "Declaration of the establishment of the State of <B>Israel</B>",
+        "Decleration of <B>Israel</B>",
+        "Establishment of the State of <B>Israel</B>",
+        "Founding of <B>Israel</B>",
+        "<B>Israel's</B> Declaration of Independence",
+        "<B>Israel's</B> Declaration of independence",
+        "<B>Israel's</B> creation",
+        "<B>Israel's</B> declaration of independence",
+        "<B>Israel's</B> declaration of statehood",
+        "<B>Israel's</B> independence",
+        "<B>Israel</B>/Declaration of Independence",
+        "<B>Israeli</B> Declaration of independence",
+        "<B>Israeli</B> Independence",
+        "<B>Israeli</B> declaration of independence",
+        "<B>Israels</B> declaration of statehood",
+        "<B>Israel’s</B> Declaration of Independence",
+        "Proclamation of the State of <B>Israel</B>",
+        "Proclamation of the establishment of the State of <B>Israel</B>",
+        "The founding of the State of <B>Israel</B>"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Declaration of Independence, formally the Declaration of the Establishment of the State"
+      ],
+      "label": [
+        "<B>Israeli</B> Declaration of Independence"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Declaration_of_Independence"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_documents",
+        "http://dbpedia.org/resource/Category:1948_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:1948_in_international_relations",
+        "http://dbpedia.org/resource/Category:20th_century_in_Tel_Aviv",
+        "http://dbpedia.org/resource/Category:David_Ben-Gurion",
+        "http://dbpedia.org/resource/Category:Declarations_of_independence",
+        "http://dbpedia.org/resource/Category:History_of_Zionism",
+        "http://dbpedia.org/resource/Category:Israeli_Declaration_of_Independence",
+        "http://dbpedia.org/resource/Category:May_1948_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "2524.7546"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Americans"
+      ],
+      "redirectlabel": [
+        "American-<B>Israeli</B>",
+        "American–<B>Israeli</B>",
+        "History of <B>Israeli</B> Americans",
+        "<B>ISRAELI</B>-AMERICAN",
+        "<B>Israeli</B>-American",
+        "<B>Israeli</B> American",
+        "<B>Israelis</B> in the United States",
+        "<B>Israeli</B>–American"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " have <B>Israeli</B> citizenship either by descent or naturalization. Reflecting <B>Israel's</B> population, while the"
+      ],
+      "label": [
+        "<B>Israeli</B> Americans"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Americans"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Immigration_to_the_United_States",
+        "http://dbpedia.org/resource/Category:Israeli_American",
+        "http://dbpedia.org/resource/Category:Israeli_diaspora_in_North_America",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_American",
+        "http://dbpedia.org/resource/Category:Multiracial_ethnic_groups_in_the_United_States"
+      ]
+    },
+    {
+      "score": [
+        "2412.8777"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Media_coverage_of_the_Arab–Israeli_conflict"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Israeli</B> conflict and the Internet",
+        "Arab-<B>Israeli</B> conflict on the Internet",
+        "<B>Israeli</B>-Palestinian conflict and the Internet",
+        "<B>Israeli</B>-Palestinian conflict on the Internet",
+        "Media Coverage of the Arab-<B>Israeli</B> Conflict",
+        "Media Coverage of the Arab-<B>Israeli</B> conflict",
+        "Media Coverage of the Palestinian-<B>Israeli</B> Conflict",
+        "Media coverage <B>Israel</B> and the <B>Israeli</B>-Palestinian conflict",
+        "Media coverage of <B>Israel</B> and the <B>Israeli</B>-Palestinian conflict",
+        "Media coverage of the Arab-<B>Israel</B> conflict",
+        "Media coverage of the Arab-<B>Israeli</B> conflict/rewrite",
+        "Media coverage of the Arab-<B>Israeli</B> conflict",
+        "Media coverage of the <B>Israeli</B>-Palestinian conflict",
+        "Media portrayal of the Arab-<B>Israeli</B> conflict",
+        "Media portrayal of the Arab–<B>Israeli</B> conflict",
+        "Media portrayal of the <B>Israeli</B>-Palestinian conflict",
+        "Media portrayal of the <B>Israeli</B>–Palestinian conflict",
+        "Palestinian-<B>Israeli</B> conflict and the Internet",
+        "Palestinian-<B>Israeli</B> conflict on the Internet"
+      ],
+      "comment": [
+        "Media coverage of the Arab–<B>Israeli</B> conflict by journalists in international news media has been"
+      ],
+      "label": [
+        "Media coverage of the Arab–<B>Israeli</B> conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Media_coverage_of_the_Arab–Israeli_conflict"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:Mass_media_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Media_bias_controversies",
+        "http://dbpedia.org/resource/Category:Media_coverage_of_the_Arab–Israeli_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2364.4016"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_citizenship_law"
+      ],
+      "redirectlabel": [
+        "Citizen of <B>Israel</B>",
+        "Citizenship in <B>Israel</B>",
+        "Citizenship law of <B>Israel</B>",
+        "History of <B>Israeli</B> citizenship law",
+        "<B>Israel's</B> nationality law",
+        "<B>Israeli</B> Nationality Law of 1952",
+        "<B>Israeli</B> citizen",
+        "<B>Israeli</B> citizens",
+        "<B>Israeli</B> citizenship",
+        "<B>Israeli</B> nationality law",
+        "<B>Israelian</B> nationality law",
+        "Nationality Law of 1952",
+        "Nationality law of <B>Israel</B>"
+      ],
+      "comment": [
+        " immigrate to <B>Israel</B>, and the Citizenship Act of 1952, which defines how <B>Israeli</B> nationality could be"
+      ],
+      "label": [
+        "<B>Israeli</B> citizenship law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_citizenship_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_nationality_law",
+        "http://dbpedia.org/resource/Category:Zionism"
+      ]
+    },
+    {
+      "score": [
+        "2356.1926"
+      ],
+      "refCount": [
+        "42"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab_citizens_of_Israel"
+      ],
+      "redirectlabel": [
+        "1948 Arabs",
+        "1948 Palestinian",
+        "1948 Palestinians",
+        "48 Palestinians",
+        "Arab-<B>Israeli</B>",
+        "Arab-<B>Israelis</B>",
+        "Arab-Palestinian minority in <B>Israel</B>",
+        "Arab-Palestinian of 1948",
+        "Arab Citizens of <B>Israel</B>",
+        "Arab <B>Israeli</B>",
+        "Arab <B>Israelis</B>",
+        "Arab citizen of <B>Israel</B>",
+        "Arab citizens and residents of <B>Israel</B>",
+        "Arab citizens of <B>israel</B>",
+        "Arab in <B>Israel</B>",
+        "Arab political parties in <B>Israel</B>",
+        "Arabs In <B>Israel</B>",
+        "Arabs in <B>Israel</B>",
+        "Arabs of <B>Israel</B>",
+        "Arabs of the Occupied Lands",
+        "Arab–<B>Israeli</B>",
+        "Economic status of Arab citizens of <B>Israel</B>",
+        "History of the Arab citizens of <B>Israel</B>",
+        "<B>Israeli</B>-Arab",
+        "<B>Israeli</B>-Arabs",
+        "<B>Israeli</B> Arab",
+        "<B>Israeli</B> Arabs",
+        "<B>Israeli</B> Palestinians",
+        "<B>Israeli</B>–Arab",
+        "Palestinian-<B>Israeli</B>",
+        "Palestinian <B>Israeli</B>",
+        "Palestinian <B>Israelis</B>",
+        "Palestinian in <B>Israel</B>",
+        "Palestinians in <B>Israel</B>",
+        "Violence against Arab citizens in <B>Israel</B>"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        "Arab citizens of <B>Israel</B>, or Arab <B>Israelis</B>, are <B>Israeli</B> citizens who are Arab. Many Arab citizens of"
+      ],
+      "label": [
+        "Arab citizens of <B>Israel</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab_citizens_of_Israel"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab_citizens_of_Israel",
+        "http://dbpedia.org/resource/Category:Demographics_of_Israel",
+        "http://dbpedia.org/resource/Category:Israeli_people_of_Palestinian_descent",
+        "http://dbpedia.org/resource/Category:Society_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "2299.0642"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "label": [
+        "<B>Israeli</B> barrier"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_barrier"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_barrier"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B> security fence",
+        "<B>Israel</B> security wall",
+        "<B>Israel</B> wall",
+        "<B>Israeli</B> Security Barrier",
+        "<B>Israeli</B> barrier (disambiguation)",
+        "<B>Israeli</B> security barrier",
+        "<B>Israeli</B> security fence",
+        "<B>Israeli</B> security wall",
+        "<B>Israeli</B> separation barrier",
+        "<B>Israeli</B> separation barrier (disambiguation)"
+      ]
+    },
+    {
+      "score": [
+        "2290.0854"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_casualties_of_war"
+      ],
+      "redirectlabel": [
+        "Casualties of war in <B>israel</B>",
+        "<B>Israel</B> army casualties",
+        "<B>Israel</B> casualties",
+        "<B>Israel</B> casualties in conflict",
+        "<B>Israel</B> casualties of war",
+        "<B>Israel</B> war casualties",
+        "<B>Israeli</B> casualties",
+        "<B>Israeli</B> deaths in war"
+      ],
+      "comment": [
+        " their deaths. Between 1948 and 1997, 20,093 <B>Israeli</B> soldiers were killed in combat, 75,000 <B>Israelis</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> casualties of war"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_casualties_of_war"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_war_casualties",
+        "http://dbpedia.org/resource/Category:Military_history_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "2266.0117"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_hip_hop"
+      ],
+      "redirectlabel": [
+        "Hebrew hip hop",
+        "Hebrew rap",
+        "History of <B>Israeli</B> hip hop",
+        "<B>Israeli</B> Hop Hop",
+        "<B>Israeli</B> hiphop",
+        "<B>Israeli</B> rap",
+        "SHI 360",
+        "Shai Haddad (musician)"
+      ],
+      "comment": [
+        "<B>Israeli</B> hip hop refers to hip hop and rap music in <B>Israel</B>."
+      ],
+      "label": [
+        "<B>Israeli</B> hip hop"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_hip_hop"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_in_music",
+        "http://dbpedia.org/resource/Category:2000s_in_music",
+        "http://dbpedia.org/resource/Category:Israeli_hip_hop",
+        "http://dbpedia.org/resource/Category:Israeli_music"
+      ]
+    },
+    {
+      "score": [
+        "2262.094"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_identity_card"
+      ],
+      "redirectlabel": [
+        "Identity card (<B>Israel</B>)",
+        "Identity document (<B>Israel</B>)",
+        "<B>Israeli</B> ID",
+        "<B>Israeli</B> ID Card",
+        "<B>Israeli</B> ID Cards",
+        "<B>Israeli</B> ID card",
+        "<B>Israeli</B> ID cards",
+        "<B>Israeli</B> Id",
+        "National identity cards in <B>Israel</B>",
+        "Palestinian identity card",
+        "Teudat Zehut",
+        "Teudat zehut"
+      ],
+      "comment": [
+        "Teudat Zehut (Hebrew: תעודת זהות; Arabic: بطاقة هوية‎ biṭāqat hawiyyah) is the <B>Israeli</B> compulsory"
+      ],
+      "label": [
+        "<B>Israeli</B> identity card"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_identity_card"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Israel",
+        "http://dbpedia.org/resource/Category:Law_enforcement_in_Israel",
+        "http://dbpedia.org/resource/Category:National_identity_cards_by_country"
+      ]
+    },
+    {
+      "score": [
+        "2260.7163"
+      ],
+      "refCount": [
+        "153"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Lebanon_War"
+      ],
+      "redirectlabel": [
+        "2006 <B>Israel</B>-Hezbollah Conflict in Lebanon",
+        "2006 <B>Israel</B>-Hezbollah War",
+        "2006 <B>Israel</B>-Hezbollah conflict",
+        "2006 <B>Israel</B>-Hezbollah war",
+        "2006 <B>Israel</B>-Lebanon-Hezbollah conflict",
+        "2006 <B>Israel</B>-Lebanon Conflict",
+        "2006 <B>Israel</B>-Lebanon Crisis",
+        "2006 <B>Israel</B>-Lebanon War",
+        "2006 <B>Israel</B>-Lebanon conflict",
+        "2006 <B>Israel</B>-Lebanon crisis",
+        "2006 <B>Israel</B>-Lebanon war",
+        "2006 <B>Israel</B> Lebanon Conflict",
+        "2006 <B>Israel</B> Lebanon crisis",
+        "2006 <B>Israel</B> War",
+        "2006 <B>Israel</B> crisis",
+        "2006 <B>Israeli</B>-Hizballah conflict",
+        "2006 <B>Israeli</B>-Lebanese War",
+        "2006 <B>Israeli</B>-Lebanese conflict",
+        "2006 <B>Israeli</B>-Lebanon War",
+        "2006 <B>Israeli</B>-Lebanon conflict",
+        "2006 <B>Israel</B>–Hezbollah War",
+        "2006 <B>Israel</B>–Lebanon War",
+        "2006 <B>Israel</B>–Lebanon conflict",
+        "2006 <B>Israel</B>–Lebanon crisis",
+        "2006 Lebanese War",
+        "2006 Lebanese war",
+        "2006 Lebanon-<B>Israel</B> War",
+        "2006 Lebanon-<B>Israel</B> conflict",
+        "2006 Lebanon-<B>Israel</B> crisis",
+        "2006 Lebanon-<B>Israel</B> war",
+        "2006 Lebanon Conflict",
+        "2006 Lebanon conflict",
+        "2006 Lebanon crisis",
+        "2006 Lebanon war",
+        "2006 Middle East Crisis",
+        "2006 Middle East conflict",
+        "2006 invasion of Lebanon",
+        "2006 <B>israel</B>-Lebanon War",
+        "2006 <B>israel</B>- Lebanon War",
+        "2006 <B>israeli</B> invasion of lebanon",
+        "2006 lebanon",
+        "2006 lebanon war",
+        "2006 war in Lebanon",
+        "34 day war",
+        "34 days war",
+        "Arab-<B>israeli</B> conflict 2006",
+        "Attacks affecting Lebanese industry in the 2006 <B>Israel</B>-Lebanon conflict",
+        "Attacks affecting Lebanese industry in the 2006 Lebanon war",
+        "David Markovich (<B>Israeli</B> military officer)",
+        "Environmental impact of the 2006 Lebanon War",
+        "<B>Israel</B>-Hezbollah war",
+        "<B>Israel</B>-Lebanon 2006 War",
+        "<B>Israel</B>-hezbollah war",
+        "<B>Israel</B> Lebanon conflict of 2006",
+        "<B>Israel</B> vs. Lebanon Wars 2006",
+        "July 2006 <B>Israeli</B>-Hezbollah clash",
+        "July War",
+        "July war",
+        "Just Reward",
+        "Lebanon-<B>Israel</B> conflict of 2006",
+        "Lebanon War of 2006",
+        "Lebanon war 2006",
+        "Media coverage of the 2006 Lebanon War",
+        "Northern Shield War",
+        "Operation Just Reward",
+        "Operation Just Rewards",
+        "Second <B>Israeli</B> war on Lebanon",
+        "Second Lebanon War",
+        "Tammuz War",
+        "The July War",
+        "The second Lebanon War",
+        "War of the North"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The 2006 Lebanon War, also called the 2006 <B>Israel</B>–Hezbollah War and known in Lebanon as the July"
+      ],
+      "label": [
+        "2006 Lebanon War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Lebanon_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_Lebanon_War",
+        "http://dbpedia.org/resource/Category:2006_in_Israel",
+        "http://dbpedia.org/resource/Category:2006_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Aerial_operations_and_battles_involving_Israel",
+        "http://dbpedia.org/resource/Category:Articles_which_contain_graphical_timelines",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2006",
+        "http://dbpedia.org/resource/Category:Hezbollah–Israel_conflict",
+        "http://dbpedia.org/resource/Category:Invasions_by_Israel",
+        "http://dbpedia.org/resource/Category:Invasions_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:South_Lebanon_conflict_(1985–2000)",
+        "http://dbpedia.org/resource/Category:Wars_involving_Hezbollah",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel"
+      ]
+    },
+    {
+      "score": [
+        "2241.9602"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab–Israeli_peace_projects"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Israeli</B> peace",
+        "Arab-<B>Israeli</B> peace process",
+        "Arab-<B>Israeli</B> peace projects",
+        "Arab=<B>Israeli</B> peace projects",
+        "Arab–<B>Israeli</B> peace process",
+        "Coexistence in <B>Israel</B>",
+        "Comedy for Peace",
+        "Islam-<B>Israel</B> Fellowship",
+        "<B>Israeli</B>-Arab cooperation projects",
+        "<B>Israeli</B>-Palestinian Chamber of Commerce",
+        "Projects working for peace among Arabs & <B>Israelis</B>",
+        "Projects working for peace among Arabs and <B>Israelis</B>",
+        "Projects working for peace among <B>Israelis</B> and Arabs",
+        "Projects working for peace among <B>Israelis</B> and Palestinians",
+        "Roots Judur Shorashim",
+        "The Children of Abraham"
+      ],
+      "comment": [
+        "Arab–<B>Israeli</B> peace projects are projects to promote peace and understanding between the Arab League"
+      ],
+      "label": [
+        "Arab–<B>Israeli</B> peace projects"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab–Israeli_peace_projects"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab–Israeli_peace_process",
+        "http://dbpedia.org/resource/Category:Islam_and_Judaism"
+      ]
+    },
+    {
+      "score": [
+        "2191.6892"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2017–18_Israeli_Basketball_Premier_League"
+      ],
+      "redirectlabel": [
+        "2017-18 <B>Israeli</B> Basketball Premier League",
+        "2017-18 <B>Israeli</B> Basketball Super League",
+        "2017–18 <B>Israeli</B> Basketball Super League"
+      ],
+      "comment": [
+        "The 2017–18 <B>Israeli</B> Basketball Premier League, for sponsorship reasons Ligat Winner, was the 64th"
+      ],
+      "label": [
+        "2017–18 <B>Israeli</B> Basketball Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2017–18_Israeli_Basketball_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2017–18_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2017–18_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2191.3828"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2018–19_Israeli_Basketball_Premier_League"
+      ],
+      "redirectlabel": [
+        "2018-19 <B>Israeli</B> Basketball Premier League",
+        "2018-19 <B>Israeli</B> Basketball Super League",
+        "2018–19 <B>Israeli</B> Basketball Super League"
+      ],
+      "comment": [
+        "The 2018–19 <B>Israeli</B> Basketball Premier League, for sponsorship reasons Ligat Winner, is the 65th"
+      ],
+      "label": [
+        "2018–19 <B>Israeli</B> Basketball Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2018–19_Israeli_Basketball_Premier_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2018–19_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2018–19_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "2150.8357"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "2013 <B>Israeli</B> election",
+        "2013 <B>Israeli</B> elections",
+        "2013 Knesset elections",
+        "2013 elections in <B>Israel</B>",
+        "Benny Goldstein",
+        "Calcala",
+        "Elections for the 19th Knesset",
+        "<B>Israeli</B> election, 2013",
+        "<B>Israeli</B> election of 2013",
+        "<B>Israeli</B> elections, 2013",
+        "<B>Israeli</B> legislative election, 2012",
+        "<B>Israeli</B> legislative election, 2013",
+        "Kalkala"
+      ],
+      "comment": [
+        "Early elections for the nineteenth Knesset were held in <B>Israel</B> on 22 January 2013. Public debate"
+      ],
+      "label": [
+        "2013 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013_Israeli_legislative_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2013_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:2013_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:January_2013_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "2141.8699"
+      ],
+      "refCount": [
+        "34"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel_Aerospace_Industries"
+      ],
+      "redirectlabel": [
+        "Bedek Aviation",
+        "<B>Israel</B> Aircraft Industries",
+        "<B>Israel</B> Aircraft Industries International",
+        "<B>Israeli</B> Aerial Industries",
+        "<B>Israeli</B> Aerospace Industries",
+        "<B>Israeli</B> Aircraft Industries",
+        "RAMTA"
+      ],
+      "comment": [
+        "<B>Israel</B> Aerospace Industries (Hebrew: התעשייה האווירית לישראל ha-ta'asiya ha-avirit le-yisra'el) or"
+      ],
+      "label": [
+        "<B>Israel</B> Aerospace Industries"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel_Aerospace_Industries"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1953_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Aircraft_manufacturers_of_Israel",
+        "http://dbpedia.org/resource/Category:Government-owned_companies_of_Israel",
+        "http://dbpedia.org/resource/Category:Israel_Aerospace_Industries"
+      ]
+    },
+    {
+      "score": [
+        "2125.5737"
+      ],
+      "refCount": [
+        "22"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2004"
+      ],
+      "redirectlabel": [
+        "2004 <B>Israel</B>-Gaza conflict",
+        "2004 <B>Israel</B>–Gaza conflict",
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2004",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2004",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2004",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2004",
+        "Terrorism against <B>Israel</B> in 2004",
+        "Terrorist attack against <B>Israelis</B> in 2004",
+        "Terrorist attacks against <B>Israel</B> in 2004",
+        "Terrorist attacks against <B>Israelis</B> in 2004",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2004",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2004",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2004",
+        "Violence against <B>Israel</B> 2004",
+        "Violence against <B>Israel</B> in 2004",
+        "Violence against <B>Israelis</B> 2004",
+        "Violence against <B>Israelis</B> in 2004",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>-Palestinian conflict 2004",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>–Palestinian conflict 2004",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2004",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2004",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2004"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2004"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2004"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2004_in_Israel",
+        "http://dbpedia.org/resource/Category:2004_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2004",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2004",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2121.1025"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Arab–Israeli_alliance"
+      ],
+      "redirectlabel": [
+        "Arab-<B>Israeli</B> alliance",
+        "Arab-<B>Israeli</B> alliance against Iran",
+        "Arab states-<B>Israeli</B> alliance against Iran",
+        "Arab states–<B>Israeli</B> alliance against Iran",
+        "Arab–<B>Israeli</B> alliance against Iran",
+        "<B>Israeli</B>-Arab sates alliance against Iran",
+        "<B>Israeli</B>-Arab states alliance against Iran",
+        "<B>Israeli</B>-Sunni Coalition",
+        "<B>Israeli</B>–Arab sates alliance against Iran",
+        "<B>Israeli</B>–Arab states alliance against Iran",
+        "<B>Israeli</B>–Sunni Coalition"
+      ],
+      "label": [
+        "Arab–<B>Israeli</B> alliance"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Arab–Israeli_alliance"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2020_in_Bahrain",
+        "http://dbpedia.org/resource/Category:2020_in_Israel",
+        "http://dbpedia.org/resource/Category:2020_in_international_relations",
+        "http://dbpedia.org/resource/Category:2020_in_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:21st-century_military_alliances",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_alliance_against_Iran",
+        "http://dbpedia.org/resource/Category:Bahrain–Iran_relations",
+        "http://dbpedia.org/resource/Category:Bahrain–Israel_relations",
+        "http://dbpedia.org/resource/Category:Bahrain–United_States_relations",
+        "http://dbpedia.org/resource/Category:Geopolitical_rivalry",
+        "http://dbpedia.org/resource/Category:Gulf_Cooperation_Council",
+        "http://dbpedia.org/resource/Category:Iran–Israel_military_relations",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Saudi_Arabia_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Saudi_Arabia_relations",
+        "http://dbpedia.org/resource/Category:Iran–United_Arab_Emirates_relations",
+        "http://dbpedia.org/resource/Category:Iran–United_States_relations",
+        "http://dbpedia.org/resource/Category:Israel–Saudi_Arabia_relations",
+        "http://dbpedia.org/resource/Category:Israel–United_Arab_Emirates_relations",
+        "http://dbpedia.org/resource/Category:Israel–United_States_military_relations",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_Bahrain",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_Israel",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_Saudi_Arabia",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_the_United_Arab_Emirates",
+        "http://dbpedia.org/resource/Category:Military_alliances_involving_the_United_States",
+        "http://dbpedia.org/resource/Category:Saudi_Arabia–Sudan_relations",
+        "http://dbpedia.org/resource/Category:Saudi_Arabia–United_States_relations",
+        "http://dbpedia.org/resource/Category:United_Arab_Emirates–United_States_relations"
+      ]
+    },
+    {
+      "score": [
+        "2102.3865"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_wine"
+      ],
+      "redirectlabel": [
+        "History of <B>Israeli</B> wine",
+        "<B>Israel</B> (wine)",
+        "<B>Israel</B> wine",
+        "<B>Israel</B> wines",
+        "<B>Israeli</B> Wines",
+        "<B>Israeli</B> wines",
+        "Wine from <B>Israel</B>",
+        "Wines from <B>Israel</B>"
+      ],
+      "comment": [
+        " <B>Israel</B> since biblical times. In 2011, <B>Israeli</B> wine exports totaled over $26.7 million."
+      ],
+      "label": [
+        "<B>Israeli</B> wine"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_wine"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_cuisine",
+        "http://dbpedia.org/resource/Category:Israeli_wine"
+      ]
+    },
+    {
+      "score": [
+        "2095.5327"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2001"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2001",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2001",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2001",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2001",
+        "Palestinian terrorism/2001",
+        "Terrorism against <B>Israel</B> 2001",
+        "Terrorism against <B>Israel</B> in 2001",
+        "Terrorist attacks against <B>Israel</B> in 2001",
+        "Terrorist attacks against <B>Israelis</B> in 2001",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2001",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2001",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2001",
+        "Violence against <B>Israel</B> 2001",
+        "Violence against <B>Israel</B> in 2001",
+        "Violence against <B>Israelis</B> 2001",
+        "Violence against <B>Israelis</B> in 2001",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>-Palestinian conflict 2001",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>–Palestinian conflict 2001",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2001",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2001",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2001"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2001"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2001"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2001_in_Israel",
+        "http://dbpedia.org/resource/Category:2001_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2001",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2001",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2094.6301"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2002"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2002",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2002",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2002",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2002",
+        "Palestinian terrorism/2002",
+        "Terrorism against <B>Israel</B> in 2002",
+        "Terrorist attacks against <B>Israel</B> in 2002",
+        "Terrorist attacks against <B>Israelis</B> in 2002",
+        "Terrorist attacks againsts <B>Israelis</B> in 2002",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2002",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2002",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2002",
+        "Violence against <B>Israel</B> 2002",
+        "Violence against <B>Israel</B> in 2002",
+        "Violence against <B>Israelis</B> 2002",
+        "Violence against <B>Israelis</B> in 2002",
+        "Violence against <B>israelis</B> in the <B>Israeli</B>-Palestinian conflict 2002",
+        "Violence against <B>israelis</B> in the <B>Israeli</B>–Palestinian conflict 2002",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2002",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2002",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2002"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2002"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2002"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2002_in_Israel",
+        "http://dbpedia.org/resource/Category:2002_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2002",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2002",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2072.6155"
+      ],
+      "refCount": [
+        "15"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict"
+      ],
+      "redirectlabel": [
+        "Hip con",
+        "History of <B>Israel</B>-Palestinian conflict",
+        "History of <B>Israeli</B>-Palestinian conflict",
+        "History of the <B>Israel</B>-Palestinian conflict",
+        "History of the <B>Israeli</B>-Palestinian Conflict",
+        "History of the <B>Israeli</B>-Palestinian conflict",
+        "<B>Israel</B>-Palestinian conflict (Recent history)",
+        "<B>Israeli</B>-Palestinian conflict timeline",
+        "List of terrorist Incidents in <B>Israel</B>",
+        "Palestinians killed by <B>Israelis</B>",
+        "Timeline of <B>Israeli</B>-Palestinian conflict",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict",
+        "Violence in the <B>Israeli</B>-Palestinian conflict",
+        "Violence in the <B>Israeli</B>–Palestinian conflict",
+        "Violence in the <B>israeli</B>-palestinian conflict"
+      ],
+      "comment": [
+        "This timeline of the <B>Israeli</B>–Palestinian conflict lists events from 1948 to the present. The"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Contemporary_history_timelines",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict",
+        "http://dbpedia.org/resource/Category:Palestinian_history_timelines",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2051.879"
+      ],
+      "refCount": [
+        "217"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Suez_Crisis"
+      ],
+      "redirectlabel": [
+        "1956 Arab-<B>Israeli</B> War",
+        "1956 Sinai Campaign",
+        "1956 Sinai War",
+        "1956 Sinai war",
+        "1956 Suez Crisis",
+        "1956 Suez War",
+        "1956 sinai war",
+        "1956 tripartite attack",
+        "Al-ʿIdwān al-Thalāthī",
+        "Anglo-Egyptian Agreement of 1954",
+        "Anglo-French invasion of Egypt",
+        "Anglo–Egyptian Agreement of 1954",
+        "Azmat al-Sūwais",
+        "British-French-<B>Israeli</B> invasion of Egypt",
+        "Crise du canal de Suez",
+        "Egyptian-<B>Israeli</B> war of 1956",
+        "Kadesh Campaign",
+        "Kadesh Operation",
+        "Mivtsa Kadesh",
+        "Mivtza Kadesh",
+        "Nationalization of the Suez Canal",
+        "Nationalized the Suez canal",
+        "Operation Kadesh",
+        "Second Arab-<B>Israeli</B> War",
+        "Second Arab–<B>Israeli</B> War",
+        "Sinai Campaign",
+        "Sinai War",
+        "Sinai campaign",
+        "Sinai capaign",
+        "Sinai war",
+        "Suez-Sinai War",
+        "Suez Affair",
+        "Suez Campaign",
+        "Suez Canal Crisis",
+        "Suez Canal crisis",
+        "Suez Conflict",
+        "Suez Crisis of 1956",
+        "Suez Operation",
+        "Suez War",
+        "Suez War of 1956",
+        "Suez campaign",
+        "Suez canal seizure",
+        "Suez conflict",
+        "Suez crisis",
+        "Suez crisis of 1956",
+        "Suez war",
+        "The Suez Crisis",
+        "The Suez War of 1956",
+        "Trio-Attack",
+        "Tripartite Aggression",
+        "Tripartite attack of 1956",
+        "Trouble in the Suez",
+        "ʾAzmat al-Sūwais",
+        "מבצע קדש",
+        "מלחמת סינ",
+        "מלחמת סיני",
+        "أزمة السويس - العدوان الثلاثي"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "The Suez Crisis, or the Second Arab–<B>Israeli</B> war, also called the tripartite aggression (Arabic"
+      ],
+      "label": [
+        "Suez Crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Suez_Crisis"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1956_in_All-Palestine_(Gaza)",
+        "http://dbpedia.org/resource/Category:1956_in_Egypt",
+        "http://dbpedia.org/resource/Category:1956_in_Israel",
+        "http://dbpedia.org/resource/Category:1956_in_international_relations",
+        "http://dbpedia.org/resource/Category:1957_in_All-Palestine_(Gaza)",
+        "http://dbpedia.org/resource/Category:1957_in_Egypt",
+        "http://dbpedia.org/resource/Category:1957_in_Israel",
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:British_Empire",
+        "http://dbpedia.org/resource/Category:British_military_occupations",
+        "http://dbpedia.org/resource/Category:Egypt–France_relations",
+        "http://dbpedia.org/resource/Category:Egypt–Israel_military_relations",
+        "http://dbpedia.org/resource/Category:Egypt–Soviet_Union_relations",
+        "http://dbpedia.org/resource/Category:Egypt–United_Kingdom_military_relations",
+        "http://dbpedia.org/resource/Category:France–Israel_relations",
+        "http://dbpedia.org/resource/Category:France–United_Kingdom_military_relations",
+        "http://dbpedia.org/resource/Category:Invasions_of_Egypt",
+        "http://dbpedia.org/resource/Category:Israel–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:November_1956_events_in_Africa",
+        "http://dbpedia.org/resource/Category:November_1956_events_in_Asia",
+        "http://dbpedia.org/resource/Category:October_1956_events_in_Africa",
+        "http://dbpedia.org/resource/Category:October_1956_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Suez_Crisis"
+      ]
+    },
+    {
+      "score": [
+        "2026.9374"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2019–2022_Israeli_political_crisis"
+      ],
+      "redirectlabel": [
+        "2019-2020 <B>Israeli</B> constitutional crisis",
+        "2019-2020 <B>Israeli</B> political crisis",
+        "2019-2021 <B>Israeli</B> political crisis",
+        "2019-2022 <B>Israeli</B> political crisis",
+        "2019-20 <B>Israeli</B> constitutional crisis",
+        "2019-20 <B>Israeli</B> political crisis",
+        "2019–2020 <B>Israeli</B> constitutional crisis",
+        "2019–2020 <B>Israeli</B> political crisis",
+        "2019–2021 <B>Israeli</B> political crisis",
+        "2019–20 <B>Israeli</B> constitutional crisis",
+        "2019–20 <B>Israeli</B> political crisis",
+        "2020 <B>Israeli</B> constitutional crisis"
+      ],
+      "label": [
+        "2019–2022 <B>Israeli</B> political crisis"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2019–2022_Israeli_political_crisis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:2020_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:2021_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:2022_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:Cabinet_formation",
+        "http://dbpedia.org/resource/Category:Government_crises"
+      ]
+    },
+    {
+      "score": [
+        "2024.7808"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2000"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2000",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2000",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2000",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2000",
+        "Terrorism against <B>Israel</B> in 2000",
+        "Terrorist attacks against <B>Israel</B> in 2000",
+        "Terrorist attacks against <B>Israelis</B> in 2000",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2000",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2000",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2000",
+        "Violence against <B>Israel</B> 2000",
+        "Violence against <B>Israel</B> in 2000",
+        "Violence against <B>Israelis</B> 2000",
+        "Violence against <B>Israelis</B> in 2000",
+        "Violence against <B>israelis</B> in the <B>Israeli</B>-Palestinian conflict 2000",
+        "Violence against <B>israelis</B> in the <B>Israeli</B>–Palestinian conflict 2000",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2000",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2000",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2000"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2000"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2000"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2000_in_Israel",
+        "http://dbpedia.org/resource/Category:2000_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2000",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Asia_in_2000",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_the_2000s",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2024.7808"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2006"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2006",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2006",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2006",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2006",
+        "Terrorism against <B>Israel</B> in 2006",
+        "Terrorist attacks against <B>Israel</B> in 2006",
+        "Terrorist attacks against <B>Israelis</B> in 2006",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2006",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2006",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2006",
+        "Violence against <B>Israel</B> 2006",
+        "Violence against <B>Israel</B> in 2006",
+        "Violence against <B>Israelis</B> 2006",
+        "Violence against <B>Israelis</B> in 2006",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>-Palestinian conflict 2006",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>–Palestinian conflict 2006",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2006",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2006",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2006"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2006"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2006"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_in_Israel",
+        "http://dbpedia.org/resource/Category:2006_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2006",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2006",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2024.7808"
+      ],
+      "refCount": [
+        "19"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2003"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2003",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2003",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2003",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2003",
+        "Terrorism against <B>Israel</B> in 2003",
+        "Terrorist attacks against <B>Israel</B> in 2003",
+        "Terrorist attacks against <B>Israelis</B> in 2003",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2003",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2003",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2003",
+        "Violence against <B>Israel</B> 2003",
+        "Violence against <B>Israel</B> in 2003",
+        "Violence against <B>Israelis</B> 2003",
+        "Violence against <B>Israelis</B> in 2003",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>-Palestinian conflict 2003",
+        "Violence against <B>Israelis</B> in the <B>Israeli</B>–Palestinian conflict 2003",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2003",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2003",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2003"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2003"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2003"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_in_Israel",
+        "http://dbpedia.org/resource/Category:2003_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2003",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2003",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "2012.5406"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Labor_Party_primaries"
+      ],
+      "redirectlabel": [
+        "1992 <B>Israeli</B> Labor Party primary",
+        "1996 <B>Israeli</B> Labor Party primary",
+        "1999 <B>Israeli</B> Labor Party primary",
+        "2002 <B>Israeli</B> Labor Party primary",
+        "2006 <B>Israeli</B> Labor Party primary",
+        "2008 <B>Israeli</B> Labor Party primary",
+        "2012 <B>Israeli</B> Labor Party primary",
+        "2015 <B>Israeli</B> Labor Party primary",
+        "2019 <B>Israeli</B> Labor Party primary",
+        "2021 <B>Israeli</B> Labor Party primary",
+        "2022 <B>Israeli</B> Labor Party primary"
+      ],
+      "label": [
+        "<B>Israeli</B> Labor Party primaries"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Labor_Party_primaries"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_Labor_Party_primaries"
+      ]
+    },
+    {
+      "score": [
+        "2001.5269"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_salad"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Salad",
+        "<B>Israeli</B> Sald",
+        "<B>Israeli</B> vegetable salad",
+        "Palestinian salad",
+        "Salat aravi",
+        "Salat katzutz",
+        "Salat yerakot yisraeli",
+        "Vegetable salad"
+      ],
+      "typeName": [
+        "Food"
+      ],
+      "comment": [
+        "<B>Israeli</B> salad (Hebrew: סָלָט יְרָקוֹת יִשְׂרְאֵלִי‎, romanized: salat yerakot yisra'eli, \"<B>Israeli</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> salad"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_salad"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_cuisine",
+        "http://dbpedia.org/resource/Category:Jewish_cuisine",
+        "http://dbpedia.org/resource/Category:Levantine_cuisine",
+        "http://dbpedia.org/resource/Category:Mediterranean_cuisine",
+        "http://dbpedia.org/resource/Category:National_dishes",
+        "http://dbpedia.org/resource/Category:Salads",
+        "http://dbpedia.org/resource/Category:Vegan_cuisine",
+        "http://dbpedia.org/resource/Category:Vegetable_dishes"
+      ]
+    },
+    {
+      "score": [
+        "1997.7886"
+      ],
+      "refCount": [
+        "61"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Basketball_League_Cup"
+      ],
+      "redirectlabel": [
+        "Winner Cup"
+      ],
+      "typeName": [
+        "Organisation",
+        "BasketballLeague",
+        "SportsLeague",
+        "Agent"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Basketball League Cup is a pre-season professional basketball tournament that is"
+      ],
+      "label": [
+        "<B>Israeli</B> Basketball League Cup"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Basketball_League_Cup"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/BasketballLeague",
+        "http://dbpedia.org/ontology/SportsLeague",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_league_cup_competitions_in_Europe",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_League_Cup",
+        "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_2006"
+      ]
+    },
+    {
+      "score": [
+        "1979.4622"
+      ],
+      "refCount": [
+        "35"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel–Turkey_relations"
+      ],
+      "redirectlabel": [
+        "Economic relations between <B>Israel</B> and Turkey",
+        "History of <B>Israel</B>-Turkey relations",
+        "History of <B>Israel</B>–Turkey relations",
+        "<B>Israel</B>-Turkey relations",
+        "<B>Israel</B>-turkey relations",
+        "<B>Israel</B> - Turkey relations",
+        "<B>Israel</B> - turkey relations",
+        "<B>Israel</B> Turkey relations",
+        "<B>Israel</B> – Turkey relations",
+        "<B>Israeli</B>-Turkish relations",
+        "<B>Israeli</B>-turkish relations",
+        "<B>Israeli</B> - turkish relations",
+        "<B>Israeli</B> tourists in Turkey",
+        "<B>Israeli</B>–Turkish relations",
+        "Military cooperation between Turkey and <B>Israel</B>",
+        "Military relations between <B>Israel</B> and Turkey",
+        "Military relations between Turkey and <B>Israel</B>",
+        "Trade between Turkey and <B>Israel</B>",
+        "Turkey-<B>Israel</B> reconciliation agreement",
+        "Turkey-<B>Israel</B> relations",
+        "Turkey-<B>israel</B> relation",
+        "Turkey-<B>israel</B> relations",
+        "Turkey - <B>israel</B> relations",
+        "Turkey <B>Israel</B> relations",
+        "Turkey and <B>Israel</B>",
+        "Turkey–<B>Israel</B> reconciliation agreement",
+        "Turkey–<B>Israel</B> relations",
+        "Turkish-<B>Israeli</B> relations",
+        "Turkish-<B>israeli</B> relations",
+        "Turkish - <B>Israeli</B> relations",
+        "Turkish - <B>israeli</B> relations",
+        "Turkish <B>israeli</B> relations",
+        "Turkish–<B>Israeli</B> relations"
+      ],
+      "comment": [
+        "<B>Israeli</B>–Turkish relations are the bilateral ties between the State of <B>Israel</B> and the Republic of"
+      ],
+      "label": [
+        "<B>Israel</B>–Turkey relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel–Turkey_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Israel",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Turkey",
+        "http://dbpedia.org/resource/Category:Israel–Turkey_relations"
+      ]
+    },
+    {
+      "score": [
+        "1977.28"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "2008 <B>Israeli</B> early elections",
+        "2009 <B>Israeli</B> election",
+        "2009 <B>Israeli</B> elections",
+        "2009 Knesset elections",
+        "2009 elections in <B>Israel</B>",
+        "Eighteenth Knesset",
+        "<B>Israeli</B> elections (2009)",
+        "<B>Israeli</B> elections 2009",
+        "<B>Israeli</B> elections of 2009",
+        "<B>Israeli</B> legislative election, 2009"
+      ],
+      "comment": [
+        "Elections for the 18th Knesset were held in <B>Israel</B> on 10 February 2009. These elections became"
+      ],
+      "label": [
+        "2009 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009_Israeli_legislative_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2009_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:2009_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:February_2009_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1974.7395"
+      ],
+      "refCount": [
+        "145"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1982_Lebanon_War"
+      ],
+      "redirectlabel": [
+        "1982 Invasion of Lebanon",
+        "1982 <B>Israeli</B> Invasion and Occupation of Lebanon",
+        "1982 <B>Israeli</B> Invasion of Lebanon",
+        "1982 <B>Israeli</B> invasion of Lebanon",
+        "1982 Lebanon campaign",
+        "1982 Lebanon conflict",
+        "1982 Lebanon war",
+        "1982 Peace for Galilee",
+        "1982 War",
+        "1982 invasion of Lebanon",
+        "Casaulties of the 1982 Lebanon War",
+        "Casualties of the 1982 Lebanon War",
+        "First Lebanon War",
+        "First Lebanon war",
+        "First lebanon war",
+        "Human rights violations during the 1982 Lebanon War",
+        "<B>Israeli</B> invasion of Lebanon in 1982",
+        "Lebanese Civil War (1982-1983)",
+        "Lebanese War of 1982",
+        "Lebanon War of 1982",
+        "Operation Big Pines",
+        "Operation Gallilee",
+        "Operation Peace For Galilee",
+        "Operation Peace for Galilee",
+        "Operation Peace for the Galilee",
+        "Operation Peace in Galilee",
+        "Operation Peace of the Galilee",
+        "Palestinian exodus from Lebanon",
+        "Peace for Galilee",
+        "Peace for the Galilee",
+        "The <B>Israeli</B> invasion of Lebanon 1982"
+      ],
+      "typeName": [
+        "Event",
+        "MilitaryConflict",
+        "SocietalEvent"
+      ],
+      "comment": [
+        " Mivtsa Shlom HaGalil or Mivtsa Sheleg) by the <B>Israeli</B> government, later known in <B>Israel</B> as the Lebanon"
+      ],
+      "label": [
+        "1982 Lebanon War"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1982_Lebanon_War"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/MilitaryConflict",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1982_Lebanon_War",
+        "http://dbpedia.org/resource/Category:1982_in_Israel",
+        "http://dbpedia.org/resource/Category:1982_in_Lebanon",
+        "http://dbpedia.org/resource/Category:Conflicts_in_1982",
+        "http://dbpedia.org/resource/Category:Invasions_by_Israel",
+        "http://dbpedia.org/resource/Category:Invasions_of_Lebanon",
+        "http://dbpedia.org/resource/Category:Lebanese_Civil_War",
+        "http://dbpedia.org/resource/Category:Menachem_Begin",
+        "http://dbpedia.org/resource/Category:Palestinian_insurgency_in_South_Lebanon",
+        "http://dbpedia.org/resource/Category:Wars_involving_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1969.956"
+      ],
+      "refCount": [
+        "69"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel–United_States_relations"
+      ],
+      "redirectlabel": [
+        "American-<B>Israeli</B> relations",
+        "American aid to <B>Israel</B>",
+        "American espionage against <B>Israel</B>",
+        "American <B>israeli</B> relations",
+        "American public opinion towards <B>Israel</B>",
+        "History of <B>Israel</B>-United States relations",
+        "History of <B>Israel</B>–United States relations",
+        "History of United States-<B>Israel</B> relations",
+        "History of United States–<B>Israel</B> relations",
+        "<B>Israel</B>-U.S. relations",
+        "<B>Israel</B>-USA relations",
+        "<B>Israel</B>-US relations",
+        "<B>Israel</B>-United States of America relations",
+        "<B>Israel</B>-United States relations",
+        "<B>Israel</B> - U.S. relations",
+        "<B>Israel</B> - USA relations",
+        "<B>Israel</B> - US relations",
+        "<B>Israel</B> - United States of America relations",
+        "<B>Israel</B> - United States relations",
+        "<B>Israel</B> U.S. relations",
+        "<B>Israel</B> US relations",
+        "<B>Israel</B> United States relations",
+        "<B>Israel</B> and U.S. interests",
+        "<B>Israel</B> – U.S. relations",
+        "<B>Israel</B> – US relations",
+        "<B>Israel</B> – United States relations",
+        "<B>Israeli</B>-American relations",
+        "<B>Israeli</B>-american relations",
+        "<B>Israeli</B> attitudes toward the United States",
+        "<B>Israeli</B> espionage against the United States",
+        "<B>Israel</B>–U.S. relations",
+        "<B>Israel</B>–US relations",
+        "Qualitative Military Edge",
+        "Relations between <B>Israel</B> and the United States",
+        "U.S.-<B>Israel</B> relations",
+        "U.S.-<B>Israeli</B> relations",
+        "U.S. - <B>Israel</B> relations",
+        "U.S. <B>Israel</B> relations",
+        "U.S. aid to <B>Israel</B>",
+        "U.S.–<B>Israel</B> relations",
+        "U.s. <B>israeli</B> relations",
+        "US-<B>Israel</B> relations",
+        "USA-<B>Israel</B> relations",
+        "USA - <B>Israel</B> relations",
+        "US - <B>Israel</B> relations",
+        "US Foreign policy and <B>Israel</B>",
+        "US <B>Israel</B> relations",
+        "US aid to <B>Israel</B>",
+        "US–<B>Israel</B> relations",
+        "United States-<B>Israel</B> Relations",
+        "United States-<B>Israel</B> relations",
+        "United States-<B>Israeli</B> Relations",
+        "United States-<B>Israeli</B> relations",
+        "United States - <B>Israel</B> relations",
+        "United States <B>Israel</B> relations",
+        "United States aid to <B>Israel</B>",
+        "United States foreign aid to <B>Israel</B>",
+        "United States of America-<B>Israel</B> relations",
+        "United States of America - <B>Israel</B> relations",
+        "United States–<B>Israel</B> relations"
+      ],
+      "comment": [
+        "<B>Israel</B>–United States relations refers to the bilateral relationship between <B>Israel</B> and the United"
+      ],
+      "label": [
+        "<B>Israel</B>–United States relations"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel–United_States_relations"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_Israel",
+        "http://dbpedia.org/resource/Category:Bilateral_relations_of_the_United_States",
+        "http://dbpedia.org/resource/Category:Israel–United_States_relations"
+      ]
+    },
+    {
+      "score": [
+        "1962.05"
+      ],
+      "refCount": [
+        "33"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Ministry_of_Defense_(Israel)"
+      ],
+      "redirectlabel": [
+        "Defence Minister of <B>Israel</B>",
+        "Defense Minister of <B>Israel</B>",
+        "Defense Ministry (<B>Israel</B>)",
+        "Defense Ministry of <B>Israel</B>",
+        "Defense minister of <B>israel</B>",
+        "Director General of the <B>Israeli</B> Ministry of Defense",
+        "Director general of the <B>Israeli</B> Ministry of Defense",
+        "Directors General of the <B>Israeli</B> Ministry of Defense",
+        "Directors general of the <B>Israeli</B> Ministry of Defense",
+        "IMOD-SIBAT",
+        "<B>Israel</B> Ministry of Defense",
+        "<B>Israeli</B> Defence Minister",
+        "<B>Israeli</B> Defense Minister",
+        "<B>Israeli</B> Defense Ministry",
+        "<B>Israeli</B> Defense Minitsry",
+        "<B>Israeli</B> Deputy Minister of Defense",
+        "<B>Israeli</B> Minister of Defense",
+        "<B>Israeli</B> Ministry of Defense",
+        "<B>Israeli</B> deputy minister of defense",
+        "List of Defence Ministers of <B>Israel</B>",
+        "List of Defense Ministers of <B>Israel</B>",
+        "Minister of Defence (<B>Israel</B>)",
+        "Minister of Defense (<B>Israel</B>)",
+        "Ministry of Defence (<B>Israel</B>)",
+        "Security minister of <B>Israel</B>"
+      ],
+      "typeName": [
+        "Organisation",
+        "GovernmentAgency",
+        "Agent"
+      ],
+      "comment": [
+        " located in HaKirya, Tel Aviv. The Ministry of Defense oversees most of the <B>Israeli</B> security forces"
+      ],
+      "label": [
+        "Ministry of Defense (<B>Israel</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Ministry_of_Defense_(Israel)"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/GovernmentAgency",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Defence_ministries",
+        "http://dbpedia.org/resource/Category:Government_ministers_of_Israel",
+        "http://dbpedia.org/resource/Category:Government_ministries_of_Israel",
+        "http://dbpedia.org/resource/Category:Israeli_Security_Forces",
+        "http://dbpedia.org/resource/Category:Lists_of_government_ministers_of_Israel",
+        "http://dbpedia.org/resource/Category:Ministry_of_Defense_(Israel)"
+      ]
+    },
+    {
+      "score": [
+        "1953.1635"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1999_Israeli_general_election"
+      ],
+      "redirectlabel": [
+        "1999 <B>Israeli</B> elections",
+        "1999 <B>Israeli</B> legislative election",
+        "1999 <B>Israeli</B> prime ministerial election",
+        "1999 Knesset Election",
+        "1999 Knesset election",
+        "Fifteenth Knesset",
+        "<B>Israel</B> legislative election, 1999",
+        "<B>Israeli</B> general election, 1999",
+        "<B>Israeli</B> legislative election, 1999",
+        "<B>Israeli</B> prime ministerial and legislative election, 1999",
+        "<B>Israeli</B> prime ministerial election, 1999"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "Early general elections for both the Prime Minister and the Knesset were held in <B>Israel</B> on 17 May"
+      ],
+      "label": [
+        "1999 <B>Israeli</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1999_Israeli_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1999_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1999_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:1999_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:Head_of_Government_elections",
+        "http://dbpedia.org/resource/Category:Israeli_prime_ministerial_elections",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:May_1999_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1950.3754"
+      ],
+      "refCount": [
+        "29"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israel_and_apartheid"
+      ],
+      "redirectlabel": [
+        "Allegations of Apartheid in <B>Israel</B>",
+        "Allegations of <B>Israeli</B> Apartheid",
+        "Allegations of <B>Israeli</B> apartheid",
+        "Allegations of <B>israeli</B> apartheid",
+        "Analogies between <B>Israel</B> and apartheid South Africa",
+        "Apartheid <B>Israel</B>",
+        "Apartheid controversy in the <B>Israeli</B>-Palestinian conflict",
+        "Apartheid debate in the <B>Israeli</B>-Palestinian conflict",
+        "Apartheid in <B>Israel</B>",
+        "Ethnic segregation in <B>Israel</B> and the Occupied Territories",
+        "<B>Israel</B> and the Apartheid Analogy",
+        "<B>Israel</B> and the Apartheid analogy",
+        "<B>Israel</B> and the apartheid analogy",
+        "<B>Israel</B> and the apartheid analogy allegations",
+        "<B>Israel</B> and the crime of apartheid",
+        "<B>Israel</B> apartheid",
+        "<B>Israel</B> apartheid analogy",
+        "<B>Israel</B> as an apartheid state",
+        "<B>Israeli</B> Apartheid",
+        "<B>Israeli</B> apartheid",
+        "<B>Israeli</B> apartheid (epithet)",
+        "<B>Israeli</B> apartheid (phrase)",
+        "<B>Israeli</B> apartheid (term)",
+        "<B>Israeli</B> apartheid allegations",
+        "<B>Israeli</B> apartheid analogy",
+        "<B>Israeli</B> apartheid controversy",
+        "<B>Israeli</B> apartheid debate",
+        "<B>Isreali</B> apartheid",
+        "Segregation in <B>Israel</B>"
+      ],
+      "label": [
+        "<B>Israel</B> and apartheid"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israel_and_apartheid"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Definition_of_racism_controversy",
+        "http://dbpedia.org/resource/Category:Discrimination",
+        "http://dbpedia.org/resource/Category:Israel_and_apartheid",
+        "http://dbpedia.org/resource/Category:Political_neologisms"
+      ]
+    },
+    {
+      "score": [
+        "1929.3663"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016–17_Israeli_Basketball_Super_League"
+      ],
+      "redirectlabel": [
+        "2016-17 <B>Israeli</B> Basketball Super League",
+        "2016-2017 <B>Israeli</B> Basketball Super League",
+        "2016–2017 <B>Israeli</B> Basketball Super League"
+      ],
+      "comment": [
+        "The 2016–2017 <B>Israeli</B> Basketball Super League, for sponsorship reasons Ligat Winner, was the 63rd"
+      ],
+      "label": [
+        "2016–17 <B>Israeli</B> Basketball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016–17_Israeli_Basketball_Super_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016–17_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2016–17_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1928.8589"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_pound"
+      ],
+      "redirectlabel": [
+        "ISO 4217:ILP",
+        "<B>Israel</B> pound",
+        "<B>Israeli</B> Pound",
+        "<B>Israeli</B> lira",
+        "I£",
+        "Lirot",
+        "Liroth",
+        "ל\"י"
+      ],
+      "typeName": [
+        "Currency"
+      ],
+      "comment": [
+        " <B>Israeli</B> lira was the currency of the State of <B>Israel</B> from 9 June 1952 until 23 February 1980. Its"
+      ],
+      "label": [
+        "<B>Israeli</B> pound"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_pound"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Currency"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:1980_disestablishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Cultural_depictions_of_Albert_Einstein",
+        "http://dbpedia.org/resource/Category:Cultural_depictions_of_David_Ben-Gurion",
+        "http://dbpedia.org/resource/Category:Currencies_of_Israel",
+        "http://dbpedia.org/resource/Category:Modern_obsolete_currencies"
+      ]
+    },
+    {
+      "score": [
+        "1928.6536"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/September_2019_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "Elections for the 22nd Knesset",
+        "<B>Israel</B> election, September 2019",
+        "<B>Israel</B> elections, September 2019",
+        "<B>Israeli</B> election, September 2019",
+        "<B>Israeli</B> elections, September 2019",
+        "<B>Israeli</B> legislative election, September 2019",
+        "September 2019 <B>Israeli</B> election",
+        "September 2019 <B>Israeli</B> elections",
+        "September 2019 Knesset election",
+        "September 2019 election in <B>Israel</B>",
+        "September 2019 elections in <B>Israel</B>",
+        "September <B>Israeli</B> legislative election, 2019",
+        "September Knesset election, 2019"
+      ],
+      "comment": [
+        " Netanyahu failed to form a governing coalition, the first such failure in <B>Israeli</B> history. On 30 May, the"
+      ],
+      "label": [
+        "September 2019 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/September_2019_Israeli_legislative_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2019_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2019_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:September_2019_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1919.6005"
+      ],
+      "refCount": [
+        "13"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–16_Israeli_Basketball_Super_League"
+      ],
+      "redirectlabel": [
+        "2015-16 <B>Israeli</B> Basketball Super League",
+        "2015-2016 <B>Israeli</B> Basketball Super League",
+        "2015–2016 <B>Israeli</B> Basketball Super League"
+      ],
+      "comment": [
+        "The 2015–2016 <B>Israeli</B> Basketball Super League was the 62nd season of the <B>Israeli</B> Basketball Super"
+      ],
+      "label": [
+        "2015–16 <B>Israeli</B> Basketball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–16_Israeli_Basketball_Super_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015–16_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2015–16_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1919.5494"
+      ],
+      "refCount": [
+        "7"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_law"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Law",
+        "<B>Israeli</B> civil law",
+        "<B>Israeli</B> legal system",
+        "Law in <B>Israel</B>",
+        "Law of <B>Israel</B>",
+        "Legal System of <B>Israel</B>",
+        "Origins of <B>Israeli</B> law"
+      ],
+      "comment": [
+        "<B>Israeli</B> law is based mostly on a common law legal system, though it also reflects the diverse"
+      ],
+      "label": [
+        "<B>Israeli</B> law"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_law"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Law_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1905.1202"
+      ],
+      "refCount": [
+        "27"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2014_kidnapping_and_murder_of_Israeli_teenagers"
+      ],
+      "redirectlabel": [
+        "2014 <B>Israel</B> teenager kidnappings",
+        "2014 kidnapping and murder of <B>Israeli</B> teens",
+        "2014 kidnapping in <B>israel</B>",
+        "2014 kidnapping in west bank",
+        "2014 kidnapping of <B>Israeli</B> teenagers",
+        "2014 kidnapping of <B>Israeli</B> teens",
+        "Amar Abu-Isa",
+        "Ayal Yifrah",
+        "BringBackOurBoys",
+        "Bring Back Our Boys",
+        "Eyal Ifrach",
+        "Eyal Yifrach",
+        "Eyal Yifrah",
+        "Gil-Ad Shaer",
+        "Gil-Ad Shayer",
+        "Gilaad Shaer",
+        "Gilad Sha'ar",
+        "Gilad Sha'er",
+        "Gilad Shaar",
+        "Gilad Shaer",
+        "Marwan Kawasmeh",
+        "Marwan Qawasameh",
+        "Missing yeshiva students",
+        "Naftali Fraenkel",
+        "Naftali Frankel",
+        "Operation Brother's Keeper",
+        "West bank kidnapping"
+      ],
+      "comment": [
+        "On 12 June 2014, three <B>Israeli</B> teenagers were kidnapped at the bus/hitchhiking stop at the <B>Israeli</B>"
+      ],
+      "label": [
+        "2014 kidnapping and murder of <B>Israeli</B> teenagers"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2014_kidnapping_and_murder_of_Israeli_teenagers"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_missing_person_cases",
+        "http://dbpedia.org/resource/Category:2014_Israel–Gaza_conflict",
+        "http://dbpedia.org/resource/Category:2014_in_Israel",
+        "http://dbpedia.org/resource/Category:2014_murders_in_Asia",
+        "http://dbpedia.org/resource/Category:Deaths_by_firearm_in_the_West_Bank",
+        "http://dbpedia.org/resource/Category:Formerly_missing_people",
+        "http://dbpedia.org/resource/Category:Hate_crimes",
+        "http://dbpedia.org/resource/Category:June_2014_crimes_in_Asia",
+        "http://dbpedia.org/resource/Category:Kidnapped_Israeli_people",
+        "http://dbpedia.org/resource/Category:Kidnappings",
+        "http://dbpedia.org/resource/Category:Missing_person_cases_in_Israel",
+        "http://dbpedia.org/resource/Category:Murdered_Israeli_children",
+        "http://dbpedia.org/resource/Category:Palestinian_terrorism",
+        "http://dbpedia.org/resource/Category:Terrorism_deaths_in_the_West_Bank",
+        "http://dbpedia.org/resource/Category:Terrorist_attacks_attributed_to_Palestinian_militant_groups",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_the_West_Bank_in_2014"
+      ]
+    },
+    {
+      "score": [
+        "1899.8667"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1996_Israeli_general_election"
+      ],
+      "redirectlabel": [
+        "1996 <B>Israeli</B> elections",
+        "1996 <B>Israeli</B> legislative election",
+        "1996 <B>Israeli</B> prime minister election",
+        "1996 <B>Israeli</B> prime ministerial election",
+        "1996 Knesset election",
+        "Fourteenth Knesset",
+        "<B>Israeli</B> general election, 1996",
+        "<B>Israeli</B> legislative election, 1996",
+        "<B>Israeli</B> prime ministerial and legislative election, 1996",
+        "<B>Israeli</B> prime ministerial election, 1996"
+      ],
+      "typeName": [
+        "Event",
+        "Election",
+        "SocietalEvent"
+      ],
+      "comment": [
+        "General elections were held in <B>Israel</B> on 29 May 1996. For the first time, the prime minister was"
+      ],
+      "label": [
+        "1996 <B>Israeli</B> general election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1996_Israeli_general_election"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Event",
+        "http://dbpedia.org/ontology/Election",
+        "http://dbpedia.org/ontology/SocietalEvent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1996_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:1996_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:Israeli_prime_ministerial_elections",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:May_1996_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Shimon_Peres"
+      ]
+    },
+    {
+      "score": [
+        "1882.5305"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Civil_Administration"
+      ],
+      "redirectlabel": [
+        "1983 in the <B>Israeli</B> Civil Administration area",
+        "1986 in the <B>Israeli</B> Civil Administration area",
+        "Civil Administration (<B>Israel</B>)",
+        "<B>Israel</B> Civil Administration",
+        "<B>Israeli</B> Civil administration",
+        "List of years in the <B>Israeli</B> Civil Administration area",
+        "The <B>Israeli</B> Civil Administration area"
+      ],
+      "typeName": [
+        "Place",
+        "Country",
+        "PopulatedPlace",
+        "Location"
+      ],
+      "comment": [
+        " territories captured by <B>Israel</B> in 1967. While formally separate, it was subordinate to the <B>Israeli</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> Civil Administration"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Civil_Administration"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/Place",
+        "http://dbpedia.org/ontology/Country",
+        "http://dbpedia.org/ontology/PopulatedPlace",
+        "http://dbpedia.org/ontology/Location"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1980s_in_Israel",
+        "http://dbpedia.org/resource/Category:1990s_in_Israel",
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict",
+        "http://dbpedia.org/resource/Category:History_of_Palestine_(region)",
+        "http://dbpedia.org/resource/Category:Israel_Defense_Forces",
+        "http://dbpedia.org/resource/Category:Israeli_Civil_Administration",
+        "http://dbpedia.org/resource/Category:Israeli_occupation_of_the_West_Bank",
+        "http://dbpedia.org/resource/Category:Late_modern_history_of_Jerusalem",
+        "http://dbpedia.org/resource/Category:Law_of_Israel",
+        "http://dbpedia.org/resource/Category:Military_occupation",
+        "http://dbpedia.org/resource/Category:Politics_of_Israel",
+        "http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1994",
+        "http://dbpedia.org/resource/Category:States_and_territories_established_in_1981"
+      ]
+    },
+    {
+      "score": [
+        "1881.9546"
+      ],
+      "refCount": [
+        "17"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2005"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> deaths due to Palestinian terrorism 2005",
+        "<B>Israeli</B> deaths due to palestinian terrorism 2005",
+        "List of violent incidents in the <B>Israeli</B>-Palestinian conflict, 2005",
+        "List of violent incidents in the <B>Israeli</B>–Palestinian conflict, 2005",
+        "Terrorism against <B>Israel</B> in 2005",
+        "Terrorist attacks against <B>Israel</B> in 2005",
+        "Terrorist attacks against <B>Israelis</B> in 2005",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict, 2005",
+        "Timeline of the <B>Israeli</B>-Palestinian conflict in 2005",
+        "Timeline of the <B>Israeli</B>–Palestinian conflict, 2005",
+        "Violence against <B>Israel</B> 2005",
+        "Violence against <B>Israel</B> in 2005",
+        "Violence against <B>Israelis</B> 2005",
+        "Violence against <B>Israelis</B> in 2005",
+        "Violence in the <B>Israeli</B>-Palestinian conflict 2005",
+        "Violence in the <B>Israeli</B>-Palestinian conflict in 2005",
+        "Violence in the <B>Israeli</B>–Palestinian conflict 2005"
+      ],
+      "label": [
+        "Timeline of the <B>Israeli</B>–Palestinian conflict in 2005"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Timeline_of_the_Israeli–Palestinian_conflict_in_2005"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2005_in_Israel",
+        "http://dbpedia.org/resource/Category:2005_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2005",
+        "http://dbpedia.org/resource/Category:Political_violence_in_Israel",
+        "http://dbpedia.org/resource/Category:Political_violence_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Terrorism_in_the_Palestinian_territories",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2005",
+        "http://dbpedia.org/resource/Category:Timelines_of_the_Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "1864.3802"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2008–09_Israeli_Basketball_Super_League"
+      ],
+      "redirectlabel": [
+        "2008-09 <B>Israeli</B> Basketball Super League",
+        "2008-2009 <B>Israeli</B> Basketball Super League",
+        "2008–2009 <B>Israeli</B> Basketball Super League",
+        "<B>Israeli</B> Basketball Super League 2008-09",
+        "<B>Israeli</B> Basketball Super League 2008-2009",
+        "<B>Israeli</B> Basketball Super League 2008–09",
+        "<B>Israeli</B> Basketball Super League 2008–2009",
+        "Ligat HaAl (basketball) 2008-09",
+        "Ligat HaAl (basketball) 2008–09",
+        "Ligat Winner 2008-09",
+        "Ligat Winner 2008–09"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Basketball Super League (BSL) 2008-2009 season was the 55th season of the top"
+      ],
+      "label": [
+        "2008–09 <B>Israeli</B> Basketball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2008–09_Israeli_Basketball_Super_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2008–09_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2008–09_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1841.1064"
+      ],
+      "refCount": [
+        "12"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/1994_London_Israeli_Embassy_bombing"
+      ],
+      "redirectlabel": [
+        "1994 <B>Israeli</B> Embassy attack",
+        "1994 London <B>Israeli</B> Embassy attack",
+        "1994 London <B>Israeli</B> embassy attack",
+        "1994 attack on <B>Israeli</B> Embassy in London",
+        "1994 attack on <B>Israeli</B> embassy in London",
+        "1994 attack on the <B>Israeli</B> Embassy in London",
+        "1994 attack on the embassy of <B>Israel</B> in London",
+        "Attack on the embassy of <B>Israel</B> in London",
+        "Attack on the embassy of <B>israel</B> in london",
+        "<B>Israeli</B> Embassy Attack in London",
+        "Jawad Botmeh",
+        "Samar Alami"
+      ],
+      "comment": [
+        "The 1994 London <B>Israeli</B> Embassy bombing was a car bomb attack on 26 July 1994 against the <B>Israeli</B>"
+      ],
+      "label": [
+        "1994 London <B>Israeli</B> Embassy bombing"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/1994_London_Israeli_Embassy_bombing"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1990s_crimes_in_London",
+        "http://dbpedia.org/resource/Category:1990s_trials",
+        "http://dbpedia.org/resource/Category:1994_in_Israel",
+        "http://dbpedia.org/resource/Category:1994_in_London",
+        "http://dbpedia.org/resource/Category:1994_in_international_relations",
+        "http://dbpedia.org/resource/Category:20th_century_in_the_Royal_Borough_of_Kensington_and_Chelsea",
+        "http://dbpedia.org/resource/Category:Attacks_on_buildings_and_structures_in_1994",
+        "http://dbpedia.org/resource/Category:Attacks_on_buildings_and_structures_in_London",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_of_Israel",
+        "http://dbpedia.org/resource/Category:Building_bombings_in_London",
+        "http://dbpedia.org/resource/Category:Car_and_truck_bombings_in_London",
+        "http://dbpedia.org/resource/Category:Improvised_explosive_device_bombings_in_1994",
+        "http://dbpedia.org/resource/Category:Improvised_explosive_device_bombings_in_London",
+        "http://dbpedia.org/resource/Category:Israel–United_Kingdom_relations",
+        "http://dbpedia.org/resource/Category:July_1994_crimes",
+        "http://dbpedia.org/resource/Category:July_1994_events_in_the_United_Kingdom",
+        "http://dbpedia.org/resource/Category:Palestinian_terrorist_incidents_in_Europe",
+        "http://dbpedia.org/resource/Category:Terrorist_incidents_in_the_United_Kingdom_in_1994",
+        "http://dbpedia.org/resource/Category:Trials_in_London"
+      ]
+    },
+    {
+      "score": [
+        "1840.8363"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League_MVP"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Basketball SuperLeague MVP",
+        "<B>Israeli</B> Basketball Super League MVP"
+      ],
+      "comment": [
+        "The <B>Israeli</B> Basketball Premier League MVP, or <B>Israeli</B> Basketball Super League MVP, is an annual"
+      ],
+      "label": [
+        "<B>Israeli</B> Basketball Premier League MVP"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Basketball_Premier_League_MVP"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Basketball_most_valuable_player_awards",
+        "http://dbpedia.org/resource/Category:European_basketball_awards",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League"
+      ]
+    },
+    {
+      "score": [
+        "1818.7799"
+      ],
+      "refCount": [
+        "14"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015–2016_wave_of_violence_in_Israeli–Palestinian_conflict"
+      ],
+      "redirectlabel": [
+        "2015-16 wave of violence in <B>Israeli</B>-Palestinian conflict",
+        "2015-2016 wave of violence in <B>Israeli</B>-Palestinian conflict",
+        "2015–16 wave of violence in <B>Israeli</B>–Palestinian conflict",
+        "2015–2016 wave of violence in <B>Israeli</B>-Palestinian conflict",
+        "<B>Israeli</B>-Palestinian conflict (2015)",
+        "<B>Israeli</B>-Palestinian conflict (2015-16)",
+        "<B>Israeli</B>-Palestinian conflict (2015-2016)",
+        "<B>Israeli</B>-Palestinian conflict (2015-present)",
+        "<B>Israeli</B>–Palestinian conflict (2015)",
+        "<B>Israeli</B>–Palestinian conflict (2015–16)",
+        "<B>Israeli</B>–Palestinian conflict (2015–2016)",
+        "<B>Israeli</B>–Palestinian conflict (2015–present)",
+        "Knife Intifada",
+        "Knife intifada"
+      ],
+      "label": [
+        "2015–2016 wave of violence in <B>Israeli</B>–Palestinian conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015–2016_wave_of_violence_in_Israeli–Palestinian_conflict"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_in_Israel",
+        "http://dbpedia.org/resource/Category:2015_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:2016_in_Israel",
+        "http://dbpedia.org/resource/Category:2016_in_the_State_of_Palestine",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2015",
+        "http://dbpedia.org/resource/Category:Conflicts_in_2016",
+        "http://dbpedia.org/resource/Category:Islamic_State_of_Iraq_and_the_Levant_activities",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict",
+        "http://dbpedia.org/resource/Category:Israel–State_of_Palestine_relations",
+        "http://dbpedia.org/resource/Category:Jewish_nationalism",
+        "http://dbpedia.org/resource/Category:Palestinian_nationalism",
+        "http://dbpedia.org/resource/Category:Palestinian_terrorism",
+        "http://dbpedia.org/resource/Category:Political_history_of_Israel",
+        "http://dbpedia.org/resource/Category:Politics_of_the_State_of_Palestine"
+      ]
+    },
+    {
+      "score": [
+        "1817.508"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/List_of_Israelis"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> association football players",
+        "<B>Israeli</B> basketball players",
+        "<B>Israeli</B> boxers",
+        "<B>Israeli</B> fencers",
+        "<B>Israeli</B> figure skaters",
+        "<B>Israeli</B> football players",
+        "<B>Israeli</B> judokas",
+        "<B>Israeli</B> soccer players",
+        "<B>Israeli</B> tennis players",
+        "List of <B>Israeli</B> Jews"
+      ],
+      "comment": [
+        "This is a list of prominent <B>Israelis</B>."
+      ],
+      "label": [
+        "List of <B>Israelis</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/List_of_Israelis"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Lists_of_Israeli_people"
+      ]
+    },
+    {
+      "score": [
+        "1804.2079"
+      ],
+      "refCount": [
+        "18"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Music_of_Israel"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Arab music",
+        "<B>Israeli</B> classical music",
+        "<B>Israeli</B> folk",
+        "<B>Israeli</B> folk music",
+        "<B>Israeli</B> folk songs",
+        "<B>Israeli</B> music",
+        "<B>Israeli</B> pop and dance music",
+        "Music education in <B>Israel</B>",
+        "Music in <B>Israel</B>",
+        "Shiny Shoe Music"
+      ],
+      "comment": [
+        " addition to creating an <B>Israeli</B> style and sound, <B>Israel's</B> musicians have made significant contributions"
+      ],
+      "label": [
+        "Music of <B>Israel</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Music_of_Israel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+        "http://dbpedia.org/resource/Category:Israeli_culture",
+        "http://dbpedia.org/resource/Category:Israeli_music",
+        "http://dbpedia.org/resource/Category:Middle_Eastern_music"
+      ]
+    },
+    {
+      "score": [
+        "1794.4442"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2016–17_Israeli_Premier_League"
+      ],
+      "redirectlabel": [
+        "2016-17 <B>Israeli</B> Premier League",
+        "2016-2017 <B>Israeli</B> Premier League"
+      ],
+      "typeName": [
+        "FootballLeagueSeason",
+        "SportsSeason",
+        "SportsTeamSeason"
+      ],
+      "comment": [
+        "The 2016–17 <B>Israeli</B> Premier League was the eighteenth season since its introduction in 1999 and the"
+      ],
+      "label": [
+        "2016–17 <B>Israeli</B> Premier League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2016–17_Israeli_Premier_League"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/FootballLeagueSeason",
+        "http://dbpedia.org/ontology/SportsSeason",
+        "http://dbpedia.org/ontology/SportsTeamSeason"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2016–17_in_European_association_football_leagues",
+        "http://dbpedia.org/resource/Category:2016–17_in_Israeli_football_leagues",
+        "http://dbpedia.org/resource/Category:Israeli_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1770.048"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_security_forces"
+      ],
+      "redirectlabel": [
+        "<B>Israel</B> Security Force",
+        "<B>Israel</B> Security Forces",
+        "<B>Israel</B> security establishment",
+        "<B>Israel</B> security forces",
+        "<B>Israeli</B> Security Forces",
+        "<B>Israeli</B> resuce services",
+        "<B>Israeli</B> security establishment",
+        "Security establishment (<B>Israel</B>)"
+      ],
+      "comment": [
+        "Security forces in <B>Israel</B> (also known as <B>Israel</B> security establishment, Hebrew: מערכת הבטחון‎"
+      ],
+      "label": [
+        "<B>Israeli</B> security forces"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_security_forces"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Israeli_Security_Forces"
+      ]
+    },
+    {
+      "score": [
+        "1751.1823"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_checkpoint"
+      ],
+      "redirectlabel": [
+        "IDF checkpoint",
+        "<B>Israel</B> Defence Forces checkpoint",
+        "<B>Israel</B> Defense Force checkpoint",
+        "<B>Israel</B> Defense Forces Checkpoint",
+        "<B>Israel</B> Defense Forces checkpoint",
+        "<B>Israel</B> checkpoint",
+        "<B>Israeli</B> Defense Forces checkpoint",
+        "<B>Israeli</B> military checkpoints"
+      ],
+      "comment": [
+        "-occupied West Bank. The checkpoints have the stated aim of enhancing the security of <B>Israel</B> and <B>Israeli</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> checkpoint"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_checkpoint"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Checkpoints",
+        "http://dbpedia.org/resource/Category:Israeli–Palestinian_conflict"
+      ]
+    },
+    {
+      "score": [
+        "1747.4191"
+      ],
+      "refCount": [
+        "36"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Mapai"
+      ],
+      "redirectlabel": [
+        "Al-Yaum (<B>Israeli</B> newspaper)",
+        "Mapai Party"
+      ],
+      "typeName": [
+        "PoliticalParty",
+        "Organisation",
+        "Agent"
+      ],
+      "comment": [
+        ", and was the dominant force in <B>Israeli</B> politics until its merger into the modern-day <B>Israeli</B> Labor"
+      ],
+      "label": [
+        "Mapai"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Mapai"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/PoliticalParty",
+        "http://dbpedia.org/ontology/Organisation",
+        "http://dbpedia.org/ontology/Agent"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1930_establishments_in_Mandatory_Palestine",
+        "http://dbpedia.org/resource/Category:1968_disestablishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Defunct_political_parties_in_Israel",
+        "http://dbpedia.org/resource/Category:Labor_Zionism",
+        "http://dbpedia.org/resource/Category:Left-wing_nationalist_parties",
+        "http://dbpedia.org/resource/Category:Members_of_the_Labour_and_Socialist_International",
+        "http://dbpedia.org/resource/Category:Poale_Zion",
+        "http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1968",
+        "http://dbpedia.org/resource/Category:Political_parties_established_in_1930",
+        "http://dbpedia.org/resource/Category:Political_parties_in_Mandatory_Palestine",
+        "http://dbpedia.org/resource/Category:Socialist_parties_in_Israel",
+        "http://dbpedia.org/resource/Category:Zionist_political_parties_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1727.5354"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli–Syrian_ceasefire_line_incidents_during_the_Syrian_civil_war"
+      ],
+      "redirectlabel": [
+        "2012 Syrian-<B>Israeli</B> border clashes",
+        "August 2015 <B>Israel</B>-Syria border incident",
+        "August 2015 <B>Israel</B>–Syria border incident",
+        "<B>Israeli</B>-Syrian border incidents during the Syrian Civil War",
+        "<B>Israeli</B>-Syrian ceasefire line incidents during the Syrian Civil War",
+        "<B>Israeli</B>-Syrian ceasefire line incidents during the Syrian civil war",
+        "<B>Israeli</B>-Syrian military collusion during the Syrian Civil War",
+        "<B>Israeli</B>-Syrian military collusions during the Syrian Civil War",
+        "<B>Israeli</B>-Syrian military conflicts during the Syrian Civil War",
+        "<B>Israeli</B>-Syrian military incidents during the Syrian Civil War",
+        "<B>Israeli</B>–Syrian border incidents during the Syrian Civil War",
+        "<B>Israeli</B>–Syrian ceasefire line incidents during the Syrian Civil War",
+        "<B>Israeli</B>–Syrian military collusion during the Syrian Civil War",
+        "<B>Israeli</B>–Syrian military collusions during the Syrian Civil War",
+        "<B>Israeli</B>–Syrian military conflicts during the Syrian Civil War",
+        "<B>Israeli</B>–Syrian military incidents during the Syrian Civil War"
+      ],
+      "label": [
+        "<B>Israeli</B>–Syrian ceasefire line incidents during the Syrian civil war"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli–Syrian_ceasefire_line_incidents_during_the_Syrian_civil_war"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2010s_in_Israel",
+        "http://dbpedia.org/resource/Category:2010s_in_Syria",
+        "http://dbpedia.org/resource/Category:2012_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2013_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2014_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2015_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2016_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2017_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2018_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2019_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2020_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:2020s_in_Israel",
+        "http://dbpedia.org/resource/Category:2020s_in_Syria",
+        "http://dbpedia.org/resource/Category:2021_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Foreign_involvement_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Hezbollah–Israel_conflict",
+        "http://dbpedia.org/resource/Category:Iran–Israel_conflict_during_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Iran–Israel_proxy_conflict",
+        "http://dbpedia.org/resource/Category:Israeli_involvement_in_the_Syrian_civil_war",
+        "http://dbpedia.org/resource/Category:Israeli_military-related_lists",
+        "http://dbpedia.org/resource/Category:Israel–Syria_border",
+        "http://dbpedia.org/resource/Category:Israel–Syria_military_relations",
+        "http://dbpedia.org/resource/Category:Spillover_of_the_Syrian_civil_war"
+      ]
+    },
+    {
+      "score": [
+        "1726.9213"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2006_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "2006 <B>Israel</B> legislative election",
+        "2006 <B>Israeli</B> election",
+        "2006 <B>Israeli</B> elections",
+        "2006 election to the seventeenth Knesset",
+        "<B>Israel</B> 2006 elections",
+        "<B>Israel</B> legislative election, 2006",
+        "<B>Israeli</B> legislative election, 2006",
+        "<B>Israeli</B> legislative elections, 2006",
+        "Seventeenth Knesset"
+      ],
+      "comment": [
+        "Elections for the 17th Knesset were held in <B>Israel</B> on 28 March 2006. The voting resulted in a"
+      ],
+      "label": [
+        "2006 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2006_Israeli_legislative_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2006_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2006_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:2006_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:Ehud_Olmert",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:March_2006_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1726.6188"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2015_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "2015 <B>Israeli</B> elections",
+        "2015 elections in <B>Israel</B>",
+        "20th Knesset elections",
+        "Arab Voters are heading to the polling stations in droves",
+        "Arab voters are heading to the polling stations in droves",
+        "<B>Israel</B> election 2015",
+        "<B>Israeli</B> elections, 2015",
+        "<B>Israeli</B> general election, 2015",
+        "<B>Israeli</B> legislative election, 2015",
+        "<B>Israeli</B> legislative elections, 2015"
+      ],
+      "comment": [
+        "Early elections for the twentieth Knesset were held in <B>Israel</B> on 17 March 2015. Disagreements"
+      ],
+      "label": [
+        "2015 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2015_Israeli_legislative_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2015_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2015_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:2015_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:Benjamin_Netanyahu",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:March_2015_events_in_Asia"
+      ]
+    },
+    {
+      "score": [
+        "1722.4221"
+      ],
+      "refCount": [
+        "50"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Channel_2_(Israel)"
+      ],
+      "redirectlabel": [
+        "Arutz 2",
+        "Channel 2 (<B>Israeli</B> TV channel)",
+        "<B>Israel's</B> Channel 2",
+        "<B>Israel's</B> channel 2",
+        "<B>Israel</B> channel 2",
+        "הערוץ השני",
+        "ערוץ 2"
+      ],
+      "label": [
+        "Channel 2 (<B>Israel</B>)"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Channel_2_(Israel)"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1993_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Channel_2_(Israeli_TV_channel)",
+        "http://dbpedia.org/resource/Category:Defunct_television_channels_in_Israel",
+        "http://dbpedia.org/resource/Category:Hebrew-language_mass_media",
+        "http://dbpedia.org/resource/Category:Mass_media_in_Tel_Aviv",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_disestablished_in_2017",
+        "http://dbpedia.org/resource/Category:Television_channels_and_stations_established_in_1993",
+        "http://dbpedia.org/resource/Category:Television_channels_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1674.4058"
+      ],
+      "refCount": [
+        "11"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2009–10_Israeli_Basketball_Super_League"
+      ],
+      "redirectlabel": [
+        "2009-10 <B>Israeli</B> Basketball Super League",
+        "2009-10 Ligat Winner",
+        "2009-2010 <B>Israeli</B> Basketball Super League",
+        "2009–2010 <B>Israeli</B> Basketball Super League",
+        "<B>Israeli</B> Basketball Super League 2009-10",
+        "<B>Israeli</B> Basketball Super League 2009–10",
+        "Ligat Winner 2009-10",
+        "Ligat Winner 2009–10"
+      ],
+      "comment": [
+        "The 2009–2010 <B>Israeli</B> Basketball Super League (Also known as Ligat Winner) was the 56th season of"
+      ],
+      "label": [
+        "2009–10 <B>Israeli</B> Basketball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2009–10_Israeli_Basketball_Super_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2009–10_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2009–10_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1669.9763"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_Australians"
+      ],
+      "redirectlabel": [
+        "Ausraeli",
+        "Ausraelis",
+        "Australian-<B>Israeli</B>",
+        "<B>Israeli</B> Australian",
+        "<B>Israelis</B> in Australia"
+      ],
+      "typeName": [
+        "EthnicGroup"
+      ],
+      "comment": [
+        " of <B>Israeli</B> descent. There are about 15,000 <B>Israelis</B> in Australia. The majority of <B>Israeli</B>"
+      ],
+      "label": [
+        "<B>Israeli</B> Australians"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_Australians"
+      ],
+      "type": [
+        "http://dbpedia.org/ontology/EthnicGroup"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Australian_people_of_Israeli_descent",
+        "http://dbpedia.org/resource/Category:Israeli_diaspora",
+        "http://dbpedia.org/resource/Category:Israeli_expatriates_in_Australia"
+      ]
+    },
+    {
+      "score": [
+        "1653.6499"
+      ],
+      "refCount": [
+        "92"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Anti-Zionism"
+      ],
+      "redirectlabel": [
+        "8 anti-Zionist Jews",
+        "Anti-<B>Israel</B>",
+        "Anti-<B>Israel</B> bias",
+        "Anti-<B>Israel</B> movements",
+        "Anti-<B>Israeli</B>",
+        "Anti-<B>Israeli</B> Movements",
+        "Anti-<B>Israeli</B> movements",
+        "Anti-<B>Israeli</B> sentiment",
+        "Anti-<B>Israelism</B>",
+        "Anti-Zionest",
+        "Anti-Zionism and anti-Semitism",
+        "Anti-Zionism and anti-semitism",
+        "Anti-Zionism and antisemitism",
+        "Anti-Zionist",
+        "Anti-Zionist Jews",
+        "Anti-Zionist conspiracy theories",
+        "Anti-Zionist movement",
+        "Anti-Zionists",
+        "Anti-<B>israeli</B>",
+        "Anti-semitism and anti-Zionism",
+        "Anti-zionism",
+        "Anti-zionist",
+        "AntiZionism",
+        "Anti Zionism",
+        "Anti <B>israel</B>",
+        "Anti <B>israelism</B>",
+        "Anti zionism",
+        "Antisemitism and anti-Zionism",
+        "Antizionism",
+        "Antizionist",
+        "Christian anti-Zionism",
+        "Christianity and anti-Zionism",
+        "Criticism of Zionism",
+        "Criticisms of Zionism",
+        "Debate over Zionism",
+        "Islam and anti-Zionism",
+        "Israelophobe",
+        "Israelophobia",
+        "Jewish Anti-Zionism",
+        "Jewish Anti Zionism",
+        "Jewish anti-Zionism",
+        "Jewish antizionism",
+        "Jews Against Zionism (organization)",
+        "Muslim anti-Zionism",
+        "Opposition to Zionism",
+        "The World Without Zionism",
+        "The World without Zionism",
+        "Timeline of Jewish Anti-Zionism",
+        "Timeline of antizionism"
+      ],
+      "comment": [
+        " to the State of <B>Israel</B> or, prior to 1948, its establishment. It has also been defined as opposition"
+      ],
+      "label": [
+        "Anti-Zionism"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Anti-Zionism"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Anti-Zionism",
+        "http://dbpedia.org/resource/Category:History_of_Zionism",
+        "http://dbpedia.org/resource/Category:Political_theories"
+      ]
+    },
+    {
+      "score": [
+        "1649.3945"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2003_Israeli_legislative_election"
+      ],
+      "redirectlabel": [
+        "16th Knesset",
+        "2003 <B>Israel</B> legislative election",
+        "2003 <B>Israeli</B> election",
+        "2003 <B>Israeli</B> legislative elections",
+        "2003 Knesset Election",
+        "2003 Knesset election",
+        "<B>Israel</B> legislative election, 2003",
+        "<B>Israeli</B> legislative election, 2003",
+        "Sixteenth Knesset"
+      ],
+      "comment": [
+        "Elections for the 16th Knesset were held in <B>Israel</B> on 28 January 2003. The result was a resounding"
+      ],
+      "label": [
+        "2003 <B>Israeli</B> legislative election"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2003_Israeli_legislative_election"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2003_elections_in_Asia",
+        "http://dbpedia.org/resource/Category:2003_elections_in_Israel",
+        "http://dbpedia.org/resource/Category:2003_in_Israeli_politics",
+        "http://dbpedia.org/resource/Category:January_2003_events_in_Asia",
+        "http://dbpedia.org/resource/Category:Legislative_elections_in_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1635.7258"
+      ],
+      "refCount": [
+        "21"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Prime_Minister_of_Israel"
+      ],
+      "redirectlabel": [
+        "Head of government of <B>Israel</B>",
+        "<B>Israel's</B> Prime Minister",
+        "<B>Israeli</B> PM",
+        "<B>Israeli</B> Prime Minister",
+        "<B>Israeli</B> Prime Ministership",
+        "<B>Israeli</B> prime-minister",
+        "<B>Israeli</B> prime minister",
+        "PM of <B>Israel</B>",
+        "Premier of <B>Israel</B>",
+        "Prime Minister of <B>israel</B>",
+        "Prime minister of <B>Israel</B>",
+        "Prime minister of <B>israel</B>",
+        "Rosh HaMemshala"
+      ],
+      "comment": [
+        "The Prime Minister of <B>Israel</B> (Hebrew: רֹאשׁ הַמֶּמְשָׁלָה, Rosh HaMemshala, lit. Head of the"
+      ],
+      "label": [
+        "Prime Minister of <B>Israel</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Prime_Minister_of_Israel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:1948_establishments_in_Israel",
+        "http://dbpedia.org/resource/Category:Prime_Ministers_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1635.4006"
+      ],
+      "refCount": [
+        "10"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2011_attack_on_the_Israeli_Embassy_in_Egypt"
+      ],
+      "redirectlabel": [
+        "2011 Cairo <B>Israeli</B> embassy attack",
+        "2011 Cairo <B>Israeli</B> embassy attacks",
+        "2011 Cairo mob sacking <B>Israeli</B> Embassy to Egypt",
+        "2011 <B>Israeli</B> embassy attack",
+        "2011 <B>Israeli</B> embassy protest",
+        "2011 attack on <B>Israeli</B> Embassy in Egypt",
+        "2011 attack on <B>Israeli</B> embassy in Egypt",
+        "2011 attack on the <B>Israeli</B> embassy in Cairo",
+        "2011 attack on the <B>Israeli</B> embassy in Egypt",
+        "Attack on the <B>Israeli</B> embassy in Cairo"
+      ],
+      "comment": [
+        "On 9 September 2011, several thousand protesters forcibly entered the <B>Israeli</B> embassy in Giza"
+      ],
+      "label": [
+        "2011 attack on the <B>Israeli</B> Embassy in Egypt"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2011_attack_on_the_Israeli_Embassy_in_Egypt"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2011_crimes_in_Egypt",
+        "http://dbpedia.org/resource/Category:2011_in_international_relations",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_in_Egypt",
+        "http://dbpedia.org/resource/Category:Attacks_on_diplomatic_missions_of_Israel",
+        "http://dbpedia.org/resource/Category:Diplomatic_incidents",
+        "http://dbpedia.org/resource/Category:Egyptian_Crisis_(2011–2014)",
+        "http://dbpedia.org/resource/Category:Egypt–Israel_relations",
+        "http://dbpedia.org/resource/Category:Giza",
+        "http://dbpedia.org/resource/Category:Political_controversies"
+      ]
+    },
+    {
+      "score": [
+        "1632.043"
+      ],
+      "refCount": [
+        "9"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/2013–14_Israeli_Basketball_Super_League"
+      ],
+      "redirectlabel": [
+        "2013-14 <B>Israeli</B> Basketball Super League",
+        "2013-2014 <B>Israeli</B> Basketball Super League",
+        "2013–2014 <B>Israeli</B> Basketball Super League"
+      ],
+      "comment": [
+        "The 2013–2014 <B>Israeli</B> Basketball Super League (Also known as Ligat Loto) was the 60th season of the"
+      ],
+      "label": [
+        "2013–14 <B>Israeli</B> Basketball Super League"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/2013–14_Israeli_Basketball_Super_League"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:2013–14_in_European_basketball_leagues",
+        "http://dbpedia.org/resource/Category:2013–14_in_Israeli_basketball",
+        "http://dbpedia.org/resource/Category:Israeli_Basketball_Premier_League_seasons"
+      ]
+    },
+    {
+      "score": [
+        "1631.8939"
+      ],
+      "refCount": [
+        "16"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Politics_of_Israel"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> Left",
+        "<B>Israeli</B> Politics",
+        "<B>Israeli</B> left-wing",
+        "<B>Israeli</B> left-wing politics",
+        "<B>Israeli</B> politician",
+        "<B>Israeli</B> politics",
+        "<B>Israeli</B> right-wing",
+        "<B>Israeli</B> right-wing politics",
+        "Knesset Lobbies",
+        "Knesset Lobby",
+        "Knesset lobbies",
+        "Knesset lobby",
+        "Lobbying in the Knesset",
+        "Politics in <B>Israel</B>",
+        "Politics of <B>israel</B>"
+      ],
+      "comment": [
+        " several non-Zionist Orthodox religious parties, non-Zionist left-wing groups as well as non-Zionist and anti-Zionist <B>Israeli</B> Arab parties."
+      ],
+      "label": [
+        "Politics of <B>Israel</B>"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Politics_of_Israel"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Government_of_Israel",
+        "http://dbpedia.org/resource/Category:Politics_of_Israel"
+      ]
+    },
+    {
+      "score": [
+        "1626.1031"
+      ],
+      "refCount": [
+        "5"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Israeli_literature"
+      ],
+      "redirectlabel": [
+        "History of <B>Israeli</B> literature",
+        "<B>Israeli</B> poetry",
+        "Literature in <B>Israel</B>",
+        "Literature of <B>Israel</B>"
+      ],
+      "comment": [
+        "<B>Israeli</B> literature is literature written in the State of <B>Israel</B> by <B>Israelis</B>. Most works classed as"
+      ],
+      "label": [
+        "<B>Israeli</B> literature"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Israeli_literature"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Hebrew-language_literature",
+        "http://dbpedia.org/resource/Category:Hebrew_language",
+        "http://dbpedia.org/resource/Category:Israeli_literature"
+      ]
+    },
+    {
+      "score": [
+        "1625.3992"
+      ],
+      "refCount": [
+        "8"
+      ],
+      "resource": [
+        "http://dbpedia.org/resource/Views_on_the_Arab–Israeli_conflict"
+      ],
+      "redirectlabel": [
+        "<B>Israeli</B> views on the Arab-<B>Israeli</B> conflict",
+        "<B>Israeli</B> views on the Arab–<B>Israeli</B> conflict",
+        "Palestinian views on the Arab-<B>Israeli</B> conflict",
+        "Palestinian views on the Arab–<B>Israeli</B> conflict",
+        "Palestinians views on the Arab-<B>Israeli</B> conflict",
+        "Views of the Arab-<B>Israeli</B> conflict",
+        "Views of the Arab–<B>Israeli</B> conflict",
+        "Views on the Arab-<B>Israeli</B> conflict"
+      ],
+      "comment": [
+        " Palestinians put the blame on continuing <B>Israeli</B> settlement activity, but only 20% of the <B>Israelis</B> agreed"
+      ],
+      "label": [
+        "Views on the Arab–<B>Israeli</B> conflict"
+      ],
+      "id": [
+        "http://dbpedia.org/resource/Views_on_the_Arab–Israeli_conflict"
+      ],
+      "category": [
+        "http://dbpedia.org/resource/Category:Arab–Israeli_conflict"
+      ]
+    }
+  ]
+}
