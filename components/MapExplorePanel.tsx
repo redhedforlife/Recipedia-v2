@@ -2,10 +2,11 @@
 
 import Link from "next/link";
 import { ArrowRight, ChevronDown } from "lucide-react";
-import type { ExploreDimension, ExploreExperience, KnowledgeGraphNode } from "@/lib/types";
+import type { ExploreDimension, ExploreProfile, KnowledgeGraphNode } from "@/lib/types";
 
 const filterOrder: Array<{ id: ExploreDimension; label: string }> = [
   { id: "all", label: "All" },
+  { id: "categories", label: "Categories" },
   { id: "families", label: "Families" },
   { id: "dishes", label: "Dishes" },
   { id: "techniques", label: "Techniques" },
@@ -19,7 +20,7 @@ export function MapExplorePanel({
   activeFilter,
   expandedCounts,
   experience,
-  nodesBySlug,
+  nodesById,
   onFilterChange,
   onFocusNode,
   onSeeMore,
@@ -27,8 +28,8 @@ export function MapExplorePanel({
 }: {
   activeFilter: ExploreDimension;
   expandedCounts: Record<string, number>;
-  experience: ExploreExperience;
-  nodesBySlug: Map<string, KnowledgeGraphNode>;
+  experience: ExploreProfile;
+  nodesById: Map<string, KnowledgeGraphNode>;
   onFilterChange: (filter: ExploreDimension) => void;
   onFocusNode: (node: KnowledgeGraphNode) => void;
   onSeeMore: (sectionId: string) => void;
@@ -83,7 +84,7 @@ export function MapExplorePanel({
 
       <div className="map-explore-sections">
         {visibleSections.map((section) => {
-          const visibleCount = expandedCounts[section.id] ?? section.initialVisibleCount ?? Math.min(section.items.length, 6);
+          const visibleCount = expandedCounts[section.id] ?? section.defaultVisibleCount ?? Math.min(section.items.length, 6);
           const visibleItems = section.items.slice(0, visibleCount);
 
           return (
@@ -97,29 +98,29 @@ export function MapExplorePanel({
 
               <div className="map-item-list">
                 {visibleItems.map((item) => {
-                  const graphNode = nodeForItem(item.slug, nodesBySlug);
+                  const graphNode = nodesById.get(item.nodeId);
                   const button = graphNode ? (
-                    <button className="map-item-card" key={item.id} onClick={() => onFocusNode(graphNode)} type="button">
+                    <button className="map-item-card" key={item.nodeId} onClick={() => onFocusNode(graphNode)} type="button">
                       <span className={`entity-chip entity-chip--${item.entityType}`}>{item.eyebrow ?? item.entityType}</span>
-                      <strong>{item.title}</strong>
+                      <strong>{item.label}</strong>
                       <span>{item.description}</span>
-                      <small>{graphNode.label === item.title ? "Focus on map" : `Focus ${graphNode.label}`}</small>
+                      <small>{graphNode.label === item.label ? "Focus on map" : `Focus ${graphNode.label}`}</small>
                     </button>
                   ) : item.href ? (
-                    <Link className="map-item-card" href={item.href} key={item.id}>
+                    <Link className="map-item-card" href={item.href} key={item.nodeId}>
                       <span className={`entity-chip entity-chip--${item.entityType}`}>{item.eyebrow ?? item.entityType}</span>
-                      <strong>{item.title}</strong>
+                      <strong>{item.label}</strong>
                       <span>{item.description}</span>
                       <small>
                         Open detail <ArrowRight size={13} />
                       </small>
                     </Link>
                   ) : (
-                    <div className="map-item-card" key={item.id}>
+                    <div className="map-item-card" key={item.nodeId}>
                       <span className={`entity-chip entity-chip--${item.entityType}`}>{item.eyebrow ?? item.entityType}</span>
-                      <strong>{item.title}</strong>
+                      <strong>{item.label}</strong>
                       <span>{item.description}</span>
-                      <small>Editorial slot</small>
+                      <small>Explore slot</small>
                     </div>
                   );
                   return button;
@@ -140,13 +141,5 @@ export function MapExplorePanel({
         })}
       </div>
     </div>
-  );
-}
-
-function nodeForItem(slug: string, nodesBySlug: Map<string, KnowledgeGraphNode>) {
-  return (
-    nodesBySlug.get(slug) ??
-    nodesBySlug.get(slug.replace(/-/g, " ")) ??
-    nodesBySlug.get(`/${slug}`)
   );
 }

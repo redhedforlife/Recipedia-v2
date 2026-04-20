@@ -1,6 +1,5 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
-import { creators as editorialCreators } from "@/data/editorial/creators";
 import { seedData } from "@/data/lineageSeed";
 import type {
   Category,
@@ -99,7 +98,7 @@ function combineData(local: SeedData): SeedData {
     cookingMethods: mergeById(seedData.cookingMethods, local.cookingMethods),
     difficultyBands: mergeById(seedData.difficultyBands, local.difficultyBands),
     sources: mergeById(seedData.sources, local.sources),
-    creators: mergeById(editorialCreators as Creator[], local.creators),
+    creators: mergeById(seedData.creators as Creator[], local.creators),
     families: [...seedData.families, ...local.families],
     recipes: [...seedData.recipes, ...local.recipes],
     ingredients: mergeById(seedData.ingredients, local.ingredients),
@@ -786,6 +785,7 @@ export function buildSemanticGraph(data: SeedData) {
   data.techniqueCategories.forEach((category) => addNode(techniqueCategoryNode(category, data.techniqueCategories, data.techniques)));
   data.cookingMethods.forEach((method) => addNode(methodNode(method, data.dishFamilyMethods)));
   data.difficultyBands.forEach((difficulty) => addNode(difficultyNode(difficulty, data.families)));
+  data.creators.forEach((creator) => addNode(creatorNode(creator)));
 
   data.ingredients
     .filter((ingredient) => isReferencedIngredient(ingredient.id, data.dishFamilyIngredients, data.recipeIngredients))
@@ -799,7 +799,8 @@ export function buildSemanticGraph(data: SeedData) {
     const recipeCount = recipeCountByFamily.get(family.id) ?? 0;
     const sourceRecipeCount = sourceRecipeCountByFamily.get(family.id) ?? 0;
     const variationCount = variationCountByFamily.get(family.id) ?? 0;
-    const cuisine = family.cuisineId ? cuisineById.get(family.cuisineId) : undefined;
+    const primaryCuisineId = family.primaryCuisineId ?? family.cuisineId;
+    const cuisine = primaryCuisineId ? cuisineById.get(primaryCuisineId) : undefined;
     const categoryId = resolveFamilyCategoryId(family, data.categories);
     const category = categoryId ? categoryById.get(categoryId) : undefined;
     const difficulty = family.difficultyBandId ? difficultyById.get(family.difficultyBandId) : undefined;
@@ -821,11 +822,39 @@ export function buildSemanticGraph(data: SeedData) {
       meta: familyMeta(sourceRecipeCount, variationCount, recipeCount),
       tags,
       canonical: family.isCanonical ?? recipeCount === 0,
-      cuisineId: family.cuisineId,
+      cuisineId: primaryCuisineId,
       categoryId,
       difficultyBandId: family.difficultyBandId,
       primaryMethodId: family.primaryMethodId,
       category: family.category
+    });
+  });
+
+  data.creators.forEach((creator) => {
+    creator.familyLinks.forEach((slug) => {
+      const family = data.families.find((candidate) => candidate.slug === slug);
+      if (!family) return;
+      addEdge({
+        id: `edge-family-creator-${family.id}-${creator.id}`,
+        source: family.id,
+        target: creatorNodeId(creator.id),
+        label: "creator",
+        kind: "family_created_by",
+        strength: creator.popularityScore ? Math.min(1, creator.popularityScore / 100) : 0.7
+      });
+    });
+
+    creator.cuisineLinks.forEach((slug) => {
+      const cuisine = data.cuisines.find((candidate) => candidate.slug === slug);
+      if (!cuisine) return;
+      addEdge({
+        id: `edge-cuisine-creator-${cuisine.id}-${creator.id}`,
+        source: cuisineNodeId(cuisine.id),
+        target: creatorNodeId(creator.id),
+        label: "creator",
+        kind: "cuisine_has_creator",
+        strength: creator.popularityScore ? Math.min(1, creator.popularityScore / 100) : 0.65
+      });
     });
   });
 
@@ -904,15 +933,39 @@ export function buildSemanticGraph(data: SeedData) {
   });
 
   data.families.forEach((family) => {
-    const categoryId = resolveFamilyCategoryId(family, data.categories);
-    if (categoryId) {
+    const primaryCategoryId = resolveFamilyCategoryId(family, data.categories);
+    if (primaryCategoryId) {
       addEdge({
-        id: `edge-category-family-${categoryId}-${family.id}`,
-        source: categoryNodeId(categoryId),
+        id: `edge-category-family-${primaryCategoryId}-${family.id}`,
+        source: categoryNodeId(primaryCategoryId),
         target: family.id,
         label: "dish family",
         kind: "category_contains_dish_family",
         strength: 0.9
+      });
+    }
+
+    const secondaryCategoryIds = (family.secondaryCategoryIds ?? []).filter((id) => id !== primaryCategoryId);
+    secondaryCategoryIds.forEach((secondaryCategoryId) => {
+      addEdge({
+        id: `edge-family-category-associated-${secondaryCategoryId}-${family.id}`,
+        source: categoryNodeId(secondaryCategoryId),
+        target: family.id,
+        label: "also in category",
+        kind: "family_associated_with_category",
+        strength: 0.72
+      });
+    });
+
+    const primaryCuisineId = family.primaryCuisineId ?? family.cuisineId;
+    if (primaryCuisineId) {
+      addEdge({
+        id: `edge-family-cuisine-associated-${primaryCuisineId}-${family.id}`,
+        source: cuisineNodeId(primaryCuisineId),
+        target: family.id,
+        label: "cuisine family",
+        kind: "family_associated_with_cuisine",
+        strength: 0.8
       });
     }
 
@@ -969,6 +1022,17 @@ export function buildSemanticGraph(data: SeedData) {
       label: "method",
       kind: "dish_uses_method",
       strength: relationship.importanceScore
+    });
+  });
+
+  data.cuisineDishFamilies.forEach((relationship) => {
+    addEdge({
+      id: `edge-family-cuisine-link-${relationship.cuisineId}-${relationship.dishFamilyId}`,
+      source: cuisineNodeId(relationship.cuisineId),
+      target: relationship.dishFamilyId,
+      label: "related cuisine",
+      kind: "family_associated_with_cuisine",
+      strength: relationship.relationshipStrength
     });
   });
 
@@ -1050,6 +1114,10 @@ function methodNodeId(id: string) {
 
 function difficultyNodeId(id: string) {
   return `difficulty-${id}`;
+}
+
+function creatorNodeId(id: string) {
+  return `creator-${id}`;
 }
 
 function cuisineNode(cuisine: Cuisine, categories: Category[]): KnowledgeGraphNode {
@@ -1167,6 +1235,19 @@ function difficultyNode(difficulty: DifficultyBand, families: Array<{ difficulty
   };
 }
 
+function creatorNode(creator: Creator): KnowledgeGraphNode {
+  return {
+    id: creatorNodeId(creator.id),
+    label: creator.displayName,
+    kind: "creator",
+    href: `/creators/${creator.slug}`,
+    description: creator.shortBio,
+    meta: creator.region ?? creator.creatorCategory,
+    tags: [creator.creatorCategory, ...(creator.cuisineLinks ?? []).slice(0, 2)].filter(Boolean),
+    canonical: true
+  };
+}
+
 function ingredientNode(
   ingredient: Ingredient,
   relationships: DishFamilyIngredient[],
@@ -1279,19 +1360,24 @@ function resolveTechniqueCategoryId(technique: Pick<Technique, "techniqueGroup" 
   return technique.techniqueGroup ? techniqueCategoryIdsByLabel[technique.techniqueGroup] : undefined;
 }
 
-function resolveFamilyCategoryId(family: { category?: string; categoryId?: string; cuisineId?: string }, categories: Category[]) {
+function resolveFamilyCategoryId(
+  family: { category?: string; categoryId?: string; primaryCategoryId?: string; cuisineId?: string; primaryCuisineId?: string },
+  categories: Category[]
+) {
+  if (family.primaryCategoryId) return family.primaryCategoryId;
   if (family.categoryId) return family.categoryId;
   if (family.category) {
     const explicitMatch = categories.find((category) => category.slug === family.category);
     if (explicitMatch) return explicitMatch.id;
   }
+  const cuisineId = family.primaryCuisineId ?? family.cuisineId;
   if (family.category === "pasta") {
-    return family.cuisineId === "cui-american" ? "cat-american-pasta-casseroles" : "cat-italian-pasta";
+    return cuisineId === "cui-american" ? "cat-american-pasta-casseroles" : "cat-italian-pasta";
   }
   if (family.category === "chili") {
-    return family.cuisineId === "cui-mexican" ? "cat-mexican-stews-braises" : "cat-american-stews";
+    return cuisineId === "cui-mexican" ? "cat-mexican-stews-braises" : "cat-american-stews";
   }
-  return categories.find((category) => category.cuisineId === family.cuisineId && !category.parentCategoryId)?.id;
+  return categories.find((category) => category.cuisineId === cuisineId && !category.parentCategoryId)?.id;
 }
 
 export function buildFamilyGraph(data: SeedData, familyId?: string) {
