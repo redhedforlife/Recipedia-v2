@@ -388,15 +388,27 @@ const families: RecipeFamily[] = seed.dish_families.map((family) => {
   const cuisine = family.primary_cuisine_id ? cuisinesById.get(family.primary_cuisine_id) : undefined;
   const categoryId = familyCategoryIdFor(family);
   const category = categoryId ? categoriesById.get(categoryId) : undefined;
+  const categoryLinks = familyCategoryLinksByFamilyId[family.id] ?? [];
+  const secondaryCategoryIds = categoryLinks
+    .filter((link) => !asBool(link.is_primary) && link.category_id !== categoryId)
+    .map((link) => link.category_id);
+  const ingredientIds = (familyIngredientsById[family.id] ?? []).map((link) => link.ingredient_id);
+  const techniqueIds = (familyTechniquesById[family.id] ?? []).map((link) => link.technique_id);
+
   return {
     id: family.id,
     slug: family.slug,
     displayName: family.name,
     category: category?.slug || "uncategorized",
     categoryId: categoryId || undefined,
+    primaryCategoryId: categoryId || undefined,
+    secondaryCategoryIds,
     cuisine: cuisine?.name || "Global",
     cuisineId: family.primary_cuisine_id || undefined,
+    primaryCuisineId: family.primary_cuisine_id || undefined,
     description: family.description || `${family.name} dish family in the lineage starter dataset.`,
+    ingredientIds,
+    techniqueIds,
     isCanonical: true
   };
 });

@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { CuratedSectionBrowser } from "@/components/CuratedSectionBrowser";
-import { getCreatorProfile } from "@/lib/editorial";
+import { getData } from "@/lib/data";
 
 export default async function CreatorPage({
   params
@@ -9,34 +9,69 @@ export default async function CreatorPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const profile = await getCreatorProfile(slug);
-  if (!profile) notFound();
+  const data = await getData();
+  const creator = data.creators.find((candidate) => candidate.slug === slug);
+  if (!creator) notFound();
+
+  const linkedFamilies = data.families.filter((family) => creator.familyLinks.includes(family.slug)).slice(0, 12);
+  const linkedCuisines = data.cuisines.filter((cuisine) => creator.cuisineLinks.includes(cuisine.slug)).slice(0, 8);
 
   return (
     <main className="container section">
       <Breadcrumbs
         items={[
           { label: "Explore", href: "/" },
-          { label: "American", href: "/cuisines/american" },
-          { label: profile.creator.displayName }
+          { label: creator.displayName }
         ]}
       />
 
       <section className="page-hero page-hero--compact">
         <div className="stack">
-          <p className="eyebrow">{profile.creator.creatorCategory}</p>
-          <h1>{profile.creator.displayName}</h1>
-          <p className="lede">{profile.creator.shortBio}</p>
+          <p className="eyebrow">{creator.creatorCategory}</p>
+          <h1>{creator.displayName}</h1>
+          <p className="lede">{creator.shortBio}</p>
         </div>
         <aside className="hero-rail">
           <div className="card stack">
             <h3>Region</h3>
-            <p className="meta">{profile.creator.region ?? "Global"}</p>
+            <p className="meta">{creator.region ?? "Global"}</p>
           </div>
         </aside>
       </section>
 
-      <CuratedSectionBrowser sections={profile.sections} showFilters={false} />
+      {linkedCuisines.length ? (
+        <section className="section">
+          <div className="section-head">
+            <h2>Linked cuisines</h2>
+          </div>
+          <div className="grid">
+            {linkedCuisines.map((cuisine) => (
+              <Link className="card stack" href={`/cuisines/${cuisine.slug}`} key={cuisine.id}>
+                <span className="eyebrow">Cuisine</span>
+                <h3>{cuisine.displayName}</h3>
+                <p className="meta">{cuisine.description}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      ) : null}
+
+      {linkedFamilies.length ? (
+        <section className="section">
+          <div className="section-head">
+            <h2>Linked dish families</h2>
+          </div>
+          <div className="grid">
+            {linkedFamilies.map((family) => (
+              <Link className="card stack" href={`/families/${family.slug}`} key={family.id}>
+                <span className="eyebrow">Dish family</span>
+                <h3>{family.displayName}</h3>
+                <p className="meta">{family.description}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      ) : null}
     </main>
   );
 }

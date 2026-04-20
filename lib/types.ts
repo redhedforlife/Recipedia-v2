@@ -22,11 +22,16 @@ export type RecipeFamily = RankingSignals & {
   displayName: string;
   category: string;
   categoryId?: string;
+  primaryCategoryId?: string;
+  secondaryCategoryIds?: string[];
   cuisine: string;
   description: string;
   cuisineId?: string;
+  primaryCuisineId?: string;
   difficultyBandId?: string;
   primaryMethodId?: string;
+  ingredientIds?: string[];
+  techniqueIds?: string[];
   isCanonical?: boolean;
 };
 
@@ -248,6 +253,7 @@ export type Creator = RankingSignals & {
 
 export type ExploreDimension =
   | "all"
+  | "categories"
   | "families"
   | "dishes"
   | "techniques"
@@ -256,37 +262,28 @@ export type ExploreDimension =
   | "creators"
   | "recipes";
 
-export type EditorialEntityType =
-  | "cuisine"
-  | "family"
-  | "dish"
-  | "technique"
-  | "ingredient"
-  | "method"
-  | "creator"
-  | "recipe";
+export type ExploreEntityType = "cuisine" | "category" | "family" | "dish" | "technique" | "ingredient" | "method" | "creator" | "recipe";
 
-export type EditorialCardItem = RankingSignals & {
-  id: string;
-  slug: string;
-  title: string;
+export type ExploreItem = {
+  nodeId: string;
+  label: string;
+  entityType: ExploreEntityType;
+  rankScore: number;
   href?: string;
-  description: string;
+  description?: string;
   eyebrow?: string;
   meta?: string;
-  subtitle?: string;
   tags?: string[];
-  entityType: EditorialEntityType;
-  isStub?: boolean;
 };
 
-export type EditorialSection = {
+export type ExploreSection = {
   id: Exclude<ExploreDimension, "all">;
   title: string;
+  entityType: ExploreEntityType;
   description: string;
-  items: EditorialCardItem[];
-  initialVisibleCount?: number;
-  emptyState?: string;
+  items: ExploreItem[];
+  defaultVisibleCount: number;
+  showMoreEnabled: boolean;
 };
 
 export type ExploreStat = {
@@ -294,25 +291,16 @@ export type ExploreStat = {
   value: string;
 };
 
-export type ExploreExperience = {
+export type ExploreProfile = {
+  nodeId: string;
+  nodeType: GraphNodeKind;
   title: string;
   eyebrow: string;
   description: string;
   stats: ExploreStat[];
   highlights: string[];
-  sections: EditorialSection[];
+  sections: ExploreSection[];
   graphHref: string;
-};
-
-export type ExploreLandingCard = EditorialCardItem & {
-  preview: string[];
-  tone: string;
-};
-
-export type ExploreLanding = {
-  featured: ExploreLandingCard[];
-  more: ExploreLandingCard[];
-  spotlight?: ExploreLandingCard;
 };
 
 export type SeedData = {
@@ -357,6 +345,7 @@ export type GraphNodeKind =
   | "cuisine"
   | "category"
   | "family"
+  | "creator"
   | "recipe"
   | "variation"
   | "ingredientCategory"

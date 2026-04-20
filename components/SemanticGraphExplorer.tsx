@@ -34,13 +34,13 @@ import {
   type NodeProps
 } from "@xyflow/react";
 import { MapExplorePanel } from "@/components/MapExplorePanel";
+import { buildExploreProfile } from "@/lib/explore/buildExploreProfile";
+import { scoreNode } from "@/lib/ranking/scoreNode";
 import type {
-  EditorialCardItem,
   ExploreDimension,
-  ExploreExperience,
-  ExploreLanding,
   GraphMode,
   GraphNodeKind,
+  ExploreProfile,
   KnowledgeGraphEdge,
   KnowledgeGraphNode
 } from "@/lib/types";
@@ -96,13 +96,18 @@ const contextEdgeKinds = new Set([
   "dish_uses_technique",
   "dish_uses_method",
   "dish_has_difficulty",
-  "dish_related_to_dish"
+  "dish_related_to_dish",
+  "family_associated_with_category",
+  "family_associated_with_cuisine",
+  "family_created_by",
+  "cuisine_has_creator"
 ]);
 
 const nodeColors: Record<GraphNodeKind, string> = {
   cuisine: "#9f3c2f",
   category: "#5c597f",
   family: "#2f5f79",
+  creator: "#7b5a42",
   recipe: "#59644a",
   variation: "#ba5a35",
   ingredientCategory: "#4f7f6c",
@@ -117,6 +122,7 @@ const kindLabels: Record<GraphNodeKind, string> = {
   cuisine: "Cuisine",
   category: "Category",
   family: "Dish family",
+  creator: "Creator",
   recipe: "Recipe",
   variation: "Variation",
   ingredientCategory: "Ingredient category",
@@ -131,6 +137,7 @@ const kindIcons: Record<GraphNodeKind, ComponentType<{ size?: number }>> = {
   cuisine: MapPinned,
   category: Layers3,
   family: Utensils,
+  creator: Compass,
   recipe: BookOpen,
   variation: Network,
   ingredientCategory: Layers3,
@@ -154,53 +161,33 @@ const hierarchyScopeKinds: GraphNodeKind[] = ["cuisine", "category", "family", "
 const semanticNodeTypes = { semantic: SemanticNode };
 
 export function SemanticGraphExplorer({
-  americanExperience,
-  burgerExperience,
   graph,
-  initialMode = "cuisine",
-  initialFocus = "",
-  landing,
-  landingExperience
+  initialMode = "explore",
+  initialFocus = ""
 }: {
-  americanExperience?: ExploreExperience;
-  burgerExperience?: ExploreExperience;
   graph: SemanticGraph;
   initialMode?: string;
   initialFocus?: string;
-  landing: ExploreLanding;
-  landingExperience: ExploreExperience;
 }) {
   return (
     <ReactFlowProvider>
       <SemanticGraphExplorerInner
-        americanExperience={americanExperience}
-        burgerExperience={burgerExperience}
         graph={graph}
         initialFocus={initialFocus}
         initialMode={initialMode}
-        landing={landing}
-        landingExperience={landingExperience}
       />
     </ReactFlowProvider>
   );
 }
 
 function SemanticGraphExplorerInner({
-  americanExperience,
-  burgerExperience,
   graph,
   initialMode,
-  initialFocus,
-  landing,
-  landingExperience
+  initialFocus
 }: {
-  americanExperience?: ExploreExperience;
-  burgerExperience?: ExploreExperience;
   graph: SemanticGraph;
   initialMode: string;
   initialFocus: string;
-  landing: ExploreLanding;
-  landingExperience: ExploreExperience;
 }) {
   const parsedInitialMode = parseMode(initialMode);
   const defaultSelected = findNodeByFocus(graph.nodes, initialFocus);
@@ -217,16 +204,15 @@ function SemanticGraphExplorerInner({
   const reactFlow = useReactFlow();
 
   const nodesById = useMemo(() => new Map(graph.nodes.map((node) => [node.id, node])), [graph.nodes]);
-  const nodesBySlug = useMemo(() => buildSlugNodeMap(graph.nodes), [graph.nodes]);
   const hierarchyParents = useMemo(() => hierarchyParentMap(graph.edges), [graph.edges]);
-  const hierarchyChildren = useMemo(() => hierarchyChildrenMap(graph.edges), [graph.edges]);
   const scopedNodeId = contextualModes.includes(mode) ? scopeNodeId ?? selectedNodeId : selectedNodeId;
   const breadcrumbNodeId = contextualModes.includes(mode) ? scopeNodeId ?? selectedNodeId : selectedNodeId;
   const trimmedQuery = query.trim().toLowerCase();
   const rootVisibleCount = rootVisibleCounts[mode] ?? 10;
+  const nodeRankScores = useMemo(() => buildNodeRankScores(graph), [graph]);
   const rootNodesForMode = useMemo(
-    () => topNodesForMode(mode, graph.nodes, landing, nodesBySlug).slice(0, rootVisibleCount),
-    [graph.nodes, landing, mode, nodesBySlug, rootVisibleCount]
+    () => topNodesForMode(mode, graph.nodes, nodeRankScores).slice(0, rootVisibleCount),
+    [graph.nodes, mode, nodeRankScores, rootVisibleCount]
   );
   const matchingNodeIds = useMemo(() => {
     if (!trimmedQuery) return new Set<string>();
@@ -249,25 +235,10 @@ function SemanticGraphExplorerInner({
   }, [graph.edges]);
 
   const selectedNode = selectedNodeId ? nodesById.get(selectedNodeId) : undefined;
-  const genericExploreExperience = useMemo(
-    () => (selectedNode ? buildGenericExploreExperience(graph, selectedNode, nodesById, hierarchyParents, hierarchyChildren) : undefined),
-    [graph, hierarchyChildren, hierarchyParents, nodesById, selectedNode]
-  );
-  const currentExploreExperience = useMemo(() => {
-    if (mode !== "explore") return undefined;
-    if (!selectedNode) return landingExperience;
-    if (isAmericanNode(selectedNode, nodesBySlug)) return americanExperience ?? landingExperience;
-    if (isBurgerNode(selectedNode, nodesBySlug)) return burgerExperience ?? genericExploreExperience;
-    return genericExploreExperience;
-  }, [
-    americanExperience,
-    burgerExperience,
-    genericExploreExperience,
-    landingExperience,
-    mode,
-    nodesBySlug,
-    selectedNode
-  ]);
+  const currentExploreExperience = useMemo<ExploreProfile | undefined>(() => {
+    if (mode !== "explore" || !selectedNode) return undefined;
+    return buildExploreProfile(selectedNode, graph);
+  }, [graph, mode, selectedNode]);
   const visibleExploreSections = useMemo(
     () =>
       currentExploreExperience?.sections.filter((section) => exploreFilter === "all" || section.id === exploreFilter) ?? [],
@@ -283,9 +254,9 @@ function SemanticGraphExplorerInner({
       const ids = new Set<string>([selectedNode.id]);
       addAncestors(ids, selectedNode.id, hierarchyParents);
       visibleExploreSections.forEach((section) => {
-        const visibleCount = exploreVisibleCounts[section.id] ?? section.initialVisibleCount ?? Math.min(section.items.length, 6);
+        const visibleCount = exploreVisibleCounts[section.id] ?? section.defaultVisibleCount ?? Math.min(section.items.length, 6);
         section.items.slice(0, visibleCount).forEach((item) => {
-          const node = nodeForSlug(item.slug, nodesBySlug);
+          const node = nodesById.get(item.nodeId);
           if (!node) return;
           ids.add(node.id);
           addAncestors(ids, node.id, hierarchyParents);
@@ -314,7 +285,6 @@ function SemanticGraphExplorerInner({
     matchingNodeIds,
     mode,
     nodesById,
-    nodesBySlug,
     rootNodesForMode,
     scopedNodeId,
     selectedNode,
@@ -484,7 +454,7 @@ function SemanticGraphExplorerInner({
                 </button>
               ))}
             </div>
-            {rootNodesForMode.length < topNodesForMode(mode, graph.nodes, landing, nodesBySlug).length ? (
+            {rootNodesForMode.length < topNodesForMode(mode, graph.nodes, nodeRankScores).length ? (
               <button
                 className="ghost-button"
                 onClick={() =>
@@ -631,14 +601,14 @@ function SemanticGraphExplorerInner({
             activeFilter={exploreFilter}
             expandedCounts={exploreVisibleCounts}
             experience={currentExploreExperience}
-            nodesBySlug={nodesBySlug}
+            nodesById={nodesById}
             onFilterChange={setExploreFilter}
             onFocusNode={focusExploreNode}
             onSeeMore={(sectionId) =>
               setExploreVisibleCounts((current) => {
                 const section = currentExploreExperience.sections.find((entry) => entry.id === sectionId);
                 if (!section) return current;
-                const currentCount = current[sectionId] ?? section.initialVisibleCount ?? Math.min(section.items.length, 6);
+                const currentCount = current[sectionId] ?? section.defaultVisibleCount ?? Math.min(section.items.length, 6);
                 return {
                   ...current,
                   [sectionId]: Math.min(currentCount + 5, section.items.length)
@@ -915,6 +885,14 @@ function familyIdsForContext(
     collectHierarchyDescendants(selected.id, hierarchyChildren).forEach((id) => {
       if (graph.nodes.find((node) => node.id === id)?.kind === "family") familyIds.add(id);
     });
+    graph.edges.forEach((edge) => {
+      if (selected.kind === "cuisine" && edge.kind === "family_associated_with_cuisine" && edge.source === selected.id) {
+        familyIds.add(edge.target);
+      }
+      if (selected.kind === "category" && edge.kind === "family_associated_with_category" && edge.source === selected.id) {
+        familyIds.add(edge.target);
+      }
+    });
     return familyIds;
   }
 
@@ -1013,6 +991,7 @@ function modeForNode(node: KnowledgeGraphNode): GraphMode {
 }
 
 function modeForClick(node: KnowledgeGraphNode, currentMode: GraphMode): GraphMode {
+  if (node.kind === "cuisine") return "explore";
   if (contextualModes.includes(currentMode) && hierarchyScopeKinds.includes(node.kind)) {
     return currentMode;
   }
@@ -1141,6 +1120,7 @@ function kindSort(kind: GraphNodeKind) {
     "cuisine",
     "category",
     "family",
+    "creator",
     "recipe",
     "variation",
     "ingredientCategory",
@@ -1167,142 +1147,10 @@ function edgeColor(edge: KnowledgeGraphEdge) {
   if (edge.kind === "dish_uses_method") return "#7470a2";
   if (edge.kind === "dish_has_difficulty") return "#9a6581";
   if (edge.kind === "dish_related_to_dish") return "#8b8378";
+  if (edge.kind === "family_associated_with_category") return "#6888a0";
+  if (edge.kind === "family_associated_with_cuisine") return "#ad664f";
+  if (edge.kind === "family_created_by" || edge.kind === "cuisine_has_creator") return "#8b6a52";
   return "#968b80";
-}
-
-function buildGenericExploreExperience(
-  graph: SemanticGraph,
-  selectedNode: KnowledgeGraphNode,
-  nodesById: Map<string, KnowledgeGraphNode>,
-  hierarchyParents: Map<string, string>,
-  hierarchyChildren: Map<string, Set<string>>
-): ExploreExperience {
-  const familyIds = familyIdsForContext(graph, selectedNode, hierarchyParents, hierarchyChildren);
-  const familyNodes = Array.from(familyIds)
-    .map((id) => nodesById.get(id))
-    .filter((node): node is KnowledgeGraphNode => Boolean(node))
-    .filter((node) => node.id !== selectedNode.id)
-    .sort(compareGraphNodes);
-
-  const recipeNodes = Array.from(familyIds)
-    .flatMap((familyId) => Array.from(collectHierarchyDescendants(familyId, hierarchyChildren)))
-    .map((id) => nodesById.get(id))
-    .filter((node): node is KnowledgeGraphNode => Boolean(node))
-    .filter((node) => node.kind === "recipe" || node.kind === "variation")
-    .sort(compareGraphNodes);
-
-  const ingredientNodes = relatedContextNodes(graph, familyIds, "dish_uses_ingredient", nodesById);
-  const techniqueNodes = relatedContextNodes(graph, familyIds, "dish_uses_technique", nodesById);
-  const methodNodes = relatedContextNodes(graph, familyIds, "dish_uses_method", nodesById);
-  const difficultyNodes = relatedContextNodes(graph, familyIds, "dish_has_difficulty", nodesById);
-
-  const sections: ExploreExperience["sections"] = [];
-  if (familyNodes.length) {
-    sections.push({
-      id: "families",
-      title: "Top families",
-      description: "The strongest family nodes connected to what you selected.",
-      initialVisibleCount: 6,
-      items: familyNodes.slice(0, 18).map((node) => graphNodeCard(node, "family"))
-    });
-  }
-  if (recipeNodes.length) {
-    sections.push({
-      id: "dishes",
-      title: "Top dishes",
-      description: "The recipe and variation leaves most closely tied to this branch.",
-      initialVisibleCount: 6,
-      items: recipeNodes.slice(0, 18).map((node) => graphNodeCard(node, "dish"))
-    });
-  }
-  if (techniqueNodes.length) {
-    sections.push({
-      id: "techniques",
-      title: "Top techniques",
-      description: "Technique nodes connected through the current family context.",
-      initialVisibleCount: 5,
-      items: techniqueNodes.slice(0, 18).map((node) => graphNodeCard(node, "technique"))
-    });
-  }
-  if (ingredientNodes.length) {
-    sections.push({
-      id: "ingredients",
-      title: "Top ingredients",
-      description: "Ingredients that show up repeatedly around this part of the map.",
-      initialVisibleCount: 6,
-      items: ingredientNodes.slice(0, 18).map((node) => graphNodeCard(node, "ingredient"))
-    });
-  }
-  if (methodNodes.length) {
-    sections.push({
-      id: "methods",
-      title: "Top methods",
-      description: "Methods linked through the families in this neighborhood.",
-      initialVisibleCount: 5,
-      items: methodNodes.slice(0, 18).map((node) => graphNodeCard(node, "method"))
-    });
-  }
-  if (difficultyNodes.length) {
-    sections.push({
-      id: "recipes",
-      title: "Difficulty context",
-      description: "Difficulty cues connected to this branch of the graph.",
-      initialVisibleCount: 4,
-      items: difficultyNodes.slice(0, 12).map((node) => graphNodeCard(node, "recipe"))
-    });
-  }
-
-  return {
-    title: selectedNode.label,
-    eyebrow: `${kindLabels[selectedNode.kind]} in Explore`,
-    description:
-      selectedNode.description ??
-      "Explore this node across the most connected families, dishes, techniques, ingredients, and methods around it.",
-    highlights: selectedNode.tags?.slice(0, 3) ?? [],
-    stats: [
-      { label: "Families", value: String(familyNodes.length) },
-      { label: "Dishes", value: String(recipeNodes.length) },
-      { label: "Techniques", value: String(techniqueNodes.length) }
-    ],
-    sections,
-    graphHref: selectedNode.href
-  };
-}
-
-function relatedContextNodes(
-  graph: SemanticGraph,
-  familyIds: Set<string>,
-  edgeKind: string,
-  nodesById: Map<string, KnowledgeGraphNode>
-) {
-  const ids = new Set<string>();
-  graph.edges.forEach((edge) => {
-    if (edge.kind !== edgeKind || !familyIds.has(edge.source)) return;
-    ids.add(edge.target);
-  });
-  return Array.from(ids)
-    .map((id) => nodesById.get(id))
-    .filter((node): node is KnowledgeGraphNode => Boolean(node))
-    .sort(compareGraphNodes);
-}
-
-function graphNodeCard(node: KnowledgeGraphNode, entityType: EditorialCardItem["entityType"]): EditorialCardItem {
-  return {
-    id: `graph-card-${node.id}`,
-    slug: node.href.split("/").filter(Boolean).pop() ?? node.label.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
-    title: node.label,
-    href: node.href,
-    description: node.description ?? node.meta ?? `Explore ${node.label}.`,
-    eyebrow: kindLabels[node.kind],
-    meta: node.meta,
-    tags: node.tags?.slice(0, 3),
-    entityType,
-    priorityScore: nodePriority(node)
-  };
-}
-
-function compareGraphNodes(left: KnowledgeGraphNode, right: KnowledgeGraphNode) {
-  return nodePriority(right) - nodePriority(left) || left.label.localeCompare(right.label);
 }
 
 function nodePriority(node: KnowledgeGraphNode) {
@@ -1317,25 +1165,16 @@ function nodePriority(node: KnowledgeGraphNode) {
   return score;
 }
 
-function nodeForSlug(slug: string, nodesBySlug: Map<string, KnowledgeGraphNode>) {
-  return nodesBySlug.get(slug) ?? nodesBySlug.get(slug.replace(/-/g, " "));
-}
-
 function topNodesForMode(
   mode: GraphMode,
   nodes: KnowledgeGraphNode[],
-  landing: ExploreLanding,
-  nodesBySlug: Map<string, KnowledgeGraphNode>
+  nodeRankScores: Map<string, number>
 ) {
-  if (mode === "explore" || mode === "cuisine") {
-    return [...landing.featured, ...landing.more]
-      .map((item) => nodeForSlug(item.slug, nodesBySlug))
-      .filter((node): node is KnowledgeGraphNode => Boolean(node));
-  }
-
-  const kind =
-    mode === "dish"
-      ? "recipe"
+  const kind: GraphNodeKind =
+    mode === "explore" || mode === "cuisine"
+      ? "cuisine"
+      : mode === "dish"
+        ? "family"
       : mode === "ingredient"
         ? "ingredient"
         : mode === "technique"
@@ -1344,7 +1183,13 @@ function topNodesForMode(
             ? "difficulty"
             : "method";
 
-  return nodes.filter((node) => node.kind === kind).sort(compareGraphNodes);
+  return nodes
+    .filter((node) => node.kind === kind)
+    .sort((left, right) => {
+      const leftScore = nodeRankScores.get(left.id) ?? nodePriority(left);
+      const rightScore = nodeRankScores.get(right.id) ?? nodePriority(right);
+      return rightScore - leftScore || left.label.localeCompare(right.label);
+    });
 }
 
 function launchpadLabel(mode: GraphMode) {
@@ -1364,25 +1209,29 @@ function launchpadChipKind(mode: GraphMode): "cuisine" | "dish" | "ingredient" |
   return "method";
 }
 
-function buildSlugNodeMap(nodes: KnowledgeGraphNode[]) {
-  const map = new Map<string, KnowledgeGraphNode>();
-  nodes.forEach((node) => {
-    const hrefSlug = node.href.split("/").filter(Boolean).pop();
-    if (hrefSlug) map.set(hrefSlug, node);
-    map.set(node.label.toLowerCase().replace(/[^a-z0-9]+/g, "-"), node);
+function buildNodeRankScores(graph: SemanticGraph) {
+  const degree = new Map<string, number>();
+  graph.nodes.forEach((node) => degree.set(node.id, 0));
+  graph.edges.forEach((edge) => {
+    degree.set(edge.source, (degree.get(edge.source) ?? 0) + 1);
+    degree.set(edge.target, (degree.get(edge.target) ?? 0) + 1);
   });
-  return map;
-}
+  const maxDegree = Math.max(...Array.from(degree.values()), 1);
 
-function isAmericanNode(node: KnowledgeGraphNode | undefined, nodesBySlug: Map<string, KnowledgeGraphNode>) {
-  if (!node) return false;
-  const american = nodesBySlug.get("american");
-  return node.id === american?.id;
-}
-
-function isBurgerNode(node: KnowledgeGraphNode | undefined, nodesBySlug: Map<string, KnowledgeGraphNode>) {
-  if (!node) return false;
-  const burgerCategory = nodesBySlug.get("burgers");
-  const burgerFamily = nodesBySlug.get("hamburger");
-  return node.id === burgerCategory?.id || node.id === burgerFamily?.id;
+  const scores = new Map<string, number>();
+  graph.nodes.forEach((node) => {
+    const ranked = scoreNode({
+      node,
+      degree: degree.get(node.id) ?? 0,
+      maxDegree,
+      hasDescription: Boolean(node.description),
+      hasMeta: Boolean(node.meta),
+      tagCount: node.tags?.length ?? 0,
+      canonical: node.canonical !== false,
+      kind: node.kind,
+      manualBoost: 0
+    });
+    scores.set(node.id, ranked.rankScore);
+  });
+  return scores;
 }

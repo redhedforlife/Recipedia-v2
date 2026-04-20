@@ -1,10 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowRight, Network } from "lucide-react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { CuratedSectionBrowser } from "@/components/CuratedSectionBrowser";
 import { RecipeCard } from "@/components/RecipeCard";
-import { getAmericanExploreExperience } from "@/lib/editorial";
 import { getCuisine, getData } from "@/lib/data";
 
 export default async function CuisinePage({
@@ -13,62 +10,6 @@ export default async function CuisinePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-
-  if (slug === "american") {
-    const experience = await getAmericanExploreExperience();
-    if (!experience) notFound();
-
-    return (
-      <main className="container section">
-        <Breadcrumbs
-          items={[
-            { label: "Explore", href: "/" },
-            { label: "American" }
-          ]}
-        />
-
-        <section className="page-hero page-hero--editorial">
-          <div className="stack">
-            <p className="eyebrow">{experience.eyebrow}</p>
-            <h1>{experience.title}</h1>
-            <p className="lede">{experience.description}</p>
-            <div className="tag-list">
-              {experience.highlights.map((highlight) => (
-                <span className="tag" key={highlight}>
-                  {highlight}
-                </span>
-              ))}
-            </div>
-          </div>
-
-          <aside className="hero-rail">
-            <div className="card stack">
-              <h3>Quick stats</h3>
-              <div className="stats-grid">
-                {experience.stats.map((stat) => (
-                  <div className="stat-tile" key={stat.label}>
-                    <strong>{stat.value}</strong>
-                    <span>{stat.label}</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-            <div className="card stack">
-              <h3>Start here</h3>
-              <Link className="button" href="/families/burgers">
-                Open Burgers <ArrowRight size={15} />
-              </Link>
-              <Link className="ghost-button" href={experience.graphHref}>
-                Open map for American <Network size={15} />
-              </Link>
-            </div>
-          </aside>
-        </section>
-
-        <CuratedSectionBrowser sections={experience.sections} />
-      </main>
-    );
-  }
 
   const cuisineData = await getCuisine(slug);
   const data = await getData();
