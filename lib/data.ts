@@ -1126,7 +1126,7 @@ function cuisineNode(cuisine: Cuisine, categories: Category[]): KnowledgeGraphNo
     id: cuisineNodeId(cuisine.id),
     label: cuisine.displayName,
     kind: "cuisine",
-    href: `/graph?mode=cuisine&focus=${cuisine.slug}`,
+    href: `/graph?mode=dish&focus=${cuisine.slug}`,
     description: cuisine.description,
     meta: `${categoryCount} categories`,
     tags: cuisine.regionGroup ? [cuisine.regionGroup] : [],

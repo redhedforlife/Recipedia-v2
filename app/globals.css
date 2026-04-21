@@ -428,7 +428,7 @@ p {
 
 .graph-toolbar {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 8px;
 }
 
@@ -541,6 +541,22 @@ p {
   border-color: var(--node-color);
   box-shadow: 0 20px 42px rgba(49, 51, 47, 0.18);
   background: color-mix(in srgb, var(--node-color) 4%, rgba(255, 253, 248, 0.98));
+}
+
+.semantic-node-role-context {
+  opacity: 0.76;
+  background: rgba(246, 242, 235, 0.98);
+}
+
+.semantic-node-role-selected {
+  border-width: 2px;
+  border-left-width: 6px;
+  box-shadow: 0 24px 44px rgba(49, 51, 47, 0.2);
+  background: color-mix(in srgb, var(--node-color) 8%, rgba(255, 253, 248, 0.99));
+}
+
+.semantic-node-role-result {
+  opacity: 0.96;
 }
 
 .semantic-node.dimmed {
@@ -1234,7 +1250,7 @@ p {
   }
 
   .graph-toolbar {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .graph-filter-stack {

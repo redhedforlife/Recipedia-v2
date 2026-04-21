@@ -1,4 +1,5 @@
 import { SemanticGraphExplorer } from "@/components/SemanticGraphExplorer";
+import { buildIngredientFilterIndex } from "@/lib/ingredients/effectiveIngredients";
 import { buildSemanticGraph, getData } from "@/lib/data";
 
 export default async function GraphPage({
@@ -9,10 +10,16 @@ export default async function GraphPage({
   const { focus, mode } = await searchParams;
   const data = await getData();
   const graph = buildSemanticGraph(data);
+  const ingredientFilterIndex = buildIngredientFilterIndex(data);
 
   return (
     <main>
-      <SemanticGraphExplorer graph={graph} initialFocus={focus} initialMode={mode} />
+      <SemanticGraphExplorer
+        graph={graph}
+        ingredientFilterIndex={ingredientFilterIndex}
+        initialFocus={focus}
+        initialMode={mode}
+      />
     </main>
   );
 }
