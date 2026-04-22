@@ -1,7 +1,7 @@
-import { promises as fs } from "node:fs";
-import path from "node:path";
-import { seedData } from "@/data/lineageSeed";
+import type { Prisma } from "@prisma/client";
 import { loadPublishedSeedData } from "@/lib/published/seedAdapter";
+import { prisma } from "@/lib/db";
+import { loadGraphFromDatabase, loadSeedDataFromDatabase } from "@/lib/data/dbSeed";
 import type {
   Category,
   Creator,
@@ -27,12 +27,7 @@ import type {
   TechniqueCategory
 } from "@/lib/types";
 
-type LocalData = Partial<SeedData>;
-
-const storagePath = path.join(process.cwd(), "storage", "local-data.json");
-let localMutationQueue = Promise.resolve();
-
-const emptyLocalData = (): SeedData => ({
+const emptySeedData = (): SeedData => ({
   cuisines: [],
   categories: [],
   ingredientCategories: [],
@@ -58,96 +53,40 @@ const emptyLocalData = (): SeedData => ({
   relationships: []
 });
 
-let publishedSeedDataCache: SeedData = emptyLocalData();
-
-async function ensureStorage() {
-  await fs.mkdir(path.dirname(storagePath), { recursive: true });
-  try {
-    await fs.access(storagePath);
-  } catch {
-    await fs.writeFile(storagePath, JSON.stringify(emptyLocalData(), null, 2));
-  }
-}
-
-async function readLocalData(): Promise<SeedData> {
-  await ensureStorage();
-  const file = await fs.readFile(storagePath, "utf8");
-  if (!file.trim()) return emptyLocalData();
-  const parsed = JSON.parse(file) as LocalData;
-  return {
-    ...emptyLocalData(),
-    ...parsed
-  };
-}
-
-async function writeLocalData(data: SeedData) {
-  await ensureStorage();
-  const tempPath = `${storagePath}.${process.pid}.tmp`;
-  await fs.writeFile(tempPath, JSON.stringify(data, null, 2));
-  await fs.rename(tempPath, storagePath);
-}
+let dbCache: { data: SeedData; loadedAt: number } | undefined;
+const DB_CACHE_TTL_MS = Number(process.env.RECIPEDIA_DB_CACHE_TTL_MS ?? "5000");
 
 export async function getData(): Promise<SeedData> {
-  const [local, published] = await Promise.all([readLocalData(), loadPublishedSeedData()]);
-  publishedSeedDataCache = published;
-  return combineData(local);
+  const now = Date.now();
+  if (dbCache && now - dbCache.loadedAt < DB_CACHE_TTL_MS) {
+    return dbCache.data;
+  }
+
+  const data = await loadSeedDataFromDatabase();
+  if (hasDataRows(data)) {
+    dbCache = { data, loadedAt: now };
+    return data;
+  }
+
+  if (process.env.RECIPEDIA_ALLOW_JSON_CACHE === "true") {
+    const published = await loadPublishedSeedData();
+    dbCache = { data: published, loadedAt: now };
+    return published;
+  }
+
+  return emptySeedData();
 }
 
-function combineData(local: SeedData): SeedData {
-  const published = publishedSeedDataCache;
-  return {
-    cuisines: mergeById(mergeById(seedData.cuisines, published.cuisines), local.cuisines),
-    categories: mergeById(mergeById(seedData.categories, published.categories), local.categories),
-    ingredientCategories: mergeById(
-      mergeById(seedData.ingredientCategories, published.ingredientCategories),
-      local.ingredientCategories
-    ),
-    techniqueCategories: mergeById(mergeById(seedData.techniqueCategories, published.techniqueCategories), local.techniqueCategories),
-    cookingMethods: mergeById(mergeById(seedData.cookingMethods, published.cookingMethods), local.cookingMethods),
-    difficultyBands: mergeById(mergeById(seedData.difficultyBands, published.difficultyBands), local.difficultyBands),
-    sources: mergeById(mergeById(seedData.sources, published.sources), local.sources),
-    creators: mergeById(mergeById(seedData.creators as Creator[], published.creators), local.creators),
-    families: [...published.families, ...seedData.families, ...local.families],
-    recipes: [...published.recipes, ...seedData.recipes, ...local.recipes],
-    ingredients: mergeById(mergeById(seedData.ingredients, published.ingredients), local.ingredients),
-    techniques: mergeById(mergeById(seedData.techniques, published.techniques), local.techniques),
-    cuisineDishFamilies: [...published.cuisineDishFamilies, ...seedData.cuisineDishFamilies, ...local.cuisineDishFamilies],
-    dishFamilyIngredients: [...published.dishFamilyIngredients, ...seedData.dishFamilyIngredients, ...local.dishFamilyIngredients],
-    dishFamilyTechniques: [...published.dishFamilyTechniques, ...seedData.dishFamilyTechniques, ...local.dishFamilyTechniques],
-    dishFamilyMethods: [...published.dishFamilyMethods, ...seedData.dishFamilyMethods, ...local.dishFamilyMethods],
-    dishFamilyRelatedDishFamilies: [
-      ...published.dishFamilyRelatedDishFamilies,
-      ...seedData.dishFamilyRelatedDishFamilies,
-      ...local.dishFamilyRelatedDishFamilies
-    ],
-    recipeIngredients: [...published.recipeIngredients, ...seedData.recipeIngredients, ...local.recipeIngredients],
-    steps: [...published.steps, ...seedData.steps, ...local.steps],
-    recipeTechniques: [...published.recipeTechniques, ...seedData.recipeTechniques, ...local.recipeTechniques],
-    changes: [...published.changes, ...seedData.changes, ...local.changes],
-    cookReports: [...published.cookReports, ...seedData.cookReports, ...local.cookReports],
-    relationships: [...published.relationships, ...seedData.relationships, ...local.relationships]
-  };
+export async function getGraphData() {
+  const graph = await loadGraphFromDatabase();
+  if (graph.nodes.length > 0) return graph;
+
+  const data = await getData();
+  return buildSemanticGraph(data);
 }
 
-async function mutateLocalData<T>(mutator: (local: SeedData) => Promise<T> | T): Promise<T> {
-  const run = localMutationQueue.then(async () => {
-    publishedSeedDataCache = await loadPublishedSeedData();
-    const local = await readLocalData();
-    const result = await mutator(local);
-    await writeLocalData(local);
-    return result;
-  });
-  localMutationQueue = run.then(
-    () => undefined,
-    () => undefined
-  );
-  return run;
-}
-
-function mergeById<T extends { id: string }>(base: T[], extra: T[]) {
-  const byId = new Map(base.map((item) => [item.id, item]));
-  extra.forEach((item) => byId.set(item.id, item));
-  return Array.from(byId.values());
+function hasDataRows(data: SeedData) {
+  return data.recipes.length + data.families.length + data.ingredients.length + data.cuisines.length > 0;
 }
 
 export function slugify(value: string) {
@@ -412,58 +351,74 @@ export async function createVariation(input: {
   steps: string[];
   note: string;
 }) {
-  return mutateLocalData(async (local) => {
-    const data = combineData(local);
-    const parent = data.recipes.find((recipe) => recipe.slug === input.parentSlug);
-    if (!parent) throw new Error("Parent recipe was not found.");
+  const data = await getData();
+  const parent = data.recipes.find((recipe) => recipe.slug === input.parentSlug);
+  if (!parent) throw new Error("Parent recipe was not found.");
 
-    const timestamp = new Date().toISOString();
-    const slugBase = slugify(input.title || `${parent.title} variation`);
-    const existingSlugs = new Set(data.recipes.map((recipe) => recipe.slug));
-    const slug = uniqueSlug(slugBase, existingSlugs);
-    const recipeId = `rec-local-${Date.now()}`;
+  const slugBase = slugify(input.title || `${parent.title} variation`);
+  const existingSlugs = new Set(data.recipes.map((recipe) => recipe.slug));
+  const slug = uniqueSlug(slugBase, existingSlugs);
 
-    const recipe: Recipe = {
-      id: recipeId,
-      slug,
-      recipeFamilyId: parent.recipeFamilyId,
-      parentRecipeId: parent.id,
-      createdByUserId: "user-local",
-      title: input.title,
-      description: input.description,
-      serves: parent.serves,
-      prepTimeMinutes: parent.prepTimeMinutes,
-      cookTimeMinutes: parent.cookTimeMinutes,
-      totalTimeMinutes: parent.totalTimeMinutes,
-      isSourceRecipe: false,
-      isUserVariation: true,
-      variationKind: "personal",
-      tags: [...new Set([...parent.tags, "variation"])],
-      createdAt: timestamp,
-      updatedAt: timestamp
-    };
+  const parentIngredients = data.recipeIngredients
+    .filter((item) => item.recipeId === parent.id)
+    .sort((a, b) => a.sortOrder - b.sortOrder)
+    .map((item) => item.rawText);
+  const parentSteps = data.steps
+    .filter((step) => step.recipeId === parent.id)
+    .sort((a, b) => a.stepNumber - b.stepNumber)
+    .map((step) => step.instructionText);
+  const inheritedTechniques = data.recipeTechniques
+    .filter((item) => item.recipeId === parent.id)
+    .map((item) => item.techniqueId);
 
-    const parentIngredients = data.recipeIngredients
-      .filter((item) => item.recipeId === parent.id)
-      .sort((a, b) => a.sortOrder - b.sortOrder)
-      .map((item) => item.rawText);
-    const parentSteps = data.steps
-      .filter((step) => step.recipeId === parent.id)
-      .sort((a, b) => a.stepNumber - b.stepNumber)
-      .map((step) => step.instructionText);
+  const recipe = await prisma.$transaction(async (tx) => {
+    const user = await ensureSystemUser(tx);
+    const created = await tx.recipe.create({
+      data: {
+        slug,
+        recipeFamilyId: parent.recipeFamilyId,
+        dishId: await resolveDishIdForRecipe(tx, parent.id),
+        parentRecipeId: parent.id,
+        createdByUserId: user.id,
+        title: input.title,
+        description: input.description,
+        serves: parent.serves,
+        prepTimeMinutes: parent.prepTimeMinutes,
+        cookTimeMinutes: parent.cookTimeMinutes,
+        totalTimeMinutes: parent.totalTimeMinutes,
+        isSourceRecipe: false,
+        isUserVariation: true
+      }
+    });
 
-    const ingredientRecords = await ingredientRowsForVariation(recipeId, input.ingredients, data, local);
-    const stepRecords: RecipeStep[] = input.steps
+    const ingredientRecords = await ingredientRowsForVariation(tx, created.id, input.ingredients);
+    if (ingredientRecords.length) {
+      await tx.recipeIngredient.createMany({ data: ingredientRecords });
+    }
+
+    const stepRecords = input.steps
       .filter(Boolean)
       .map((instructionText, index) => ({
-        id: `step-${recipeId}-${index + 1}`,
-        recipeId,
+        recipeId: created.id,
         stepNumber: index + 1,
         instructionText
       }));
+    if (stepRecords.length) {
+      await tx.recipeStep.createMany({ data: stepRecords });
+    }
+
+    if (inheritedTechniques.length) {
+      await tx.recipeTechnique.createMany({
+        data: inheritedTechniques.map((techniqueId) => ({
+          recipeId: created.id,
+          techniqueId
+        })),
+        skipDuplicates: true
+      });
+    }
 
     const changes = buildChanges({
-      recipeId,
+      recipeId: created.id,
       parentRecipeId: parent.id,
       titleBefore: parent.title,
       titleAfter: input.title,
@@ -474,24 +429,73 @@ export async function createVariation(input: {
       note: input.note
     });
 
-    const inheritedTechniques = data.recipeTechniques
-      .filter((item) => item.recipeId === parent.id)
-      .map((item) => ({ recipeId, techniqueId: item.techniqueId }));
+    if (changes.length) {
+      await tx.recipeChange.createMany({
+        data: changes.map((change) => ({
+          recipeId: change.recipeId,
+          parentRecipeId: change.parentRecipeId,
+          changeType: change.changeType,
+          fieldName: change.fieldName,
+          beforeValue: change.beforeValue,
+          afterValue: change.afterValue,
+          note: change.note
+        }))
+      });
+    }
 
-    local.recipes.push(recipe);
-    local.recipeIngredients.push(...ingredientRecords);
-    local.steps.push(...stepRecords);
-    local.recipeTechniques.push(...inheritedTechniques);
-    local.changes.push(...changes);
-    local.relationships.push({
-      id: `rel-${recipeId}-${parent.id}`,
-      fromRecipeId: recipeId,
-      toRecipeId: parent.id,
-      relationshipType: "variation_of"
+    await tx.recipeRelationship.create({
+      data: {
+        fromRecipeId: created.id,
+        toRecipeId: parent.id,
+        relationshipType: "variation_of"
+      }
     });
 
-    return recipe;
+    await tx.recipeVariation.upsert({
+      where: {
+        parentRecipeId_variationRecipeId_variationType: {
+          parentRecipeId: parent.id,
+          variationRecipeId: created.id,
+          variationType: "personal"
+        }
+      },
+      create: {
+        id: `var-${created.id}`,
+        parentRecipeId: parent.id,
+        variationRecipeId: created.id,
+        variationType: "personal",
+        note: input.note || null
+      },
+      update: {
+        note: input.note || null
+      }
+    });
+
+    return created;
   });
+
+  clearDataCache();
+  return {
+    id: recipe.id,
+    slug: recipe.slug,
+    recipeFamilyId: recipe.recipeFamilyId,
+    sourceId: recipe.sourceId ?? undefined,
+    parentRecipeId: recipe.parentRecipeId ?? undefined,
+    createdByUserId: recipe.createdByUserId ?? undefined,
+    title: recipe.title,
+    description: recipe.description,
+    serves: recipe.serves ?? "N/A",
+    prepTimeMinutes: recipe.prepTimeMinutes ?? undefined,
+    cookTimeMinutes: recipe.cookTimeMinutes ?? undefined,
+    totalTimeMinutes: recipe.totalTimeMinutes ?? undefined,
+    imageUrl: recipe.imageUrl ?? undefined,
+    isSourceRecipe: recipe.isSourceRecipe,
+    isUserVariation: recipe.isUserVariation,
+    variationKind: "personal",
+    tags: ["variation"],
+    createdAt: recipe.createdAt.toISOString(),
+    updatedAt: recipe.updatedAt.toISOString()
+  } satisfies Recipe;
 }
 
 export async function addCookReport(input: {
@@ -502,26 +506,36 @@ export async function addCookReport(input: {
   difficultyRating: number;
   notes: string;
 }) {
-  return mutateLocalData((local) => {
-    const data = combineData(local);
-    const recipe = data.recipes.find((candidate) => candidate.slug === input.recipeSlug);
-    if (!recipe) throw new Error("Recipe was not found.");
+  const recipe = await prisma.recipe.findUnique({ where: { slug: input.recipeSlug } });
+  if (!recipe) throw new Error("Recipe was not found.");
 
-    const report: CookReport = {
-      id: `cr-local-${Date.now()}`,
-      recipeId: recipe.id,
-      userId: "user-local",
-      madeIt: input.madeIt,
-      rating: input.rating,
-      wouldMakeAgain: input.wouldMakeAgain,
-      difficultyRating: input.difficultyRating,
-      notes: input.notes,
-      createdAt: new Date().toISOString()
-    };
-
-    local.cookReports.push(report);
-    return report;
+  const report = await prisma.$transaction(async (tx) => {
+    const user = await ensureSystemUser(tx);
+    return tx.cookReport.create({
+      data: {
+        recipeId: recipe.id,
+        userId: user.id,
+        madeIt: input.madeIt,
+        rating: input.rating,
+        wouldMakeAgain: input.wouldMakeAgain,
+        difficultyRating: input.difficultyRating,
+        notes: input.notes
+      }
+    });
   });
+
+  clearDataCache();
+  return {
+    id: report.id,
+    recipeId: report.recipeId,
+    userId: report.userId,
+    madeIt: report.madeIt,
+    rating: report.rating,
+    wouldMakeAgain: report.wouldMakeAgain,
+    difficultyRating: report.difficultyRating,
+    notes: report.notes,
+    createdAt: report.createdAt.toISOString()
+  } satisfies CookReport;
 }
 
 export async function registerImportedRecipe(input: {
@@ -535,55 +549,128 @@ export async function registerImportedRecipe(input: {
   extractionMethod: "recipe-scrapers" | "json-ld" | "beautiful-soup";
   extractionConfidence: number;
 }) {
-  return mutateLocalData(async (local) => {
-    const data = combineData(local);
-    const family = data.families.find((candidate) => candidate.slug === input.familySlug);
-    if (!family) throw new Error("Choose an existing family for this MVP import.");
+  const family = await prisma.recipeFamily.findUnique({ where: { slug: input.familySlug } });
+  if (!family) throw new Error("Choose an existing family for this MVP import.");
 
-    const timestamp = new Date().toISOString();
-    const sourceId = `src-local-${Date.now()}`;
-    const recipeId = `rec-local-${Date.now()}`;
-    const slug = uniqueSlug(slugify(input.title), new Set(data.recipes.map((recipe) => recipe.slug)));
+  const allRecipes = await prisma.recipe.findMany({ select: { slug: true } });
+  const slug = uniqueSlug(
+    slugify(input.title),
+    new Set(allRecipes.map((recipe) => recipe.slug))
+  );
 
-    local.sources.push({
-      id: sourceId,
+  const result = await prisma.$transaction(async (tx) => {
+    const source = await upsertImportedSource(tx, input);
+    const sourceImport = await tx.sourceImport.upsert({
+      where: { sourceUrl: input.sourceUrl },
+      create: {
+        id: `srcimp-${slug}`,
+        sourceUrl: input.sourceUrl,
+        siteName: "Serious Eats",
+        authorName: input.authorName || "Serious Eats",
+        licenseNote: "Source attribution retained. Imported by Recipedia ingestion.",
+        extractionMethod: input.extractionMethod,
+        extractionConfidence: input.extractionConfidence
+      },
+      update: {
+        extractionMethod: input.extractionMethod,
+        extractionConfidence: input.extractionConfidence,
+        authorName: input.authorName || "Serious Eats"
+      }
+    });
+
+    const recipe = await tx.recipe.create({
+      data: {
+        slug,
+        recipeFamilyId: family.id,
+        sourceId: source.id,
+        sourceImportId: sourceImport.id,
+        title: input.title,
+        description: `Imported Serious Eats recipe in the ${family.displayName} family.`,
+        serves: "Imported",
+        isSourceRecipe: true,
+        isUserVariation: false
+      }
+    });
+
+    const ingredientRecords = await ingredientRowsForVariation(tx, recipe.id, input.ingredients);
+    if (ingredientRecords.length) {
+      await tx.recipeIngredient.createMany({ data: ingredientRecords });
+    }
+
+    const stepRows = input.instructions
+      .filter(Boolean)
+      .map((instructionText, index) => ({
+        recipeId: recipe.id,
+        stepNumber: index + 1,
+        instructionText
+      }));
+    if (stepRows.length) {
+      await tx.recipeStep.createMany({ data: stepRows });
+    }
+
+    return { slug: recipe.slug };
+  });
+
+  clearDataCache();
+  return result;
+}
+
+async function ensureSystemUser(tx: Prisma.TransactionClient) {
+  const systemEmail = "local@recipedia.app";
+  const existing = await tx.user.findUnique({ where: { email: systemEmail } });
+  if (existing) return existing;
+
+  return tx.user.create({
+    data: {
+      name: "Local Recipedia User",
+      email: systemEmail
+    }
+  });
+}
+
+async function resolveDishIdForRecipe(tx: Prisma.TransactionClient, recipeId: string) {
+  const parent = await tx.recipe.findUnique({
+    where: { id: recipeId },
+    select: { dishId: true }
+  });
+  return parent?.dishId ?? null;
+}
+
+async function upsertImportedSource(
+  tx: Prisma.TransactionClient,
+  input: {
+    sourceUrl: string;
+    authorName: string;
+    extractionMethod: "recipe-scrapers" | "json-ld" | "beautiful-soup";
+    extractionConfidence: number;
+  }
+) {
+  const existing = await tx.source.findUnique({ where: { sourceUrl: input.sourceUrl } });
+  if (existing) {
+    return tx.source.update({
+      where: { id: existing.id },
+      data: {
+        authorName: input.authorName || "Serious Eats",
+        extractionMethod: input.extractionMethod,
+        extractionConfidence: input.extractionConfidence
+      }
+    });
+  }
+
+  return tx.source.create({
+    data: {
       siteName: "Serious Eats",
       sourceUrl: input.sourceUrl,
       authorName: input.authorName || "Serious Eats",
-      licenseNote: "Source attribution retained. Imported by local MVP ingestion.",
-      importedAt: timestamp,
+      licenseNote: "Source attribution retained. Imported by Recipedia ingestion.",
       extractionMethod: input.extractionMethod,
       extractionConfidence: input.extractionConfidence
-    });
-
-    local.recipes.push({
-      id: recipeId,
-      slug,
-      recipeFamilyId: family.id,
-      sourceId,
-      title: input.title,
-      description: `Imported Serious Eats recipe in the ${family.displayName} family.`,
-      serves: "Imported",
-      isSourceRecipe: true,
-      isUserVariation: false,
-      tags: [family.category, family.displayName.toLowerCase()],
-      createdAt: timestamp,
-      updatedAt: timestamp
-    });
-
-    const ingredientRecords = await ingredientRowsForVariation(recipeId, input.ingredients, data, local);
-    local.recipeIngredients.push(...ingredientRecords);
-    local.steps.push(
-      ...input.instructions.map((instructionText, index) => ({
-        id: `step-${recipeId}-${index + 1}`,
-        recipeId,
-        stepNumber: index + 1,
-        instructionText
-      }))
-    );
-
-    return { slug };
+    }
   });
+}
+
+function clearDataCache() {
+  dbCache = undefined;
 }
 
 function uniqueSlug(base: string, existingSlugs: Set<string>) {
@@ -597,16 +684,15 @@ function uniqueSlug(base: string, existingSlugs: Set<string>) {
 }
 
 async function ingredientRowsForVariation(
+  tx: Prisma.TransactionClient,
   recipeId: string,
-  rawIngredients: string[],
-  data: SeedData,
-  local: SeedData
+  rawIngredients: string[]
 ): Promise<RecipeIngredient[]> {
   const rows: RecipeIngredient[] = [];
   for (const rawText of rawIngredients.filter(Boolean)) {
-    const ingredient = findOrCreateIngredient(rawText, data.ingredients, local.ingredients);
+    const ingredient = await findOrCreateIngredient(tx, rawText);
     rows.push({
-      id: `ri-${recipeId}-${rows.length + 1}`,
+      id: `ri-${recipeId}-${rows.length + 1}-${slugify(rawText).slice(0, 16)}`,
       recipeId,
       ingredientId: ingredient.id,
       rawText,
@@ -616,13 +702,15 @@ async function ingredientRowsForVariation(
   return rows;
 }
 
-function findOrCreateIngredient(rawText: string, known: Ingredient[], localIngredients: Ingredient[]) {
+async function findOrCreateIngredient(tx: Prisma.TransactionClient, rawText: string) {
   const normalized = canonicalize(rawText);
-  const found = [...known, ...localIngredients].find((ingredient) => {
-    return (
-      normalized.includes(ingredient.canonicalName) ||
-      ingredient.aliases.some((alias) => normalized.includes(alias))
-    );
+  const found = await tx.ingredient.findFirst({
+    where: {
+      OR: [
+        { canonicalName: normalized },
+        { displayName: { equals: normalized, mode: "insensitive" } }
+      ]
+    }
   });
   if (found) return found;
 
@@ -631,14 +719,14 @@ function findOrCreateIngredient(rawText: string, known: Ingredient[], localIngre
     .slice(0, 3)
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
-  const ingredient: Ingredient = {
-    id: `ing-local-${slugify(displayName)}-${localIngredients.length + 1}`,
-    canonicalName: normalized.split(",")[0].slice(0, 48),
-    displayName,
-    aliases: []
-  };
-  localIngredients.push(ingredient);
-  return ingredient;
+  return tx.ingredient.create({
+    data: {
+      id: `ing-local-${slugify(displayName)}-${Date.now().toString(36)}`,
+      canonicalName: normalized.split(",")[0].slice(0, 48),
+      displayName,
+      aliases: []
+    }
+  });
 }
 
 function canonicalize(rawText: string) {

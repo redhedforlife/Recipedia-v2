@@ -345,6 +345,7 @@ export type GraphNodeKind =
   | "cuisine"
   | "category"
   | "family"
+  | "dish"
   | "creator"
   | "recipe"
   | "variation"

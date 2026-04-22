@@ -7,9 +7,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "postinstall": "prisma generate",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "node --import tsx --test tests/**/*.test.ts",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "import:canonical": "node --import tsx scripts/import/load-canonical-postgres.ts",
     "import:recipe": "python3 scripts/ingest_seriouseats.py",
     "seed:lineage": "python3 scripts/build_recipe_lineage_seed.py",
     "pipeline:ingest": "node --import tsx scripts/ingest/run.ts",
@@ -27,6 +32,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@prisma/client": "^6.15.0",
     "@xyflow/react": "^12.10.2",
     "clsx": "^2.1.1",
     "lucide-react": "^1.8.0",
@@ -41,6 +47,7 @@
     "@types/react-dom": "^19.2.3",
     "eslint": "^9.39.4",
     "eslint-config-next": "^16.2.3",
+    "prisma": "^6.15.0",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2"
   }

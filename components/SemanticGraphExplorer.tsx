@@ -62,6 +62,7 @@ const HIERARCHY_EDGE_KINDS = new Set([
   "cuisine_contains_category",
   "category_contains_category",
   "category_contains_dish_family",
+  "category_contains_dish",
   "dish_family_contains_recipe",
   "recipe_has_variation"
 ]);
@@ -99,6 +100,7 @@ const nodeColors: Record<GraphNodeKind, string> = {
   cuisine: "#9f3c2f",
   category: "#5c597f",
   family: "#2f5f79",
+  dish: "#2f5f79",
   creator: "#7b5a42",
   recipe: "#59644a",
   variation: "#ba5a35",
@@ -114,6 +116,7 @@ const kindLabels: Record<GraphNodeKind, string> = {
   cuisine: "Cuisine",
   category: "Category",
   family: "Dish family",
+  dish: "Dish",
   creator: "Creator",
   recipe: "Dish",
   variation: "Variation",
@@ -129,6 +132,7 @@ const kindIcons: Record<GraphNodeKind, ComponentType<{ size?: number }>> = {
   cuisine: MapPinned,
   category: Layers3,
   family: Utensils,
+  dish: Utensils,
   creator: User,
   recipe: Utensils,
   variation: CircleDot,
@@ -1010,7 +1014,7 @@ function familiesForSelection(
     return ids;
   }
 
-  if (selectedNode.kind === "recipe" || selectedNode.kind === "variation") {
+  if (selectedNode.kind === "dish" || selectedNode.kind === "recipe" || selectedNode.kind === "variation") {
     let current = parents.get(selectedNode.id);
     while (current) {
       const node = graph.nodes.find((candidate) => candidate.id === current);
@@ -1130,7 +1134,11 @@ function buildResultNodes({
 
     if (selectedNode.kind === "category") {
       const families = graph.edges
-        .filter((edge) => edge.kind === "category_contains_dish_family" && edge.source === selectedNode.id)
+        .filter(
+          (edge) =>
+            (edge.kind === "category_contains_dish_family" || edge.kind === "category_contains_dish") &&
+            edge.source === selectedNode.id
+        )
         .map((edge) => graph.nodes.find((node) => node.id === edge.target))
         .filter((node): node is KnowledgeGraphNode => Boolean(node));
 
@@ -1139,9 +1147,10 @@ function buildResultNodes({
         .map((edge) => graph.nodes.find((node) => node.id === edge.target))
         .filter((node): node is KnowledgeGraphNode => Boolean(node));
 
-      const merged = dedupeNodes([...families, ...associatedFamilies]).filter((node) =>
-        filteredFamilyIds.size ? filteredFamilyIds.has(node.id) : true
-      );
+      const merged = dedupeNodes([...families, ...associatedFamilies]).filter((node) => {
+        if (node.kind === "dish") return true;
+        return filteredFamilyIds.size ? filteredFamilyIds.has(node.id) : true;
+      });
       return ranked(merged).slice(0, resultVisibleCount);
     }
 
@@ -1161,6 +1170,10 @@ function buildResultNodes({
 
       if (!scopeFamilies.has(selectedNode.id)) return [];
       return ranked(dedupeNodes([...recipes, ...variations])).slice(0, resultVisibleCount);
+    }
+
+    if (selectedNode.kind === "dish") {
+      return [];
     }
 
     if (selectedNode.kind === "recipe" || selectedNode.kind === "variation") {

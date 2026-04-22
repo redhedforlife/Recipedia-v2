@@ -752,6 +752,31 @@ p {
   color: #294b3d;
 }
 
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 0.9rem;
+}
+
+.table thead th {
+  background: rgba(245, 240, 232, 0.9);
+  font-weight: 700;
+}
+
 .empty {
   border: 1px dashed var(--line);
   border-radius: 8px;
