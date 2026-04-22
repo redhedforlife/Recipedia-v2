@@ -1,6 +1,7 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import { seedData } from "@/data/lineageSeed";
+import { loadPublishedSeedData } from "@/lib/published/seedAdapter";
 import type {
   Category,
   Creator,
@@ -57,6 +58,8 @@ const emptyLocalData = (): SeedData => ({
   relationships: []
 });
 
+let publishedSeedDataCache: SeedData = emptyLocalData();
+
 async function ensureStorage() {
   await fs.mkdir(path.dirname(storagePath), { recursive: true });
   try {
@@ -85,43 +88,50 @@ async function writeLocalData(data: SeedData) {
 }
 
 export async function getData(): Promise<SeedData> {
-  const local = await readLocalData();
+  const [local, published] = await Promise.all([readLocalData(), loadPublishedSeedData()]);
+  publishedSeedDataCache = published;
   return combineData(local);
 }
 
 function combineData(local: SeedData): SeedData {
+  const published = publishedSeedDataCache;
   return {
-    cuisines: mergeById(seedData.cuisines, local.cuisines),
-    categories: mergeById(seedData.categories, local.categories),
-    ingredientCategories: mergeById(seedData.ingredientCategories, local.ingredientCategories),
-    techniqueCategories: mergeById(seedData.techniqueCategories, local.techniqueCategories),
-    cookingMethods: mergeById(seedData.cookingMethods, local.cookingMethods),
-    difficultyBands: mergeById(seedData.difficultyBands, local.difficultyBands),
-    sources: mergeById(seedData.sources, local.sources),
-    creators: mergeById(seedData.creators as Creator[], local.creators),
-    families: [...seedData.families, ...local.families],
-    recipes: [...seedData.recipes, ...local.recipes],
-    ingredients: mergeById(seedData.ingredients, local.ingredients),
-    techniques: mergeById(seedData.techniques, local.techniques),
-    cuisineDishFamilies: [...seedData.cuisineDishFamilies, ...local.cuisineDishFamilies],
-    dishFamilyIngredients: [...seedData.dishFamilyIngredients, ...local.dishFamilyIngredients],
-    dishFamilyTechniques: [...seedData.dishFamilyTechniques, ...local.dishFamilyTechniques],
-    dishFamilyMethods: [...seedData.dishFamilyMethods, ...local.dishFamilyMethods],
+    cuisines: mergeById(mergeById(seedData.cuisines, published.cuisines), local.cuisines),
+    categories: mergeById(mergeById(seedData.categories, published.categories), local.categories),
+    ingredientCategories: mergeById(
+      mergeById(seedData.ingredientCategories, published.ingredientCategories),
+      local.ingredientCategories
+    ),
+    techniqueCategories: mergeById(mergeById(seedData.techniqueCategories, published.techniqueCategories), local.techniqueCategories),
+    cookingMethods: mergeById(mergeById(seedData.cookingMethods, published.cookingMethods), local.cookingMethods),
+    difficultyBands: mergeById(mergeById(seedData.difficultyBands, published.difficultyBands), local.difficultyBands),
+    sources: mergeById(mergeById(seedData.sources, published.sources), local.sources),
+    creators: mergeById(mergeById(seedData.creators as Creator[], published.creators), local.creators),
+    families: [...published.families, ...seedData.families, ...local.families],
+    recipes: [...published.recipes, ...seedData.recipes, ...local.recipes],
+    ingredients: mergeById(mergeById(seedData.ingredients, published.ingredients), local.ingredients),
+    techniques: mergeById(mergeById(seedData.techniques, published.techniques), local.techniques),
+    cuisineDishFamilies: [...published.cuisineDishFamilies, ...seedData.cuisineDishFamilies, ...local.cuisineDishFamilies],
+    dishFamilyIngredients: [...published.dishFamilyIngredients, ...seedData.dishFamilyIngredients, ...local.dishFamilyIngredients],
+    dishFamilyTechniques: [...published.dishFamilyTechniques, ...seedData.dishFamilyTechniques, ...local.dishFamilyTechniques],
+    dishFamilyMethods: [...published.dishFamilyMethods, ...seedData.dishFamilyMethods, ...local.dishFamilyMethods],
     dishFamilyRelatedDishFamilies: [
+      ...published.dishFamilyRelatedDishFamilies,
       ...seedData.dishFamilyRelatedDishFamilies,
       ...local.dishFamilyRelatedDishFamilies
     ],
-    recipeIngredients: [...seedData.recipeIngredients, ...local.recipeIngredients],
-    steps: [...seedData.steps, ...local.steps],
-    recipeTechniques: [...seedData.recipeTechniques, ...local.recipeTechniques],
-    changes: [...seedData.changes, ...local.changes],
-    cookReports: [...seedData.cookReports, ...local.cookReports],
-    relationships: [...seedData.relationships, ...local.relationships]
+    recipeIngredients: [...published.recipeIngredients, ...seedData.recipeIngredients, ...local.recipeIngredients],
+    steps: [...published.steps, ...seedData.steps, ...local.steps],
+    recipeTechniques: [...published.recipeTechniques, ...seedData.recipeTechniques, ...local.recipeTechniques],
+    changes: [...published.changes, ...seedData.changes, ...local.changes],
+    cookReports: [...published.cookReports, ...seedData.cookReports, ...local.cookReports],
+    relationships: [...published.relationships, ...seedData.relationships, ...local.relationships]
   };
 }
 
 async function mutateLocalData<T>(mutator: (local: SeedData) => Promise<T> | T): Promise<T> {
   const run = localMutationQueue.then(async () => {
+    publishedSeedDataCache = await loadPublishedSeedData();
     const local = await readLocalData();
     const result = await mutator(local);
     await writeLocalData(local);
@@ -222,26 +232,21 @@ export async function getFamily(slug: string) {
       .filter((item) => recipeIds.has(item.recipeId))
       .map((item) => data.techniques.find((technique) => technique.id === item.techniqueId)?.displayName)
   );
-  const ingredientCounts = recipeIngredientCounts.length
-    ? recipeIngredientCounts
-    : data.dishFamilyIngredients
-        .filter((item) => item.dishFamilyId === family.id)
-        .map((item) => ({
-          name: data.ingredients.find((ingredient) => ingredient.id === item.ingredientId)?.displayName ?? item.ingredientId,
-          count: Math.round(item.importanceScore * 100)
-        }))
-        .sort((a, b) => b.count - a.count)
-        .slice(0, 8);
-  const techniqueCounts = recipeTechniqueCounts.length
-    ? recipeTechniqueCounts
-    : data.dishFamilyTechniques
-        .filter((item) => item.dishFamilyId === family.id)
-        .map((item) => ({
-          name: data.techniques.find((technique) => technique.id === item.techniqueId)?.displayName ?? item.techniqueId,
-          count: Math.round(item.importanceScore * 100)
-        }))
-        .sort((a, b) => b.count - a.count)
-        .slice(0, 8);
+  const familyIngredientCounts = data.dishFamilyIngredients
+    .filter((item) => item.dishFamilyId === family.id)
+    .map((item) => ({
+      name: data.ingredients.find((ingredient) => ingredient.id === item.ingredientId)?.displayName ?? item.ingredientId,
+      count: Math.round(item.importanceScore * 100)
+    }));
+  const familyTechniqueCounts = data.dishFamilyTechniques
+    .filter((item) => item.dishFamilyId === family.id)
+    .map((item) => ({
+      name: data.techniques.find((technique) => technique.id === item.techniqueId)?.displayName ?? item.techniqueId,
+      count: Math.round(item.importanceScore * 100)
+    }));
+
+  const ingredientCounts = mergeCountRows(recipeIngredientCounts, familyIngredientCounts).slice(0, 8);
+  const techniqueCounts = mergeCountRows(recipeTechniqueCounts, familyTechniqueCounts).slice(0, 8);
 
   return {
     family,
@@ -711,6 +716,15 @@ function countNames(names: Array<string | undefined>) {
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count)
     .slice(0, 8);
+}
+
+function mergeCountRows(primary: Array<{ name: string; count: number }>, secondary: Array<{ name: string; count: number }>) {
+  const merged = new Map<string, number>();
+  secondary.forEach((row) => merged.set(row.name, Math.max(merged.get(row.name) ?? 0, row.count)));
+  primary.forEach((row) => merged.set(row.name, Math.max(merged.get(row.name) ?? 0, row.count)));
+  return Array.from(merged.entries())
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count);
 }
 
 function descendantCategoryIds(categories: Category[], rootId: string) {

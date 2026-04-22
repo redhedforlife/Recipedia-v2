@@ -1,0 +1,4733 @@
+[
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-4",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-4",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Brier Hill-style pizza' to dish 'Brier Hill-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Brier Hill-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.302Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-7",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-7",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicago-style barbecue' to dish 'Chicago-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Chicago-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.304Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-8",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-8",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicago-style hot dog' to dish 'Chicago-style hot dog'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Chicago-style hot dog",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.304Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-9",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-9",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicago-style pizza' to dish 'Chicago-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Chicago-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.305Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-16",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-16",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Detroit-style pizza' to dish 'Detroit-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Detroit-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.309Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-24",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-24",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Hoosier-style barbecue' to dish 'Hoosier-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Hoosier-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.314Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-31",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-31",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Kansas City-style barbecue' to dish 'Kansas City-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Kansas City-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.318Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-40",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-40",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Pepper and egg sandwich' to dish 'Pepper and egg sandwich'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Pepper and egg sandwich",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.324Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-46",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-46",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Quad City-style pizza' to dish 'Quad City-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Quad City-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.326Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-53",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-53",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Springfield-style cashew chicken' to dish 'Springfield-style cashew chicken'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Springfield-style cashew chicken",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.330Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-55",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-55",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'St. Louis-style barbecue' to dish 'St. Louis-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "St. Louis-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.331Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-56",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-56",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'St. Louis-style pizza' to dish 'St. Louis-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "St. Louis-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.331Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-67",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-67",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Bacon egg and cheese' to dish 'Bacon egg and cheese'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Bacon egg and cheese",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.336Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-71",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-71",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Black and white cookie' to dish 'Black and white cookie'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Black and white cookie",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.337Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-114",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-114",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Lox and schmear bagel' to dish 'Lox and schmear bagel'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Lox and schmear bagel",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.357Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-123",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-123",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New Haven-style pizza' to dish 'New Haven-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New Haven-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.361Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-125",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-125",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New York–style bagel' to dish 'New York–style bagel'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New York–style bagel",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.362Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-126",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-126",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New York-style cheesecake' to dish 'New York-style cheesecake'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New York-style cheesecake",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.362Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-127",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-127",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New York-style pizza' to dish 'New York-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New York-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.363Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-144",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-144",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Sausage and peppers' to dish 'Sausage and peppers'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Sausage and peppers",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.371Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-149",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-149",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Spaghetti and meatballs' to dish 'Spaghetti and meatballs'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Spaghetti and meatballs",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.373Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-169",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-169",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Main article: List of foods of the Southern United States Alabama-style barbecue' to dish 'Main article: List of foods of the Southern United States Alabama-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Main article: List of foods of the Southern United States Alabama-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.382Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-183",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-183",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Carolina-style hot dog' to dish 'Carolina-style hot dog'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Carolina-style hot dog",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.388Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-233",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-233",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Memphis-style barbecue' to dish 'Memphis-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Memphis-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.410Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-240",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-240",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'North Carolina-style Barbecue' to dish 'North Carolina-style Barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "North Carolina-style Barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.412Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-253",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-253",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Red beans and rice' to dish 'Red beans and rice'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Red beans and rice",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.417Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-255",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-255",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Rice and gravy' to dish 'Rice and gravy'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Rice and gravy",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.417Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-260",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-260",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Shrimp and grits' to dish 'Shrimp and grits'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Shrimp and grits",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.419Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-264",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-264",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'South Carolina-style Barbecue' to dish 'South Carolina-style Barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "South Carolina-style Barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.421Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-308",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-308",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Santa Maria-style barbecue' to dish 'Santa Maria-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Santa Maria-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.441Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-314",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-314",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Texas-style barbecue' to dish 'Texas-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Texas-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.443Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-320",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-320",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'California-style pizza' to dish 'California-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "California-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.446Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-335",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-335",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Japanese-style hot dog' to dish 'Japanese-style hot dog'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Japanese-style hot dog",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.452Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-347",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-347",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Seattle-style hot dog' to dish 'Seattle-style hot dog'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Seattle-style hot dog",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.457Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-348",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-348",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Seattle-style teriyaki' to dish 'Seattle-style teriyaki'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Seattle-style teriyaki",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.457Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-356",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-356",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicken and dumplings' to dish 'Chicken and dumplings'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Chicken and dumplings",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.461Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-357",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-357",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicken and waffles' to dish 'Chicken and waffles'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Chicken and waffles",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.461Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-363",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-363",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Ohio Valley-style pizza' to dish 'Ohio Valley-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Ohio Valley-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.464Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-377",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-377",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Barbecue in the United States' to dish 'Barbecue in the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Barbecue in the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.471Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-379",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-379",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Carolina style' to dish 'Carolina style'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Carolina style",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.472Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-380",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-380",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Midwestern United States' to dish 'Cuisine of the Midwestern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Midwestern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.472Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-381",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-381",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of New England' to dish 'Cuisine of New England'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of New England",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.473Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-382",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-382",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of New Orleans' to dish 'Cuisine of New Orleans'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of New Orleans",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.473Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-383",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-383",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of New York City' to dish 'Cuisine of New York City'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of New York City",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.474Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-384",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-384",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Pacific Northwest' to dish 'Cuisine of the Pacific Northwest'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Pacific Northwest",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.474Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-385",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-385",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Pennsylvania Dutch' to dish 'Cuisine of the Pennsylvania Dutch'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Pennsylvania Dutch",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.475Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-386",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-386",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of Philadelphia' to dish 'Cuisine of Philadelphia'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of Philadelphia",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.475Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-387",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-387",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Southern United States' to dish 'Cuisine of the Southern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Southern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.476Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-388",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-388",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Southwestern United States' to dish 'Cuisine of the Southwestern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Southwestern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.476Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-389",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-389",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Thirteen Colonies' to dish 'Cuisine of the Thirteen Colonies'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Thirteen Colonies",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.477Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-390",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-390",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Western United States' to dish 'Cuisine of the Western United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Western United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.477Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-391",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-391",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Hawaii regional cuisine Native cuisine of Hawaii' to dish 'Hawaii regional cuisine Native cuisine of Hawaii'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Hawaii regional cuisine Native cuisine of Hawaii",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.478Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-394",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-394",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of American foods' to dish 'List of American foods'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of American foods",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.479Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-395",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-395",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of American regional and fusion cuisines' to dish 'List of American regional and fusion cuisines'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of American regional and fusion cuisines",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.480Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-396",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-396",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of regional beverages of the United States' to dish 'List of regional beverages of the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of regional beverages of the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.480Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-399",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-399",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Minnesotan cuisine List of Minnesotan dishes' to dish 'Minnesotan cuisine List of Minnesotan dishes'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Minnesotan cuisine List of Minnesotan dishes",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.482Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-401",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-401",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Pizza in the United States' to dish 'Pizza in the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Pizza in the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.483Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-403",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-403",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soul food List of soul foods and dishes' to dish 'Soul food List of soul foods and dishes'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Soul food List of soul foods and dishes",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.484Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-406",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-406",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Grant, Dickie. \"Cowboy Beans\" Archived June 23, 2016, at the Wayback Machine , Food Network . Retrieved June 13, 2016.' to dish '^ Grant, Dickie. \"Cowboy Beans\" Archived June 23, 2016, at the Wayback Machine , Food Network . Retrieved June 13, 2016.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Grant, Dickie. \"Cowboy Beans\" Archived June 23, 2016, at the Wayback Machine , Food Network . Retrieved June 13, 2016.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.485Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-408",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-408",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Laws of Louisiana, LL 170.9, 2003.' to dish '^ Laws of Louisiana, LL 170.9, 2003.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Laws of Louisiana, LL 170.9, 2003.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.486Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-412",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-412",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Boston Cream Pie\" . Merriam Webster. Archived from the original on January 28, 2021 . Retrieved November 21, 2008 .' to dish '^ \"Boston Cream Pie\" . Merriam Webster. Archived from the original on January 28, 2021 . Retrieved November 21, 2008 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"Boston Cream Pie\" . Merriam Webster. Archived from the original on January 28, 2021 . Retrieved November 21, 2008 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.489Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-413",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-413",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Kleber, John E. Encyclopedia of Louisville . (University Press of Kentucky). pg.246.' to dish '^ Kleber, John E. Encyclopedia of Louisville . (University Press of Kentucky). pg.246.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Kleber, John E. Encyclopedia of Louisville . (University Press of Kentucky). pg.246.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.489Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-414",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-414",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"King Cakes\" Archived November 17, 2015, at the Wayback Machine , New Orleans Online. Retrieved November 15, 2015.' to dish '^ \"King Cakes\" Archived November 17, 2015, at the Wayback Machine , New Orleans Online. Retrieved November 15, 2015.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"King Cakes\" Archived November 17, 2015, at the Wayback Machine , New Orleans Online. Retrieved November 15, 2015.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.490Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-415",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-415",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"What Is Mud Cake?\" . WiseGeek . Archived from the original on November 16, 2020 . Retrieved December 2, 2014 .' to dish '^ \"What Is Mud Cake?\" . WiseGeek . Archived from the original on November 16, 2020 . Retrieved December 2, 2014 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"What Is Mud Cake?\" . WiseGeek . Archived from the original on November 16, 2020 . Retrieved December 2, 2014 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.490Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-416",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-416",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Mud Cake\" Archived 2013-06-05 at the Wayback Machine , iFood.tv. Retrieved November 22, 2015.' to dish '^ \"Mud Cake\" Archived 2013-06-05 at the Wayback Machine , iFood.tv. Retrieved November 22, 2015.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"Mud Cake\" Archived 2013-06-05 at the Wayback Machine , iFood.tv. Retrieved November 22, 2015.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.491Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-417",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-417",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Cite error: The named reference Amen was invoked but never defined (see the help page ).' to dish '^ Cite error: The named reference Amen was invoked but never defined (see the help page ).'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Cite error: The named reference Amen was invoked but never defined (see the help page ).",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.492Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-420",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-420",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Bethune, Meredith (August 17, 2016). \"Meet the Clam Cake\" , National Geographic . Retrieved March 9, 2018.' to dish '^ Bethune, Meredith (August 17, 2016). \"Meet the Clam Cake\" , National Geographic . Retrieved March 9, 2018.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Bethune, Meredith (August 17, 2016). \"Meet the Clam Cake\" , National Geographic . Retrieved March 9, 2018.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.493Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-423",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-423",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Everything Bagel Dogs\" , The Primitive Palate, January 20, 2015. Retrieved November 13, 2015.' to dish '^ \"Everything Bagel Dogs\" , The Primitive Palate, January 20, 2015. Retrieved November 13, 2015.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"Everything Bagel Dogs\" , The Primitive Palate, January 20, 2015. Retrieved November 13, 2015.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.495Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-425",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-425",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Siciliano-Rosen, Laura. \"The Original\" , Encyclopedia Britannica . Retrieved July 18, 2025.' to dish '^ Siciliano-Rosen, Laura. \"The Original\" , Encyclopedia Britannica . Retrieved July 18, 2025.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Siciliano-Rosen, Laura. \"The Original\" , Encyclopedia Britannica . Retrieved July 18, 2025.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.496Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-427",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-427",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"The Story of Ohio Valley-Style Pizza\" . PMQ Pizza . May 5, 2018.' to dish '^ \"The Story of Ohio Valley-Style Pizza\" . PMQ Pizza . May 5, 2018.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"The Story of Ohio Valley-Style Pizza\" . PMQ Pizza . May 5, 2018.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.497Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-428",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-428",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Capuzzo, Jill P. (January 12, 2010). \"The Original\" , New Jersey Monthly . Retrieved June 25, 2016.' to dish '^ Capuzzo, Jill P. (January 12, 2010). \"The Original\" , New Jersey Monthly . Retrieved June 25, 2016.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Capuzzo, Jill P. (January 12, 2010). \"The Original\" , New Jersey Monthly . Retrieved June 25, 2016.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.498Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-429",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-429",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Potatoes O'Brien\" . Cooking.com . Archived from the original on December 27, 2008 . Retrieved March 1, 2009 .' to dish '^ \"Potatoes O'Brien\" . Cooking.com . Archived from the original on December 27, 2008 . Retrieved March 1, 2009 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"Potatoes O'Brien\" . Cooking.com . Archived from the original on December 27, 2008 . Retrieved March 1, 2009 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.498Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-431",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-431",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Pink Shrimp\" Archived August 9, 2024, at the Wayback Machine , FishChoice . Retrieved March 25, 2016.' to dish '^ \"Pink Shrimp\" Archived August 9, 2024, at the Wayback Machine , FishChoice . Retrieved March 25, 2016.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"Pink Shrimp\" Archived August 9, 2024, at the Wayback Machine , FishChoice . Retrieved March 25, 2016.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.499Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-433",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-433",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.' to dish '^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.500Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-435",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-435",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Mastering the Art of French Cooking , p. 39' to dish '^ Mastering the Art of French Cooking , p. 39'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Mastering the Art of French Cooking , p. 39",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.502Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-439",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-439",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Gold, Jonathan (May 16, 1996). \"The Tom Bomb\" , Los Angeles Times . Retrieved November 7, 2015.' to dish '^ Gold, Jonathan (May 16, 1996). \"The Tom Bomb\" , Los Angeles Times . Retrieved November 7, 2015.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Gold, Jonathan (May 16, 1996). \"The Tom Bomb\" , Los Angeles Times . Retrieved November 7, 2015.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.504Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-440",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-440",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Joe O' Connell. \"Delmonico steak: a mystery solved\" . Retrieved March 17, 2007 .' to dish '^ Joe O' Connell. \"Delmonico steak: a mystery solved\" . Retrieved March 17, 2007 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Joe O' Connell. \"Delmonico steak: a mystery solved\" . Retrieved March 17, 2007 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.504Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-441",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-441",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"The Office Burger\" . Food Network Magazine .' to dish '^ \"The Office Burger\" . Food Network Magazine .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"The Office Burger\" . Food Network Magazine .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.505Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-444",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-444",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .' to dish '^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.507Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-446",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-446",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Cite error: The named reference tl was invoked but never defined (see the help page ).' to dish '^ Cite error: The named reference tl was invoked but never defined (see the help page ).'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Cite error: The named reference tl was invoked but never defined (see the help page ).",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.508Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-447",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-447",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Kerman, Byron (May 22, 2013). \"How to Grill the Perfect Pork Steak\" . St. Louis Magazine . Retrieved April 13, 2018 .' to dish '^ Kerman, Byron (May 22, 2013). \"How to Grill the Perfect Pork Steak\" . St. Louis Magazine . Retrieved April 13, 2018 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Kerman, Byron (May 22, 2013). \"How to Grill the Perfect Pork Steak\" . St. Louis Magazine . Retrieved April 13, 2018 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.508Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-448",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-448",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Thomas, Scott (May 31, 2013). \"The Original Schnucks Pork Steak\" . Feast Magazine . Retrieved April 13, 2018 .' to dish '^ Thomas, Scott (May 31, 2013). \"The Original Schnucks Pork Steak\" . Feast Magazine . Retrieved April 13, 2018 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Thomas, Scott (May 31, 2013). \"The Original Schnucks Pork Steak\" . Feast Magazine . Retrieved April 13, 2018 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.509Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-449",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-449",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ John Fuller, Guéridon and Lamp Cookery: A Complete Guide to Side-table and Flambé Service , 1964, p. 69' to dish '^ John Fuller, Guéridon and Lamp Cookery: A Complete Guide to Side-table and Flambé Service , 1964, p. 69'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ John Fuller, Guéridon and Lamp Cookery: A Complete Guide to Side-table and Flambé Service , 1964, p. 69",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.510Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-456",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-456",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of regional dishes of the United States' to dish 'List of regional dishes of the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of regional dishes of the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.513Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-500",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-500",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New Mexican (Neomexicano and Pueblo)' to dish 'New Mexican (Neomexicano and Pueblo)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New Mexican (Neomexicano and Pueblo)",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.535Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-507",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-507",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'American regional and fusion cuisines' to dish 'American regional and fusion cuisines'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "American regional and fusion cuisines",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.538Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-510",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-510",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Foods of the Southern United States' to dish 'Foods of the Southern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Foods of the Southern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.540Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-511",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-511",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soul foods and dishes' to dish 'Soul foods and dishes'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Soul foods and dishes",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.540Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-529",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-529",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Ethiopian and Eritrean' to dish 'Ethiopian and Eritrean'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Ethiopian and Eritrean",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.550Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-618",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-618",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Foods with religious symbolism' to dish 'Foods with religious symbolism'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Foods with religious symbolism",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.598Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-650",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-650",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Quick breads' to dish 'Quick breads'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Quick breads",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.614Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-669",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-669",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Rice and beans' to dish 'Rice and beans'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Rice and beans",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.624Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-694",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-694",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Squash and pumpkin' to dish 'Squash and pumpkin'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Squash and pumpkin",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.636Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-709",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-709",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Sushi and sashimi' to dish 'Sushi and sashimi'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Sushi and sashimi",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.644Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-732",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-732",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Fish and seafood' to dish 'Fish and seafood'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Fish and seafood",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.656Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-744",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-744",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Pies, tarts and flans' to dish 'Pies, tarts and flans'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Pies, tarts and flans",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.662Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-775",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-775",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '&#160; Category: Lists of foods' to dish '&#160; Category: Lists of foods'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "&#160; Category: Lists of foods",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.677Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-11",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-11",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of hamburgers' to dish 'List of hamburgers'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "List of hamburgers",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.682Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-14",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-14",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soup and sandwich' to dish 'Soup and sandwich'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "Soup and sandwich",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.683Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-15",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-15",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Nicholls, Walter (February 6, 2008). The Banh Mi of My Dreams . Washington Post .' to dish '^ Nicholls, Walter (February 6, 2008). The Banh Mi of My Dreams . Washington Post .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ Nicholls, Walter (February 6, 2008). The Banh Mi of My Dreams . Washington Post .",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.684Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-18",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-18",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Classic Curried Egg Salad Sandwich &#124; myfoodbook with Australian Eggs\" .' to dish '^ \"Classic Curried Egg Salad Sandwich &#124; myfoodbook with Australian Eggs\" .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ \"Classic Curried Egg Salad Sandwich &#124; myfoodbook with Australian Eggs\" .",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.686Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-21",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-21",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Prosperity sandwich is a longtime favorite in St. Louis\" . STLtoday.com . 2011-08-03 . Retrieved 2024-12-30 .' to dish '^ \"Prosperity sandwich is a longtime favorite in St. Louis\" . STLtoday.com . 2011-08-03 . Retrieved 2024-12-30 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ \"Prosperity sandwich is a longtime favorite in St. Louis\" . STLtoday.com . 2011-08-03 . Retrieved 2024-12-30 .",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.687Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-23",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-23",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Around the World in 80 Sandwiches\" . Thrillist . 4 June 2019.' to dish '^ \"Around the World in 80 Sandwiches\" . Thrillist . 4 June 2019.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ \"Around the World in 80 Sandwiches\" . Thrillist . 4 June 2019.",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.688Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-24",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-24",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ The Spanish Table: Traditional Recipes and Wine Pairings from Spain and Portugal - Steve Winston p. 188.' to dish '^ The Spanish Table: Traditional Recipes and Wine Pairings from Spain and Portugal - Steve Winston p. 188.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ The Spanish Table: Traditional Recipes and Wine Pairings from Spain and Portugal - Steve Winston p. 188.",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.689Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-28",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-28",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Rodell, Besha (26 September 2018). \"Has Australia Abandoned the Salad Sandwich?\" . The New York Times .' to dish '^ Rodell, Besha (26 September 2018). \"Has Australia Abandoned the Salad Sandwich?\" . The New York Times .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ Rodell, Besha (26 September 2018). \"Has Australia Abandoned the Salad Sandwich?\" . The New York Times .",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.692Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-32",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-32",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Huyghe, Cathy. \"Street Food, Soweto Style: Preparing The Famous Kota Sandwich\" . Forbes . Retrieved 2021-05-08 .' to dish '^ Huyghe, Cathy. \"Street Food, Soweto Style: Preparing The Famous Kota Sandwich\" . Forbes . Retrieved 2021-05-08 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ Huyghe, Cathy. \"Street Food, Soweto Style: Preparing The Famous Kota Sandwich\" . Forbes . Retrieved 2021-05-08 .",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.694Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-35",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-35",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Broadfield, Rob (2011-06-02). \"New Aussie serves a dinkum sanger\" . The West Australian . Retrieved 2025-11-12 .' to dish '^ Broadfield, Rob (2011-06-02). \"New Aussie serves a dinkum sanger\" . The West Australian . Retrieved 2025-11-12 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ Broadfield, Rob (2011-06-02). \"New Aussie serves a dinkum sanger\" . The West Australian . Retrieved 2025-11-12 .",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.696Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-38",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-38",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Thomas Jefferson Murrey, Cookery for Invalids (White, Stokes &amp; Allen, 1887)' to dish '^ Thomas Jefferson Murrey, Cookery for Invalids (White, Stokes &amp; Allen, 1887)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "^ Thomas Jefferson Murrey, Cookery for Invalids (White, Stokes &amp; Allen, 1887)",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.698Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-45",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-45",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Bake and shark' to dish 'Bake and shark'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "Bake and shark",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.702Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-134",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-134",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Ham and egg bun' to dish 'ham and egg bun'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "Ham and egg bun",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.742Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-sandwiches-165",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-sandwiches-165",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Peanut butter and jelly' to dish 'Peanut butter and jelly'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of sandwiches",
+      "Peanut butter and jelly",
+      "https://en.wikipedia.org/wiki/List%20of%20sandwiches"
+    ],
+    "createdAt": "2026-04-21T01:45:25.756Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-6",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-6",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of beef dishes' to dish 'List of beef dishes'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "List of beef dishes",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.904Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-8",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-8",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of sandwiches' to dish 'List of sandwiches'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "List of sandwiches",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.905Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-9",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-9",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of steak dishes' to dish 'List of steak dishes'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "List of steak dishes",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.906Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-11",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-11",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Hay, Donna (2002-11-24). \"The new burger\". Sunday Herald Sun . The Herald and Weekly Times .' to dish '^ Hay, Donna (2002-11-24). \"The new burger\". Sunday Herald Sun . The Herald and Weekly Times .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Hay, Donna (2002-11-24). \"The new burger\". Sunday Herald Sun . The Herald and Weekly Times .",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.907Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-12",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-12",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"The Aussie Burger\" . Woolworths Group Limited. 1997–2018 . Retrieved August 6, 2018 .' to dish '^ \"The Aussie Burger\" . Woolworths Group Limited. 1997–2018 . Retrieved August 6, 2018 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ \"The Aussie Burger\" . Woolworths Group Limited. 1997–2018 . Retrieved August 6, 2018 .",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.908Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-17",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-17",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Murrell, Duncan (June 2011). \"Burger, with Everything\" . Our State . Retrieved December 7, 2012 .' to dish '^ Murrell, Duncan (June 2011). \"Burger, with Everything\" . Our State . Retrieved December 7, 2012 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Murrell, Duncan (June 2011). \"Burger, with Everything\" . Our State . Retrieved December 7, 2012 .",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.911Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-19",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-19",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Sauceman, Fred William. The Place Setting: Timeless Tastes of the Mountain South , p. 148-49 (2006)' to dish '^ Sauceman, Fred William. The Place Setting: Timeless Tastes of the Mountain South , p. 148-49 (2006)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Sauceman, Fred William. The Place Setting: Timeless Tastes of the Mountain South , p. 148-49 (2006)",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.912Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-22",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-22",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Tomsky, Naomi (22 January 2020). \"What the Heck Is a Missouri Guber Burger?\" . The Kitchn . Retrieved 8 July 2024 .' to dish '^ Tomsky, Naomi (22 January 2020). \"What the Heck Is a Missouri Guber Burger?\" . The Kitchn . Retrieved 8 July 2024 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Tomsky, Naomi (22 January 2020). \"What the Heck Is a Missouri Guber Burger?\" . The Kitchn . Retrieved 8 July 2024 .",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.914Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-23",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-23",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Jay Boller &amp; Justin Flower, Burger Battle Archived 2009-07-10 at the Wayback Machine Minnesota Daily, March 2008.' to dish '^ Jay Boller &amp; Justin Flower, Burger Battle Archived 2009-07-10 at the Wayback Machine Minnesota Daily, March 2008.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Jay Boller &amp; Justin Flower, Burger Battle Archived 2009-07-10 at the Wayback Machine Minnesota Daily, March 2008.",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.914Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-24",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-24",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ The Burger: An Action-Packed Tasty Adventure . Parragon Books. 2014. p.&#160;139. ISBN &#160; 978-1-78186-242-1 .' to dish '^ The Burger: An Action-Packed Tasty Adventure . Parragon Books. 2014. p.&#160;139. ISBN &#160; 978-1-78186-242-1 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ The Burger: An Action-Packed Tasty Adventure . Parragon Books. 2014. p.&#160;139. ISBN &#160; 978-1-78186-242-1 .",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.915Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-28",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-28",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Pugh, Jeremy (2022-07-06). \"Utah Field Guide: The Pastrami Burger\" . Salt Lake Magazine . Retrieved 2022-09-15 .' to dish '^ Pugh, Jeremy (2022-07-06). \"Utah Field Guide: The Pastrami Burger\" . Salt Lake Magazine . Retrieved 2022-09-15 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Pugh, Jeremy (2022-07-06). \"Utah Field Guide: The Pastrami Burger\" . Salt Lake Magazine . Retrieved 2022-09-15 .",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.917Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-29",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-29",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Food on the Move: Proceedings of the Oxford Symposium on Food and Cookery, 1996 - Google Books' to dish '^ Food on the Move: Proceedings of the Oxford Symposium on Food and Cookery, 1996 - Google Books'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Food on the Move: Proceedings of the Oxford Symposium on Food and Cookery, 1996 - Google Books",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.918Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-30",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-30",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Matthew Amster-Burton, \"Rice Burgers: The Ultimate Fast Food\" , Gourmet , December 11, 2008.' to dish '^ Matthew Amster-Burton, \"Rice Burgers: The Ultimate Fast Food\" , Gourmet , December 11, 2008.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "^ Matthew Amster-Burton, \"Rice Burgers: The Ultimate Fast Food\" , Gourmet , December 11, 2008.",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.918Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-59",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-59",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Big Classic' to dish 'Big Classic'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "Big Classic",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:25.931Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-411",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-411",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Ham and egg bun' to dish 'ham and egg bun'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "Ham and egg bun",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:26.099Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-hamburgers-490",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-hamburgers-490",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soup and sandwich' to dish 'Soup and sandwich'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of hamburgers",
+      "Soup and sandwich",
+      "https://en.wikipedia.org/wiki/List%20of%20hamburgers"
+    ],
+    "createdAt": "2026-04-21T01:45:26.132Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-6",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-6",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of fish soups' to dish 'List of fish soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of fish soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.134Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-8",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-8",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Azerbaijani soups and stews' to dish 'List of Azerbaijani soups and stews'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Azerbaijani soups and stews",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.135Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-9",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-9",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of cheese soups' to dish 'List of cheese soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of cheese soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.135Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-10",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-10",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Chinese soups' to dish 'List of Chinese soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Chinese soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.136Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-11",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-11",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of cream soups' to dish 'List of cream soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of cream soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.136Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-12",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-12",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of cold soups' to dish 'List of cold soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of cold soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.137Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-13",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-13",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of fish and seafood soups' to dish 'List of fish and seafood soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of fish and seafood soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.137Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-14",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-14",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of French soups and stews' to dish 'List of French soups and stews'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of French soups and stews",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.138Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-15",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-15",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of German soups' to dish 'List of German soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of German soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.138Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-16",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-16",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Indonesian soups' to dish 'List of Indonesian soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Indonesian soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.139Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-17",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-17",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Italian soups' to dish 'List of Italian soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Italian soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.139Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-18",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-18",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Japanese soups and stews' to dish 'List of Japanese soups and stews'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Japanese soups and stews",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.140Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-19",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-19",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Pakistani soups and stews' to dish 'List of Pakistani soups and stews'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Pakistani soups and stews",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.140Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-20",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-20",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of porridges' to dish 'List of porridges'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of porridges",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.141Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-22",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-22",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of Spanish soups and stews' to dish 'List of Spanish soups and stews'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of Spanish soups and stews",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.142Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-23",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-23",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of vegetable soups' to dish 'List of vegetable soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of vegetable soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.142Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-24",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-24",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soup and sandwich' to dish 'Soup and sandwich'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Soup and sandwich",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.143Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-29",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-29",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Barrell, Ryan (13 March 2017). \"13 Hangover Cures the World Swears By\" . Paste . Retrieved 30 July 2017 .' to dish '^ Barrell, Ryan (13 March 2017). \"13 Hangover Cures the World Swears By\" . Paste . Retrieved 30 July 2017 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Barrell, Ryan (13 March 2017). \"13 Hangover Cures the World Swears By\" . Paste . Retrieved 30 July 2017 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.144Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-30",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-30",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Cuban Ajiaco Recipe\" . Tasteofcuba.com . Retrieved 3 June 2014 .' to dish '^ \"Cuban Ajiaco Recipe\" . Tasteofcuba.com . Retrieved 3 June 2014 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Cuban Ajiaco Recipe\" . Tasteofcuba.com . Retrieved 3 June 2014 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.145Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-32",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-32",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Recipe: DANISH BEER SOUP' to dish '^ Recipe: DANISH BEER SOUP'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Recipe: DANISH BEER SOUP",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.146Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-33",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-33",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Hopkinson, Simon (23 July 2013). Roast Chicken and Other Stories . Hyperion. p.&#160;112. ISBN &#160; 9781401306144 .' to dish '^ Hopkinson, Simon (23 July 2013). Roast Chicken and Other Stories . Hyperion. p.&#160;112. ISBN &#160; 9781401306144 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Hopkinson, Simon (23 July 2013). Roast Chicken and Other Stories . Hyperion. p.&#160;112. ISBN &#160; 9781401306144 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.147Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-36",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-36",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Asika-Enahoro, Chidi (2004). A Slice of Africa . iUniverse. p.&#160;17. ISBN &#160; 0595305288 .' to dish '^ Asika-Enahoro, Chidi (2004). A Slice of Africa . iUniverse. p.&#160;17. ISBN &#160; 0595305288 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Asika-Enahoro, Chidi (2004). A Slice of Africa . iUniverse. p.&#160;17. ISBN &#160; 0595305288 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.148Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-39",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-39",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Manok at Kadyos / Purple Chicken With Pigeon Peas\" . Market Manila . 21 October 2007 . Retrieved 8 February 2021 .' to dish '^ \"Manok at Kadyos / Purple Chicken With Pigeon Peas\" . Market Manila . 21 October 2007 . Retrieved 8 February 2021 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Manok at Kadyos / Purple Chicken With Pigeon Peas\" . Market Manila . 21 October 2007 . Retrieved 8 February 2021 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.150Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-40",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-40",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Kadyos Beans\" . Ark of Taste . Slow Food Foundation for Biodiversity . Retrieved 8 February 2021 .' to dish '^ \"Kadyos Beans\" . Ark of Taste . Slow Food Foundation for Biodiversity . Retrieved 8 February 2021 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Kadyos Beans\" . Ark of Taste . Slow Food Foundation for Biodiversity . Retrieved 8 February 2021 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.151Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-41",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-41",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Cooking the perfect Kusksu!\" . Visit Gozo. 21 April 2017 . Retrieved 29 April 2019 .' to dish '^ \"Cooking the perfect Kusksu!\" . Visit Gozo. 21 April 2017 . Retrieved 29 April 2019 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Cooking the perfect Kusksu!\" . Visit Gozo. 21 April 2017 . Retrieved 29 April 2019 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.151Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-44",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-44",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Haedrich, Ken (2001). Soup Makes the Meal . Harvard Common Press. pp.&#160; 17 –18. ISBN &#160; 155832187X .' to dish '^ Haedrich, Ken (2001). Soup Makes the Meal . Harvard Common Press. pp.&#160; 17 –18. ISBN &#160; 155832187X .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Haedrich, Ken (2001). Soup Makes the Meal . Harvard Common Press. pp.&#160; 17 –18. ISBN &#160; 155832187X .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.153Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-45",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-45",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Nilagang Baboy (Boiled Pork and Vegetables)\" . Casa Veneracion . Retrieved 9 September 2021 .' to dish '^ \"Nilagang Baboy (Boiled Pork and Vegetables)\" . Casa Veneracion . Retrieved 9 September 2021 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Nilagang Baboy (Boiled Pork and Vegetables)\" . Casa Veneracion . Retrieved 9 September 2021 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.153Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-47",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-47",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Panada recipe\" .' to dish '^ \"Panada recipe\" .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Panada recipe\" .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.154Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-48",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-48",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Edwards, Nina (June 2013). Offal: A Global History . Reaktion Books. p.&#160;30. ISBN &#160; 9781780231341 .' to dish '^ Edwards, Nina (June 2013). Offal: A Global History . Reaktion Books. p.&#160;30. ISBN &#160; 9781780231341 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Edwards, Nina (June 2013). Offal: A Global History . Reaktion Books. p.&#160;30. ISBN &#160; 9781780231341 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.155Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-49",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-49",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Kyaw, Min Ye (2018-07-17). \"Ethnic recipe: Karen Tarlapaw soup\" . Myanmore Magazine . Retrieved 2022-12-26 .' to dish '^ Kyaw, Min Ye (2018-07-17). \"Ethnic recipe: Karen Tarlapaw soup\" . Myanmore Magazine . Retrieved 2022-12-26 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ Kyaw, Min Ye (2018-07-17). \"Ethnic recipe: Karen Tarlapaw soup\" . Myanmore Magazine . Retrieved 2022-12-26 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.156Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-50",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-50",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Traditional Foods of Kayin State, Myanmar\" . MyLocal Passion . Retrieved 2022-12-27 .' to dish '^ \"Traditional Foods of Kayin State, Myanmar\" . MyLocal Passion . Retrieved 2022-12-27 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "^ \"Traditional Foods of Kayin State, Myanmar\" . MyLocal Passion . Retrieved 2022-12-27 .",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.156Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-117",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-117",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Callos Callos a la Madrileña' to dish 'Callos Callos a la Madrileña'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Callos Callos a la Madrileña",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.185Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-146",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-146",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cock-a-leekie' to dish 'Cock-a-leekie'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Cock-a-leekie",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.198Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-226",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-226",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Hot and sour soup' to dish 'Hot and sour soup'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Hot and sour soup",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.228Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-265",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-265",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Linat-an' to dish 'Linat-an'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Linat-an",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.244Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-354",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-354",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Shark fin soup Buddha Jumps Over the Wall' to dish 'Shark fin soup Buddha Jumps Over the Wall'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Shark fin soup Buddha Jumps Over the Wall",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.280Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-361",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-361",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Skirts and kidneys' to dish 'Skirts and kidneys'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Skirts and kidneys",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.283Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-377",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-377",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soup with risotto' to dish 'Soup with risotto'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Soup with risotto",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.288Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-433",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-433",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicken and duck blood soup' to dish 'Chicken and duck blood soup'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Chicken and duck blood soup",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.313Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-435",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-435",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Duck blood and vermicelli soup' to dish 'Duck blood and vermicelli soup'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Duck blood and vermicelli soup",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.314Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-484",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-484",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cream of spinach' to dish 'Cream of spinach'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Cream of spinach",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.336Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-525",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-525",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Crossing-the-bridge noodles' to dish 'Crossing-the-bridge noodles'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Crossing-the-bridge noodles",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.351Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-668",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-668",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of soups' to dish 'List of soups'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of soups",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.388Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-670",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-670",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of stews' to dish 'List of stews'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of stews",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.389Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-929",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-929",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Women and advocacy' to dish 'Women and advocacy'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Women and advocacy",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.515Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-948",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-948",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Women and advocacy Ecofeminism' to dish 'Women and advocacy Ecofeminism'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Women and advocacy Ecofeminism",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.525Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-956",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-956",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Vegan and plant-based media' to dish 'Vegan and plant-based media'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Vegan and plant-based media",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.529Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-958",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-958",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Community of the Ark' to dish 'Community of the Ark'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Community of the Ark",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.530Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-965",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-965",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Farm (Tennessee)' to dish 'The Farm (Tennessee)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Farm (Tennessee)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.533Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-971",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-971",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Ethics of eating meat' to dish 'Ethics of eating meat'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Ethics of eating meat",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.536Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-977",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-977",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Tirukkuṟaḷ' to dish 'Tirukkuṟaḷ'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Tirukkuṟaḷ",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.539Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-989",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-989",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of vegetarian and vegan companies' to dish 'List of vegetarian and vegan companies'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "List of vegetarian and vegan companies",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.545Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-994",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-994",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Meat alternatives List of meat substitutes' to dish 'Meat alternatives List of meat substitutes'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Meat alternatives List of meat substitutes",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.547Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1014",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1014",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Physicians Committee for Responsible Medicine' to dish 'Physicians Committee for Responsible Medicine'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Physicians Committee for Responsible Medicine",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.557Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1020",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1020",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Vegan Society' to dish 'The Vegan Society'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Vegan Society",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.560Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1035",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1035",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Hare Krishna Food for Life' to dish 'Hare Krishna Food for Life'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Hare Krishna Food for Life",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.568Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1036",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1036",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Ideal Publishing Union' to dish 'The Ideal Publishing Union'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Ideal Publishing Union",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.568Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1042",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1042",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Order of the Golden Age' to dish 'Order of the Golden Age'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Order of the Golden Age",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.572Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1057",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1057",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Animals Film (1981)' to dish 'The Animals Film (1981)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Animals Film (1981)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.579Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1058",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1058",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Diet for a New America (1991)' to dish 'Diet for a New America (1991)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Diet for a New America (1991)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.580Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1059",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1059",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'A Cow at My Table (1998)' to dish 'A Cow at My Table (1998)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "A Cow at My Table (1998)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.580Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1064",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1064",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'A Sacred Duty (2007)' to dish 'A Sacred Duty (2007)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "A Sacred Duty (2007)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.583Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1065",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1065",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Fat, Sick and Nearly Dead (2010)' to dish 'Fat, Sick and Nearly Dead (2010)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Fat, Sick and Nearly Dead (2010)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.583Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1069",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1069",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Live and Let Live (2013)' to dish 'Live and Let Live (2013)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Live and Let Live (2013)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.585Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1070",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1070",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Speciesism: The Movie (2013)' to dish 'Speciesism: The Movie (2013)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Speciesism: The Movie (2013)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.586Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1073",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1073",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'What the Health (2017)' to dish 'What the Health (2017)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "What the Health (2017)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.587Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1077",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1077",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Game Changers (2018)' to dish 'The Game Changers (2018)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Game Changers (2018)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.589Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1080",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1080",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'You Are What You Eat: A Twin Experiment (2024)' to dish 'You Are What You Eat: A Twin Experiment (2024)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "You Are What You Eat: A Twin Experiment (2024)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.591Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1081",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1081",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Animals' Agenda' to dish 'The Animals' Agenda'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Animals' Agenda",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.591Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1084",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1084",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Pleasure Boat' to dish 'The Pleasure Boat'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Pleasure Boat",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.593Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1087",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1087",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Vegetarian Magazine' to dish 'The Vegetarian Magazine'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Vegetarian Magazine",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.594Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1091",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1091",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Acetaria: A Discourse of Sallets (1699)' to dish 'Acetaria: A Discourse of Sallets (1699)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Acetaria: A Discourse of Sallets (1699)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.596Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1092",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1092",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Fable of the Bees (1714)' to dish 'The Fable of the Bees (1714)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Fable of the Bees (1714)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.597Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1093",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1093",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'A Reasonable Plea for the Animal Creation (1746)' to dish 'A Reasonable Plea for the Animal Creation (1746)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "A Reasonable Plea for the Animal Creation (1746)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.597Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1095",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1095",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Cry of Nature; or, An Appeal to Mercy and to Justice, on Behalf of the Persecuted Animals (1791)' to dish 'The Cry of Nature; or, An Appeal to Mercy and to Justice, on Behalf of the Persecuted Animals (1791)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Cry of Nature; or, An Appeal to Mercy and to Justice, on Behalf of the Persecuted Animals (1791)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.599Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1097",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1097",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'An Essay on Abstinence from Animal Food, as a Moral Duty (1802)' to dish 'An Essay on Abstinence from Animal Food, as a Moral Duty (1802)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "An Essay on Abstinence from Animal Food, as a Moral Duty (1802)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.600Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1099",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1099",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'A Vindication of Natural Diet (1813)' to dish 'A Vindication of Natural Diet (1813)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "A Vindication of Natural Diet (1813)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.601Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1100",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1100",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Reasons for not Eating Animal Food (1814)' to dish 'Reasons for not Eating Animal Food (1814)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Reasons for not Eating Animal Food (1814)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.601Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1101",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1101",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Moral Inquiries on the Situation of Man and of Brutes (1824)' to dish 'Moral Inquiries on the Situation of Man and of Brutes (1824)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Moral Inquiries on the Situation of Man and of Brutes (1824)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.602Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1103",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1103",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Fruits and Farinacea (1845)' to dish 'Fruits and Farinacea (1845)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Fruits and Farinacea (1845)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.603Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1104",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1104",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '\" The Vegetarian; or a Visit to Aunt Primitive \" (1847)' to dish '\" The Vegetarian; or a Visit to Aunt Primitive \" (1847)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "\" The Vegetarian; or a Visit to Aunt Primitive \" (1847)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.603Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1105",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1105",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Penny Domestic Assistant and Guide to Vegetarian Cookery (1850)' to dish 'The Penny Domestic Assistant and Guide to Vegetarian Cookery (1850)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Penny Domestic Assistant and Guide to Vegetarian Cookery (1850)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.604Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1106",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1106",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Ethics of Diet (1883)' to dish 'The Ethics of Diet (1883)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Ethics of Diet (1883)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.604Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1107",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1107",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'A Plea for Vegetarianism and Other Essays (1886)' to dish 'A Plea for Vegetarianism and Other Essays (1886)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "A Plea for Vegetarianism and Other Essays (1886)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.604Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1109",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1109",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Flesh or Fruit? An Essay on Food Reform (1888)' to dish 'Flesh or Fruit? An Essay on Food Reform (1888)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Flesh or Fruit? An Essay on Food Reform (1888)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.606Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1110",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1110",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The First Step (1891)' to dish 'The First Step (1891)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The First Step (1891)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.606Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1112",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1112",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Behind the Scenes in Slaughter-Houses (1892)' to dish 'Behind the Scenes in Slaughter-Houses (1892)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Behind the Scenes in Slaughter-Houses (1892)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.607Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1113",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1113",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Why I Am a Vegetarian (1895)' to dish 'Why I Am a Vegetarian (1895)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Why I Am a Vegetarian (1895)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.608Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1115",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1115",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Fifty Years of Food Reform (1898)' to dish 'Fifty Years of Food Reform (1898)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Fifty Years of Food Reform (1898)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.609Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1116",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1116",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Logic of Vegetarianism (1899)' to dish 'The Logic of Vegetarianism (1899)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Logic of Vegetarianism (1899)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.609Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1117",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1117",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Thirty-nine Reasons Why I Am a Vegetarian (1903)' to dish 'Thirty-nine Reasons Why I Am a Vegetarian (1903)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Thirty-nine Reasons Why I Am a Vegetarian (1903)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.610Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1118",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1118",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Meat Fetish (1904)' to dish 'The Meat Fetish (1904)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Meat Fetish (1904)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.610Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1119",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1119",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Apsley Cookery Book' to dish 'The Apsley Cookery Book'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Apsley Cookery Book",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.611Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1120",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1120",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The New Ethics (1907)' to dish 'The New Ethics (1907)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The New Ethics (1907)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.611Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1121",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1121",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'A Fleshless Diet (1910)' to dish 'A Fleshless Diet (1910)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "A Fleshless Diet (1910)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.612Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1122",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1122",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Humanities of Diet (1914)' to dish 'The Humanities of Diet (1914)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Humanities of Diet (1914)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.612Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1123",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1123",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Benefits of Vegetarianism (1927)' to dish 'The Benefits of Vegetarianism (1927)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Benefits of Vegetarianism (1927)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.613Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1124",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1124",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Living the Good Life (1954)' to dish 'Living the Good Life (1954)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Living the Good Life (1954)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.613Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1126",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1126",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Diet for a Small Planet (1971)' to dish 'Diet for a Small Planet (1971)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Diet for a Small Planet (1971)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.614Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1127",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1127",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Vegetarian Epicure (1972)' to dish 'The Vegetarian Epicure (1972)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Vegetarian Epicure (1972)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.615Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1129",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1129",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Farm Vegetarian Cookbook (1975)' to dish 'The Farm Vegetarian Cookbook (1975)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Farm Vegetarian Cookbook (1975)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.616Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1132",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1132",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Fit for Life (1985)' to dish 'Fit for Life (1985)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Fit for Life (1985)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.617Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1133",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1133",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Diet for a New America (1987)' to dish 'Diet for a New America (1987)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Diet for a New America (1987)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.618Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1134",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1134",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Sexual Politics of Meat (1990)' to dish 'The Sexual Politics of Meat (1990)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Sexual Politics of Meat (1990)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.618Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1135",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1135",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Vegetarian Cooking for Everyone (1997)' to dish 'Vegetarian Cooking for Everyone (1997)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Vegetarian Cooking for Everyone (1997)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.619Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1136",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1136",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The China Study (2005)' to dish 'The China Study (2005)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The China Study (2005)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.619Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1139",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1139",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Bloodless Revolution (2006)' to dish 'The Bloodless Revolution (2006)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Bloodless Revolution (2006)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.621Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1140",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1140",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Of Victorians and Vegetarians (2007)' to dish 'Of Victorians and Vegetarians (2007)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Of Victorians and Vegetarians (2007)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.621Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1142",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1142",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Kind Diet (2009)' to dish 'The Kind Diet (2009)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Kind Diet (2009)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.622Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1143",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1143",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Why We Love Dogs, Eat Pigs, and Wear Cows (2009)' to dish 'Why We Love Dogs, Eat Pigs, and Wear Cows (2009)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Why We Love Dogs, Eat Pigs, and Wear Cows (2009)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.623Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1144",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1144",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Vegan Studies Project (2015)' to dish 'The Vegan Studies Project (2015)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Vegan Studies Project (2015)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.623Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1146",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1146",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The End of Animal Farming (2018)' to dish 'The End of Animal Farming (2018)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The End of Animal Farming (2018)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.624Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1148",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1148",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Making a Stand for Animals (2022)' to dish 'Making a Stand for Animals (2022)'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Making a Stand for Animals (2022)",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.625Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1167",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1167",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Sound Lounge' to dish 'The Sound Lounge'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Sound Lounge",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.634Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1172",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1172",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Food for Thought' to dish 'Food for Thought'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Food for Thought",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.637Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1180",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1180",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Hollow Reed' to dish 'The Hollow Reed'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Hollow Reed",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.641Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1181",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1181",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'The Pitman Vegetarian Hotel' to dish 'The Pitman Vegetarian Hotel'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "The Pitman Vegetarian Hotel",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.641Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1190",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1190",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Vegetarian and vegan dog diet' to dish 'Vegetarian and vegan dog diet'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Vegetarian and vegan dog diet",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.646Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-soups-1191",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-soups-1191",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Vegetarian and vegan symbolism' to dish 'Vegetarian and vegan symbolism'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of soups",
+      "Vegetarian and vegan symbolism",
+      "https://en.wikipedia.org/wiki/List%20of%20soups"
+    ],
+    "createdAt": "2026-04-21T01:45:26.646Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-stews-10",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-stews-10",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Carne Mechada\" . Archived from the original on 2008-05-17 . Retrieved 2008-03-23 .' to dish '^ \"Carne Mechada\" . Archived from the original on 2008-05-17 . Retrieved 2008-03-23 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of stews",
+      "^ \"Carne Mechada\" . Archived from the original on 2008-05-17 . Retrieved 2008-03-23 .",
+      "https://en.wikipedia.org/wiki/List%20of%20stews"
+    ],
+    "createdAt": "2026-04-21T01:45:26.652Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-stews-19",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-stews-19",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"Kuurdak: How The Kyrgyz Do Meat and Potatoes\" . Folkways. 11 June 2022.' to dish '^ \"Kuurdak: How The Kyrgyz Do Meat and Potatoes\" . Folkways. 11 June 2022.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of stews",
+      "^ \"Kuurdak: How The Kyrgyz Do Meat and Potatoes\" . Folkways. 11 June 2022.",
+      "https://en.wikipedia.org/wiki/List%20of%20stews"
+    ],
+    "createdAt": "2026-04-21T01:45:26.657Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-stews-892",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-stews-892",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Soup and sandwich' to dish 'Soup and sandwich'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of stews",
+      "Soup and sandwich",
+      "https://en.wikipedia.org/wiki/List%20of%20stews"
+    ],
+    "createdAt": "2026-04-21T01:45:27.016Z"
+  }
+]

@@ -11,7 +11,12 @@
     "typecheck": "tsc --noEmit",
     "test": "node --import tsx --test tests/**/*.test.ts",
     "import:recipe": "python3 scripts/ingest_seriouseats.py",
-    "seed:lineage": "python3 scripts/build_recipe_lineage_seed.py"
+    "seed:lineage": "python3 scripts/build_recipe_lineage_seed.py",
+    "pipeline:ingest": "node --import tsx scripts/ingest/run.ts",
+    "pipeline:normalize": "node --import tsx scripts/normalize/run.ts",
+    "pipeline:publish": "node --import tsx scripts/publish/run.ts",
+    "pipeline:qa": "node --import tsx scripts/qa/run.ts",
+    "pipeline:run": "node --import tsx scripts/pipeline-run.ts"
   },
   "keywords": [
     "recipes",

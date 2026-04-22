@@ -1,0 +1,56 @@
+{
+  "cuisineId": "cui-american",
+  "cuisineName": "American",
+  "totalDishes": 690,
+  "dishesWithCanonicalIngredients": 23,
+  "dishesWithOneOrMoreRecipes": 690,
+  "dishesWithThreeOrMoreRecipes": 5,
+  "reviewedDishes": 8,
+  "byCategory": [
+    {
+      "categoryId": "cat-american-sandwiches",
+      "categoryName": "Sandwiches",
+      "totalDishes": 34,
+      "withCanonicalIngredients": 8,
+      "withOneOrMoreRecipes": 34,
+      "withThreeOrMoreRecipes": 1,
+      "reviewed": 4
+    },
+    {
+      "categoryId": "cat-american-burgers",
+      "categoryName": "Burgers",
+      "totalDishes": 15,
+      "withCanonicalIngredients": 2,
+      "withOneOrMoreRecipes": 15,
+      "withThreeOrMoreRecipes": 2,
+      "reviewed": 1
+    },
+    {
+      "categoryId": "cat-american-barbecue",
+      "categoryName": "Barbecue",
+      "totalDishes": 17,
+      "withCanonicalIngredients": 0,
+      "withOneOrMoreRecipes": 17,
+      "withThreeOrMoreRecipes": 0,
+      "reviewed": 1
+    },
+    {
+      "categoryId": "cat-american-fried-chicken",
+      "categoryName": "Fried Chicken",
+      "totalDishes": 3,
+      "withCanonicalIngredients": 0,
+      "withOneOrMoreRecipes": 3,
+      "withThreeOrMoreRecipes": 0,
+      "reviewed": 1
+    },
+    {
+      "categoryId": "cat-american-soups-stews",
+      "categoryName": "Soups and Stews",
+      "totalDishes": 9,
+      "withCanonicalIngredients": 0,
+      "withOneOrMoreRecipes": 9,
+      "withThreeOrMoreRecipes": 1,
+      "reviewed": 1
+    }
+  ]
+}

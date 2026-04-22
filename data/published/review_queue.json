@@ -1,0 +1,747 @@
+[
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-7",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-7",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Chicago-style barbecue' to dish 'Chicago-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Chicago-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.304Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-24",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-24",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Hoosier-style barbecue' to dish 'Hoosier-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Hoosier-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.314Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-31",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-31",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Kansas City-style barbecue' to dish 'Kansas City-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Kansas City-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.318Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-40",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-40",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Pepper and egg sandwich' to dish 'Pepper and egg sandwich'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Pepper and egg sandwich",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.324Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-55",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-55",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'St. Louis-style barbecue' to dish 'St. Louis-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "St. Louis-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.331Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-125",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-125",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New York–style bagel' to dish 'New York–style bagel'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New York–style bagel",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.362Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-126",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-126",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New York-style cheesecake' to dish 'New York-style cheesecake'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New York-style cheesecake",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.362Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-127",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-127",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'New York-style pizza' to dish 'New York-style pizza'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "New York-style pizza",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.363Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-144",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-144",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Sausage and peppers' to dish 'Sausage and peppers'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Sausage and peppers",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.371Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-169",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-169",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Main article: List of foods of the Southern United States Alabama-style barbecue' to dish 'Main article: List of foods of the Southern United States Alabama-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Main article: List of foods of the Southern United States Alabama-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.382Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-183",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-183",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Carolina-style hot dog' to dish 'Carolina-style hot dog'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Carolina-style hot dog",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.388Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-233",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-233",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Memphis-style barbecue' to dish 'Memphis-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Memphis-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.410Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-240",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-240",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'North Carolina-style Barbecue' to dish 'North Carolina-style Barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "North Carolina-style Barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.412Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-253",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-253",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Red beans and rice' to dish 'Red beans and rice'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Red beans and rice",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.417Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-264",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-264",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'South Carolina-style Barbecue' to dish 'South Carolina-style Barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "South Carolina-style Barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.421Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-308",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-308",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Santa Maria-style barbecue' to dish 'Santa Maria-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Santa Maria-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.441Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-314",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-314",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Texas-style barbecue' to dish 'Texas-style barbecue'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Texas-style barbecue",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.443Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-377",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-377",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Barbecue in the United States' to dish 'Barbecue in the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Barbecue in the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.471Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-379",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-379",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Carolina style' to dish 'Carolina style'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Carolina style",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.472Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-380",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-380",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Midwestern United States' to dish 'Cuisine of the Midwestern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Midwestern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.472Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-381",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-381",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of New England' to dish 'Cuisine of New England'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of New England",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.473Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-383",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-383",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of New York City' to dish 'Cuisine of New York City'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of New York City",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.474Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-387",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-387",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Southern United States' to dish 'Cuisine of the Southern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Southern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.476Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-388",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-388",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Southwestern United States' to dish 'Cuisine of the Southwestern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Southwestern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.476Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-390",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-390",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Cuisine of the Western United States' to dish 'Cuisine of the Western United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Cuisine of the Western United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.477Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-394",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-394",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of American foods' to dish 'List of American foods'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of American foods",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.479Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-395",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-395",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of American regional and fusion cuisines' to dish 'List of American regional and fusion cuisines'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of American regional and fusion cuisines",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.480Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-396",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-396",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of regional beverages of the United States' to dish 'List of regional beverages of the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of regional beverages of the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.480Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-401",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-401",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Pizza in the United States' to dish 'Pizza in the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Pizza in the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.483Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-408",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-408",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Laws of Louisiana, LL 170.9, 2003.' to dish '^ Laws of Louisiana, LL 170.9, 2003.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Laws of Louisiana, LL 170.9, 2003.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.486Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-433",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-433",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.' to dish '^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.500Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-441",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-441",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"The Office Burger\" . Food Network Magazine .' to dish '^ \"The Office Burger\" . Food Network Magazine .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"The Office Burger\" . Food Network Magazine .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.505Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-444",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-444",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe '^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .' to dish '^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.507Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-456",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-456",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'List of regional dishes of the United States' to dish 'List of regional dishes of the United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "List of regional dishes of the United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.513Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-507",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-507",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'American regional and fusion cuisines' to dish 'American regional and fusion cuisines'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "American regional and fusion cuisines",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.538Z"
+  },
+  {
+    "id": "review-map-raw-wiki-list-of-regional-dishes-of-the-united-states-510",
+    "itemType": "mapping",
+    "itemId": "raw-wiki-list-of-regional-dishes-of-the-united-states-510",
+    "issueType": "low_confidence_mapping",
+    "summary": "Low-confidence mapping for recipe 'Foods of the Southern United States' to dish 'Foods of the Southern United States'.",
+    "candidateResolutions": [
+      "Confirm dish assignment",
+      "Create a new dish concept",
+      "Add dish alias and re-run mapping"
+    ],
+    "confidenceScore": 0.5745,
+    "sourceExamples": [
+      "Wikipedia List of regional dishes of the United States",
+      "Foods of the Southern United States",
+      "https://en.wikipedia.org/wiki/List%20of%20regional%20dishes%20of%20the%20United%20States"
+    ],
+    "createdAt": "2026-04-21T01:45:25.540Z"
+  },
+  {
+    "id": "review-profile-dish-cream-soup",
+    "itemType": "dish_profile",
+    "itemId": "dish-cream-soup",
+    "issueType": "conflicting_profile",
+    "summary": "Dish 'Cream soup' has no canonical ingredients despite 6 recipes.",
+    "candidateResolutions": [
+      "Review recipe-to-dish mapping quality",
+      "Split dish into multiple dish concepts",
+      "Tune canonical frequency threshold"
+    ],
+    "confidenceScore": 0.44,
+    "sourceExamples": [
+      "Cream of crab soup",
+      "Cream soup",
+      "Cream of crab soup",
+      "Cream of asparagus soup",
+      "Cream of broccoli soup"
+    ],
+    "createdAt": "2026-04-21T01:45:27.127Z"
+  },
+  {
+    "id": "review-profile-dish-hamburger",
+    "itemType": "dish_profile",
+    "itemId": "dish-hamburger",
+    "issueType": "conflicting_profile",
+    "summary": "Dish 'hamburger' has no canonical ingredients despite 7 recipes.",
+    "candidateResolutions": [
+      "Review recipe-to-dish mapping quality",
+      "Split dish into multiple dish concepts",
+      "Tune canonical frequency threshold"
+    ],
+    "confidenceScore": 0.44,
+    "sourceExamples": [
+      "hamburger",
+      "Hamburger List of hamburgers",
+      "History of the hamburger",
+      "History of the hamburger in the United States",
+      "List of hamburger restaurants"
+    ],
+    "createdAt": "2026-04-21T01:45:27.127Z"
+  },
+  {
+    "id": "review-profile-dish-shrimp-creole",
+    "itemType": "dish_profile",
+    "itemId": "dish-shrimp-creole",
+    "issueType": "conflicting_profile",
+    "summary": "Dish 'Shrimp Creole' has no canonical ingredients despite 3 recipes.",
+    "candidateResolutions": [
+      "Review recipe-to-dish mapping quality",
+      "Split dish into multiple dish concepts",
+      "Tune canonical frequency threshold"
+    ],
+    "confidenceScore": 0.44,
+    "sourceExamples": [
+      "Shrimp Creole",
+      "Shrimp Creole",
+      "^ \"Shrimp Creole Recipe\" , Nola Cuisine, April 13, 2008. Retrieved November 10, 2015."
+    ],
+    "createdAt": "2026-04-21T01:45:27.128Z"
+  }
+]

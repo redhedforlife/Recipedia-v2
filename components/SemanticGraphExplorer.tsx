@@ -9,6 +9,7 @@ import {
   Gauge,
   Layers3,
   MapPinned,
+  Maximize2,
   RotateCcw,
   Search,
   SlidersHorizontal,
@@ -34,6 +35,7 @@ import {
   type Node,
   type NodeProps
 } from "@xyflow/react";
+import { useRouter } from "next/navigation";
 import type { IngredientFilterIndex } from "@/lib/ingredients/effectiveIngredients";
 import { scoreNode } from "@/lib/ranking/scoreNode";
 import type { SemanticGraph } from "@/lib/graph/types";
@@ -41,7 +43,7 @@ import type { GraphNodeKind, KnowledgeGraphEdge, KnowledgeGraphNode } from "@/li
 
 type ViewMode = "dishes" | "chefs" | "techniques" | "ingredients";
 
-type SemanticNodeRole = "context" | "selected" | "result";
+type SemanticNodeRole = "context" | "inPath" | "selected" | "result";
 
 type SemanticNodeData = Record<string, unknown> & {
   node: KnowledgeGraphNode;
@@ -64,7 +66,7 @@ const HIERARCHY_EDGE_KINDS = new Set([
   "recipe_has_variation"
 ]);
 
-const RESULT_CAP = 8;
+const RESULT_CAP = 6;
 const NODE_WIDTH = 214;
 const NODE_HEIGHT = 104;
 const SELECTED_X = -40;
@@ -77,10 +79,13 @@ const RESULT_COLUMN_STAGGER_Y = RESULT_ROW_GAP / 2;
 const EDGE_LANE_GAP = 26;
 const EDGE_ROUTE_GUTTER = 94;
 const EDGE_GUTTER_MARGIN = 28;
+const CONTEXT_MEMORY_LIMIT = 12;
+const EDGE_MEMORY_LIMIT = 48;
 
 type SemanticEdgeData = {
   laneOffset?: number;
   centerX?: number;
+  baseEdgeId?: string;
 };
 
 const viewModes: Array<{ id: ViewMode; label: string; icon: ComponentType<{ size?: number }> }> = [
@@ -172,6 +177,7 @@ function SemanticGraphExplorerInner({
   initialMode: string;
   initialFocus: string;
 }) {
+  const router = useRouter();
   const reactFlow = useReactFlow();
   const didInitialFit = useRef(false);
 
@@ -192,6 +198,12 @@ function SemanticGraphExplorerInner({
   const [query, setQuery] = useState("");
   const [selectedNodeId, setSelectedNodeId] = useState<string | undefined>(defaultSelected?.id);
   const [resultVisibleCount, setResultVisibleCount] = useState(RESULT_CAP);
+  const [navigationPath, setNavigationPath] = useState<string[]>(() =>
+    defaultSelected ? buildBreadcrumbPath(defaultSelected.id, hierarchyParents, nodesById).map((node) => node.id) : []
+  );
+  const [contextNodeIds, setContextNodeIds] = useState<string[]>([]);
+  const [contextEdgeIds, setContextEdgeIds] = useState<string[]>([]);
+  const panTargetNodeIdRef = useRef<string | undefined>(defaultSelected?.id);
   const [filters, setFilters] = useState<FilterState>({
     chefIds: [],
     ingredientIds: [],
@@ -200,7 +212,12 @@ function SemanticGraphExplorerInner({
 
   const selectedNode = selectedNodeId ? nodesById.get(selectedNodeId) : undefined;
   const breadcrumbs = useMemo(() => buildBreadcrumbPath(selectedNodeId, hierarchyParents, nodesById), [selectedNodeId, hierarchyParents, nodesById]);
-  const contextNodes = useMemo(() => breadcrumbs.slice(Math.max(0, breadcrumbs.length - 3), -1), [breadcrumbs]);
+  const breadcrumbNodes = useMemo(() => {
+    const fromNavigation = navigationPath
+      .map((nodeId) => nodesById.get(nodeId))
+      .filter((node): node is KnowledgeGraphNode => Boolean(node));
+    return fromNavigation.length ? fromNavigation : breadcrumbs;
+  }, [breadcrumbs, navigationPath, nodesById]);
 
   const familyIdsInScope = useMemo(() => {
     if (!selectedNode) return new Set<string>();
@@ -246,33 +263,72 @@ function SemanticGraphExplorerInner({
     return resultNodes.filter((node) => searchableText(node).includes(needle));
   }, [query, resultNodes]);
 
-  const visibleNodes = useMemo(() => {
-    const nodes: Array<{ node: KnowledgeGraphNode; role: SemanticNodeRole }> = [];
-    contextNodes.forEach((node) => nodes.push({ node, role: "context" }));
-    if (selectedNode) nodes.push({ node: selectedNode, role: "selected" });
-    queryMatches.forEach((node) => {
-      if (selectedNode && node.id === selectedNode.id) return;
-      nodes.push({ node, role: "result" });
-    });
-    if (!selectedNode && !queryMatches.length) {
-      topCuisines.slice(0, resultVisibleCount).forEach((node) => nodes.push({ node, role: "result" }));
-    }
+  const pathNodes = useMemo(() => breadcrumbs.slice(0, -1), [breadcrumbs]);
+  const inPathNodes = useMemo(() => pathNodes.slice(Math.max(0, pathNodes.length - 4)), [pathNodes]);
+  const isDrilldown = Boolean(selectedNode);
+  const activeResultNodes = useMemo(
+    () => queryMatches.filter((node) => !selectedNode || node.id !== selectedNode.id),
+    [queryMatches, selectedNode]
+  );
+  const displayedResultNodes = useMemo(
+    () => activeResultNodes.slice(0, resultVisibleCount),
+    [activeResultNodes, resultVisibleCount]
+  );
 
-    const unique = new Map<string, { node: KnowledgeGraphNode; role: SemanticNodeRole }>();
-    nodes.forEach((entry) => unique.set(entry.node.id, entry));
-    return Array.from(unique.values());
-  }, [contextNodes, queryMatches, resultVisibleCount, selectedNode, topCuisines]);
+  const activeNodeIds = useMemo(() => {
+    const ids = new Set<string>();
+    inPathNodes.forEach((node) => ids.add(node.id));
+    if (selectedNode) ids.add(selectedNode.id);
+    displayedResultNodes.forEach((node) => ids.add(node.id));
+    return ids;
+  }, [displayedResultNodes, inPathNodes, selectedNode]);
+
+  const contextNodes = useMemo(() => {
+    return contextNodeIds
+      .filter((id) => !activeNodeIds.has(id))
+      .map((id) => nodesById.get(id))
+      .filter((node): node is KnowledgeGraphNode => Boolean(node))
+      .slice(-CONTEXT_MEMORY_LIMIT);
+  }, [activeNodeIds, contextNodeIds, nodesById]);
+
+  const visibleNodes = useMemo(() => {
+    const roleByNodeId = new Map<string, SemanticNodeRole>();
+    contextNodes.forEach((node) => roleByNodeId.set(node.id, "context"));
+    inPathNodes.forEach((node) => roleByNodeId.set(node.id, "inPath"));
+    displayedResultNodes.forEach((node) => roleByNodeId.set(node.id, "result"));
+    if (selectedNode) roleByNodeId.set(selectedNode.id, "selected");
+
+    const orderedIds = [
+      ...contextNodes.map((node) => node.id),
+      ...inPathNodes.map((node) => node.id),
+      ...(selectedNode ? [selectedNode.id] : []),
+      ...displayedResultNodes.map((node) => node.id)
+    ];
+
+    const dedupedOrderedIds = Array.from(new Set(orderedIds));
+
+    return dedupedOrderedIds
+      .map((id) => {
+        const node = nodesById.get(id);
+        const role = roleByNodeId.get(id);
+        if (!node || !role) return undefined;
+        return { node, role };
+      })
+      .filter((entry): entry is { node: KnowledgeGraphNode; role: SemanticNodeRole } => Boolean(entry));
+  }, [contextNodes, displayedResultNodes, inPathNodes, nodesById, selectedNode]);
 
   const flowNodes = useMemo<SemanticFlowNode[]>(() => {
-    const contextCount = contextNodes.length;
-    const contextStartX = SELECTED_X - contextCount * CONTEXT_STEP_X;
+    const inPathIndex = new Map(inPathNodes.map((node, index) => [node.id, index]));
+    const resultIndex = new Map(displayedResultNodes.map((node, index) => [node.id, index]));
+    const contextIndex = new Map(contextNodes.map((node, index) => [node.id, index]));
+    const contextRailX = SELECTED_X - (inPathNodes.length + 1) * CONTEXT_STEP_X - 270;
     const positioned = visibleNodes.map((entry) => {
-      if (entry.role === "context") {
-        const contextIndex = contextNodes.findIndex((node) => node.id === entry.node.id);
+      if (entry.role === "inPath") {
+        const pathIndex = inPathIndex.get(entry.node.id) ?? 0;
         return {
           ...entry,
           position: {
-            x: contextStartX + contextIndex * CONTEXT_STEP_X,
+            x: SELECTED_X - (inPathNodes.length - pathIndex) * CONTEXT_STEP_X,
             y: 0
           }
         };
@@ -283,17 +339,31 @@ function SemanticGraphExplorerInner({
           position: { x: SELECTED_X, y: 0 }
         };
       }
+      if (entry.role === "context") {
+        const staleIndex = contextIndex.get(entry.node.id) ?? 0;
+        const column = Math.floor(staleIndex / 6);
+        const row = staleIndex % 6;
+        return {
+          ...entry,
+          position: {
+            x: contextRailX - column * 220,
+            y: -280 + row * 112
+          }
+        };
+      }
 
-      const resultIndex = queryMatches.findIndex((node) => node.id === entry.node.id);
-      const normalizedIndex = Math.max(resultIndex, 0);
-      const column = Math.floor(normalizedIndex / RESULTS_PER_COLUMN);
-      const row = normalizedIndex % RESULTS_PER_COLUMN;
-      const columnYOffset = column % 2 === 0 ? 0 : RESULT_COLUMN_STAGGER_Y;
+      const normalizedIndex = Math.max(resultIndex.get(entry.node.id) ?? 0, 0);
+      const column = isDrilldown ? 0 : Math.floor(normalizedIndex / RESULTS_PER_COLUMN);
+      const row = isDrilldown ? normalizedIndex : normalizedIndex % RESULTS_PER_COLUMN;
+      const columnYOffset = isDrilldown ? 0 : column % 2 === 0 ? 0 : RESULT_COLUMN_STAGGER_Y;
+      const verticalCenterOffset = isDrilldown
+        ? (displayedResultNodes.length - 1) / 2
+        : (RESULTS_PER_COLUMN - 1) / 2;
       return {
         ...entry,
         position: {
           x: RESULT_START_X + column * RESULT_COLUMN_GAP,
-          y: (row - (RESULTS_PER_COLUMN - 1) / 2) * RESULT_ROW_GAP + columnYOffset
+          y: (row - verticalCenterOffset) * RESULT_ROW_GAP + columnYOffset
         }
       };
     });
@@ -311,10 +381,11 @@ function SemanticGraphExplorerInner({
       sourcePosition: Position.Right,
       targetPosition: Position.Left
     }));
-  }, [contextNodes, queryMatches, selectedNodeId, visibleNodes]);
+  }, [contextNodes, displayedResultNodes, inPathNodes, isDrilldown, selectedNodeId, visibleNodes]);
 
   const flowNodeIds = useMemo(() => new Set(flowNodes.map((node) => node.id)), [flowNodes]);
   const flowNodeById = useMemo(() => new Map(flowNodes.map((node) => [node.id, node])), [flowNodes]);
+  const activeFlowNodes = useMemo(() => flowNodes.filter((node) => activeNodeIds.has(node.id)), [activeNodeIds, flowNodes]);
 
   const activeBounds = useMemo(() => {
     if (!flowNodes.length) return undefined;
@@ -349,20 +420,24 @@ function SemanticGraphExplorerInner({
         (edge) => flowNodeIds.has(edge.source) && flowNodeIds.has(edge.target) && edge.source === rightId && edge.target === leftId
       );
 
+    const graphEdgeById = new Map(graph.edges.map((edge) => [edge.id, edge]));
     const edges: Edge<SemanticEdgeData>[] = [];
+    const activeEdgeSourceIds = new Set<string>();
 
     for (let index = 0; index < breadcrumbs.length - 1; index += 1) {
       const source = breadcrumbs[index];
       const target = breadcrumbs[index + 1];
       const relation = relationBetween(source.id, target.id);
       const sourceFlowNode = flowNodeById.get(source.id);
+      if (relation?.id) activeEdgeSourceIds.add(relation.id);
       edges.push({
         id: `path-${source.id}-${target.id}`,
         source: source.id,
         target: target.id,
         type: "semantic",
         data: {
-          centerX: sourceFlowNode ? sourceFlowNode.position.x + NODE_WIDTH + EDGE_ROUTE_GUTTER : undefined
+          centerX: sourceFlowNode ? sourceFlowNode.position.x + NODE_WIDTH + EDGE_ROUTE_GUTTER : undefined,
+          baseEdgeId: relation?.id
         },
         style: {
           stroke: edgeColor(relation),
@@ -374,8 +449,7 @@ function SemanticGraphExplorerInner({
     }
 
     if (selectedNode) {
-      const siblingTargets = queryMatches
-        .filter((resultNode) => resultNode.id !== selectedNode.id)
+      const siblingTargets = displayedResultNodes
         .map((resultNode) => {
           const relation = relationBetween(selectedNode.id, resultNode.id);
           if (!relation) return undefined;
@@ -394,6 +468,7 @@ function SemanticGraphExplorerInner({
               sourceFlowNode.position.x + NODE_WIDTH + EDGE_ROUTE_GUTTER + Math.abs(laneOffset) * 0.45
             )
           : undefined;
+        if (item.relation.id) activeEdgeSourceIds.add(item.relation.id);
         edges.push({
           id: `result-${selectedNode.id}-${item.resultNode.id}`,
           source: selectedNode.id,
@@ -401,7 +476,8 @@ function SemanticGraphExplorerInner({
           type: "semantic",
           data: {
             laneOffset,
-            centerX: laneCenterX
+            centerX: laneCenterX,
+            baseEdgeId: item.relation.id
           },
           style: {
             stroke: edgeColor(item.relation),
@@ -413,8 +489,46 @@ function SemanticGraphExplorerInner({
       });
     }
 
+    contextEdgeIds.forEach((contextEdgeId) => {
+      if (activeEdgeSourceIds.has(contextEdgeId)) return;
+      const relation = graphEdgeById.get(contextEdgeId);
+      if (!relation) return;
+      if (!flowNodeIds.has(relation.source) || !flowNodeIds.has(relation.target)) return;
+
+      const sourceFlowNode = flowNodeById.get(relation.source);
+      const targetFlowNode = flowNodeById.get(relation.target);
+      if (!sourceFlowNode || !targetFlowNode) return;
+
+      const oriented = sourceFlowNode.position.x <= targetFlowNode.position.x
+        ? { source: relation.source, target: relation.target }
+        : { source: relation.target, target: relation.source };
+
+      const orientedSourceNode = flowNodeById.get(oriented.source);
+      const orientedTargetNode = flowNodeById.get(oriented.target);
+      if (!orientedSourceNode || !orientedTargetNode) return;
+
+      edges.push({
+        id: `context-${contextEdgeId}`,
+        source: oriented.source,
+        target: oriented.target,
+        type: "semantic",
+        data: {
+          centerX: Math.min(
+            orientedTargetNode.position.x - EDGE_GUTTER_MARGIN,
+            orientedSourceNode.position.x + NODE_WIDTH + EDGE_ROUTE_GUTTER * 0.78
+          )
+        },
+        style: {
+          stroke: edgeColor(relation),
+          strokeWidth: 1.2,
+          opacity: 0.26
+        },
+        zIndex: 1
+      });
+    });
+
     return edges;
-  }, [breadcrumbs, flowNodeById, flowNodeIds, graph.edges, queryMatches, selectedNode]);
+  }, [breadcrumbs, contextEdgeIds, displayedResultNodes, flowNodeById, flowNodeIds, graph.edges, selectedNode]);
 
   const filterOptions = useMemo(() => {
     const chefs = graph.nodes.filter((node) => node.kind === "creator").sort((a, b) => a.label.localeCompare(b.label));
@@ -437,36 +551,56 @@ function SemanticGraphExplorerInner({
 
   useEffect(() => {
     if (!selectedNodeId || !flowNodes.length) return;
+    if (panTargetNodeIdRef.current !== selectedNodeId) return;
     const frame = window.requestAnimationFrame(() => {
-      const selectedFlowNode = reactFlow.getNode(selectedNodeId);
-      if (!selectedFlowNode) return;
-      const currentViewport = reactFlow.getViewport();
-      reactFlow.setCenter(selectedFlowNode.position.x + NODE_WIDTH / 2, selectedFlowNode.position.y + NODE_HEIGHT / 2, {
-        zoom: Math.max(currentViewport.zoom, 0.86),
-        duration: 240
+      const branchNodes = activeFlowNodes.length ? activeFlowNodes : flowNodes.filter((node) => node.id === selectedNodeId);
+      if (!branchNodes.length) return;
+      reactFlow.fitView({
+        nodes: branchNodes,
+        padding: 0.24,
+        duration: 260,
+        maxZoom: 1.08
       });
+      panTargetNodeIdRef.current = undefined;
     });
     return () => window.cancelAnimationFrame(frame);
-  }, [flowNodes.length, reactFlow, selectedNodeId]);
+  }, [activeFlowNodes, flowNodes, reactFlow, selectedNodeId]);
 
   const focusNode = useCallback((node: KnowledgeGraphNode) => {
+    const currentVisibleNodeIds = visibleNodes.map((entry) => entry.node.id).filter((id) => id !== node.id);
+    const currentActiveEdgeIds = flowEdges
+      .filter((edge) => !edge.id.startsWith("context-"))
+      .map((edge) => edge.data?.baseEdgeId)
+      .filter((edgeId): edgeId is string => Boolean(edgeId));
+
+    setContextNodeIds((current) => mergeUniqueTail([...current, ...currentVisibleNodeIds], CONTEXT_MEMORY_LIMIT));
+    setContextEdgeIds((current) => mergeUniqueTail([...current, ...currentActiveEdgeIds], EDGE_MEMORY_LIMIT));
+    setNavigationPath((current) =>
+      nextNavigationPath(current, node.id, hierarchyParents, nodesById)
+    );
+    panTargetNodeIdRef.current = node.id;
     setSelectedNodeId(node.id);
     setResultVisibleCount(RESULT_CAP);
-  }, []);
+  }, [flowEdges, hierarchyParents, nodesById, visibleNodes]);
 
   const recenter = useCallback(() => {
-    if (!flowNodes.length) {
+    const focusNodes = activeFlowNodes.length ? activeFlowNodes : flowNodes;
+    if (!focusNodes.length) {
       return;
     }
-    reactFlow.fitView({ nodes: flowNodes, padding: 0.24, duration: 420, maxZoom: 1.1 });
-  }, [flowNodes, reactFlow]);
+    reactFlow.fitView({ nodes: focusNodes, padding: 0.24, duration: 420, maxZoom: 1.1 });
+  }, [activeFlowNodes, flowNodes, reactFlow]);
 
   const clearFilters = () => {
     setFilters({ chefIds: [], ingredientIds: [], difficultyIds: [] });
   };
 
   const reset = () => {
+    panTargetNodeIdRef.current = undefined;
     setSelectedNodeId(undefined);
+    setNavigationPath([]);
+    setContextNodeIds([]);
+    setContextEdgeIds([]);
     setFilters({ chefIds: [], ingredientIds: [], difficultyIds: [] });
     setViewMode("dishes");
     setQuery("");
@@ -488,8 +622,8 @@ function SemanticGraphExplorerInner({
         </div>
 
         <nav className="graph-breadcrumbs" aria-label="Current path">
-          {breadcrumbs.length ? (
-            breadcrumbs.map((node, index) => (
+          {breadcrumbNodes.length ? (
+            breadcrumbNodes.map((node, index) => (
               <button
                 className={node.id === selectedNodeId ? "active" : ""}
                 key={node.id}
@@ -593,6 +727,10 @@ function SemanticGraphExplorerInner({
             <Focus size={17} />
             Recenter
           </button>
+          <button onClick={() => reactFlow.fitView({ padding: 0.24, duration: 420, maxZoom: 1.1 })} title="Fit visible graph" type="button">
+            <Maximize2 size={17} />
+            Fit
+          </button>
         </div>
 
         <div className="graph-stats" aria-label="Result summary">
@@ -613,7 +751,12 @@ function SemanticGraphExplorerInner({
           nodesDraggable={false}
           nodeTypes={semanticNodeTypes}
           onNodeClick={(_, flowNode) => {
-            focusNode(flowNode.data.node);
+            const nextNode = flowNode.data.node;
+            if (selectedNodeId === nextNode.id) {
+              router.push(nextNode.href);
+              return;
+            }
+            focusNode(nextNode);
           }}
           proOptions={{ hideAttribution: true }}
         >
@@ -661,7 +804,7 @@ function SemanticGraphExplorerInner({
                 onClick={() => setResultVisibleCount((count) => Math.min(count + 4, totalResultCount))}
                 type="button"
               >
-                <Compass size={15} /> Show more
+                <Compass size={15} /> See more
               </button>
             ) : null}
 
@@ -773,6 +916,27 @@ function SemanticNode({ data, selected }: NodeProps<SemanticFlowNode>) {
       <Handle className="semantic-handle" isConnectable={false} position={Position.Right} type="source" />
     </div>
   );
+}
+
+function mergeUniqueTail(ids: string[], limit: number) {
+  return Array.from(new Set(ids)).slice(-limit);
+}
+
+function nextNavigationPath(
+  currentPath: string[],
+  nextNodeId: string,
+  parents: Map<string, string>,
+  nodesById: Map<string, KnowledgeGraphNode>
+) {
+  const existingIndex = currentPath.indexOf(nextNodeId);
+  if (existingIndex >= 0) {
+    return currentPath.slice(0, existingIndex + 1);
+  }
+
+  const hierarchyPath = buildBreadcrumbPath(nextNodeId, parents, nodesById).map((node) => node.id);
+  if (hierarchyPath.length) return hierarchyPath;
+
+  return mergeUniqueTail([...currentPath, nextNodeId], CONTEXT_MEMORY_LIMIT);
 }
 
 function parseInitialViewMode(value: string): ViewMode {
