@@ -1,3 +1,4 @@
+import { CsvImportManager } from "@/app/admin/import/CsvImportManager";
 import { ImportForm } from "@/app/admin/import/ImportForm";
 import { getData } from "@/lib/data";
 
@@ -5,26 +6,25 @@ export default async function ImportPage() {
   const data = await getData();
 
   return (
-    <main className="container section">
+    <main className="container section stack">
       <div className="section-head">
         <div>
-          <p className="eyebrow">Internal tool</p>
-          <h1>Import a Serious Eats recipe</h1>
+          <p className="eyebrow">Data management</p>
+          <h1>CSV Import Staging + Publish</h1>
           <p className="lede">
-            The MVP importer tries recipe-scrapers first, then JSON-LD recipe data, then a Beautiful Soup fallback.
+            Postgres is the canonical source of truth. Upload CSV into staging, validate schema and references, inspect preview,
+            then publish.
           </p>
         </div>
       </div>
-      <div className="split">
+
+      <CsvImportManager />
+
+      <section className="card stack">
+        <h2>Legacy URL Import (optional)</h2>
+        <p className="meta">Existing Serious Eats URL import remains available for manual enrichment workflows.</p>
         <ImportForm families={data.families} />
-        <aside className="card stack">
-          <h3>Import rules</h3>
-          <p className="meta">Only Serious Eats URLs are accepted in this MVP.</p>
-          <p className="meta">Attribution, extraction method, confidence, source URL, and imported timestamp are stored.</p>
-          <p className="meta">Install Python dependencies with: pip install -r requirements.txt</p>
-        </aside>
-      </div>
+      </section>
     </main>
   );
 }
-

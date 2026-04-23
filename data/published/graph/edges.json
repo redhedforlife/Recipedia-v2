@@ -1,0 +1,638 @@
+[
+  {
+    "id": "edge-cui-american-cat-american-sandwiches",
+    "source": "cui-american",
+    "target": "cat-american-sandwiches",
+    "kind": "cuisine_contains_category"
+  },
+  {
+    "id": "edge-cui-american-cat-american-burgers",
+    "source": "cui-american",
+    "target": "cat-american-burgers",
+    "kind": "cuisine_contains_category"
+  },
+  {
+    "id": "edge-cui-american-cat-american-barbecue",
+    "source": "cui-american",
+    "target": "cat-american-barbecue",
+    "kind": "cuisine_contains_category"
+  },
+  {
+    "id": "edge-cui-american-cat-american-fried-chicken",
+    "source": "cui-american",
+    "target": "cat-american-fried-chicken",
+    "kind": "cuisine_contains_category"
+  },
+  {
+    "id": "edge-cui-american-cat-american-soups-stews",
+    "source": "cui-american",
+    "target": "cat-american-soups-stews",
+    "kind": "cuisine_contains_category"
+  },
+  {
+    "id": "edge-cat-burgers-09c6dfae-dish-hamburger",
+    "source": "cat-burgers-09c6dfae",
+    "target": "dish-hamburger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-soups-58c2caa7-dish-cream-soup",
+    "source": "cat-soups-58c2caa7",
+    "target": "dish-cream-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-cheeseburger",
+    "source": "cat-american-burgers",
+    "target": "dish-cheeseburger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-club-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-club-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-seafood-dishes-67642233-dish-shrimp-creole",
+    "source": "cat-seafood-dishes-67642233",
+    "target": "dish-shrimp-creole",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pies-and-pastries-eefde59e-dish-bean-pie",
+    "source": "cat-pies-and-pastries-eefde59e",
+    "target": "dish-bean-pie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-wraps-and-rolls-dd6f3471-dish-california-roll",
+    "source": "cat-wraps-and-rolls-dd6f3471",
+    "target": "dish-california-roll",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pies-and-pastries-eefde59e-dish-clam-pie",
+    "source": "cat-pies-and-pastries-eefde59e",
+    "target": "dish-clam-pie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-seafood-dishes-67642233-dish-crab-louie",
+    "source": "cat-seafood-dishes-67642233",
+    "target": "dish-crab-louie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-snacks-and-street-food-7e6d6760-dish-disco-fries",
+    "source": "cat-snacks-and-street-food-7e6d6760",
+    "target": "dish-disco-fries",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-soups-58c2caa7-dish-maryland-crab-soup",
+    "source": "cat-soups-58c2caa7",
+    "target": "dish-maryland-crab-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-sandwiches-116c3e15-dish-muffuletta",
+    "source": "cat-sandwiches-116c3e15",
+    "target": "dish-muffuletta",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pancakes-and-crepes-283edd96-dish-pancake",
+    "source": "cat-pancakes-and-crepes-283edd96",
+    "target": "dish-pancake",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pies-and-pastries-eefde59e-dish-peanut-pie",
+    "source": "cat-pies-and-pastries-eefde59e",
+    "target": "dish-peanut-pie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-cakes-and-gateaux-d8e29f50-dish-red-velvet-cake",
+    "source": "cat-cakes-and-gateaux-d8e29f50",
+    "target": "dish-red-velvet-cake",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-salads-aa3e870c-dish-seven-layer-salad",
+    "source": "cat-salads-aa3e870c",
+    "target": "dish-seven-layer-salad",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pies-and-pastries-eefde59e-dish-tamale-pie",
+    "source": "cat-pies-and-pastries-eefde59e",
+    "target": "dish-tamale-pie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-salads-aa3e870c-dish-waldorf-salad",
+    "source": "cat-salads-aa3e870c",
+    "target": "dish-waldorf-salad",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-french-dip",
+    "source": "cat-american-sandwiches",
+    "target": "dish-french-dip",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-gumbo",
+    "source": "cat-american-soups-stews",
+    "target": "dish-gumbo",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pasta-dishes-18ec3e4d-dish-carbonara",
+    "source": "cat-pasta-dishes-18ec3e4d",
+    "target": "dish-carbonara",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-flatbreads-and-pizzas-f0961fe2-dish-chocolate-pizza",
+    "source": "cat-flatbreads-and-pizzas-f0961fe2",
+    "target": "dish-chocolate-pizza",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-puddings-and-custards-1664b0f1-dish-cottage-pudding",
+    "source": "cat-puddings-and-custards-1664b0f1",
+    "target": "dish-cottage-pudding",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-cakes-and-gateaux-d8e29f50-dish-crab-cake",
+    "source": "cat-cakes-and-gateaux-d8e29f50",
+    "target": "dish-crab-cake",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-sandwiches-116c3e15-dish-dagwood-sandwich",
+    "source": "cat-sandwiches-116c3e15",
+    "target": "dish-dagwood-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pies-and-pastries-eefde59e-dish-desperation-pie",
+    "source": "cat-pies-and-pastries-eefde59e",
+    "target": "dish-desperation-pie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-seafood-dishes-67642233-dish-dishwasher-salmon",
+    "source": "cat-seafood-dishes-67642233",
+    "target": "dish-dishwasher-salmon",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-pasta-dishes-18ec3e4d-dish-fettuccine-alfredo",
+    "source": "cat-pasta-dishes-18ec3e4d",
+    "target": "dish-fettuccine-alfredo",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-dips-and-spreads-3b58ecf2-dish-french-onion-dip",
+    "source": "cat-dips-and-spreads-3b58ecf2",
+    "target": "dish-french-onion-dip",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-confections-and-sweets-33dd665f-dish-fudge",
+    "source": "cat-confections-and-sweets-33dd665f",
+    "target": "dish-fudge",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-burgers-09c6dfae-dish-luther-burger",
+    "source": "cat-burgers-09c6dfae",
+    "target": "dish-luther-burger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-sandwiches-116c3e15-dish-monte-cristo-sandwich",
+    "source": "cat-sandwiches-116c3e15",
+    "target": "dish-monte-cristo-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-puddings-and-custards-1664b0f1-dish-persimmon-pudding",
+    "source": "cat-puddings-and-custards-1664b0f1",
+    "target": "dish-persimmon-pudding",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-wraps-and-rolls-dd6f3471-dish-sushi-burrito",
+    "source": "cat-wraps-and-rolls-dd6f3471",
+    "target": "dish-sushi-burrito",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-sandwiches-116c3e15-dish-tuna-fish-sandwich",
+    "source": "cat-sandwiches-116c3e15",
+    "target": "dish-tuna-fish-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-rice-dishes-e5a0eea5-dish-wild-rice-salad",
+    "source": "cat-rice-dishes-e5a0eea5",
+    "target": "dish-wild-rice-salad",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-breads-and-loaves-c2814f9c-dish-wonder-bread",
+    "source": "cat-breads-and-loaves-c2814f9c",
+    "target": "dish-wonder-bread",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-american-sandwiches",
+    "source": "cat-american-sandwiches",
+    "target": "dish-american-sandwiches",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-barbecue-in-the-united-states",
+    "source": "cat-american-barbecue",
+    "target": "dish-barbecue-in-the-united-states",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-fried-chicken-dish-buffalo-wings",
+    "source": "cat-american-fried-chicken",
+    "target": "dish-buffalo-wings",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-main-article-list-of-foods-of-the-southern-united-states-alabama-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-main-article-list-of-foods-of-the-southern-united-states-alabama-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-philly-cheesesteak",
+    "source": "cat-american-sandwiches",
+    "target": "dish-philly-cheesesteak",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-texas-barbecue-in-texas",
+    "source": "cat-american-barbecue",
+    "target": "dish-texas-barbecue-in-texas",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-texas-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-texas-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-north-carolina-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-north-carolina-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-south-carolina-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-south-carolina-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-pulled-pork-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-pulled-pork-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-sandwiches-116c3e15-dish-peanut-butter-and-jelly-sandwich",
+    "source": "cat-sandwiches-116c3e15",
+    "target": "dish-peanut-butter-and-jelly-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-sandwiches-116c3e15-dish-peanut-butter-and-pickle-sandwich",
+    "source": "cat-sandwiches-116c3e15",
+    "target": "dish-peanut-butter-and-pickle-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-oostburger-tailgating-ideas-september-21-2014-retrieved-march-7-2025",
+    "source": "cat-american-burgers",
+    "target": "dish-oostburger-tailgating-ideas-september-21-2014-retrieved-march-7-2025",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-the-office-burger-food-network-magazine",
+    "source": "cat-american-burgers",
+    "target": "dish-the-office-burger-food-network-magazine",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-the-oostburger-brat-days-part-1-the-food-nibble-me-this-august-22-2012-retrieved-march-7-2025",
+    "source": "cat-american-burgers",
+    "target": "dish-the-oostburger-brat-days-part-1-the-food-nibble-me-this-august-22-2012-retrieved-march-7-2025",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-eng-monica-june-18-2003-saga-of-a-sandwich-chicago-tribune-retrieved-november-6-2015",
+    "source": "cat-american-sandwiches",
+    "target": "dish-eng-monica-june-18-2003-saga-of-a-sandwich-chicago-tribune-retrieved-november-6-2015",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-bacon-substitutes",
+    "source": "cat-american-sandwiches",
+    "target": "dish-bacon-substitutes",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-barbecue-bologna",
+    "source": "cat-american-barbecue",
+    "target": "dish-barbecue-bologna",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-barbecue-spaghetti",
+    "source": "cat-american-barbecue",
+    "target": "dish-barbecue-spaghetti",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-bookbinder-soup",
+    "source": "cat-american-soups-stews",
+    "target": "dish-bookbinder-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-chicago-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-chicago-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-conch-soup",
+    "source": "cat-american-soups-stews",
+    "target": "dish-conch-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-cookies-sandwich-cookie",
+    "source": "cat-american-sandwiches",
+    "target": "dish-cookies-sandwich-cookie",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-cuban-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-cuban-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-denver-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-denver-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-dips",
+    "source": "cat-american-sandwiches",
+    "target": "dish-dips",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-fish-stews",
+    "source": "cat-american-soups-stews",
+    "target": "dish-fish-stews",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-fried-chicken-dish-fried-chicken",
+    "source": "cat-american-fried-chicken",
+    "target": "dish-fried-chicken",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-fried-onion-burger",
+    "source": "cat-american-burgers",
+    "target": "dish-fried-onion-burger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-fried-brain-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-fried-brain-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-gerber-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-gerber-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-hamburgers",
+    "source": "cat-american-burgers",
+    "target": "dish-hamburgers",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-heel-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-heel-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-hoosier-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-hoosier-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-horseshoe-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-horseshoe-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-fried-chicken-dish-hot-chicken",
+    "source": "cat-american-fried-chicken",
+    "target": "dish-hot-chicken",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-kansas-city-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-kansas-city-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-limburger-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-limburger-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-matzah-ball-soup",
+    "source": "cat-american-soups-stews",
+    "target": "dish-matzah-ball-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-memphis-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-memphis-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-office-burger",
+    "source": "cat-american-burgers",
+    "target": "dish-office-burger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-oostburger",
+    "source": "cat-american-burgers",
+    "target": "dish-oostburger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-pastrami-burger",
+    "source": "cat-american-burgers",
+    "target": "dish-pastrami-burger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-peanut-soup",
+    "source": "cat-american-soups-stews",
+    "target": "dish-peanut-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-pepper-and-egg-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-pepper-and-egg-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-pilgrim-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-pilgrim-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-pit-beef-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-pit-beef-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-pork-tenderloin-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-pork-tenderloin-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-primanti-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-primanti-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-reuben-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-reuben-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-sailor-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-sailor-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-sandwiches",
+    "source": "cat-american-sandwiches",
+    "target": "dish-sandwiches",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-santa-maria-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-santa-maria-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-soups-stews-dish-she-crab-soup",
+    "source": "cat-american-soups-stews",
+    "target": "dish-she-crab-soup",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-slugburger",
+    "source": "cat-american-burgers",
+    "target": "dish-slugburger",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-smoked",
+    "source": "cat-american-barbecue",
+    "target": "dish-smoked",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-spaghetti-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-spaghetti-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-barbecue-dish-st-louis-style-barbecue",
+    "source": "cat-american-barbecue",
+    "target": "dish-st-louis-style-barbecue",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-st-paul-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-st-paul-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-tavern-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-tavern-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-sandwiches-dish-tomato-sandwich",
+    "source": "cat-american-sandwiches",
+    "target": "dish-tomato-sandwich",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-sheridan-dick-15-june-1999-buffalo-meat-makes-comeback-daily-news-new-york-retrieved-25-november-2011",
+    "source": "cat-american-burgers",
+    "target": "dish-sheridan-dick-15-june-1999-buffalo-meat-makes-comeback-daily-news-new-york-retrieved-25-november-2011",
+    "kind": "category_contains_dish"
+  },
+  {
+    "id": "edge-cat-american-burgers-dish-buffalo",
+    "source": "cat-american-burgers",
+    "target": "dish-buffalo",
+    "kind": "category_contains_dish"
+  }
+]

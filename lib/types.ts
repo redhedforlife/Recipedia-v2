@@ -345,6 +345,7 @@ export type GraphNodeKind =
   | "cuisine"
   | "category"
   | "family"
+  | "dish"
   | "creator"
   | "recipe"
   | "variation"
@@ -391,3 +392,14 @@ export type KnowledgeGraphEdge = {
   kind?: string;
   strength?: number;
 };
+
+export type {
+  CoverageStatus,
+  Dish,
+  DishIngredientProfile,
+  IngredientRole,
+  PipelineOutputs,
+  Recipe as EnrichedRecipe,
+  ReviewQueueItem,
+  SourceRef
+} from "@/lib/pipeline/types";

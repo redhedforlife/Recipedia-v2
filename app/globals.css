@@ -543,6 +543,28 @@ p {
   background: color-mix(in srgb, var(--node-color) 4%, rgba(255, 253, 248, 0.98));
 }
 
+.semantic-node-role-context {
+  opacity: 0.42;
+  background: rgba(242, 238, 232, 0.94);
+}
+
+.semantic-node-role-inPath {
+  opacity: 0.9;
+  box-shadow: 0 18px 36px rgba(49, 51, 47, 0.14);
+  background: color-mix(in srgb, var(--node-color) 6%, rgba(255, 253, 248, 0.98));
+}
+
+.semantic-node-role-selected {
+  border-width: 2px;
+  border-left-width: 6px;
+  box-shadow: 0 24px 44px rgba(49, 51, 47, 0.2);
+  background: color-mix(in srgb, var(--node-color) 8%, rgba(255, 253, 248, 0.99));
+}
+
+.semantic-node-role-result {
+  opacity: 0.96;
+}
+
 .semantic-node.dimmed {
   opacity: 0.42;
 }
@@ -728,6 +750,31 @@ p {
   padding: 12px 14px;
   background: rgba(55, 108, 85, 0.08);
   color: #294b3d;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 0.9rem;
+}
+
+.table thead th {
+  background: rgba(245, 240, 232, 0.9);
+  font-weight: 700;
 }
 
 .empty {

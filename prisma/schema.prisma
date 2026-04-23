@@ -41,6 +41,8 @@ model Cuisine {
   categories     Category[]
   primaryFamilies RecipeFamily[]      @relation("PrimaryCuisine")
   dishFamilies   CuisineDishFamily[]
+  families       Family[]
+  dishes         Dish[]
 
   @@map("cuisines")
 }
@@ -57,6 +59,8 @@ model Category {
   parentCategory   Category?      @relation("CategoryHierarchy", fields: [parentCategoryId], references: [id])
   childCategories  Category[]     @relation("CategoryHierarchy")
   dishFamilies     RecipeFamily[]
+  families         Family[]
+  dishes           Dish[]
 
   @@index([cuisineId])
   @@index([parentCategoryId])
@@ -116,10 +120,106 @@ model RecipeFamily {
   @@map("recipe_families")
 }
 
+model Family {
+  id                    String                   @id
+  slug                  String                   @unique
+  displayName           String                   @map("display_name")
+  description           String
+  cuisineId             String?                  @map("cuisine_id")
+  categoryId            String?                  @map("category_id")
+  createdAt             DateTime                 @default(now()) @map("created_at")
+  updatedAt             DateTime                 @updatedAt @map("updated_at")
+  cuisine               Cuisine?                 @relation(fields: [cuisineId], references: [id])
+  category              Category?                @relation(fields: [categoryId], references: [id])
+  dishes                Dish[]
+  canonicalIngredients  DishCanonicalIngredient[]
+
+  @@index([cuisineId])
+  @@index([categoryId])
+  @@map("families")
+}
+
+model Dish {
+  id                    String                   @id
+  slug                  String                   @unique
+  displayName           String                   @map("display_name")
+  description           String
+  cuisineId             String?                  @map("cuisine_id")
+  categoryId            String?                  @map("category_id")
+  familyId              String?                  @map("family_id")
+  confidenceScore       Float?                   @map("confidence_score")
+  recipeCount           Int                      @default(0) @map("recipe_count")
+  isPublished           Boolean                  @default(false) @map("is_published")
+  reviewedAt            DateTime?                @map("reviewed_at")
+  createdAt             DateTime                 @default(now()) @map("created_at")
+  updatedAt             DateTime                 @updatedAt @map("updated_at")
+  cuisine               Cuisine?                 @relation(fields: [cuisineId], references: [id])
+  category              Category?                @relation(fields: [categoryId], references: [id])
+  family                Family?                  @relation(fields: [familyId], references: [id])
+  aliases               DishAlias[]
+  canonicalIngredients  DishCanonicalIngredient[]
+  recipes               Recipe[]
+
+  @@index([familyId])
+  @@index([cuisineId])
+  @@index([categoryId])
+  @@index([isPublished, slug])
+  @@map("dishes")
+}
+
+model DishAlias {
+  id              String   @id @default(cuid())
+  dishId          String   @map("dish_id")
+  alias           String
+  normalizedAlias String   @map("normalized_alias")
+  isPreferred     Boolean  @default(false) @map("is_preferred")
+  createdAt       DateTime @default(now()) @map("created_at")
+  dish            Dish     @relation(fields: [dishId], references: [id], onDelete: Cascade)
+
+  @@index([dishId])
+  @@index([normalizedAlias])
+  @@map("dish_aliases")
+}
+
+model DishCanonicalIngredient {
+  dishId        String      @map("dish_id")
+  ingredientId  String      @map("ingredient_id")
+  familyId      String?     @map("family_id")
+  role          String      @default("canonical")
+  isCore        Boolean     @default(false) @map("is_core")
+  importance    Float       @default(0.5)
+  createdAt     DateTime    @default(now()) @map("created_at")
+  dish          Dish        @relation(fields: [dishId], references: [id], onDelete: Cascade)
+  ingredient    Ingredient  @relation(fields: [ingredientId], references: [id], onDelete: Cascade)
+  family        Family?     @relation(fields: [familyId], references: [id], onDelete: SetNull)
+
+  @@id([dishId, ingredientId])
+  @@index([ingredientId])
+  @@index([familyId])
+  @@map("dish_canonical_ingredients")
+}
+
+model SourceImport {
+  id                   String   @id
+  sourceUrl            String   @unique @map("source_url")
+  siteName             String   @map("site_name")
+  authorName           String?  @map("author_name")
+  licenseNote          String?  @map("license_note")
+  extractionMethod     String   @map("extraction_method")
+  extractionConfidence Float    @map("extraction_confidence")
+  importedAt           DateTime @default(now()) @map("imported_at")
+  createdAt            DateTime @default(now()) @map("created_at")
+  recipes              Recipe[]
+
+  @@map("source_imports")
+}
+
 model Recipe {
   id                 String               @id @default(cuid())
   recipeFamilyId     String               @map("recipe_family_id")
+  dishId             String?              @map("dish_id")
   sourceId           String?              @map("source_id")
+  sourceImportId     String?              @map("source_import_id")
   parentRecipeId     String?              @map("parent_recipe_id")
   createdByUserId    String?              @map("created_by_user_id")
   slug               String               @unique
@@ -135,7 +235,9 @@ model Recipe {
   createdAt          DateTime             @default(now()) @map("created_at")
   updatedAt          DateTime             @updatedAt @map("updated_at")
   family             RecipeFamily         @relation(fields: [recipeFamilyId], references: [id])
+  dish              Dish?                @relation(fields: [dishId], references: [id])
   source             Source?              @relation(fields: [sourceId], references: [id])
+  sourceImport       SourceImport?        @relation(fields: [sourceImportId], references: [id])
   parent             Recipe?              @relation("RecipeLineage", fields: [parentRecipeId], references: [id])
   children           Recipe[]             @relation("RecipeLineage")
   createdBy          User?                @relation(fields: [createdByUserId], references: [id])
@@ -147,8 +249,12 @@ model Recipe {
   cookReports        CookReport[]
   outgoingRelations  RecipeRelationship[] @relation("OutgoingRecipeRelations")
   incomingRelations  RecipeRelationship[] @relation("IncomingRecipeRelations")
+  parentVariations   RecipeVariation[]    @relation("RecipeVariationParent")
+  childVariations    RecipeVariation[]    @relation("RecipeVariationChild")
 
   @@index([recipeFamilyId])
+  @@index([dishId])
+  @@index([sourceImportId])
   @@index([parentRecipeId])
   @@map("recipes")
 }
@@ -163,6 +269,7 @@ model Ingredient {
   categoryNode  IngredientCategory? @relation(fields: [categoryId], references: [id])
   recipes       RecipeIngredient[]
   dishFamilies  DishFamilyIngredient[]
+  canonicalDishes DishCanonicalIngredient[]
 
   @@index([categoryId])
   @@map("ingredients")
@@ -357,4 +464,115 @@ model RecipeRelationship {
   @@index([fromRecipeId])
   @@index([toRecipeId])
   @@map("recipe_relationships")
+}
+
+model GraphNode {
+  id                String      @id
+  kind              String
+  label             String
+  href              String
+  description       String?
+  meta              String?
+  tags              Json?
+  canonical         Boolean     @default(false)
+  cuisineId         String?     @map("cuisine_id")
+  categoryId        String?     @map("category_id")
+  taxonomyId        String?     @map("taxonomy_id")
+  parentTaxonomyId  String?     @map("parent_taxonomy_id")
+  parentCategoryId  String?     @map("parent_category_id")
+  difficultyBandId  String?     @map("difficulty_band_id")
+  primaryMethodId   String?     @map("primary_method_id")
+  category          String?
+  createdAt         DateTime    @default(now()) @map("created_at")
+  updatedAt         DateTime    @updatedAt @map("updated_at")
+  outgoingEdges     GraphEdge[] @relation("GraphEdgeSource")
+  incomingEdges     GraphEdge[] @relation("GraphEdgeTarget")
+
+  @@index([kind])
+  @@index([cuisineId])
+  @@index([categoryId])
+  @@map("graph_nodes")
+}
+
+model GraphEdge {
+  id        String    @id
+  source    String
+  target    String
+  label     String
+  kind      String?
+  strength  Float?
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  sourceRef GraphNode @relation("GraphEdgeSource", fields: [source], references: [id], onDelete: Cascade)
+  targetRef GraphNode @relation("GraphEdgeTarget", fields: [target], references: [id], onDelete: Cascade)
+
+  @@index([source])
+  @@index([target])
+  @@map("graph_edges")
+}
+
+model RecipeVariation {
+  id                String   @id
+  parentRecipeId    String   @map("parent_recipe_id")
+  variationRecipeId String   @map("variation_recipe_id")
+  variationType     String   @map("variation_type")
+  note              String?
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+  parentRecipe      Recipe   @relation("RecipeVariationParent", fields: [parentRecipeId], references: [id], onDelete: Cascade)
+  variationRecipe   Recipe   @relation("RecipeVariationChild", fields: [variationRecipeId], references: [id], onDelete: Cascade)
+
+  @@unique([parentRecipeId, variationRecipeId, variationType])
+  @@index([variationRecipeId])
+  @@map("recipe_variations")
+}
+
+enum ImportEntityType {
+  nodes
+  edges
+  recipes
+  ingredients
+  recipe_ingredients
+  sources
+  variations
+}
+
+enum ImportBatchStatus {
+  preview_ready
+  validation_failed
+  published
+}
+
+model ImportBatch {
+  id             String           @id @default(cuid())
+  entityType     ImportEntityType @map("entity_type")
+  status         ImportBatchStatus @default(preview_ready)
+  filename       String?
+  rowCount       Int              @default(0) @map("row_count")
+  validRowCount  Int              @default(0) @map("valid_row_count")
+  errorCount     Int              @default(0) @map("error_count")
+  warningCount   Int              @default(0) @map("warning_count")
+  previewSummary Json?            @map("preview_summary")
+  createdAt      DateTime         @default(now()) @map("created_at")
+  publishedAt    DateTime?        @map("published_at")
+  rows           ImportRow[]
+
+  @@index([entityType, status])
+  @@map("import_batches")
+}
+
+model ImportRow {
+  id             String           @id @default(cuid())
+  batchId        String           @map("batch_id")
+  entityType     ImportEntityType @map("entity_type")
+  rowNumber      Int              @map("row_number")
+  rawRow         Json             @map("raw_row")
+  normalizedRow  Json?            @map("normalized_row")
+  blockingErrors Json             @default("[]")
+  warnings       Json             @default("[]")
+  createdAt      DateTime         @default(now()) @map("created_at")
+  batch          ImportBatch      @relation(fields: [batchId], references: [id], onDelete: Cascade)
+
+  @@index([batchId, rowNumber])
+  @@map("import_rows")
 }

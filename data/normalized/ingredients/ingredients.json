@@ -1,0 +1,662 @@
+[
+  {
+    "id": "ing-bean",
+    "name": "bean",
+    "slug": "bean",
+    "aliases": [
+      "beans"
+    ],
+    "normalizedFrom": [
+      "beans"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-beef",
+    "name": "beef",
+    "slug": "beef",
+    "aliases": [
+      "Beef"
+    ],
+    "normalizedFrom": [
+      "Beef"
+    ],
+    "category": "protein"
+  },
+  {
+    "id": "ing-bread",
+    "name": "bread",
+    "slug": "bread",
+    "aliases": [
+      "Bread"
+    ],
+    "normalizedFrom": [
+      "Bread"
+    ],
+    "category": "bread"
+  },
+  {
+    "id": "ing-bun",
+    "name": "bun",
+    "slug": "bun",
+    "aliases": [
+      "Bun"
+    ],
+    "normalizedFrom": [
+      "Bun"
+    ],
+    "category": "bread"
+  },
+  {
+    "id": "ing-butter",
+    "name": "butter",
+    "slug": "butter",
+    "aliases": [
+      "Butter"
+    ],
+    "normalizedFrom": [
+      "Butter"
+    ],
+    "category": "dairy"
+  },
+  {
+    "id": "ing-cabbage",
+    "name": "cabbage",
+    "slug": "cabbage",
+    "aliases": [
+      "Cabbage"
+    ],
+    "normalizedFrom": [
+      "Cabbage"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-cheese",
+    "name": "cheese",
+    "slug": "cheese",
+    "aliases": [
+      "Cheese"
+    ],
+    "normalizedFrom": [
+      "Cheese"
+    ],
+    "category": "dairy"
+  },
+  {
+    "id": "ing-chickpea",
+    "name": "chickpea",
+    "slug": "chickpea",
+    "aliases": [
+      "Chickpeas"
+    ],
+    "normalizedFrom": [
+      "Chickpeas"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-chile-pepper",
+    "name": "chile pepper",
+    "slug": "chile-pepper",
+    "aliases": [
+      "chile pepper"
+    ],
+    "normalizedFrom": [
+      "chile pepper"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-chocolate",
+    "name": "chocolate",
+    "slug": "chocolate",
+    "aliases": [
+      "chocolate"
+    ],
+    "normalizedFrom": [
+      "chocolate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-coconut-milk",
+    "name": "coconut milk",
+    "slug": "coconut-milk",
+    "aliases": [
+      "Coconut Milk"
+    ],
+    "normalizedFrom": [
+      "Coconut Milk"
+    ],
+    "category": "dairy"
+  },
+  {
+    "id": "ing-corn",
+    "name": "corn",
+    "slug": "corn",
+    "aliases": [
+      "corn"
+    ],
+    "normalizedFrom": [
+      "corn"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-cream",
+    "name": "cream",
+    "slug": "cream",
+    "aliases": [
+      "Cream"
+    ],
+    "normalizedFrom": [
+      "Cream"
+    ],
+    "category": "dairy"
+  },
+  {
+    "id": "ing-cumin",
+    "name": "cumin",
+    "slug": "cumin",
+    "aliases": [
+      "Cumin"
+    ],
+    "normalizedFrom": [
+      "Cumin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-egg",
+    "name": "egg",
+    "slug": "egg",
+    "aliases": [
+      "Egg"
+    ],
+    "normalizedFrom": [
+      "Egg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-feta",
+    "name": "feta",
+    "slug": "feta",
+    "aliases": [
+      "Feta"
+    ],
+    "normalizedFrom": [
+      "Feta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-fish",
+    "name": "fish",
+    "slug": "fish",
+    "aliases": [
+      "fish"
+    ],
+    "normalizedFrom": [
+      "fish"
+    ],
+    "category": "protein"
+  },
+  {
+    "id": "ing-fish-sauce",
+    "name": "fish sauce",
+    "slug": "fish-sauce",
+    "aliases": [
+      "Fish Sauce"
+    ],
+    "normalizedFrom": [
+      "Fish Sauce"
+    ],
+    "category": "protein"
+  },
+  {
+    "id": "ing-flour",
+    "name": "flour",
+    "slug": "flour",
+    "aliases": [
+      "Flour"
+    ],
+    "normalizedFrom": [
+      "Flour"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-flour-tortilla",
+    "name": "flour tortilla",
+    "slug": "flour-tortilla",
+    "aliases": [
+      "Flour Tortilla"
+    ],
+    "normalizedFrom": [
+      "Flour Tortilla"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-garam-masala",
+    "name": "garam masala",
+    "slug": "garam-masala",
+    "aliases": [
+      "Garam Masala"
+    ],
+    "normalizedFrom": [
+      "Garam Masala"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-garlic",
+    "name": "garlic",
+    "slug": "garlic",
+    "aliases": [
+      "Garlic"
+    ],
+    "normalizedFrom": [
+      "Garlic"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-ginger",
+    "name": "ginger",
+    "slug": "ginger",
+    "aliases": [
+      "Ginger"
+    ],
+    "normalizedFrom": [
+      "Ginger"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-green-onion",
+    "name": "green onion",
+    "slug": "green-onion",
+    "aliases": [
+      "green onion"
+    ],
+    "normalizedFrom": [
+      "green onion"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-lemon",
+    "name": "lemon",
+    "slug": "lemon",
+    "aliases": [
+      "Lemon"
+    ],
+    "normalizedFrom": [
+      "Lemon"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-lentil",
+    "name": "lentil",
+    "slug": "lentil",
+    "aliases": [
+      "Lentils"
+    ],
+    "normalizedFrom": [
+      "Lentils"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-lettuce",
+    "name": "lettuce",
+    "slug": "lettuce",
+    "aliases": [
+      "Lettuce"
+    ],
+    "normalizedFrom": [
+      "Lettuce"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-lime",
+    "name": "lime",
+    "slug": "lime",
+    "aliases": [
+      "Lime"
+    ],
+    "normalizedFrom": [
+      "Lime"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-mayonnaise",
+    "name": "mayonnaise",
+    "slug": "mayonnaise",
+    "aliases": [
+      "mayonnaise"
+    ],
+    "normalizedFrom": [
+      "mayonnaise"
+    ],
+    "category": "condiment"
+  },
+  {
+    "id": "ing-meat",
+    "name": "meat",
+    "slug": "meat",
+    "aliases": [
+      "meat"
+    ],
+    "normalizedFrom": [
+      "meat"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-milk",
+    "name": "milk",
+    "slug": "milk",
+    "aliases": [
+      "Milk"
+    ],
+    "normalizedFrom": [
+      "Milk"
+    ],
+    "category": "dairy"
+  },
+  {
+    "id": "ing-noodl",
+    "name": "noodl",
+    "slug": "noodl",
+    "aliases": [
+      "Noodles"
+    ],
+    "normalizedFrom": [
+      "Noodles"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-nut",
+    "name": "nut",
+    "slug": "nut",
+    "aliases": [
+      "nuts"
+    ],
+    "normalizedFrom": [
+      "nuts"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-oil",
+    "name": "oil",
+    "slug": "oil",
+    "aliases": [
+      "Oil"
+    ],
+    "normalizedFrom": [
+      "Oil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-olive-oil",
+    "name": "olive oil",
+    "slug": "olive-oil",
+    "aliases": [
+      "Olive Oil"
+    ],
+    "normalizedFrom": [
+      "Olive Oil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-onion",
+    "name": "onion",
+    "slug": "onion",
+    "aliases": [
+      "Onion"
+    ],
+    "normalizedFrom": [
+      "Onion"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-oregano",
+    "name": "oregano",
+    "slug": "oregano",
+    "aliases": [
+      "Oregano"
+    ],
+    "normalizedFrom": [
+      "Oregano"
+    ],
+    "category": "herb"
+  },
+  {
+    "id": "ing-parmesan-cheese",
+    "name": "parmesan cheese",
+    "slug": "parmesan-cheese",
+    "aliases": [
+      "Parmesan Cheese"
+    ],
+    "normalizedFrom": [
+      "Parmesan Cheese"
+    ],
+    "category": "dairy"
+  },
+  {
+    "id": "ing-parsley",
+    "name": "parsley",
+    "slug": "parsley",
+    "aliases": [
+      "Parsley"
+    ],
+    "normalizedFrom": [
+      "Parsley"
+    ],
+    "category": "herb"
+  },
+  {
+    "id": "ing-pasta",
+    "name": "pasta",
+    "slug": "pasta",
+    "aliases": [
+      "pasta"
+    ],
+    "normalizedFrom": [
+      "pasta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-pepper",
+    "name": "pepper",
+    "slug": "pepper",
+    "aliases": [
+      "Pepper"
+    ],
+    "normalizedFrom": [
+      "Pepper"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-pork",
+    "name": "pork",
+    "slug": "pork",
+    "aliases": [
+      "Pork"
+    ],
+    "normalizedFrom": [
+      "Pork"
+    ],
+    "category": "protein"
+  },
+  {
+    "id": "ing-potato",
+    "name": "potato",
+    "slug": "potato",
+    "aliases": [
+      "potato"
+    ],
+    "normalizedFrom": [
+      "potato"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-rice",
+    "name": "rice",
+    "slug": "rice",
+    "aliases": [
+      "Rice"
+    ],
+    "normalizedFrom": [
+      "Rice"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-salt",
+    "name": "salt",
+    "slug": "salt",
+    "aliases": [
+      "Salt"
+    ],
+    "normalizedFrom": [
+      "Salt"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-seaweed",
+    "name": "seaweed",
+    "slug": "seaweed",
+    "aliases": [
+      "seaweed"
+    ],
+    "normalizedFrom": [
+      "seaweed"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-shallot",
+    "name": "shallot",
+    "slug": "shallot",
+    "aliases": [
+      "shallot"
+    ],
+    "normalizedFrom": [
+      "shallot"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-soy-sauce",
+    "name": "soy sauce",
+    "slug": "soy-sauce",
+    "aliases": [
+      "Soy Sauce"
+    ],
+    "normalizedFrom": [
+      "Soy Sauce"
+    ],
+    "category": "condiment"
+  },
+  {
+    "id": "ing-stock",
+    "name": "stock",
+    "slug": "stock",
+    "aliases": [
+      "stock"
+    ],
+    "normalizedFrom": [
+      "stock"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-sugar",
+    "name": "sugar",
+    "slug": "sugar",
+    "aliases": [
+      "Sugar"
+    ],
+    "normalizedFrom": [
+      "Sugar"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-tahini",
+    "name": "tahini",
+    "slug": "tahini",
+    "aliases": [
+      "Tahini"
+    ],
+    "normalizedFrom": [
+      "Tahini"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-tomato",
+    "name": "tomato",
+    "slug": "tomato",
+    "aliases": [
+      "Tomato"
+    ],
+    "normalizedFrom": [
+      "Tomato"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "id": "ing-vinegar",
+    "name": "vinegar",
+    "slug": "vinegar",
+    "aliases": [
+      "Vinegar"
+    ],
+    "normalizedFrom": [
+      "Vinegar"
+    ],
+    "category": "condiment"
+  },
+  {
+    "id": "ing-wine",
+    "name": "wine",
+    "slug": "wine",
+    "aliases": [
+      "wine"
+    ],
+    "normalizedFrom": [
+      "wine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ing-yeast",
+    "name": "yeast",
+    "slug": "yeast",
+    "aliases": [
+      "Yeast"
+    ],
+    "normalizedFrom": [
+      "Yeast"
+    ],
+    "category": "other"
+  }
+]

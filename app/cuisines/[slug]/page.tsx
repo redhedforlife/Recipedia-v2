@@ -32,7 +32,7 @@ export default async function CuisinePage({
           <h1>{cuisineData.cuisine.displayName}</h1>
           <p className="lede">{cuisineData.cuisine.description}</p>
         </div>
-        <Link className="button" href={`/graph?mode=cuisine&focus=${cuisineData.cuisine.slug}`}>
+        <Link className="button" href={`/graph?mode=dish&focus=${cuisineData.cuisine.slug}`}>
           Explore map
         </Link>
       </div>

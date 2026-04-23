@@ -1,0 +1,5552 @@
+[
+  {
+    "id": "cui-american",
+    "kind": "cuisine",
+    "label": "American"
+  },
+  {
+    "id": "cat-american-sandwiches",
+    "kind": "category",
+    "label": "Sandwiches"
+  },
+  {
+    "id": "cat-american-burgers",
+    "kind": "category",
+    "label": "Burgers"
+  },
+  {
+    "id": "cat-american-barbecue",
+    "kind": "category",
+    "label": "Barbecue"
+  },
+  {
+    "id": "cat-american-fried-chicken",
+    "kind": "category",
+    "label": "Fried Chicken"
+  },
+  {
+    "id": "cat-american-soups-stews",
+    "kind": "category",
+    "label": "Soups and Stews"
+  },
+  {
+    "id": "dish-hamburger",
+    "kind": "dish",
+    "label": "hamburger",
+    "recipeCount": 7,
+    "coverageStatus": "multi_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-cream-soup",
+    "kind": "dish",
+    "label": "Cream soup",
+    "recipeCount": 6,
+    "coverageStatus": "multi_recipe",
+    "confidenceScore": 0.904
+  },
+  {
+    "id": "dish-cheeseburger",
+    "kind": "dish",
+    "label": "Cheeseburger",
+    "recipeCount": 5,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.712
+  },
+  {
+    "id": "dish-club-sandwich",
+    "kind": "dish",
+    "label": "Club Sandwich",
+    "recipeCount": 3,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-shrimp-creole",
+    "kind": "dish",
+    "label": "Shrimp Creole",
+    "recipeCount": 3,
+    "coverageStatus": "multi_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-bean-pie",
+    "kind": "dish",
+    "label": "bean pie",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-california-roll",
+    "kind": "dish",
+    "label": "California roll",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-clam-pie",
+    "kind": "dish",
+    "label": "Clam pie",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-crab-louie",
+    "kind": "dish",
+    "label": "Crab Louie",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-disco-fries",
+    "kind": "dish",
+    "label": "Disco fries",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-maryland-crab-soup",
+    "kind": "dish",
+    "label": "Maryland crab soup",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-muffuletta",
+    "kind": "dish",
+    "label": "muffuletta",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-pancake",
+    "kind": "dish",
+    "label": "pancake",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-peanut-pie",
+    "kind": "dish",
+    "label": "Peanut pie",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-red-velvet-cake",
+    "kind": "dish",
+    "label": "red velvet cake",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-seven-layer-salad",
+    "kind": "dish",
+    "label": "seven-layer salad",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-tamale-pie",
+    "kind": "dish",
+    "label": "tamale pie",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-waldorf-salad",
+    "kind": "dish",
+    "label": "Waldorf salad",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-po-boy",
+    "kind": "dish",
+    "label": "po' boy",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-s-more",
+    "kind": "dish",
+    "label": "s'more",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-french-dip",
+    "kind": "dish",
+    "label": "French Dip",
+    "recipeCount": 2,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.812
+  },
+  {
+    "id": "dish-gumbo",
+    "kind": "dish",
+    "label": "Gumbo",
+    "recipeCount": 2,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.8099999999999999
+  },
+  {
+    "id": "dish-red-beans-and-rice",
+    "kind": "dish",
+    "label": "Red beans and rice",
+    "recipeCount": 2,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6745
+  },
+  {
+    "id": "dish-carbonara",
+    "kind": "dish",
+    "label": "carbonara",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-chocolate-pizza",
+    "kind": "dish",
+    "label": "Chocolate pizza",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-cottage-pudding",
+    "kind": "dish",
+    "label": "Cottage Pudding",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-crab-cake",
+    "kind": "dish",
+    "label": "crab cake",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-dagwood-sandwich",
+    "kind": "dish",
+    "label": "Dagwood sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-desperation-pie",
+    "kind": "dish",
+    "label": "Desperation pie",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-dishwasher-salmon",
+    "kind": "dish",
+    "label": "dishwasher salmon",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-fettuccine-alfredo",
+    "kind": "dish",
+    "label": "Fettuccine Alfredo",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-french-onion-dip",
+    "kind": "dish",
+    "label": "French onion dip",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-fudge",
+    "kind": "dish",
+    "label": "fudge",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-luther-burger",
+    "kind": "dish",
+    "label": "Luther Burger",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-monte-cristo-sandwich",
+    "kind": "dish",
+    "label": "Monte Cristo sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-persimmon-pudding",
+    "kind": "dish",
+    "label": "Persimmon pudding",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-sushi-burrito",
+    "kind": "dish",
+    "label": "sushi burrito",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-tuna-fish-sandwich",
+    "kind": "dish",
+    "label": "tuna fish sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-wild-rice-salad",
+    "kind": "dish",
+    "label": "Wild rice salad",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-wonder-bread",
+    "kind": "dish",
+    "label": "Wonder Bread",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.91
+  },
+  {
+    "id": "dish-mcwilliams-james-december-2013-chicken-fried-state-texas-monthly-retrieved-january-30-2016",
+    "kind": "dish",
+    "label": "^ McWilliams, James (December 2013). \"Chicken Fried State\" , Texas Monthly . Retrieved January 30, 2016.",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-american-sandwiches",
+    "kind": "dish",
+    "label": "American sandwiches",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-barbecue-in-the-united-states",
+    "kind": "dish",
+    "label": "Barbecue in the United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-buffalo-wings",
+    "kind": "dish",
+    "label": "Buffalo Wings",
+    "recipeCount": 1,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-cuisine-of-the-southern-united-states",
+    "kind": "dish",
+    "label": "Cuisine of the Southern United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-foods-of-the-southern-united-states",
+    "kind": "dish",
+    "label": "Foods of the Southern United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-louisiana-cajun",
+    "kind": "dish",
+    "label": "Louisiana Cajun",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-main-article-list-of-foods-of-the-southern-united-states-alabama-style-barbecue",
+    "kind": "dish",
+    "label": "Main article: List of foods of the Southern United States Alabama-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-philly-cheesesteak",
+    "kind": "dish",
+    "label": "Philly Cheesesteak",
+    "recipeCount": 1,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-southern-united-states",
+    "kind": "dish",
+    "label": "Southern United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-texas-barbecue-in-texas",
+    "kind": "dish",
+    "label": "Texas Barbecue in Texas",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-texas-caviar",
+    "kind": "dish",
+    "label": "Texas caviar",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-texas-toast",
+    "kind": "dish",
+    "label": "Texas toast",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-texas-tommy",
+    "kind": "dish",
+    "label": "Texas Tommy",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-texas-style-barbecue",
+    "kind": "dish",
+    "label": "Texas-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.9
+  },
+  {
+    "id": "dish-north-carolina-style-barbecue",
+    "kind": "dish",
+    "label": "North Carolina-style Barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.855
+  },
+  {
+    "id": "dish-south-carolina-style-barbecue",
+    "kind": "dish",
+    "label": "South Carolina-style Barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.855
+  },
+  {
+    "id": "dish-bacon-explosion",
+    "kind": "dish",
+    "label": "Bacon Explosion",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-baked-alaska",
+    "kind": "dish",
+    "label": "Baked Alaska",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-bananas-foster",
+    "kind": "dish",
+    "label": "bananas Foster",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-big-red",
+    "kind": "dish",
+    "label": "Big Red",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-celery-victor",
+    "kind": "dish",
+    "label": "celery Victor",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-certs",
+    "kind": "dish",
+    "label": "Certs",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-charms-blow-pops",
+    "kind": "dish",
+    "label": "Charms Blow Pops",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-cheese-zombie",
+    "kind": "dish",
+    "label": "cheese zombie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-chewz",
+    "kind": "dish",
+    "label": "Chewz",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-city-chicken",
+    "kind": "dish",
+    "label": "City chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-cobbler",
+    "kind": "dish",
+    "label": "cobbler",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-corn-dog",
+    "kind": "dish",
+    "label": "corn dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-crawfish-monica",
+    "kind": "dish",
+    "label": "Crawfish Monica",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-doublemint",
+    "kind": "dish",
+    "label": "Doublemint",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-touff-e",
+    "kind": "dish",
+    "label": "étouffée",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-evil-jungle-prince",
+    "kind": "dish",
+    "label": "evil jungle prince",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-extra",
+    "kind": "dish",
+    "label": "Extra",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-hot-beef-commercial",
+    "kind": "dish",
+    "label": "Hot beef commercial",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-jambalaya",
+    "kind": "dish",
+    "label": "jambalaya",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-juicy-fruit",
+    "kind": "dish",
+    "label": "Juicy Fruit",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-loco-moco",
+    "kind": "dish",
+    "label": "Loco moco",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-moose-tracks",
+    "kind": "dish",
+    "label": "Moose Tracks",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-negimaki",
+    "kind": "dish",
+    "label": "Negimaki",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-new-jersey-sloppy-joe",
+    "kind": "dish",
+    "label": "New Jersey sloppy joe",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-nutribun",
+    "kind": "dish",
+    "label": "Nutribun",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-onion-ring",
+    "kind": "dish",
+    "label": "onion ring",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-orange-chicken",
+    "kind": "dish",
+    "label": "orange chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-salisbury-steak",
+    "kind": "dish",
+    "label": "Salisbury steak",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-salt-potatoes",
+    "kind": "dish",
+    "label": "salt potatoes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-sloppy-joe",
+    "kind": "dish",
+    "label": "sloppy joe",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-sno-ball",
+    "kind": "dish",
+    "label": "Sno-ball",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-steem",
+    "kind": "dish",
+    "label": "Steem",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-tetrazzini",
+    "kind": "dish",
+    "label": "tetrazzini",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-thin-mints",
+    "kind": "dish",
+    "label": "Thin Mints",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-wrigley-s-spearmint",
+    "kind": "dish",
+    "label": "Wrigley's Spearmint",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-zours",
+    "kind": "dish",
+    "label": "Zours",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.836
+  },
+  {
+    "id": "dish-chicken-fried-steak",
+    "kind": "dish",
+    "label": "Chicken Fried Steak",
+    "recipeCount": 1,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.8099999999999999
+  },
+  {
+    "id": "dish-pulled-pork-sandwich",
+    "kind": "dish",
+    "label": "Pulled Pork Sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "reviewed",
+    "confidenceScore": 0.8099999999999999
+  },
+  {
+    "id": "dish-peanut-butter-and-jelly-sandwich",
+    "kind": "dish",
+    "label": "peanut butter and jelly sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.762
+  },
+  {
+    "id": "dish-peanut-butter-and-pickle-sandwich",
+    "kind": "dish",
+    "label": "peanut butter and pickle sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.762
+  },
+  {
+    "id": "dish-laws-of-louisiana-ll-170-9-2003",
+    "kind": "dish",
+    "label": "^ Laws of Louisiana, LL 170.9, 2003.",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-african-american",
+    "kind": "dish",
+    "label": "African American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american",
+    "kind": "dish",
+    "label": "American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-breakfast-foods",
+    "kind": "dish",
+    "label": "American breakfast foods",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-cambodian",
+    "kind": "dish",
+    "label": "American Cambodian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-cheeses",
+    "kind": "dish",
+    "label": "American cheeses",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-chinese",
+    "kind": "dish",
+    "label": "American Chinese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-chinese-cuisine",
+    "kind": "dish",
+    "label": "American Chinese cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-chop-suey",
+    "kind": "dish",
+    "label": "American chop suey",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-foods-american-breads",
+    "kind": "dish",
+    "label": "American foods American breads",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-jewish",
+    "kind": "dish",
+    "label": "American Jewish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-regional-and-fusion-cuisines",
+    "kind": "dish",
+    "label": "American regional and fusion cuisines",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-samoa",
+    "kind": "dish",
+    "label": "American Samoa",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-tea-culture",
+    "kind": "dish",
+    "label": "American tea culture",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-american-and-160-desserts",
+    "kind": "dish",
+    "label": "American&#160;desserts",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-cuisine-of-new-york-city",
+    "kind": "dish",
+    "label": "Cuisine of New York City",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-cuisine-of-the-midwestern-united-states",
+    "kind": "dish",
+    "label": "Cuisine of the Midwestern United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-cuisine-of-the-southwestern-united-states",
+    "kind": "dish",
+    "label": "Cuisine of the Southwestern United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-cuisine-of-the-western-united-states",
+    "kind": "dish",
+    "label": "Cuisine of the Western United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-filipino-american",
+    "kind": "dish",
+    "label": "Filipino-American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-greek-american",
+    "kind": "dish",
+    "label": "Greek-American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-italian-american",
+    "kind": "dish",
+    "label": "Italian-American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-italian-american-cuisine",
+    "kind": "dish",
+    "label": "Italian-American cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-jewish-american",
+    "kind": "dish",
+    "label": "Jewish-American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-list-of-american-foods",
+    "kind": "dish",
+    "label": "List of American foods",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-list-of-american-regional-and-fusion-cuisines",
+    "kind": "dish",
+    "label": "List of American regional and fusion cuisines",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-list-of-regional-beverages-of-the-united-states",
+    "kind": "dish",
+    "label": "List of regional beverages of the United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-list-of-regional-dishes-of-the-united-states",
+    "kind": "dish",
+    "label": "List of regional dishes of the United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-louisiana-creole-cuisine",
+    "kind": "dish",
+    "label": "Louisiana Creole cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-mexican-american",
+    "kind": "dish",
+    "label": "Mexican-American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-native-american",
+    "kind": "dish",
+    "label": "Native American",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-native-american-cuisine",
+    "kind": "dish",
+    "label": "Native American cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-new-york-new-york-city",
+    "kind": "dish",
+    "label": "New York New York City",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-new-york-system-wiener",
+    "kind": "dish",
+    "label": "New York System wiener",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-new-york-style-cheesecake",
+    "kind": "dish",
+    "label": "New York-style cheesecake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-new-york-style-pizza",
+    "kind": "dish",
+    "label": "New York-style pizza",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-new-york-style-bagel",
+    "kind": "dish",
+    "label": "New York–style bagel",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-pizza-in-the-united-states",
+    "kind": "dish",
+    "label": "Pizza in the United States",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-sausage-and-peppers",
+    "kind": "dish",
+    "label": "Sausage and peppers",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-sausages-sausage-dishes",
+    "kind": "dish",
+    "label": "Sausages Sausage dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-united-states-hawaiian",
+    "kind": "dish",
+    "label": "United States Hawaiian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-united-states-portal",
+    "kind": "dish",
+    "label": "United States portal",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.7200000000000001
+  },
+  {
+    "id": "dish-oostburger-tailgating-ideas-september-21-2014-retrieved-march-7-2025",
+    "kind": "dish",
+    "label": "^ \"Oostburger\" . Tailgating Ideas . September 21, 2014 . Retrieved March 7, 2025 .",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-sweet-milk-hot-water-cornbread-southern-souffl-april-8-2015-retrieved-november-14-2015",
+    "kind": "dish",
+    "label": "^ \"Sweet Milk Hot Water Cornbread\" , Southern Soufflé, April 8, 2015. Retrieved November 14, 2015.",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-the-office-burger-food-network-magazine",
+    "kind": "dish",
+    "label": "^ \"The Office Burger\" . Food Network Magazine .",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-the-oostburger-brat-days-part-1-the-food-nibble-me-this-august-22-2012-retrieved-march-7-2025",
+    "kind": "dish",
+    "label": "^ \"The Oostburger - Brat Days Part 1: The Food\" . Nibble Me This . August 22, 2012 . Retrieved March 7, 2025 .",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-eng-monica-june-18-2003-saga-of-a-sandwich-chicago-tribune-retrieved-november-6-2015",
+    "kind": "dish",
+    "label": "^ Eng, Monica (June 18, 2003). \"Saga of a Sandwich\" , Chicago Tribune . Retrieved November 6, 2015.",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-bacon-substitutes",
+    "kind": "dish",
+    "label": "Bacon substitutes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-barbecue",
+    "kind": "dish",
+    "label": "Barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-barbecue-bologna",
+    "kind": "dish",
+    "label": "Barbecue bologna",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-barbecue-spaghetti",
+    "kind": "dish",
+    "label": "Barbecue spaghetti",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-bookbinder-soup",
+    "kind": "dish",
+    "label": "Bookbinder soup",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-cajun",
+    "kind": "dish",
+    "label": "Cajun",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-cajun-cuisine",
+    "kind": "dish",
+    "label": "Cajun cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-carolina-style",
+    "kind": "dish",
+    "label": "Carolina style",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-carolina-style-hot-dog",
+    "kind": "dish",
+    "label": "Carolina-style hot dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-chicago-style-barbecue",
+    "kind": "dish",
+    "label": "Chicago-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-conch-soup",
+    "kind": "dish",
+    "label": "Conch soup",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-cookies-sandwich-cookie",
+    "kind": "dish",
+    "label": "Cookies Sandwich cookie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-cuban-sandwich",
+    "kind": "dish",
+    "label": "Cuban sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-cuisine-of-new-england",
+    "kind": "dish",
+    "label": "Cuisine of New England",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-denver-sandwich",
+    "kind": "dish",
+    "label": "Denver sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-dips",
+    "kind": "dish",
+    "label": "Dips",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-fish-stews",
+    "kind": "dish",
+    "label": "Fish stews",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-fried-chicken",
+    "kind": "dish",
+    "label": "Fried chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-fried-onion-burger",
+    "kind": "dish",
+    "label": "Fried onion burger",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-fried-brain-sandwich",
+    "kind": "dish",
+    "label": "Fried-brain sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-gerber-sandwich",
+    "kind": "dish",
+    "label": "Gerber sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-hamburgers",
+    "kind": "dish",
+    "label": "Hamburgers",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-heel-sandwich",
+    "kind": "dish",
+    "label": "Heel sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-hoosier-style-barbecue",
+    "kind": "dish",
+    "label": "Hoosier-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-horseshoe-sandwich",
+    "kind": "dish",
+    "label": "Horseshoe sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-hot-chicken",
+    "kind": "dish",
+    "label": "Hot chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-kansas-city-style-barbecue",
+    "kind": "dish",
+    "label": "Kansas City-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-limburger-sandwich",
+    "kind": "dish",
+    "label": "Limburger sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-matzah-ball-soup",
+    "kind": "dish",
+    "label": "Matzah ball soup",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-memphis-style-barbecue",
+    "kind": "dish",
+    "label": "Memphis-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-new-england",
+    "kind": "dish",
+    "label": "New England",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-new-england-boiled-dinner",
+    "kind": "dish",
+    "label": "New England boiled dinner",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-office-burger",
+    "kind": "dish",
+    "label": "Office burger",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-oostburger",
+    "kind": "dish",
+    "label": "Oostburger",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-pastrami-burger",
+    "kind": "dish",
+    "label": "Pastrami burger",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-peanut-soup",
+    "kind": "dish",
+    "label": "Peanut soup",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-pepper-and-egg-sandwich",
+    "kind": "dish",
+    "label": "Pepper and egg sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-pilgrim-sandwich",
+    "kind": "dish",
+    "label": "Pilgrim sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-pit-beef-sandwich",
+    "kind": "dish",
+    "label": "Pit beef sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-pork-tenderloin-sandwich",
+    "kind": "dish",
+    "label": "Pork tenderloin sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-primanti-sandwich",
+    "kind": "dish",
+    "label": "Primanti sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-reuben-sandwich",
+    "kind": "dish",
+    "label": "Reuben sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-sailor-sandwich",
+    "kind": "dish",
+    "label": "Sailor sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-sandwiches",
+    "kind": "dish",
+    "label": "Sandwiches",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-santa-maria-style-barbecue",
+    "kind": "dish",
+    "label": "Santa Maria-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-she-crab-soup",
+    "kind": "dish",
+    "label": "She-crab soup",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-slugburger",
+    "kind": "dish",
+    "label": "Slugburger",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-smoked",
+    "kind": "dish",
+    "label": "Smoked",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-southern-tomato-pie",
+    "kind": "dish",
+    "label": "Southern tomato pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-spaghetti-sandwich",
+    "kind": "dish",
+    "label": "Spaghetti sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-st-louis-style-barbecue",
+    "kind": "dish",
+    "label": "St. Louis-style barbecue",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-st-paul-sandwich",
+    "kind": "dish",
+    "label": "St. Paul sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-tavern-sandwich",
+    "kind": "dish",
+    "label": "Tavern sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-tomato-sandwich",
+    "kind": "dish",
+    "label": "Tomato sandwich",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.675
+  },
+  {
+    "id": "dish-spaghetti-with-meatballs",
+    "kind": "dish",
+    "label": "spaghetti with meatballs",
+    "recipeCount": 1,
+    "coverageStatus": "ingredients_only",
+    "confidenceScore": 0.6745
+  },
+  {
+    "id": "dish-cooknkate-wordpress-com",
+    "kind": "dish",
+    "label": "^ Cooknkate.wordpress.com",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-john-shields-1998-chesapeake-bay-cooking-crown-publishing-group-isbn-and-160-0767900286",
+    "kind": "dish",
+    "label": "^ John Shields (1998) Chesapeake Bay Cooking , Crown Publishing Group, ISBN &#160; 0767900286 .",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jung-2010-p-and-160-197-etc-sfnp-error-no-target-citerefjung2010-help",
+    "kind": "dish",
+    "label": "^ Jung (2010) , p.&#160; 197 etc. . sfnp error: no target: CITEREFJung2010 ( help )",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sheridan-dick-15-june-1999-buffalo-meat-makes-comeback-daily-news-new-york-retrieved-25-november-2011",
+    "kind": "dish",
+    "label": "^ Sheridan, Dick (15 June 1999). \"Buffalo Meat Makes Comeback\" . Daily News . New York . Retrieved 25 November 2011 .",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-squid-lu-au-november-december-2011-afar-page-66",
+    "kind": "dish",
+    "label": "^ Squid Lu'au November/ December 2011 Afar page 66",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-weisenthal-lauren-january-19-2012-shaker-lemon-pie-serious-eats-retrieved-november-14-2015",
+    "kind": "dish",
+    "label": "^ Weisenthal, Lauren (January 19, 2012). \"Shaker Lemon Pie\" , Serious Eats. Retrieved November 14, 2015.",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-almond",
+    "kind": "dish",
+    "label": "Almond",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ambrosia",
+    "kind": "dish",
+    "label": "Ambrosia",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ancient",
+    "kind": "dish",
+    "label": "Ancient",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-angolan",
+    "kind": "dish",
+    "label": "Angolan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-anguillian",
+    "kind": "dish",
+    "label": "Anguillian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-appalachia",
+    "kind": "dish",
+    "label": "Appalachia",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-apple",
+    "kind": "dish",
+    "label": "Apple",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-argentine",
+    "kind": "dish",
+    "label": "Argentine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-arizona-cheese-crisp",
+    "kind": "dish",
+    "label": "Arizona cheese crisp",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-armenian",
+    "kind": "dish",
+    "label": "Armenian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-australian",
+    "kind": "dish",
+    "label": "Australian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-avocado",
+    "kind": "dish",
+    "label": "Avocado",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-azerbaijani",
+    "kind": "dish",
+    "label": "Azerbaijani",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bagel-dog",
+    "kind": "dish",
+    "label": "Bagel dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-baked-goods-twice-baked",
+    "kind": "dish",
+    "label": "Baked goods Twice-baked",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-banana",
+    "kind": "dish",
+    "label": "Banana",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-banana-pudding",
+    "kind": "dish",
+    "label": "Banana pudding",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bangladeshi",
+    "kind": "dish",
+    "label": "Bangladeshi",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-baozi",
+    "kind": "dish",
+    "label": "Baozi",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bean",
+    "kind": "dish",
+    "label": "Bean",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bear-claw",
+    "kind": "dish",
+    "label": "Bear claw",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beaten-biscuits",
+    "kind": "dish",
+    "label": "Beaten biscuits",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beef-manhattan",
+    "kind": "dish",
+    "label": "Beef Manhattan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beef-on-weck",
+    "kind": "dish",
+    "label": "Beef on weck",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beef-shredded-beef",
+    "kind": "dish",
+    "label": "Beef Shredded beef",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beer-brat",
+    "kind": "dish",
+    "label": "Beer brat",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beignet",
+    "kind": "dish",
+    "label": "Beignet",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bizcochito",
+    "kind": "dish",
+    "label": "Bizcochito",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-blackout-cake",
+    "kind": "dish",
+    "label": "Blackout cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-blood",
+    "kind": "dish",
+    "label": "Blood",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-blueberry-pie",
+    "kind": "dish",
+    "label": "Blueberry pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-boiled-peanuts",
+    "kind": "dish",
+    "label": "Boiled peanuts",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-booyah",
+    "kind": "dish",
+    "label": "Booyah",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-borracho-beans",
+    "kind": "dish",
+    "label": "Borracho beans",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-boston-baked-beans",
+    "kind": "dish",
+    "label": "Boston baked beans",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-boston-cream-doughnut",
+    "kind": "dish",
+    "label": "Boston cream doughnut",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-boston-cream-pie",
+    "kind": "dish",
+    "label": "Boston cream pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-boudin",
+    "kind": "dish",
+    "label": "Boudin",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bourbon-chicken",
+    "kind": "dish",
+    "label": "Bourbon chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-brand-name-snacks",
+    "kind": "dish",
+    "label": "Brand name snacks",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-brazilian",
+    "kind": "dish",
+    "label": "Brazilian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-breakfast-cereals",
+    "kind": "dish",
+    "label": "Breakfast Cereals",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-british",
+    "kind": "dish",
+    "label": "British",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-british-cornish",
+    "kind": "dish",
+    "label": "British Cornish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-broasted-chicken",
+    "kind": "dish",
+    "label": "Broasted chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-broccoli",
+    "kind": "dish",
+    "label": "Broccoli",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-brunch",
+    "kind": "dish",
+    "label": "Brunch",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-buckwheat",
+    "kind": "dish",
+    "label": "Buckwheat",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-buffalo",
+    "kind": "dish",
+    "label": "Buffalo",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-bumpy-cake",
+    "kind": "dish",
+    "label": "Bumpy Cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-buns",
+    "kind": "dish",
+    "label": "Buns",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-burgoo",
+    "kind": "dish",
+    "label": "Burgoo",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-burmese",
+    "kind": "dish",
+    "label": "Burmese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-butter-dishes",
+    "kind": "dish",
+    "label": "Butter dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-buttermilk-pie",
+    "kind": "dish",
+    "label": "Buttermilk pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cabbage",
+    "kind": "dish",
+    "label": "Cabbage",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cakes",
+    "kind": "dish",
+    "label": "Cakes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-california-california-cuisine",
+    "kind": "dish",
+    "label": "California California cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-candies",
+    "kind": "dish",
+    "label": "Candies",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-carrot",
+    "kind": "dish",
+    "label": "Carrot",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cassava",
+    "kind": "dish",
+    "label": "Cassava",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-casseroles",
+    "kind": "dish",
+    "label": "Casseroles",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-caucasian",
+    "kind": "dish",
+    "label": "Caucasian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-central-african-republic",
+    "kind": "dish",
+    "label": "Central African Republic",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chadian",
+    "kind": "dish",
+    "label": "Chadian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chantilly-cake",
+    "kind": "dish",
+    "label": "Chantilly cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cheese",
+    "kind": "dish",
+    "label": "Cheese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cheese-dishes-fondues",
+    "kind": "dish",
+    "label": "Cheese dishes Fondues",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cheese-straws",
+    "kind": "dish",
+    "label": "Cheese straws",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cheeses-brined",
+    "kind": "dish",
+    "label": "Cheeses Brined",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cherry",
+    "kind": "dish",
+    "label": "Cherry",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chess-pie",
+    "kind": "dish",
+    "label": "Chess pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicago",
+    "kind": "dish",
+    "label": "Chicago",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken",
+    "kind": "dish",
+    "label": "Chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-divan",
+    "kind": "dish",
+    "label": "Chicken Divan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-francese",
+    "kind": "dish",
+    "label": "Chicken Francese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-fried-bacon",
+    "kind": "dish",
+    "label": "Chicken fried bacon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-maryland",
+    "kind": "dish",
+    "label": "Chicken Maryland",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-mull",
+    "kind": "dish",
+    "label": "Chicken mull",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-parmesan",
+    "kind": "dish",
+    "label": "Chicken parmesan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chicken-vesuvio",
+    "kind": "dish",
+    "label": "Chicken Vesuvio",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chifa",
+    "kind": "dish",
+    "label": "Chifa",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chiffon-pie",
+    "kind": "dish",
+    "label": "Chiffon pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chimichanga",
+    "kind": "dish",
+    "label": "Chimichanga",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chinese",
+    "kind": "dish",
+    "label": "Chinese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chinese-beijing",
+    "kind": "dish",
+    "label": "Chinese Beijing",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chinese-chicken-salad",
+    "kind": "dish",
+    "label": "Chinese chicken salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chislic",
+    "kind": "dish",
+    "label": "Chislic",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chitterlings",
+    "kind": "dish",
+    "label": "Chitterlings",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chocolate-bars",
+    "kind": "dish",
+    "label": "Chocolate bars",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chocolate-covered",
+    "kind": "dish",
+    "label": "Chocolate-covered",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chopped-cheese",
+    "kind": "dish",
+    "label": "Chopped cheese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-christmas",
+    "kind": "dish",
+    "label": "Christmas",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-christmas-food",
+    "kind": "dish",
+    "label": "Christmas food",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-chutneys",
+    "kind": "dish",
+    "label": "Chutneys",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cioppino",
+    "kind": "dish",
+    "label": "Cioppino",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-clam",
+    "kind": "dish",
+    "label": "Clam",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-clam-cakes",
+    "kind": "dish",
+    "label": "Clam cakes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-clambake",
+    "kind": "dish",
+    "label": "Clambake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-clams-casino",
+    "kind": "dish",
+    "label": "Clams casino",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cobb-salad",
+    "kind": "dish",
+    "label": "Cobb salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coca-cola",
+    "kind": "dish",
+    "label": "Coca-Cola",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coconut",
+    "kind": "dish",
+    "label": "Coconut",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coconut-cake",
+    "kind": "dish",
+    "label": "Coconut cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coconut-milk",
+    "kind": "dish",
+    "label": "Coconut milk",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cod",
+    "kind": "dish",
+    "label": "Cod",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coffee",
+    "kind": "dish",
+    "label": "Coffee",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-colombian",
+    "kind": "dish",
+    "label": "Colombian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-comfort",
+    "kind": "dish",
+    "label": "Comfort",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coney",
+    "kind": "dish",
+    "label": "Coney",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-coney-island-hot-dog",
+    "kind": "dish",
+    "label": "Coney Island hot dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cookie-salad",
+    "kind": "dish",
+    "label": "Cookie salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cornbread",
+    "kind": "dish",
+    "label": "Cornbread",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-country-captain",
+    "kind": "dish",
+    "label": "Country Captain",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cowboy-beans",
+    "kind": "dish",
+    "label": "Cowboy beans",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-crab",
+    "kind": "dish",
+    "label": "Crab",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-crab-cakes",
+    "kind": "dish",
+    "label": "Crab cakes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-crab-rangoon",
+    "kind": "dish",
+    "label": "Crab Rangoon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-crackers",
+    "kind": "dish",
+    "label": "Crackers",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-crawfish-pie",
+    "kind": "dish",
+    "label": "Crawfish pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cream",
+    "kind": "dish",
+    "label": "Cream",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-creole",
+    "kind": "dish",
+    "label": "Creole",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cronut",
+    "kind": "dish",
+    "label": "Cronut",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-cuban",
+    "kind": "dish",
+    "label": "Cuban",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-culinary-revolution",
+    "kind": "dish",
+    "label": "Culinary Revolution",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-deep-fried",
+    "kind": "dish",
+    "label": "Deep fried",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-delmonico-steak",
+    "kind": "dish",
+    "label": "Delmonico steak",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-desserts-custard",
+    "kind": "dish",
+    "label": "Desserts Custard",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-deviled-crab",
+    "kind": "dish",
+    "label": "Deviled crab",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-doberge-cake",
+    "kind": "dish",
+    "label": "Doberge cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-dodger-dog",
+    "kind": "dish",
+    "label": "Dodger Dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-doughnuts",
+    "kind": "dish",
+    "label": "Doughnuts",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-dried",
+    "kind": "dish",
+    "label": "Dried",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-drinks",
+    "kind": "dish",
+    "label": "Drinks",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-duck",
+    "kind": "dish",
+    "label": "Duck",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-dumplings",
+    "kind": "dish",
+    "label": "Dumplings",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-dutch",
+    "kind": "dish",
+    "label": "Dutch",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-e",
+    "kind": "dish",
+    "label": "e",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ecuadorian",
+    "kind": "dish",
+    "label": "Ecuadorian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-egg-cream",
+    "kind": "dish",
+    "label": "Egg cream",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-egg-scrambled-eggs",
+    "kind": "dish",
+    "label": "Egg Scrambled eggs",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-eggplant",
+    "kind": "dish",
+    "label": "Eggplant",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-eggs-sardou",
+    "kind": "dish",
+    "label": "Eggs Sardou",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-egypt",
+    "kind": "dish",
+    "label": "Egypt",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-english",
+    "kind": "dish",
+    "label": "English",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fajita",
+    "kind": "dish",
+    "label": "Fajita",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fast-food",
+    "kind": "dish",
+    "label": "Fast food",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fermented-soy-products",
+    "kind": "dish",
+    "label": "Fermented Soy products",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-filipino",
+    "kind": "dish",
+    "label": "Filipino",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-finger-steaks",
+    "kind": "dish",
+    "label": "Finger steaks",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fish-boil",
+    "kind": "dish",
+    "label": "Fish boil",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fish-head",
+    "kind": "dish",
+    "label": "Fish head",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fish-sauces",
+    "kind": "dish",
+    "label": "Fish sauces",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-flatbreads",
+    "kind": "dish",
+    "label": "Flatbreads",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-florida-floribbean",
+    "kind": "dish",
+    "label": "Florida ( Floribbean )",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fluffernutter",
+    "kind": "dish",
+    "label": "Fluffernutter",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-food-pastes",
+    "kind": "dish",
+    "label": "Food pastes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-food-portal",
+    "kind": "dish",
+    "label": "Food portal",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-food-and-32-portal",
+    "kind": "dish",
+    "label": "Food&#32;portal",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fortune-cookie",
+    "kind": "dish",
+    "label": "Fortune cookie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-french",
+    "kind": "dish",
+    "label": "French",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-french-fry-accompaniments",
+    "kind": "dish",
+    "label": "French fry accompaniments",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-cheese-curds",
+    "kind": "dish",
+    "label": "Fried cheese curds",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-clams",
+    "kind": "dish",
+    "label": "Fried clams",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-dough",
+    "kind": "dish",
+    "label": "Fried dough",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-fish",
+    "kind": "dish",
+    "label": "Fried fish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-green-tomatoes",
+    "kind": "dish",
+    "label": "Fried green tomatoes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-noodle-dishes",
+    "kind": "dish",
+    "label": "Fried noodle dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-fried-okra",
+    "kind": "dish",
+    "label": "Fried okra",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-frito-pie",
+    "kind": "dish",
+    "label": "Frito pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-frogeye-salad",
+    "kind": "dish",
+    "label": "Frogeye salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-frozen-banana",
+    "kind": "dish",
+    "label": "Frozen banana",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-frybread",
+    "kind": "dish",
+    "label": "Frybread",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-funeral-potatoes",
+    "kind": "dish",
+    "label": "Funeral potatoes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-funnel-cake",
+    "kind": "dish",
+    "label": "Funnel cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-gabonese",
+    "kind": "dish",
+    "label": "Gabonese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-garbage-plate",
+    "kind": "dish",
+    "label": "Garbage Plate",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-garlic",
+    "kind": "dish",
+    "label": "Garlic",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-garnishes",
+    "kind": "dish",
+    "label": "Garnishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-german",
+    "kind": "dish",
+    "label": "German",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-glorified-rice",
+    "kind": "dish",
+    "label": "Glorified rice",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-goat",
+    "kind": "dish",
+    "label": "Goat",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-goetta",
+    "kind": "dish",
+    "label": "Goetta",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-gooey-butter-cake",
+    "kind": "dish",
+    "label": "Gooey butter cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-grandma-pizza",
+    "kind": "dish",
+    "label": "Grandma pizza",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-grape",
+    "kind": "dish",
+    "label": "Grape",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-grape-hull-pie",
+    "kind": "dish",
+    "label": "Grape hull pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-grape-pie",
+    "kind": "dish",
+    "label": "Grape pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-gravies",
+    "kind": "dish",
+    "label": "Gravies",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-greek",
+    "kind": "dish",
+    "label": "Greek",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-grillades",
+    "kind": "dish",
+    "label": "Grillades",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-grits",
+    "kind": "dish",
+    "label": "Grits",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-halal-over-rice",
+    "kind": "dish",
+    "label": "Halal over rice",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-half-smoke",
+    "kind": "dish",
+    "label": "Half-smoke",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ham-dishes",
+    "kind": "dish",
+    "label": "Ham dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ham-loaf",
+    "kind": "dish",
+    "label": "Ham loaf",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hams",
+    "kind": "dish",
+    "label": "Hams",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hangover-remedies",
+    "kind": "dish",
+    "label": "Hangover remedies",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hangtown-fry",
+    "kind": "dish",
+    "label": "Hangtown fry",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-happy-cake",
+    "kind": "dish",
+    "label": "Happy Cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-haupia",
+    "kind": "dish",
+    "label": "Haupia",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hawaii",
+    "kind": "dish",
+    "label": "Hawaii",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hawaiian-haystack",
+    "kind": "dish",
+    "label": "Hawaiian haystack",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-herring",
+    "kind": "dish",
+    "label": "Herring",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hog-jowl",
+    "kind": "dish",
+    "label": "Hog jowl",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-honey-bun",
+    "kind": "dish",
+    "label": "Honey bun",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hoppin-john",
+    "kind": "dish",
+    "label": "Hoppin' John",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hors-d-oeuvre-tapas",
+    "kind": "dish",
+    "label": "Hors d'oeuvre Tapas",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hot-brown",
+    "kind": "dish",
+    "label": "Hot brown",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hot-dogs",
+    "kind": "dish",
+    "label": "Hot dogs",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hot-milk-cake",
+    "kind": "dish",
+    "label": "Hot milk cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hot-sauces",
+    "kind": "dish",
+    "label": "Hot sauces",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hotdish",
+    "kind": "dish",
+    "label": "Hotdish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hummingbird-cake",
+    "kind": "dish",
+    "label": "Hummingbird cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hungarian-typical-hungarian-dishes",
+    "kind": "dish",
+    "label": "Hungarian Typical Hungarian dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-hushpuppy",
+    "kind": "dish",
+    "label": "Hushpuppy",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-indian",
+    "kind": "dish",
+    "label": "Indian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-indonesian",
+    "kind": "dish",
+    "label": "Indonesian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-indonesian-noodles",
+    "kind": "dish",
+    "label": "Indonesian noodles",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-instant",
+    "kind": "dish",
+    "label": "Instant",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-instant-sauces",
+    "kind": "dish",
+    "label": "Instant sauces",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-iranian",
+    "kind": "dish",
+    "label": "Iranian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-irish",
+    "kind": "dish",
+    "label": "Irish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-israeli",
+    "kind": "dish",
+    "label": "Israeli",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-italian",
+    "kind": "dish",
+    "label": "Italian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-italian-beef",
+    "kind": "dish",
+    "label": "Italian beef",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-italian-hot-dog",
+    "kind": "dish",
+    "label": "Italian hot dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-italian-ice",
+    "kind": "dish",
+    "label": "Italian ice",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-italian-sicilian",
+    "kind": "dish",
+    "label": "Italian Sicilian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-italian-soda",
+    "kind": "dish",
+    "label": "Italian soda",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jalape-o-poppers",
+    "kind": "dish",
+    "label": "Jalapeño poppers",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jamaican",
+    "kind": "dish",
+    "label": "Jamaican",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-japanese",
+    "kind": "dish",
+    "label": "Japanese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jello-salad",
+    "kind": "dish",
+    "label": "Jello salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jersey-breakfast-dog",
+    "kind": "dish",
+    "label": "Jersey breakfast dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jewish",
+    "kind": "dish",
+    "label": "Jewish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jibarito",
+    "kind": "dish",
+    "label": "Jibarito",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jo-jo-potatoes",
+    "kind": "dish",
+    "label": "Jo Jo potatoes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-johnny-marzetti",
+    "kind": "dish",
+    "label": "Johnny Marzetti",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-johnnycakes",
+    "kind": "dish",
+    "label": "Johnnycakes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jordan",
+    "kind": "dish",
+    "label": "Jordan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-jucy-lucy",
+    "kind": "dish",
+    "label": "Jucy Lucy",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-kebabs",
+    "kind": "dish",
+    "label": "Kebabs",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-kentucky",
+    "kind": "dish",
+    "label": "Kentucky",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-kentucky-jam-cake",
+    "kind": "dish",
+    "label": "Kentucky jam cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-key-lime-pie",
+    "kind": "dish",
+    "label": "Key lime pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-king-cake",
+    "kind": "dish",
+    "label": "King cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-king-ranch-chicken",
+    "kind": "dish",
+    "label": "King Ranch chicken",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-klob-sn-k",
+    "kind": "dish",
+    "label": "Klobásník",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-korean-north-korean",
+    "kind": "dish",
+    "label": "Korean North Korean",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-korean-taco",
+    "kind": "dish",
+    "label": "Korean taco",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-korean-tteok",
+    "kind": "dish",
+    "label": "Korean Tteok",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-kulolo",
+    "kind": "dish",
+    "label": "Kulolo",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lady-baltimore-cake",
+    "kind": "dish",
+    "label": "Lady Baltimore cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lamb",
+    "kind": "dish",
+    "label": "Lamb",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lane-cake",
+    "kind": "dish",
+    "label": "Lane cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-laulau",
+    "kind": "dish",
+    "label": "Laulau",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-legume-chickpea",
+    "kind": "dish",
+    "label": "Legume Chickpea",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lemon",
+    "kind": "dish",
+    "label": "Lemon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lemon-ice-box-pie",
+    "kind": "dish",
+    "label": "Lemon ice box pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lemon-stick",
+    "kind": "dish",
+    "label": "Lemon stick",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-libyan",
+    "kind": "dish",
+    "label": "Libyan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-liechtensteiner",
+    "kind": "dish",
+    "label": "Liechtensteiner",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lists-portal",
+    "kind": "dish",
+    "label": "Lists portal",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-livermush",
+    "kind": "dish",
+    "label": "Livermush",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lobster-fra-diavolo",
+    "kind": "dish",
+    "label": "Lobster Fra Diavolo",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lobster-newberg",
+    "kind": "dish",
+    "label": "Lobster Newberg",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lowcountry",
+    "kind": "dish",
+    "label": "Lowcountry",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-lowcountry-cuisine",
+    "kind": "dish",
+    "label": "Lowcountry cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-machacado-con-huevo",
+    "kind": "dish",
+    "label": "Machacado con huevo",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-made-from-maple",
+    "kind": "dish",
+    "label": "Made from maple",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-maize",
+    "kind": "dish",
+    "label": "Maize",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-malaysian",
+    "kind": "dish",
+    "label": "Malaysian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-maldivian",
+    "kind": "dish",
+    "label": "Maldivian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-maltese",
+    "kind": "dish",
+    "label": "Maltese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-manapua",
+    "kind": "dish",
+    "label": "Manapua",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mariana-islands-guam",
+    "kind": "dish",
+    "label": "Mariana Islands Guam",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-maxwell-street-polish",
+    "kind": "dish",
+    "label": "Maxwell Street Polish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-meatball",
+    "kind": "dish",
+    "label": "Meatball",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-melon",
+    "kind": "dish",
+    "label": "Melon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mexican",
+    "kind": "dish",
+    "label": "Mexican",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-michigan",
+    "kind": "dish",
+    "label": "Michigan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-michigan-hot-dog",
+    "kind": "dish",
+    "label": "Michigan hot dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-michigan-salad",
+    "kind": "dish",
+    "label": "Michigan salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mid-atlantic-new-jersey",
+    "kind": "dish",
+    "label": "Mid-Atlantic New Jersey",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-milkshake",
+    "kind": "dish",
+    "label": "Milkshake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-minnesota",
+    "kind": "dish",
+    "label": "Minnesota",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-minnesota-sushi",
+    "kind": "dish",
+    "label": "Minnesota sushi",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mississippi-mud-pie",
+    "kind": "dish",
+    "label": "Mississippi mud pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mixed-grill",
+    "kind": "dish",
+    "label": "Mixed grill",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mon-valley-red-top",
+    "kind": "dish",
+    "label": "Mon Valley Red Top",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-moravian-chicken-pie",
+    "kind": "dish",
+    "label": "Moravian chicken pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-moravian-sugar-cake",
+    "kind": "dish",
+    "label": "Moravian sugar cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mormon",
+    "kind": "dish",
+    "label": "Mormon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-moroccan",
+    "kind": "dish",
+    "label": "Moroccan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mother-in-law",
+    "kind": "dish",
+    "label": "Mother-in-law",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-mushroom",
+    "kind": "dish",
+    "label": "Mushroom",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-nachos",
+    "kind": "dish",
+    "label": "Nachos",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-national-dishes",
+    "kind": "dish",
+    "label": "National dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-native-hawaiian",
+    "kind": "dish",
+    "label": "Native Hawaiian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-needham",
+    "kind": "dish",
+    "label": "Needham",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-nepalese",
+    "kind": "dish",
+    "label": "Nepalese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-new-orleans",
+    "kind": "dish",
+    "label": "New Orleans",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-new-zealand",
+    "kind": "dish",
+    "label": "New Zealand",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-nigerian",
+    "kind": "dish",
+    "label": "Nigerian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-nigerien",
+    "kind": "dish",
+    "label": "Nigerien",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-noodles-noodle-dishes",
+    "kind": "dish",
+    "label": "Noodles Noodle dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-north-dakota",
+    "kind": "dish",
+    "label": "North Dakota",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-northern-mariana-islands",
+    "kind": "dish",
+    "label": "Northern Mariana Islands",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-norwegian",
+    "kind": "dish",
+    "label": "Norwegian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-omaha",
+    "kind": "dish",
+    "label": "Omaha",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-onion",
+    "kind": "dish",
+    "label": "Onion",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-oysters-bienville",
+    "kind": "dish",
+    "label": "Oysters Bienville",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-oysters-en-brochette",
+    "kind": "dish",
+    "label": "Oysters en brochette",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-oysters-rockefeller",
+    "kind": "dish",
+    "label": "Oysters Rockefeller",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pacific-northwestern",
+    "kind": "dish",
+    "label": "Pacific Northwestern",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pakistani",
+    "kind": "dish",
+    "label": "Pakistani",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pakistani-meat",
+    "kind": "dish",
+    "label": "Pakistani meat",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pakistani-rice",
+    "kind": "dish",
+    "label": "Pakistani rice",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pakistani-vegetable",
+    "kind": "dish",
+    "label": "Pakistani vegetable",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-palestinian",
+    "kind": "dish",
+    "label": "Palestinian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pan-de-campo",
+    "kind": "dish",
+    "label": "Pan de campo",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pancakes",
+    "kind": "dish",
+    "label": "Pancakes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-paraguayan",
+    "kind": "dish",
+    "label": "Paraguayan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pasta-pasta-dishes",
+    "kind": "dish",
+    "label": "Pasta Pasta dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pasta-primavera",
+    "kind": "dish",
+    "label": "Pasta primavera",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pastrami-on-rye",
+    "kind": "dish",
+    "label": "Pastrami on rye",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pastries",
+    "kind": "dish",
+    "label": "Pastries",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pastries-choux-pastry",
+    "kind": "dish",
+    "label": "Pastries Choux pastry",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pastry-heart",
+    "kind": "dish",
+    "label": "Pastry heart",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pasty",
+    "kind": "dish",
+    "label": "Pasty",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-peanut",
+    "kind": "dish",
+    "label": "Peanut",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pecan-pie",
+    "kind": "dish",
+    "label": "Pecan pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pennsylvania-allentown",
+    "kind": "dish",
+    "label": "Pennsylvania Allentown",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pennsylvania-dutch",
+    "kind": "dish",
+    "label": "Pennsylvania Dutch",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pepsi",
+    "kind": "dish",
+    "label": "Pepsi",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-peranakan",
+    "kind": "dish",
+    "label": "Peranakan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-peruvian",
+    "kind": "dish",
+    "label": "Peruvian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-philadelphia",
+    "kind": "dish",
+    "label": "Philadelphia",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-philadelphia-pepper-pot",
+    "kind": "dish",
+    "label": "Philadelphia Pepper Pot",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pickled-pickled-fruits",
+    "kind": "dish",
+    "label": "Pickled Pickled fruits",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pickled-pigs-feet",
+    "kind": "dish",
+    "label": "Pickled pigs' feet",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-piki",
+    "kind": "dish",
+    "label": "Piki",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pimento-cheese",
+    "kind": "dish",
+    "label": "Pimento cheese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pistolette",
+    "kind": "dish",
+    "label": "Pistolette",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pittsburgh-salad",
+    "kind": "dish",
+    "label": "Pittsburgh salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pizza-bagel",
+    "kind": "dish",
+    "label": "Pizza bagel",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pizza-puff",
+    "kind": "dish",
+    "label": "Pizza puff",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-plum",
+    "kind": "dish",
+    "label": "Plum",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-polish",
+    "kind": "dish",
+    "label": "Polish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-polish-boy",
+    "kind": "dish",
+    "label": "Polish Boy",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-poppy-seed",
+    "kind": "dish",
+    "label": "Poppy seed",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pork-bacon",
+    "kind": "dish",
+    "label": "Pork Bacon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pork-steak",
+    "kind": "dish",
+    "label": "Pork steak",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-porridges",
+    "kind": "dish",
+    "label": "Porridges",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-portuguese",
+    "kind": "dish",
+    "label": "Portuguese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-potato-french-fry",
+    "kind": "dish",
+    "label": "Potato French fry",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-potatoes-o-brien",
+    "kind": "dish",
+    "label": "Potatoes O'Brien",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-pudding-corn",
+    "kind": "dish",
+    "label": "Pudding corn",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-puddings",
+    "kind": "dish",
+    "label": "Puddings",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-puddings-savoury",
+    "kind": "dish",
+    "label": "Puddings (savoury)",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-puerto-rican-cuisine",
+    "kind": "dish",
+    "label": "Puerto Rican cuisine",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-puerto-rico",
+    "kind": "dish",
+    "label": "Puerto Rico",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-raw-fish",
+    "kind": "dish",
+    "label": "Raw fish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-regional-beverages",
+    "kind": "dish",
+    "label": "Regional beverages",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-regional-dishes",
+    "kind": "dish",
+    "label": "Regional dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-relishes",
+    "kind": "dish",
+    "label": "Relishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rice-cakes",
+    "kind": "dish",
+    "label": "Rice cakes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rice-pudding",
+    "kind": "dish",
+    "label": "Rice pudding",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ripper",
+    "kind": "dish",
+    "label": "Ripper",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-roast-pork-italian",
+    "kind": "dish",
+    "label": "Roast pork Italian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-roasted-chestnuts",
+    "kind": "dish",
+    "label": "Roasted chestnuts",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rocky-mountain",
+    "kind": "dish",
+    "label": "Rocky Mountain",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rocky-mountain-oysters",
+    "kind": "dish",
+    "label": "Rocky Mountain oysters",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rolled",
+    "kind": "dish",
+    "label": "Rolled",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rolled-oyster",
+    "kind": "dish",
+    "label": "Rolled oyster",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-rolls",
+    "kind": "dish",
+    "label": "Rolls",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-romanian",
+    "kind": "dish",
+    "label": "Romanian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-root-beer",
+    "kind": "dish",
+    "label": "Root beer",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-runza",
+    "kind": "dish",
+    "label": "Runza",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-russian",
+    "kind": "dish",
+    "label": "Russian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-salads-arab",
+    "kind": "dish",
+    "label": "Salads Arab",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-salmon",
+    "kind": "dish",
+    "label": "Salmon",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-salt-water-taffy",
+    "kind": "dish",
+    "label": "Salt water taffy",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sauces-dessert-sauces",
+    "kind": "dish",
+    "label": "Sauces Dessert sauces",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-schnitz-un-knepp",
+    "kind": "dish",
+    "label": "Schnitz un knepp",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-scottish",
+    "kind": "dish",
+    "label": "Scottish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-scrapple",
+    "kind": "dish",
+    "label": "Scrapple",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sesame-seed",
+    "kind": "dish",
+    "label": "Sesame seed",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-seychelles",
+    "kind": "dish",
+    "label": "Seychelles",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shaker-lemon-pie",
+    "kind": "dish",
+    "label": "Shaker lemon pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shirley-temple",
+    "kind": "dish",
+    "label": "Shirley Temple",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shoofly-pie",
+    "kind": "dish",
+    "label": "Shoofly pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shortbread",
+    "kind": "dish",
+    "label": "Shortbread",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shrimp",
+    "kind": "dish",
+    "label": "Shrimp",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shrimp-dejonghe",
+    "kind": "dish",
+    "label": "Shrimp DeJonghe",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-shrimp-louie",
+    "kind": "dish",
+    "label": "Shrimp Louie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sichuan",
+    "kind": "dish",
+    "label": "Sichuan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-singaporean",
+    "kind": "dish",
+    "label": "Singaporean",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-slinger",
+    "kind": "dish",
+    "label": "Slinger",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-slopper",
+    "kind": "dish",
+    "label": "Slopper",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-smith-island-cake",
+    "kind": "dish",
+    "label": "Smith Island cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-snack-foods-by-country-indian",
+    "kind": "dish",
+    "label": "Snack foods by country Indian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-snickerdoodle",
+    "kind": "dish",
+    "label": "Snickerdoodle",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-snickers-salad",
+    "kind": "dish",
+    "label": "Snickers salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-society-portal",
+    "kind": "dish",
+    "label": "Society portal",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sonoran-hot-dog",
+    "kind": "dish",
+    "label": "Sonoran hot dog",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-soul",
+    "kind": "dish",
+    "label": "Soul",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sourdough-breads",
+    "kind": "dish",
+    "label": "Sourdough breads",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-southwestern-new-mexican",
+    "kind": "dish",
+    "label": "Southwestern New Mexican",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-soy-based",
+    "kind": "dish",
+    "label": "Soy-based",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-spanish",
+    "kind": "dish",
+    "label": "Spanish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-spiedie",
+    "kind": "dish",
+    "label": "Spiedie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-spit-roasted",
+    "kind": "dish",
+    "label": "Spit-roasted",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-spoonbread",
+    "kind": "dish",
+    "label": "Spoonbread",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-spreads",
+    "kind": "dish",
+    "label": "Spreads",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-squid-l-au",
+    "kind": "dish",
+    "label": "Squid lū'au",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sri-lankan",
+    "kind": "dish",
+    "label": "Sri Lankan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-st-louis",
+    "kind": "dish",
+    "label": "St. Louis",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-stack-cake",
+    "kind": "dish",
+    "label": "Stack cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-steak",
+    "kind": "dish",
+    "label": "Steak",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-steak-diane",
+    "kind": "dish",
+    "label": "Steak Diane",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-steamed",
+    "kind": "dish",
+    "label": "Steamed",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-steamed-clams",
+    "kind": "dish",
+    "label": "Steamed clams",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-strawberry",
+    "kind": "dish",
+    "label": "Strawberry",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-strawberry-delight",
+    "kind": "dish",
+    "label": "Strawberry delight",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-strawberry-rhubarb-pie",
+    "kind": "dish",
+    "label": "Strawberry rhubarb pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-street",
+    "kind": "dish",
+    "label": "Street",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-stromboli",
+    "kind": "dish",
+    "label": "Stromboli",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-stuffed-dishes",
+    "kind": "dish",
+    "label": "Stuffed dishes",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-stuffies",
+    "kind": "dish",
+    "label": "Stuffies",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-succotash",
+    "kind": "dish",
+    "label": "Succotash",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sugar-cream-pie",
+    "kind": "dish",
+    "label": "Sugar cream pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sugar-on-snow",
+    "kind": "dish",
+    "label": "Sugar on snow",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sweet-breads",
+    "kind": "dish",
+    "label": "Sweet breads",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sweet-potato",
+    "kind": "dish",
+    "label": "Sweet potato",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sweet-potato-pie",
+    "kind": "dish",
+    "label": "Sweet potato pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-sweet-tea",
+    "kind": "dish",
+    "label": "Sweet tea",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-swiss",
+    "kind": "dish",
+    "label": "Swiss",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-syrian",
+    "kind": "dish",
+    "label": "Syrian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-syrups",
+    "kind": "dish",
+    "label": "Syrups",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-t",
+    "kind": "dish",
+    "label": "t",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-taco-salad",
+    "kind": "dish",
+    "label": "Taco salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-taiwanese",
+    "kind": "dish",
+    "label": "Taiwanese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tejano",
+    "kind": "dish",
+    "label": "Tejano",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-thai",
+    "kind": "dish",
+    "label": "Thai",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-thanksgiving-dinner",
+    "kind": "dish",
+    "label": "Thanksgiving dinner",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tibetan",
+    "kind": "dish",
+    "label": "Tibetan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tipsy-cake",
+    "kind": "dish",
+    "label": "Tipsy cake",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tlingit",
+    "kind": "dish",
+    "label": "Tlingit",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-toast",
+    "kind": "dish",
+    "label": "Toast",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tofu",
+    "kind": "dish",
+    "label": "Tofu",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-togolese",
+    "kind": "dish",
+    "label": "Togolese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-toll-house-cookie",
+    "kind": "dish",
+    "label": "Toll House cookie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tomato",
+    "kind": "dish",
+    "label": "Tomato",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tomato-pie",
+    "kind": "dish",
+    "label": "Tomato pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tortilla-based",
+    "kind": "dish",
+    "label": "Tortilla-based",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-traditional",
+    "kind": "dish",
+    "label": "Traditional",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-traditional-food",
+    "kind": "dish",
+    "label": "Traditional food",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tuna",
+    "kind": "dish",
+    "label": "Tuna",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tuna-tartare",
+    "kind": "dish",
+    "label": "Tuna tartare",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-tunisian",
+    "kind": "dish",
+    "label": "Tunisian",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-turkey-devonshire",
+    "kind": "dish",
+    "label": "Turkey Devonshire",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-turkish",
+    "kind": "dish",
+    "label": "Turkish",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-ukrainian-crimean-tatar",
+    "kind": "dish",
+    "label": "Ukrainian Crimean Tatar",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-utica-greens",
+    "kind": "dish",
+    "label": "Utica greens",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-uzbek",
+    "kind": "dish",
+    "label": "Uzbek",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-v",
+    "kind": "dish",
+    "label": "v",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-veal",
+    "kind": "dish",
+    "label": "Veal",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-vegetable",
+    "kind": "dish",
+    "label": "Vegetable",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-venezuelan",
+    "kind": "dish",
+    "label": "Venezuelan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-vichyssoise",
+    "kind": "dish",
+    "label": "Vichyssoise",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-vietnamese",
+    "kind": "dish",
+    "label": "Vietnamese",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-vietnamese-noodles",
+    "kind": "dish",
+    "label": "Vietnamese noodles",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-vietnamese-specialities",
+    "kind": "dish",
+    "label": "Vietnamese specialities",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-virgin-islands",
+    "kind": "dish",
+    "label": "Virgin Islands",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-watergate-salad",
+    "kind": "dish",
+    "label": "Watergate salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-western-saharan",
+    "kind": "dish",
+    "label": "Western Saharan",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-white-hot",
+    "kind": "dish",
+    "label": "White hot",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-whitefish-salad",
+    "kind": "dish",
+    "label": "Whitefish salad",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-whoopie-pie",
+    "kind": "dish",
+    "label": "Whoopie pie",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-wisconsin",
+    "kind": "dish",
+    "label": "Wisconsin",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-yaka-mein",
+    "kind": "dish",
+    "label": "Yaka mein",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-yogurt-based",
+    "kind": "dish",
+    "label": "Yogurt-based",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6725
+  },
+  {
+    "id": "dish-beef-and-broccoli",
+    "kind": "dish",
+    "label": "beef and broccoli",
+    "recipeCount": 1,
+    "coverageStatus": "has_recipe",
+    "confidenceScore": 0.6005
+  }
+]

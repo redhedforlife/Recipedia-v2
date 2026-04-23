@@ -1,0 +1,18 @@
+[
+  {
+    "dish": "Club Sandwich",
+    "aliases": ["Turkey Club", "Classic Club Sandwich", "Diner Club Sandwich"]
+  },
+  {
+    "dish": "BLT",
+    "aliases": ["BLT Sandwich", "Bacon Lettuce Tomato"]
+  },
+  {
+    "dish": "Philly Cheesesteak",
+    "aliases": ["Cheesesteak", "Philadelphia Cheesesteak"]
+  },
+  {
+    "dish": "Chili",
+    "aliases": ["Chili Con Carne", "Texas Chili"]
+  }
+]
